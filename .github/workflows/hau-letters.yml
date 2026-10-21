@@ -1,0 +1,77 @@
+name: HAU letters
+
+# Checks HCD's Technical Assistance and Enforcement Letters Dashboard for new letters,
+# downloads any new PDFs as text, updates the indexes, commits the changes and opens an issue
+# listing what's new. Change the schedule below; it is in UTC.
+on:
+  schedule:
+    - cron: "23 15 * * 1"   # Mondays 15:23 UTC (8:23 am Pacific in summer, 7:23 am in winter)
+  workflow_dispatch: {}      # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write   # commit the updated letters
+  issues: write     # open an issue when there are new letters
+
+concurrency:
+  group: hau-letters
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      OPEN_ISSUE: "true"     # set to "false" to skip the "new letters" issue
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Keep last run's table for comparison
+        run: cp hau/hau_letters.csv "$RUNNER_TEMP/previous.csv" 2>/dev/null || touch "$RUNNER_TEMP/previous.csv"
+
+      - name: Pull the dashboard
+        run: bash hau/run_all.sh
+
+      - name: Compare with last run
+        id: compare
+        run: |
+          python3 scripts/compare_runs.py "$RUNNER_TEMP/previous.csv" hau/hau_letters.csv hau/CHANGES.md | tee "$RUNNER_TEMP/compare.txt"
+          tail -1 "$RUNNER_TEMP/compare.txt" | tr ' ' '\n' >> "$GITHUB_OUTPUT"
+
+      - name: Download new letters as text
+        working-directory: hau
+        run: python3 extract_letters.py
+
+      - name: Build indexes
+        run: python3 scripts/build_index.py hau
+
+      - name: Summary
+        run: cat hau/CHANGES.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A hau
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -q -m "HAU letters: ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted ($(date -u +%F))"
+            git pull --rebase -q
+            git push
+          fi
+
+      - name: Open an issue for new letters
+        if: env.OPEN_ISSUE == 'true' && (steps.compare.outputs.new != '0' || steps.compare.outputs.newly_posted != '0')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "HAU letters $(date -u +%F): ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted" \
+            --body-file hau/CHANGES.md

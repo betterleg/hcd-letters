@@ -1,0 +1,14 @@
+hau/*_raw.json
+hau/*_captures.json
+hau/run.log
+hau/node_modules/
+hau/package*.json
+__pycache__/
+*.tmp
+he_letters/*_raw.json
+he_letters/*_captures.json
+he_letters/letters_parsed.json
+he_letters/letters_linked.json
+he_letters/run.log
+he_letters/node_modules/
+he_letters/package*.json

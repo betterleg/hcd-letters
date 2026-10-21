@@ -1,0 +1,116 @@
+{
+  "report": "HCD HAU letters dashboard - Statute values per letter (filter-only field)",
+  "report_url": "https://app.powerbigov.us/view?r=eyJrIjoiMDQ5YzI3YzQtNzBhYS00NWMwLThlYmQtNWEyMjRkNGI0NGVkIiwidCI6IjJiODI4NjQ2LWIwMzctNGZlNy04NDE1LWU5MzVjZDM0Y2Y5NiJ9",
+  "captured": "2026-10-20",
+  "url": "https://wabi-us-gov-iowa-api.analysis.usgovcloudapi.net/public/reports/querydata?synchronous=true",
+  "resourceKey": "049c27c4-70aa-45c0-8ebd-5a224d4b44ed",
+  "labels": [
+    "Task",
+    "statute"
+  ],
+  "body": {
+    "version": "1.0.0",
+    "queries": [
+      {
+        "Query": {
+          "Commands": [
+            {
+              "SemanticQueryDataShapeCommand": {
+                "Query": {
+                  "Version": 2,
+                  "From": [
+                    {
+                      "Name": "q",
+                      "Entity": "Source",
+                      "Type": 0
+                    },
+                    {
+                      "Name": "s",
+                      "Entity": "Statute",
+                      "Type": 0
+                    }
+                  ],
+                  "Select": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "q"
+                          }
+                        },
+                        "Property": "task_effective_number_display_value"
+                      },
+                      "Name": "Source.task_effective_number_display_value",
+                      "NativeReferenceName": "Task"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Value"
+                      },
+                      "Name": "Statute.Value",
+                      "NativeReferenceName": "statute"
+                    }
+                  ],
+                  "OrderBy": [
+                    {
+                      "Direction": 1,
+                      "Expression": {
+                        "Column": {
+                          "Expression": {
+                            "SourceRef": {
+                              "Source": "q"
+                            }
+                          },
+                          "Property": "task_effective_number_display_value"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "Binding": {
+                  "Primary": {
+                    "Groupings": [
+                      {
+                        "Projections": [
+                          0,
+                          1
+                        ]
+                      }
+                    ]
+                  },
+                  "DataReduction": {
+                    "DataVolume": 3,
+                    "Primary": {
+                      "Window": {
+                        "Count": 500
+                      }
+                    }
+                  },
+                  "Version": 1
+                },
+                "ExecutionMetricsKind": 1
+              }
+            }
+          ]
+        },
+        "QueryId": "",
+        "ApplicationContext": {
+          "DatasetId": "5b74754d-30f9-4464-b563-44ee27833da2",
+          "Sources": [
+            {
+              "ReportId": "9e9a5bb8-4b72-425c-a5ff-8873837b17b1",
+              "VisualId": "46ecd37e5167ace6cd66"
+            }
+          ]
+        }
+      }
+    ],
+    "cancelQueries": [],
+    "modelId": 971938
+  }
+}

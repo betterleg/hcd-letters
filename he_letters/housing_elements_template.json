@@ -1,0 +1,220 @@
+{
+  "report": "HCD Housing Element Download Tool - page 1 housing element documents table (keeps the report's built-in 'has a document' filter)",
+  "report_url": "https://app.powerbigov.us/view?r=eyJrIjoiM2MxM2E3YTQtZmYzMC00MWJkLWE5MzEtNGI1NDRiNGQyMTczIiwidCI6IjJiODI4NjQ2LWIwMzctNGZlNy04NDE1LWU5MzVjZDM0Y2Y5NiJ9",
+  "captured": "2026-10-20",
+  "url": "https://wabi-us-gov-iowa-api.analysis.usgovcloudapi.net/public/reports/querydata?synchronous=true",
+  "resourceKey": "3c13a7a4-ff30-41bd-a931-4b544b4d2173",
+  "labels": [
+    "county",
+    "jurisdiction",
+    "planning_period",
+    "received_date",
+    "type",
+    "link_text",
+    "pdf_url"
+  ],
+  "body": {
+    "version": "1.0.0",
+    "queries": [
+      {
+        "Query": {
+          "Commands": [
+            {
+              "SemanticQueryDataShapeCommand": {
+                "Query": {
+                  "Version": 2,
+                  "From": [
+                    {
+                      "Name": "h",
+                      "Entity": "housing element mapping (2)",
+                      "Type": 0
+                    },
+                    {
+                      "Name": "h1",
+                      "Entity": "housing-elements-docs",
+                      "Type": 0
+                    }
+                  ],
+                  "Select": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "h"
+                          }
+                        },
+                        "Property": "County"
+                      },
+                      "Name": "housing element mapping (2).county"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "h"
+                          }
+                        },
+                        "Property": "Jurisdiction"
+                      },
+                      "Name": "housing element mapping (2).jurisdiction"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "h"
+                          }
+                        },
+                        "Property": "Planning Period"
+                      },
+                      "Name": "housing element mapping (2).planning_period"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "h"
+                          }
+                        },
+                        "Property": "Received Date"
+                      },
+                      "Name": "housing element mapping (2).received date"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "h"
+                          }
+                        },
+                        "Property": "type"
+                      },
+                      "Name": "housing element mapping (2).type"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "h"
+                          }
+                        },
+                        "Property": "LinkText"
+                      },
+                      "Name": "housing element mapping (2).LinkText"
+                    },
+                    {
+                      "Aggregation": {
+                        "Expression": {
+                          "Column": {
+                            "Expression": {
+                              "SourceRef": {
+                                "Source": "h"
+                              }
+                            },
+                            "Property": "View Link"
+                          }
+                        },
+                        "Function": 3
+                      },
+                      "Name": "Min(housing element mapping (2).View Link)"
+                    }
+                  ],
+                  "Where": [
+                    {
+                      "Condition": {
+                        "Not": {
+                          "Expression": {
+                            "In": {
+                              "Expressions": [
+                                {
+                                  "Column": {
+                                    "Expression": {
+                                      "SourceRef": {
+                                        "Source": "h1"
+                                      }
+                                    },
+                                    "Property": "Column1 - Copy"
+                                  }
+                                }
+                              ],
+                              "Values": [
+                                [
+                                  {
+                                    "Literal": {
+                                      "Value": "null"
+                                    }
+                                  }
+                                ]
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ],
+                  "OrderBy": [
+                    {
+                      "Direction": 1,
+                      "Expression": {
+                        "Column": {
+                          "Expression": {
+                            "SourceRef": {
+                              "Source": "h"
+                            }
+                          },
+                          "Property": "Jurisdiction"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "Binding": {
+                  "Primary": {
+                    "Groupings": [
+                      {
+                        "Projections": [
+                          0,
+                          1,
+                          2,
+                          3,
+                          4,
+                          5,
+                          6
+                        ]
+                      }
+                    ]
+                  },
+                  "DataReduction": {
+                    "DataVolume": 3,
+                    "Primary": {
+                      "Window": {
+                        "Count": 500
+                      }
+                    }
+                  },
+                  "SuppressedJoinPredicates": [
+                    6
+                  ],
+                  "Version": 1
+                },
+                "ExecutionMetricsKind": 1
+              }
+            }
+          ]
+        },
+        "QueryId": "",
+        "ApplicationContext": {
+          "DatasetId": "cb0f4ae0-c81e-47a9-8124-52d11b10e3e0",
+          "Sources": [
+            {
+              "ReportId": "19b5890b-9223-4e6a-ae96-2df7631b3f8c",
+              "VisualId": "d84782124001a62ecd43"
+            }
+          ]
+        }
+      }
+    ],
+    "cancelQueries": [],
+    "modelId": 770729
+  }
+}
