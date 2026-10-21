@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "San Bruno",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-03-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/smaSanBrunoAdoptedOUT032923.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/smaSanBrunoAdoptedOUT032923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 293517,
+  "text_chars": 30409,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Santa Barbara",
+  "jurisdiction": "Goleta",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2022-09-27",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SbbGoletaDraftOut092722.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SbbGoletaDraftOut092722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 243536,
+  "text_chars": 33719,
+  "text_empty": false
+}

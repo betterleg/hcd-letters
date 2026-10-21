@@ -1,0 +1,765 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 29, 2021
+
+
+
+         Jason Kruckeberg, Director
+         Department of Development Services
+         City of Arcadia
+         240 West Huntington Dr.
+         P.O. Box 60021
+         Arcadia, CA 91066
+
+         Dear Jason Kruckeberg:
+
+         RE: City of Arcadia’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Arcadia’s (City) draft housing element received for
+         review on October 1, 2021, along with revisions received on November 15, 2021. Pursuant
+         to Government Code section 65585, subdivision (b), the California Department of Housing
+         and Community Development (HCD) is reporting the results of its review. Our review was
+         facilitated by a conversation on November 4, 2021 with you, Stephanie Ellsworth, Lisa
+         Flores, Dave Barquist, Matt Horton and Molly Mendoza.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government Code
+         section 65585, subdivision (i).
+Jason Kruckeberg, Director
+Page 2
+
+
+
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates your diligent efforts and responsiveness provided during the review.
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Jamillah Williams, of our staff, at Jamillah.Williams@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                       CITY OF ARCADIA
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      As part of the evaluation of programs in the past cycle, the element must provide an
+      explanation of the effectiveness of goals, policies, and related actions in meeting the
+      housing needs of special needs populations (e.g., elderly, persons with disabilities, large
+      households, female headed households, farmworkers, and persons experiencing
+      homelessness).
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+         the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+          The element includes the Assessment of Fair Housing (AFH); however, additional
+          information is necessary to address the requisite affirmatively furthering fair housing
+          (AFFH) analysis requirement, including local contributing factors to the fair housing
+          issues and develop strong programs and strategies to address the identified fair
+          housing issues. Specifically, the element provides data regarding the patterns of
+          various socio-economic characteristics across components of the required analysis
+          (e.g., segregation and integration, racially and ethnically concentrated areas of poverty
+          and affluence, access to opportunity, displacement); however, the element should also
+          analyze trends for potential fair housing problems specific to Arcadia. In addition, the
+          following analysis is required:
+
+          Fair Housing Enforcement and Outreach: The element must address the ability to
+          provide enforcement and outreach capacity which can consist of actions such as ability
+          to investigate complaints, obtain remedies, or the ability to engage in fair housing
+          testing. The analysis must also describe compliance with existing fair housing laws and
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                 Page 3
+November 29, 2021
+          regulations and include information on fair housing outreach capacity. Furthermore, the
+          revisions should address:
+
+             •   Degree of outreach to all sectors of the community.
+             •   Ongoing outreach and public participation throughout the planning period.
+             •   Indicate any findings, lawsuits or enforcement actions taken.
+             •   Describe how many fair housing complaints the City has received over the past
+                 few years.
+
+          Integration and Segregation: While the element includes some data on integration and
+          segregation (p. 3-46), the element must include a local and regional analysis of
+          patterns and trends. While the element utilizes the dissimilarity index to describe
+          integration and segregation on race, the element should include local knowledge
+          regarding racial segregation. Local knowledge or additional data sources are important
+          because while the dissimilarity index measures integration in comparison to white
+          residents, the majority of the City’s population are Asian. Furthermore, the element
+          should describe any local knowledge, a comparison of northern and southern blocks
+          groups that demonstrated income disparities, and a regional analysis for income
+          describing similar concentrations and trends of poverty in surrounding areas. The
+          element must also analyze local and regional patterns and trends of segregation and
+          integration based on familial status and persons with disabilities and conclude with a
+          summary of issues.
+
+          Racial/Ethnic Concentrated Areas of Affluence (RCAA): While the element includes
+          data relative to RCAA, it should also include an analysis of local and regional
+          patterns and trends. Because the City as a whole is considered a “highest resource
+          area” (p. 3-58), the analysis should emphasize the regional perspective, evaluating
+          the patterns and changes over time and considering other relevant factors, such as
+          public participation, past policies, practices, and investments and demographic
+          trends.
+
+          Disparities in Access to Opportunity: The element provides some information on the access
+          to opportunity (Table 3-13 on page 3-56) but it must also provide a complete local and
+          regional analysis of patterns and trends for all components. A comprehensive analysis
+          should include the local and regional disparities of the educational, environmental, and
+          economic scores through local, federal, and/or state data; and provide a description of
+          education, environment, and employment. It should also include analyses for persons with
+          disabilities as well as access to transit. Please refer to page 35 of the AFFH guidebook
+          (link: https://www.hcd.ca.gov/community-development/affh/index.shtml#guidance) for
+          specific factors that should be considered when analyzing access to opportunities as it
+          pertains to educational, employment, environmental, transportation, and any factors that
+          are unique to Arcadia.
+
+          Disproportionate Housing Needs including Displacement Risk: While the element
+          includes some data on overcrowded households, cost burden, and displacement, it
+          must also include data and analysis of substandard housing conditions and
+          homelessness. Additionally, the element must provide a local and regional analysis for
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                               Page 4
+November 29, 2021
+          all disproportionate housing needs and analyze the data including looking at patterns,
+          trends, other local knowledge, and conclude with a summary of fair housing issues.
+
+          Contributing Factors: While the element lists two contributing factors (p. 3-43), it must
+          prioritize contributing factors to fair housing issues based on the analysis.
+
+          Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+          overcome contributing factors to fair housing issues. Currently, the element identifies
+          Programs 5-25 (Fair Housing) and 5-26 (Fair Housing Assistance) to encourage and
+          promote affordable housing; however, most of these programs do not appear to
+          facilitate any meaningful change nor address AFFH requirements. Given that most of
+          the City is considered a high resource community, the element could focus on
+          programs that enhance housing mobility and encourage development of more housing
+          choices and affordable housing. Programs also should be based on identified
+          contributing factors, be significant and meaningful. The element must add, and revise
+          programs based on a complete analysis and listing and prioritization of contributing
+          factors to fair housing issues. Furthermore, the element must include metrics and
+          milestones for evaluating progress on programs, actions, and fair housing results. For
+          more information, please see HCD’s guidance at https://www.hcd.ca.gov/community-
+          development/affh/index.shtm.
+
+      2. Include an analysis of population and employment trends and documentation of
+         projections and a quantification of the locality's existing and projected needs for all
+         income levels, including extremely low-income households. (Gov. Code, § 65583,
+         subd. (a)(1).)
+
+          While the element quantifies the existing housing needs of extremely low-income (ELI)
+          households, it must still quantify projected ELI housing needs. The projected housing
+          need for ELI households can be calculated by using available census data to
+          determine the number of very low-income households that qualify as ELI households
+          or presume that 50 percent of very low-income households qualify as ELI households.
+
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          The City has a regional housing need allocation (RHNA) of 3,214 housing units, of
+          which 1,672 are for lower-income households. To address this need, the element
+          relies on vacant and nonvacant sites, including sites in Specific Plan Areas and within
+          the Mixed-Use Overlay areas. To demonstrate the adequacy of these sites and
+          strategies to accommodate the City’s RHNA, the element must include complete
+          analyses:
+
+          Arcadia Golf Course: On page A-25, the element indicated that the City owns the
+          Arcadia Par 3 Golf Course and is currently exploring potential future sale of the
+          property and/or redevelopment of the site and has spoken with developers regarding
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                   Page 5
+November 29, 2021
+          the development of affordable housing on the site. The element must address current
+          and potential general plan designations, allowable densities, support for residential
+          capacity assumptions, existing uses and any known conditions that preclude
+          development in the planning period and the potential schedule for development. As
+          the zoning does not currently allow residential uses at appropriate densities, then the
+          element must include programs to rezone sites pursuant to Government Code section
+          65583.2, subdivisions (h) and (i). In addition, the element must include a description of
+          whether there are any plans to sell the property during the planning period and how
+          the jurisdiction will comply with the Surplus Land Act Article 8 (commencing with
+          Section 54220) of Chapter 5 of Part 1 of Division 2 of Title 5.
+
+          Realistic Capacity: The element states that it assumes an 80 percent buildout to
+          determine capacity based on buildable acreage. However, the analysis must also
+          support this estimate based on typical densities of existing or approved residential
+          developments at a similar affordability level. In addition, while the element provided
+          some overlay and mixed-use development examples to support the 80 percent
+          buildout assumption, the element must indicate whether the calculations included
+          density bonus units.
+
+          The element must also consider the calculation for sites that allow nonresidential uses
+          (e.g., mixed-use) based on the likelihood of nonresidential development, performance
+          standards, development trends supporting residential development, and any existing
+          or planned policies, programs, or local guidance or efforts promoting residential
+          development in nonresidential zones. The element must clarify whether 100 percent
+          residential is allowed in commercial and mixed-use zones as well as whether
+          residential uses are allowed by-right in the Downtown Mixed-Use expansion and
+          overlay; the Mixed-Use upzone; and the CG overlay. In addition, on page A-17, the
+          element indicated that with the implementation of the overlay, 100 percent residential
+          would be allowed by-right in the Live Oak Corridor except in Las Tunas. The element
+          should analyze the impact of this standard on the City’s realistic capacity and revise
+          the calculation as necessary.
+
+          Suitability of Nonvacant Sites: The element must include an analysis demonstrating
+          the potential for redevelopment of nonvacant sites. To address this requirement, the
+          element describes in general the existing use of each nonvacant site for example
+          “multifamily housing” or religious structure”. In addition, small nonvacant sites
+          descriptions are limited to “Small Sites Strategy,” which is not adequate to
+          demonstrate the potential for redevelopment in the planning period. The element
+          should describe the existing use and the existing units on all sites in the inventory. The
+          description of existing uses should be sufficiently detailed to facilitate an analysis
+          demonstrating the potential for additional development in the planning period. In
+          addition, the element should analyze the extent that existing uses may impede
+          additional residential development. For example, the element can summarize past
+          experiences converting existing uses to higher density residential development,
+          include current market demand for the existing use, provide analysis of existing leases
+          or contracts that would perpetuate the existing use or prevent additional residential
+          development and include current information on development trends and market
+          conditions in the City and relate those trends to the sites identified. The element could
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                  Page 6
+November 29, 2021
+          also consider indicators such as age and condition of the existing structure, expressed
+          developer interest, low improvement to land value ratio, and other factors. Many
+          identified sites have existing multifamily housing or townhouses, given the fact that the
+          element estimates a low number of units needing substantial rehabilitation, the
+          element must identify the likelihood that the existing use will be terminated during the
+          planning period.
+
+          In addition, if the housing element relies upon nonvacant sites to accommodate more
+          than 50 percent of the RHNA for lower-income households, the housing element must
+          demonstrate that the existing use is not an impediment to additional residential
+          development in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) This can be
+          demonstrated by providing substantial evidence that the existing use is likely to be
+          discontinued during the planning period. (Gov. Code, § 65583.2, subd. (g)(2).)
+
+          Small Sites: The inventory lists 441 lower-income units on smaller sites. Sites smaller
+          than a half-acre in size are deemed inadequate to accommodate housing for lower-
+          income housing unless it is demonstrated that sites of equivalent size and affordability
+          were successfully developed during the prior planning period or unless the element
+          describes other evidence to HCD that the site is adequate to accommodate lower-
+          income housing. (Gov. Code, § 65583.2, subd. (c)(2)(A).) While the element includes
+          examples of small site development; it does not relate these examples to the
+          affordability of these projects. To strengthen the existing analysis, the history of small
+          site development example should describe trends specific to the development of
+          housing affordable to lower-income households.
+
+          Previously Identified Nonvacant and Vacant Sites: While the sites inventory identifies
+          whether most sites were identified in the previous housing element cycle, sites 451,
+          456-457, 462, 466-467, did not indicate if they were identified in the 5th cycle. For any
+          vacant sites, the element should also indicate if sites were identified in the 4th cycle.
+
+          Accessory Dwelling Units (ADU): The element assumes an ADU build out of 26 ADU
+          and/or junior accessory dwelling unit (JADU) per year based upon doubling the
+          average assumption over the past few years. Given that the City has only produced an
+          average of 12 units per year since 2018, it is not clear if this production level will be
+          achievable in the planning period. As a result, the element should be updated to
+          include a realistic estimate of the potential for ADUs and include policies and
+          programs that incentivize the production of ADUs. Depending on the analysis, the
+          element must commit to monitor ADU production throughout the course of the
+          planning period and implement additional actions if not meeting target numbers
+          anticipated in the housing element. In addition to monitoring production, this program
+          should also monitor affordability. Additional actions, if necessary, should be taken in a
+          timely manner (e.g., within six months). Finally, if necessary, the degree of additional
+          actions should be in stride with the degree of the gap in production and affordability.
+          For example, if actual production and affordability of ADUs is far from anticipated
+          trends, then rezoning or something similar would be an appropriate action. If actual
+          production and affordability is near anticipated trends, then measures like outreach
+          and marketing might be more appropriate.
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                   Page 7
+November 29, 2021
+          Environmental Constraints: While the element describes environmental conditions
+          within the City (p. 3-40), it must describe any mitigation measures being taken to
+          address those constraints within the City that could impact housing development in the
+          planning period. (Gov. Code, § 65583.2, subd. (b).)
+
+          Zoning for a Variety of Housing Types:
+
+             •   Emergency Shelters: While the element states that emergency shelters are
+                 permitted in the M-1 industrial zone, it must clarify whether emergency shelters
+                 are allowed as a permitted use without a conditional use or other discretionary
+                 permit. The identified zone(s) must demonstrate the M-1 zone has sufficient
+                 capacity to accommodate the identified need for shelters or for at least one
+                 emergency shelter, whichever is greater. (Gov. Code, § 65583, subd. (a)(4).)
+                 The housing element must also demonstrate the permit processing,
+                 development, and management standards for emergency shelters are objective
+                 and encourage and facilitate the development of, or conversion to, emergency
+                 shelters. In addition, emergency shelters must only be subject to the same
+                 development and management standards applicable to residential or
+                 commercial development within the same zone except for those standards
+                 prescribed by statute.
+
+             •   Transitional and Supportive Housing: Transitional and supportive housing
+                 require a use permit in zones where single family homes are permitted by right.
+                 Transitional housing and supportive housing must be permitted as a residential
+                 use in all zones allowing residential uses and only subject to those restrictions
+                 that apply to other residential dwellings of the same type in the same zone.
+                 (Gov. Code, § 65583, subd. (a)(5).) The element must describe and analyze
+                 the City’s transitional and supportive housing standards and codes and
+                 demonstrate consistency with Gov. Code Section 65583(a)(5) or add or revise
+                 programs which comply with the statutory requirements. Finally, the City’s
+                 definition of supportive housing should be analyzed for consistency with state
+                 law and revised as necessary.
+
+             •   Single Room Occupancy (SRO): Page 3-27 provides the definition of an SRO
+                 but does not state where they are allowed. The element must describe where
+                 SROs are allowed or add a program as appropriate to update the zoning code
+                 and permit to allow the development of SROs.
+
+             •   Employee Housing: The element states that employee housing is permitted in
+                 the special use zone. In addition, the element must demonstrate zoning is
+                 consistent with the Employee Housing Act (Health and Safety Code, § 17000 et
+                 seq.), specifically, sections 17021.5 and 17021.6. Section 17021.5 requires
+                 employee housing for six or fewer employees to be treated as a single-family
+                 structure and permitted in the same manner as other dwellings of the same
+                 type in the same zone. Section 17021.6 requires employee housing consisting
+                 of no more than 12 units or 36 beds to be permitted in the same manner as
+                 other agricultural uses in the same zone.
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                 Page 8
+November 29, 2021
+              • Mobilehomes: Page 3-27 states that mobilehomes are not permitted as long-
+                 term housing. The housing element must demonstrate the jurisdiction's zoning
+                 code allows and permits manufactured housing in the same manner and in the
+                 same zone as a conventional or stick-built structures are permitted (Gov. Code
+                 Section 65852.3). Specifically, manufactured homes should only be subject to
+                 the same development standards that a conventional single-family residential
+                 dwelling on the same lot would be subject to, with the exception of, architectural
+                 requirements for roof overhang, roofing material, and siding material. (Gov.
+                 Code Section 65852.3(a).)
+
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures.
+
+          Land Use Controls: The element must identify and analyze all relevant land-use
+          controls impacts as potential constraints on a variety of housing types (e.g.,
+          multifamily rental housing, mobilehomes, transitional housing). The analysis must also
+          evaluate the cumulative impacts of land use controls on the cost and supply of
+          housing, including the ability to achieve maximum densities and cost and supply of
+          housing. The analysis should also describe past or current efforts to remove identified
+          governmental constraints. The element must address the following:
+
+          •   Pages 3-10 and 3-11 describe the same minimum and maximum densities in the
+              CBD, MU, and DMU zones, for example the CBD lists a minimum density of 80
+              dwelling units and acre and a maximum of 80 dwelling units an acre. Although the
+              City indicated that the intent of this was to create diversity in building appearance
+              (made possible by differing height regulations per zone), having the same
+              minimum and maximum density in a zone is a constraint because it provides no
+              flexibility in development. The element must analyze this as a constraint and add a
+              program to address the density requirement.
+          •   As part of HCD’s call with the City, staff indicated that three stories were allowed in
+              the R3 zone despite a maximum building height of 30 feet, but Table 3-2 (p. 3-12
+              and 3-13) does not provide information beyond two stories. The element should
+              clarify if three stories are allowed in the R3 zone without a use permit. If not, the
+              City must add a program to amend its development standards to be consistent with
+              state law.
+          •   The element should list and analyze minimum unit sizes.
+
+          Parking Requirements: The element must analyze the requirement of two covered
+          parking spaces per multifamily dwelling unit for its impact as a potential constraint on
+          housing development (p. 3-14). Should the analysis determine the parking standards
+          or permit procedures are a constraint on residential development, it must include a
+          program to address or remove any identified constraints.
+
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                   Page 9
+November 29, 2021
+          Fees and Exaction: While the element lists development fees on (p. 3-33), it must
+          indicate if all fees are the same for single and multifamily. The element must also
+          analyze their impact as potential constraints on housing supply and affordability and
+          describe the City’s efforts to mitigate the constraint. For example, the analysis could
+          identify the total amount of fees and their proportion to the development costs for both
+          single family and multifamily housing. Page 3-33 of the element indicated that the City
+          would explore opportunities to lower development fees for affordable developments
+          but did not describe how it would do this, the element should be revised to include a
+          program to address fees.
+
+          Processing and Permit Procedures: While the element describes the use permit
+          procedure for mixed-use housing, it must describe and analyze the City’s permit
+          processing and approval procedures by zone and housing type (e.g., multifamily rental
+          housing, mobilehomes, housing for agricultural employees, supportive housing). The
+          analysis must evaluate the processing and permit procedures’ impacts as potential
+          constraints on housing supply and affordability. For example, the analysis should
+          consider processing and approval procedures and time for typical single- and multi-
+          family developments, including type of permit, level of review, approval findings and
+          any discretionary approval procedures. The element states that a minor use permit is
+          required for multifamily developments in mixed-use and CBD zones. The element
+          should describe any impacts on sites in the inventory. If so, this should be analyzed
+          as a constraint and addressed in a program.
+
+          Design Review: The element must describe and analyze the site plan and design
+          review guidelines and processes, including approval procedures and decision-making
+          criteria, for their impact as potential constraints on housing supply and affordability.
+          For example, the analysis could describe required findings and discuss whether
+          objective standards and guidelines improve development certainty and mitigate cost
+          impacts. The element must demonstrate this process is not a constraint or it must
+          include a program to address this permitting requirement, as appropriate.
+
+          Local Ordinances: The element must specifically analyze locally adopted ordinances
+          such as inclusionary ordinance or short-term rental ordinance that directly impact the
+          cost and supply of residential development. The analysis should demonstrate local
+          efforts to remove governmental constraints that hinder the locality from meeting its
+          share of the regional housing need and from meeting the need for housing for persons
+          with disabilities, supportive housing, transitional housing, and emergency shelters.
+
+          On/Off-Site Improvements: The element must identify subdivision level improvement
+          requirements, such as minimum street widths (e.g., 40-foot minimum street width) and
+          analyze their impact as potential constraints on housing supply and affordability.
+
+          Codes and Enforcement: The element must describe the City’s building and zoning
+          code enforcement processes and procedures, including any local amendments to the
+          building code, and analyze their impact as potential constraints on housing supply and
+          affordability.
+
+
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                Page 10
+November 29, 2021
+          Constraints on Housing for Persons with Disabilities: While the element describes the
+          City’s Reasonable Accommodation procedure on page 3-27, it must analyze the
+          findings as a constraint for persons with disabilities including the associated fees, the
+          application process, and findings. In addition, the element lists the U.S. Census
+          Bureau and California’s Office of Planning and Research definition of family, but the
+          element must include the City’s definition of family.
+
+          In addition, the element currently details that residential care facilities serving six or
+          fewer persons are permitted in all residential zones. However, residential care facilities
+          serving seven or more persons are limited to two zones with the approval of a
+          conditional use permit (CUP). The element should analyze the process and exclusion
+          from residential zones as a potential constraint on housing for persons with disabilities
+          and add or modify programs as appropriate to ensure zoning permits group homes
+          objectively with approval certainty.
+
+      5. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a
+         locality’s share of the regional housing need in accordance with Government Code
+         section 65584. The analysis shall also demonstrate local efforts to remove
+         nongovernmental constraints that create a gap between the locality’s planning for the
+         development of housing for all income levels and the construction of that housing.
+         (Gov. Code, § 65583, subd. (a)(6).)
+
+          Developed Densities and Permit Times: The element must be revised to include
+          analysis of requests to develop housing at densities below those anticipated in the
+          sites inventory and the length of time between receiving approval for a housing
+          development and submittal of an application for building permits. The analysis should
+          address any potential hinderances on the construction of a locality’s share of the
+          regional housing need. The element must also describe any efforts to mitigate non-
+          governmental constraints that create a gap in the jurisdictions ability to meet RHNA by
+          income category.
+
+   C. Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                 Page 11
+November 29, 2021
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Government Code section 65583,
+          subdivision (c)(1-6), and to facilitate implementation, programs should include: (1) a
+          description of the City’s specific role in implementation; (2) all programs must be
+          revised with discrete timelines (i.e. month and year); (3) objectives, quantified where
+          appropriate; and (4) identification of responsible agencies and officials. Programs to
+          be revised include the following:
+
+          •   Program 5-1 (Home Rehabilitation) should describe how information will be
+              distributed and how often, as well as proactive outreach.
+          •   Program 5-2 (Code Enforcement) should describe how often the City will provide
+              proactive outreach to the surrounding community.
+          •   Program 5-3 (Residential Design Guidelines) should describe the requirements for
+              exemption from discretionary reviews for affordable housing projects.
+          •   Program 5-5 (Preservation of Middle-Income Housing through New Housing
+              Authorities) should indicate the program’s implementation status. It is currently
+              unclear if the new housing authorities have been established.
+          •   Program 5-11 (Housing Density Bonus) should specify when the ordinance will be
+              updated.
+          •   Program 5-15 (Lot Consolidation Incentives) should include a timeframe for when
+              the City will update their fee schedule and identify additional incentives, as well as
+              the method and frequency of advertisement to developers.
+          •   Program 5-17 (Public Information About Affordable Housing) should provide
+              information regarding how often outreach will occur and how often the brochure will
+              be updated.
+          •   Program 5-23 (Homeless Program Assistance) should include implementation
+              timeframe and frequency.
+          •   Numerous programs continue to indicate an “ongoing” implementation status.
+              While this may be appropriate for some programs, programs with quantified
+              objectives or specific implementation actions must include completion or initiation
+              dates (including month and year) resulting in beneficial impacts within the planning
+              period. Programs needing revision include Programs 5.1, 5.2, 5.10, 5.11, 5.15,
+              5.16, 5.17. 5.19, and 5.21 through 5.24.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+          to comply with the requirements of Government Code section 65584.09. Sites shall be
+          identified as needed to facilitate and encourage the development of a variety of types
+          of housing for all income levels, including multifamily rental housing, factory-built
+          housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+          room occupancy units, emergency shelters, and transitional housing. (Gov. Code, §
+          65583, subd. (c)(1).)
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                 Page 12
+November 29, 2021
+          As noted in Finding B3, the element does not include a complete site analysis,
+          therefore, the adequacy of sites and zoning were not established. Based on the
+          results of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types. In addition, the element should be revised as follows:
+
+          Rezone Program for Adequate Sites: Currently the element demonstrates a
+          shortfall of adequate sites with zoning currently in place to accommodate the RHNA
+          within the planning period. In order to provide sufficient sites to accommodate the
+          RHNA, programs including but not limited to 5-7 (Establish an Overlay to Permit
+          Residential Uses in the Commercial General Zone), 5-8 (Expansion of the
+          Downtown Mixed-Use Area to Permit Residential Uses), and 5-9 (Expand and
+          Update the Residential Flex Mixed-Use overlay in the Live Oak Corridor) commit to,
+          among other things, amend the zoning to increase densities and allow residential
+          units in areas that previously did not allow residential development. However, in
+          order to accommodate the lower-income need, programs must demonstrate
+          compliance with Government Code section 65583.2, subdivisions (h) and (i).
+          Specifically, programs must commit to:
+
+          •   permit owner-occupied and rental multifamily uses by-right for developments in
+              which 20 percent or more of the units are affordable to lower-income households.
+              By-right means local government review must not require a CUP, planned unit
+              development permit, or other discretionary review or approval.
+          •   accommodate a minimum of 16 units per site;
+          •   require a minimum density of 20 units per acre; and
+          •   at least 50 percent of the lower-income need must be accommodated on sites
+              designated for residential use only or on sites zoned for mixed-uses that
+              accommodate all of the very low and low-income housing need, if those sites:
+              o allow 100 percent residential use, and
+              o require residential use occupy 50 percent of the total floor area of a mixed-use
+                  project.
+
+          Replacement Housing Requirements: While Program 5-16 (Preservation of Rental
+          Opportunities) provides replacement housing in the City, the program must be revised
+          to meet all statutory requirements. Nonvacant sites identified in the sites inventory with
+          existing, vacated, or demolished residential uses and occupied by, or subject to an
+          affordability requirement for, lower-income households within the last five years,
+          require a replacement housing program for units affordable to lower-income
+          households. (Gov. Code, § 65583.2, subd. (g)(3).) Absent a compliant replacement
+          housing program, these sites are not adequate sites to accommodate lower-income
+          households. The replacement housing program must adhere to the same
+          requirements as set forth in Government Code section 65915, subdivision (c)(3).
+
+     3.   The housing element shall contain programs which assist in the development of
+          adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+          income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                 Page 13
+November 29, 2021
+          Program 5-22 (Affordable Housing for Families and Persons with Special Needs)
+          should describe what land use policies will be adopted for extremely low-income
+          households and offer specific commitments towards implementation other than
+          “exploring” regulatory incentives. The program should include specific timeframes for
+          implementing the incentives and revising the zoning code.
+
+     4.   Address and, where appropriate and legally possible, remove governmental and
+          nongovernmental constraints to the maintenance, improvement, and development of
+          housing, including housing for all income levels and housing for persons with
+          disabilities. The program shall remove constraints to, and provide reasonable
+          accommodations for housing designed for, intended for occupancy by, or with
+          supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+          As noted in Finding(s) B4 and B5, the element requires a complete analysis of
+          potential governmental and non-governmental constraints. Depending upon the
+          results of that analysis, the City may need to revise or add programs and address and
+          remove or mitigate any identified constraints.
+
+     5.   Promote and affirmatively further fair housing opportunities and promote housing
+          throughout the community or communities for all persons regardless of race, religion,
+          sex, marital status, ancestry, national origin, color, familial status, or disability, and
+          other characteristics protected by the California Fair Employment and Housing Act
+          (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008,
+          and any other state and federal fair housing and planning law. (Gov. Code, § 65583,
+          subd. (c)(5).) Program 5-25 (Fair Housing, 3rd bullet point): The percentage is missing
+          for both.
+
+          Program to AFFH: While the element includes Program 5-25 (Fair Housing) which
+          describes how the City responds to fair housing complaints, it must include more than
+          collaboration for discrimination complaints, include specific timeframes for outreach
+          and how often workshops will occur throughout the planning period, and include
+          outreach. The element must also include actions that promote AFFH opportunities as
+          stated in Finding B1. For example, the element could include a program committing to
+          implement Government Code section 8899.50, subdivision (b) which requires the City
+          to administer its programs and activities relating to housing and community
+          development in a manner to AFFH and take no action that is materially inconsistent
+          with its obligation to AFFH. Programs should address enhancing housing mobility
+          strategies; encouraging development of new affordable housing in high resource
+          areas; improving place-based strategies to encourage community conservation and
+          revitalization, including preservation of existing affordable housing; and protecting
+          existing residents from displacement. The programs should also include metrics and
+          milestones for evaluating progress on programs, actions, and fair housing results.
+
+     6.   The housing program shall preserve for low-income household the assisted housing
+          developments identified pursuant to paragraph (9) of subdivision (a). The program for
+          preservation of the assisted housing developments shall utilize, to the extent
+          necessary, all available federal, state, and local financing and subsidy programs
+          identified in paragraph (9) of subdivision (a), except where a community has other
+
+City of Arcadia’s 6th Cycle Draft Housing Element                                 Page 14
+November 29, 2021
+          urgent needs for which alternative funding sources are not available. The program
+          may include strategies that involve local regulation and technical assistance. (Gov.
+          Code, § 65583, subd. (c)(6).)
+
+          Program 5-4 (Preservation of At-Risk Units) should incorporate state preservation
+          notice law (Gov. Code § 65863.10, 65863.11, and 65863.13) as well as should commit
+          to proactive outreach to property owners regarding interest in renewing affordability
+          restrictions and inform them about the notice requirements.
+
+     7.   Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+          that can be offered at affordable rent, as defined in Section 50053 of the Health and
+          Safety Code, for very low, low-, or moderate-income households. For purposes of this
+          paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+          unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, §
+          65583, subd. (c)(7).)
+
+          The element is required to include a program that incentivizes or promotes ADU
+          development for very low-, low-, and moderate-income households. This can take the
+          form of flexible zoning requirements, development standards, or processing and fee
+          incentives that facilitate the creation of ADUs, such as reduced parking requirements,
+          fee waivers and more. Other strategies could include developing information packets
+          to market ADU construction, targeted advertising of ADU development opportunities or
+          establishing an ADU specialist within the planning department. Program 5-12 (ADU
+          and JADU Incentive and Monitoring Program) should be revised to include specific
+          incentives to encourage ADU production in the City during the planning period.
+
+   D. Public Participation
+
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the housing element, and
+      the element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      While the element includes a general summary of the public participation process (p. 13
+      and 1-4), it must also demonstrate diligent efforts were made to involve all economic
+      segments of the community in the development of the housing element. The element
+      could describe the efforts to circulate the housing element among low- and moderate-
+      income households and organizations that represent them and to involve such groups
+      and persons in the element throughout the process. In addition, the element should also
+      summarize the public comments and describe how they were considered and
+      incorporated into the element.
+
+      In addition, HCD understands the City made the element available to the public
+      concurrent with its submittal to HCD. By not providing an opportunity for the public to
+      review and comment on a draft of the element in advance of submission, the City has not
+      yet complied with statutory mandates to make a diligent effort to encourage the public
+      participation in the development of the element and it reduces HCD’s ability to consider
+      public comments in its review. The availability of the document to the public and
+      opportunity for public comment prior to submittal to HCD is essential to the public process
+
+City of Arcadia’s 6th Cycle Draft Housing Element                               Page 15
+November 29, 2021
+      and HCD’s review. The City must proactively make future revisions available to the public,
+      including any commenters, prior to submitting any revisions to HCD and diligently
+      consider and address comments, including revising the document where appropriate.
+      HCD’s future review will consider the extent to which the revised element documents how
+      the City solicited, considered, and addressed public comments in the element. The City’s
+      consideration of public comments must not be limited by HCD’s findings in this review
+      letter.
+
+
+
+
+City of Arcadia’s 6th Cycle Draft Housing Element                              Page 16
+November 29, 2021

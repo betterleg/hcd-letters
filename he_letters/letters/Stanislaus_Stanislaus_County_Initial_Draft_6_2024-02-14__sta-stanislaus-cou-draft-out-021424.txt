@@ -1,0 +1,700 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 14, 2024
+
+
+
+         Angela Freitas, Director
+         Planning and Community Development Department
+         Stanislaus County
+         1010 10th Street, Suite 3400
+         Modesto, CA 95354
+
+         Dear Angela Freitas:
+
+         RE: Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting Stanislaus County’s (County) draft housing element received
+         for review on November 17, 2023. Pursuant to Government Code section 65585,
+         subdivision, the California Department of Housing and Community Development (HCD)
+         is reporting the results of its review. Our review was facilitated by a conversation with
+         you, Kristin Doud, Emily DeAnda, Jason Montague, and Kay Real on February 5, 2024.
+         In addition, HCD considered comments from David Kellogg, Sam Helps, and California
+         Rural Legal Assistance, Inc., pursuant to Government Code section 65585, subdivision
+         (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code, §
+         65580 et seq). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government does not adopt a compliant housing element within 120 days of the
+         statutory deadline (December 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA) shall be
+         completed no later than one year from the statutory deadline pursuant to Government
+         Code sections 65583, subdivision (c) and 65583.2, subdivision (c). Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i). Please be aware, if the County does not adopt a
+         compliant housing element within one year from the statutory deadline, the element
+         cannot be found in substantial compliance until these rezones are completed.
+      Angela Freitas, Director
+      Page 2
+
+
+
+      Public participation in the development, adoption and implementation of the housing
+      element is essential to effective housing planning. Throughout the housing element
+      process, the County should continue to engage the community, including organizations
+      that represent lower-income and special needs households, by making information
+      regularly available and considering and incorporating comments where appropriate.
+      Please be aware, any revisions to the element must be posted on the local
+      government’s website and to email a link to all individuals and organizations that have
+      previously requested notices relating to the local government’s housing element at least
+      seven days before submitting to HCD.
+
+      Several federal, state, and regional funding programs consider housing element
+      compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+      (SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+      Communities program, and HCD’s Permanent Local Housing Allocation consider
+      housing element compliance and/or annual reporting requirements pursuant to
+      Government Code section 65400. With a compliant housing element, the County will
+      meet housing element requirements for these and other funding sources.
+
+      For your information, some general plan element updates are triggered by housing
+      element adoption. HCD reminds the County to consider timing provisions and welcomes
+      the opportunity to provide assistance. For information, please see the Technical
+      Advisories issued by the Governor’s Office of Planning and Research at:
+      https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+      HCD appreciates the hard work and effort the housing element update team provided
+      during the housing element update and review. We are committed to assisting the
+      County in addressing all statutory requirements of State Housing Element Law. If you
+      have any questions or need additional technical assistance, please contact Emily
+      Hovda, of our staff, at Emily.Hovda@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Paul McDougall
+      Senior Program Manager
+
+
+      Enclosure
+
+
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                   Page 2
+February 14, 2024
+                                        APPENDIX
+                                   STANISLAUS COUNTY
+
+The following changes are necessary to bring the County’s housing element into compliance
+with Article 10.6 of the Government Code. Accompanying each recommended change, we cite
+the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Outreach and Enforcement: While the element describes outreach efforts, including the
+      County’s partnership with Project Sentinel, it could also evaluate data and the results
+      from any fair housing testing. In addition, the analysis must address compliance with
+      existing fair housing laws as well as any past or current fair housing lawsuits, findings,
+      settlements, judgements, or complaints.
+
+      Patterns and Trends in the Unincorporated County: The element discusses various fair
+      housing issues at the County level but should also address patterns and trends at a
+      local (patterns within a community). The analysis should address all components of the
+      assessment of fair housing (e.g., segregation and integration, disparities in access to
+      opportunity) and may utilize Census Designated Places (CDP) or aggregate geographic
+      sub-areas of the County (e.g., southern, northern, eastern, western). For example, the
+      element could discuss patterns or lack of patterns within East Oakdale and South
+      Modesto. This analysis should also incorporate local data and knowledge and other
+      relevant factors to better understand local patterns and formulate appropriate policies
+      and programs.
+
+      Racially/Ethnically Concentrated Areas of Poverty (R/ECAP): While the element briefly
+      discusses R/ECAP, much of the analysis is focused on poverty in the County more
+      generally. The element should expand this analysis to also include areas of High
+      Segregation and Poverty and discuss other topics, such as conditions of the
+      neighborhoods relative to other neighborhoods throughout the County in terms of quality
+      of life (e.g., housing conditions, infrastructure, parks, community amenities, safe routes
+      to school, environmental health) and effectiveness or absence of past strategies related
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                   Page 1
+February 14, 2024
+      to equitable quality of life. Based on the outcome of this analysis, the element should
+      add or modify programs as appropriate.
+
+      Racially Concentrated Areas of Affluence (RCAA): The element very briefly discusses
+      RCAAs and identifies two RCAA within the County. However, the element must also
+      analyze these areas for patterns, trends, and other fair housing coincidences. For
+      example, the element could incorporate local data and knowledge and other relevant
+      factors such as land use, zoning and infrastructure that may have influenced patterns.
+
+      Disproportionate Housing Needs: The element includes some general information on
+      persons experiencing homelessness and housing conditions but should also evaluate
+      those needs, impacts and patterns within the County, such as areas of higher need. For
+      homelessness, the element should examine patterns of need or areas with higher
+      concentrations of persons experiencing homelessness (areas with more encampments
+      versus others), including access to transportation and services. For housing conditions,
+      the element should discuss any areas of potentially higher needs of rehabilitation and
+      replacement. The element should utilize local data and knowledge such as service
+      providers and code enforcement officials to assist this analysis.
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element includes
+      Table 3-17 (Sites Inventory by Census Tract Characteristics) to facilitate a discussion of
+      identified sites and AFFH. However, this table should also incorporate median
+      household incomes. In addition, the analysis should discuss patterns of identified sites
+      by income group within CDPs or geographic sub-areas. For example, the element
+      should address the geographic isolation of the lower-income regional housing need
+      allocation (RHNA) within Bret Harte, lack of lower-income RHNA in Del Rio, Diablo
+      Grande and East Oakdale, separation of the above moderate and lower-income RHNA
+      in Empire and integration of RHNA sites by income groups within North Ceres and West
+      Modesto. Based on the outcomes of this analysis, the element should add or modify
+      programs to promote housing mobility (choices and affordability throughout
+      communities) and enhance place-based strategies toward community revitalization.
+
+      Local Data, Knowledge, and Other Relevant Factors: The element should include local
+      data, knowledge, and other relevant factors to discuss and analyze any unique
+      attributes about the County related to fair housing issues. The element should
+      complement federal, state, and regional data with local data and knowledge where
+      appropriate, and particularly where census tracts do not coincide with community
+      boundaries, to capture emerging trends and issues, including utilizing knowledge from
+      local and regional advocates and service providers. The element should discuss
+      patterns within specific community plan areas for all AFFH indicators. Also, the element
+      must include other relevant factors that contribute to fair housing issues in the
+      jurisdiction. For instance, the element can analyze historical land use patterns, local
+      initiatives (such as Measures E and X), zoning, proximity to industrial uses and public
+      housing, major physical dividers such as highways and railroad tracks, recent
+      annexations, waves of development and master planned areas compared to older
+      areas, and investment practices or other information and demographic trends.
+
+
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                   Page 2
+February 14, 2024
+      Contributing Factors to Fair Housing Issues: Based on the outcomes of a complete
+      analysis, the element should re-assess and prioritize contributing factors to fair housing
+      issues.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+      Extremely Low-Income (ELI) Households: While the element includes some basic
+      information about ELI households, given the unique and disproportionate needs of ELI
+      households, the element must include analysis to better formulate policies and
+      programs. For example, the element could analyze tenure, cost burden, overcrowding
+      and other household characteristics then examine the availability of resources to
+      determine gaps in housing needs. To better demonstrate the disproportionate impacts
+      on ELI households, the analysis should benchmark proportions to total ELI households
+      instead of total households. For additional information, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/extremely-low-income-housing-needs.
+
+      Housing Conditions: While the element discusses the age and condition of the County’s
+      housing stock and the number of code enforcement cases in recent years, the element
+      must estimate the number of units in need of rehabilitation and replacement. For
+      example, the analysis could include estimates from a recent windshield survey or could
+      utilize code enforcement cases or knowledge from code enforcement officials to
+      estimate the number of units in need of rehabilitation and replacement County-Wide.
+      The analysis could also address geographic differences and incorporate that
+      information into the fair housing analysis. For additional information, see the Building
+      Blocks at https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/housing-stock-characteristics.
+
+      Housing Costs: While the element includes information on sales prices, rental
+      information from the American Community Survey does not fully reflect market
+      conditions and the element should include more current local data sources.
+
+      Special Housing Needs (Farmworkers): While the element quantifies farmworkers in the
+      County, the analysis should be expanded to include discussion of characteristics of this
+      group (e.g., permanent, seasonal, housing tenure) and the magnitude and nature of the
+      gap between resources and housing needs and characteristics. For additional
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                   Page 3
+February 14, 2024
+      information on the disproportionate needs of farmworkers, see Farmworker Health in
+      California: Health in a Time of Contagion, Drought, and Climate Change from the
+      University of California, Merced at
+      https://clc.ucmerced.edu/sites/clc.ucmerced.edu/files/page/documents/fwhs_report_2.2.
+      2383.pdf.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The element relies on several pipeline projects to meet
+      its RHNA. Specifically, the element identifies 253 approved units (p. 5-4). While the
+      element includes some information on the status of the County’s projects, the element
+      should demonstrate their availability in the planning period or likelihood of construction
+      during the planning period. To demonstrate the availability of units within the planning
+      period, the element should discuss past completion rates of approved projects,
+      anticipated timelines and steps for construction and any known barriers that would
+      preclude development in the planning period.
+
+      Realistic Capacity: While the element includes supporting information to support
+      residential capacity assumptions for multifamily zones, it should include similar
+      information to support residential capacity assumptions in lower density (e.g., single-
+      family and duplex) zones.
+
+      Suitability of Nonvacant Sites: While the element utilizes factors (improvement to land
+      value, lot coverage and existing versus zoned use) to identify nonvacant sites with
+      redevelopment potential, it should also support the validity of these factors based on
+      recent trends in the County or surrounding area. For example, the element could list
+      recent redevelopments by previous use and the various factors being utilized to
+      demonstrate potential for redevelopment. In addition, the parcel listing should include
+      existing lot coverage and existing versus zoned use. Further, many of the nonvacant
+      sites have an existing single-family use. The element should specifically describe and
+      support the redevelopment ratio (existing number of units versus allowable number of
+      units) based on development trends. Finally, the element should evaluate the extent
+      existing uses impede additional development such as analyzing current market demand
+      for the existing use, existing leases, contracts, or other conditions that would perpetuate
+      the existing use or prevent additional residential development. The analysis could utilize
+      sample representative sites for the various existing use categories.
+
+      Availability of Infrastructure: While the element discusses the capacity of community
+      service districts within the County, it should clarify whether there is sufficient water and
+      sewer capacity (existing and planned) to accommodate the regional housing need by
+      community plan area and the accessibility of infrastructure (existing and planned) to
+      identified sites. Based on the outcomes of this analysis, the element should add or
+      modify programs, as appropriate.
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                     Page 4
+February 14, 2024
+      County-Owned Sites: The element includes a brief summary of three County-Owned
+      sites. This analysis should be expanded to discuss general plan designations, allowable
+      densities, support for residential capacity assumptions, existing uses, schedule of
+      remaining steps to make sites available and any known conditions that preclude or
+      could promote development in the planning period. Based on the outcomes of this
+      analysis, the element should add or modify program, as appropriate.
+
+      Environmental Constraints: The element briefly discusses risk of wildfire and flooding in
+      the Diablo Grande and West Modesto areas of the County, respectively. However, the
+      element should discuss environmental constraints relative to identified sites and
+      describe any other known environmental or other constraints (e.g., shape, access,
+      easements, conservation easements, Williamson Act contracts, military and other
+      compatibility, contamination) that could impact housing development on identified sites
+      in the planning period.
+
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision
+      (b), the County must utilize standards, forms, and definitions adopted by HCD when
+      preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-elements for a
+      copy of the form and instructions. The County can reach out to HCD at
+      sitesinventory@hcd.ca.gov for technical assistance. Please note, upon adoption of the
+      housing element, the County must submit an electronic version of the sites inventory
+      with its adopted housing element to sitesinventory@hcd.ca.gov.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element notes that off street parking shall be provided
+             at a rate of one vehicle per employee, plus one additional parking space (p. 4-9).
+             Parking requirements should be updated pursuant to AB 139 (Chapter 335,
+             Statutes of 2019) which requires only sufficient parking to accommodate all staff
+             working in the emergency shelter, provided that the standards do not require
+             more parking for emergency shelters than other residential or commercial uses
+             within the same zone. The element should add or modify programs as
+             appropriate. The element should also provide an analysis of capacity, including
+             appropriate parcel sizes to facilitate development of an emergency shelter (e.g.,
+             one-half acre to five acres) and add or modify programs as appropriate.
+
+         •   Employee Housing: The element must demonstrate zoning is consistent with the
+             Employee Housing Act (Health and Safety Code, Section 17000 et seq.).
+             Specifically, section 17021.8 requires that a development is subject to a
+             streamlined, ministerial approval process and is not subject to a conditional use
+             permit (CUP) if the development is an eligible agricultural employee housing
+             development. Based on a complete analysis, the element should add or modify
+             programs. Additionally, Program 4-2 (Farmworker Housing) should be revised to
+             add specificity regarding which inconsistencies with state law will be amended in
+             the Zoning Ordinance.
+
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                  Page 5
+February 14, 2024
+          •   By-right Permanent Supportive Housing: The element notes that the County’s
+              definition of dwelling includes transitional and supportive housing and, as such,
+              transitional and supportive housing is permitted in all residential zoning districts.
+              However, the element should explicitly demonstrate compliance with
+              Government Code section 65651, which requires that supportive housing be a
+              use by-right in zones where multifamily and mixed uses are permitted, including
+              nonresidential zones permitting multifamily uses. The element should add or
+              modify programs as necessary.
+
+          •   Manufactured Housing: Manufactured homes that are built on a permanent
+              foundation must be allowed in the same manner and in the same zones as
+              conventional or stick-built structures. Specifically, manufactured homes on a
+              permanent structure should only be subject to the same development standards
+              that a conventional single-family residential dwelling. The element must
+              demonstrate consistency with this requirement or add or modify programs as
+              appropriate. Additionally, Program 5-6 of the previous element committed the
+              County to amending the Zoning Ordinance to allow mobile homes in the HS
+              zoning district, which has not been implemented. The element also states this
+              Program will be carried over into Program 3-6 of the 6th cycle housing element (p.
+              B-18), but this has not been reflected in the schedule of programs. The element
+              should add or modify programs as appropriate to establish zoning and
+              development standards to facilitate development of mobile home parks.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element states that there is a 35-foot height limit in residential
+      zones (p. 4-14). The element should clarify whether this height limit allows for three
+      story development or if the County otherwise limits the number of stories that can be
+      built. If the County does not allow for three story development, this standard should be
+      evaluated as a constraint and the element should add or modify programs as
+      appropriate.
+
+      Additionally, the parking requirements, described on page 4-16 of the element, should
+      be evaluated as a constraint. In particular, the element should evaluate how these
+      requirements may impact the cost of development and have a disproportionate impact
+      on smaller (e.g., studio, one-bedroom) units. Upon a complete analysis, the element
+      should add or modify programs as appropriate to remove parking as a constraint.
+
+      The maximum lot coverage for SCP zones is listed as “varies” (p. 4-14). HCD
+      understands this is due to maximum lot coverage being unaddressed in the Salida
+      Community Plan. The element should address this and discuss potential constraints
+      posed by this ambiguity in the development standard.
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                      Page 6
+February 14, 2024
+      Lastly, the element does not discuss minimum unit size. The element should discuss
+      whether the County has a minimum unit size requirement and, if the minimum unit size
+      is found to pose a constraint to development upon analysis, the element should add or
+      modify programs to lower the minimum unit size.
+
+      Fees and Exaction: The element lists some fees, but the element must also describe all
+      required fees, including planning and all impact fees, for single-family and multifamily
+      housing development and analyze their individual and cumulative impact as potential
+      constraints on housing supply and affordability. For example, the analysis could identify
+      the total amount of fees per unit and their proportion to the development costs for both
+      single-family and multifamily housing. For additional information and a sample analysis
+      and tables, see the Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/fees-and-exactions.
+
+      Zoning and Fees Transparency: The element includes the County’s website but should
+      clarify compliance with transparency requirements for posting all fees, zoning, and
+      development standards on the County’s website and add a program to address these
+      requirements, if necessary.
+
+      Local Processing and Permit Procedures: The element must clarify whether there are
+      written procedures for the SB 35 (Chapter 366, Statutes of 2017) Streamlined
+      Ministerial Approval Process and, if there are no written procedures, add a program to
+      address these requirements.
+
+      Additionally, the element should address public comments on this draft submittal and
+      discuss compliance with the Permit Streamlining Act and intersections with CEQA and
+      timing requirements, including streamlining determinations and add or modify programs
+      as appropriate.
+
+      On/Off-Site Improvements: The element must identify subdivision level improvement
+      requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+      analyze their impact as potential constraints on housing supply and affordability. For
+      additional information and a sample analysis, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/codes-and-enforcement-and-onsite-offsite-improvement-
+      standards.
+
+      Housing for Persons with Disabilities: The element does not describe a definition of
+      family. The element should identify a definition of family and evaluate potential
+      constraints on housing for persons with disabilities. For your information, zoning should
+      simply implement a barrier-free definition of family that does not subject, potentially,
+      persons with disabilities; to special regulations such as the number of persons,
+      population types, relationships and licenses. Zoning code regulations that isolate and
+      regulate various types of housing for persons with disabilities based on the number of
+      people or other factors may pose a constraint on housing choice for persons with
+      disabilities.
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                  Page 7
+February 14, 2024
+      Growth Management Policy: While the element discusses Measure E as a growth
+      management tool in the County, the element should also analyze the impacts the
+      initiative has on housing costs, the supply and affordability of housing stock, and how
+      the lack of development activity in certain areas of the County may be correlated to the
+      lack of implementation of Program 5-7 of the previous housing element. Further,
+      Program 3-1f should be amended with specific commitments to address Measure E as
+      a constraint.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2, and the length of time between
+      receiving approval for a housing development and submittal of an application for
+      building permits for that housing development that hinder the construction of a locality’s
+      share of the regional housing need in accordance with Government Code section
+      65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Approval Time and Requests for Lesser Densities: The element must include analysis
+      of recent requests (e.g., last eight years) to develop housing at densities below those
+      assumed in the sites inventory, and the length of time between receiving approval for a
+      housing development and submittal of an application for building permits. The element
+      must address any hinderance in meeting the regional housing need and add or modify
+      programs as appropriate.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and achieve the goals and objectives
+      of the housing element, Programs must specific commitment (e.g., amend versus
+      explore) and discrete timing (e.g., at least annually, by 2025). Examples of programs
+      that should be revised include:
+
+         •   Discrete Timing: Programs 1-1f (Indoor Air Quality), 1-1g (Rental Rehabilitation),
+             2-1c (Development Assistance), 2-1g (Housing in Salida Community Plan), 2-1h
+             (Public Facility Fee Waiver), 2-6 (Collaboration), 3-6a (Alternative Housing), 4-2b
+             (Assist Housing Developers), and 4-3d (Federal and State Funds).
+
+         •   Specific Commitment: Programs 1-1f (Indoor Air Quality), 1-1g (Rental
+             Rehabilitation), 2-1a (Special Needs Populations), 2-1c (Development
+             Assistance), 2-1g (Housing in Salida Community Plan), 2-1h (Public Facility Fee
+             Waiver), 2-6 (Collaboration), 3-6b (Missing Middle), 3-7c (Housing on
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                   Page 8
+February 14, 2024
+              Commercially Zoned Land), 3-8a (Enhance ADUs), 3-9d (Tax Increment
+              Financing Districts), 4-1b (Universal Design), and 4-4d (Outreach Methods).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the County may need to add or revise
+      programs to address a shortfall of sites or zoning available to encourage a variety of
+      housing types. In addition, the element should be revised as follows:
+
+          •   Program 3-1h (Rezoning to Accommodate a Shortfall): The Program must
+              commit to permit multifamily uses without discretionary action and address
+              several other requirements pursuant to Government Code section 65583.2,
+              subdivisions (h) and (i). The Program should also commit to specified acreage,
+              the number of units (at least enough to accommodate the shortfall), and
+              appropriate development standards to facilitate achieving maximum densities.
+
+          •   Program 3-9 (Infrastructure): Considering this lack of implementation of the
+              previous element’s Program 1-9 and the lack of development activity in the
+              Salida Community Plan, Program 3-9 of this draft should be modified to expand
+              the number of actions to be taken to ensure the availability and accessibility of
+              infrastructure during the planning period.
+
+          •   Program 3-1d (County-Owned Land): Program 3-1d should commit to a schedule
+              of actions to facilitate development in the planning period in stride with
+              assumptions in the inventory such as numerical objectives; compliance with the
+              Surplus Land Act; outreach with developers or property owners; removing
+              barriers to development; issuing requests for proposals; facilitating entitlements,
+              assisting with funding, issuing building permits and alternative actions by a
+              specified date if the sites are not progressing toward completion in the planning
+              period.
+
+          •   Program 3-6a (Alternative Housing Options): The Program should commit to
+              actions beyond exploring alternative housing options. These actions should
+              include, but are not limited to, outreach and technical assistance with faith-based
+              organizations.
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                    Page 9
+February 14, 2024
+         •   Program 3-6d (Emergency Shelters): The Program should commit to comply with
+             AB 2339, including amending the definition of emergency shelters.
+
+         •   Program 3-6g (Single-Room Occupancy (SRO)): The Program should also
+             commit the County to adding, establishing, or modifying development standards
+             to encourage and facilitate SROs.
+
+         •   Program 4-2c (Farmworker Housing): The Program should be amended to
+             specify and address inconsistencies with statute and if necessary, comply with
+             Health and Safety Code section 17021.8.
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Special Housing Needs: The element must include specific actions to assist in the
+      development of housing for ELI and special needs households. In addition, the element
+      must include specific actions to address the needs of persons experiencing
+      homelessness and farmworkers. For example, for farmworkers, specific efforts should
+      be included based on the outcomes of a complete analysis. For example, the element
+      could commit to proactive actions to coordinate with nonprofit developers, employers,
+      and other related organizations, to explore funding and incentives, annually identify
+      specific development opportunities, pursuing strategies to integrate affordable housing
+      and targeting rehabilitation and conservation and improvement programs toward
+      farmworkers.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A4 and A5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the County may need to revise or add programs and address and remove or
+      mitigate any identified constraints. In addition, the element should be revised, as
+      follows:
+
+         •   Measure E: The element should add or modify programs to address Measure E
+             as a constraint, especially considering the lack of implementation of Program 5-7
+             of the previous housing element.
+
+         •   Program 3-6c (Residential Care Facilities): The Program should commit to
+             actions beyond evaluating processes. The Program should specifically commit to
+             amend procedures and zoning to remove, replace or modify the CUP process
+             and permit group homes for seven or more persons in all zones allowing
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                  Page 10
+February 14, 2024
+              residential uses and are only subject to the same objective standards to other
+              residential uses of the same type in the same zone.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element requires a complete AFFH analysis. Depending
+      upon the results of that analysis, the County may need to revise or add programs. Goals
+      and actions must specifically respond to the analysis and to the identified and prioritized
+      contributing factors to fair housing issues and must be significant and meaningful
+      enough to overcome identified patterns and trends. Actions must have specific
+      commitments, milestones, geographic targeting and metrics or numerical targets and,
+      as appropriate, address housing mobility enhancement (housing choices and
+      affordability across geographies), new housing choices and affordability in higher
+      opportunity or income areas, place-based strategies for community preservation and
+      revitalization, and displacement protection.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      Program 3-8 (Accessory Dwelling Units (ADU)) should be modified to add a specific
+      commitment (beyond exploring) to incentivize and promote the creation and affordability
+      of ADUs beyond the promotional actions listed. Examples include exploring and
+      pursuing funding, modifying development standards, and reducing fees beyond state
+      law, increasing awareness via handouts and marketing campaigns, pre-approved plans,
+      and homeowner/applicant assistance tools. In addition, given the County’s assumptions
+      for ADUs exceed recent trends, the element should include a program to monitor
+      permitted ADUs and affordability every other year and take appropriate action such as
+      adjusting assumptions or rezoning within a specified time (e.g., six months).
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element estimates the number of housing units that can be constructed or
+   rehabilitated by income category (p. 6-29), the element must also include objectives for the
+   number of housing units to be conserved by income category. Examples of programs that
+   may be utilized include Program 1-2a (Mitigate Hazards), 1-3a and 1-3b (Energy
+   Conservation), Programs 2-3a through 2-3d (Housing Choice Vouchers)
+
+
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                      Page 11
+February 14, 2024
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the County made efforts to include the public through community workshops and
+   stakeholder interviews, moving forward, the County should employ additional methods for
+   public outreach efforts, particularly including lower-income and special needs households
+   and neighborhoods with higher concentrations of lower-income and special needs
+   households. The County may consider expanding the list of stakeholders interviewed to
+   achieve this. These additional methods should also improve geographic and language
+   access, especially considering the size of the County.
+
+   In addition, the element should describe how public comments were considered and
+   incorporated into the element. HCD also received comments with many meaningful
+   suggestions from California Rural Legal Assistance, Inc., related to the County’s outreach
+   efforts and fair housing assessment and actions, among other topics. HCD encourages the
+   County to consider these comments and describe how they were considered and
+   incorporated into the element. Finally, HCD encourages the County to incorporate efforts of
+   the Housing Stansilaus Initiative, as appropriate. For additional information, see the
+   Building Blocks at https://www.hcd.ca.gov/planning-and-community-development/housing-
+   elements/building-blocks/public-participation.
+
+
+E. Consistency with General Plan
+
+   The Housing Element shall describe the means by which consistency will be achieved with
+   other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   The element should discuss how internal consistency will be achieved and maintained
+   throughout the planning period. In addition, the County could consider an internal
+   consistency review as part of its annual general plan implementation report required under
+   Government Code section 65400.
+
+
+
+
+Stanislaus County’s 6th Cycle (2023-2031) Draft Housing Element                Page 12
+February 14, 2024

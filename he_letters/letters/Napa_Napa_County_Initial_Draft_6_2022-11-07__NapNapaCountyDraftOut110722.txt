@@ -1,0 +1,635 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 07, 2022
+
+
+         Brian Bordona, Interim Director
+         Planning, Building, and Environmental Services Department
+         County of Napa
+         1195 Third Street, 2nd Floor
+         Napa, CA 94559
+
+         Dear Brian Bordona:
+
+         RE: County of Napa’s 6th Cycle (2023-2031) Draft Housing Element (Update)
+
+         Thank you for submitting the County of Napa’s (County) draft housing element received
+         for review on August 09, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. HCD considered comments from the Sierra
+         Club Napa Group and Kellie Anderson pursuant to Government Code section 65585,
+         subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+         lower-income households, shall be completed no later than one year from the statutory
+         deadline. Otherwise, the local government’s housing element will no longer comply with
+         State Housing Element Law, and HCD may revoke its finding of substantial compliance
+         pursuant to Government Code section 65585, subdivision (i). Please be aware, if the
+         County fails to adopt a compliant housing element within one year from the statutory
+         deadline, the element cannot be found in substantial compliance until rezones to
+         accommodate a shortfall of sites pursuant to Government Code section 65583,
+         subdivision (c) (1) (A) and Government Code section 65583.2, subdivision (c) are
+         completed.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+Brian Bordona, Interim Director
+Page 2
+
+
+
+process, the County should continue to engage the community, including organizations
+that represent lower-income and special needs households, by making information
+regularly available and considering and incorporating comments where appropriate.
+Please be aware, any revisions to the element must be posted on the local
+government’s website and to email a link to all individuals and organizations that have
+previously requested notices relating to the local government’s housing element at least
+seven days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the County will meet housing element requirements for these and other
+funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the County to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the efforts of Trevor Hawkes, Supervising Planner, and Matt Kowta,
+Consultant during the review. We are committed to assist the County in addressing all
+statutory requirements of State Housing Element Law. If you have any questions or
+need additional technical assistance, please contact Chelsea Lee, of our staff, at
+Chelsea.Lee@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                        APPENDIX
+                                     COUNTY OF NAPA
+
+The following changes are necessary to bring the County’s housing element into compliance
+with Article 10.6 of the Government Code. Accompanying each recommended change, we cite
+the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   The element includes some information that describes the prior element’s programs but in
+   several cases (Programs H-1a, H-1b, H-2a, H-2g, H-2k, H-2l, and H-3g), the reported
+   progress in implementation does not appear to be related to the objectives of the prior
+   program. The element should describe the actual results of the prior element’s programs
+   relative to the objectives of past programs, compare those results to the objectives. Based
+   on an evaluation of any differences between what was planned versus achieved, provide a
+   description of how the objectives and programs of the updated element incorporate
+   changes resulting from the evaluation.
+
+   In addition, as part of the review of programs in the past cycle, the element must provide an
+   evaluation of the effectiveness of goals, policies, and related actions in meeting the housing
+   needs of special needs populations (e.g., elderly, persons with disabilities, large
+   households, female headed households, farmworkers and persons experiencing
+   homelessness).
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Fair Housing Enforcement and Outreach: The element must include analysis that
+      describes the County’s compliance with existing fair housing laws and regulations.
+
+      Assessment of Fair Housing: The element includes data and analysis on each of the fair
+      housing components at the local level. However, additional information is required to fully
+      address this finding. Specifically, much of the regional data and analysis provided in each
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                         Page 1
+November 7, 2022
+      of the fair housing areas is limited to comparing the County to that of the North Bay region.
+      The element should add additional data and analysis on the broader Bay Area
+      geographical context and add or modify programs as appropriate depending on the
+      outcomes of this analysis.
+
+      Racially Concentrated Areas of Affluence (RCAAs): The element indicates that there are
+      no areas within the County designated as RCAAs. However, this comment does not
+      accurately reflect the analysis that demonstrates parts of the County are characterized as
+      higher income and having a significant White population. As a result, the element should
+      include analysis of these factors for patterns within the County and relative to the broader
+      Bay Area region. The analysis should utilize data provided by HCD. For more information,
+      please see HCD’s guidance at https://www.hcd.ca.gov/community-
+      development/affh/index.shtml#guidance.
+
+      Disproportionate Housing Needs and Displacement Risk: The element includes some data
+      and analysis on overcrowded households and cost burdened households, but it must also
+      include data and analysis on patterns related to housing conditions and homelessness. In
+      addition, given that several areas in the County are particularly susceptible to fire hazards,
+      the element must also analyze disaster-driven displacement and its disproportionate
+      impacts on lower-income households and special needs populations, including
+      displacement by looking at trends, patterns, local data and knowledge and other relevant
+      factors.
+
+      Other Relevant Factors: The element must consider other relevant factors that have
+      contributed to certain fair housing conditions. The element identifies various factors, but
+      generally does not provide information that addresses this requirement. This analysis must
+      consider information that is unique to the County or region, such as governmental and
+      nongovernmental actions, historical land use and zoning practices (e.g., past
+      redlining/greenlining, restrictive covenants, etc.), disparities in investment to specific
+      communities, or other information that may have impeded housing choices and mobility.
+      This analysis is particularly significant considering that the County is characterized by high
+      housing costs, increasing displacement, and a lack of housing choices.
+
+      Local Data and Knowledge: The element does not address this requirement. The element
+      includes some general information on page 273 but should supplement this analysis with
+      local data and knowledge that captures emerging trends and issues, including utilizing
+      knowledge from local and regional advocates, public comments, service providers, public
+      officials and other planning documents. As an example, the element could draw from other
+      sources of information including but not limited to, the Analysis of Impediments (AI), capital
+      improvement plans, other planning documents, and knowledge from County staff.
+
+      Contributing Factors: The element identifies several contributing factors (pp. 193-198) but
+      should also prioritize these factors (e.g., high, medium, low).
+
+      Sites Inventory: While the element includes analysis relative to sites and affirmatively
+      furthering fair housing (AFFH) (pp. 259-272) for some of the fair housing areas including by
+      race, poverty, and access to opportunity, the element must also provide analysis on Racially
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                          Page 2
+November 7, 2022
+      Concentrated Areas of Affluence (RCAAs) and demonstrate whether sites identified to meet
+      the regional housing needs allocation (RHNA) are distributed throughout the community in a
+      manner that affirmatively furthers fair housing. A full analysis should address the income
+      categories of identified sites with respect to location, the number of sites and units by all
+      income groups and how that effects the existing patterns for all components of the assessment
+      of fair housing (e.g., segregation and integration, access to opportunity). The element should
+      also discuss whether the distribution of sites improves or exacerbates conditions. If sites
+      exacerbate conditions, the element should identify further program actions that will be taken to
+      mitigate this (e.g., anti-displacement strategies).
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code,
+      § 65583, subd. (a)(7).)
+
+      Housing Condition: The element must estimate the number of units in need of
+      rehabilitation and replacement. The element notes that there were 17 units with verified
+      code violations between 2015-2022 (p. 88), but otherwise does not quantify the number of
+      units countywide that require some form of rehabilitation or replacement. The analysis
+      should include estimates from a recent windshield survey or sampling, estimates from the
+      code enforcement agency, or information from knowledgeable builders/developers,
+      including nonprofit housing developers or organizations. For additional information, see
+      the Building Blocks at https://www.hcd.ca.gov/housing-stock-characteristics.
+
+      Overpayment: While the element includes some quantification of overpaying households
+      (p. 96), it must specifically quantify and analyze lower-income households paying more than 30
+      percent of their income on housing by total number and tenure (i.e., renter and owner).
+
+      Homelessness: The element must include a current local estimate of the number of
+      homeless individuals and families in need of emergency shelter. The element notes on
+      page 113 that most of the homeless population is concentrated in the City of Napa and
+      indicates that the count for the number of homeless in the unincorporated portion of the
+      County is unavailable. Nevertheless, the element must still contain an estimate of
+      homeless individuals in the unincorporated areas of the County. The element could utilize
+      local data and knowledge from homeless providers to obtain this information.
+
+      Farmworkers: While the element notes the number of permanent and seasonal
+      farmworkers, given the significant need in the County, it should specifically evaluate
+      trends, characteristics, disproportionate needs, effectiveness of resources and strategies,
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                          Page 3
+November 7, 2022
+      magnitude of the housing need, including disproportionate housing needs. The analysis
+      may utilize past farmworker housing studies and should incorporate results from activities
+      funded by Regional Early Action Planning Grants (REAP). Local officials, special needs
+      service providers or County social and health service providers may also be able to assist
+      with information to complete the analysis. Based on the outcomes of the analysis, the
+      element should add or modify programs.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Parcel Listing: While the element lists sites by parcel number, parcel sizes, zoning, and
+      general plan designation, it must also describe existing uses for its nonvacant sites. The
+      element presents confounding information on pages 249-257 that identifies some sites are
+      nonvacant. However, the element cannot identify a vacant portion of a site and consider
+      the entire site vacant and should provide additional clarity or information on existing uses
+      for parcels that constitute the entire site.
+
+      Large Sites: Sites larger than 10 acres in size are deemed inadequate to accommodate
+      housing for lower-income housing unless it is demonstrated that sites of equivalent size
+      and affordability were successfully developed during the prior planning period or unless
+      the housing element describes other evidence to HCD that the site is adequate to
+      accommodate lower income housing. The element indicates that there are five sites
+      identified in the sites inventory as having parcels over 10 acres in size, notes that only a
+      portion of those larger sites are being proposed for inclusion in the sites inventory and
+      provides no further analysis on large sites identified in the sites inventory (p. 239). For
+      your information, smaller subsets of large sites cannot be included in the inventory without
+      adequate analysis. The element must include analysis for the suitability of large sites
+      based on the entire acreage of these sites. Based on the outcomes of a complete
+      analysis, the element should add or modify programs as necessary.
+
+      State-Owned Sites: The element identifies Site #5 (Imola Avenue) as state-owned. The
+      housing element must include a description of the County's plans, including any known
+      barriers to development in the planning period, anticipated schedule for development
+      including plans to sell or lease the property during the planning period and how the
+      jurisdiction will comply with the requirements of the Surplus Land Act Article 8
+      (commencing with Section 54220) of Chapter 5 of Part 1 of Division 2 of Title 5.
+
+      Suitability of Nonvacant Sites: While the element identifies nonvacant sites to accommodate
+      the regional housing need for lower-income households, it provides no description of how the
+      potential for redevelopment. For your information, the element must analyze the entirety of a
+      nonvacant site to identify the extent to which existing uses may impede additional residential
+      development; this analysis cannot be limited solely to the vacant portions of a nonvacant site.
+      The element must describe the methodology used to determine the additional development
+      potential within the planning period. The methodology must consider factors including the
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                           Page 4
+November 7, 2022
+      extent to which existing uses may impede additional residential development, development
+      trends, market conditions, any existing leases or other contracts that would perpetuate the
+      existing use or prevent redevelopment of the site for additional residential development, and
+      regulatory or other incentives or standards to encourage additional residential development on
+      these sites. (Gov. Code, § 65583.2, subd. (g).) For sites with residential uses, the inventory
+      could also describe structural conditions or other circumstances and trends demonstrating the
+      redevelopment potential to more intense residential uses. For nonresidential sites, the
+      inventory could also describe whether the use is operating, marginal or discontinued, and the
+      condition of the structure or could describe any expressed interest in redevelopment. For
+      additional information and sample analysis, see the Building Blocks at:
+      https://www.hcd.ca.gov/analysis-of-sites-and-zoning.
+
+      Additionally, the housing element appears to rely upon nonvacant sites to accommodate more
+      than 50 percent of the RHNA for lower-income households. Therefore, the housing element
+      must demonstrate that the existing use is not an impediment to additional residential
+      development in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) Absent findings
+      (e.g., adoption resolution) based on substantial evidence, the existing uses will be presumed to
+      impede additional residential development and will not be utilized toward demonstrating
+      adequate sites to accommodate the regional housing need allocation. HCD is not aware that
+      the County has made the appropriate finding. Any future adoption of the housing element must
+      include the appropriate finding as part of the adoption resolution.
+
+      Availability of Infrastructure: The element must demonstrate sufficient existing or planned
+      water, sewer, and other dry utilities supply capacity, including the availability and access to
+      distribution facilities to accommodate the County’s regional housing need for the planning
+      period. While the element provides a broad discussion of water and sewer infrastructure on
+      pp. 248-257, it presents confounding information for many of the sites identified in the
+      inventory. As an example, some sites include a discussion that notes water and sewer
+      infrastructure has been damaged due to wildfires, or that future efforts must be made to secure
+      adequate water and sewer capacity but does not identify how or when adequate water and
+      sewer capacity will be established. The element should be revised to clarify whether such
+      conditions impact the ability of the County to provide sufficient water and sewer capacity to
+      accommodate the RHNA or identify a program(s) to increase capacity, as necessary. For
+      additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/site-inventory-analysis/analysis-of-sites-and-
+      zoning.shtml#environmental.
+
+      Environmental Constraints: The element provides some general information on constraints
+      such as flood risk and fire hazard severity but presents confounding information on how
+      such hazards were analyzed for their ability to impact housing development in the current
+      planning period. This analysis is particularly significant given that the element indicated
+      that water and sewer infrastructure and several mobilehomes were destroyed by wildfires
+      in the prior planning period and many public comments identified fire hazards as a
+      constraint on sites identified in the inventory. In addition, the element should also include
+      analysis of any other known conditions or impacts on identified sites (e.g., topological
+      features, easements, conditions, and compatibility). This is especially relevant to the
+      Spanish Flat, given that this area has been identified in prior housing element cycles.
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                         Page 5
+November 7, 2022
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision
+      (b), the County must utilize standards, forms, and definitions adopted by HCD when
+      preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/housing-elements-hcd for a copy of the form and instructions. The
+      County can reach out to HCD at sitesinventory@hcd.ca.gov. for technical assistance.
+      Please note, upon adoption of the housing element, the County must submit an electronic
+      version of the sites inventory with its adopted housing element to
+      sitesinventory@hcd.ca.gov.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: The element notes that emergency shelters are permitted by-
+              right in the Industrial district (pp. 205 and 207) but must also clarify that the by-right
+              approval process is nondiscretionary. Further, the element must list and
+              demonstrate permit processing, development, and management standards are
+              objective and encourage and facilitate the development of, or conversion to,
+              emergency shelters. Lastly, the element must include analysis on proximity to
+              services and transportation, in addition to describing whether areas within the
+              district that may be unfit for human habitation. The element may need to add or
+              modify programs based on the outcomes of a complete analysis.
+          •   Supportive and Transitional Housing: The element states that the County permits
+              supportive and transitional housing in residential zones and is not subject to any
+              special regulations that are not applicable to other similar residential structures (pg.
+              207). However, the element should clarify whether this includes all zones allowing
+              residential uses, including mixed use zones and add or modify programs if
+              necessary.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element includes general information (pp. 209-220) relative to land
+      use controls but did not analyze these standards as potential constraints. Specifically, the
+      element must identify and analyze all relevant land use controls impacts as potential
+      constraints on a variety of housing types (e.g., multifamily rental housing, mobilehomes,
+      transitional housing). This is particularly significant for the Affordable Housing Combination
+      District (AHCD), given that this zone has not been particularly effective or utilized for housing
+      development beyond the requirements of the County’s inclusionary program. The analysis
+      must also evaluate the cumulative impacts of land use controls on the cost and supply of
+      housing, including the ability to achieve maximum densities and cost and supply of housing.
+      The analysis should also describe past or current efforts to remove identified governmental
+      constraints. As an example, the element identifies a maximum height of 35 feet for all of its
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                              Page 6
+November 7, 2022
+      zoning districts, a potential constraint on multifamily housing development. As another
+      example, the element notes that the R-C and R-M zones allow for multifamily but have
+      unknown lot coverages or lot coverages of less than 50%, a potential constraint on housing.
+      Lastly, the element did not analyze its parking requirements as potential constraints.
+      Depending on the outcomes of a complete analysis, the element may need to modify or
+      include programs to address or remove the identified constraints.
+
+      Fees and Exactions: While the element notes the County does not charge impact fees, it also
+      mentions fees for a typical single-family development of approximately $45,000 per unit and as
+      a result, should list and evaluate the various fees that result in these cumulative fees for
+      impacts on housing costs and feasibility. The element should conduct this same analysis for
+      multifamily development.
+
+      Local Processing and Permit Procedures: The element describes permit and processing
+      procedures on pages 216 to 219 but additional information is required to address this finding.
+      Specifically, the element notes that housing projects in the AHCD are subject to a conditional
+      use permit (CUP) if they have higher densities. The element should list and analyze findings
+      and procedures for the AHCD, including CUP approval findings for larger projects in the AHCD
+      as potential constraints on housing supply and affordability. In addition, the element should
+      also describe and analyze processing and approval procedures for the Planned Development
+      (PD) district. Depending on the outcomes of that analysis, the element may need to add or
+      modify programs as necessary.
+
+      Constraints on Housing for Persons with Disabilities:
+
+         •   Group Homes: The element currently notes that residential care facilities serving seven
+             or more persons are subject to a conditional use permit in the R-M zone. The element
+             should also analyze whether these uses are allowed in other residential zones and add
+             or modify programs to ensure zoning permits group homes objectively with approval
+             certainty in all residential zones. Additionally, the element notes on pg. 222 that large
+             group homes are defined as housing 13 or more persons and are subject to additional
+             spacing requirements. Consequently, the element should evaluate the threshold and
+             spacing requirements as potential constraints on housing for persons with disabilities.
+
+         •   Definition of Family: The element indicates that family is defined as “one or more
+             persons living together under a single management conducted by one or more of the
+             persons in the group” (pg. 223). The element should evaluate this definition as a
+             potential constraint on housing for persons with disabilities. As an example, the phrase
+             “...single management conducted by one or more of the persons in the group” could act
+             as a constraint on housing for persons with disabilities if the group home is managed
+             by a nonprofit entity.
+
+         •   Reasonable Accommodation: While the element included some information on the
+             County’s reasonable accommodation procedures (pp. 223-224), it must also analyze
+             the approval findings in Section 18.134.030 of the Napa County Code for potential
+             constraints on housing for persons with disabilities. As an example, the analysis should
+
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                         Page 7
+November 7, 2022
+             identify who approves requests, identify any fees charged by the County in processing
+             requests, and indicate whether there is an appeals process.
+
+      Local Ordinances: The element includes some analysis on locally adopted ordinances
+      including its inclusionary and growth control ordinances, but additional information is
+      required to address this finding. Specifically, the element should discuss options or any
+      other special requirements to its inclusionary housing program. In addition, the element
+      should fully describe the process and implementation of the Growth Management System
+      (GMS) and evaluate the GMS for any impacts on cost, timing, and project feasibility,
+      especially given that the GMS does not allow for the indefinite carry-over of unused market
+      rate housing allocations. The element should add or modify programs as appropriate
+      based on the outcomes of this analysis.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and achieve the goals and objectives of
+      the housing element, programs must have specific commitment and discrete timing (e.g.,
+      at least annually). Programs to be revised with discrete timing include H-2a (Affordable
+      Housing Combination District), H-2k (Water and Sewer Infrastructure), H-4f (Mobilehome
+      Parks). With respect to specific commitment, Program H-3g (Farmworker Housing) should
+      commit to how the County will work to support new farmworker housing such as annual
+      contact with nonprofit developers to identify development opportunities, annually pursuing
+      funding and include a numeric target for the planning period.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the County may need to add or revise programs to address a
+
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                        Page 8
+November 7, 2022
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+         •   State-Owned Sites: The housing element must include a program with specific
+             commitments and a schedule of actions for Site #5 (Imola Avenue) for the County’s
+             plans to schedule to sell or lease the property during the planning period and how
+             the jurisdiction will comply with the Surplus Land Act Article 8 (commencing with
+             Section 54220) of Chapter 5 of Part 1 of Division 2 of Title 5.
+
+         •   Shortfall of Sites: The element describes a shortfall of sites and indicates rezoning
+             will occur to accommodate the RHNA. While the element includes Program H-4g, it
+             must specifically commit to acreage, allowable densities and anticipated units. In
+             addition, if necessary, to accommodate the housing needs of lower-income
+             households, the program should specifically commit to meeting all by right
+             requirements pursuant to Government Code section 65583.2, subdivisions (h) and
+             (i).
+
+         •   Annexation: The element indicates several sites and projects are within the
+             County’s Rural Urban Limit (RUL)/Sphere of Influence (SOI) and are undergoing an
+             annexation process. If the County must rely on annexation to accommodate its
+             regional housing need, the element must add a program to commit to completing
+             the annexation and to rezone other sites if annexation is not completed by a date
+             specified in the program.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the County may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. The Housing Element shall include programs to conserve and improve the condition of the
+      existing affordable housing stock. (Gov. Code, § 65583, subd. (c)(4).)
+
+      While the element contains Program H-4f related to mobilehome preservation, the
+      program should be revised to include specific steps and timing commitments the County
+      will undertake in rehabilitation and rebuilding during the current planning period and
+      consider a higher numeric target for the planning period.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                          Page 9
+November 7, 2022
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must include a complete analysis of AFFH. Based on
+      the outcome of that analysis, the element must add or modify programs. Goals and actions
+      must specifically respond to the analysis and to the identified and prioritized contributing
+      factors to fair housing issues and must be significant and meaningful enough to overcome
+      identified patterns and trends. Actions must have specific commitment, milestones,
+      geographic targeting and metrics or numerical targets and, as appropriate, address
+      housing mobility enhancement, new housing choices and affordability in higher opportunity
+      or income areas (throughout the County), place-based strategies for community
+      preservation and revitalization and displacement protection.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+      can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      The element must commit to monitor ADU production and affordability throughout the
+      course of the planning period and implement additional actions if not meeting target
+      numbers anticipated in the housing element. Monitoring should occur at least twice in the
+      planning period. Additional actions, if necessary, should be taken in a timely manner (e.g.,
+      within 6 months). Finally, if necessary, the degree of additional actions should be in stride
+      with the degree of the gap in production and affordability. For example, if actual production
+      and affordability of ADUs is far from anticipated trends, then rezoning or something similar
+      would be an appropriate action. If actual production and affordability is near anticipated
+      trends, then measures like outreach and marketing might be more appropriate.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   The element provides a summary of quantified objectives on page 49 for the 6th cycle
+   planning period. For your information, conservation and rehabilitation objectives could be
+   supplemented to reflect units conserved or rehabilitated from Programs H-1a, H-1b, and H-1c,
+   as an example.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a general summary of the public participation process (pp. 1-24;
+   Appendix A), it must also demonstrate diligent efforts were made to involve all economic
+   segments of the community in the development of the housing element. The element describes
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                            Page 10
+November 7, 2022
+   outreach in which focus groups with conducted with various stakeholders, in addition to interviews
+   with Spanish speakers, but should also identify and describe additional opportunities were taken
+   to engage with lower-income and special needs populations in the community. As an example, the
+   element could describe efforts to conduct outreach at other public forums, such as schools, places
+   of worship, libraries, shopping centers, parks, and at community-led events. Further, although the
+   element summarizes public comments it received, it should also describe how they were
+   considered and incorporated into the element. As an example, the element should identify how it
+   considered and incorporated comments received regarding mobilehome parks and multi-
+   generational housing in its goals, actions, and programs.
+
+
+F. General Plan Consistency
+
+   The housing element shall describe the means by which consistency will be achieved with other
+   general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   While the element describes how General Plan consistency was achieved (pg. 24), it must also
+   identify how it will be maintained during the planning period. For example, to maintain internal
+   consistency, the element could include a program to conduct an internal consistency review of the
+   general plan as part of the annual general plan implementation report required by Government
+   Code section 65400. The annual report can also assist future updates of the housing element. For
+   additional information and a sample program, see the Building Blocks at
+   http://www.hcd.ca.gov/community-development/building-blocks/otherrequirements/analysis-
+   consistency-general-plan.shtml.
+
+
+
+
+County of Napa’s 6th Cycle Draft Housing Element (Update)                      Page 11
+November 7, 2022

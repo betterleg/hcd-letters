@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Azusa",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-05-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanAzusaAdoptedOut052022.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanAzusaAdoptedOut052022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 195292,
+  "text_chars": 17797,
+  "text_empty": false
+}

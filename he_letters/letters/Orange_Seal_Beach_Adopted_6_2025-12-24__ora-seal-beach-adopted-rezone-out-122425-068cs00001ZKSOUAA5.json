@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Seal Beach",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2025-12-24",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-seal-beach-adopted-rezone-out-122425-068cs00001ZKSOUAA5.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-seal-beach-adopted-rezone-out-122425-068cs00001ZKSOUAA5.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193162,
+  "text_chars": 7842,
+  "text_empty": false
+}

@@ -1,0 +1,526 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 22, 2023
+
+
+         Kimberly Cole, Director
+         Community Development Department
+         City of Monterey
+         570 Pacific Street
+         Monterey, CA 93940
+
+         Dear Kimberly Cole:
+
+         RE: City of Monterey’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Monterey’s (City) draft housing element received for
+         review on September 26, 2023, along with revisions received on December 8, 2023.
+         Pursuant to Government Code section 65585, the California Department of Housing
+         and Community Development (HCD) is reporting the results of its review. Our review
+         was facilitated by a conversation on November 14, 2023, with the City’s housing
+         element team. In addition, HCD considered comments from Jane Parker and
+         LandWatch, pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element, including revisions, addresses many statutory requirements;
+         however, revisions will be necessary to comply with State Housing Element Law (Gov.
+         Code, § 65580 et seq). The enclosed Appendix describes the revisions needed to
+         comply with State Housing Element Law.
+
+         Public participation in the development, adoption, and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government does not adopt a compliant housing element within 120 days of the
+         statutory deadline (December 15, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA) shall be
+         completed no later than one year from the statutory deadline pursuant to Government
+Kimberly Cole, Director
+Page 2
+
+
+
+Code sections 65583, subdivision (c) and 65583.2, subdivision (c). Otherwise, the local
+government’s housing element will no longer comply with State Housing Element Law,
+and HCD may revoke its finding of substantial compliance pursuant to Government
+Code section 65585, subdivision (i). Please be aware, if the City does not adopt a
+compliant housing element within one year from the statutory deadline, the element
+cannot be found in substantial compliance until these rezones are completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+Communities program, and HCD’s Permanent Local Housing Allocation consider
+housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the City will meet
+housing element requirements for these and other funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and dedication the City’s housing element team
+provided during the review. We are committed to assisting the City in addressing all
+statutory requirements of State Housing Element Law. If you have any questions or
+need additional technical assistance, please contact Mao Lee, of our staff, at
+Mao.Lee@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                     CITY OF MONTEREY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Disparities in Access to Opportunity: While the element reports data on disparities in
+      access to education, economic, and environmental opportunities, it should also address
+      disparities in access to transportation opportunities, including accessibility and
+      combined transportation and housing costs experienced by protected groups. Please
+      refer to page 35 of the AFFH guidebook (link: https://www.hcd.ca.gov/community-
+      development/affh/docs/AFFH_Document_Final_4-27-2021.pdf).
+
+      Disproportionate Housing Needs (Substandard Housing Conditions): While the element
+      included some data regarding housing conditions, it must also identify any
+      concentrations of substandard housing units or concentrations of older units in need of
+      rehabilitation at the local level.
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): While the element
+      provides information regarding site analysis and affirmatively furthering fair housing, the
+      element must also evaluate sites relative to the full scope of assessment of fair housing,
+      specifically factors regarding access to opportunity. For example, the element should
+      discuss whether the location of sites is consistent with the obligation to AFFH, and
+      whether the location of sites improves or exacerbates conditions.
+
+      Contributing Factors: Upon a complete analysis of AFFH, the element should re-assess
+      and prioritize contributing factors to fair housing issues.
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+City of Monterey’s 6th Cycle Draft Housing Element December                         Page 1
+22, 2023
+      Sites Inventory: The element must reconcile the information provided in Appendix A
+      (sites inventory). Multiple sites are listed with a maximum density of 30 units per acre,
+      but the total capacity well-exceeds the calculation. For example, a 1.26-acre site with a
+      maximum density of 30 du/ac is listed at a total capacity of 70 units, when it should be
+      38 units.
+
+      Realistic Capacity: The element mentions a survey of recent residential projects from
+      comparable sites in neighboring jurisdictions to establish the capacity assumptions in
+      the City’s housing element. While this approach is generally acceptable, the element
+      should list these examples by built densities, allowable densities and affordability and
+      also describe similarities in the zoning and development standards between the City
+      and neighboring jurisdictions cited, performance standards, processing, and permit
+      procedures, including the requirement for Conditional Use Permits (CUP), and
+      development trends supporting residential development.
+
+      In addition, given the City utilizes overlay and several sites with zoning that appear to
+      allow 100 percent nonresidential uses, the calculations of residential capacity should
+      account for the likelihood that sites will utilize the overlay and include a residential
+      component. For example, to demonstrate the likelihood of utilizing the overlay, the
+      element could discuss interest from property owners or developers. To demonstrate the
+      likelihood of a residential component, the element could examine all development in the
+      relevant zones and how often a residential component occurs.
+
+      Zoning for Lower-Income Households: The element must demonstrate adopted
+      densities appropriate to accommodate housing for lower-income households. For
+      communities with densities that meet specific standards (at least 20 units per acre for
+      Monterey), no analysis is required (Default Density). (Gov. Code, § 65583.2, subd.
+      (c)(3).) Otherwise, an analysis must demonstrate appropriate densities based on factors
+      such as market demand, financial feasibility, and development experience within
+      identified zones. To address this requirement, the element should clearly identify which
+      zones and allowable densities are being utilized to accommodate the lower-income
+      RHNA. If utilizing existing zoning, the element should either meet the Default Density
+      standard or demonstrate the appropriate densities based on the factors noted above. If
+      utilizing planned zoning, (e.g., Publicly-Owned sites, Education Workforce Housing
+      Overlay, Congregational Overlay), the element must include a program(s) rezoning sites
+      to meet all by-right requirements pursuant to Government Code section 65583.2,
+      subdivisions (h) and (i).
+
+      Suitability of Nonvacant Sites: The element currently divides the nonvacant analysis by
+      planned areas. While this approach is generally acceptable, the element must also
+      evaluate the extent existing uses on identified sites impede additional development. For
+      example, the evaluation should address (a) any existing leases or other contracts or
+      conditions that would perpetuate the existing use or prevent redevelopment of the site
+      for additional residential development; (b) existing regulatory framework, including
+      incentives and potential barriers such as heights, FARs and interior courtyard
+      requirements; (c) existing versus allowable floor area; (d) indicators of turnover such as
+      vacancy, for sale or frequent changes in use; (3) the viability of the existing use and
+
+City of Monterey’s 6th Cycle Draft Housing Element December                       Page 2
+22, 2023
+      impacts of relocation or continuing the use and (4) any other relevant factors that may
+      preclude or promote redevelopment.
+
+      In addition, for your information, the element relies on nonvacant sites to accommodate
+      50 percent or more of the housing needs for lower-income households, which triggers
+      requirements to make findings based on substantial evidence that the existing use is not
+      an impediment and will likely discontinue in the planning period. Absent findings (e.g.,
+      adoption resolution) based on substantial evidence, the existing uses will be presumed
+      to impede additional residential development and will not be utilized toward
+      demonstrating adequate sites to accommodate the RHNA.
+
+      Publicly-Owned Sites: While the element revised Program 1-E (Education Workforce
+      Housing Overlay) and added Program 1-L (County Courthouse Site) with a commitment
+      to comply with the Surplus Land Act and offer incentives, the Programs must also be
+      revised to include additional actions such as a schedule to issue a request for proposals
+      (RFP) for housing services and include additional actions to facilitate development on
+      this site given its importance in accommodating the RHNA. For example, the Program
+      could commit to facilitate entitlements and issue permits by a specific date consistent
+      with the assumptions in the sites inventory. The Programs should also commit to
+      alternative actions by a specified date if the sites do not progress toward completion in
+      the planning period, as anticipated.
+
+      Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre in
+      size are deemed inadequate to accommodate housing for lower-income households
+      unless it is demonstrated, with sufficient evidence, that sites are suitable to
+      accommodate housing for lower-income households. For small sites, the element must
+      provide specific examples with the densities, affordability and, if applicable,
+      circumstances leading to consolidation. The element should relate these examples to
+      the sites identified to accommodate the RHNA for lower-income households to
+      demonstrate that these sites can adequately accommodate the City’s lower-income
+      housing need. For large sites, the element must provide evidence to demonstrate the
+      suitability of sites larger than ten acres to accommodate housing for lower-income
+      households. The evidence could include additional discussion on how development
+      might occur on the sites, analysis of prior redevelopment of large sites for affordable
+      housing, or other evidence to demonstrate the suitability of these sites. Based on a
+      complete analysis, the City should consider adding or revising programs to include
+      incentives for facilitating development on small and large sites.
+
+      Accessory Dwelling Units (ADU): The element projects 120 ADUs over the planning
+      period or approximately 15 ADUs per year over the eight-year planning period. The
+      element also notes permitting 7 ADUs in 2018 and 2019, 13 in 2020, 9 in 2021, and 19
+      in 2022. These trends are inconsistent with HCD records (4 in 2018, 1 in 2019, 12 in
+      2020, 2 in 2021, and 21 in 2022) and do not support an assumption of 15 ADUs per
+      year. To support assumptions for ADUs in the planning period, the element should
+      reduce the number of ADUs assumed per year and reconcile trends with HCD records,
+      including additional information such as more recent permitted units and inquiries,
+      resources and incentives, other relevant factors and modify policies and programs as
+
+
+City of Monterey’s 6th Cycle Draft Housing Element December                       Page 3
+22, 2023
+      appropriate. Further, programs should commit to additional incentives and strategies
+      beyond zoning incentives for deed-restricted ADUs.
+
+      Availability of Infrastructure: While the element’s site inventory states that the Ryan
+      Ranch/Fort Ord site has current infrastructure in place, public comment regarding the
+      project appears to note the lack of available infrastructure to service the site. Therefore,
+      the element should reconcile this information and provide the most current information
+      regarding the suitability and availability of infrastructure, specifically water, to the Ryan
+      Ranch/Fort Ord site.
+
+      Infrastructure: While the element includes programs to maintain and augment the
+      existing water supply, the programs should be revised to include discrete timelines for
+      implementation throughout the planning period.
+
+      Replacement Housing: The element identifies sites with existing “mixed-uses”. The
+      element should clarify if mixed-uses constitute residential uses. In the event it does,
+      absent a replacement housing policy, these sites will not be considered adequate sites
+      to accommodate lower-income households. The replacement housing policy has the
+      same requirements as set forth in Government Code section 65915, subdivision (c),
+      paragraph (3).
+
+      Environmental Constraints: While the element discusses environmental constraints, it
+      should also address any other conditions that could preclude development in the
+      planning period. Examples of other conditions include shape, access, contamination,
+      relocation, title conditions, historic preservation, and easements.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+      Zoning for a Variety of Housing Types (Permanent Supportive Housing): Supportive
+      housing shall be a use by-right in zones where multifamily and mixed uses are
+      permitted, including nonresidential zones permitting multifamily uses pursuant to
+      Government Code section 65651. The element must demonstrate compliance with this
+      requirement and include programs as appropriate.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+
+
+City of Monterey’s 6th Cycle Draft Housing Element December                         Page 4
+22, 2023
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types (e.g., multifamily rental
+      housing). The analysis must also evaluate the cumulative impacts of land use controls
+      on the cost and supply of housing, feasibility, and ability to achieve maximum densities.
+      The analysis should specifically address heights, lot coverage, parking, including the
+      requirement for buildings with 25 or more units to provide two parking spaces per unit,
+      and other standards. Based on the outcomes of a complete analysis, the element
+      should include programs to address or remove the identified constraints.
+
+      Local Processing and Permit Procedures: The element describes some typical
+      permitting tracks under the City’s processes, including Architectural Review and use
+      permits but should also analyze the impacts on housing cost, timing, and approval
+      certainty. The analysis should specifically address approval findings for typical
+      development that are consistent with zoning and story pole requirements. The element
+      should include programs to address or mitigate identified constraints.
+
+      In addition, the element must describe how the City complies with the Permit
+      Streamlining Act, including intersections with the California Environmental Quality Act
+      and timing requirements, including streamlining determinations, and add or modify
+      programs as appropriate.
+
+      Constraints on Housing for Persons with Disabilities (Reasonable Accommodation):
+      While the element and the City’s zoning code describe the required findings to approve
+      a reasonable accommodation request, the element should add or modify a program to
+      remove the review authority from discretionary bodies when a reasonable
+      accommodation request is reviewed concurrently with another land use permit and
+      maintain the City Manager as the sole reviewer for all reasonable accommodation
+      requests.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …the
+      requests to develop housing at densities below those anticipated in the analysis
+      required by subdivision (c) of Government Code section 65583.2, and the length of time
+      between receiving approval for a housing development and submittal of an application
+      for building permits for that housing development that hinder the construction of a
+      locality’s share of the regional housing need in accordance with Government Code
+      section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Approval Time and Requests Lesser Densities: The element must include analysis of
+      requests to develop housing at densities below those identified, the length of time
+      between receiving approval for a housing development and submittal of an application
+      for building permits that potentially. The element must address any hindrance to the
+      development of housing and include programs as appropriate.
+
+   5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+City of Monterey’s 6th Cycle Draft Housing Element December                      Page 5
+22, 2023
+      Special Needs Households: The element reports data and includes a generic discussion
+      of housing challenges faced by special needs households. However, the element must
+      analyze the housing needs of special needs households for each special need group
+      including seniors, farmworkers, large households, persons with disabilities including
+      developmental disabilities, and persons experiencing homelessness. An analysis should
+      address household characteristics, trends, local knowledge such as service providers,
+      existing resources and strategies, and the magnitude of the gap in addressing those
+      housing needs.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, programs must be revised with discrete timelines early in the planning period
+      to ensure actual housing outcomes. Programs to be revised include Program 1-C
+      (Specific Plan Updates), Program 1-H (Fort Ord/Ryan Ranch Specific Plan), Program 1-
+      I (Highway 68 Area Plan Update), Program 2-B (Permit Thresholds for Multi-Family
+      Projects), and Program 2-D (Revise Adopted Plans with Objective Standards).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis; the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised as follows:
+
+          •   Shortfall of Sites to Accommodate the Lower-Income RHNA: As noted in Finding
+              A3, if rezoning is necessary, including appropriate densities, to accommodate the
+              lower-income RHNA, programs should specifically commit to acreage, allowable
+
+City of Monterey’s 6th Cycle Draft Housing Element December                        Page 6
+22, 2023
+              densities, and anticipated units. In addition, the program should specifically
+              commit to rezoning that meets all by-right requirements pursuant to Government
+              Code section 65583.2, subdivisions (h) and (i). Examples of by-right requirements
+              include permitting all multifamily developments without discretionary action in
+              which at least 20 percent of the units are affordable to lower-income households,
+              16 units per site, minimum densities, and residential-only performance standards.
+              Based on the information in the element, these by-right and other program
+              requirements may need to at least apply to Publicly-Owned sites, Educational
+              Workforce Overlay sites, and Congregational Overlay sites.
+
+              In addition, please be aware, that the recent California appellate decision in
+              Martinez v. City of Clovis found that while overlays can be used in a rezone,
+              when the base zone allows residential development, both the base zone and the
+              overlay zone must comply with the minimum density requirements of
+              Government Code section 65583.2, subdivision (h). If the City is relying on an
+              overlay to address a shortfall of capacity to accommodate the lower-income
+              RHNA, the City may need to adjust its rezoning strategy if the underlying zoning
+              for sites that will be rezoned allows minimum densities of less than 20 dwelling
+              units per acre. Martinez v. City of Clovis (2023) 90 Cal.App.5th 193, 307
+              Cal.Rptr.3d 64.
+
+          •   Publicly-Owned Sites: In addition to meeting various requirements described
+              above, Program 1-G (Surplus Municipal Parking Facilities), Program 1-H (Fort
+              Ord/Ryan Ranch Specific Plan), Program 1-I (Highway 68 Area Plan Update),
+              Program 1-L (County Courthouse Site) should commit to numerical objectives
+              consistent with assumptions in the sites inventory and a specific commitment to a
+              schedule of actions to facilitate development in the planning period, including
+              alternative actions completed by a specified date (e.g. by 2028) if the sites will
+              likely not develop in the planning period. Actions should include discrete timing
+              for outreach with developers, issuing requests for proposals, incentives, assisting
+              with funding and entitlement, and issuing building permits.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A3 and A4, the element requires a complete analysis of potential
+      governmental and non-governmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+City of Monterey’s 6th Cycle Draft Housing Element December                            Page 7
+22, 2023
+      As noted in Finding A1, the element must be revised to add or modify goals and actions
+      based on the outcomes of a complete analysis. Goals and actions must specifically
+      respond to the analysis and to the identified and prioritized contributing factors to fair
+      housing issues and must be significant and meaningful enough to overcome identified
+      patterns and trends. Actions must have specific commitment, metrics, and milestones
+      as appropriate and must address housing mobility enhancement, new housing choices
+      and affordability in high-opportunity areas, place-based strategies for community
+      preservation and revitalization, and displacement protection.
+
+      In addition, promoting housing mobility removes barriers to higher opportunity areas
+      and strategically enhances access to housing choices and affordability to promote
+      more inclusive neighborhoods, cities, and regions. Among other factors, the City is
+      predominantly a highest- and high-resourced community in contrast to the rest of the
+      region. As a result, the element should include significant and robust actions with
+      numerical targets (not limited to the RHNA) to promote housing mobility and increase
+      housing choices and affordability throughout the City. Examples include promoting
+      more housing choices and affordability in lower-density areas, religious institutional
+      sites, enhancing ADUs and junior accessory dwelling units (JADU), and home sharing
+      strategies.
+
+   5. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      As noted in Finding A2, the element assumed ADU projections beyond the per-year
+      average dating back to 2018. While the element includes Program 3-G to incentivize
+      deed-restricted ADUs, the element must add or modify programs to incorporate
+      additional ADU incentives should it want to assume ADU projections beyond the per-
+      year average to date.
+
+
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element (Appendix G) summarizes the public input received on the housing
+   element, the element must also demonstrate how this public input was incorporated into the
+   element’s policies and programs. In addition, while the element summarizes the public
+   input it received during the public draft review, it must also summarize and describe
+   additional public comments received and how it is incorporated into future submittals of the
+   housing element.
+
+
+
+
+City of Monterey’s 6th Cycle Draft Housing Element December                       Page 8
+22, 2023
+D. Coastal Zone
+
+   Coastal localities shall document the number of low- and moderate-income units converted
+   or demolished, and the number of replacement units provided. (Gov. Code, § 65588, subd.
+   (d).)
+
+   The element does not meet the statutory requirements. To determine whether the City’s
+   affordable housing stock in the coastal zone is being protected and provided as required by
+   Government Code section 65588, the element must be revised to include the following:
+
+      1. The number of new housing units approved for construction within the coastal zone
+         since January 1982.
+
+      2. The number of housing units for persons and families of low- and moderate-income
+         required to be provided in new housing developments either within the coastal zone
+         or within three miles.
+
+      3. The number of existing residential dwelling units occupied by low- and moderate-
+         income households either within the coastal zone or three miles of the coastal zone
+         that have been authorized to be demolished or converted since January 1982.
+
+      4. The number of residential dwelling units for low- and moderate-income households
+         that have been required for replacement.
+
+
+
+
+City of Monterey’s 6th Cycle Draft Housing Element December                     Page 9
+22, 2023

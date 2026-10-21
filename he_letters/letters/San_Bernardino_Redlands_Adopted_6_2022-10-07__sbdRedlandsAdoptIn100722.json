@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Redlands",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-10-07",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdRedlandsAdoptIn100722.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdRedlandsAdoptIn100722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 155088,
+  "text_chars": 3983,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Los Altos Hills",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-02-10",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-los-altos-hills-amdmt-rezone-in-021026-068cs00001olGouAAE.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-los-altos-hills-amdmt-rezone-in-021026-068cs00001olGouAAE.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189846,
+  "text_chars": 6403,
+  "text_empty": false
+}

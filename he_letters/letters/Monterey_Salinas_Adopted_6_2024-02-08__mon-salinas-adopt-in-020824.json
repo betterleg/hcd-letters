@@ -1,0 +1,14 @@
+{
+  "county": "Monterey",
+  "jurisdiction": "Salinas",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-02-08",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mon-salinas-adopt-in-020824.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mon-salinas-adopt-in-020824.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182924,
+  "text_chars": 4296,
+  "text_empty": false
+}

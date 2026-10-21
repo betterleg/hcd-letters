@@ -1,0 +1,14 @@
+{
+  "county": "Ventura",
+  "jurisdiction": "Ventura County",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-08-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venVenturaCouRevisedDraftIN082321.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venVenturaCouRevisedDraftIN082321.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 190529,
+  "text_chars": 5953,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Merced",
+  "jurisdiction": "Dos Palos",
+  "type": "Draft",
+  "cycle": "5",
+  "reviewed": "2020-03-19",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/merDosPalos03192020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/merDosPalos03192020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 181636,
+  "text_chars": 9483,
+  "text_empty": false
+}

@@ -1,0 +1,593 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 9, 2023
+
+
+         Lina Velasco, Director
+         Community Development Department
+         City of Richmond
+         450 Civic Center Plaza
+         2nd Floor
+         Richmond, CA 94804
+
+         Dear Lina Velasco:
+
+         RE: City of Richmond’s 6th Cycle (2023-2031) Draft and Adopted Housing Element
+
+         Thank you for submitting the City of Richmond’s (City) draft and adopted housing
+         element. The California Department of Housing and Community Development (HCD)
+         received the City’s housing element (adopted on January 24, 2023) for review on
+         February 8, 2023. The adopted housing element was received while the initial draft
+         (Received December 9, 2022) was under review. HCD is considering the adopted
+         element to replace the initial draft submittal and is reporting the results of its review of
+         the adopted element pursuant to Government Code section 65585, subdivision (b) and
+         (h). Please be aware; however, Government Code section 65585, subdivision (e)
+         requires local governments to consider HCD’s findings prior to adopting the housing
+         element. Therefore, as the City failed to comply with this requirement, the City must
+         consider HCD’s findings on the adopted element consistent with requirements pursuant
+         to Government Code sections 65585, subdivisions (e) and (f). In addition, HCD
+         considered comments from CarLa, 350 Contra Costa, YIMBY Law and Greenbelt
+         Alliance, and Scott Littlehale pursuant to Government Code section 65585, subdivision
+         (c).
+
+         The adopted element addresses many statutory requirements; however, revisions will
+         be necessary to comply with State Housing Element Law (Article 10.6 of the Gov.
+         Code). The enclosed Appendix describes the revisions needed to comply with State
+         Housing Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+Christina Horrisberger, Director
+Page 2
+
+
+
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+a local government fails to adopt a compliant housing element within 120 days of the
+statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+housing needs allocation (RHNA), including for lower-income households, shall be
+completed no later than one year from the statutory deadline. Otherwise, the local
+government’s housing element will no longer comply with State Housing Element Law,
+and HCD may revoke its finding of substantial compliance pursuant to Government
+Code section 65585, subdivision (i).
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+We are committed to assist the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Connor Finney, of our staff, at Connor.Finney@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                        APPENDIX
+                                    CITY OF RICHMOND
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s
+latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at http://www.hcd.ca.gov/community-development/building-
+blocks/index.shtml and includes the Government Code addressing State Housing
+Element Law and other resources.
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   As part of the review of programs in the past cycle, the element must analyze the
+   effectiveness of goals, policies, and related actions in meeting the housing needs of special
+   needs populations (e.g., elderly, persons with disabilities, large households, female headed
+   households, farmworkers and persons experiencing homelessness). While the element
+   quantifies results, it must also compare and evaluate those results to the objectives
+   projected or planned. Based on an evaluation, programs should be revised as appropriate
+   to reflect the results of this evaluation.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Regional Analysis: The element generally describes local patterns and trends but must
+      also analyze the City relative to the rest of the region regarding integration and
+      segregation, disparities in access to opportunity, particularly relating to access to
+      educational opportunities, and disproportionate housing needs and displacement risks.
+
+      Disproportionate Housing Needs including Displacement: While the element includes
+      some data on disproportionate needs, additional information is needed. The element
+      must describe any displacement risk due to disaster. In addition, the element must
+      include a local (within the City) analysis of substandard housing, evaluating areas of
+      higher need or concentrations of units in need of rehabilitation.
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                    Page 1
+March 9, 2023
+   2. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+      Overpayment: The element must quantify and analyze the number of lower-income
+      households overpaying by tenure (i.e., renter and owner).
+      Housing Costs: While the element includes estimated rents for residents, it utilizes
+      American Community Survey (ACS) data. The element should supplement census data
+      with other sources (e.g., local knowledge).
+
+      Housing Conditions: The element must include an estimate of the number of units in
+      need of rehabilitation and replacement. For example, the analysis could include
+      estimates from a recent windshield survey or sampling, estimates from the code
+      enforcement agency, or information from knowledgeable builders/developers, including
+      nonprofit housing developers or organizations.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+      Progress in Meeting the Regional Housing Needs Allocation (RHNA): The element must
+      demonstrate the affordability and availability of pipeline projects in the planning period.
+      The element should demonstrate affordability based on actual sales price, rent level or
+      other mechanisms ensuring affordability (e.g., deed restrictions). For availability, the
+      element should also discuss the status, any barriers to development and other relevant
+      factors to demonstrate their availability in the planning period. Furthermore, the element
+      should address public comments regarding the feasibility of brownfield sites being made
+      available during the planning period. In addition, the City should address the public
+      comment related to feasibility of development on the brownfield sites within the planning
+      period.
+
+      Realistic Capacity: While the element provides assumptions of buildout for sites
+      included in the inventory, it must also provide support for these assumptions. For
+      example, the element should demonstrate what specific trends, factors, and other
+      evidence led to the assumptions. The estimate of the number of units for each site must
+      be adjusted as necessary, based on the land use controls and site improvements,
+      typical densities of existing or approved residential developments at a similar
+      affordability level in that jurisdiction, and on the current or planned availability and
+      accessibility of sufficient water, sewer, and dry utilities. The element also should
+      analyze the likelihood that the identified units will be developed as noted in the inventory
+      in zones that allow 100 percent nonresidential uses (e.g., mixed-use). This analysis
+      should consider the likelihood of 100 percent nonresidential development, performance
+      standards, and development trends supporting the likelihood of residential development.
+
+
+
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                      Page 2
+March 9, 2023
+      Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+      accommodate housing for lower-income housing unless it is demonstrated that sites of
+      equivalent size and affordability were successfully developed during the prior planning
+      period for or unless the housing element describes other evidence that the site is
+      suitable and adequate to accommodate housing for lower-income households (Gov.
+      Code, § 65583.2, subd. (c)(2)(A).). For example, a site with a proposed and approved
+      housing development that contains units affordable to lower-income households would
+      be an appropriate site to accommodate housing for lower-income households. (Gov.
+      Code, § 65583.2, subd. (c)(2)(C).) Lastly the element must describe a history of lot
+      consolidation as a method of developing housing as well as whether the City has any
+      incentives to consolidate lots with different owners.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. To address this requirement, the
+      element describes in general the existing use of each nonvacant site. The description of
+      existing uses should be sufficiently detailed to facilitate an analysis demonstrating the
+      potential for additional development in the planning period. In addition, the element
+      must analyze the extent that existing uses may impede additional residential
+      development. The element can summarize past experiences converting existing uses to
+      higher density residential development, include current market demand for the existing
+      use, provide analysis of existing leases or contracts that would perpetuate the existing
+      use or prevent additional residential development and include current information on
+      development trends and market conditions in the City and relate those trends to the
+      sites identified. The element could also consider indicators such as age and condition of
+      the existing structure, expressed developer interest, existing versus allowable floor
+      area, low improvement to land value ratio, and other factors. For sites with residential
+      uses, the inventory could also describe structural conditions or other circumstances and
+      trends demonstrating the redevelopment potential to more intense residential uses. For
+      nonresidential sites, the inventory could also describe whether the use is operating,
+      marginal or discontinued, and the condition of the structure or could describe any
+      expressed interest in redevelopment. In addition, the element references Table B3, but
+      it should tie the examples to the nonvacant sites in the inventory and how they have
+      similar factors.
+
+      Replacement Housing Requirements: If the sites inventory identifies sites with existing
+      residential uses, it must identify whether the current residential uses are affordable to
+      lower-income households or describe whether the additional residential development on
+      the site requires the demolition of the existing residential use. For nonvacant sites with
+      existing, vacated, or demolished residential uses and occupied by, or subject to an
+      affordability requirement for, lower-income households within the last five years there
+      must be a replacement housing program for units affordable to lower-income
+      households (Gov. Code, § 65583.2, subd. (g)(3)). Absent a replacement housing
+      program, these sites are not adequate sites to accommodate lower-income households.
+      The replacement housing program has the same requirements as set forth in
+      Government Code section 65915, subdivision (c)(3). The housing element must be
+      revised to include such analysis and a program, if necessary.
+
+
+
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                    Page 3
+March 9, 2023
+      Accessory Dwelling Units (ADU): The element projects 517 ADUs over the planning
+      period which is significantly greater than current trends from 2018-2021. To support
+      assumptions for ADUs in the planning period, the element should reduce the number of
+      ADUs assumed per year and reconcile trends with HCD records, including additional
+      information such as more recent permitted units and inquiries, resources and incentives,
+      other relevant factors and modify policies and programs as appropriate. Further,
+      programs should commit to additional incentives and strategies, frequent monitoring for
+      production and affordability (every other year) and specific commitment to adopt
+      alternative measures such as rezoning or amending the element within a specific time
+      (e.g., six months) if needed.
+
+      AB 725: For jurisdictions that are considered Metropolitan, the element must identify at
+      least 25 percent of the remaining moderate and above moderate RHNA on sites that
+      allow at least four units of housing (e.g., four plex or greater) (Gov. Code, § 65583.2,
+      subd. (c)(4)).
+
+      Environmental Constraints: The element must relate environmental constraints to
+      identified sites and describe any other known environmental or other constraints that
+      could impact housing development on identified sites in the planning period.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: While the element allows emergency shelters by-right in at
+             least one zone, it must provide an analysis of proximity to transportation and
+             services for these sites, hazardous conditions, and any conditions in appropriate
+             for human habitability.
+         •   Low Barrier Navigation Centers: While the element includes a program to allow
+             Low Barrier Navigation Centers, it is limited to nonresidential zones. Low Barrier
+             Navigation Centers shall be a use by-right in zones where multifamily and mixed
+             uses are permitted, including nonresidential zones permitting multifamily uses
+             pursuant to Government Code section 65660. The element must demonstrate
+             compliance with this requirement and include programs as appropriate.
+         •   Permanent Supportive Housing: Supportive housing shall be a use by-right in
+             zones where multifamily and mixed uses are permitted, including nonresidential
+             zones permitting multifamily uses pursuant to Government Code section 65651.
+             The element must demonstrate compliance with these requirements and include
+             programs as appropriate.
+         •   Accessory Dwelling Units: After a cursory review of the City’s ordinance, HCD
+             discovered several areas which were not consistent with State ADU Law. HCD
+             will provide a complete listing of ADU noncompliance issues under a separate
+             cover. As a result, the element should add a program to update the City’s ADU
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                   Page 4
+March 9, 2023
+             ordinance in order to comply with state law. For more information, please consult
+             HCD’s ADU Guidebook, published in December 2020, which provides detailed
+             information on new state requirements surrounding ADU development.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types. The analysis should
+      analyze land use controls independently and cumulatively with other land use controls.
+      The analysis should specifically address requirements related to parking, heights, lot
+      coverage and limits on allowable densities. The analysis should address any impacts on
+      cost, supply, housing choice, affordability, timing, approval certainty and ability to
+      achieve maximum densities and include programs to address identified constraints. The
+      element must clarify whether the zoning is changing in the Richmond Corridors Form
+      Based Codes. If so, a rezone program may be necessary. The element should also
+      clarify what densities are allowed in the general plan designations and how they
+      corelate to the zoning districts. In addition, the element should clarify whether three-
+      story developments are allowed regardless of the height limits have to be below 35-foot
+      height restriction in the RM1 and RM2 zoning districts. The element should also analyze
+      whether open space requirements are a constraint on achieving maximum densities.
+      The element should also analyze whether the height limit of 35 feet is a constraint in the
+      CM1, CM2, CM3, and CM4 zones within 30 feet of a residential district or add a
+      program as appropriate. Lastly, the element should clarify whether covered parking
+      requirements are for both single and multifamily developments.
+
+      Fees and Exaction: The element must describe all required fees for single family and
+      multifamily housing development, including impact fees, not just deposits, and analyze
+      their impact as potential constraints on housing supply and affordability. While the
+      element currently lists fee deposits, it should estimate the actual cost of fees for a
+      typical single family and multifamily development. In addition, multifamily fees listed are
+      twice as high compared to single family developments, this should be analyzed with
+      additional programs added if necessary. Lastly, the element must clarify whether the
+      fees listed are both for single family and multifamily developments.
+
+      Local Processing and Permit Procedures: While the element includes information about
+      processing times, it should also describe the procedures for a typical single family and
+      multifamily development. The analysis should address the approval body, the number of
+      public hearing if any, approval findings and any other relevant information, specifically
+      for special use permits, site plans and architectural review (as well as whether finding
+      five is related to a crime free ordinance). The analysis should address impacts on
+      housing cost, supply, timing and approval certainty. The element should identify and
+      analyze approval findings for impacts on approval certainty, the presence of processes
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                      Page 5
+March 9, 2023
+      or guidelines to promote certainty and add or modify programs as appropriate. The
+      element should also list and analyze typical approval times for both single family and
+      multifamily developments. Lastly, the element should list and evaluate the findings for
+      conditional use permits (CUP) and planned unit developments (PUD) requirements.
+
+      Design Review: The element must describe and analyze the design review guidelines
+      and process, including approval procedures and decision-making criteria, for their
+      impact as potential constraints on housing supply and affordability. For example, the
+      analysis could describe required findings and discuss whether objective standards and
+      guidelines improve development certainty and mitigate cost impacts. The element must
+      demonstrate this process is not a constraint or include a program to address this
+      permitting requirement, as appropriate.
+
+      SB 330: The element should demonstrate how the City complies with SB 330 and add
+      or modify programs if necessary. For example, the element should address actions that
+      result in lesser intensification pursuant to Government Code section 66300 as well as
+      provisions related to the Housing Accountability and Permit Streamlining Acts.
+
+      Building Codes: The element states it is currently utilizes the 2019 Building Code but
+      should also discuss the more recent Building Code and add or modify programs, if
+      necessary.
+
+      Local Ordinances: While the element describes some local ordinances, it should
+      describe how Richmond Hills Initiative affect sites and development, including impacts
+      on housing supply (number of units), costs, feasibility and timing.
+
+      On/Off-Site Improvements: The element must identify typical subdivision level
+      improvement requirements, such as minimum street widths (e.g., 40-foot minimum
+      street width), and analyze their impact as potential constraints on housing supply and
+      affordability.
+
+      Constraints on Housing for Persons with Disabilities: The element briefly describes its
+      reasonable accommodation procedures. However, the element should also describe the
+      approval process and analyze any potential constraints on housing for persons with
+      disabilities. Lastly, group homes for seven or more persons appears to be excluded
+      from several zones allowing residential uses and subject to a CUP. The element should
+      evaluate these requirements as constraints and include specific commitment to amend
+      zoning and permit procedures to allow these uses in all zones allowing residential uses
+      with objectivity to facilitate approval certainty similar to other residential uses of the
+      same form. For more information, please see HCD’s guidance at
+      https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/group-home-
+      technical-advisory-2022.pdf.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2, and the length of time between
+      receiving approval for a housing development and submittal of an application for
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                   Page 6
+March 9, 2023
+      building permits for that housing development that hinder the construction of a locality’s
+      share of the regional housing need in accordance with Government Code section
+      65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Developed Densities and Permit Times: The element must be revised to include
+      analysis of requests to develop housing at densities below those anticipated, and the
+      length of time between receiving approval for a housing development and submittal of
+      an application for building permits that potentially hinder the construction of a locality’s
+      share of the regional housing need.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element. (Gov. Code,
+      § 65583, subd. (c).)
+
+      To address the program requirements of Government Code section 65583, subdivision
+      (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+      the City’s specific role in implementation; (2) definitive implementation timelines; (..3)
+      objectives, quantified where appropriate; and (4) identification of responsible agencies
+      and officials. Programs to be revised include the following:
+
+         •   Programs 1C (One Stop Permit Center), 2G (Pre-Approved Small Lot Home
+             Plans), 5B (Assistance for At-Risk Affordable Housing Units), and 6D
+             (Enforcement of Just Cause for Eviction Ordinance): The programs should be
+             revised to include proactive outreach throughout the planning period.
+         •   Program 1G (Compliance with Changes in State Housing Law): This program
+             should be revised to include specific timing for implementation. In addition, the
+             element must include specific actions to address identified governmental
+             constraints.
+         •   Program 2C (Affordable Housing Assets Fund): The program should be revised
+             to include specific timing of how often the City will seek new funding as well as
+             include proactive outreach.
+         •   Program 3A (Design Review and Use Permit Process Improvements): The
+             program should be revised to include specific actions that will be taken and
+             describe how design review findings and group home requirements will be
+             revised.
+         •   Program 3C (Objective Design Standards for Housing in the Form-Based Code):
+             The program should clarify whether the objective design standards will be for
+             both single family and multifamily developments.
+         •   Program 3D (Density Bonus): The program should be revised to include timing of
+             updating the ordinance as needed.
+
+
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                       Page 7
+March 9, 2023
+          •   Program 4D (State and Federal Housing Funds): While this program commits to
+              applying for funding, it should commit to applying for funding annually.
+          •   Program 4E (Homelessness Coordination Efforts): The program should include
+              specific timing for implementation.
+          •   Program 4F (Homelessness Strategic Plan): The program should be revised to
+              include specific timing to implement the actions in the plan.
+          •   Program 4J (Funding for Emergency, Transitional, and Supportive Housing): The
+              program should include specific timing of how often the City will seek funding.
+          •   Program 5C (Online Housing Resource Center): The program should include
+              timing on how often the resources will be updated.
+          •   Program 5L (Sanitary Sewer Lateral Grant Program): The program should
+              include proactive outreach to residents throughout the planning period.
+          •   Program 6A (Community Land Trust): The program should include specific timing
+              and actions to implement the plan.
+          •   Program 6V (LGBTQ+ Housing Issues): The program should include specific
+              timing to implement the identified solutions.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised as follows:
+
+      Program 2E (Accessory Dwelling Units (ADUs) and Junior Accessory Dwelling Units
+      (JADUs)): The program should be revised to monitor ADU production and affordability
+      every two years. In addition, the program should also include proactive outreach as well
+      as additional incentives to promote ADU development.
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The element must include a program(s) with specific actions and timelines to assist in
+      the development of housing for extremely low-income households. The program(s)
+      could commit the City to adopting priority processing, granting fee waivers or deferrals,
+
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                     Page 8
+March 9, 2023
+      modifying development standards, granting concessions and incentives for housing
+      developments that include units affordable to extremely low-income households;
+      assisting, supporting or pursuing funding applications; and outreach and coordination
+      with affordable housing developers.
+
+      In addition, the element must include programs to assist in the development of housing
+      for lower- and moderate-income households, including special needs households.
+      Specifically, programs should be added or modified to address the needs of
+      farmworkers and persons with disabilities. For example, for farmworkers, the element
+      could commit to proactive actions to coordinate with nonprofit developers, employers,
+      and other related organizations, to explore funding and incentives and to identify
+      specific development opportunities.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints. In addition, the element should be revised as follows:
+
+      Program 3E (Allow residential care facilities consistent with state law): This program
+      must be revised to allow group homes in all zones that allow residential uses,
+      objectively with approval certainty similar to other residential uses of the same form.
+
+      Program 4G (Low Barrier Navigation Centers and Emergency Shelters): While this
+      program commits to allowing low barrier navigation centers in nonresidential zones, it
+      should be revised to allow them as a use by-right in all zones where multifamily is
+      permitted.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must include a complete analysis of affirmatively
+      furthering fair housing (AFFH). Depending upon the results of that analysis, the City
+      may need to revise or add or modify goals and actions. In addition, goals and actions
+      must specifically respond to the analysis and to the identified and prioritized contributing
+      factors to fair housing issues and must be significant and meaningful enough to
+      overcome identified patterns and trends. Actions must have specific commitment,
+      milestones, geographic targeting and metrics or numerical targets and, as appropriate,
+      must address housing mobility enhancement, new housing choices and affordability in
+
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                         Page 9
+March 9, 2023
+      higher opportunity or relatively higher income areas, place-based strategies for
+      community preservation and revitalization and displacement protection.
+
+   6. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd.
+      (c)(6).)
+
+      Program 5A (Monitor At-Risk Affordable Housing Units): The program should be revised
+      to include proactive outreach to owners of properties with rental restrictions. In addition,
+      the element should include actions to ensure compliance with State Preservation Notice
+      Law Government Code sections 65863,10, 65863.11, and 65863.13.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for construction, it must also include
+   estimates for rehabilitation and conservation objectives that are not limited to at-risk
+   properties.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a summary of public participation including outreach to the
+   community, it must also address specific public comments related to site feasibility and
+   permitting processes.
+
+
+
+
+City of Richmond’s 6th Cycle (2023-2031) Draft Housing Element                    Page 10
+March 9, 2023

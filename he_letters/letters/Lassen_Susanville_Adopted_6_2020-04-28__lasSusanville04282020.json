@@ -1,0 +1,14 @@
+{
+  "county": "Lassen",
+  "jurisdiction": "Susanville",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2020-04-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lasSusanville04282020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lasSusanville04282020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 170522,
+  "text_chars": 3260,
+  "text_empty": false
+}

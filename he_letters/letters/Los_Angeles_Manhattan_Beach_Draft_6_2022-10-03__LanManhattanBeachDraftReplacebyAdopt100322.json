@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Manhattan Beach",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2022-10-03",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanManhattanBeachDraftReplacebyAdopt100322.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanManhattanBeachDraftReplacebyAdopt100322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 148177,
+  "text_chars": 1558,
+  "text_empty": false
+}

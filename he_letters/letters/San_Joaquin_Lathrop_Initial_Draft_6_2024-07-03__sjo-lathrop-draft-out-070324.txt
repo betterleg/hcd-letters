@@ -1,0 +1,366 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon St, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 3, 2024
+
+
+         Rick Caguiat, Director
+         Community Development Department
+         City of Lathrop
+         390 Towne Centre Drive
+         Lathrop, CA 95330
+
+         Dear Rick Caguiat:
+
+         RE: City of Lathrop’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Lathrop’s (City) draft housing element received for
+         review on April 5, 2024. Pursuant to Government Code section 65585, the California
+         Department of Housing and Community Development (HCD) is reporting the results of
+         its review. In addition, HCD considered comments from David Kellogg pursuant to
+         Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code,
+         § 65580 et seq). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due December 31, 2023. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described, adopt, and submit to HCD to
+         regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021),
+         as the City did not adopt a compliant housing element within 120 days of the statutory
+         deadline (December 31, 2023), the City must complete rezones to make prior identified
+         sites available or accommodate a shortfall of the regional housing need allocation
+         (RHNA) no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i). Please be aware, if the City does not adopt a
+         compliant housing element within one year from the statutory deadline, the element
+         cannot be found in substantial compliance until all necessary rezones are completed
+         pursuant to Government Code sections 65583, (c)(1)(A) and 65583.2, subdivision (c).
+Rick Caguiat, Director
+Page 2
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+Communities program, and HCD’s Permanent Local Housing Allocation consider
+housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the City will meet
+housing element requirements for these and other funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Joanna Chang, of our staff, at Joanna.Chang@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF LATHROP
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the Regional Housing Needs AllocationRegional Housing Needs
+      Allocation (RHNA): The element notes that the City has 43 moderate income units and
+      2,795 above moderate income units in the pipeline which equates to 2,838 units.
+      However, Table 4-1 (p. 91) reflects a pipeline of 2,009 units. The element must
+      reconcile this information and accurately report the number of units by income category
+      as progress towards the RHNA.
+
+      Additionally, the element is crediting several pipeline projects towards the moderate and
+      above-moderate RHNA. The element includes a listing of the project, number of units,
+      status, and remaining steps. However, the element should analyze this information to
+      demonstrate the likelihood that these units will be available during the planning period.
+      To demonstrate the availability of units within the planning period, the element could
+      analyze infrastructure schedules, the City’s past completion rates on pipeline projects,
+      outreach with developers, and should describe any expiration dates on entitlements,
+      anticipated timelines for final approvals, and any remaining steps for projects to receive
+      final entitlements.
+
+      Lastly, the City’s RHNA may be reduced by the number of new units built since
+      June 30, 2023; however, the element must describe the City’s methodology for
+      assigning these units to the various income groups based on actual or anticipated sales
+      price or rent level or other mechanisms ensuring affordability (e.g., deed-restrictions).
+
+
+
+
+City of Lathrop’s 6th Cycle Draft Housing Element                                   Page 1
+July 3, 2024
+      Realistic Capacity: The element notes that the City is assuming 80 percent of the
+      maximum allowable density in multifamily zoning districts. However, this assumption
+      does not appear to be supported by past multifamily trends as listed in Table 3-19. For
+      example, some recent multifamily developments appear to be 40-60 percent of
+      maximum allowable densities. Further, this analysis should incorporate the affordability
+      of recent development. The element should either supplement the analysis with
+      additional information related to multifamily and higher density projects or rescale
+      assumptions based on recent multifamily trends.
+
+      Additionally, the element is assuming 50 percent of maximum densities on sites that
+      allow 100 percent nonresidential uses (p. 95). While the element indicates the City has
+      made conservative assumptions, the element still should analyze the likelihood of
+      residential development in zoning where 100 percent nonresidential uses are allowed.
+      The analysis should be based on factors such as development trends including
+      nonresidential, performance standards requiring residential uses or other relevant
+      factors such as enhanced policies and programs.
+
+      Suitability of Nonvacant Sites: The element is relying on nonvacant sites to
+      accommodate a portion of the RHNA. The element notes that nonvacant sites include
+      city-owned properties with temporary uses that will be redeveloped and sites with 1-2
+      residential units including mobilehomes that are 50 percent underutilized (p. 96). The
+      element includes a high-level statement that the City has seen redevelopment trends
+      with these types of sites and existing uses. First, the element must clearly list any
+      objective criteria used to identify sites including the actual values of the criteria in the
+      inventory to relate it to the analysis and discuss how these factors are indicative of
+      redevelopment potential. For example, while the element lists the existing uses in the
+      sites inventory (Appendix A), it did not quantify the degree of underutilization.
+
+      To facilitate an analysis demonstrating potential for additional development, the element
+      should summarize past experiences converting existing uses to higher density
+      residential development, include current market demand for the existing use, provide
+      analysis of existing leases or contracts that would perpetuate the existing use or prevent
+      additional residential development, include current information on development trends
+      and market conditions in the City and relate those trends to the sites identified. For
+      example, while the element provided few project examples, it provided no analysis
+      demonstrating the applicability to existing uses in the sites inventory. The element
+      should discuss the characteristics of those project examples (e.g., existing uses, zoning,
+      affordability level, market area) and consider its applicability to the identified sites.
+
+      Additionally, if the element identifies sites with existing residential uses. Absent a
+      replacement housing policy, these sites are not adequate sites to accommodate lower-
+      income households. The replacement housing policy has the same requirements as set
+      forth in Government Code section 65915, subdivision (c), paragraph (3).
+
+      Lastly, while the element currently utilizes mostly vacant sites toward the lower-income
+      RHNA, for future housing element submittals, if the housing element relies upon
+      nonvacant sites to accommodate more than 50 percent of the RHNA for lower-income
+
+
+City of Lathrop’s 6th Cycle Draft Housing Element                                    Page 2
+July 3, 2024
+      households, the housing element must demonstrate that the existing use is not an
+      impediment to additional residential development in the planning period (Gov. Code,
+      § 65583.2, subd. (g)(2).). This can be demonstrated by providing substantial evidence
+      that the existing use is likely to be discontinued during the planning period (Gov. Code,
+      § 65583.2, subd. (g)(2).).
+
+      Sites Identified from Prior Planning Periods: Sites identified in prior planning periods
+      shall not be deemed adequate to accommodate the housing needs for lower-income
+      households unless a program, meeting statutory requirements, requires rezoning within
+      the timeframe specified in Government Code section 65583.2(c). The element should
+      clarify if sites were identified in prior planning periods and if so, which sites and add or
+      modify a program pursuant to Government Code section 65583.2(c). For more
+      information on program requirements, please see HCD’s Housing Element Sites
+      Inventory Guidebook at https://www.hcd.ca.gov/community-development/housing-
+      element/housing-element-memos/docs/sites_inventory_memo_final06102020.pdf.
+
+      Environmental Constraints: While the element included a broad discussion of general
+      environmental constraints, it should discuss environmental constraints relative to
+      identified sites and describe any other known environmental or other constraints (e.g.,
+      shape, access, easements, conservation easements, Williamson Act contracts, military,
+      airport and other compatibility, contamination) that could impact housing development
+      on identified sites in the planning period.
+
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision
+      (b), the City must utilize standards, forms, and definitions adopted by HCD when
+      preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-elements for a
+      copy of the form and instructions. The City can reach out to HCD at
+      sitesinventory@hcd.ca.gov for technical assistance. Please note, upon adoption of the
+      housing element, the City must submit an electronic version of the sites inventory with
+      its adopted housing element to sitesinventory@hcd.ca.gov.
+
+   2. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: While the element includes a listing of all land use controls for most
+      zones, it must include and analyze all development standards for the MU-RI zone
+      including setback requirements. Lastly, the element should evaluate the City’s parking
+      requirements as potential constraints to multifamily development. For example, the City
+      appears to require greater than two spaces per unit for multifamily uses which impacts
+      housing costs for smaller bedroom types (e.g., studio and one bedroom). The analysis
+
+
+
+
+City of Lathrop’s 6th Cycle Draft Housing Element                                   Page 3
+July 3, 2024
+      should address any impacts on cost, supply, housing cost and ability to achieve
+      maximum densities and include programs to address identified constraints.
+
+      Local Processing and Permit Procedures: The element should address public
+      comments on this revised draft submittal and discuss compliance with the Permit
+      Streamlining Act and intersections with CEQA and timing requirements, including
+      streamlining determinations and add or modify programs as appropriate.
+
+      Design Review: The element includes some general information regarding the design
+      review process. However, a complete analysis must list and analyze all approval
+      procedures and decision-making criteria. The evaluation should address the impacts of
+      these decision-making criteria on housing supply, cost, and particularly approval
+      certainty. The analysis may discuss how the City mitigates potential impacts such as
+      pre-application reviews, guidelines or objective standards. Based on the outcomes of an
+      analysis, the element must add or modify programs to address identified constraints.
+
+      Constraints on Housing for Persons with Disabilities (Reasonable Accommodation):
+      The element briefly describes the City’s reasonable accommodation procedures and
+      includes a program to update the process. However, the element should also describe
+      the decision-making criteria, application requirements, approval findings, fees, and
+      analyze any potential constraints on housing for persons with disabilities. Based on a
+      complete analysis, the element should add or modify program(s) to address any
+      potential constraints.
+
+
+B. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A1, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+      In addition, Program 12 (Zoning Ordinance Amendments) should commit to incorporate
+      a definition of emergency shelters in the zoning ordinance to comply with Government
+
+
+City of Lathrop’s 6th Cycle Draft Housing Element                                  Page 4
+July 3, 2024
+      Code section 65583(a)(4)(C). For your information, the definition of emergency shelters
+      includes other interim interventions, including but not limited to, navigation centers,
+      bridge housing, and respite or recuperative care.
+   2. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Farmworkers: The element includes some general commitments to address
+      farmworkers including complying with the Employee Housing Act (EHA) and broader
+      outreach efforts. However, given the importance of farmworkers and the local and
+      regional needs, the element must include specific and significant actions to address the
+      needs of farmworkers that are responsive to the analysis. The element should include a
+      program that specifically addresses issues of substandard housing for farmworkers
+      including applying for funding, establishing or expanding existing programs related to
+      rehabilitation, outreach and technical assistance with employers, and additional support
+      such as expediated permitting, flexible development standards, gap funding, fee
+      waivers, and applying for state and federal funding.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A2, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the City may
+      need to revise or add programs and address and remove or mitigate any identified
+      constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      While the element includes some programs to address affirmatively furthering fair
+      housing (AFFH), this generally does not address respond to the analysis and to the
+      identified and prioritized contributing factors. Goals and actions must be significant and
+      meaningful enough to overcome identified patterns and trends. Actions must have
+      specific commitments, milestones, geographic targeting and metrics or numerical
+      targets and, as appropriate, address housing mobility enhancement (housing choices
+      and affordability across geographies), new housing choices and affordability in relatively
+      higher opportunity or income areas, place-based strategies for community preservation
+      and revitalization, and displacement protection.
+
+
+
+
+City of Lathrop’s 6th Cycle Draft Housing Element                                      Page 5
+July 3, 2024
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element notes that public comments were collected and considered, it should
+   also summarize the public comments and describe how they were considered and
+   incorporated into the element. For additional information, see the Building Blocks at
+   https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+   blocks/public-participation.
+
+
+
+
+City of Lathrop’s 6th Cycle Draft Housing Element                           Page 6
+July 3, 2024

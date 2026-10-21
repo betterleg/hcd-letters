@@ -1,0 +1,326 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 27, 2024
+
+
+         Ken Zuidervaart, Director
+         Planning Department
+         City of Ripon
+         259 North Wilma Avenue
+         Ripon, CA 95366
+
+         Dear Ken Zuidervaart:
+
+         RE: City of Ripon’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Ripon’s (City) draft housing element that was
+         received for review on August 30, 2024. Pursuant to Government Code section 65585,
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. In addition, HCD considered comments from David Kellogg
+         pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code,
+         § 65580 et seq). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due December 31, 2023. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021),
+         as the City did not adopt a compliant housing element within 120 days of the statutory
+         deadline (December 31, 2023), any rezoning to make prior identified sites available or
+         accommodate the regional housing needs allocation (RHNA) must be completed no
+         later than one year from the statutory deadline. Otherwise, the local government’s
+         housing element will no longer comply with State Housing Element Law, and HCD may
+         revoke its finding of substantial compliance pursuant to Government Code section
+         65585, subdivision (i). Please be aware, if the City does not adopt a compliant housing
+         element within one year from the statutory deadline, the element cannot be found in
+         substantial compliance until all necessary rezones are completed pursuant to
+         Government Code sections 65583, subdivision (c)(1)(A) and 65583.2, subdivision (c).
+Ken Zuidervaart, Director
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special-needs households, by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+Communities program, and HCD’s Permanent Local Housing Allocation consider
+housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the City will meet
+housing element requirements for these and other funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the coordination and effort provided by the housing element update
+team to prepare the housing element as part of the multi-jurisdictional housing element
+process. We are committed to assisting the City in addressing all statutory requirements
+of State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Irvin Saldana, of our staff, at Irvin.Saldana@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                         APPENDIX
+                                       CITY OF RIPON
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Racially Concentrated Areas of Affluence (RCAA): The element briefly mentions RCAAs
+      in the City (p. 122). However, the element should also analyze the RCAA, including
+      trends, conditions, comparisons with other neighborhoods and other relevant factors
+      such as land use and zoning to better understand differences across neighborhoods.
+      Based on this analysis, the element must add or modify programs, including actions
+      aimed at improving housing mobility within the City.
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element maps
+      identified sites and includes some descriptions and conclusions related to the
+      components of a fair housing analysis. However, the element should also identify the
+      number of units by income group and location, including pending, approved or recently
+      completed projects (pipeline) and analyze the impact on existing fair housing conditions.
+
+      Local Data and Knowledge and Other Relevant Factors: The element includes a
+      historical discussion of the City’s early development, information on the City’s
+      development, including past redlining and racially restrictive covenants (p.101).
+      However, an analysis should also incorporate local data and knowledge, and other
+      relevant factors to comprehensively describe fair housing conditions, including socio-
+      economic patterns and disparities in access to opportunities. For example, local data
+      could include recent engineering reports, assessments of infrastructure quality and
+      availability, public safety reports, and details of capital improvement programs to better
+      capture the full scope of fair housing conditions in the area.
+
+      Contributing Factors: The element should prioritize and re-assess contributing factors to
+      fair housing issues based on the outcomes of a complete analysis.
+
+
+City of Ripon’s 6th Cycle (2023-2031) Draft Housing Element                        Page 1
+November 27, 2024
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the Regional Housing Needs Allocation (RHNA): The City’s RHNA
+      may be reduced by the number of pending, approved or completed (pipeline) units since
+      June 30, 2023; however, the element must demonstrate their affordability and
+      availability in the planning period. For availability, the element should discuss remaining
+      steps, any known barriers and likelihood of construction in the planning period. For
+      affordability, the element should discuss the actual or anticipated sales prices or rents of
+      the units expected to be affordable to moderate income households or utilize different
+      assumptions such as utilizing the units toward the above moderate income RHNA.
+
+      Environmental Constraints: While the element provides a general description of some
+      environmental conditions within the City (p. 82), it should also analyze any other known
+      environmental or physical constraints that could preclude housing development on
+      identified sites during the planning period. Examples of other known conditions include
+      site shape, access, contamination, property conditions, easements, conservation
+      easements, zoning overlays, and compatibility with nearby airports or military areas.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, subdivision (b), the City must utilize standards, forms, and definitions adopted
+      by HCD when preparing the sites inventory and submit an electronic version of the sites
+      inventory. While the City has submitted an electronic version of the sites inventory, if
+      changes occur, any future re-adopted versions of the element must also submit the
+      electronic version of the sites inventory.
+
+      Zoning for a Variety of Housing Types (Emergency Shelters): The element generally
+      describes acreage and capacity of zones for emergency shelters (pp. 58-59) but should
+      also analyze proximity to services and transportation. In addition, the element should
+      clarify that emergency shelters are permitted without discretionary action in the City’s
+      R4-U and MU zones.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: While the element lists zones and development standards, including
+      in the City’s North Pointe Specific Plan (NPSP), it should also analyze the zones and
+      development standards. The analysis should particularly evaluate impacts on housing
+      supply (number of units), housing costs and impacts on the ability to achieve maximum
+      densities. The analysis should specifically analyze the apparent lack of a fixed lot
+
+City of Ripon’s 6th Cycle (2023-2031) Draft Housing Element                         Page 2
+November 27, 2024
+      coverage standards in multifamily zones, heights and lot coverages in nonresidential
+      zones and multifamily parking requirements for smaller bedroom types (e.g., studios).
+      Based on the outcomes of a complete analysis, the element should add or modify
+      programs to address identified constraints.
+
+      Processing and Permit Procedures: The element should address public comments on
+      this draft submittal and discuss compliance with the Permit Streamlining Act and
+      intersections with CEQA and timing requirements, including streamlining determinations
+      and add or modify programs as appropriate.
+
+
+B. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis; the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+   2. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Program 4 (Partnerships and Assistance for Affordable Housing): The Program should
+      specifically commit to proactively identify and pursue affordable housing opportunities,
+      at least every other year.
+
+      Farmworkers: The element should add or modify programs to assist in the development
+      and conservation of housing for farmworkers. Examples of actions include proactively
+      identifying housing opportunities at least every other year, efforts to collaborate with
+      nonprofit developers, employers, and related organizations and pursue additional
+      strategies and funding, pursuing funding and incentives, establishing strategies to
+      integrate housing for farmworkers into affordable housing and targeting rehabilitation,
+      conservation, and improvement programs.
+
+
+
+
+City of Ripon’s 6th Cycle (2023-2031) Draft Housing Element                        Page 3
+November 27, 2024
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities... (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A3, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the City may
+      need to revise or add programs and address and remove or mitigate any identified
+      constraints.
+
+      In addition, Program 11 (Growth Accommodation and Residential Building Cap)
+      commits to review the City’s building cap and comply with state law, including the
+      Housing Crisis Act (HCA). However, the Program should commit to immediately comply
+      with the HCA, which among other things, precludes regulating the number of permits,
+      caps on housing units or limits on population. Further, the Program should commit to
+      continue to evaluate the growth control as a potential constraint on housing supply, cost
+      and timing and approval certainty and address identified constraints within a specified
+      time.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element requires a complete AFFH analysis. Depending
+      upon the results of that analysis, the City may need to add or modify programs.
+
+      In addition, goals and actions must specifically respond to the analysis and to the
+      identified and prioritized contributing factors to fair housing issues and must be
+      significant and meaningful enough to overcome identified fair housing conditions.
+      Actions should include specific commitments, metrics, and milestones where
+      appropriate, and must focus on enhancing housing mobility, increasing housing choices
+      and affordability in relatively higher median-income and opportunity areas, implementing
+      place-based strategies for community revitalization, and providing protection against
+      displacement. For example, programs aimed at targeted outreach and education should
+      be revised to incorporate additional metrics (p. 23). Other examples of programs that
+      should be revised include Programs 7 (Assist First-Time Homebuyers), 8 (Below Market
+      Rate Housing Program), and 16 (Housing Rehabilitation and Neighborhood
+      Improvement).
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+
+
+
+City of Ripon’s 6th Cycle (2023-2031) Draft Housing Element                            Page 4
+November 27, 2024
+   The element provides a summary of quantified objectives, including estimates for new
+   construction and rehabilitation (p. 30). However, the element could consider additional
+   conservation objectives. Conservation objectives may include strategies intended to
+   conserve housing such as tenant stability, code enforcement, and energy conservation.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   The element describes outreach efforts such as a survey, community workshops and
+   outreach to representatives but should also discuss the results of those outreach efforts in
+   achieving the participation of all economic segments of the community and incorporate
+   additional methods (e.g., stakeholder interviews) as necessary as part of future submittals.
+   Further, the element should summarize feedback, key takeaways and comments and
+   discuss how that input was incorporated into the housing element.
+
+
+
+
+City of Ripon’s 6th Cycle (2023-2031) Draft Housing Element                       Page 5
+November 27, 2024

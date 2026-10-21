@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "Santee",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-12-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanteeRezoningCompliance120622.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanteeRezoningCompliance120622.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 179896,
+  "text_chars": 4578,
+  "text_empty": false
+}

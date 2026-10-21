@@ -1,0 +1,636 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 7, 2022
+
+
+         Gary Hallen, Director
+         Community Development and Housing Department
+         County of San Bernardino
+         385 North Arrowhead Ave., 3rd Floor
+         San Bernardino, CA 92415-0043
+
+         Dear Gary Hallen:
+
+         RE: County of San Bernardino’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the County of San Bernardino’s (County) draft housing
+         element received for review on December 9, 2021. Pursuant to Government Code
+         section 65585, subdivision (b), the California Department of Housing and Community
+         Development (HCD) is reporting the results of its review. In addition, HCD considered
+         comments from Steve Bardwell, Janet Johnston, and the California Consortium of
+         Addiction Programs and Professionals, Inland Counties Legal Services, Janet Johnston,
+         and Steve Bardwell pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         As a reminder, the County’s 6th cycle housing element was due October 15, 2021. As
+         of today, the County has not completed the housing element process for the 6th cycle.
+         The County’s 5th cycle housing element no longer satisfies statutory requirements.
+         HCD encourages the County to revise the element as described above, adopt, and
+         submit to HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+         housing needs allocation, including for lower-income households, shall be completed no
+         later than one year from the statutory deadline. Otherwise, the local government’s
+         housing element will no longer comply with State Housing Element Law, and HCD may
+         revoke its finding of substantial compliance pursuant to Government Code section
+         65585, subdivision (i).
+Gary Hallen, Director
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the County should continue to engage the community, including organizations
+that represent lower-income and special needs households, by making information
+regularly available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the County meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the County to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+We are committed to assisting the County in addressing all statutory requirements of
+State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Reid Miller, of our staff, at (916) 695-7998.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                       APPENDIX
+                               COUNTY OF SAN BERNARDINO
+
+The following changes are necessary to bring the County’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   The element must provide a cumulative evaluation of the effectiveness of past goals, policies,
+   and related actions in meeting the housing needs of special needs populations (e.g., elderly,
+   persons with disabilities, large households, female headed households, farmworkers, and
+   persons experiencing homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Outreach: Outreach specifically related to affirmatively furthering fair housing (AFFH)
+      is foundational to a complete analysis and formulating appropriate goals and actions
+      to overcome patterns of segregation and foster more inclusive communities. While the
+      element explains some over-arching and general comments, it should summarize and
+      relate these comments and outreach efforts to all components of the AFFH analysis
+      and modify or add goals and actions as appropriate.
+
+      Assessment of Fair Housing: The element reports and maps data on components of the
+      assessment of fair housing (e.g., segregation and integration, disparities in access to
+      opportunity) but it must also analyze the information such as evaluating patterns, trends,
+      conditions and circumstances, coincidence with other components of the assessment of
+      fair housing and the effectiveness of past and current strategies to promote inclusive
+      communities and equitable. This analysis should be complemented by local data and
+      knowledge, including input from comments, and other relevant factors as described below.
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                       Page 1
+February 7, 2022
+      Enforcement: While the element includes analysis of fair housing complaints, it must
+      describe the County’s compliance with existing fair housing laws and regulations. For
+      additional information, please see pages 28-30 on HCD’s AFFH Guidance Memo at
+      https://www.hcd.ca.gov/community-development/affh/index.shtml.
+      Displacement: While the element analyzed displacement risk relative to disproportionate
+      housing needs (e.g., overcrowded and cost burdened households), it should also consider
+      other factors that may contribute to increased displacement concerns. For example, the
+      County has received numerous public comments stating that short-term rentals have
+      caused displacement in specific community plan areas. The element could include an
+      analysis evaluating whether short term rentals is contributing factor to displacement
+      pressures.
+      Local Knowledge and Data: The element should complement federal, state, and regional
+      data with local data and knowledge where appropriate to capture emerging trends and
+      issues, including utilizing knowledge from local and regional advocates, public comments,
+      and service providers.
+      Other Relevant Factors: The element must include other relevant factors that contribute to
+      fair housing issues in the jurisdiction. For instance, the element should analyze historical
+      land use, zoning, governmental and nongovernmental spending including transportation
+      investments, demographic trends, historical patterns of segregation, or other information
+      that may have impeded housing choices and mobility.
+      Contributing Factors to Fair Housing Issues: The element includes contributing factors to
+      fair housing issues but should re-evaluate and prioritize these factors based on a complete
+      analysis to better respond to the fair housing issues.
+
+      Site Inventory: The element includes some general discussion and conclusions that
+      identified sites for lower-income households are concentrated in certain areas of the
+      County. However, the element does not address this requirement. The analysis must
+      identify whether sites improve or exacerbate conditions and whether sites are isolated by
+      income group. A full analysis should address the income categories of identified sites with
+      respect to location, the number of sites and units by all income groups and how that
+      affects the existing patterns for all components of the assessment of fair housing (e.g.,
+      segregation and integration, access to opportunity). The element should also discuss
+      whether the distribution of sites improves or exacerbates fair housing conditions and add
+      or modify programs as appropriate.
+
+      Goals, Actions, Metrics, and Milestones: The element must be revised to add or modify
+      goals and actions based on the outcomes of a complete analysis. Goals and actions must
+      specifically respond to the analysis and to the identified and prioritized contributing factors
+      to fair housing issues and must be significant and meaningful enough to overcome
+      identified patterns and trends. Actions must have specific commitment, metrics, and
+      milestones as appropriate and must address, as appropriate based on the outcomes of the
+      analysis, housing mobility enhancement, new housing choices and affordability in high
+      opportunity areas, place-based strategies for community revitalization and displacement
+      protection. For further guidance, please visit HCD’s AFFH in California webpage at
+      https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                         Page 2
+February 7, 2022
+   2. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).
+
+      Housing Stock Conditions: While the element identifies the age of the housing stock, it
+      must estimate the number of units in need of rehabilitation and replacement. For additional
+      information, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/housing-needs/housing-stock-characteristics.shtml.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the Regional Housing Need Allocation (RHNA):
+
+          •   Lower-income Pipeline Developments: The element indicates (p. 4-23) that 597
+              units affordable to lower income household have been built or are under
+              construction or approved and that affordability was determined through land value,
+              building permit valuation, and typical cost of land. However, the element must
+              assign affordability of these units based on actual sales price or rent level of the
+              units and demonstrate their availability in the planning period.
+
+          •   Accessory Dwelling Unit (ADUs): The element is counting 442 ADUs as credit
+              towards RHNA. First, the element must demonstrate the availability of these units
+              during the planning period. For example, the element could discuss whether these
+              units have pending or approved building permits or should discuss the likelihood or
+              approvals being issued building permits. Second, the element assumes affordability
+              of ADUs based off SCAG’s affordability calculations pre-approved for projecting
+              ADUs during the planning period. However, since these units are proposed,
+              affordability of these units should be based on actual sales price or rent level of the
+              units.
+
+      Projected Manufactured, Accessory Dwelling Units, and Single Family Homes:
+
+          •   Manufactured Homes: The element is projecting 270 manufactured homes as
+              progress towards meeting RHNA across all income elves. The projection is based
+              on pipeline projects and overall development trends. While the element does
+              demonstrate trends and community need for this type of housing, it must discuss
+              and analyze affordability assumptions. For example, the element should discuss the
+              cost of a manufactured home including land, infrastructure and other related costs
+              and compare that to the maximum purchase price lower income families can afford
+              in the County. Lastly, the element must discuss any existing or proposed resources
+              to facilitate and incentivize this type of housing.
+
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                          Page 3
+February 7, 2022
+         •   Single Family Homes: The element projects 1,513 single family homes to
+             accommodate the RHNA with 260 homes for the lower-income RHNA. Sites
+             available for housing for above-moderate income households in areas not served
+             by public sewer systems are not required to be identified on a site-specific basis.
+             However, otherwise, sites must be identified on a site basis and the element must
+             include an analysis of the suitability and appropriateness of zoning. If utilizing these
+             single-family homes toward the lower-income RHNA, sites must be identified on a
+             site-by-site basis and the element must demonstrate that zoning is appropriate for
+             lower-income households (see finding below for additional information).
+
+         •   Accessory Dwelling Units (ADUs): The element is projecting 513 ADUs to be built
+             during the 8-year planning period for an average of 64 ADUs per year. This
+             projection was based on past ADU trends. Specifically, the element states the
+             County permitted 57 ADUs in 2019, 94 in 2020, and 68 in the first six months of
+             2021. However, the County’s Annual Progress Reports (APR) indicate that the
+             County permitted three ADUs in 2018, 28 in 2019, and 41 in 2020 for a total of 72
+             ADUs over three years and an average of 24 ADUs per year. If the County were to
+             project that forward, the element can conservatively project 192 ADUs during the
+             planning period, a method pre-approved by HCD. Additionally, while the element
+             can support assumptions based on other factors such as 2021 trends and ADU
+             applications, the current ADU trends do not support an almost a three-fold increase.
+             The element should reconcile these figures and adjust assumptions based on a
+             realistic estimate of the potential for ADUs.
+
+      Sites Identified in Prior Planning Periods: Sites identified in prior planning periods shall
+      not be deemed adequate to accommodate the housing needs for lower-income
+      households unless a program, meeting statutory requirements, requires rezoning within
+      three years. The element indicated that it was reusing sites vacant sites from the last
+      two planning periods and these sites allow 25-30 du/ac when at least 20 percent of units
+      are affordable to lower-income households; therefore, meeting the statutory
+      requirements for reusing sites. However, the element must also demonstrate that the
+      County allows projects by-right which have 20 percent affordable to lower-income
+      households and include a program accordingly.
+
+      Realistic Capacity: The element assumes 80 percent of maximum allowable densities to
+      calculate residential capacity on identified sites and includes a few examples of recent
+      developments. However, the element should include additional and clear supporting
+      information on typical densities of existing or approved residential developments at a
+      similar affordability level. For example, the element could clearly list recent projects, the
+      zone, acreage, built density, allowable density, level of affordability and presence of
+      exceptions such as a density bonus.
+
+      Zoning to Encourage and Facilitate Housing for Lower-Income Households: The
+      element identifies zones where the maximum allowable density is 20 du/ac for
+      lower-income households. Additionally, the element indicated that for developments
+      with at least 20 percent of the units affordable to lower-income households, the
+      maximum allowable densities is increased up to 25 or 30 du/ac (p. 3-10). While the
+      element includes some examples indicating housing affordable to lower-income
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                          Page 4
+February 7, 2022
+      households can be accommodated on sites allowing 20 du/ac (p. 4-12), it does not
+      include an analysis evaluating the adequacy of these zones. The element must
+      include an analysis to demonstrate the adequacy of the RM zone to encourage and
+      facilitate the development of units affordable to lower-income households. The
+      analysis should be based on factors such as market demand, development
+      experience within zones, and specifically address the impacts of density on
+      financial feasibility. For communities with densities that meet specific standards (at
+      least 30 units per acre for San Bernardino County), this analysis is not required
+      (Section 65583.2(c)(3)(B)).
+
+      Suitability of Nonvacant Sites: Based on HCD’s review, the element does not currently rely
+      on nonvacant sites to meet the RHNA; however, if future versions of the housing element
+      utilize nonvacant sites, the element must demonstrate the potential for additional
+      development. The methodology for demonstrating additional development on nonvacant
+      sites must discuss existing uses, development trends, and policies and programs to
+      encourage additional residential development. While the element included some
+      discussion on nonvacant sites, the analysis generally does not meet these requirements.
+      For example, while the element listed factors that were considered in determining
+      redevelopment, it should provide information supporting the validity of those factors.
+      Additionally, while the element listed past development projects demonstrating a demand
+      for multifamily housing, it should consider including examples of past projects that were
+      developed on nonvacant sites with similar site characteristics as those identified in the
+      analysis.
+
+      Availability of Infrastructure: The element describes infrastructure capacity (p. 4-11)
+      including sufficient total water and sewer capacity (existing and planned) to accommodate
+      the regional housing need by community plan area. However, the element must also
+      provide an analysis on access to dry utilities for the sites identified in the inventory.
+
+      Replacement Housing Requirements: The sites inventory identifies sites with existing
+      residential uses. For nonvacant sites with existing, vacated, or demolished residential uses
+      and occupied by, or subject to an affordability requirement for, lower-income households
+      within the last five years there must be a replacement housing program for units affordable
+      to lower-income households (Gov. Code, § 65583.2, subd. (g)(3)). Absent a replacement
+      housing program, these sites are not adequate sites to accommodate lower-income
+      households. The replacement housing program has the same requirements as set forth in
+      Government Code section 65915, subdivision (c)(3). The housing element must be revised
+      to include such analysis and a program, if necessary.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: While the element indicated that emergency shelters are
+             allowed by-right in the General Commercial and Service Commercial districts and
+             discussed the capacity of the zone, the element must analyze the suitability of the
+             zone. For example, the analysis should address proximity to transportation and
+             services, existing uses, and any conditions inappropriate for human habitability.
+
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                        Page 5
+February 7, 2022
+          •   Permanent Supportive Housing: While the element stated that supportive housing is
+              allowed by-right in the RM zone, the element must demonstrate compliance with
+              Government Code section 65651 and include programs accordingly. Specifically,
+              supportive housing shall be a use by-right in zones where multifamily and mixed
+              uses are permitted, including nonresidential zones permitting multifamily uses.
+
+          •   Single Room Occupancy (SRO) Units: The element must identify and analyze
+              zoning for SROs. Based on this analysis, the element should include programs as
+              appropriate.
+
+          •   Employee Housing: While the element stated that seasonal labor quarters are
+              permitted in accordance with state law, the element must demonstrate zoning is
+              consistent with the Employee Housing Act (Health and Safety Code, § 17000 et
+              seq.), specifically, sections 17021.5 and 17021.6. Section 17021.5 requires
+              employee housing for six or fewer employees to be treated as a single-family
+              structure and permitted in the same manner as other dwellings of the same type in
+              the same zone. Section 17021.6 requires employee housing consisting of no more
+              than 12 units or 36 beds to be permitted in the same manner as other agricultural
+              uses in the same zone. For additional information and sample analysis, see the
+              Building Blocks at http://www.hcd.ca.gov/community-development/building-
+              blocks/housing-needs/farmworkers.shtml.
+
+          •   Accessory Dwelling Unit (ADUs): While the element indicated that ADUs are
+              allowed in all residential zones, it should demonstrate compliance with state law
+              which requires that ADUs be allowed in all zones allowing residential uses including
+              included mixed-use and nonresidential zones (e.g., commercial) (Gov. Code §
+              65852.2(a)(1)).
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: While the element analyzed most relevant land use controls, it must
+      specifically analyze requirements related to multifamily parking (i.e., two spaces for
+      projects with 2-3 units and 2.5 parking spaces for other multifamily projects) The analysis
+      should address any impacts on cost, supply, housing choice, affordability, timing, approval
+      certainty and ability to achieve maximum densities and include programs to address
+      identified constraints.
+
+      Local Processing and Permit Procedures: The element stated that multifamily housing of
+      50 units or more is allowed in multifamily zones (i.e., RM) with the approval of a conditional
+      use permit (CUP). While the element identified required approval findings and stated that
+      based off discussions with developers, the CUP process does not hinder development, the
+      analysis does not demonstrate that this process is not a constraint. For example, the
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                          Page 6
+February 7, 2022
+      analysis states that through a CUP, the County evaluates for compatibility with
+      surrounding uses (p. 3-17). The element must analyze this finding for impacts on approval
+      certainty, including any other imposed requirements such as design review. Also, the
+      element could discuss recent projects with 50 units or more and how the County
+      implements approval findings for impacts on certainty, timing, and cost.
+
+      On/Off-Site Improvements: The element must identify subdivision level improvement
+      requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+      analyze their impact as potential constraints on housing supply and affordability. For
+      additional information and a sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/constraints/codes-and-
+      enforcement-on-offsite-improvement-standards.shtml.
+
+      Constraints on Housing for Persons with Disabilities:
+
+         •   Residential Care Facilities for Six or Fewer Persons: The element states that
+             unlicensed residential care facilities for six or fewer persons are allowed in
+             residential zones with the approval of an unlicensed residential care facilities permit
+             (RCP). The element must list and analyze the approval findings and process for
+             obtaining an RCP and demonstrate that this process is not a constraint to persons
+             with disabilities.
+
+         •   Residential Care Facilities for Seven or More Persons: The element states that
+             unlicensed and licensed residential care facilities for sever or more persons are
+             allowed in residential zones through a reasonable accommodation or a CUP. As
+             indicated on page 3-7, these housing types must demonstrate that it will not alter
+             the character of the neighborhood, create an institutionalized environment due to
+             the number of and distance between similar facilities and that the County may
+             consider other factors when determining approvals. Requiring these housing types
+             to a special use or CUP potentially subjects housing for persons with disabilities to
+             higher discretionary standards where an applicant must demonstrate compatibility
+             with the character of the neighborhood, unlike other residential uses. This is a
+             constraint, and the element should analyze the process as a potential constraint on
+             housing for persons with disabilities and add or modify programs as appropriate to
+             ensure zoning permits group homes objectively with approval certainty.
+
+         •   Parking and Definition of Family: The element must also demonstrate that
+             development standards and other requirements do not pose a constraint to persons
+             with disabilities. Specifically, the element indicates that all care facilities are
+             required to provide one parking space per bedroom. The element should analyze
+             this standard as a potential constraint on cost, supply, and housing choices.
+             Additionally, the element should identify and analyze the County’s definition of
+             “family” and any spacing requirements for group homes.
+
+      Other Local Ordinances: The element must analyze any locally adopted ordinances that
+      directly impacts the cost and supply or residential development (e.g., inclusionary
+      requirements, short term rentals, growth controls).
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                         Page 7
+February 7, 2022
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting fees and all zoning and development standards for
+      each parcel on the jurisdiction’s website.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval for
+      a housing development and submittal of an application for building permits for that housing
+      development that hinder the construction of a locality’s share of the regional housing need
+      in accordance with Government Code section 65584. The analysis shall also demonstrate
+      local efforts to remove nongovernmental constraints that create a gap between the
+      locality’s planning for the development of housing for all income levels and the
+      construction of that housing. (Gov. Code, § 65583, subd. (a)(6).)
+
+      Requests for Lower Density, Permit Times, and Efforts to Address Nongovernmental
+      Constraints: The element must analyze (1) requests to develop housing at densities below
+      those identified in the inventory, (2) the length of time between receiving approval for a
+      housing development and submittal of an application for building permits, and (3) any local
+      efforts to address or mitigate nongovernmental constraints such as reduced fees,
+      financing for affordable housing or expedited processes. The analysis should address any
+      hinderances on the construction of a locality’s share of the regional housing need and
+      programs should be added or modified as appropriate.
+
+   6. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+      Special Needs Households: While the element includes data and a general discussion of
+      housing challenges faced by special needs households, it still must provide an analysis of
+      the existing needs and resources for each special needs group including seniors,
+      farmworkers, persons with disabilities, and female-headed households. For example, the
+      element should discuss the existing resources to meet housing needs (availability of
+      shelter beds, number of large units, number of deed restricted units, etc.), an assessment
+      of any gaps in resources, and proposed policies, programs, and funding to help address
+      those gaps.
+
+   7. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd. (a)(9)
+      through 65583(a)(9)(D).).
+
+      The element states that the County does not have any assisted housing units at-risk of
+      converting in the next ten years. However, HCD’s records indicate that Sunset Village at
+      6036 Sunset Road San Bernardino, CA 92252, includes 33 assisted units and will be
+      expiring in 2026.
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                      Page 8
+February 7, 2022
+      The element should reconcile these dates and modify programs committing to proactively
+      reaching out to owners and qualified entities. Additionally, the element must identify public
+      and private entities known to have the legal and managerial capacity to potentially acquire
+      and preserve at-risk units (i.e., qualified entities). For a list of organizations serving San
+      Bernardino region, please see: https://hcd.ca.gov/policy-research/preserving-existing-
+      affordable-housing.shtml.
+
+
+C. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis; therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the County may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types.
+
+   2. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Extremely Low-income (ELI) and Special Needs Households: The element must include a
+      program(s) with specific actions and timelines to assist in the development of housing for
+      ELI and special needs households, specifically, persons with disabilities, including
+      developmental disabilities. The program(s) could commit the County to proactively
+      reaching out to developers of affordable housing, adopting priority processing, granting fee
+      waivers or deferrals, modifying development standards, granting concessions and
+      incentives for housing developments that include units affordable to ELI and special needs
+      households; assisting with funding or supporting or pursuing funding applications; and
+      outreach and coordination with affordable housing developers.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                         Page 9
+February 7, 2022
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the County may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must include a complete analysis of AFFH. Based on
+      the outcomes of that analysis, the element must add or modify programs.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd. (c)(6).)
+
+      Program 18–Assisted Housing (Program): The County currently has assisted units at risk
+      of converting during the planning period. This Program should commit to proactive
+      outreach to the owner to confirm compliance with State Preservation Notice Law (e.g.,
+      three years, one year, six months). Additionally, the Program should commit to proactive
+      and prompt outreach with qualified entities with a specified timeframe and provide
+      education and support for tenants.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   While the element includes quantified objectives for some income groups, it must also include
+   objectives for the number of units that will be conserved/preserved for moderate and above
+   moderate and the number of units that will be rehabilitated for extremely low, very low,
+   moderate and above moderate. Conservation objectives may include the variety of strategies
+   employed by the County to promote tenant stability, code enforcement and repair programs
+   that conserve the housing stock, and the preservation of units at-risk of conversion to market
+   rate.
+
+
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                      Page 10
+February 7, 2022
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   HCD understands the County made the full draft available to the public concurrent with HCD
+   submittal. By not providing an opportunity for the public to review and comment on a draft of
+   the element in advance of submission, the County has not yet complied with statutory
+   mandates to make a diligent effort to encourage the public participation in the development of
+   the element and it reduces HCD’s ability to consider public comments in its review. The
+   availability of the document to the public and opportunity for public comment prior to submittal
+   to HCD is essential to the public process and HCD’s review. The County must proactively
+   make future revisions available to the public, including any commenters, prior to submitting
+   any revisions to HCD and diligently consider and address comments, including making
+   revisions to the document where appropriate. HCD’s future review will consider the extent to
+   which the revised element documents how the County solicited, considered, and addressed
+   public comments in the element. The County’s consideration of public comments must not be
+   limited by HCD’s findings in this review letter.
+
+
+F. Consistency with General Plan
+
+   The Housing Element shall describe the means by which consistency will be achieved with
+   other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   The element must describe how consistency was achieved and how it will be maintained
+   during the planning period. For example, to maintain internal consistency, the element could
+   include a program to conduct an internal consistency review of the general plan as part of the
+   annual general plan implementation report required by Government Code section 65400. The
+   annual report can also assist future updates of the housing element. For additional
+   information and a sample program, see the Building Blocks at
+   http://www.hcd.ca.gov/community-development/building-blocks/other-requirements/analysis-
+   consistency-general-plan.shtml.
+
+
+
+
+County of San Bernardino’s 6th Cycle Draft Housing Element                       Page 11
+February 7, 2022

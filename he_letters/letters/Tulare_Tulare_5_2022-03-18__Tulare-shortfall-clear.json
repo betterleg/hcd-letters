@@ -1,0 +1,14 @@
+{
+  "county": "Tulare",
+  "jurisdiction": "Tulare",
+  "type": "",
+  "cycle": "5",
+  "reviewed": "2022-03-18",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/Tulare-shortfall-clear.pdf",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/Tulare-shortfall-clear.pdf",
+  "fetched_from": "hcd_legacy_docs_fallback",
+  "pdf_bytes": 166545,
+  "text_chars": 3387,
+  "text_empty": false
+}

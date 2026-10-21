@@ -1,0 +1,576 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 3, 2021
+
+
+
+         Manuel Muñoz, Planning Manager
+         Planning Division
+         City of Azusa
+         213 E. Foothill Blvd.
+         Azusa, CA 91702
+
+         Dear Manuel Muñoz:
+
+         RE: Review of the City of Azusa’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Azusa’s (City) draft housing element received for review
+         on July 6, 2021. Pursuant to Government Code section 65585, subdivision (b), the California
+         Department of Housing and Community Development (HCD) is reporting the results of its
+         review. Our review was facilitated by a telephone conversation on August 30, 2021 with you;
+         Dean Flores, Assistant Planner; and Genevieve Sharrow and Diana Gonzalez of MIG. In
+         addition, HCD considered comments from Josh Albrektson pursuant to Government Code
+         section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+         particular, further analysis is needed to demonstrate the feasibility of sites, certain programs
+         require additional commitments, and a number of requirements regarding the affirmatively
+         furthering fair housing (AFFH) obligation must be addressed. The enclosed Appendix
+         describes these, and other revisions needed to comply with State Housing Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element within
+         120 calendar days from the statutory due date of October 15, 2021 for Southern California
+         Association of Governments (SCAG) localities. If adopted after this date, Government Code
+         section 65588, subdivision (e)(4), requires the housing element be revised every four years
+         until adopting at least two consecutive revisions by the statutory deadline. For more
+         information on housing element adoption requirements, please visit HCD’s website at:
+         http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+         memos/docs/sb375_final100413.pdf.
+
+         For your information, some general plan element updates are triggered by housing
+         element adoption. HCD reminds the City to consider timing provisions and welcomes
+         the opportunity to provide assistance. For information, please see the Technical
+Manuel Muñoz, Planning Manager
+Page 2
+
+
+
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+Public participation in the development, adoption and implementation of the housing element
+is essential to effective housing planning. Throughout the housing element process, the City
+should continue to engage the community, including organizations that represent lower-
+income and special needs households, by making information regularly available and
+considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+HCD is committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Colin Cross, of our staff, at (916) 820-1275 or colin.cross@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+Enclosure
+                                          APPENDIX
+                                         City of Azusa
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      As part of the evaluation of programs in the past cycle, the element must provide an
+      explanation of the effectiveness of goals, policies, and related actions in meeting the
+      housing needs of special needs populations (e.g., elderly, persons with disabilities, large
+      households, female headed households, farmworkers and persons experiencing
+      homelessness).
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+         Fair Housing Enforcement & Outreach: The element relies on the 2018 Analysis of
+         Impediments (AI) to Fair Housing Choice for the Los Angeles County Development
+         Authority and Housing Authority of the County of Los Angeles, and provides certain
+         data at the regional level, but does not examine the City’s capacity for fair housing
+         enforcement and outreach in the same manner. The element must include the City’s
+         ability to provide enforcement and outreach capacity, which can consist of actions such
+         as the City’s ability to investigate complaints, obtain remedies, or the City’s ability to
+         engage in fair housing testing.
+
+         Integration and Segregation: The element includes dissimilarity indices for Los Angeles
+         County but does not provide any data or analysis regarding segregation by race and
+         ethnicity for the City itself. The element must also analyze segregation and integration
+         of familial status, income, and persons with disabilities locally and regionally
+         complemented by data and concluding with a summary of issues.
+
+
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                            Page 1
+September 3, 2021
+         Racially/Ethnically Concentrated Areas of Poverty (R/ECAP): The element confirms
+         that there are no R/ECAPs in the City but does not provide any analysis of R/ECAPs at
+         the regional level. In addition, the element should also analyze any racially
+         concentrated areas of affluence (RCAAs), if applicable, at both the local and regional
+         levels. The analysis should evaluate patterns and changes over time and consider
+         other relevant factors, such as public participation, past policies, practices, and
+         investments and demographic trends.
+
+         Access to Opportunity: The element must analyze local and regional disparities in
+         access to opportunity through local, federal, and/or state data. The element currently
+         refers to a single composite index from the 2018 Analysis of Impediments (AI) and lists
+         the City’s score on this index without providing additional analysis. This is not sufficient
+         to address this requirement. A complete analysis should address educational,
+         economic, transportation, and environmental scores at the local and regional level, and
+         describe any factors that are unique to Azusa in those regards.
+
+         Disproportionate Housing Needs: A complete analysis of disproportionate housing
+         needs should address cost burden, overcrowding, substandard housing,
+         homelessness, and displacement risk. The element includes information on
+         displacement risk but does not address the remaining categories of analysis.
+
+         Contributing Factors: The element lists and prioritizes contributing factors to fair
+         housing issues, the majority of which come directly from the 2018 AI. The contributing
+         factors identified must be drawn from a complete analysis, which the element does not
+         contain. Pending the results of a complete analysis, the element should add, remove,
+         or modify contributing factors. Additionally, contributing factors should be few in
+         number and local in nature, so as to identify the most important fair housing issues the
+         City can address. The list of contributing factors should be culled to contain only the
+         most salient factors that are unique to Azusa.
+
+         Site Inventory: The element includes a map of the site inventory and states that the
+         proposed sites are geographically distributed in a manner that AFFH (p. H-5-20). This
+         alone is not adequate to satisfy the requirement that the site inventory AFFH. The site
+         inventory analysis should address how the sites are identified to improve conditions (or
+         if sites exacerbate conditions, how a program can mitigate the impact) and should be
+         supported by local data and knowledge. Sites should be evaluated with respect to each
+         of the four categories of analysis in the Assessment of Fair Housing (AFH) (e.g.,
+         Segregation & Integration, R/ECAPs, Access to Opportunity, and Disproportionate
+         Housing Needs).
+
+         Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+         overcome contributing factors to fair housing issues. Currently, the element identifies
+         programs to encourage and promote affordable housing; however, most of these
+         programs do not appear to facilitate any meaningful change nor address AFFH
+         requirements. Furthermore, the element must include metrics and milestones for
+         evaluating progress on programs, actions, and fair housing results.
+
+
+
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                              Page 2
+September 3, 2021
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         The City has a regional housing needs allocation (RHNA) of 2,651 housing units, of
+         which 1,128 are for lower-income households. To address this need, the element relies
+         on vacant and nonvacant sites, including sites designated for residential and mixed-
+         use. To demonstrate the adequacy of these sites and strategies to accommodate the
+         City’s RHNA, the element must include complete analyses per the below findings.
+
+         Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+         standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+         Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml for a copy of the form and instructions. The
+         City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+         Please note, upon adoption of the housing element, the City must submit an electronic
+         version of the sites inventory with its adopted housing element to
+         sitesinventory@hcd.ca.gov.
+         Site Inventory: The element must identify the number of units by income category for
+         each site. The element groups income categories together when identifying the realistic
+         capacity for each site (Appendix B).
+
+         Realistic Capacity: While the element provides assumptions of buildout for sites
+         included in the inventory, it must also provide support for these assumptions. For
+         example, the element currently assumes 80% buildout for vacant residential sites in the
+         LDR, MDR, and MODR zones, stating that this is a conservative estimate based on the
+         densities of most residential developments in those zones. This statement alone is not
+         adequate to support the assumption of 80% buildout. A complete analysis should
+         demonstrate what specific trends, factors, and other evidence led to the assumptions;
+         this should include but is not limited to evidence of recent developments that reflect the
+         trends being used. The estimate of the number of units for each site may need to be
+         adjusted as necessary, based on the land-use controls and site improvements, typical
+         densities of existing or approved residential developments at a similar affordability level
+         in that jurisdiction, and on the current or planned availability and accessibility of
+         sufficient water, sewer, and dry utilities.
+
+         For sites in zones that allow nonresidential uses, the element also needs to analyze
+         the likelihood that the identified units will be developed as noted in the inventory. This
+         analysis should consider the likelihood of nonresidential development, performance
+         standards, and development trends supporting residential development.
+
+         For small sites in the Azusa Transit Oriented Development Specific Plan (TODSP),
+         the element assumes a density of 52 dwelling units per acre (du/ac). This
+         assumption does not appear to be in line with the trends provided. Small sites of
+         one-half acre or less are demonstrated in the element to have an average density of
+         28 du/ac (pp. H-5-13 – 14); the element raises this average by including a .80-acre
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                              Page 3
+September 3, 2021
+         site at 128 du/ac which does not fit the definition of small sites found in statute. The
+         realistic capacity assumption for small sites in the TODSP should be adjusted to
+         reflect the trends in that area.
+
+         Suitability of Nonvacant Sites: The element relies on nonvacant sites and
+         demonstrates their suitability using a variety of factors, including expressed interest
+         from property owners or developers, age of structure, and improvement value to land
+         value ratios. Additional clarification is needed regarding factors used and what
+         thresholds were used to determine viability of sites. For example, low floor area ratio
+         (FAR) is considered, but the element does not indicate what threshold of FAR would
+         have made a site suitable for redevelopment and how this factor relates to the
+         suitability of nonvacant sites.
+
+         The element also does not describe the existing uses of these sites in detail. A
+         complete analysis should account for the existing uses on these sites and whether
+         those uses may pose an impediment to redevelopment. In particular, the element’s
+         reliance on a high number of existing residential sites requires further support, such as
+         evidence of existing trends in residential redevelopment, in order to demonstrate
+         suitability.
+
+         The element also relies on sites owned by religious institutions to satisfy a portion of
+         the RHNA. Further support and analysis are needed to demonstrate the feasibility of
+         these sites. For example, the element could describe whether property owners or
+         developers have expressed any interest in these sites, how residential uses are
+         compatible with underlying zoning, and what actions the City is taking to make such
+         development more feasible.
+
+         Since the element relies on nonvacant sites to accommodate more than 50 percent of
+         the RHNA for lower-income households, the City must demonstrate that the existing
+         use is not an impediment to additional residential development in the planning period.
+         This can be demonstrated by providing substantial evidence that the existing use is
+         likely to be discontinued during the planning period.
+
+         Small Sites: For small parcels anticipated to be consolidated, the element must
+         demonstrate the potential for lot consolidation. For example, the analysis could
+         describe the City’s role or track record in facilitating small-lot consolidation, policies or
+         incentives offered or proposed to encourage and facilitate lot consolidation, conditions
+         rendering parcels suitable and ready for redevelopment, recent trends of lot
+         consolidation, and/or information on the owners of each aggregated site.
+
+         Accessory Dwelling Units (ADUs): The element assumes an average of 44 ADUs per
+         year will be constructed during the planning period, for a total of 366 ADUs. The
+         element’s analysis and programs do not support this assumption. Specifically, in
+         addition to other methods, HCD accepts the use of trends in ADU construction since
+         January 2018 to estimate new production. Based on past production between 2018 to
+         2020, the City is averaging about 10 ADUs per year. To support assumptions for ADUs
+         in the planning period, the element could reduce the number of ADUs assumed per
+         year or reconcile trends with HCD records, including additional information such as
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                                Page 4
+September 3, 2021
+         more recent permitted units and inquiries, resources and incentives, other relevant
+         factors and modify policies and programs as appropriate. The element should support
+         its ADU assumptions based on the number of ADU permits issued, not the number of
+         ADU applications. Further, the element’s ADU program (Program H3-4) should commit
+         to additional incentives and strategies, frequent monitoring (every other year) and
+         specific commitment to adopt alternative measures such as rezoning or amending the
+         element within a specific time (e.g., 6 months) if ADU assumptions for the number of
+         units and affordability are not met.
+
+         Suitability and Availability of Infrastructure: The element should confirm that the
+         infrastructure available for all sites in the inventory includes water, sewer, and dry
+         utilities.
+
+         For your information, water and sewer service providers must establish specific
+         procedures to grant priority water and sewer service to developments with units
+         affordable to lower-income households. (Gov. Code, § 65589.7.) Local governments
+         are required to immediately deliver the housing element to water and sewer service
+         providers. HCD recommends including a cover memo describing the City’s housing
+         element, including the City’s housing needs and regional housing need. For additional
+         information and sample cover memo, see the Building Blocks at
+         https://www.hcd.ca.gov/community-development/building-blocks/other-
+         requirements/priority-for-water-sewer.shtml
+
+         Sites With Zoning for a Variety of Housing Types:
+
+         •   ADUs: The element indicates the City has adopted a zoning ordinance to ease
+             barriers to the development of ADUs. However, after a cursory review of the City’s
+             ordinance, HCD discovered several areas which were not consistent with State
+             ADU Law, including but not limited to limitations on location, height, and number of
+             bedrooms. HCD will provide a complete listing of ADU noncompliance issues under
+             separate cover. The element should add a program, or modify Program 3-4 (ADUs),
+             to update the City’s ADU ordinance in order to comply with State law. For more
+             information, please consult HCD’s ADU Handbook, published in December 2020,
+             which provides detailed information on new state requirements surrounding ADU
+             development; HCD’s ADU Handbook is available on our website:
+             https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf.
+         •   Emergency Shelters: The element describes a zone to permit emergency shelters
+             and describes the capacity to accommodate the need for emergency shelters. The
+             City must ensure that the zoning adheres to the new parking requirement standards
+             per AB 139 (Chapter 335, Statutes of 2019). AB 139 requires that the zone for
+             emergency shelter allows for sufficient parking for the staff of the emergency
+             shelter. The element must include programs as appropriate based on the outcomes
+             of this analysis.
+         •   Transitional & Supportive Housing: The element does not adequately address
+             requirements for transitional housing and supportive housing. Pursuant to SB 2
+             (Chapter 633, Statutes of 2007), transitional and supportive housing must be
+             permitted as a residential use in all zones and only subject to those restrictions that
+             apply to other residential dwellings of the same type in the same zone. The element
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                              Page 5
+September 3, 2021
+             must demonstrate consistency with these statutory requirements and include a
+             program as appropriate.
+
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis shall
+         also demonstrate local efforts to remove governmental constraints that hinder the
+         locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7). Transitional housing and supportive housing shall
+         be considered a residential use of property, and shall be subject only to those
+         restrictions that apply to other residential dwellings of the same type in the same zone.
+         (Gov. Code, § 65583, subd. (a)(5).)
+         Constraints on Housing for Persons with Disabilities: The element must demonstrate
+         that the City has a reasonable accommodation procedure for providing exception in
+         zoning and land use. The element indicates that the City has adopted a reasonable
+         accommodation procedure (p. H4-30), but it does not provide any information on that
+         procedure. The element should describe the City’s reasonable accommodation
+         procedure, including how requests are made and processed, and any approval
+         findings.
+
+         In addition, the element details that residential care facilities serving six or fewer
+         persons are permitted in all residential zones. However, residential care facilities
+         serving seven or more persons require a minor use permit (MUP). The element should
+         analyze the process as a potential constraint on housing for persons with disabilities
+         and add or modify programs as appropriate to ensure zoning permits group homes
+         objectively with approval certainty.
+
+      4. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+
+         While the element quantifies the numbers of special needs populations, it must analyze
+         the special housing needs of these populations. For a complete analysis of each
+         population group, the element should discuss challenges faced by the population, the
+         existing resources to meet those needs (e.g., availability senior housing units, number
+         of large units, number of deed restricted units, etc.), an assessment of any gaps in
+         resources, and proposed policies, programs, and funding to help address those gaps.
+
+      5. Analyze existing assisted housing developments that are eligible to change to non-low-
+         income housing uses during the next 10 years due to termination of subsidy contracts,
+         mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+         (a)(9) through 65583(a)(9)(D).)
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                           Page 6
+September 3, 2021
+         The element identifies three properties at risk of conversion to market-rate during the
+         planning period (p. H3-11). While the element includes most of the required analysis, it
+         does not identify specific funding sources that could be used to preserve the
+         affordability. The element must provide this analysis for the at-risk units identified.
+ C.   Housing Programs
+      1. Include a program which sets forth a schedule of actions during the planning period,
+         each with a timeline for implementation, which may recognize that certain programs
+         are ongoing, such that there will be beneficial impacts of the programs within the
+         planning period, that the local government is undertaking or intends to undertake to
+         implement the policies and achieve the goals and objectives of the housing element
+         through the administration of land use and development controls, the provision of
+         regulatory concessions and incentives, and the utilization of appropriate federal and
+         state financing and subsidy programs when available. The program shall include an
+         identification of the agencies and officials responsible for the implementation of the
+         various actions. (Gov. Code, § 65583, subd. (c).)
+         To address the program requirements of Government Code section 65583, subdivision
+         (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+         the City’s specific role in implementation; (2) definitive implementation timelines; (3)
+         objectives, quantified where appropriate; and (4) identification of responsible agencies
+         and officials. Programs to be revised include the following:
+         •   Program 3-4 (ADUs): Add specific timeframes for all actions. Actions to comply with
+             State law should take place within one year of adoption.
+         •   Program 4-1 (Density Bonuses): Actions to comply with State law should take place
+             within one year of adoption.
+         •   Program 4-2 (Supportive and Transitional Housing): The program should be
+             amended to commit to a timeframe to within three years of adoption in order to
+             ensure beneficial impact within the planning period.
+         •   Program 5-4 (Outreach Plan): Add timeframe for implementation.
+
+         Additionally, measurable outcomes, quantified, when possible, are needed for
+         Programs 1-2 (Rental Housing Inspection), 1-3 (Neighborhood Improvement Zone), 2-1
+         (First-Time Homebuyer Assistance), 2-3 (Section 8 Housing Choice Voucher), and 3-4
+         (ADUs).
+      2. Identify actions that will be taken to make sites available during the planning period
+         with appropriate zoning and development standards and with services and facilities to
+         accommodate that portion of the city’s or county’s share of the regional housing need
+         for each income level that could not be accommodated on sites identified in the
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+         to comply with the requirements of Government Code section 65584.09. Sites shall be
+         identified as needed to facilitate and encourage the development of a variety of types
+         of housing for all income levels, including multifamily rental housing, factory-built
+         housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+         room occupancy units, emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                            Page 7
+September 3, 2021
+         As noted in Finding B2, the element does not include a complete site analysis;
+         therefore, the adequacy of sites and zoning was not established. Based on the results
+         of a complete sites inventory and analysis, the City may need to add or revise
+         programs to address a shortfall of sites or zoning available to encourage a variety of
+         housing types. In addition, the element should be revised as follows:
+
+         •   Program 3-4 (ADUs): As noted in Finding B2, the City’s ADU ordinance appears to
+             be out of compliance with State law. The element should include a program to
+             amend the ADU ordinance within one year of adoption of the element.
+
+             Furthermore, the element must commit to monitor ADU production throughout the
+             course of the planning period and implement additional actions if not meeting target
+             numbers anticipated in the housing element. In addition to monitoring production,
+             this program should also monitor affordability. Additional actions, if necessary,
+             should be taken in a timely manner (e.g., within 6 months).
+
+         •   Program 3-9 (Development on Religious Institution Sites / AB 1397 Reuse): As the
+             City is relying on potential development on religious institution sites to
+             accommodate a shortfall of the lower-income RHNA, this program must commit to
+             the specific by-right provisions found in Government Code section 65583.2,
+             subdivisions (h) & (i).
+
+             Sites being rezoned must:
+             o permit owner-occupied and rental multifamily uses by-right for developments in
+                 which 20 percent or more of the units are affordable to lower-income
+                 households. By-right means local government review must not require a CUP,
+                 planned unit development permit, or other discretionary review or approval.
+             o accommodate a minimum of 16 units per site;
+             o require a minimum density of 20 units per acre; and
+             o at least 50 percent of the lower-income need must be accommodated on sites
+                 designated for residential use only or on sites zoned for mixed uses that
+                 accommodate all of the very low and low-income housing need, if those sites:
+                  allow 100 percent residential use, and
+                  require residential use occupy 50 percent of the total floor area of a mixed-
+                    use project.
+
+         Nonvacant Sites Reliance to Accommodate RHNA: As the element relies upon
+         nonvacant sites to accommodate the regional housing need for lower-income
+         households, it should include a program(s) to promote residential development of those
+         sites. The program(s) could commit to provide financial assistance, regulatory
+         concessions, or incentives to encourage and facilitate new, or more intense, residential
+         development on the sites. Examples of incentives include identifying and targeting
+         specific financial resources and reducing appropriate development standards. For
+         additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+         development/building-blocks/program-requirements/identify-adequate-sites.shtml.
+
+
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                           Page 8
+September 3, 2021
+      3. The housing element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+         While the element includes programs to assist in the development of very low-, low-,
+         and moderate-income households, it must also include a program to assist in the
+         development of housing affordable extremely low-income (ELI) households. Programs
+         must be revised or added to the element to assist in the development of housing for
+         ELI households. Program actions could include prioritizing some funding for housing
+         developments affordable to ELI households and offering financial incentives or
+         regulatory concessions to encourage the development of housing types, such as
+         multifamily, single-room occupancy (SRO) units, to address the identified housing
+         needs for ELI households.
+
+      4. Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Finding B3, the element requires a complete analysis of potential
+         governmental and nongovernmental constraints. Depending upon the results of that
+         analysis, the City may need to revise or add programs and address and remove or
+         mitigate any identified constraints.
+
+      5. Promote and AFFH opportunities and promote housing throughout the community or
+         communities for all persons regardless of race, religion, sex, marital status, ancestry,
+         national origin, color, familial status, or disability, and other characteristics protected by
+         the California Fair Employment and Housing Act (Part 2.8 (commencing with Section
+         12900) of Division 3 of Title 2), Section 65008, and any other state and federal fair
+         housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+         As noted in Finding B1, the element does not contain programs that satisfy the AFFH
+         requirements for specific and meaningful actions to overcome fair housing issues.
+         Based on a complete analysis, the element must add or revise programs.
+
+      6. Develop a plan that incentivizes and promotes the creation of ADUs that can be offered
+         at affordable rent, as defined in Section 50053 of the Health and Safety Code, for very
+         low, low-, or moderate-income households. For purposes of this paragraph, “accessory
+         dwelling units” has the same meaning as “accessory dwelling unit” as defined in
+         paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, § 65583, subd. (c)(7).)
+
+         The element is required to include a program that incentivizes or promotes ADU
+         development for very low-, low-, and moderate-income households. This can take the form
+         of flexible zoning requirements, development standards, or processing and fee incentives
+         that facilitate the creation of ADUs, such as reduced parking requirements, fee waivers and
+         more. Other strategies could include developing information packets to market ADU
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                                Page 9
+September 3, 2021
+         construction, targeted advertising of ADU development opportunities or establishing an
+         ADU specialist within the planning department.
+
+ D.   Public Participation
+
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the housing element, and the
+      element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      While the element includes a general summary of the public participation process, it must
+      also summarize the public comments and describe how they were considered
+      and incorporated into the element.
+
+      In addition, HCD understands the City may have made the element available to the public
+      concurrent with its submittal to HCD. By not providing an opportunity for the public to
+      review and comment on a draft of the element in advance of submission, the City has not
+      yet complied with statutory mandates to make a diligent effort to encourage the public
+      participation in the development of the element and it reduces HCD’s ability to consider
+      public comments in the course of its review. The availability of the document to the public
+      and opportunity for public comment prior to submittal to HCD is essential to the public
+      process and HCD’s review. The City must proactively make future revisions available to
+      the public, including any commenters, prior to submitting any revisions to HCD and
+      diligently consider and address comments, including making revisions to the document
+      where appropriate. HCD’s future review will consider the extent to which the revised
+      element documents how the City solicited, considered, and addressed public comments in
+      the element. The City’s consideration of public comments must not be limited by HCD’s
+      findings in this review letter.
+
+
+
+
+Review of the City of Azusa’s 6th Cycle Draft Housing Element                           Page 10
+September 3, 2021

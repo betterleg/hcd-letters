@@ -1,0 +1,14 @@
+{
+  "county": "Imperial",
+  "jurisdiction": "Westmorland",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-05-07",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/imp-westmorland-draft-out-050724.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/imp-westmorland-draft-out-050724.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227989,
+  "text_chars": 17010,
+  "text_empty": false
+}

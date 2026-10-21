@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Fountain Valley",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-10-13",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraFountainValleyAdoptedIN101322.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraFountainValleyAdoptedIN101322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 167231,
+  "text_chars": 5107,
+  "text_empty": false
+}

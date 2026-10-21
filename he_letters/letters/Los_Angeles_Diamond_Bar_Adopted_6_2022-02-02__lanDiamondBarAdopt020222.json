@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Diamond Bar",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-02-02",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanDiamondBarAdopt020222.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanDiamondBarAdopt020222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225772,
+  "text_chars": 18581,
+  "text_empty": false
+}

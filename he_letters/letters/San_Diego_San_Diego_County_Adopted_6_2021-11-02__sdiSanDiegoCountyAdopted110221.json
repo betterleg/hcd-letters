@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "San Diego County",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2021-11-02",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanDiegoCountyAdopted110221.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanDiegoCountyAdopted110221.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 264843,
+  "text_chars": 7227,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Cudahy",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2022-07-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanCudahyDraftOut072222.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanCudahyDraftOut072222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 250575,
+  "text_chars": 23154,
+  "text_empty": false
+}

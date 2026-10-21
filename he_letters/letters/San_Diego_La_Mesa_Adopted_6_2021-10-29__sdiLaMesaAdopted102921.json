@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "La Mesa",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2021-10-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiLaMesaAdopted102921.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiLaMesaAdopted102921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 204217,
+  "text_chars": 7686,
+  "text_empty": false
+}

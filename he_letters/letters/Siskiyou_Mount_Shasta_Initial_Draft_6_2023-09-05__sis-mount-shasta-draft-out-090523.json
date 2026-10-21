@@ -1,0 +1,14 @@
+{
+  "county": "Siskiyou",
+  "jurisdiction": "Mount Shasta",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-09-05",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sis-mount-shasta-draft-out-090523.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sis-mount-shasta-draft-out-090523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 210845,
+  "text_chars": 17190,
+  "text_empty": false
+}

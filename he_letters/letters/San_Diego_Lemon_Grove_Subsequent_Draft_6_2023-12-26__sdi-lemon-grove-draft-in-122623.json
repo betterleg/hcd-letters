@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "Lemon Grove",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-12-26",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdi-lemon-grove-draft-in-122623.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdi-lemon-grove-draft-in-122623.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 178605,
+  "text_chars": 4649,
+  "text_empty": false
+}

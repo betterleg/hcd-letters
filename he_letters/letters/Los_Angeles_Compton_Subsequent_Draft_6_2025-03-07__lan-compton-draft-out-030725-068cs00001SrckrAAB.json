@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Compton",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2025-03-07",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-compton-draft-out-030725-068cs00001SrckrAAB.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-compton-draft-out-030725-068cs00001SrckrAAB.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189126,
+  "text_chars": 6474,
+  "text_empty": false
+}

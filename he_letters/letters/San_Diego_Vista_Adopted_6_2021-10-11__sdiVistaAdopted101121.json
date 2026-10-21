@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "Vista",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2021-10-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiVistaAdopted101121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiVistaAdopted101121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 224561,
+  "text_chars": 8431,
+  "text_empty": false
+}

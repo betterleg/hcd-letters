@@ -1,0 +1,679 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 26, 2022
+
+
+         Debbie Pedro, Director
+         Community Development Department
+         City of Saratoga
+         13777 Fruitvale Avenue
+         Saratoga, CA 95070
+
+         Dear Debbie Pedro:
+
+         RE: The City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Saratoga’s (City) draft housing element received
+         for review on July 28, 2022. Pursuant to Government Code section 65585, subdivision
+         (b), the California Department of Housing and Community Development (HCD) is
+         reporting the results of its review. Our review was facilitated by a conversation on
+         October 17, 2022 with yourself, Nicole Johnson, and consultants Carla Violet, Curtis
+         Banks, and Arly Cassidy Dolbakian. In addition, HCD considered comments from
+         Faisal Haq, Anne Muller, Karthick Lyer, South Bay YIMBY, YIMBY Law and Greenbelt
+         Alliance, Anne Paulson, Joanne Cornbleet, Stephen A. Smith, Joseph B. Houston Jr.
+         and Elizabeth M. Houston, Curt Bianchi, and Marc Barberis pursuant to Government
+         Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+         lower-income households, shall be completed no later than one year from the statutory
+         deadline. Otherwise, the local government’s housing element will no longer comply with
+         State Housing Element Law, and HCD may revoke its finding of substantial compliance
+         pursuant to Government Code section 65585, subdivision (i). Please be aware, if the
+         City fails to adopt a compliant housing element within one year from the statutory
+         deadline, the element cannot be found in substantial compliance until rezones to
+         accommodate a shortfall of sites pursuant to Government Code section 65583,
+Debbie Pedro, Director
+Page 2
+
+
+
+subdivision (c) (1) (A) and Government Code section 65583.2, subdivision (c) are
+completed.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the effort and cooperation the housing element team provided during
+the review. We are committed to assisting the City in addressing all statutory
+requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact Hillary Prasad, of our staff, at
+Hillary.Prasad@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                        APPENDIX
+                                    CITY OF SARATOGA
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   A thorough program-by-program review is necessary to evaluate City's performance in
+   addressing housing goals. As part of this analysis, the element should report progress in
+   implementation, evaluate the effectiveness of programs and make adjustments in current
+   programs as appropriate. While the element reports progress in implementation, it must
+   evaluate the effectiveness of programs in achieving the goals and objectives of the housing
+   element. For example, the element should specifically analyze the effectiveness of several
+   programs that were essential to past compliance and part of the current programs without
+   meaningful adjustment, including but not limited to Programs 4-1.5 (Lot Consolidation), 4-
+   1.6 (Parking: especially for higher density non-affordable developments), 4-4.2 (Special
+   Needs Zoning), 4-4.4 (Persons with Developmental Disabilities), 4-4.5 (Extremely Low-
+   income Households) and 4-5.3 (Development Partnerships). Based on the outcomes of this
+   evaluation, the element should add or modify programs as appropriate.
+
+   In addition, as part of the review of programs in the past cycle, the element must provide an
+   evaluate of the effectiveness of goals, policies, and related actions in meeting the housing
+   needs of special needs populations (e.g., elderly, persons with disabilities, large
+   households, female-headed households, farmworkers and persons experiencing
+   homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                     Page 1
+October 26, 2022
+      Enforcement and Outreach: While the element describes some outreach and capacity
+      to enforce fair housing laws, it should also include information on local enforcement,
+      including the characteristics of complaints. In addition, the analysis must address
+      compliance with existing fair housing laws as well as any past or current fair housing
+      lawsuits, findings, settlements, judgements, or complaints.
+
+      Integration and Segregation: While the element includes recent data for most
+      requirements, the information on income is from 2015 and should be updated. In
+      addition, the element notes the significant differences in income relative to the region,
+      but should analyze those differences, including consideration of local data and
+      knowledge, other relevant factors (see below) and coincidence with other components
+      of the assessment of fair housing (e.g., disparities in access to opportunity and
+      disproportionate housing needs). This analysis is essential to the City’s assessment of
+      fair housing and appropriate programs should be added to promote housing mobility
+      and new housing opportunities throughout the City. Lastly the element should describe
+      any local concentrations of familial status within the City geographically as well as what
+      contributes to the higher concentration of families within the City in comparison to the
+      region.
+
+      Racial/Ethnic Areas of Concentration of Affluence (RCAA): The element currently uses
+      2013 data to state there are no RCAAs within the City and describes where they are
+      regionally. However, HCD’s fair housing data viewer indicates that areas within the City
+      and much of the immediately surrounding region is considered a RCAA. The analysis
+      should include updated data regarding the City’s RCAA designations and as noted
+      above this should be analyzed relative to the broader region, County, and neighboring
+      communities including the City’s eastern neighbors. For more information, please visit:
+      https://affh-data-resources-cahcd.hub.arcgis.com.
+
+      Disparities in Access to Opportunity: The element provides information on the access to
+      opportunity through the TCAC opportunity map but must also provide a complete local and
+      regional analysis of patterns and trends for all components. A comprehensive analysis
+      should include the local and regional disparities of the educational, environmental, and
+      economic scores through local, federal, and/or state data. It should also analyze persons
+      with disabilities as well as access to transit. Please refer to page 35 of the Affirmatively
+      Furthering Fair Housing (AFFH) guidebook (https://www.hcd.ca.gov/community-
+      development/affh/index.shtml#guidance) for specific factors that should be considered
+      when analyzing access to opportunities as it pertains to educational, employment,
+      environmental, transportation, and any factors that are unique to Saratoga.
+
+      Disproportionate Housing Needs Including Displacement: While the element includes
+      some data on disproportionate needs, additional information is needed. The element
+      must describe any geographic concentration of cost burden, overcrowding, and persons
+      experiencing homelessness both locally and regionally. Lastly, the element must
+      describe and analyze areas sensitive to displacement risk due to disaster (e.g.,
+      earthquake, fire, and flood).
+
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                     Page 2
+October 26, 2022
+      AFFH and Identified Sites: While the element includes a summary of fair housing
+      related to the sites inventory, it must analyze how the identified sites contribute to or
+      mitigate fair housing issues. An analysis should address all of the income categories of
+      identified sites with respect to location, the number of units by all income groups and
+      how that affects the existing patterns for all components of the assessment of fair
+      housing (e.g., segregation and integration, access to opportunity). This analysis should
+      specifically address isolation of the regional housing need allocation (RHNA) by income
+      group and incorporate public comments as appropriate. If sites exacerbate conditions or
+      isolates the RHNA by income group, the element should identify further program actions
+      (not limited to the RHNA) that will be taken to promote equitable quality of life
+      throughout the community (e.g., housing mobility and new opportunities in higher
+      resource areas).
+
+      Local Data and Knowledge: The element notes some County documents (e.g.,
+      assessment of fair housing) and outreach with stakeholder, but it should incorporate the
+      relevant content of those documents into the assessment of fair housing.
+
+      Other Relevant Factors: The element broadly mentions discriminatory practices in land
+      use but should discuss the practices of the City, particularly related to zoning and other
+      land use measures such as local initiatives and combine that discussion with other
+      relevant factors such as demographics (e.g., tenure, housing types, incomes) and past
+      investments or lack of investments, including applying for state and federal resources.
+
+      Contributing Factors: The element identifies many contributing factors to fair housing
+      issues. In addition, the element must prioritize these factors to better formulate policies
+      and programs and carry out meaningful actions to AFFH.
+
+      Goals, Actions, Metrics, and Milestones: While the element includes general metrics for
+      some programs, the element must be revised to add or modify goals and actions based
+      on the outcomes of a complete analysis. Goals and actions must specifically respond to
+      the analysis and to the identified and prioritized contributing factors to fair housing
+      issues and must be significant and meaningful enough to overcome identified patterns
+      and trends. Actions must have specific commitment, milestones, geographic targeting
+      and metrics or numerical targets and, as appropriate, address housing mobility
+      enhancement, new housing choices and affordability in higher opportunity areas
+      (throughout the City), place-based strategies for community preservation and
+      revitalization and displacement protection.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Extremely Low-Income (ELI): While the element briefly quantifies ELI households but
+      should specifically analyze their housing needs, including tenure, overpayment,
+      available resources and strategies, effectiveness of past program and the magnitude or
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                      Page 3
+October 26, 2022
+      disproportionate impacts on housing needs. Then, the element should add or modify
+      programs as appropriate.
+
+   3. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Housing Cost: While the element includes estimated rents for residents, it utilizes
+      American Community Survey (ACS) data. The element should supplement census data
+      with other sources (e.g., local knowledge).
+
+      Overpayment: The element must quantify and analyze the number of lower-income
+      households overpaying by tenure (i.e., renter and owner).
+
+   4. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The City’s RHNA may be reduced by the number of
+      new units built, approved, or pending since June 30, 2022; however, the element must
+      demonstrate their affordability based on actual sales price, rent level or other
+      mechanisms ensuring affordability (e.g., deed restrictions). The element should also
+      discuss the status, any barriers to development and other relevant factors to
+      demonstrate the availability or likelihood of development in the planning period.
+
+      Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+      accommodate housing for lower-income housing unless it is demonstrated that sites of
+      equivalent size and affordability were successfully developed during the prior planning
+      period or unless the housing element describes other evidence to HCD that the site is
+      adequate to accommodate lower-income housing (Gov. Code, § 65583.2, subd.
+      (c)(2)(A).). The element lists small sites but must also evaluate whether those sites are
+      suitable to accommodate housing for lower income households and add or modify
+      programs as appropriate. For example, the element could list past consolidations by the
+      number of parcels, number of owners, zone, number of units, affordability and
+      circumstances leading to consolidation and then relate those trends to the identified
+      sites or could explain the potential for consolidation on a site-by-site basis.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. While the element includes adequate
+      analysis for most sites, it should specifically evaluate the potential for redevelopment on
+      the Village East and Fellowship Plaza Housing Sites. The analysis should address the
+      extent that existing uses may impede additional residential development. For example,
+      the element can summarize past experiences converting similar existing uses to higher
+      density residential development, discuss the lack of market demand for the existing use,
+      address existing leases or contracts that would perpetuate the existing use or prevent
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                      Page 4
+October 26, 2022
+      additional residential development and consider additional indicators such as age and
+      conditions or the structure and existing versus allowable floor area. In addition, the
+      element should describe the appropriateness of zoning and feasibility of developing
+      additional housing on the Fellowship Plaza Housing site if the developer and owner
+      acknowledged that they are having difficulty obtaining new funding and a conditional
+      use permit (CUP) to add additional housing on the site expired in 2013. The element
+      should also describe how much of the Wardell housing site will be rezoned, and
+      whether the rezoned portion will include the existing use (p. 6-34).
+
+      In addition, specific analysis and actions are necessary if the housing element relies
+      upon nonvacant sites to accommodate more than 50 percent of the RHNA for lower-
+      income households. For your information, the housing element must demonstrate
+      existing uses are not an impediment to additional residential development and will likely
+      discontinue in the planning period (Gov. Code, § 65583.2, subd. (g)(2).). Absent
+      findings (e.g., adoption resolution) based on substantial evidence, the existing uses will
+      be presumed to impede additional residential development and will not be utilized
+      toward demonstrating adequate sites to accommodate the regional housing need
+      allocation.
+
+      Finally, the element identifies sites with existing residential uses. Absent a replacement
+      housing policy, these sites are not adequate sites to accommodate lower-income
+      households. The replacement housing policy has the same requirements as set forth in
+      Government Code section 65915, subdivision (c), paragraph (3).
+
+      SB 9 Sites: The element identifies SB 9 as a strategy to accommodate the part of the
+      City’s need of above-moderate RHNA. To support these assumptions, the analysis must
+      include experience, trends and market conditions that allow lot splits and missing middle
+      uses. The analysis must list the potential SB 9 sites and demonstrate the likelihood of
+      redevelopment, including whether existing uses constitute as an impediment for
+      additional residential use. The analysis should describe how the City determined eligible
+      properties, whether the assumed lots will have turnover, if the properties are easy to
+      subdivide, and the condition of the existing structures. The analysis should also
+      describe interest from property owners as well as experience. The analysis should
+      provide support for the 80 units being developed within the planning period. Based on
+      the outcomes of this analysis, the element should add or modify to establish zoning and
+      development standards early in the planning period and implement incentives to
+      encourage and facilitate development as well as monitor development every two years
+      with and identify additional sites within six months if assumptions are not being met. The
+      element should support this analysis with local information such as local developer or
+      owner interest to utilize zoning and incentives established through SB 9.
+
+      City-Owned Sites: The element must include additional discussion on each of the City-
+      Owned sites identified to accommodate the RHNA. Specifically, the analysis should
+      address general plan designations, allowable densities, support for residential capacity
+      assumptions, existing uses and any known conditions that preclude development in the
+      planning period and the potential schedule for development. If zoning does not currently
+      allow residential uses at appropriate densities, then the element must include programs
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                     Page 5
+October 26, 2022
+      to rezone sites pursuant to Government Code section 65583.2, subdivisions (h) and (i).
+      In addition, the housing element must include a description of whether there are any
+      plans to sell the property during the planning period and how the jurisdiction will comply
+      with the Surplus Land Act Article 8 (commencing with Section 54220) of Chapter 5 of
+      Part 1 of Division 2 of Title 5.
+
+      Accessory Dwelling Units (ADU): The element projects 480 ADUs over the planning
+      period or approximately 60 ADUs per year over the eight-year planning period. The
+      element also notes permitting 16 ADUs in 2018, 24 in 2019, 68 in 2020, and 69 in 2021.
+      These trends are inconsistent with HCD records (nothing reported in 2018, 24 in 2019,
+      43 in 2020, and 66 in 2021) and do not support an assumption of 60 ADUs per year. To
+      support assumptions for ADUs in the planning period, the element should reduce the
+      number of ADUs assumed per year and reconcile trends with HCD records, including
+      additional information such as more recent permitted units and inquiries, resources and
+      incentives, other relevant factors and modify policies and programs as appropriate.
+
+      Availability of Infrastructure: While the element generally discusses water and sewer
+      infrastructure capacity, it should clearly state whether there is sufficient existing or
+      planned capacity to accommodate the RHNA.
+
+      For your information, water and sewer service providers must establish specific
+      procedures to grant priority water and sewer service to developments with units
+      affordable to lower-income households. (Gov. Code, § 65589.7.) Local governments are
+      required to immediately deliver the housing element to water and sewer service
+      providers.
+
+      Environmental Constraints: While the element generally describes a few environmental
+      conditions, it must relate those conditions to identified sites and describe any other
+      known environmental or other constraints that could impact housing development on
+      identified sites in the planning period.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element indicates the CN (RHD) zone permits
+             emergency shelters by right including adoption of design and development
+             standards but should also clarify emergency shelters are permitted without
+             discretionary action, describe capacity and potential for reuse, including proximity
+             to transportation and services for these sites and any conditions in appropriate
+             for human habitability. In addition, the element should list and analyze the actual
+             design and development standards, including how parking requirements comply
+             with AB139/Government Code section 65583, subdivision (a)(4)(A) or include a
+             program to comply with this requirement.
+         •   Housing for Employees: The Employee Housing Act permits housing under
+             specific provisions. Section 17021.5 requires employee housing for six or fewer
+             employees to be treated as a single-family structure and permitted in the same
+             manner as other dwellings of the same type in the same zone. Section 17021.6
+             requires employee housing consisting of no more than 12 units or 36 beds to be
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                     Page 6
+October 26, 2022
+              permitted in the same manner as other agricultural uses in the same zone. The
+              element must demonstrate compliance with these requirements and include
+              programs as appropriate.
+          •   Manufactured Housing: Manufactured homes that are built on a permanent
+              foundation must be allowed in the same manner and in the same zones as
+              conventional or stick-built structures. Specifically, manufactured homes on a
+              permanent structure should only be subject to the same development standards
+              that a conventional single-family residential dwelling would be subject to. The
+              element must demonstrate consistency with this requirement or add or modify
+              programs as appropriate.
+          •   Accessory Dwelling Units (ADUs): The element indicates the City modified its
+              zoning code to ease barriers to the development of ADU’s. However, after a
+              cursory review of the City’s ordinance, HCD discovered several areas which are
+              not consistent with State ADU Law. HCD will provide a complete listing of ADU
+              non-compliance issues under a separate cover. As a result, the element should
+              add a program to update the City’s ADU ordinance in order to comply with state
+              law. For more information, please consult HCD’s ADU Guidebook, published in
+              December 2020, which provides detailed information on new state requirements
+              surrounding ADU development.
+
+   5. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types. The analysis should
+      analyze land use controls independently and cumulatively with other land use controls.
+      The analysis should specifically address requirements related to parking, heights, lot
+      coverage, minimum lot size and limits on allowable densities. The analysis should
+      address any impacts on cost, supply, housing choice, affordability, timing, approval
+      certainty and ability to achieve maximum densities and include programs to address
+      identified constraints. For example:
+
+          •   The element must identify and analyze heights and maximum lot coverage are
+              allowed in the P-A, CN, C-N(RHD), C-V, CH-1, and CH-2 zones as well as the
+              maximum density allowed and open space requirements in the C-N(RHD) zone.
+          •   The element should also analyze the 40 percent maximum lot coverage
+              (including all impervious surfaces), setbacks, and two-story height limits in
+              multifamily zones as constraints on development and add programs as
+              appropriate.
+          •   The element should identify and analyze the specific findings in the P-A zone
+              when more than 50 percent of the total floor area is residential (the identified note
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                      Page 7
+October 26, 2022
+             is missing on page 4-5) and whether the CUP requirements are constraints for
+             multifamily development in that zone.
+         •   The element must identify the allowed densities in the R-M 5,000, R-M 4,000,
+             and R-M 3,000 zones.
+         •   Page 4-10 lists densities for multifamily based on population density per acre as
+             well as dwelling units per acre. The element must analyze how the population
+             density requirement is determined for a project, how it interacts with the dwelling
+             unit per acre standard, and weather it acts as a development cap for proposed
+             projects.
+         •   The element should discuss minimum lot sizes and any impacts on identified
+             sites to accommodate the RHNA.
+         •   The element must analyze the parking requirements (p. 4-13) of one garage
+             space and 1.5 additional spaces per dwelling unit or one garage space and an
+             additional 0.5 space for a one-bedroom unit. This is particularly important since
+             parking requirements were identified as a constraint in the prior housing element
+             and the program appears to only have been partially implemented. Should the
+             analysis determine the parking standards or permit procedures are a constraint
+             on residential development, it must include a program to address or remove any
+             identified constraints.
+
+      Fees and Exaction: While the element includes the cumulative impact of fees on single
+      family and multifamily development on a per unit basis, it should clarify whether the
+      analysis includes all impact fees, including non-locally controlled fees or modify the
+      analysis as appropriate.
+
+      Local Processing and Permit Procedures: The element must describe the processing
+      and permit procedures for a typical single-family and multifamily development. The
+      analysis should address the approval body, the number of public hearings if any,
+      approval findings, design review and any other relevant information. The analysis
+      should address impacts on housing cost, supply, timing, feasibility, and approval
+      certainty.
+
+      Measure G: While the element describes Measure G (p. 4-24) which only allows the
+      City to amend residential and parkland designations by the vote of the people, it does
+      include some exemptions for certain state laws. The element must clarify whether the
+      rezone needed to accommodate the City’s RHNA is an exemption. If the rezone is not
+      exempt, the element must add a program to make the zoning available pursuant to
+      statutory requirements, including timing provisions. In addition, the element should
+      analyze the impacts of the voter approval on housing supply, cost, timing and feasibility
+      and add or modify programs as appropriate to address identified constraints.
+
+      Codes and Enforcement: The element must describe and analyze any local
+      amendments to the building code and their degree and type of enforcement for impacts
+      on housing supply and affordability.
+
+      Constraints on Housing for Persons with Disabilities: The element must include an
+      analysis of zoning, development standards, building codes, and process and permit
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                     Page 8
+October 26, 2022
+      procedures as potential constraints on housing for persons with disabilities. The
+      analysis must describe the findings and approval procedure for the City’s Reasonable
+      Accommodation procedure. In addition, the element must describe and analyze how
+      group homes for six or fewer and seven or more are allowed within the City and add
+      programs as appropriate. For your information, zoning should simply implement a
+      barrier-free definition of family instead of subjecting, potentially persons with disabilities,
+      to special regulations such as the number of persons, population types and licenses.
+      These housing types should not be excluded from residential zones, most notably
+      lower-density zones, which can constrain the availability of housing choices for persons
+      with disabilities. Requiring these housing types to obtain a special use or CUP could
+      potentially subject housing for persons with disabilities to higher discretionary
+      exceptions processes and standards where an applicant must, for example,
+      demonstrate compatibility with the neighborhood, unlike other residential uses.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact and achieve the goals and objectives of the housing
+      element, program should have specific commitment, discrete timing (e.g., at least
+      annually) and numerical objectives where appropriate. Examples of programs to be
+      revised include:
+
+          •   Programs 1-2.3 (Encourage and Facilitate Lot Consolidation), 3-1.1 (Pre-
+              Approved Plan Sets for ADUs), and 3-1.2 (Reduced Fees for ADUs and JADUs):
+              The programs must include proactive outreach during the planning period.
+          •   Program 2-2.1 (Community Education Regarding the Availability of Rehabilitation
+              Programs): The program should include specific timing related to outreach during
+              the planning period. In addition, the element should modify the identified
+              quantified objectives to match the metric associated with this program.
+          •   Program 2-2.2 (Code Compliance Program): The program should include specific
+              timing tied to enforcement as well as program implementation.
+          •   Program 3-1.4 (Educational Campaign and Information): The program should
+              include specific timing related to outreach during the planning period.
+          •   Program 5-2.2 (Develop Comprehensive Outreach Strategy for Housing): This
+              program should include specific timing of when the strategy will be updated. In
+              addition, the program should include proactive outreach throughout the planning
+              period.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                        Page 9
+October 26, 2022
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B4, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised as follows:
+
+      Program 1-1.1 (Adequate Sites for Housing or RHNA Rezoning): The program must
+      commit to allowable densities, appropriate development standards to facilitate maximum
+      densities. The program must also commit to all of the by-right requirements pursuant to
+      Government Code section 65583.2, subdivisions (h) and (i)., including but not limited to
+      permitting development with 20 percent or more of the units are affordable to lower
+      income households without discretionary action, requiring minimum densities,
+      accommodating at least 16 units per site and residential performance standards.
+
+      Program 1-2.4 (Lot Consolidation Program): The program must include a commitment
+      to establish incentives by a specified date, beyond “consider appropriate” incentives,
+      especially with the strong reliance on lot consolidation to accommodate the lower-
+      income RHNA. In addition, the program should be modified based on the outcomes of
+      the review and revise of the previous program and include a mid-term evaluation of the
+      effectiveness of the program and commit to adjustment as necessary. This is
+      particularly important given the apparent lack of implementation or outcomes in the prior
+      planning period.
+
+      Program 3-2.4 (Low Barrier Navigation Center): The program should clarify zoning will
+      be updated to permit these uses in multifamily zones as well as mixed use zones
+      pursuant to Government Code section 65660.
+
+      Sites Identified in Prior Planning Periods: The element identifies sites from the prior
+      planning period and as a result must include a program to make the site available or
+      remove the site. The program must be implemented within the first year or three years
+      of the planning period and commit to zoning that will meet the density requirements for
+      housing for lower-income households and allow by-right approval for housing
+      developments that include 20 percent or more of its units affordable to lower-income
+      households.
+
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                     Page 10
+October 26, 2022
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Program 4-3.1 (Development of Housing for ELI): This program should describe what
+      additional incentives are provided for developments with ELI units. In addition, the
+      element should include specific time of when the incentives will be implemented and
+      steps beyond meeting with developers such as annually identifying development
+      opportunities.
+
+      Special Needs: While the element includes programs to assist in the development of
+      very low-, low-, and moderate-income and some special needs households, it must also
+      include a program(s) to assist in the development of housing for all special needs
+      households (e.g., elderly, homeless, farmworkers, persons with disabilities, female-
+      headed households). Program actions could include proactive outreach and assistance
+      to non-profit service providers and developers, prioritizing some funding for housing
+      developments affordable to special needs households and offering financial incentives
+      or regulatory concessions to encourage a variety of housing types.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding B5, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the City may
+      need to revise or add programs and address and remove or mitigate any identified
+      constraints. In addition, the element should be revised as follows:
+
+      Program 3-2.1 (Increase C-H Height Limit): The program should clarify whether the 35-
+      foot height limit in the C-H zones will allow 3 story developments by-right.
+
+      Program 3-2.2 (Reduced Setbacks for Smaller Parcels): The element should describe
+      what the setbacks for small parcels will be reduced to, and what size parcels would
+      qualify for the reduction.
+
+      Program 4-1.1 (Continue to Implement Density Bonus Ordinance): The program should
+      be revised to commit to steps beyond an annual assessment and revise the ordinance
+      by a specified date.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                         Page 11
+October 26, 2022
+      As noted in Finding B1, the element must include a complete analysis of AFFH. The
+      element must be revised to add goals and actions based on the outcomes of a complete
+      analysis.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a summary of the public participation process, the element
+   should also demonstrate diligent efforts were made to involve all economic segments of the
+   community in the development of the housing element. The element could describe the
+   efforts to circulate the housing element among low- and moderate-income households and
+   organizations that represent them and to involve such groups and persons in the element
+   throughout the process. The element could also describe which organizations participated
+   and provided feedback out of the organizations that were contacted and describe how the
+   City notified organizations of small group meetings. The element should also describe
+   whether translations services were available throughout the process. In addition, while the
+   element describes how public comments were received and incorporated during the 30-day
+   review period, it should summarize and describe how public comments were considered
+   and incorporated throughout the entire review process.
+
+
+
+
+City of Saratoga’s 6th Cycle (2023-2031) Draft Housing Element                  Page 12
+October 26, 2022

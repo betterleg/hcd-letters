@@ -1,0 +1,342 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 18, 2023
+
+
+         Afshin Oskoui, City Manager
+         City of Belmont
+         1 Twin Pines Lane
+         Belmont, CA, 94002
+
+         Dear Afshin Oskoui:
+
+         RE: City of Belmont’s 6th Cycle (2023-2031) Revised Draft Housing Element
+
+         Thank you for submitting the City of Belmont’s (City) revised draft housing element that
+         was received for review on October 19, 2023. Pursuant to Government Code section
+         65585, the California Department of Housing and Community Development (HCD) is
+         reporting the results of its review. In addition, HCD considered comments from Housing
+         Leadership Council pursuant to Government Code section 65585, subdivision (c).
+
+         The revised draft housing element addresses many statutory requirements described in
+         HCD’s April 3, 2023 review; however, revisions will be necessary to substantially
+         comply with State Housing Element Law (Gov. Code, § 65580 et seq). The enclosed
+         Appendix describes the revisions needed to comply with State Housing Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available and/or accommodate the regional housing needs allocation (RHNA) shall be
+         completed no later than one year from the statutory deadline pursuant to Government
+         Code sections 65583, subdivision (c) and 65583.2, subdivision (c). Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i). Please be aware, if the City fails to adopt a
+         compliant housing element within one year from the statutory deadline, the element
+         cannot be found in substantial compliance until these rezones are completed.
+
+         Chapter 654, Statutes of 2022 (AB 2339), adds specificity on how cities and counties
+         plan for emergency shelters and ensure sufficient and suitable capacity. Future
+         submittals of the housing element may need to address these statutory requirements.
+         For additional information and timing requirements, please see HCD’s memo at
+         https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/ab2339-
+         notice.pdf.
+Afshin Oskoui, City Manager
+Page 2
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+Communities program, and HCD’s Permanent Local Housing Allocation consider
+housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the City will meet
+housing element requirements for these and other funding sources.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Andrea Grant, of our staff, at andrea.grant@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF BELMONT
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).).
+
+      Progress in Meeting the Regional Housing Needs Allocation (RHNA): The element was
+      revised to include updated statuses and affordability on pipeline projects. The analysis
+      also indicates that at least half of the City’s pipeline projects are not under construction.
+      The element should be revised to analyze any known barriers to development and other
+      relevant factors to demonstrate their availability during the planning period.
+
+      Additionally, the revised element included Table 7 (App. C.1, pg. 22) listing each
+      project, affordability, and number of units per income level. However, the column
+      indicating the number of total units does not match or reflect the columns reflecting
+      affordability levels. Specifically, while the element included a column for income levels
+      ranging from extremely low-income to moderate income, it did not include a column
+      indicating the number of above moderate-income units within each project. For
+      example, Table 7 reported that 815 Old County Road pipeline project includes 177
+      units; however only lists 27 units in the income column. The element should be revised
+      to consistently report the income levels within each pipeline project.
+
+      Lastly, given the City’s reliance on pipeline projects, the element should include
+      programs with actions that commit to facilitating development and monitoring approvals
+      of the projects (e.g., coordination with applicants to approve remaining entitlements,
+      supporting funding applications, expediating approvals, rezoning or identification of
+      additional sites should the applications not be approved).
+
+
+
+
+City of Belmont’s 6th Cycle Revised Draft Housing Element                           Page 1
+December 18, 2023
+      Realistic Capacity: The element generally assumes 59 du/ac for sites smaller than 0.5
+      acres and 113 du/ac for sites larger than 0.5 acres (App. C.1, p. 16-18). Further the
+      element indicates that this methodology is based on past projects, utilization of local
+      and state density bonus provisions and land use controls including floor area ratios
+      (FAR) and objective standards within the Belmont Village Specific Plan (BVSP).
+      However, as found in HCD’s prior review, the element must include information
+      supporting these assumptions as follows:
+
+         •   Methodology – While the element states that the City utilized 59-113 du/ac,
+             depending on the acreage, as realistic capacity assumptions, the City’s electronic
+             sites inventory does not reflect this information. For example, 210 El Camino
+             Real is 0.5 acres and indicates a maximum density of 60 du/ac in Column I. For a
+             site of this size and density, the maximum capacity should be 30 units. However,
+             the element assumes 57 units on this site reflecting a density of 113 du/ac while
+             Column I indicates that the maximum allowable density is 60 du/ac. The element
+             and the City’s sites inventory must be revised to accurately reflect the allowable
+             densities, realistic capacity methodology and assumed capacity on each parcel.
+             Lastly, throughout various sections of the element and as noted in HCD's prior
+             reviews, the element indicates that local and state density bonus provisions were
+             utilized in determining realistic assumptions. The element must indicate how the
+             methodology considered these provisions when calculating realistic capacity.
+             Lastly, the element should indicate whether the City is assuming state or local
+             density bonus provisions in capacity calculations. If the element relies on a local
+             density bonus program, it must include additional information regarding this
+             program including the implementation framework.
+
+         •   Feasibility – The element indicates that within the BVSP and other zones
+             including CMU, VSC, VCMU, there is no maximum density metric and that
+             projects rely on FAR and objectives standards to determine densities. However,
+             the development standards and land use controls listed in the City’s constraints
+             analysis generally does not demonstrate that 59-113 du/ac can be achieved on
+             these sites. Additionally, the element noted that several zones require projects to
+             provide community benefits to utilize FARs between 2.0-2.5 that may support
+             achieving the assumed densities. The element must include a complete analysis
+             evaluating the cumulative impact of the City’s development standards and
+             whether it supports and facilitates achieving the densities assumed in the
+             inventory. Additionally, the element must explicitly describe the type of
+             community benefits a project is required to provide and evaluate this requirement
+             for potential constraints on development.
+
+         •   Nonresidential Analysis – The element was not revised to address HCD’s prior
+             reviews. As found in HCD’s prior reviews, this analysis must consider the
+             likelihood of nonresidential development in mixed-use and commercial areas,
+             performance standards, and development trends supporting residential
+             development.
+
+
+
+
+City of Belmont’s 6th Cycle Revised Draft Housing Element                         Page 2
+December 18, 2023
+         •   Support – As found in HCD’s prior reviews and noted above, the element must
+             provide support for its methodology of realistic capacity assumptions. HCD’s prior
+             review found that the element generally lacked support for densities on sites
+             smaller than 0.5 acres. Specifically, the element listed three projects as
+             examples of density assumptions. However, two out of three of the projects
+             reflected densities 22-31 du/ac; significantly less than the current assumption.
+             While the element was revised to indicate that the City is assuming lot
+             consolidation and that most small sites are part of a larger cluster, the City’s
+             electronic sites inventory still reflects 59 du/ac or greater being assumed on each
+             individual parcel. The element must provide specific support and analysis for the
+             methodology utilized to calculate realistic capacity.
+
+      Small Sites: HCD’s prior review found that the element must include an analysis
+      supporting the inclusion of sites smaller than 0.5 acres to accommodate the lower-
+      income RHNA. Additionally, the analysis must consider the City’s role or track record in
+      facilitating past lot consolidation, common ownership, policies, or incentives offered or
+      proposed to encourage and facilitate lot consolidation or other conditions rendering
+      parcels suitable and ready for lot consolidation. While the element was revised to
+      indicate the City’s track record and projects supporting lot consolidation, the element
+      must also address conditions suitable for lot consolidation. For example, the element
+      must indicate the factors utilized to determine which parcels would be consolidated such
+      as common ownership, adjacency of parcels, or other factors. This information should
+      also be reflected within the inventory in Appendix C.1 and C.3. Based on a complete
+      analysis, the City may need to add or modify programs as appropriate.
+
+      Suitability of Nonvacant Sites: The element was revised to indicate the factors utilized to
+      evaluate and identify the redevelopment potential of nonvacant sites (App. C.1, pg. 30-
+      32 and App C.3). Additionally, the element updated Table 11 (App C.1, pg. 32) with
+      information regarding existing uses. However, as found in HCD’s prior review, the
+      element must support the viability of criteria and factors utilized through relating this
+      information to recent project example. For example, the element identified building age,
+      improvement value, declining existing uses and single story buildings as factors for
+      identifying sites with redevelopment potential. The element should be revised to support
+      and relate these factors by including past projects that redeveloped with the same
+      criteria. For your information, when including examples, the element should list specific
+      site characteristics that relate to the factors utilized in the analysis.
+
+      Environmental Constraints: The element indicates that the two City-owned parcels
+      contained underground storage tanks (USTs) subject to environmental remediation and
+      removal. While the element indicated that one site is already remediated, the element
+      still must address the second site. While the element briefly mentioned that the City has
+      committed to contributing the land at no cost and providing funding to future
+      development, as found in HCD’s prior reviews, the element still needs to discuss the
+      status of remediation including potential timelines and add or modify programs, as
+      appropriate.
+
+
+
+
+City of Belmont’s 6th Cycle Revised Draft Housing Element                         Page 3
+December 18, 2023
+   2. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element was revised with a high-level discussion stating that
+      the City has made several changes in zoning and development standards that have
+      facilitated an increase in projects. The element also included Policy H.1.20 committing
+      to reviewing and revising the City’s development standards if they are more restrictive
+      than surrounding communities. However, as noted in the findings above regarding
+      realistic capacity, the element must analyze the City’s development standards and land
+      use controls as it relates to achieving the assumed densities in the sites inventory.
+      Additionally, and as found in HCD’s prior review, the element must address whether 100
+      percent nonresidential uses are allowed in the mixed-use zones. Based on a complete
+      analysis, the element may need to add or modify programs, as appropriate.
+
+      Local Processing and Permit Procedures: The element was revised to indicate that
+      most projects not requiring legislative actions will go through the City’s development
+      review and approval step which includes entitlements being reviewed by planning
+      commission (App. B, pg. 41). While the element now includes the required steps for a
+      project, it must describe and analyze the approval findings or decision-making criteria
+      for the development review and approval step. The analysis should consider any
+      impacts on timing, approval certainty and project feasibility. Based on a complete
+      analysis, the element must add or modify programs, as appropriate.
+
+
+B. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).).
+
+      As noted in Finding A1, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+
+
+
+City of Belmont’s 6th Cycle Revised Draft Housing Element                           Page 4
+December 18, 2023
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised, as follows:
+
+          •   Policy H.2.4 (Require Replacement Units): This Program should be revised to be
+              implemented earlier in the planning period e.g., two years within the planning
+              period.
+
+          •   Policy H.1.3 (Incentivize Accessory Dwelling Units (ADUs) Development,
+              Updating and Monitoring): It appears that the remaining text for this Program was
+              removed or cut off related to the City’s commitment to updating its ADU
+              ordinance. The element should be revised to fully reflect this commitment.
+
+   2. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).).
+
+      As noted in Finding A2, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the City may
+      need to revise or add programs and address and remove or mitigate any identified
+      constraints.
+
+   3. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).).
+
+      The element included minimal revisions to address HCD’s prior reviews. Specifically,
+      the element was revised with some metrics and a stronger ADU monitoring program.
+      The City is predominately high and highest resource with areas considered racially
+      concentrated areas of affluence (RCAA) and relatively high income earners. As found in
+      HCD’s prior reviews and demonstrated by the City assessment of fair housing, the
+      element must include a significant suite of programs to promote housing mobility or
+      housing choices and affordability throughout the City. These programs should not be
+      limited to the RHNA and, instead, target significant and meaningful change. While the
+      element was revised to include some metrics or numeric objectives, geographic
+      targeting and a few actions such as accessory dwelling units (ADU) and carriage
+      homes, it should include additional actions that promote housing choices and
+      affordability throughout the City. Additional examples include promoting more housing
+      choices and affordability in other lower-density areas (e.g., missing middle housing
+      types), identifying additional multifamily areas, additional religious institutional sites, and
+      enhancing ADU’s, junior accessory dwelling units (JADU) or additional conversion of
+      existing space, and home sharing strategies.
+
+
+
+
+City of Belmont’s 6th Cycle Revised Draft Housing Element                              Page 5
+December 18, 2023

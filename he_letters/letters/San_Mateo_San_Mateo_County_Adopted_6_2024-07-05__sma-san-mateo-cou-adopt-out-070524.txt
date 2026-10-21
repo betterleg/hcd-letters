@@ -1,0 +1,382 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 5, 2024
+
+
+         William Gibson, Planner III
+         Planning and Building Department
+         455 County Center, Floor 2
+         Redwood City, CA 94063
+
+         Dear William Gibson:
+
+         RE: County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element
+
+         Thank you for submitting the County of San Mateo’s (County) housing element that was
+         adopted April 23, 2024 and received for review on May 6, 2024. Pursuant to
+         Government Code section 65585, the California Department of Housing and Community
+         Development (HCD) is reporting the results of its review. In addition, HCD considered
+         comments from Ward Mace and Jeremey Levine pursuant to Government Code section
+         65585, subdivision (c).
+
+         The adopted element addresses many statutory requirements which are described in
+         HCD’s April 20, 2023 review; however, revisions will be necessary to substantially
+         comply with State Housing Element Law (Gov. Code, § 65580 et seq). The enclosed
+         Appendix describes the revisions needed to substantially comply with State Housing
+         Element Law.
+
+         A jurisdiction that did not adopt a compliant housing element within 120 days from the
+         statutory deadline must rezone sites within one year of the statutory deadline and meet
+         requirements pursuant to Government Code sections 65583, subdivision (c)(1)(A) and
+         65583.2, subdivision (c). As this year has passed and Programs have not been
+         completed, the housing element is out of compliance and will remain out of compliance
+         until the rezoning have been completed. Once the County completes the rezone, a copy
+         of the resolution or ordinance should be transmitted to HCD. HCD will review the
+         documentation and issue correspondence identifying the updated status of the County
+         housing element compliance.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the County should continue to engage the community, including organizations
+         that represent lower-income and special needs households, by making information
+         regularly available and considering and incorporating comments where appropriate.
+         Please be aware, any revisions to the element must be posted on the local
+William Gibson, Planner III
+Page 2
+
+
+
+government’s website and to email a link to all individuals and organizations that have
+previously requested notices relating to the local government’s housing element at least
+seven days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+Communities program, and HCD’s Permanent Local Housing Allocation consider
+housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the County meets
+housing element requirements for these and other funding sources.
+
+We are committed to assisting the County in addressing all statutory requirements of
+State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Anthony Errichetto, of our staff, at
+Anthony.Errichetto@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                       APPENDIX
+                                  COUNTY OF SAN MATEO
+
+The following changes are necessary to bring the County’s housing element into compliance
+with Article 10.6 of the Government Code. Accompanying each recommended change, we cite
+the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at HCD
+Memos. Among other resources, the housing element section contains HCD’s latest technical
+assistance tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+building blocks and includes the Government Code addressing State Housing Element Law
+and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+      Racial/Ethnic Areas of Concentration of Poverty (R/ECAP) and Racially Concentrated
+      Area of Affluence (RCAA): While the element includes some general discussion of
+      deficiencies in some areas of concentrated poverty, this discussion should be expanded to
+      cover the full breadth of neighborhood conditions and compare those conditions to other
+      areas of the County to better formulate appropriate policies and programs.
+
+      Contributing Factors: Based on the outcomes of a complete analysis, the element should
+      re-assess and prioritize contributing factors (e.g., high, medium, low) and add or revise
+      Programs as necessary.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+      Housing Stock Conditions: While the element includes discussion of housing conditions, it
+      should estimate the total number of units in need of rehabilitation and/or replacement
+      within the County. For example, the County could estimate using a percentage of the total
+      number of units in the County and past code enforcement trends. The estimation could be
+      further supplemented with other local data and knowledge related to other areas of
+      identified need as described on page A-41.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+
+
+
+County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element                 Page 1
+July 5, 2024
+      Progress in Meeting the Regional Housing Needs Allocation (RHNA): The element was
+      not revised to address this finding. Table E-5 on page E-29 identifies pipeline projects
+      have been constructed, approved or are under construction. The element should clarify
+      the current project status for these units, describe any known barriers to development, and
+      discuss any other relevant factors to demonstrate their availability in the planning period.
+      In addition, the element should demonstrate their affordability. The element should
+      identify, add, or revise a Program as appropriate to monitor the timely development of
+      these pipeline projects within the planning period and explicitly commit to alternative
+      actions (including rezoning) by a certain date as needed. Please see HCD’s prior review
+      for additional information.
+
+      Realistic Capacity: The sites inventory indicates that some vacant and nonvacant
+      multifamily sites utilize minimum densities to calculate realistic capacity while others utilize
+      maximum density. The element should consistently assume minimum densities for
+      calculating total capacity for each site and adjust calculations accordingly or the element
+      should clearly indicate what specific trends, factors, and other evidence led to
+      discrepancies in the assumptions. For example, the element should list recent
+      developments by maximum allowable density and built density and should adjust the
+      analysis of realistic capacity by each zone. In addition, ground floor commercial
+      requirements have not been sufficiently analyzed as a potential constraint. Please see
+      HCD’s prior review for additional information.
+
+      Suitability of Nonvacant Sites: The element generally was not revised to address this
+      finding. Please see HCD’s prior review for additional information.
+
+      Small Sites: While the element notes that some small sites have been developed in the
+      past, it generally was not revised to address this requirement. For example, the element
+      does not include any discussion of past trends related to identified sites or the level of
+      affordability on past developed small sites. Please see HCD’s prior review for additional
+      information.
+
+      Availability of Infrastructure: The element generally was not revised to address HCD’s prior
+      review regarding the lack of capacity to accommodate the RHNA. Please see HCD’s prior
+      review for additional information.
+
+      Environmental Constraints: The element was not revised to address this finding. As stated
+      in HCD’s prior review, the element should analyze environmental constraints site by site or
+      by area and add or revise programs as needed to address identified constraints. Please
+      see HCD’s prior review for additional information.
+
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision (b),
+      the County must utilize standards, forms, and definitions adopted by HCD when preparing
+      the sites inventory and submit an electronic version of the sites inventory. While the
+      County has submitted an electronic version of the sites inventory, if changes occur, any
+      future re-adopted versions of the element must also submit the electronic version of the
+      sites inventory.
+
+
+
+
+County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element                  Page 2
+July 5, 2024
+      Zoning for a Variety of Housing Types (Emergency Shelters): The element must describe
+      compliance with the requirements of Chapter 654, Statutes of 2022 (AB 2339) and add or
+      revise programs as necessary. Among other changes, these amendments to Government
+      Code section 65583, subdivision (a)(4) expands the definition of “emergency shelters,”
+      specifies the type of zoning designations that must be identified to allow emergency
+      shelters as a permitted use without a conditional use or other discretionary permit and
+      demonstrate the appropriateness of sites to accommodate emergency shelters. For more
+      information, see HCD’s AB 2339 memorandum at AB 2339.
+      In addition, the element should add or revise a Program as necessary to provide specific
+      commitment to allow emergency shelters by-right in the entirety of Colma as stated on
+      page B-2.
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+      Land Use Controls: The element was not revised to address this finding. Please see
+      HCD’s prior review for additional guidance (i.e., parking requirements, Local Coastal Plan
+      growth control, lot coverages, height limits, setbacks, daylighting, lot sizes, open space
+      requirements, and typical densities). In addition, the element should analyze the extent to
+      which ground floor commercial requirements are a potential constraint to development
+      feasibility as well as to the affordability and supply of housing units. For example, the
+      element could describe current utilization, vacancy trends, recent mixed use multifamily
+      development feasibility and presence of exemptions. The element should add or revise
+      programs as necessary to address constraints identified as part of a complete analysis.
+      Fees and Exaction: While the revised element provides the total cost of fees as a
+      proportion of the typical total cost of development, it should also list out existing impact
+      fees instead of aggregating impact fees for both single and multifamily housing
+      developments.
+      Local Processing and Permit Procedures: While the element was revised to clarify the
+      Planned Unit Development (PUD) process, there were no other revisions to address this
+      finding. As stated in HCD’s prior review, the element should explain and analyze typical
+      approval process and timing for single and multifamily developments, public hearing
+      requirements, conditional use permitting (CUP) requirements for multifamily
+      developments, and variance processing. Please see HCD’s prior review for additional
+      information.
+      Design Review: The element was not revised to address this finding. As stated in HCD’s
+      prior review, the element must describe applicable design and architectural review
+      guidelines and processes for single and multifamily developments, including approval
+      procedures and decision-making criteria. It must also address their impacts as potential
+      constraints on housing supply, cost, and approval certainty. For example, the element
+      describes required approval findings that are subjective (p. B-35) including in the Emerald
+
+County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element                 Page 3
+July 5, 2024
+      Lake Hills, Oak Knoll Manor, Devonshire, and Palomar Park areas as well as areas within
+      the DR District overlay such as Colma and North Fair Oaks. A complete analysis should
+      address the impacts of these decision-making criteria on housing supply, cost, and
+      particularly approval certainty (e.g., the element states that reviews may take up to 6
+      months to complete). The analysis may discuss how the County mitigates potential
+      impacts such as pre-application reviews or guidelines. Based on the outcomes of a
+      complete analysis, the element must add or modify programs to address identified
+      constraints.
+
+      Codes and Enforcement: The element was not revised to address this finding. The
+      element should clarify local amendments to the building code and analyze their degree
+      and type of enforcement for impacts on housing supply and affordability. Please see
+      HCD’s prior review for additional information.
+
+      Constraints on Housing for Persons with Disabilities: The element was not revised to
+      address this finding. For your information, Program HE 22.12 does not supplement the
+      need for the required information to be incorporated into the element, particularly
+      regarding group homes. The element should include the analysis as stated in HCD’s prior
+      review and revise Program HE 22.12 with more specific commitment regarding what
+      deficiencies need amending. Please see HCD’s prior review and building blocks for
+      additional guidance.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …the length of
+      time between receiving approval for a housing development and submittal of an
+      application for building permits for that housing development that hinder the construction
+      of a locality’s share of the regional housing need... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Approval Times and Requests for Lesser Densities: While the element was revised to
+      describe requests to develop housing at lower densities, it must also describe the length of
+      time between housing developments receiving approval and the submittal of an application
+      for building permits. Programs should be added or revised as necessary to address
+      identified constraints such as those that potentially hinder the construction of the County’s
+      share of the regional housing need.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element... (Gov. Code, §
+      65583, subd. (c).)
+
+
+
+
+County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element               Page 4
+July 5, 2024
+      Programs to be revised include the following:
+
+         •   Program HE 6.1 (Rental Assistance): The Program should commit to at least
+             annual proactive education and outreach.
+         •   Program HE 10.2 (Accessory Dwelling Unit Amnesty): The element should clarify
+             why the Program has been suspended indefinitely as indicated on page 39.
+         •   Program HE 18.1 (Infrastructure Supporting Affordable Housing): The Program
+             should include a date for when the assessment is estimated to be completed.
+         •   Program 22.4 (Farmworker Housing): The Program should commit to coordinate
+             with the City of Half Moon Bay on a regular basis (e.g., quarterly) and pursue
+             alternative actions if the 555 Kelly Street site does not develop as expected by a
+             specific date.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning…(Gov. Code, §
+      65583, subd. (c)(1).)
+      As noted in finding A3, the element does not include a complete site analysis; therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the County may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised, as follows:
+         •   Program 11.2 (Rezone Program): The Program should commit to rezone and meet
+             all by-right requirements pursuant to Government Code section 65583.2,
+             subdivisions (h) and (i) and clarify the anticipated number of units to be developed.
+             For example, by-right requirements must include 20 percent affordability and non-
+             discretionary approval.
+         •   Accessory Dwelling Units (ADUs): The element should add or revise a Program to
+             include specific commitments to monitor the production and affordability of ADUs as
+             well as adopt additional incentives and other strategies by a specified date if
+             production and affordability does not occur as expected.
+         •   Program 22.12 (Zoning Amendments for Special Housing Needs): While the
+             Program generally commits to amend zoning to comply with state law, it should
+             specifically commit to each of the laws to be addressed. For example, the Program
+             should commit to comply with Government Code sections 65651 and 65660 and
+             should commit to establish appropriate development standards that encourage the
+             development of single room occupancy (SRO) units.
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+
+County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element               Page 5
+July 5, 2024
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in findings A4 and A5, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the County may
+      need to revise or add programs and address and remove or mitigate any identified
+      constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element requires a complete affirmatively furthering fair
+      housing (AFFH) analysis. Depending upon the results of that analysis, the County may
+      need to revise or add programs. Goals and actions must specifically respond to the
+      analysis and to the identified and prioritized contributing factors to fair housing issues
+      and must be significant and meaningful enough to overcome identified patterns and
+      trends. Actions must have specific commitments, milestones, geographic targeting and
+      metrics or numerical targets and, as appropriate, address housing mobility
+      enhancement (housing choices and affordability across geographies), new housing
+      choices and affordability in relatively higher opportunity or income areas, place-based
+      strategies for community preservation and revitalization, and displacement protection.
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   The element generally was not revised to address this requirement. Regardless of
+   insignificant rehabilitation needs of single-family homes and no units at-risk of conversion to
+   market rate uses, the element must still include estimates for rehabilitation and not limit
+   conserved units to at-risk properties. Please see HCD’s prior review for additional
+   information.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   The element should respond to the public comment from Ward Mace regarding the 350
+   Harbor Boulevard site, which represents a significant portion of the County’s RHNA, and
+   analyze the feasibility for redevelopment. Programs may need to be added or revised to
+   ensure the adequacy of site and provide for alternative actions by a certain date if needed.
+
+County of San Mateo’s 6th Cycle (2023-2031) Adopted Housing Element                Page 6
+July 5, 2024

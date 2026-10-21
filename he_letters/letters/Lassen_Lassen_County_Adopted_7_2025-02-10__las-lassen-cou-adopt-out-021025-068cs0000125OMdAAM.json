@@ -1,0 +1,14 @@
+{
+  "county": "Lassen",
+  "jurisdiction": "Lassen County",
+  "type": "Adopted",
+  "cycle": "7",
+  "reviewed": "2025-02-10",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/las-lassen-cou-adopt-out-021025-068cs0000125OMdAAM.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/las-lassen-cou-adopt-out-021025-068cs0000125OMdAAM.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 200673,
+  "text_chars": 8693,
+  "text_empty": false
+}

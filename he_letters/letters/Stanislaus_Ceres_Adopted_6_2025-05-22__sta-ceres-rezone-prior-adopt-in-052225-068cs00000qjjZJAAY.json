@@ -1,0 +1,14 @@
+{
+  "county": "Stanislaus",
+  "jurisdiction": "Ceres",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2025-05-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-ceres-rezone-prior-adopt-in-052225-068cs00000qjjZJAAY.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-ceres-rezone-prior-adopt-in-052225-068cs00000qjjZJAAY.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186667,
+  "text_chars": 5862,
+  "text_empty": false
+}

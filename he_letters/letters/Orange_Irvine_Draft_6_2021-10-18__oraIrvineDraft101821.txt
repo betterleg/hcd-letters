@@ -1,0 +1,670 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+          October 18, 2021
+
+
+
+          Pete Carmichael, Director
+          Community Development Department
+          City of Irvine
+          1 Civic Center Plaza
+          Irvine, CA 92606
+          Dear Pete Carmichael:
+          RE: City of Irvine’s 6th Cycle (2021-2029) Draft Housing Element
+          Thank you for submitting the City of Irvine’s (City) draft housing element received for
+          review on August 19, 2021. Pursuant to Government Code section 65585, subdivision
+          (b), the California Department of Housing and Community Development (HCD) is
+          reporting the results of its review. Our review was facilitated by a telephone
+          conversation on September 27, 2021, with you and your staff, Marika Poynter, Melissa
+          Chao, Justin Equina, Tim Gehrich, Lisa Varon, Kerwin Lau, and consultants Hitta
+          Mosesman and Jordan Perez. In addition, HCD considered comments from YIMBY
+          Law and the Kennedy Commission pursuant to Government Code section 65585,
+          subdivision (c).
+          The draft element addresses many statutory requirements; however, revisions will be
+          necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+          The enclosed Appendix describes the revisions needed to comply with State Housing
+          Element Law.
+          The City’s statutory deadline to adopt a housing element is October 15, 2021. For your
+          information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a local
+          government fails to adopt a compliant housing element within 120 days of this
+          statutory deadline, then any rezoning to accommodate the regional housing needs
+          allocation (RHNA), including for lower-income households, shall be completed no later
+          than one year from the statutory deadline. Otherwise, the local government’s housing
+          element will no longer comply with State Housing Element Law, and HCD may revoke
+          its finding of substantial compliance pursuant to Government Code section 65585,
+          subdivision (i).
+          Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+          standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+          Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+          development/housing-element/index.shtml for a copy of the form and instructions. The
+          City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+Pete Carmichael, Director
+Page 2
+
+
+
+Upon adoption of the housing element, the City must submit an electronic version of
+the sites inventory with its adopted housing element to sitesinventory@hcd.ca.gov.
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations
+that represent lower-income and special needs households, by making information
+regularly available and considering and incorporating comments where appropriate.
+Specifically, the City must proactively make future revisions available to the public,
+including any commenters, prior to submitting any revisions to HCD and diligently
+consider and address comments, including making revisions to the document where
+appropriate. HCD’s future review will consider the extent to which the revised element
+documents how the City solicited, considered, and addressed public comments in the
+element.
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual
+reporting requirements pursuant to Government Code section 65400. With a compliant
+housing element, the City will meet housing element requirements for these and other
+funding sources.
+HCD is committed to assisting the City of Irvine in addressing all statutory
+requirements of housing element law and appreciates the efforts of your team in the
+preparation of your draft element. If you have any questions or need additional
+technical assistance, please contact Chelsea Lee at Chelsea.Lee@hcd.ca.gov.
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+Enclosure
+                                         APPENDIX
+                                       CITY OF IRVINE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   The review requirement is one of the most important features of the element update. The
+   review of past programs should analyze the City's accomplishments over the previous
+   planning period. This information provides the basis for developing a more effective housing
+   program.
+
+   A thorough program-by-program review is necessary to evaluate City's performance in
+   addressing housing goals. As part of the evaluation of programs in the past cycle (Table 3-1),
+   the element should provide additional information that expands upon the effectiveness of
+   program activities for Programs 1 (Housing Rehabilitation), 2 (Preservation of At-Risk Units),
+   and 8 (Universal Design).
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Overpayment: Although the element indicates the total number of lower-income
+      households who are cost burdened, it must quantify and analyze these households by
+      tenure (renter and owner).
+
+      Extremely Low-Income Households (ELI): The element indicates the total number of
+      existing ELI households, but it must also quantify and analyze these households by
+      tenure (renter and owner).
+
+      Housing Conditions: The element identifies the age of the housing stock on page 2-15.
+      However, it must also include analysis of the condition of the existing housing stock and
+
+City of Irvine’s 6th Cycle Housing Element                                         Page 1
+October 14, 2021
+      estimate the number of units in need of rehabilitation and replacement. For example, the
+      analysis could include estimates from a recent windshield survey or sampling, estimates
+      from the code enforcement agency, or information from knowledgeable
+      builders/developers, including non-profit housing developers or organizations.
+
+      For additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/housing-needs/housing-stock-characteristics.shtml.
+
+      Housing Costs: The element identifies median home sales prices for existing homes on
+      pages 2-17 to 2-18, but it should also include analysis on rental prices in the City.
+   2. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+      The element includes information in Appendix B on affirmatively furthering fair housing
+      (AFFH). However, additional information is required as follows:
+
+      Public Outreach: The element provides a discussion of community outreach conducted
+      on page B-2 but generally does not address AFFH requirements. While AFFH outreach
+      can be conducted with the other portions of the housing element, it must also be specific
+      to AFFH. For example, the outreach could specifically target fair housing organizations
+      or neighborhoods with relatively concentrated poverty for input related to housing and
+      community development needs and access to opportunities such as education and
+      transportation.
+
+      Fair Housing Enforcement and Outreach: The element notes the City currently contracts
+      with the Fair Housing Foundation (FHF) for fair housing education and direct client
+      services and provides data on reported housing discrimination cases. However, the
+      element does not clearly describe whether this information is local or regional data for
+      the County of Orange. The analysis should be revised to include most recent local data
+      and analyze the data for any patterns or trends by community area or census tract and
+      include additional local knowledge, relevant factors, and a conclusion of summary of
+      issues. Additionally, the element must also describe compliance with existing fair
+      housing laws and regulations.
+
+      Local Data and Knowledge and Other Relevant Factors: The element contains some
+      analysis that addresses this requirement; however, additional information is needed. The
+      City’s analysis for each of these areas must also be informed by regional and local data
+      and knowledge from stakeholders within the City. In several areas, either local or
+      regional knowledge for the following areas is missing or insufficient: Fair Housing
+      Enforcement and Capacity, Segregation and Integration, Racially/Ethnically
+      Concentrated Areas of Poverty (R/ECAPs), Access to Opportunity, and Disproportionate
+      Housing Needs and Displacement Risk. The analysis could incorporate local and
+      regional knowledge through surveys, interviews, etc. from local non-profit organizations,
+      advocacy groups and even the City. In addition, the element must include other relevant
+      factors that contribute to fair housing issues in the jurisdiction. For instance, the element
+
+
+City of Irvine’s 6th Cycle Housing Element                                          Page 2
+October 14, 2021
+      can analyze historical governmental and nongovernmental land use, zoning and
+      investment practices (e.g., infrastructure) or other information and demographic trends.
+
+      Sites Inventory: The element includes some general discussion and conclusions on
+      pages B-22 to B-24 that indicates sites for lower-income households are concentrated in
+      areas of the City with moderate to high resource opportunity and that no concentration of
+      sites for lower-income households exist. However, the analysis must also include
+      discussion of all regional housing need allocation (RHNA) categories, including above
+      moderate-income households in relation to areas with a higher proportion of white
+      residents and higher median incomes. In addition, the element should include analysis to
+      support these conclusions, including the number of units per site by income group for
+      each of the AFFH categories relative to the impacts on patterns of disproportionate
+      housing needs (e.g., overpayment, overcrowding, displacement).
+
+      Contributing Factors: The element identifies several contributing factors to fair housing
+      issues in the City but should also prioritize them (e.g., low, medium, high).
+
+      Goals, Priorities, Metrics, and Milestones: The element addresses some of these
+      requirements but must be revised to add or modify goals and actions based on the
+      outcomes of a complete analysis. Goals and actions must specifically respond to the
+      analysis and to the identified and prioritized contributing factors to fair housing issues
+      and must be significant and meaningful enough to overcome identified patterns and
+      trends. Actions must have metrics and milestones as appropriate and must address
+      housing mobility enhancement, new housing choices and affordability in high opportunity
+      areas, place-based strategies for community preservation and revitalization and
+      displacement protection.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      The City has a (RHNA) of 23,610 housing units, of which 10,631 are for lower-income
+      households. To address this need, the element relies on vacant residential sites,
+      mixed-use sites, and ADUs. To demonstrate the adequacy of these sites and
+      strategies to accommodate the City’s RHNA, the element must include complete
+      analyses:
+
+      RHNA Progress: The element identifies one pending high-density residential project in
+      Planning Area 40 with 175 permitted units indicating they are affordable to lower-income
+      households, but it must also demonstrate how the units are affordable. The element
+      must include an analysis to demonstrate the affordability of these units based on actual
+      or projected sales prices, rent levels, or other mechanisms establishing affordability in
+      the planning period. (Gov. Code, § 65583.1, subd. (d).)
+
+
+
+City of Irvine’s 6th Cycle Housing Element                                         Page 3
+October 14, 2021
+      University Housing: The element credits 4,406 of existing faculty and graduate school
+      housing on the University of California, Irvine campus. Please be aware, pursuant to
+      Government Code 65583.1, subdivision (d), the element can only credit units constructed
+      since the beginning of the projection period (June 30, 2021). HCD researched the issue
+      related to how other university housing was counted in previous planning cycles and
+      reviewed housing elements (4th cycle and 5th cycle housing elements) for the cities and
+      counties of Santa Cruz and Santa Barbara referenced on page 7-14. These elements did
+      not include crediting existing units from the University of California, Santa Cruz and
+      University of California, Santa Barbara. In addition, HCD consulted with the California
+      Department of Finance (DOF). DOF creates the population projections used in the RHNA,
+      which includes both households and group quarters and verified that these units would have
+      been accounted for in the number of existing occupied units used in in the development of
+      the RHNA for the Southern California Association of Governments (SCAG).
+
+      However, the City can credit family and faculty housing that is proposed to be developed
+      with in the planning period. Sites controlled by exempt entities can be credited towards
+      the RHNA when documentation is provided that demonstrates the likelihood that the
+      planned housing will be developed within the current RHNA/housing element cycle. Sites
+      located on land controlled by exempt entities are analyzed differently because the
+      jurisdiction may not have control over the planning, permitting, and decision-making
+      processes of land owned by another public entity. While adequate documentation can
+      vary due to differences in planning processes on land controlled by exempt entities, the
+      following examples of documentation demonstrate the likelihood of housing being
+      developed on sites outside the control of a local government:
+
+             Agreement with the entity controlling the land that grants the jurisdiction authority
+              regarding approving, permitting, certifying occupancy, and/or reporting new units
+              to DOF.
+             Documentation from the entity controlling the land that demonstrates planned
+              housing has been approved to be built within the current RHNA cycle.
+             Data pertaining to the timing of the project construction and unit affordability by
+              household income category.
+
+      Please note, while none of the projects identified in the element appear to be exclusively
+      college and university student housing, this type of housing may be considered
+      noninstitutional group quarters and not a housing unit for purposes of meeting the
+      RHNA. Residents typically enter “by the bed” leases (i.e., single-liability leases). Another
+      distinguishing factor is that the unit is not available for rent to non-students. For further
+      information on whether university housing meets the definition of a housing unit, please
+      contact DOF at (916) 323-4086.
+
+      Adequate Site Alternative: Table 7-2 indicates the City is crediting the preservation of
+      823 units affordable to lower income households towards its RHNA. To credit the
+      preservation of these units toward the City’s housing need, the element must
+      demonstrate compliance with all the statutory requirements. (Gov. Code, § 65583.1.) For
+      example, the element must demonstrate the units were determined that the affordability
+      will be maintained for at least 55 years, are located within an assisted housing
+
+City of Irvine’s 6th Cycle Housing Element                                           Page 4
+October 14, 2021
+      development, and will be affordable to very low and low-income households at the time
+      the units were identified for preservation, among other things
+
+      For additional information and an Alternative Adequate Sites Checklist, see the Building
+      Blocks at https://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+      analysis/adequate-sites-alternatives/docs/adequate_site_alt_checklist.pdf.
+
+      City-Owned Sites: The sites inventory lists certain sites as owned by the City. The
+      housing element must include a description of whether there are any plans and schedule
+      to sell or lease the property during the planning period and how the jurisdiction will
+      comply with the Surplus Land Act Article 8 (commencing with Section 54220) of Chapter
+      5 of Part 1 of Division 2 of Title 5.
+      Suitability of Nonvacant Sites: The element must also analyze the extent to which
+      existing uses may impede additional residential development and include an analysis of
+      any existing leases or other contracts that would perpetuate the existing use or prevent
+      redevelopment of the site for additional residential development. (Gov. Code, § 65583.2,
+      subd. (g)(1).) Specifically, the site inventory contains several sites described as
+      apartments in Tables A and B of Appendix C. Sites with existing uses should include
+      additional analysis on the factors that led to selecting these sites for inclusion in the
+      inventory. Trends related to experience with converting existing uses to higher density
+      residential development or the current market demand should relate to the sites listed in
+      the inventory.
+      In addition, specific analysis and actions are necessary if the housing element relies
+      upon nonvacant sites to accommodate more than 50 percent of the RHNA for lower-
+      income households. For your information, the housing element must demonstrate
+      existing uses are not an impediment to additional residential development and will likely
+      discontinue in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) Absent findings
+      (e.g., adoption resolution) based on substantial evidence, the existing uses will be
+      presumed to impede additional residential development and will not be utilized toward
+      demonstrating adequate sites to accommodate the RHNA.
+
+      Realistic Capacity: The element indicates on page 7-8 that realistic capacity assumptions
+      were determined to be 70% for vacant and nonvacant sites. However, it must
+      demonstrate how the likelihood of nonresidential development (e.g., commercial) was
+      considered for mixed use and nonresidential zones in the City was factored into realistic
+      capacity assumptions. The estimate must also account for land use controls such as
+      allowing 100 percent nonresidential uses. To demonstrate the likelihood for residential
+      development in nonresidential zones, the element could describe any performance
+      standards mandating a specified portion of residential and any factors increasing the
+      potential for residential development such as incentives for residential use, and
+      residential development trends in the same nonresidential zoning districts.
+
+      Large Sites: The element identifies six publicly owned sites that are large parcels greater
+      than ten acres that will be used to accommodate the City’s housing need for lower-
+      income households (p. 7-15). Sites larger than 10 acres in size are deemed inadequate
+
+
+City of Irvine’s 6th Cycle Housing Element                                        Page 5
+October 14, 2021
+      to accommodate housing for lower-income housing unless it is demonstrated that sites of
+      equivalent size were successfully developed during the prior planning period for an
+      equivalent number of lower-income housing units as projected for the site or unless the
+      housing element describes other evidence to HCD that the site is adequate to
+      accommodate lower-income housing. (Gov. Code, § 65583.2, subd. (c)(2)(A).) For
+      example, a site with a proposed and approved housing development that contains units
+      affordable to lower income households would be an appropriate site to accommodate
+      housing for lower-income households. (Gov. Code, § 65583.2, subd. (c)(2)(C).)
+      .
+      Suitability and Availability of Infrastructure: The element provides a general overview of
+      water and sewer infrastructure on pages 7-20 to 7-21, but it must also clarify sufficient
+      dry utilities capacity to meet the RHNA.
+
+      Environmental Constraints: While the element generally describes several environmental
+      conditions within the City (pp. 5-4 to 5-7), it must also describe any known environmental
+      constraints or other conditions on identified sites that could impact housing development
+      in the planning period. For example, the element should specifically address potential
+      development constraints related to marshland on the Irvine Ranch Water District sites.
+      For additional information and sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/communitydevelopment/building-blocks/site-inventory-
+      analysis/analysis-of-sites-andzoning.shtml#environmental.
+
+      Accessory Dwelling Units (ADUs): The element projects 80 ADUs over the planning
+      period or approximately 10 ADUs per year over the eight-year planning period.
+      According to HCD records, one unit was permitted in 2018, 0 were permitted in 2019,
+      and 0 were permitted in 2020. These trends do not support an assumption of 10 ADUs
+      per year. To support assumptions for ADUs in the planning period, the element should
+      reconcile trends with HCD records, adjust assumptions as appropriate and include
+      additional information such as more recent permitted units and inquiries, resources and
+      incentives, other relevant factors and modify policies and programs as appropriate,
+      including monitoring and addressing the production and affordability of ADUs.
+
+      Water and Sewer Priority: For your information, water and sewer service providers must
+      establish specific procedures to grant priority water and sewer service to developments
+      with units affordable to lower-income households. (Gov. Code, § 65589.7.) Local
+      governments are required to immediately deliver the housing element to water and
+      sewer service providers. HCD recommends including a cover memo describing the City’s
+      housing element, including the City’s housing needs and regional housing need. For
+      additional information and sample cover memo, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/other-
+      requirements/priority-for-water-sewer.shtml.
+
+      Zoning for a Variety of Housing Types: The element must demonstrate zoning to
+      encourage and facilitate a variety of housing types, as follows:
+
+
+
+
+City of Irvine’s 6th Cycle Housing Element                                       Page 6
+October 14, 2021
+      Employee Housing: The element must demonstrate zoning is consistent with the
+      Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically, sections
+      17021.5 and 17021.6 or add or modify programs as appropriate. Section 17021.5
+      requires employee housing for six or fewer employees to be treated as a single-family
+      structure and permitted in the same manner as other dwellings of the same type in the
+      same zone. Section 17021.6 requires employee housing consisting of no more than 12
+      units or 36 beds to be permitted in the same manner as other agricultural uses in the
+      same zone. For additional information and sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-
+      needs/farmworkers.shtml.
+      Emergency Shelters: The element provides information on zoning for emergency
+      shelters but must be revised to ensure parking standards are consistent with AB 139,
+      which only allows parking for staff. The element notes on page 5-43 that current parking
+      requirements for emergency shelters in the City are one space per four beds, plus one
+      pace per employee which is inconsistent with state law.
+      Transitional and Supportive Housing: The element provides some information on pages
+      5-44 and 5-45 regarding transitional and supportive housing but must demonstrate these
+      housing types are permitted as a residential use in all zones allowing residential uses
+      and only subject to those restrictions that apply to other residential dwellings of the same
+      type in the same zone in compliance with Government Code section 65583, subdivision
+      (c)(3).
+      Accessory Dwelling Units (ADUs): Table 5-11 indicates ADUs are prohibited in the IBC
+      Residential and Multi-Use Zones. However, ADUs must be ministerially approved in all
+      residential and mixed-use zones. In addition, page 5-18 indicates that ADUs with one or
+      more bedrooms requires an additional parking space. These constraints must be
+      addressed, and a program(s) must be included to update the City’s Zoning Ordinance to
+      comply with State ADU Law. In addition, per conversations with staff, it is HCD’s
+      understanding that the City is defaulting to permit and processing procedures for
+      approval of ADU’s. The element must explicitly state how ADU’s are currently allowed,
+      including applicable development standards.
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land-use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures. (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land-Use Controls: The element must identify and analyze all relevant land-use controls
+      impacts as potential constraints on a variety of housing types. The element indicates on
+      page 5-17 that Districts 5.0 (IBC Mixed Use), 5.1 (IBC Multi-Use), and 5.3 (IBC
+      Residential) are subject to height limits, as determined by the Federal Aviation
+      Administration (FAA). The analysis should address the ability to achieve maximum
+
+City of Irvine’s 6th Cycle Housing Element                                          Page 7
+October 14, 2021
+      densities given these restrictions and include programs as necessary to address
+      identified constraints.
+
+      Fees and Exactions: The element must describe all required fees for single family and
+      multifamily housing development, including impact fees, and analyze their impact as
+      potential constraints on housing supply and affordability. In particular, the City should
+      include additional comparative analysis from similar cities on the cost of its
+      Environmental Impact Report (EIR) fee to examine whether the EIR poses a potential
+      constraint to housing development.
+
+      SB 35 Streamlined Ministerial Approval Process: The element must clarify whether there
+      are written procedures for the SB 35 (Chapter 366, Statutes of 2017) Streamlined
+      Ministerial Approval Process and add a program as necessary to address these
+      requirements.
+      Processing and Permit Procedures: The element must describe and analyze the design
+      review, guidelines and process, including approval procedures and decision-making
+      criteria, for their impact as potential constraints on housing supply, affordability, timing
+      and approval certainty. For example, the analysis could describe required findings and
+      discuss whether objective standards and guidelines improve development certainty and
+      mitigate cost impacts. The element must demonstrate this process is not a constraint or
+      it must include a program to address this permitting requirement, as appropriate.
+      In addition, the element indicates multifamily development in zones intended for
+      permitting multifamily development (Multi-Use, Medium-Density Residential, and
+      Medium-High Density Residential on page 5-42) are subject to a conditional use permit
+      (CUP). The element must analyze the CUP process as a potential constraint on housing
+      supply and affordability. The analysis should identify findings of approval for the CUP
+      and their potential impact on development approval certainty, timing, and cost. The
+      element must demonstrate this process is not a constraint or it must include a program to
+      address and remove or mitigate the CUP requirement.
+
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning and development standards for each
+      parcel on the jurisdiction’s website pursuant to Government Code section 65940.1,
+      subdivision (a)(1).
+      Constraints on Housing for Persons with Disabilities: The element includes some
+      analysis of zoning, development standards, building codes, and process and permit
+      procedures as potential constraints on housing for persons with disabilities. However,
+      more information is required. Specifically, the element notes the City has established
+      reasonable accommodation procedures in the Building Code (pp. 5-38 to 5-39) but it
+      does not provide a description of the procedure or analysis on whether such procedures
+      present constraints for persons with disabilities. In addition, the element currently details
+      that residential care facilities serving six or fewer persons are permitted in all residential
+      zones. However, residential care facilities serving seven or more persons are
+      conditionally permitted in the Estate Density, Low Density, Medium-High Density, High
+      Density, and Multi-Use zones. The element should analyze the process as a potential
+
+City of Irvine’s 6th Cycle Housing Element                                           Page 8
+October 14, 2021
+      constraint on housing for persons with disabilities and add or modify programs as
+      appropriate to ensure zoning permits group homes objectively with approval certainty.
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval
+      for a housing development and submittal of an application for building permits for that
+      housing development that hinder the construction of a locality’s share of the regional
+      housing need in accordance with Government Code section 65584. (Gov. Code, §
+      65583, subd. (a)(6).)
+      The element includes some analysis on pages 5-2 to 5-3 of nongovernmental
+      constraints, including the availability of financing and the length of time between project
+      approval and request for a building permit. However, the element must also address
+      requests to develop housing at densities below those anticipated in the sites inventory.
+      Depending on the outcomes of that analysis, a program(s) must be added that identify
+      local efforts to address nongovernmental constraints that create a gap in the
+      jurisdiction’s ability to meet its RHNA by income category.
+   6. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female-heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+      The element indicates on page 2-45 that there are 158 farmworkers employed in the
+      agricultural industry within the City. However, the analysis does not specify whether
+      regional contexts were taken into consideration. Farmworkers from the broader area and
+      those employed seasonally may have housing needs that are not currently reflected in
+      the analysis. As a result, the element should at least acknowledge the housing needs of
+      permanent and seasonal farmworkers at a county-level (e.g., USDA county-level
+      farmworker data) and include programs as appropriate.
+   7. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583, subd. (a)(9)(D).)
+      The element currently provides a general overview of assisted housing projects at-risk of
+      converting to non-low income uses (Table 4-1). However, the element should include an
+      assessment of risk (e.g., low, moderate, high) for each of the housing developments and
+      identify any at-risk units as a result of termination of local funding or regulatory
+      agreements (e.g., inclusionary agreements, redevelopment funds, or density bonus).
+C. Housing Programs
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+
+
+City of Irvine’s 6th Cycle Housing Element                                         Page 9
+October 14, 2021
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the housing element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, the following programs must be modified to include specific and clear
+      commitments (ex. beyond “exploring,” “reviewing,” or “initiating”): Programs C.4 (Plan to
+      Encourage and Incentivize ADUs), D.2 (Continue the Conservation and Monitoring of
+      Existing and Future Affordable Units), G.3 (Zoning Changes), J.1 (Cooperating with
+      Community-Based Organizations), J.2 (Displacement Prevention), L.1 (Update and
+      Implement the City’s General Plan – Land Use Element/Amend Zoning Ordinance), L.2
+      (Implement the One Irvine Program to Support Placemaking Through its Neighborhood
+      Revitalization Efforts), M.2 (Cooperation with Community Based Organizations) and M.3
+      (Density Bonus Eligibility).
+      In addition, the following programs must be revised with discrete timelines: Programs A.3
+      (Residential Overlays in Nonresidential Areas), B.1 (Assist with Development of Lower-
+      Income Housing), B.3 (Review the City’s Development Standards), B.4 (Provide a Menu
+      of Incentives/Concessions to Developers, C.4 (Plan to Encourage and Incentivize
+      ADUs), D.2 (Continue the Conservation and Monitoring of Existing and Future Affordable
+      Units), G.2 (Adopt Ordinances and Policies that Encourage a Diverse Housing Stock),
+      G.3 (Zoning Changes), G.6 (Irvine Housing Authority), G.7 (Terms of Affordability) J.3
+      (Legal Assistance for Renters), K.1 (Homeownership Education), K.2 (Residential
+      Rehabilitation Program), L.1 (Update and Implement the City’s General Plan – Land Use
+      Element/ Amend Zoning Ordinance), and L.2 (Implement the One Irvine Program to
+      Support Placemaking Through its Neighborhood Revitalization Efforts).
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for
+      all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+      As noted in Finding B3, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a
+      complete sites inventory and analysis, the City may need to add or revise programs to
+
+
+
+City of Irvine’s 6th Cycle Housing Element                                        Page 10
+October 14, 2021
+      address a shortfall of sites or zoning available to encourage a variety of housing types. In
+      addition, the element should be revised as follows:
+      Replacement Housing Requirements: The sites inventory identifies sites with existing
+      residential uses. Absent a replacement housing program (Gov. Code, § 65583.2, subd.
+      (g)(3)), these sites are not adequate sites to accommodate lower-income households.
+      The replacement housing program has the same requirements as set forth in
+      Government Code section 65915, subdivision (c)(3). The element must be revised to
+      include a program(s) as necessary.
+      Adequate Sites Alternate Program: As the element appears to rely on the preservation of
+      housing projects to accommodate a portion of the RHNA for lower-income households
+      pursuant to Government Code section 65583.1, subdivision (c). The element must
+      include a program that commits the City to provide committed assistance through a
+      legally enforceable agreement by the end of the third year of the housing-element
+      planning period. The dollar amount or related in-kind services of the committed
+      assistance must be substantial enough to make the targeted units available for
+      occupancy within two years of the execution date of the agreement. In addition, the
+      program must commit to report the status of the committed assistance program in the
+      annual progress report no later than the fourth year of the planning period. If the City
+      does not enter into an enforceable agreement of committed assistance for all the units
+      initially identified by the end of the third year of the planning period, the local government
+      must adopt an amendment to its housing element, no later than the end of the fourth
+      year of the planning period, identifying additional adequate sites sufficient to
+      accommodate the number of units for which committed assistance was not provided.
+      Rezone Program for Adequate Sites: The City appears to be relying on sites that require
+      rezoning to accommodate a portion of its housing need for lower-income households.
+      While the element includes Program PP-A.3 (Residential Overlays in Nonresidential
+      Areas), it must specifically commit to rezoning pursuant to all the provisions outlined in
+      Government Code section 65583.2, subdivisions (h) and (i).
+   3. The housing element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+      While the element includes programs to assist in the development of very low-, low-, and
+      moderate-income households, it must also include a program(s) to assist in the
+      development of housing affordable ELI households. Programs must be revised or added
+      to the element to assist in the development of housing for ELI households. Program
+      actions could include prioritizing some funding for housing developments affordable to
+      ELI households and offering financial incentives or regulatory concessions to encourage
+      the development of housing types, such as multifamily, single-room occupancy (SRO)
+      units, to address the identified housing needs for ELI households.
+      For additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/housing-needs/extremely-low-income-housing-needs.shtml.
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+
+City of Irvine’s 6th Cycle Housing Element                                           Page 11
+October 14, 2021
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for,
+      persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs to address and remove or mitigate
+      any identified constraints.
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+      As noted in Finding B2 the element must include a complete assessment of fair housing.
+      Based on the outcomes of that analysis, the element must add or modify programs. For
+      additional guidance on program requirements to AFFH, please see HCD’s guidance at
+      http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+      memos.shtml.
+   6. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd. (c)(6).)
+      The element identifies 913 units at-risk of converting to market-rate uses in the planning
+      period (page 4-1). The element includes Program D.2 (Continue the Conservation and
+      Monitoring of Existing and Future Affordable Units) to preserve the at-risk units but
+      provides vague program language and commitments. The Program must be revised with
+      clear and specific commitment. For example, the Program should support applications by
+      non-profits for funding to purchase at-risk units, strengthen relationships with the listed
+      non-profits and develop a plan or strategy for quickly moving forward in the case units
+      are noticed to convert to market-rate uses in the planning period, and consider pursuing
+      funding on at least an annual basis. The program should also commit to contacting non-
+      profits immediately to develop a preservation strategy by a date certain and be ready to
+      quickly act when notice of conversion is received and monitoring the units to ensure
+      tenants receive proper notifications, education and support. For additional information
+      and a sample program, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/housing-needs/assisted-housing-developments.shtml.
+
+
+
+
+City of Irvine’s 6th Cycle Housing Element                                             Page 12
+October 14, 2021

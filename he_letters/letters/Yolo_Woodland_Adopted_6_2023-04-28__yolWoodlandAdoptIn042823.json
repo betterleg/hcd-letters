@@ -1,0 +1,14 @@
+{
+  "county": "Yolo",
+  "jurisdiction": "Woodland",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-04-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/yolWoodlandAdoptIn042823.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/yolWoodlandAdoptIn042823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193412,
+  "text_chars": 5097,
+  "text_empty": false
+}

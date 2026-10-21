@@ -1,0 +1,14 @@
+{
+  "county": "Imperial",
+  "jurisdiction": "Calipatria",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-01",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/impCalipatriaDraftOut100121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/impCalipatriaDraftOut100121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 261777,
+  "text_chars": 30706,
+  "text_empty": false
+}

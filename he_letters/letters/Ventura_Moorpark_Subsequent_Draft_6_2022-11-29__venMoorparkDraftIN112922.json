@@ -1,0 +1,14 @@
+{
+  "county": "Ventura",
+  "jurisdiction": "Moorpark",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2022-11-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venMoorparkDraftIN112922.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venMoorparkDraftIN112922.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 154813,
+  "text_chars": 3723,
+  "text_empty": false
+}

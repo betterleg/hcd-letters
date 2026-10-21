@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "San Bruno",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-05-16",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-san-bruno-draft-out-051624.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-san-bruno-draft-out-051624.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 170959,
+  "text_chars": 15058,
+  "text_empty": false
+}

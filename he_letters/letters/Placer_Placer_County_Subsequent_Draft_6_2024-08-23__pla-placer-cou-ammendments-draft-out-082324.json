@@ -1,0 +1,14 @@
+{
+  "county": "Placer",
+  "jurisdiction": "Placer County",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-08-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/pla-placer-cou-ammendments-draft-out-082324.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/pla-placer-cou-ammendments-draft-out-082324.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 142889,
+  "text_chars": 5842,
+  "text_empty": false
+}

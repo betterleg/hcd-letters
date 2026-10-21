@@ -1,0 +1,14 @@
+{
+  "county": "Trinity",
+  "jurisdiction": "Trinity County",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2020-03-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/triTrinityCounty03112020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/triTrinityCounty03112020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 177858,
+  "text_chars": 3947,
+  "text_empty": false
+}

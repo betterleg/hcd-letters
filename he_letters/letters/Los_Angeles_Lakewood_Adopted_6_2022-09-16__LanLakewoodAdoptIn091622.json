@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Lakewood",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-09-16",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanLakewoodAdoptIn091622.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanLakewoodAdoptIn091622.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 196070,
+  "text_chars": 7271,
+  "text_empty": false
+}

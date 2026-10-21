@@ -1,0 +1,369 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 11, 2022
+
+
+         Ryan Smoot, City Manager
+         City of Lomita
+         24300 Narbonne Ave.
+         Lomita, CA U.S.A. 90717
+
+         Dear Ryan Smoot:
+
+         RE: City of Lomita’s 6th Cycle (2021-2029) Adopted Housing Element
+
+         Thank you for submitting the City of Lomita’s (City) adopted housing element received
+         for review on January 11, 2022. Pursuant to Government Code section 65585,
+         subdivision (h), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review.
+
+         The adopted housing element addresses many statutory requirements described in
+         HCD’s September 14, 2021 review; however, additional revisions are necessary to fully
+         comply with State Housing Element Law (Article 10.6 of the Gov. Code). See enclosed
+         Appendix.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+         Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+         Local Housing Allocation consider housing element compliance and/or annual reporting
+         requirements pursuant to Government Code section 65400. With a compliant housing
+         element, the City will meet housing element requirements for these and other funding
+         sources.
+Ryan Smoot, City Manager
+Page 2
+
+
+
+
+HCD is committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Shawn Danino, of our staff, at shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                      CITY OF LOMITA
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s latest
+technical assistance tool, Building Blocks for Effective Housing Elements (Building Blocks),
+available at http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and
+includes the Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Assessment of Fair Housing: The element now reports and maps data on components
+      of the assessment of fair housing (e.g., segregation and integration, disparities in
+      access to opportunity) but it must also analyze the information such as evaluating
+      patterns, trends, conditions and circumstances, coincidence with other components of
+      the assessment of fair housing and the effectiveness of past and current strategies to
+      promote inclusive communities and equitable. This analysis should consider local data
+      and knowledge and other relevant factors.
+
+      Local data and knowledge and other relevant factors should complement the data and
+      maps to evaluate the unique attributes of the City related to fair housing issues. Local
+      data and knowledge should complement federal, state, and regional data to capture
+      past and emerging trends and issues, including utilizing knowledge from the local
+      government, local and regional advocates, and service providers. Other relevant factors
+      that contribute to fair housing issues should analyze historical land use, zoning,
+      governmental and nongovernmental spending including transportation investments,
+      demographic trends, historical patterns of segregation, or other information that may
+      have impeded housing choices and mobility.
+
+      Sites Inventory: While the element provides some general information regarding the
+      placement of sites and affirmatively furthering fair housing, additional analysis is
+      required. For example, the element, for all components of the assessment of fair
+      housing, should address the number of units by income group, magnitude of impact on
+      local patterns, any isolation of the regional housing need allocation (RHNA) by income
+      group and address the concentrations of sites in key areas and corridors.
+
+
+
+
+City of Lomita’s 6th Cycle Adopted Housing Element                               Page 1
+March 11, 2022
+      Contributing Factors: The element should re-assess and prioritize contributing factors
+      upon completion of analysis and make revisions as appropriate.
+
+      Goals, Actions, Metrics, and Milestones: The element generally was not revised to
+      address this requirement. The element must be revised to add or modify goals and
+      actions based on the outcomes of a complete analysis. Goals and actions must
+      specifically respond to the analysis and to the identified and prioritized contributing
+      factors to fair housing issues and must be significant and meaningful enough to
+      overcome identified patterns and trends. Actions must have specific commitment,
+      metrics, and milestones as appropriate and must address housing mobility
+      enhancement, new housing choices and affordability in high opportunity areas, place-
+      based strategies for community preservation and revitalization and displacement
+      protection. Please see HCD’s prior review for additional information. HCD will send
+      examples under separate cover.
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Sites Inventory: While the element was with a sites inventory that includes various
+      factors such as general plan designation and zoning, it should still sufficiently describe
+      existing uses sufficiently to facilitate an analysis of additional development potential. For
+      example, the inventory could reflect the various values of factors (Appendix E, p. 10)
+      utilized to indicate redevelopment potential. Further, the inventory calculates residential
+      capacity on some sites using fractions. However, the inventory should utilize whole
+      numbers and calculate net additional residential capacity (accounting for existing
+      residential uses).
+
+      Realistic Capacity: The element now notes the likelihood for nonresidential uses is
+      “limited” and the mixed-use overlay will enforce minimum densities. However, 100
+      percent nonresidential uses may still be allowed under base zoning (e.g., industrial,
+      commercial). The element should either clarify residential uses will be required for any
+      future development or account for the likelihood of 100 percent nonresidential uses as
+      described in HCD’s prior review.
+
+      Suitability of Nonvacant Sites: While the element was revised to broadly describe how
+      GIS and other software were used to consider sites (Appendix E, p.10), the element
+      must still account for the extent existing uses impede additional development as noted
+      in the prior review. For example, the element should utilize recent development trends,
+      experience in redevelopment or other supporting information to support the validity of
+      factors utilized to indicate redevelopment potential. Please see HCD’s prior review for
+      additional information.
+
+      In addition, the housing element relies upon nonvacant sites to accommodate more
+      than 50 percent of the RHNA for lower-income households. For your information, the
+
+
+City of Lomita’s 6th Cycle Adopted Housing Element                                  Page 2
+March 11, 2022
+      housing element must demonstrate existing uses are not an impediment to additional
+      residential development and will likely discontinue in the planning period (Gov. Code, §
+      65583.2, subd. (g)(2).). Absent findings (e.g., resolution of adoption) based on
+      substantial evidence, the existing uses will be presumed to impede additional residential
+      development and will not be utilized toward demonstrating adequate sites to
+      accommodate the RHNA. Any future re-adoption must make the appropriate findings in
+      the resolution of adoption, as noted above.
+
+      Small Sites: While the element now describes that lot consolidation was assumed
+      according to groupings in the inventory, it must still include analysis to demonstrate the
+      potential for lot consolidation and if necessary, modify programs (Program 12) to
+      encourage lot consolidation. Please see HCD’s prior review for additional information.
+
+      Electronic Site Inventory: As noted in the prior review, pursuant to Government Code
+      section 65583.3, subdivision (b), the City must utilize standards, forms, and definitions
+      adopted by HCD when preparing the sites inventory and submit an electronic version of
+      the sites inventory. While the City has submitted an electronic version of the sites
+      inventory, if changes occur, any future re-adopted versions of the element must also
+      submit the electronic version of the sites inventory.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: While the element was revised to clarify the minimum and maximum
+      densities being considered in the Mixed-Use Overlay (MUO) (Appendix C, p. 13), it
+      must analyze these standards. For example, the element should evaluate minimum lot
+      sizes and minimum lot widths for impacts on the ability to achieve maximum densities
+      and specifically, impacts on identified sites to accommodate the RHNA that do not meet
+      these standards. Further, minimum lot widths should be corrected from a square
+      footage measurement. Please see HCD’s prior review for additional information.
+
+      Parking Requirements: The element was revised to address parking requirements in
+      senior housing as a constraint and described plans to reduce this requirement in
+      Planned Unit Developments (Appendix C, p. 16). However, the element still must
+      analyze its enclosed parking requirements as a possible constraint and revise Program
+      27 (Reduced Parking Requirements) as appropriate based on a complete analysis.
+
+      Local Processing and Permit Procedures (Conditional Use Permit (CUP)): The element
+      was revised to include additional descriptions for various approval permits (pp.19-21).
+      However, the element still must describe and evaluate requiring a CUP for multifamily
+      uses and for heights exceeding 35 feet in the MUO zone. For example, the analysis
+      should clarify whether 3 stories are allowed at 35 feet, any additional decision-making
+
+
+City of Lomita’s 6th Cycle Adopted Housing Element                                  Page 3
+March 11, 2022
+      standards for approvals and impacts on achieving maximum densities. Further, the
+      element should evaluate findings of approval, such as compatibility findings, for impacts
+      on approval certainty, particularly multifamily uses in the MUO zone given the reliance
+      in accommodating the RHNA. The element must add or modify programs based on a
+      complete analysis. For example, programs could commit to increasing heights or
+      establishing non-discretionary decision-making standards and replace the CUP
+      requirement with a lesser discretionary process (e.g., site plan review).
+
+      Housing for Persons with Disabilities (Reasonable Accommodation): While the element
+      revised Program 13, committing to describe the differences between major and minor
+      approvals, the element still must analyze the process to better formulate Program 13.
+      For example, the analysis should address the referral to planning commission and list
+      and evaluate approval findings. Also, while the element now includes a program to allow
+      larger group homes (e.g., greater than seven persons) in commercial and mixed-use
+      zones, it still must evaluate the CUP requirement as a constraint on housing for persons
+      with disabilities and should modify Program 13 to commit to an objective procedure that
+      promotes approval certainty.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …the length
+      of time between receiving approval for a housing development and submittal of an
+      application for building permits for that housing development that hinder the
+      construction of a locality’s share of the regional housing need in accordance with
+      Government Code section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Developed Densities and Permit Times: The element now includes analysis on requests
+      to develop housing at densities below those anticipated but it must still evaluate the
+      length of time between receiving approval for a housing development and submittal of
+      an application for building permits. Please see HCD’s prior review for additional
+      information.
+
+   5. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).)
+
+      While the element now includes some analysis of the Kiwanis Gardens, it should still
+      identify qualified entities with capacity to preserve the at-risk units.
+
+
+B. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+
+
+City of Lomita’s 6th Cycle Adopted Housing Element                                 Page 4
+March 11, 2022
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+   2. The housing element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Program 7 (Incentives and Regulations): The Program was revised to review
+      regulations and identify opportunities for improvement as well as one on one
+      consultations with developers. However, the Program should explicitly commit to assist
+      in the development of housing for extremely low-income households. In addition, the
+      Program should commit to proactive outreach with developers such as annual outreach
+      to identify development opportunities and other actions such as assisting with funding.
+      Please see HCD’s prior review for additional information.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A3, the element requires a complete analysis of potential
+      governmental and non-governmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete analysis of AFFH. Based
+      on the outcomes of that analysis, the element must add or modify programs to have
+      specific commitment, milestones, and metrics to overcome fair housing issues and to
+
+
+City of Lomita’s 6th Cycle Adopted Housing Element                                     Page 5
+March 11, 2022
+      enhance housing mobility strategies, encourage development of new affordable housing
+      in high resource areas, improve place-based strategies, and protect residents from
+      displacement.
+
+      In addition, Program 23 (Fair Housing Development Marketing) now commits to
+      promote fair housing materials with developers, however, the Program should commit to
+      a variety of methods to ensure all households are aware of fair housing information
+      through proactive efforts beyond making information available to developers at the
+      public counter. For example, the Program could commit to materials in multiple
+      languages and proactively distributing information at a variety of community locations
+      and events.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd.
+      (c)(6).)
+
+      The element revised Program 4 (Lower Income Housing Preservation) to develop a
+      preservation plan for Kiwanis Gardens by Fall 2026. However, because Kiwanis
+      gardens is at risk of losing affordability in January 2027, this action should be completed
+      earlier in the planning period to ensure appropriate time for implementation, such as by
+      Fall 2024. In addition, the Program should commit to specific and proactive actions to
+      preserve at-risk units such as coordination with qualified entities and assisting with
+      funding. Please see HCD’s prior review for additional information.
+
+
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the housing element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   While the element was revised to highlight Spanish language translation was available and
+   included some additional stakeholders that were contacted, it should consider modifications
+   where appropriate. For example, the element mentions comments regarding housing
+   opportunities for persons with developmental disabilities but could also modify programs to
+   specifically address the input received in the public process.
+
+
+
+
+City of Lomita’s 6th Cycle Adopted Housing Element                                Page 6
+March 11, 2022

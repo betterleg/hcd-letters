@@ -1,0 +1,14 @@
+{
+  "county": "Mariposa",
+  "jurisdiction": "Mariposa County",
+  "type": "Subsequent Draft",
+  "cycle": "7",
+  "reviewed": "2025-11-26",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-mariposa-county-draft-out-112625-068cs00001TzyhCAAR.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-mariposa-county-draft-out-112625-068cs00001TzyhCAAR.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 202249,
+  "text_chars": 10606,
+  "text_empty": false
+}

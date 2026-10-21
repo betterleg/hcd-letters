@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Coachella",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-12-01",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivcoachella-adopt-out-120123.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivcoachella-adopt-out-120123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 152734,
+  "text_chars": 4502,
+  "text_empty": false
+}

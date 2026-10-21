@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Huntington Beach",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2026-03-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-huntington-beach-draft-out-030626-068cs00001nPbqvAAC.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-huntington-beach-draft-out-030626-068cs00001nPbqvAAC.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 245542,
+  "text_chars": 22213,
+  "text_empty": false
+}

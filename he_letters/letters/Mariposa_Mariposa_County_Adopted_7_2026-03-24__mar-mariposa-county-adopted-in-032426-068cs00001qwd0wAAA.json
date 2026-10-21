@@ -1,0 +1,14 @@
+{
+  "county": "Mariposa",
+  "jurisdiction": "Mariposa County",
+  "type": "Adopted",
+  "cycle": "7",
+  "reviewed": "2026-03-24",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-mariposa-county-adopted-in-032426-068cs00001qwd0wAAA.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-mariposa-county-adopted-in-032426-068cs00001qwd0wAAA.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185469,
+  "text_chars": 4944,
+  "text_empty": false
+}

@@ -1,0 +1,434 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 29, 2022
+
+
+         Brent Smith, Community Development Director
+         City of Oakley
+         3231 Main Street
+         Oakley, CA 94561
+
+         Dear Brent Smith:
+
+         RE: City of Oakley 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Oakley’s (City) draft housing element received for
+         review on August 31, 2022. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a telephone conversation on
+         November 18, 2022, with you, Kenneth Strelo, Planning Manager, and Chelsey Payne
+         and Heidi Gen Huong, the City’s consultants. In addition, HCD considered comments
+         from Campaign for Fair Housing Elements and Yimby Law, and Cox Castle and
+         Nicholson LLP pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). The
+         enclosed Appendix describes revisions needed to comply with State Housing Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (February 15, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA) shall be
+         completed no later than one year from the statutory deadline pursuant to Government
+         Code sections 65583, subdivision (c) and 65583.2, subdivision (c). Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i). Please be aware, if the City fails to adopt a
+         compliant housing element within one year from the statutory deadline, the element
+         cannot be found in substantial compliance until these rezones are completed.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+Brent Smith, Community Development Director
+Page 2
+
+
+
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill (SB)
+1 Sustainable Communities grant; the Strategic Growth Council and HCD’s Affordable
+Housing and Sustainable Communities programs; and HCD’s Permanent Local Housing
+Allocation consider housing element compliance and/or annual reporting requirements
+pursuant to Government Code section 65400. With a compliant housing element, the City
+meets housing element requirements for these and other funding sources.
+
+HCD is committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact me at Melinda.coy@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Proactive Housing Accountability Chief
+
+
+Enclosure
+                                          APPENDIX
+                                       CITY OF OAKLEY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      The review requirement is one of the most important features of the element update. The
+      review of past programs should analyze the City's accomplishments over the previous
+      planning period. This information provides the basis for developing a more effective
+      housing program. A thorough program-by-program review is necessary to evaluate City's
+      performance in addressing housing goals. Specifically, as part of this analysis, the element
+      should evaluate the effectiveness of programs by quantifying results where possible,
+      compare those results to the objectives projected or planned.
+
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+         the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          Enforcement: The analysis must describe compliance with existing fair housing laws
+          and regulations and include information on fair housing outreach capacity.
+
+          Assessment of Fair Housing: The element provides data and analysis regarding the
+          patterns of various socio-economic characteristics across all components of the
+          required analysis (e.g., segregation and integration, access to opportunity,
+          displacement). However, the element should also discuss and analyze patterns and
+          trends over time across census tracks for the various socio-economic characteristics
+          and provide conclusions based on that analysis to better formulate policies and
+          programs and carry out meaningful actions to Affirmatively Furthering Fair Housing
+          (AFFH).
+
+
+
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                        Page 1
+November 29, 2022
+         Local Data and Knowledge and Other Relevant Factors: The element must include
+         local data, knowledge, and other relevant factors to discuss and analyze any unique
+         attributes about the City related to fair housing issues. Also, the element must include
+         other relevant factors that contribute to fair housing issues in the jurisdiction. For
+         instance, the element could incorporate the historical land use and investment
+         practices and other information and demographic trends outlined in the Introduction
+         and community context section of the housing element to help inform the AFFH
+         analysis.
+
+         Access to Opportunity: The element identifies Oakley as mostly a lower and moderate
+         resourced community and identifies several areas of disparities including lower
+         education scores and lack of access to transit. As part of the analysis, the element
+         should incorporate local data and knowledge to identify historic trends that influence
+         these patterns. The element could also describe current community development and
+         other efforts the City is undertaking to address these disparities and include programs
+         to address patterns as appropriate.
+
+         Disproportionate Housing Needs, Including Displacement: While the element provides
+         some discussion on cost-burdened households, persons experiencing homeless, and
+         displacement, it must include a complete analysis of households in overcrowded
+         conditions and substandard housing. This analysis should utilize local data and
+         knowledge and other relevant factors. For the analysis of overcrowding the analysis
+         should specially address overcrowding for both homeowners and renters. For
+         substandard housing, the element should discuss areas of the City where proportions
+         of housing units needing rehabilitation may be higher than other areas and should
+         utilize local knowledge.
+
+         Sites Inventory: The element must include data on the location of regional housing
+         need allocation (RHNA) sites by income group relative to all fair housing components.
+         The analysis should address the number of units by income group and location, any
+         isolation of the RHNA by income group, magnitude of the impact on existing
+         concentrations of socio- economic characteristics and discuss how the sites improve
+         fair housing conditions. The analysis should be supported by local data and knowledge
+         and other relevant factors and programs should be added or modified as appropriate to
+         promote inclusive and equitable communities. For example, the element could examine
+         the concentration of moderate income RHNA in the Downtown Specific Plan.
+
+         Contributing Factors: The element should re-assess and prioritize contributing factors
+         based on a complete analysis.
+
+      2. Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+         Overpayment: While the element identifies the total number of households overpaying
+         for housing, it must quantify and analyze the number of lower-income households
+         overpaying for housing by tenure (i.e., renter and owner) and add or modify policies
+         and programs as appropriate.
+
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                        Page 2
+November 29, 2022
+         Housing Conditions: The element identifies the age of the housing stock. However, it
+         must include analysis of the condition of the existing housing stock and estimate the
+         number of units in need of rehabilitation and replacement. For example, the analysis
+         could include estimates from a recent windshield survey or sampling, estimates from
+         the code enforcement agency, or information from knowledgeable builders/developers,
+         including non-profit housing developers or organizations.
+
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         Progress in Meeting the RHNA: The City’s RHNA may be reduced by the number of
+         new units built, approved, or pending since June 30, 2022; however, the element must
+         demonstrate their availability in the planning period. Availability should address the
+         status, anticipated completion, any barriers to development and other relevant factors
+         such as build out horizons, phasing, and dropout rates to demonstrate the availability
+         or likelihood of development in the planning period.
+
+         Sites Inventory: The element lists parcels by various factors such as size, zoning,
+         general plan designation and existing use. However, the description of existing use is
+         generic “e.g., non-vacant” and must include sufficient detail to facilitate an analysis of
+         the potential for addition development on nonvacant sites.
+
+         Electronic Sites Inventory: For your information, pursuant to Government Code section
+         65583.3, the City must submit an electronic sites inventory with its adopted housing
+         element. The City must utilize standards, forms, and definitions adopted by HCD. Please
+         see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml#element for a copy of the form and
+         instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+         assistance.
+
+         Realistic Capacity: While the element provides assumptions of buildout for sites
+         included in the inventory, it must also provide support for these assumptions. For
+         example, the element should demonstrate what specific trends, factors, and other
+         evidence led to the assumptions. The estimate of the number of units for each site
+         must be adjusted as necessary, based on the land use controls and site
+         improvements, typical densities of existing or approved residential developments at a
+         similar affordability level in that jurisdiction, and on the current or planned availability
+         and accessibility of sufficient water, sewer, and dry utilities.
+
+         Suitability of Nonvacant Sites: The element identifies nonvacant sites to accommodate
+         the regional housing need and outline the general methodology for how sites were
+         considered. To demonstrate the redevelopment potential of the sites in the inventory,
+         the element should relate the factors described in the methodology to the
+         characteristics of each site. In addition, a complete analysis must demonstrate the
+
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                           Page 3
+November 29, 2022
+         extent to which existing uses may impede additional residential development. The
+         element should summarize past experiences converting existing uses to higher density
+         residential development, include current market demand for the existing use, provide
+         analysis of existing leases or contracts that would perpetuate the existing use or
+         prevent additional residential development and include current information on
+         development trends and market conditions in the City and relate those trends to the
+         sites identified. (Gov. Code, § 65583.2, subd. (g).) For sites with residential uses, the
+         inventory could also describe structural conditions or other circumstances and trends
+         demonstrating the redevelopment potential to more intense residential uses. For
+         nonresidential sites, the inventory could also describe whether the use is operating,
+         marginal or discontinued, and the condition of the structure or could describe any
+         expressed interest in redevelopment and describe other incentives or standards to
+         encourage additional residential development on these sites.
+         Suitability and Availability of Infrastructure: While element demonstrates sufficient
+         capacity, it must identify if sites identified have access to existing or planned water,
+         sewer, and other dry utilities supply. (Gov. Code, § 65583.2, subd. (b).)
+         Environmental Constraints: While the element generally describes a few environmental
+         conditions within the City (Table H3-1), it must describe how these conditions relate to
+         identified sites including any known environmental constraints within the City that could
+         impact housing development in the planning period. (Gov. Code, § 65583.2, subd. (b).)
+         Sites with Zoning for a Variety of Housing Types:
+         Emergency Shelters: The element identifies one City-Owned site to accommodate the
+         emergency shelter need. The element should describe the process that would be
+         necessary to approve an emergency shelter including decision making criteria for
+         approval of the use of the site.
+         Manufactured Housing: The housing element must demonstrate the jurisdiction's
+         zoning code allows and permits manufactured housing in the same manner and in the
+         same zone as a conventional or stick-built structures are permitted.
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. (Gov. Code, §
+         65583, subd. (a)(5).)
+         Land-Use Controls: The element must identify and analyze all relevant land use
+         controls and evaluate the cumulative impacts of land use controls on the cost
+         and supply of housing, including the ability to achieve maximum densities and
+         cost and supply of housing. Specifically, the element should describe and
+         analyze the development standards within the Downtown Specific Plan including
+         whether 100 percent residential development is allowed. The analysis should
+         also describe past or current efforts to remove identified governmental
+         constraints.
+
+
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                          Page 4
+November 29, 2022
+          Affordable Housing Overlay: The element relies on sites in the Affordable Housing
+          Overlay (AHO). While some information was provided on how the overlay allows
+          residential the element must include a complete description and analysis of the
+          Overlay, including affordability requirements, development standards, and application
+          processing procedures. The elements must also clarify if the maximum density allowed
+          under the AHO is considered the base density for purposes of calculating density.
+          On/Off-Site Improvements: While the element describes the on and off-site
+          improvement requirements, it does not analyze those requirements on the cost and
+          supply of housing. In particular, the element states that developers are response for
+          various off-site improvements and infrastructure improvements.
+          Constraints on Housing for Persons with Disabilities: The analysis must describe and
+          analyze any zoning code definitions of family.
+
+
+C.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the Housing Element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+          Programs must demonstrate that they will have a beneficial impact within the planning
+          period. Beneficial impact means specific commitment to deliverables, measurable
+          metrics or objectives, definitive deadlines, dates, or benchmarks for implementation.
+          Deliverables should occur early in the planning period to ensure actual housing
+          outcomes. All programs should be evaluated to ensure meaningful and specific actions
+          to assist in implementation and include objectives, quantified as appropriate.
+          In addition, programs should be revised as follows:
+          •   Action 1.4 (Promote Accessory Dwelling Units (ADU)): The program should describe
+              specific actions the City will take to promote the Pre-Approved ADU plans and How-to-
+              Guide.
+          •   Action 1.6 (Density Bonus Ordinance): The program should provide specific timing for
+              updating the density bonus ordinance.
+          •   Action 1.7 (Monitor Development Fees): The program should have a specific timing for
+              monitoring, include information on how the city will monitor, and depending on the
+              result, commit to actions to mitigate constraints.
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                        Page 5
+November 29, 2022
+         for each income level that could not be accommodated on sites identified in the
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+         to comply with the requirements of Government Code section 65584.09.
+         (Gov. Code, § 65583, subd. (c)(1).)
+         As noted in Finding B3, the element does not include a complete site analysis,
+         therefore, the adequacy of sites and zoning were not established. Based on the results
+         of a complete sites inventory and analysis, the City may need to add or revise
+         programs to address a shortfall of sites or zoning available to encourage a variety of
+         housing types. In addition, the element should be revised as follows:
+         Action 1.8 (Amendment to the Downtown Specific Plan): Given the dependence of the
+         Downtown Specific Plan for sites within the inventory, the City should consider
+         accelerating the development of modifications to this plan. Alternatively, rather than all
+         zoning modifications being completed by 2025, the City could phase zoning
+         modifications that must be made to comply with state law or remove constraints to the
+         development earlier in the planning period.
+    3.   The State Housing Element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+         Action 1.3 (Encourage Development of New Affordable Rental Housing) and Action 3.4
+         (Housing for Extremely-Low Income (ELI) and Special Needs Groups): These program
+         should be revised to include specific actions on how it will implement this program,
+         timeframes for each action, and objectives and metrics to demonstrate how these
+         housing needs will be addressed.
+    4.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+         As noted in Finding B4, the element requires a complete analysis of potential
+         governmental constraints. Depending upon the results of that analysis, the City may
+         need to revise or add programs and address and remove or mitigate any identified
+         constraints.
+         Action 1.5 (Objective Standards): The program should ensure that when adopted, objective
+         standards should facilitate the development of housing at the densities that will be allowed
+         under the AHO, once amended.
+
+         Action 3.6 (Zoning Amendments for Special Needs Housing): The program must specify
+         how it will reduce constraints for residential care facilities for more than six persons. zoning
+         should simply implement a barrier-free definition of family instead of subjecting, potentially
+         persons with disabilities, to special regulations such as the number of persons, population
+         types and licenses. Permitting procedures should ensure inclusion in all residential zones
+         and approval certainty and objectivity for housing for persons with disabilities.
+
+
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                         Page 6
+November 29, 2022
+     5.   Promote and affirmatively further fair housing opportunities and promote housing
+          throughout the community or communities for all persons regardless of race, religion,
+          sex, marital status, ancestry, national origin, color, familial status, or disability, and
+          other characteristics protected by the California Fair Employment and Housing Act
+          (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+          any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+          (c)(5).)
+          As noted in Finding B1, the element must be revised to add or modify goals and
+          actions based on the outcomes of a complete analysis. In addition, goals and actions
+          must specifically respond to the analysis and to the identified and prioritized
+          contributing factors to fair housing issues and must be significant and meaningful
+          enough to overcome identified patterns and trends. Actions should be revised to
+          include specific commitments, milestones, geographic targeting and metrics or
+          numerical outcomes and, as appropriate, must address housing mobility enhancement,
+          new housing choices and affordability in high opportunity areas, place-based strategies
+          for community revitalization and displacement protection. Given that most of the City is
+          considered a low and moderate resource community, the element could focus on
+          programs that center on place-based strategies for community revitalization, protecting
+          residents from investment-driven displacement, and enhancing housing mobility to
+          encourage the development of more housing choices.
+
+
+D.   Quantified Objectives
+
+     Establish the number of housing units, by income level, that can be constructed,
+     rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+     & 2).)
+
+     The element must include quantified objectives to establish an estimate of housing units by
+     income category that can be constructed, rehabilitated, and conserved over the planning
+     period. While the element includes objectives for new construction and preservation, it must
+     include objectives for rehabilitation.
+
+
+E.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the Housing Element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+     While the element includes a general summary of the public participation process, the
+     element must also demonstrate diligent efforts were made to involve all economic segments
+     of the community in the development of the housing element. Specifically, the element must
+     describe the efforts to circulate the housing element among lower-income households and
+     organizations that represent them and how the City involved such groups and persons in the
+     element throughout the process. In addition, the element while the element summarizes
+     public comments, it should describe how they were considered and incorporated into the
+     element.
+City of Oakley 6th Cycle (2023-2031) Draft Housing Element                         Page 7
+November 29, 2022

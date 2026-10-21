@@ -1,0 +1,14 @@
+{
+  "county": "Merced",
+  "jurisdiction": "Gustine",
+  "type": "Adopted",
+  "cycle": "5",
+  "reviewed": "2020-04-07",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/merGustine04072020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/merGustine04072020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 153078,
+  "text_chars": 3691,
+  "text_empty": false
+}

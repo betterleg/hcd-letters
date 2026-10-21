@@ -1,0 +1,484 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 12, 2023
+
+
+         Steven Turner, Director
+         Community Development Department
+         City of Newark
+         37101 Newark Blvd
+         Newark, CA 94560
+
+         Dear Steven Turner:
+
+         RE: City of Newark’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Newark’s (City) draft housing element update
+         received for review on April 13, 2023, along with revisions received on June 30, 2023.
+         Pursuant to Government Code section 65585, subdivision (b), the California
+         Department of Housing and Community Development (HCD) is reporting the results of
+         its review. Our review was facilitated by conversations on May 23 and May 30, 2023
+         with you and your consultants, Paul Peninger and Clara Cheeves. In addition, HCD
+         considered comments from David Kellogg, pursuant to Government Code section
+         65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code, §
+         65580 et seq.). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City must continue to engage the community, including organizations that
+         represent lower-income and special needs households; by making information regularly
+         available while considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Steven Turner, Director
+Page 2
+
+
+
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and dedication you and your consultants, Clara
+Cheeves and Paul Peninger, provided in preparation of the City’s housing element and
+looks forward to working with the City toward a compliant housing element. If you have
+any questions or need additional technical assistance, please contact Shawn Danino, of
+our staff, at shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                        APPENDIX
+                                     CITY OF NEWARK
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s latest
+technical assistance tool, Building Blocks for Effective Housing Elements (Building Blocks),
+available at http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and
+includes the Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Disproportionate Housing Needs: The element includes some general information on
+      persons experiencing homelessness and housing conditions but should also evaluate
+      those needs, impacts and patterns within the City, such as areas of higher need. For
+      homelessness, the element should examine patterns of need or areas with higher
+      concentrations of persons experiencing homelessness, including access to
+      transportation and services. For housing conditions, the element should discuss any
+      areas of potentially higher needs of rehabilitation and replacement. The element should
+      utilize local data and knowledge such as service providers and code enforcement
+      officials to assist this analysis.
+
+      Affirmatively Furthering Fair Housing (AFFH) and Identified Sites: The element provides
+      some analysis of the identified sites and grouping of socio-economic concentrations.
+      However, the element should quantify the regional housing need allocation (RHNA) by
+      location or area and evaluate the impacts on the existing patterns of socio-economic
+      characteristics. For example, the element should discuss the impacts of isolating a large
+      portion of the RHNA by income group or lack of RHNA by income group in other
+      planning areas. A complete analysis should fully assess how the site inventory is
+      expected to improve and/or exacerbate fair housing conditions. This analysis should
+      address the location, number of units by income group, magnitude of the impact and
+      any isolation of the RHNA and add or modify programs as appropriate to improve fair
+      housing conditions and promote more inclusive and equitable neighborhoods.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                     Page 1
+July 12, 2023
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Overpayment: The element must quantify and analyze the number of lower-income
+      households overpaying by tenure (i.e., renter and owner).
+
+      Age and Condition of the Housing Stock: The element analyzes the age of the housing
+      stock as well as units lacking plumbing and kitchen facilities. However, the element
+      must include an estimate the number of units in need of rehabilitation and replacement.
+      For example, the analysis could include estimates from a recent windshield survey or
+      sampling, estimates from the code enforcement agency, or information from
+      knowledgeable builders/developers, including non-profit housing developers or
+      organizations. For additional information, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/housing-
+      stock-characteristics.shtml.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Parcel Listing: While the element lists sites by parcel number and acreage (Table C-2),
+      it must also list sites by general plan designation, zoning, realistic capacity, and the
+      number of units by affordability level.
+
+      Progress in Meeting the RHNA: The City’s RHNA may be reduced by pending,
+      approved, or completed projects; however, the element must demonstrate their
+      availability in the planning period. The element lists pipeline projects (Site 7 and Sites
+      12 through 21) “with an active application”. The element should generally discuss any
+      remaining steps, barriers to development, phasing, build out or planning horizons and
+      other relevant factors to demonstrate their availability in the planning period. In addition,
+      the element may list the expected completion date for several projects.
+
+      Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre in
+      size are deemed inadequate to accommodate housing for lower-income households
+      unless it is demonstrated, with sufficient evidence, that sites are suitable to
+      accommodate housing for lower-income households. While the element included a few
+      examples about developments with lot consolidation, it must also provide specific
+      examples with the densities, affordability and, if applicable, circumstances leading to
+      consolidation. The element should relate these examples to the sites identified to
+      accommodate the RHNA for lower-income households to demonstrate that these sites
+      can adequately accommodate the City’s lower-income housing need. In addition, the
+      element could describe it parceling strategy for the 14.7-acre site in the NewPark Place
+      Specific Plan. Based on a complete analysis, the City should add or revise programs to
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                        Page 2
+July 12, 2023
+      include incentives for facilitating development on these sites for housing affordable to
+      lower-income households.
+
+      Realistic Capacity: The element appears to assume residential development on sites with
+      zoning that allows 100 percent nonresidential uses, but to support this assumption, the
+      element must analyze the likelihood of residential development in zoning where 100
+      percent nonresidential uses are allowed. The analysis should be based on factors such as
+      development trends including nonresidential, performance standards requiring residential
+      uses or other relevant factors such as enhanced policies and programs.
+
+      Suitability of Nonvacant Sites: The element must include analysis demonstrating the
+      potential for additional development on nonvacant sites. While the element mentions
+      underutilized sites were identified based on assessed value (AV) and floor area ratios
+      (FAR), it must support the validity of these assumption in demonstrating the potential for
+      redevelopment and evaluate the extent existing uses impede additional development. For
+      example, the element could utilize recent development activity. In addition, the element
+      should consider additional factors such as building age, structural conditions and
+      expressed interest in residential development. Finally, the element should account for the
+      extent existing uses impede additional residential development including market demand
+      for the existing use and existing leases or contracts that would perpetuate the existing use
+      or prevent additional residential development.
+
+      In addition, if the housing element relies upon nonvacant sites to accommodate more than
+      50 percent of the RHNA for lower-income households, the housing element must
+      demonstrate existing uses are not an impediment to additional residential development
+      and will likely discontinue in the planning period (Gov. Code, § 65583.2, subd. (g)(2).).
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+      uses will be presumed to impede additional residential development and will not be utilized
+      toward demonstrating adequate sites to accommodate the RHNA.
+
+      Environmental Constraints: While the element generally describes environmental
+      constraints were considered (p. C-68), it must also describe any other known
+      environmental or other conditions (e.g., shape, easements, property conditions,
+      contamination) that could impact housing development on identified sites in the planning
+      period. The City, may, for example, discuss individual sites’ outstanding environmental
+      constraints and describe its strategy and timeline to mitigate these risks.
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD. Please
+      see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements for a copy of the form and instructions. The City can reach
+      out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                      Page 3
+July 12, 2023
+      Zoning for a Variety of Housing Types:
+          •   Emergency Shelters: The City must demonstrate compliance with laws governing
+              emergency shelters including, but not limited to AB 139 related to parking
+              requirements. In addition, Chapter 654, Statutes of 2022 (AB 2339), adds specificity
+              on how cities and counties plan for emergency shelters and ensure sufficient and
+              suitable capacity. Future submittals of the housing element must address these
+              statutory requirements. For example, the element should also clarify shelters are
+              permitted without discretionary action and discuss available acreage in the zones
+              allowed, including typical parcel sizes and the presence of reuse opportunities. In
+              addition, the analysis should address proximity to transportation and services and
+              any conditions inappropriate for human habitability. For additional information and
+              timing requirements, please see HCD’s memo at
+              https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/ab2339-
+              notice.pdf.
+
+          •   Low Barrier Navigation Centers: Low Barrier Navigation Centers shall be a use
+              by-right in zones where multifamily and mixed uses are permitted, including
+              nonresidential zones permitting multifamily uses pursuant to Government Code
+              section 65661. The element must demonstrate compliance with this requirement
+              and include programs as appropriate.
+          •   Permanent Supportive Housing: Supportive housing shall be a use by-right in
+              zones where multifamily and mixed uses are permitted, including nonresidential
+              zones permitting multifamily uses pursuant to Government Code section 65651.
+              The element must demonstrate compliance with this requirement and include
+              programs as appropriate.
+          •   Accessory Dwelling Units (ADUs): The element should provide a date by which it
+              expects to revise its ordinance to comply with state law.
+          •   Single-Room Occupancies (SRO): The element describes the zones in which
+              SROs are currently permitted. However, given the success of SROs in providing
+              housing for extremely low-income (ELI) households, the element should also
+              describe how zoning will encourage and facilitate SRO development and what
+              development standards SROs will be subject to.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element identifies many land use controls as potential
+      constraints on a variety of housing types. However, the analysis should analyze land
+      use controls independently and cumulatively with other land use controls. The analysis
+      should specifically address requirements related to maximum units per building,
+      maximum building coverage, FAR, required open space per unit, minimum lot area,
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                        Page 4
+July 12, 2023
+      setbacks, height limits, parking and limits on allowable densities. The analysis should
+      address any impacts on cost, supply, housing choice, affordability, timing, approval
+      certainty and ability to achieve maximum densities and include programs to address
+      identified constraints.
+
+      Fees and Exactions: The element provides information on some fees but must describe
+      all required fees for single family and multifamily housing development and analyze their
+      impact as potential constraints on housing supply and affordability. The element should
+      also describe and analyze fees such as those for obtaining a conditional use permit
+      (CUP), general plan amendments, and zone changes. For example, the analysis could
+      identify the total amount of fees and their proportion to the development costs for both
+      single family and multifamily housing. For additional information and a sample analysis
+      and tables, see the Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/fees-and-exactions.
+
+      Zoning and Fees Transparency: The element should clarify its compliance with new
+      transparency requirements for posting fees and all zoning and development standards
+      for each parcel on the jurisdiction’s website.
+
+      Building Codes and their Enforcement: The element should clarify which building code
+      is utilized and any local amendments and evaluate impacts on housing costs. In
+      addition, the element should describe the type (e.g., complaint-based) and degree of
+      code enforcement. For additional information and a sample analysis, see the Building
+      Blocks at https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/codes-and-enforcement-and-onsite-offsite-improvement-
+      standards.
+
+      On and Off-site Improvements: While the element general describes necessary
+      streetscape improvements in Specific Plan areas (p. 134), it should also identify
+      subdivision level improvement requirements, and analyze their impact on housing costs.
+      For additional information and a sample analysis, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/codes-and-enforcement-and-onsite-offsite-improvement-
+      standards.
+
+      Processing and Permit Procedures: While the element provides a description of the
+      types of permits required for housing developments, it must describe and analyze the
+      permits’ processes, identify what is reviewed, typical findings and approval procedures
+      by zone and housing type. The analysis must specifically address the threshold for a
+      CUP on multifamily uses and special development permits. The analysis must evaluate
+      impacts on housing supply (number of units), costs, timing, feasibility, and approval
+      certainty.
+
+      Housing for Persons with Disabilities: The element should analyze potential constraints
+      on housing for persons with disabilities, as follows:
+
+
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                     Page 5
+July 12, 2023
+          •   Definition of Family: The element briefly mentions a definition of family. However,
+              the element should describe and analyze its definition of family and, if necessary,
+              include a program to address identified constraints.
+          •   Reasonable Accommodation: The element describes the general requirements of
+              reasonable accommodation, but it should list and analyze approval findings for
+              impacts on housing for persons with disabilities.
+          •   Group Homes for Seven or More Persons: The element describes its procedures
+              for permitting residential care facilities of seven or more persons. However, the
+              element excludes group homes for seven or more persons from some residential
+              zones and subjects the use to a CUP, unlike other similar uses. The element
+              should specifically analyze these constraints for impacts on housing supply and
+              choices and approval certainty and objectivity for housing for persons with
+              disabilities and include programs as appropriate.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      Several programs and actions have timelines that should be moved earlier in the
+      planning period to ensure a beneficial impact. Examples include Programs H2.3 (Four
+      Corners Development), H2.6 (Housing Development on School Sites), H2.8 (Zoning for
+      Missing Middle Housing), H3.4 (Housing in Mixed Use Zones), and H3.5 (Parking
+      Requirement Changes).
+
+      Additionally, programs must have specific commitment to housing outcomes or
+      deliverables. Several programs include actions with no description of how those actions
+      will be implemented (e.g., “support”, “study”, “explore”, “evaluate”, etc.,). For example,
+      Program H2.8 describes the ‘pursuit of’ minimum lot widths of 50 feet and minimum lot
+      sizes of 5,000 feet, and parking that ‘may include a minimum of 1 per unit outside
+      specific plan areas’. However, it does not make a specific commitment to adjust these
+      development standards and to what extent. Programs should be amended, to include
+      specific commitment to a housing related outcome. Examples include, but are not
+      limited to, Programs H2.3 (Four Corners Development), H2.6 (Housing Development on
+      School Sites), H2.8 (Zoning for Missing Middle Housing), H3.4 (Housing in Mixed Use
+      Zones), H3.5 (Parking Requirement Changes), and H5.3 (Public Lands for Affordable
+      Housing).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                       Page 6
+July 12, 2023
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Programs to AFFH should go beyond status quo actions, include specific
+      commitment, timing, geographic targeting and metrics or numerical targets and should,
+      as appropriate, address housing mobility, encourage new housing choices in higher
+      resource areas, improve place-based strategies toward community revitalization and
+      protect existing residents from displacement.
+
+      The element may, for example, as discussed on the May 23 and May 30, 2023, commit
+      to adopting an ordinance to allow Accessory Commercial Uses in residential
+      neighborhoods and revise Program H2.1 or another similar program accordingly. The
+      element may also, for example, revise Program H2.10 to establish development
+      standards for missing middle housing typologies and/or SROs that encourage their
+      development, for example in specific plan areas. To improve housing opportunities for
+      persons experiencing homelessness or lower-income households employed in the City,
+      the element could commit to additional applications for Project Homekey in areas of
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                           Page 7
+July 12, 2023
+      higher need and opportunity by using a scattered sites approach. The City may also,
+      for example, commit to establishing minimum densities across residential and mixed-
+      use zones to provide more certainty in housing choices and affordability. Finally, the
+      City may also, for example, discuss its efforts to improve pedestrian safety and active
+      mobility as a way to increase access to opportunity.
+
+      Finally, the element should commit to assessing and revising programs through a mid-
+      cycle review. Please see HCD’s AFFH memo for more information:
+      https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-
+      2021.pdf#page=23.
+
+   5. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      As noted in Finding A3, the City’s ADU Program (Program H2.2) should commit to
+      amend the ordinance as necessary to comply with ADU law by a specified date.
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   The element provides a summary of quantified objectives starting on page 198 of the policy
+   document. These objectives include new construction and rehabilitation but must also
+   include conservation objectives by income group. Conservation objectives may include the
+   variety of strategies employed by the City to promote tenant stability and the preservation
+   of units at-risk of conversion to market rate uses. In addition, the element could add
+   missing middle objectives for 20 units in the 8-year planning period and pursuant to public
+   comments received, HCD encourages the City to re-consider increasing these objectives,
+   as well as Program H1.2 objectives to provide 12 rental inspections and Program H1.1’s
+   goal to provide 20 home rehabilitations.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation oof all
+   segments of the community in the development of the Housing Element and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the City made extensive efforts to reach the public, including hosting events and
+   meeting with key stakeholders and summarizing community feedback, it should also
+   discuss how input was incorporated into the housing element.
+
+
+
+
+City of Newark’s 6th Cycle (2023-2031) Draft Housing Element                     Page 8
+July 12, 2023

@@ -1,0 +1,14 @@
+{
+  "county": "Contra Costa",
+  "jurisdiction": "Lafayette",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-02-12",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/cco-lafayette-draft-out-021224.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/cco-lafayette-draft-out-021224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 215379,
+  "text_chars": 17509,
+  "text_empty": false
+}

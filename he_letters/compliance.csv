@@ -1,0 +1,540 @@
+county,jurisdiction,planning_period,record_type,review_status,date_received,date_reviewed,compliance_status
+Alameda,ALAMEDA,6th Cycle,Adopted,In,2022-11-16,2022-12-20,In
+Alameda,ALAMEDA COUNTY,6th Cycle,Adopted,In,2024-12-19,2024-12-31,In
+Alameda,ALBANY,6th Cycle,Adopted,In,2023-08-16,2023-09-08,In
+Alameda,BERKELEY,6th Cycle,Adopted,In,2023-01-24,2023-02-28,In
+Alameda,DUBLIN,6th Cycle,Adopted,In,2023-11-22,2024-01-19,In
+Alameda,EMERYVILLE,6th Cycle,Adopted,In,2023-01-20,2023-02-03,In
+Alameda,FREMONT,6th Cycle,Adopted,In,2023-01-23,2023-03-22,In
+Alameda,HAYWARD,6th Cycle,Adopted,In,2023-06-07,2023-07-27,In
+Alameda,LIVERMORE,6th Cycle,Adopted,In,2023-03-14,2023-03-24,In
+Alameda,NEWARK,6th Cycle,Adopted,In,2023-11-01,2023-12-21,In
+Alameda,OAKLAND,6th Cycle,Adopted,In,2023-02-13,2023-02-17,In
+Alameda,PIEDMONT,6th Cycle,Adopted,In,2023-09-11,2023-11-09,In
+Alameda,PLEASANTON,6th Cycle,Adopted,In,2023-06-27,2023-08-25,In
+Alameda,SAN LEANDRO,6th Cycle,Adopted,In,2022-12-09,2023-02-02,In
+Alameda,UNION CITY,6th Cycle,Adopted,In,2023-05-25,2023-05-30,In
+Alpine,ALPINE COUNTY,7th Cycle,Subsequent Draft,Out,2024-12-02,2025-01-31,Out
+Amador,AMADOR,6th Cycle,Adopted,In,2026-01-27,2026-03-23,In
+Amador,AMADOR COUNTY,6th Cycle,Adopted,In,2024-09-26,2024-09-27,In
+Amador,IONE,6th Cycle,Adopted,In,2024-12-20,2025-02-12,In
+Amador,JACKSON,6th Cycle,Adopted,In,2024-12-09,2025-02-06,In
+Amador,PLYMOUTH,6th Cycle,Adopted,In,2026-02-03,2026-03-27,In
+Amador,SUTTER CREEK,6th Cycle,Adopted,In,2024-12-06,2025-01-29,In
+Butte,BIGGS,6th Cycle,Adopted,In,2024-06-24,2024-07-10,In
+Butte,BUTTE COUNTY,6th Cycle,Adopted,In,2023-01-25,2023-02-22,In
+Butte,CHICO,6th Cycle,Adopted,In,2023-09-25,2023-11-06,In
+Butte,GRIDLEY,6th Cycle,Adopted,In,2025-12-11,2025-12-30,In
+Butte,OROVILLE,6th Cycle,Adopted,In,2023-04-26,2023-05-03,In
+Butte,PARADISE,6th Cycle,Adopted,In,2023-02-08,2023-02-28,In
+Calaveras,ANGELS CAMP,6th Cycle,Adopted,In,2019-10-28,2019-12-06,In
+Calaveras,CALAVERAS COUNTY,6th Cycle,Adopted,In,2019-09-13,2019-10-22,In
+Colusa,COLUSA,6th Cycle,Adopted,In,2020-12-30,2021-03-01,In
+Colusa,COLUSA COUNTY,6th Cycle,Adopted,In,2020-07-08,2020-07-17,In
+Colusa,WILLIAMS,6th Cycle,Adopted,In,2020-11-03,2020-12-04,In
+Contra Costa,ANTIOCH,6th Cycle,Adopted,In,2023-08-15,2023-10-12,In
+Contra Costa,BRENTWOOD,6th Cycle,Adopted,In,2024-02-14,2024-04-12,In
+Contra Costa,CLAYTON,6th Cycle,Adopted,In,2026-02-12,2026-04-13,In
+Contra Costa,CONCORD,6th Cycle,Adopted,In,2023-09-15,2023-10-20,In
+Contra Costa,CONTRA COSTA COUNTY,6th Cycle,Adopted,In,2023-12-13,2024-01-22,In
+Contra Costa,DANVILLE,6th Cycle,Adopted,In,2024-02-09,2024-04-09,In
+Contra Costa,EL CERRITO,6th Cycle,Adopted,In,2023-08-17,2023-08-22,In
+Contra Costa,HERCULES,6th Cycle,Adopted,In,2024-12-16,2025-01-09,In
+Contra Costa,LAFAYETTE,6th Cycle,Adopted,In,2025-01-30,2025-03-28,In
+Contra Costa,MARTINEZ,6th Cycle,Adopted,In,2025-06-26,2025-08-25,In
+Contra Costa,MORAGA,6th Cycle,Adopted,In,2023-07-17,2023-09-14,In
+Contra Costa,OAKLEY,6th Cycle,Adopted,In,2023-03-29,2023-05-24,In
+Contra Costa,ORINDA,6th Cycle,Adopted,In,2023-02-01,2023-03-30,In
+Contra Costa,PINOLE,6th Cycle,Adopted,In,2023-06-23,2023-07-20,In
+Contra Costa,PITTSBURG,6th Cycle,Adopted,In,2024-08-09,2024-10-02,In
+Contra Costa,PLEASANT HILL,6th Cycle,Adopted,In,2023-10-31,2023-11-22,In
+Contra Costa,RICHMOND,6th Cycle,Adopted,In,2023-09-26,2023-10-02,In
+Contra Costa,SAN PABLO,6th Cycle,Adopted,In,2024-03-21,2024-05-20,In
+Contra Costa,SAN RAMON,6th Cycle,Adopted,In,2023-02-06,2023-02-27,In
+Contra Costa,WALNUT CREEK,6th Cycle,Adopted,In,2023-08-25,2023-10-24,In
+Del Norte,CRESCENT CITY,6th Cycle,Adopted,In,2023-09-18,2023-11-17,In
+Del Norte,DEL NORTE COUNTY,6th Cycle,Adopted,In,2023-02-15,2023-02-24,In
+El Dorado,EL DORADO COUNTY,6th Cycle,Adopted,In,2022-03-23,2022-05-10,In
+El Dorado,PLACERVILLE,6th Cycle,Adopted,In,2022-12-20,2022-12-21,In
+El Dorado,SOUTH LAKE TAHOE,7th Cycle,Initial Draft,In Review,2026-09-30,,In
+Fresno,CLOVIS,6th Cycle,Adopted,In,2024-11-12,2024-12-17,In
+Fresno,COALINGA,6th Cycle,Adopted,In,2024-08-19,2024-10-02,In
+Fresno,FIREBAUGH,6th Cycle,Adopted,In,2024-07-03,2024-07-24,In
+Fresno,FOWLER,6th Cycle,Adopted,In,2024-10-04,2024-10-28,In
+Fresno,FRESNO,6th Cycle,Adopted,In,2024-12-16,2025-01-21,In
+Fresno,FRESNO COUNTY,6th Cycle,Adopted,In,2025-08-21,2025-09-24,In
+Fresno,HURON,6th Cycle,Adopted,In,2024-06-26,2024-07-12,In
+Fresno,KERMAN,6th Cycle,Adopted,In,2024-06-14,2024-07-05,In
+Fresno,KINGSBURG,6th Cycle,Adopted,In,2025-10-17,2025-12-15,In
+Fresno,MENDOTA,6th Cycle,Adopted,In,2024-10-04,2024-10-25,In
+Fresno,ORANGE COVE,6th Cycle,Adopted,In,2024-10-24,2024-11-14,In
+Fresno,PARLIER,6th Cycle,Adopted,In,2024-12-23,2025-01-21,In
+Fresno,REEDLEY,6th Cycle,Adopted,In,2024-04-12,2024-04-26,In
+Fresno,SAN JOAQUIN,6th Cycle,Adopted,In,2024-05-03,2024-05-21,In
+Fresno,SANGER,6th Cycle,Adopted,In,2024-09-13,2024-10-04,In
+Fresno,SELMA,6th Cycle,Adopted,In,2025-05-02,2025-05-14,In
+Glenn,GLENN COUNTY,6th Cycle,Adopted,In,2024-11-05,2024-11-01,In
+Glenn,ORLAND,6th Cycle,Adopted,In,2024-05-31,2024-07-11,In
+Glenn,WILLOWS,6th Cycle,Adopted,In,2023-02-15,2023-03-28,In
+Humboldt,ARCATA,6th Cycle,Adopted,In,2019-12-23,2020-01-28,In
+Humboldt,BLUE LAKE,6th Cycle,Adopted,In,2025-12-29,2025-12-30,In
+Humboldt,EUREKA,6th Cycle,Adopted,In,2022-11-03,2022-11-10,In
+Humboldt,FERNDALE,6th Cycle,Adopted,In,2019-10-29,2019-12-11,In
+Humboldt,FORTUNA,6th Cycle,Adopted,In,2019-08-26,2019-09-16,In
+Humboldt,HUMBOLDT COUNTY,6th Cycle,Adopted,In,2019-08-27,2019-10-22,In
+Humboldt,RIO DELL,6th Cycle,Adopted,In,2022-06-16,2022-08-09,In
+Humboldt,TRINIDAD,6th Cycle,Adopted,In,2020-04-22,2020-05-12,In
+Imperial,BRAWLEY,6th Cycle,Adopted,In,2023-08-23,2023-10-16,In
+Imperial,CALEXICO,6th Cycle,Subsequent Draft,Out,2026-08-21,2026-10-19,Out
+Imperial,CALIPATRIA,6th Cycle,Adopted,In,2022-08-05,2022-09-30,In
+Imperial,EL CENTRO,6th Cycle,Adopted,In,2022-02-18,2022-04-11,In
+Imperial,HOLTVILLE,6th Cycle,Adopted,In,2022-06-13,2022-07-22,In
+Imperial,IMPERIAL,6th Cycle,Adopted,In,2022-09-22,2022-09-30,In
+Imperial,IMPERIAL COUNTY,6th Cycle,Adopted,In,2022-02-17,2022-03-16,In
+Imperial,WESTMORLAND,6th Cycle,Adopted,In,2025-01-13,2024-11-13,In
+Inyo,BISHOP,6th Cycle,Adopted,In,2022-06-09,2022-08-01,In
+Inyo,INYO COUNTY,6th Cycle,Adopted,In,2023-09-29,2023-10-30,In
+Kern,ARVIN,6th Cycle,Adopted,In,2025-03-05,2025-03-27,In
+Kern,BAKERSFIELD,6th Cycle,Adopted,In,2025-09-25,2025-11-24,In
+Kern,CALIFORNIA CITY,6th Cycle,Adopted,In,2026-06-01,2026-06-05,In
+Kern,DELANO,6th Cycle,Adopted,In,2025-11-05,2025-12-09,In
+Kern,KERN COUNTY,6th Cycle,Adopted,In,2025-05-28,2025-06-30,In
+Kern,MARICOPA,6th Cycle,Adopted,In,2026-09-01,2026-09-14,In
+Kern,MCFARLAND,6th Cycle,Adopted,In,2025-03-05,2025-04-02,In
+Kern,RIDGECREST,6th Cycle,Adopted,In,2026-08-06,2026-08-13,In
+Kern,SHAFTER,6th Cycle,Subsequent Draft,In Review,2026-10-16,,Out
+Kern,TAFT,6th Cycle,Adopted,In,2025-08-20,2025-08-22,In
+Kern,TEHACHAPI,6th Cycle,Adopted,In,2025-07-22,2025-08-21,In
+Kern,WASCO,6th Cycle,Adopted,In,2024-08-12,2024-09-10,In
+Kings,AVENAL,6th Cycle,Adopted,In,2026-05-15,2026-06-04,In
+Kings,CORCORAN,6th Cycle,Adopted,In,2026-05-20,2026-06-04,In
+Kings,HANFORD,6th Cycle,Adopted,In,2026-05-27,2026-06-04,In
+Kings,KINGS COUNTY,6th Cycle,Adopted,In,2026-05-19,2026-06-04,In
+Kings,LEMOORE,6th Cycle,Adopted,In,2026-06-24,2026-06-25,In
+Lake,CLEARLAKE,6th Cycle,Adopted,In,2019-10-28,2019-12-05,In
+Lake,LAKE COUNTY,6th Cycle,Adopted,In,2020-06-18,2020-09-16,In
+Lake,LAKEPORT,6th Cycle,Adopted,In,2020-07-20,2020-07-28,In
+Lassen,LASSEN COUNTY,7th Cycle,Adopted,In,2025-07-14,2025-09-10,In
+Lassen,SUSANVILLE,7th Cycle,Adopted,In,2026-01-09,2026-02-06,In
+Los Angeles,AGOURA HILLS,6th Cycle,Adopted,In,2022-08-15,2022-10-12,In
+Los Angeles,ALHAMBRA,6th Cycle,Adopted,In,2024-08-28,2024-09-13,In
+Los Angeles,ARCADIA,6th Cycle,Adopted,In,2023-12-12,2024-02-09,In
+Los Angeles,ARTESIA,6th Cycle,Adopted,In,2026-02-10,2026-03-05,In
+Los Angeles,AVALON,6th Cycle,Adopted,In,2022-09-29,2022-10-12,In
+Los Angeles,AZUSA,6th Cycle,Adopted,In,2023-06-23,2023-07-27,In
+Los Angeles,BALDWIN PARK,6th Cycle,Adopted,In,2023-07-20,2023-08-24,In
+Los Angeles,BELL,6th Cycle,Adopted,In,2022-10-13,2022-10-15,In
+Los Angeles,BELL GARDENS,6th Cycle,Adopted,In,2022-07-27,2022-08-18,In
+Los Angeles,BELLFLOWER,6th Cycle,Adopted,In,2022-07-21,2022-09-09,In
+Los Angeles,BEVERLY HILLS,6th Cycle,Adopted,In,2024-03-19,2024-05-01,In
+Los Angeles,BRADBURY,6th Cycle,Adopted,In,2023-11-08,2024-01-03,In
+Los Angeles,BURBANK,6th Cycle,Adopted,In,2022-09-28,2022-10-07,In
+Los Angeles,CALABASAS,6th Cycle,Adopted,In,2022-04-01,2022-04-25,In
+Los Angeles,CARSON,6th Cycle,Adopted,In,2025-06-18,2025-06-25,In
+Los Angeles,CERRITOS,6th Cycle,Adopted,In,2022-07-29,2022-09-01,In
+Los Angeles,CLAREMONT,6th Cycle,Adopted,In,2024-07-22,2024-09-10,In
+Los Angeles,COMMERCE,6th Cycle,Adopted,In,2025-10-30,2025-12-24,In
+Los Angeles,COMPTON,6th Cycle,Subsequent Draft,Out,2025-01-06,2025-03-07,Out
+Los Angeles,COVINA,6th Cycle,Adopted,In,2024-02-15,2024-02-29,In
+Los Angeles,CUDAHY,6th Cycle,Adopted,In,2023-09-14,2023-11-13,In
+Los Angeles,CULVER CITY,6th Cycle,Adopted,In,2022-08-11,2022-10-10,In
+Los Angeles,DIAMOND BAR,6th Cycle,Adopted,In,2022-08-12,2022-10-05,In
+Los Angeles,DOWNEY,6th Cycle,Adopted,In,2022-10-13,2022-10-14,In
+Los Angeles,DUARTE,6th Cycle,Adopted,In,2022-01-31,2022-02-09,In
+Los Angeles,EL MONTE,6th Cycle,Adopted,In,2022-08-02,2022-09-30,In
+Los Angeles,EL SEGUNDO,6th Cycle,Adopted,In,2024-05-16,2024-07-15,In
+Los Angeles,GARDENA,6th Cycle,Adopted,In,2023-02-17,2023-02-27,In
+Los Angeles,GLENDALE,6th Cycle,Adopted,In,2023-02-16,2023-02-27,In
+Los Angeles,GLENDORA,6th Cycle,Adopted,In,2023-07-14,2023-08-10,In
+Los Angeles,HAWAIIAN GARDENS,6th Cycle,Adopted,In,2024-12-13,2025-02-10,In
+Los Angeles,HAWTHORNE,6th Cycle,Adopted,In,2022-08-15,2022-10-12,In
+Los Angeles,HERMOSA BEACH,6th Cycle,Adopted,In,2024-07-31,2024-08-01,In
+Los Angeles,HIDDEN HILLS,6th Cycle,Adopted,In,2025-12-15,2025-12-18,In
+Los Angeles,HUNTINGTON PARK,6th Cycle,Adopted,In,2024-02-01,2024-02-07,In
+Los Angeles,INDUSTRY,6th Cycle,Adopted,In,2023-07-13,2023-09-11,In
+Los Angeles,INGLEWOOD,6th Cycle,Adopted,In,2023-10-04,2023-11-29,In
+Los Angeles,IRWINDALE,6th Cycle,Adopted,In,2025-09-23,2025-10-10,In
+Los Angeles,LA CANADA FLINTRIDGE,6th Cycle,Adopted,In,2023-09-19,2023-11-17,In
+Los Angeles,LA HABRA HEIGHTS,6th Cycle,Adopted,In,2025-08-01,2025-09-03,In
+Los Angeles,LA MIRADA,6th Cycle,Adopted,In,2025-01-24,2025-03-24,In
+Los Angeles,LA PUENTE,6th Cycle,Adopted,In,2026-06-30,2026-08-28,In
+Los Angeles,LA VERNE,6th Cycle,Adopted,In,2022-12-07,2022-12-21,In
+Los Angeles,LAKEWOOD,6th Cycle,Adopted,In,2022-08-12,2022-09-16,In
+Los Angeles,LANCASTER,6th Cycle,Adopted,In,2023-01-13,2023-02-09,In
+Los Angeles,LAWNDALE,6th Cycle,Adopted,In,2022-10-06,2022-10-13,In
+Los Angeles,LOMITA,6th Cycle,Adopted,In,2022-08-15,2022-10-14,In
+Los Angeles,LONG BEACH,6th Cycle,Adopted,In,2022-02-11,2022-04-08,In
+Los Angeles,LOS ANGELES,6th Cycle,Adopted,In,2022-06-14,2022-06-29,In
+Los Angeles,LOS ANGELES COUNTY,6th Cycle,Adopted,In,2022-05-17,2022-05-27,In
+Los Angeles,LYNWOOD,6th Cycle,Adopted,In,2024-09-19,2024-10-16,In
+Los Angeles,MALIBU,6th Cycle,Adopted,In,2024-10-04,2024-12-03,In
+Los Angeles,MANHATTAN BEACH,6th Cycle,Adopted,In,2023-05-31,2023-07-27,In
+Los Angeles,MAYWOOD,6th Cycle,Adopted,In,2023-12-20,2023-12-20,In
+Los Angeles,MONROVIA,6th Cycle,Adopted,In,2022-11-03,2022-12-29,In
+Los Angeles,MONTEBELLO,6th Cycle,Adopted,In,2022-06-24,2022-07-11,In
+Los Angeles,MONTEREY PARK,6th Cycle,Adopted,In,2023-03-23,2023-03-30,In
+Los Angeles,NORWALK,6th Cycle,Subsequent Draft,Out,2025-10-20,2025-12-18,In
+Los Angeles,PALMDALE,6th Cycle,Adopted,In,2023-08-29,2023-10-09,In
+Los Angeles,PALOS VERDES ESTATES,6th Cycle,Adopted,In,2025-07-01,2025-08-25,In
+Los Angeles,PARAMOUNT,6th Cycle,Adopted,In,2022-08-15,2022-10-07,In
+Los Angeles,PASADENA,6th Cycle,Adopted,In,2023-01-11,2023-03-10,In
+Los Angeles,PICO RIVERA,6th Cycle,Adopted,In,2024-02-28,2024-02-29,In
+Los Angeles,POMONA,6th Cycle,Adopted,In,2022-08-08,2022-09-30,In
+Los Angeles,RANCHO PALOS VERDES,6th Cycle,Subsequent Draft,In,2024-11-26,2025-01-23,In
+Los Angeles,REDONDO BEACH,6th Cycle,Adopted,In,2026-05-06,2026-05-20,In
+Los Angeles,ROLLING HILLS,6th Cycle,Adopted,In,2022-09-28,2022-11-23,In
+Los Angeles,ROLLING HILLS ESTATES,6th Cycle,Adopted,In,2023-04-27,2023-05-24,In
+Los Angeles,ROSEMEAD,6th Cycle,Adopted,In,2022-06-03,2022-08-01,In
+Los Angeles,SAN DIMAS,6th Cycle,Subsequent Draft,In,2026-06-04,2026-07-22,In
+Los Angeles,SAN FERNANDO,6th Cycle,Subsequent Draft,In,2025-03-21,2025-05-19,In
+Los Angeles,SAN GABRIEL,6th Cycle,Adopted,In,2022-02-07,2022-02-10,In
+Los Angeles,SAN MARINO,6th Cycle,Adopted,In,2025-02-13,2025-02-24,In
+Los Angeles,SANTA CLARITA,6th Cycle,Adopted,In,2026-07-02,2023-08-22,In
+Los Angeles,SANTA FE SPRINGS,6th Cycle,Adopted,In,2024-10-10,2024-10-28,In
+Los Angeles,SANTA MONICA,6th Cycle,Adopted,In,2022-10-12,2022-10-14,In
+Los Angeles,SIERRA MADRE,6th Cycle,Adopted,In,2022-07-28,2022-08-10,In
+Los Angeles,SIGNAL HILL,6th Cycle,Adopted,In,2022-09-28,2022-10-13,In
+Los Angeles,SOUTH EL MONTE,6th Cycle,Adopted,In,2024-06-07,2024-06-19,In
+Los Angeles,SOUTH GATE,6th Cycle,Adopted,In,2024-01-24,2024-02-28,In
+Los Angeles,SOUTH PASADENA,6th Cycle,Adopted,In Review,2026-09-14,,In
+Los Angeles,TEMPLE CITY,6th Cycle,Adopted,In,2022-10-19,2022-12-16,In
+Los Angeles,TORRANCE,6th Cycle,Adopted,In,2022-08-15,2022-10-12,In
+Los Angeles,VERNON,6th Cycle,Adopted,In,2025-09-22,2025-09-23,In
+Los Angeles,WALNUT,6th Cycle,Adopted,In,2023-08-28,2023-09-18,In
+Los Angeles,WEST COVINA,6th Cycle,Adopted,In,2025-04-24,2025-05-19,In
+Los Angeles,WEST HOLLYWOOD,6th Cycle,Adopted,In,2023-02-27,2023-04-28,In
+Los Angeles,WESTLAKE VILLAGE,6th Cycle,Adopted,In,2021-12-14,2022-02-10,In
+Los Angeles,WHITTIER,6th Cycle,Adopted,In,2022-08-16,2022-10-12,In
+Madera,CHOWCHILLA,6th Cycle,Adopted,In,2024-09-11,2024-10-04,In
+Madera,MADERA,6th Cycle,Adopted,Out,2026-02-06,2026-04-07,Out
+Madera,MADERA COUNTY,6th Cycle,Adopted,In,2025-10-20,2025-12-16,In
+Marin,BELVEDERE,6th Cycle,Adopted,In,2026-02-10,2026-02-26,In
+Marin,CORTE MADERA,6th Cycle,Adopted,In,2023-06-21,2023-08-15,In
+Marin,FAIRFAX,6th Cycle,Adopted,In,2024-03-14,2024-04-08,In
+Marin,LARKSPUR,6th Cycle,Adopted,In,2024-09-19,2024-10-08,In
+Marin,MARIN COUNTY,6th Cycle,Adopted,In,2025-05-05,2025-05-23,In
+Marin,MILL VALLEY,6th Cycle,Adopted,In,2023-10-27,2023-12-22,In
+Marin,NOVATO,6th Cycle,Adopted,In,2024-05-09,2024-06-21,In
+Marin,ROSS,6th Cycle,Adopted,In,2024-05-16,2024-06-04,In
+Marin,SAN ANSELMO,6th Cycle,Adopted,In,2024-01-30,2024-03-28,In
+Marin,SAN RAFAEL,6th Cycle,Adopted,In,2023-05-18,2023-06-22,In
+Marin,SAUSALITO,6th Cycle,Adopted,In,2025-06-04,2025-07-01,In
+Marin,TIBURON,6th Cycle,Adopted,In,2023-09-22,2023-10-18,In
+Mariposa,MARIPOSA COUNTY,7th Cycle,Adopted,In,2026-03-23,2026-03-24,In
+Mendocino,FORT BRAGG,6th Cycle,Adopted,In,2019-09-24,2019-12-12,In
+Mendocino,MENDOCINO COUNTY,6th Cycle,Adopted,In,2020-10-01,2020-12-03,In
+Mendocino,POINT ARENA,6th Cycle,Adopted,In,2019-10-22,2019-11-21,In
+Mendocino,UKIAH,6th Cycle,Adopted,In,2019-10-28,2019-12-05,In
+Mendocino,WILLITS,6th Cycle,Adopted,In,2019-12-17,2020-01-09,In
+Merced,ATWATER,6th Cycle,Adopted,In Review,2026-09-28,,Out
+Merced,DOS PALOS,6th Cycle,Adopted,In Review,2026-09-22,,Out
+Merced,GUSTINE,6th Cycle,Adopted,In,2025-10-23,2025-12-18,In
+Merced,LIVINGSTON,6th Cycle,Adopted,In Review,2026-09-10,,Out
+Merced,LOS BANOS,6th Cycle,Adopted,In,2025-11-26,2025-12-18,In
+Merced,MERCED,6th Cycle,Adopted,In,2026-07-21,2026-08-12,In
+Merced,MERCED COUNTY,6th Cycle,Adopted,In,2026-05-20,2026-06-04,In
+Modoc,ALTURAS,7th Cycle,New Cycle,Due,2024-06-30,2024-06-30,Out
+Modoc,MODOC COUNTY,7th Cycle,Adopted,In,2025-05-20,2025-06-02,In
+Mono,MAMMOTH LAKES,6th Cycle,Adopted,In,2019-08-26,2019-09-19,In
+Mono,MONO COUNTY,6th Cycle,Adopted,In,2020-02-24,2020-03-11,In
+Monterey,CARMEL,6th Cycle,Adopted,In,2026-07-20,2026-09-03,In
+Monterey,DEL REY OAKS,6th Cycle,Adopted,In,2025-08-08,2025-08-26,In
+Monterey,GONZALES,6th Cycle,Adopted,In,2025-08-05,2025-09-22,In
+Monterey,GREENFIELD,6th Cycle,Adopted,In,2025-07-25,2025-08-11,In
+Monterey,KING CITY,6th Cycle,Adopted,In,2025-02-12,2025-02-19,In
+Monterey,MARINA,6th Cycle,Adopted,In,2024-03-19,2024-04-11,In
+Monterey,MONTEREY,6th Cycle,Adopted,In,2024-08-05,2024-10-04,In
+Monterey,MONTEREY COUNTY,6th Cycle,Subsequent Draft,Out,2026-03-13,2026-05-12,Out
+Monterey,PACIFIC GROVE,6th Cycle,Adopted,In,2026-05-11,2026-05-08,In
+Monterey,SALINAS,6th Cycle,Adopted,In,2023-12-12,2024-02-08,In
+Monterey,SAND CITY,6th Cycle,Adopted,In,2024-06-05,2024-07-02,In
+Monterey,SEASIDE,6th Cycle,Adopted,In,2024-03-26,2024-03-27,In
+Monterey,SOLEDAD,6th Cycle,Adopted,In,2024-08-16,2024-08-23,In
+Napa,AMERICAN CANYON,6th Cycle,Adopted,In,2023-05-01,2023-06-30,In
+Napa,CALISTOGA,6th Cycle,Adopted,In,2023-08-10,2023-10-09,In
+Napa,NAPA,6th Cycle,Adopted,In,2023-11-06,2023-12-11,In
+Napa,NAPA COUNTY,6th Cycle,Adopted,In,2024-06-06,2024-07-12,In
+Napa,SAINT HELENA,6th Cycle,Adopted,In,2023-08-31,2023-09-25,In
+Napa,YOUNTVILLE,6th Cycle,Adopted,In,2024-06-12,2024-08-07,In
+Nevada,GRASS VALLEY,6th Cycle,Adopted,In,2019-08-16,2019-10-02,In
+Nevada,NEVADA CITY,6th Cycle,Adopted,In,2019-11-19,2019-12-05,In
+Nevada,NEVADA COUNTY,6th Cycle,Adopted,In,2019-07-03,2019-07-22,In
+Nevada,TRUCKEE,7th Cycle,Initial Draft,Out,2026-07-09,2026-10-07,In
+Orange,ALISO VIEJO,6th Cycle,Adopted,In,2024-06-24,2024-06-24,In
+Orange,ANAHEIM,6th Cycle,Adopted,In,2025-09-25,2025-10-14,In
+Orange,BREA,6th Cycle,Adopted,In,2022-08-17,2022-09-08,In
+Orange,BUENA PARK,6th Cycle,Adopted,In,2024-02-14,2024-02-29,In
+Orange,COSTA MESA,6th Cycle,Adopted,In Review,2026-09-02,,Out
+Orange,CYPRESS,6th Cycle,Adopted,In,2022-07-12,2022-09-09,In
+Orange,DANA POINT,6th Cycle,Adopted,In,2022-09-23,2022-10-20,In
+Orange,FOUNTAIN VALLEY,6th Cycle,Subsequent Draft,In,2024-09-06,2024-11-05,In
+Orange,FULLERTON,6th Cycle,Adopted,In,2025-01-10,2025-02-27,In
+Orange,GARDEN GROVE,6th Cycle,Adopted,In,2023-10-13,2023-12-12,In
+Orange,HUNTINGTON BEACH,6th Cycle,Adopted,Out,2026-06-19,2026-08-18,Out
+Orange,IRVINE,6th Cycle,Adopted,In,2022-05-12,2022-05-24,In
+Orange,LA HABRA,6th Cycle,Adopted,In,2023-02-22,2023-04-21,In
+Orange,LA PALMA,6th Cycle,Adopted,In,2024-04-03,2024-05-20,In
+Orange,LAGUNA BEACH,6th Cycle,Adopted,In,2023-01-27,2023-02-07,In
+Orange,LAGUNA HILLS,6th Cycle,Adopted,In,2024-03-27,2024-05-23,In
+Orange,LAGUNA NIGUEL,6th Cycle,Adopted,In,2024-02-16,2024-02-22,In
+Orange,LAGUNA WOODS,6th Cycle,Adopted,In,2024-09-25,2024-10-28,In
+Orange,LAKE FOREST,6th Cycle,Adopted,In,2023-01-06,2023-02-24,In
+Orange,LOS ALAMITOS,6th Cycle,Adopted,In,2023-03-06,2023-05-01,In
+Orange,MISSION VIEJO,6th Cycle,Adopted,In,2024-01-27,2024-02-08,In
+Orange,NEWPORT BEACH,6th Cycle,Adopted,In,2024-10-11,2024-11-21,In
+Orange,ORANGE,6th Cycle,Adopted,In,2023-11-03,2024-01-02,In
+Orange,ORANGE COUNTY,6th Cycle,Adopted,In,2025-02-11,2025-02-20,In
+Orange,PLACENTIA,6th Cycle,Adopted,In,2024-02-23,2024-02-29,In
+Orange,RANCHO SANTA MARGARITA,6th Cycle,Adopted,In,2022-08-25,2022-09-13,In
+Orange,SAN CLEMENTE,6th Cycle,Adopted,In,2022-09-22,2022-10-12,In
+Orange,SAN JUAN CAPISTRANO,6th Cycle,Adopted,In,2022-08-15,2022-09-22,In
+Orange,SANTA ANA,6th Cycle,Adopted,In,2022-07-26,2022-09-16,In
+Orange,SEAL BEACH,6th Cycle,Adopted,In,2026-02-02,2026-02-26,In
+Orange,STANTON,6th Cycle,Adopted,In,2022-07-08,2022-08-30,In
+Orange,TUSTIN,6th Cycle,Adopted,In,2022-10-05,2022-10-10,In
+Orange,VILLA PARK,6th Cycle,Adopted,In,2025-10-30,2025-12-11,In
+Orange,WESTMINSTER,6th Cycle,Adopted,In,2023-03-27,2023-05-22,In
+Orange,YORBA LINDA,6th Cycle,Adopted,In,2024-06-19,2024-07-24,In
+Placer,AUBURN,6th Cycle,Adopted,In,2021-06-03,2021-08-26,In
+Placer,COLFAX,6th Cycle,Adopted,In,2021-10-05,2021-12-27,In
+Placer,LINCOLN,6th Cycle,Adopted,In,2021-05-21,2021-08-12,In
+Placer,LOOMIS,6th Cycle,Adopted,In,2021-08-25,2021-11-19,In
+Placer,PLACER COUNTY,6th Cycle,Adopted,In,2025-06-12,2025-08-07,In
+Placer,ROCKLIN,6th Cycle,Adopted,In,2025-08-05,2025-09-26,In
+Placer,ROSEVILLE,6th Cycle,Adopted,In,2021-08-19,2021-11-17,In
+Plumas,PLUMAS COUNTY,7th Cycle,Subsequent Draft,In,2026-05-08,2026-07-08,Out
+Plumas,PORTOLA,7th Cycle,Adopted,In,2026-08-20,2026-08-26,In
+Riverside,BANNING,6th Cycle,Adopted,In,2024-07-16,2024-07-26,In
+Riverside,BEAUMONT,6th Cycle,Adopted,In,2022-10-18,2022-12-12,In
+Riverside,BLYTHE,6th Cycle,Adopted,In,2024-08-15,2024-08-29,In
+Riverside,CALIMESA,6th Cycle,Adopted,In,2024-08-27,2024-10-04,In
+Riverside,CANYON LAKE,6th Cycle,Adopted,In,2025-12-15,2025-12-31,In
+Riverside,CATHEDRAL,6th Cycle,Adopted,In,2023-07-10,2023-07-26,In
+Riverside,COACHELLA,6th Cycle,Adopted,In,2025-09-15,2025-09-16,In
+Riverside,CORONA,6th Cycle,Adopted,In,2022-10-04,2022-10-12,In
+Riverside,DESERT HOT SPRINGS,6th Cycle,Adopted,In,2025-11-14,2025-12-19,In
+Riverside,EASTVALE,6th Cycle,Adopted,In,2022-05-06,2022-06-21,In
+Riverside,HEMET,6th Cycle,Adopted,In,2024-04-30,2024-06-25,In
+Riverside,INDIAN WELLS,6th Cycle,Adopted,In,2024-06-24,2024-07-30,In
+Riverside,INDIO,6th Cycle,Adopted,In,2022-04-08,2022-04-20,In
+Riverside,JURUPA VALLEY,6th Cycle,Adopted,In,2022-02-22,2022-04-21,In
+Riverside,LA QUINTA,6th Cycle,Adopted,In,2024-02-28,2024-03-26,In
+Riverside,LAKE ELSINORE,6th Cycle,Adopted,In,2022-08-25,2022-10-24,In
+Riverside,MENIFEE,6th Cycle,Adopted,In,2023-03-10,2023-04-05,In
+Riverside,MORENO VALLEY,6th Cycle,Adopted,In,2022-08-15,2022-10-11,In
+Riverside,MURRIETA,6th Cycle,Adopted,In,2023-10-26,2023-12-22,In
+Riverside,NORCO,6th Cycle,Adopted,In,2022-10-10,2022-10-13,In
+Riverside,PALM DESERT,6th Cycle,Adopted,In,2022-10-12,2022-11-04,In
+Riverside,PALM SPRINGS,6th Cycle,Adopted,In,2023-11-30,2024-01-19,In
+Riverside,PERRIS,6th Cycle,Adopted,In,2022-08-03,2022-09-22,In
+Riverside,RANCHO MIRAGE,6th Cycle,Adopted,In,2022-07-28,2022-08-17,In
+Riverside,RIVERSIDE,6th Cycle,Adopted,In,2022-08-22,2022-09-26,In
+Riverside,RIVERSIDE COUNTY,6th Cycle,Adopted,In,2024-07-05,2024-07-31,In
+Riverside,SAN JACINTO,6th Cycle,Adopted,In,2023-11-08,2024-01-04,In
+Riverside,TEMECULA,6th Cycle,Adopted,In,2022-10-17,2022-12-15,In
+Riverside,WILDOMAR,6th Cycle,Adopted,In,2021-10-18,2022-01-10,In
+Sacramento,CITRUS HEIGHTS,6th Cycle,Adopted,In,2021-05-28,2021-08-18,In
+Sacramento,ELK GROVE,6th Cycle,Adopted,In,2021-12-13,2022-02-16,In
+Sacramento,FOLSOM,6th Cycle,Adopted,In,2021-08-27,2021-10-22,In
+Sacramento,GALT,6th Cycle,Adopted,In,2022-05-04,2022-05-12,In
+Sacramento,ISLETON,6th Cycle,Adopted,In,2022-10-06,2022-12-05,In
+Sacramento,RANCHO CORDOVA,6th Cycle,Adopted,In,2021-06-30,2021-09-27,In
+Sacramento,SACRAMENTO,6th Cycle,Adopted,In,2021-12-14,2021-12-22,In
+Sacramento,SACRAMENTO COUNTY,6th Cycle,Adopted,In,2026-03-02,2026-04-30,In
+San Benito,HOLLISTER,6th Cycle,Adopted,In,2026-05-08,2026-06-18,In
+San Benito,SAN BENITO COUNTY,6th Cycle,Adopted,In,2025-12-16,2026-02-03,In
+San Benito,SAN JUAN BAUTISTA,6th Cycle,Adopted,In,2026-01-26,2026-02-26,In
+San Bernardino,ADELANTO,6th Cycle,Adopted,In,2024-08-22,2024-10-18,In
+San Bernardino,APPLE VALLEY,6th Cycle,Adopted,In,2023-02-22,2023-02-24,In
+San Bernardino,BARSTOW,6th Cycle,Adopted,In,2024-11-13,2024-12-20,In
+San Bernardino,BIG BEAR LAKE,6th Cycle,Adopted,In,2022-09-23,2022-10-10,In
+San Bernardino,CHINO,6th Cycle,Adopted,In,2024-12-06,2024-12-26,In
+San Bernardino,CHINO HILLS,6th Cycle,Adopted,In,2022-08-17,2022-09-08,In
+San Bernardino,COLTON,6th Cycle,Adopted,In,2026-03-10,2026-05-07,In
+San Bernardino,FONTANA,6th Cycle,Adopted,In,2022-07-29,2022-08-09,In
+San Bernardino,GRAND TERRACE,6th Cycle,Adopted,In,2026-07-29,2026-09-01,In
+San Bernardino,HESPERIA,6th Cycle,Adopted,In,2025-11-06,2025-12-18,In
+San Bernardino,HIGHLAND,6th Cycle,Adopted,In,2023-06-23,2023-08-18,In
+San Bernardino,LOMA LINDA,6th Cycle,Adopted,In,2024-03-13,2024-05-10,In
+San Bernardino,MONTCLAIR,6th Cycle,Adopted,In,2026-04-22,2026-05-05,In
+San Bernardino,NEEDLES,6th Cycle,Adopted,In,2022-09-15,2022-09-30,In
+San Bernardino,ONTARIO,6th Cycle,Adopted,In,2026-07-31,2026-09-02,In
+San Bernardino,RANCHO CUCAMONGA,6th Cycle,Adopted,In,2022-07-19,2022-09-07,In
+San Bernardino,REDLANDS,6th Cycle,Adopted,In,2022-10-06,2022-10-07,In
+San Bernardino,RIALTO,6th Cycle,Adopted,In,2026-05-18,2026-06-23,In
+San Bernardino,SAN BERNARDINO,6th Cycle,Adopted,In,2024-06-17,2024-06-17,In
+San Bernardino,SAN BERNARDINO COUNTY,6th Cycle,Adopted,In,2022-09-29,2022-11-28,In
+San Bernardino,TWENTYNINE PALMS,6th Cycle,Adopted,In,2023-01-04,2023-02-27,In
+San Bernardino,UPLAND,6th Cycle,Adopted,In,2025-10-13,2025-12-11,In
+San Bernardino,VICTORVILLE,6th Cycle,Adopted,In,2022-01-20,2022-02-09,In
+San Bernardino,YUCAIPA,6th Cycle,Adopted,In,2022-10-06,2022-10-21,In
+San Bernardino,YUCCA VALLEY,6th Cycle,Adopted,In,2022-04-13,2022-06-10,In
+San Diego,CARLSBAD,6th Cycle,Adopted,In,2021-04-15,2021-07-13,In
+San Diego,CHULA VISTA,6th Cycle,Adopted,In,2022-08-29,2022-10-28,In
+San Diego,CORONADO,6th Cycle,Adopted,In,2024-08-21,2024-08-29,In
+San Diego,DEL MAR,6th Cycle,Adopted,In,2023-04-06,2023-05-31,In
+San Diego,EL CAJON,6th Cycle,Adopted,In,2022-10-13,2022-10-27,In
+San Diego,ENCINITAS,6th Cycle,Adopted,In,2021-04-14,2021-07-13,In
+San Diego,ESCONDIDO,6th Cycle,Adopted,In,2023-10-13,2023-12-12,In
+San Diego,IMPERIAL BEACH,6th Cycle,Adopted,In,2021-06-28,2021-09-20,In
+San Diego,LA MESA,6th Cycle,Adopted,In,2023-05-08,2023-07-06,In
+San Diego,LEMON GROVE,6th Cycle,Adopted,In,2024-06-20,2024-07-08,In
+San Diego,NATIONAL CITY,6th Cycle,Adopted,In,2021-08-13,2021-11-10,In
+San Diego,OCEANSIDE,6th Cycle,Adopted,In,2023-09-18,2023-11-14,In
+San Diego,POWAY,6th Cycle,Adopted,In,2024-04-05,2024-05-08,In
+San Diego,SAN DIEGO,6th Cycle,Adopted,In,2021-06-14,2021-09-10,In
+San Diego,SAN DIEGO COUNTY,6th Cycle,Adopted,In,2021-08-04,2021-11-02,In
+San Diego,SAN MARCOS,6th Cycle,Adopted,In,2021-08-03,2021-09-16,In
+San Diego,SANTEE,6th Cycle,Adopted,In,2022-10-27,2022-12-06,In
+San Diego,SOLANA BEACH,6th Cycle,Adopted,In,2023-05-15,2023-06-08,In
+San Diego,VISTA,6th Cycle,Adopted,In,2022-07-12,2022-09-07,In
+San Francisco,SAN FRANCISCO,6th Cycle,Adopted,In,2023-01-31,2023-02-01,In
+San Joaquin,ESCALON,6th Cycle,Adopted,In,2026-08-11,2026-09-03,In
+San Joaquin,LATHROP,6th Cycle,Adopted,In,2025-02-21,2025-04-22,In
+San Joaquin,LODI,6th Cycle,Adopted,In,2024-03-27,2024-04-11,In
+San Joaquin,MANTECA,6th Cycle,Adopted,In,2024-10-11,2024-11-06,In
+San Joaquin,RIPON,6th Cycle,Adopted,In,2025-06-11,2025-08-07,In
+San Joaquin,SAN JOAQUIN COUNTY,6th Cycle,Adopted,In,2026-07-13,2026-07-29,In
+San Joaquin,STOCKTON,6th Cycle,Adopted,In,2024-07-16,2024-09-09,In
+San Joaquin,TRACY,6th Cycle,Adopted,In,2026-08-11,2026-10-08,In
+San Luis Obispo,ARROYO GRANDE,6th Cycle,Adopted,In,2021-02-10,2021-05-05,In
+San Luis Obispo,ATASCADERO,6th Cycle,Adopted,In,2020-12-09,2021-01-12,In
+San Luis Obispo,GROVER BEACH,6th Cycle,Adopted,In,2020-12-02,2021-03-02,In
+San Luis Obispo,MORRO BAY,6th Cycle,Adopted,In,2020-09-02,2020-09-04,In
+San Luis Obispo,PASO ROBLES,6th Cycle,Adopted,In,2020-12-09,2021-03-09,In
+San Luis Obispo,PISMO BEACH,6th Cycle,Adopted,In,2020-11-23,2021-02-16,In
+San Luis Obispo,SAN LUIS OBISPO,6th Cycle,Adopted,In,2021-07-23,2021-09-03,In
+San Luis Obispo,SAN LUIS OBISPO COUNTY,6th Cycle,Adopted,In,2020-12-10,2021-03-10,In
+San Mateo,ATHERTON,6th Cycle,Adopted,In,2025-03-06,2025-05-05,In
+San Mateo,BELMONT,6th Cycle,Adopted,In,2024-09-11,2024-10-16,In
+San Mateo,BRISBANE,6th Cycle,Adopted,In,2023-05-19,2023-05-25,Enforcement Out
+San Mateo,BURLINGAME,6th Cycle,Adopted,In,2024-03-15,2024-03-20,In
+San Mateo,COLMA,6th Cycle,Adopted,In,2024-01-11,2024-03-11,In
+San Mateo,DALY CITY,6th Cycle,Adopted,In,2024-11-13,2024-12-03,In
+San Mateo,EAST PALO ALTO,6th Cycle,Adopted,In,2024-03-21,2024-04-29,In
+San Mateo,FOSTER CITY,6th Cycle,Adopted,In,2024-03-21,2024-04-18,In
+San Mateo,HALF MOON BAY,6th Cycle,Adopted,Out,2025-12-05,2026-02-02,Out
+San Mateo,HILLSBOROUGH,6th Cycle,Adopted,In,2024-02-01,2024-03-28,In
+San Mateo,MENLO PARK,6th Cycle,Adopted,In,2024-01-24,2024-03-20,In
+San Mateo,MILLBRAE,6th Cycle,Adopted,In,2024-02-28,2024-03-01,In
+San Mateo,PACIFICA,6th Cycle,Adopted,In,2025-09-02,2025-09-19,In
+San Mateo,PORTOLA VALLEY,6th Cycle,Subsequent Draft,In,2026-07-16,2026-09-14,In
+San Mateo,REDWOOD CITY,6th Cycle,Adopted,In,2023-02-22,2023-03-27,In
+San Mateo,SAN BRUNO,6th Cycle,Adopted,In,2024-09-25,2024-10-21,In
+San Mateo,SAN CARLOS,6th Cycle,Adopted,In,2024-04-19,2024-04-25,In
+San Mateo,SAN MATEO,6th Cycle,Adopted,In,2026-04-07,2026-06-01,In
+San Mateo,SAN MATEO COUNTY,6th Cycle,Adopted,In,2026-04-21,2026-05-18,In
+San Mateo,SOUTH SAN FRANCISCO,6th Cycle,Adopted,In,2023-10-27,2023-11-20,In
+San Mateo,WOODSIDE,6th Cycle,Adopted,In,2025-01-15,2025-01-29,In
+Santa Barbara,BUELLTON,6th Cycle,Adopted,In,2025-06-17,2025-07-08,In
+Santa Barbara,CARPINTERIA,6th Cycle,Adopted,In,2024-12-12,2025-01-30,In
+Santa Barbara,GOLETA,6th Cycle,Adopted,In,2023-12-07,2024-02-05,In
+Santa Barbara,GUADALUPE,6th Cycle,Adopted,In,2025-05-29,2025-06-30,In
+Santa Barbara,LOMPOC,6th Cycle,Adopted,In,2024-12-04,2025-01-07,In
+Santa Barbara,SANTA BARBARA,6th Cycle,Adopted,In,2023-12-21,2024-02-13,In
+Santa Barbara,SANTA BARBARA COUNTY,6th Cycle,Adopted,In,2023-12-08,2024-01-22,In
+Santa Barbara,SANTA MARIA,6th Cycle,Adopted,In,2023-12-12,2024-01-02,In
+Santa Barbara,SOLVANG,6th Cycle,Adopted,In,2023-12-14,2024-02-12,In
+Santa Clara,CAMPBELL,6th Cycle,Adopted,In,2023-04-26,2023-05-30,In
+Santa Clara,CUPERTINO,6th Cycle,Adopted,In,2024-07-12,2024-09-04,In
+Santa Clara,GILROY,6th Cycle,Adopted,In,2023-08-09,2023-08-21,In
+Santa Clara,LOS ALTOS,6th Cycle,Adopted,In,2023-08-18,2023-09-05,In
+Santa Clara,LOS ALTOS HILLS,6th Cycle,Adopted,In,2025-12-12,2026-02-10,In
+Santa Clara,LOS GATOS,6th Cycle,Adopted,In,2024-06-06,2024-07-10,In
+Santa Clara,MILPITAS,6th Cycle,Adopted,In,2023-05-16,2023-05-17,In
+Santa Clara,MONTE SERENO,6th Cycle,Adopted,In,2024-05-13,2024-07-05,In
+Santa Clara,MORGAN HILL,6th Cycle,Adopted,In,2023-10-05,2023-11-29,In
+Santa Clara,MOUNTAIN VIEW,6th Cycle,Adopted,In,2023-04-26,2023-05-26,In
+Santa Clara,PALO ALTO,6th Cycle,Adopted,In,2024-07-26,2024-08-20,In
+Santa Clara,SAN JOSE,6th Cycle,Adopted,In,2023-11-30,2024-01-29,In
+Santa Clara,SANTA CLARA,6th Cycle,Adopted,In,2025-12-19,2026-02-10,In
+Santa Clara,SANTA CLARA COUNTY,6th Cycle,Adopted,In,2025-01-29,2025-02-05,In
+Santa Clara,SARATOGA,6th Cycle,Adopted,In,2024-07-05,2024-07-08,In
+Santa Clara,SUNNYVALE,6th Cycle,Adopted,In,2024-02-29,2024-03-06,In
+Santa Cruz,CAPITOLA,6th Cycle,Adopted,In,2024-08-27,2024-08-30,In
+Santa Cruz,SANTA CRUZ,6th Cycle,Adopted,In,2023-12-15,2023-12-20,In
+Santa Cruz,SANTA CRUZ COUNTY,6th Cycle,Adopted,In,2024-02-23,2024-04-12,In
+Santa Cruz,SCOTTS VALLEY,6th Cycle,Adopted,In,2024-02-02,2024-04-02,In
+Santa Cruz,WATSONVILLE,6th Cycle,Adopted,In,2024-10-16,2024-10-28,In
+Shasta,ANDERSON,6th Cycle,Adopted,In,2020-07-24,2020-08-04,In
+Shasta,REDDING,6th Cycle,Adopted,In,2020-06-16,2020-06-19,In
+Shasta,SHASTA COUNTY,6th Cycle,Adopted,In,2020-08-10,2020-08-14,In
+Shasta,SHASTA LAKE,6th Cycle,Adopted,In,2020-08-12,2020-09-11,In
+Sierra,LOYALTON,7th Cycle,Adopted,In,2025-02-20,2025-03-21,In
+Sierra,SIERRA COUNTY,7th Cycle,Adopted,In,2025-03-10,2025-03-17,In
+Siskiyou,DORRIS,6th Cycle,Adopted,In,2024-04-16,2024-06-12,In
+Siskiyou,DUNSMUIR,6th Cycle,Adopted,In,2024-04-26,2024-06-21,In
+Siskiyou,ETNA,6th Cycle,Adopted,In,2024-04-03,2024-05-31,In
+Siskiyou,FORT JONES,6th Cycle,Adopted,In,2024-10-23,2024-11-13,In
+Siskiyou,MONTAGUE,6th Cycle,Adopted,In,2024-04-23,2024-06-17,In
+Siskiyou,MOUNT SHASTA,6th Cycle,Adopted,In,2024-08-20,2024-10-10,In
+Siskiyou,SISKIYOU COUNTY,6th Cycle,Adopted,In,2024-12-23,2024-01-08,In
+Siskiyou,TULELAKE,6th Cycle,Adopted,In,2024-04-11,2024-06-07,In
+Siskiyou,WEED,6th Cycle,Adopted,In,2024-10-16,2024-10-30,In
+Siskiyou,YREKA,6th Cycle,Adopted,In,2023-07-03,2023-09-01,In
+Solano,BENICIA,6th Cycle,Adopted,In,2024-03-05,2024-04-04,In
+Solano,DIXON,6th Cycle,Adopted,In,2023-03-27,2023-05-24,In
+Solano,FAIRFIELD,6th Cycle,Adopted,In,2023-02-09,2023-04-10,In
+Solano,RIO VISTA,6th Cycle,Adopted,In,2023-07-31,2023-09-01,In
+Solano,SOLANO COUNTY,6th Cycle,Adopted,In,2024-02-09,2024-04-09,In
+Solano,SUISUN CITY,6th Cycle,Adopted,In,2023-03-24,2023-05-23,In
+Solano,VACAVILLE,6th Cycle,Adopted,In,2023-07-28,2023-09-18,In
+Solano,VALLEJO,6th Cycle,Adopted,In,2024-12-31,2024-12-31,In
+Sonoma,CLOVERDALE,6th Cycle,Adopted,In,2023-07-31,2023-09-26,In
+Sonoma,COTATI,6th Cycle,Adopted,In,2023-04-03,2023-06-02,In
+Sonoma,HEALDSBURG,6th Cycle,Adopted,In,2023-05-02,2023-06-29,In
+Sonoma,PETALUMA,6th Cycle,Adopted,In,2023-03-22,2023-05-18,In
+Sonoma,ROHNERT PARK,6th Cycle,Adopted,In,2023-01-26,2023-03-20,In
+Sonoma,SANTA ROSA,6th Cycle,Subsequent Draft,In Review,2026-08-28,,In
+Sonoma,SEBASTOPOL,6th Cycle,Adopted,In,2023-01-09,2023-03-07,In
+Sonoma,SONOMA,6th Cycle,Adopted,In,2023-02-14,2023-04-13,In
+Sonoma,SONOMA COUNTY,6th Cycle,Adopted,In,2023-08-30,2023-10-26,In
+Sonoma,WINDSOR,6th Cycle,Adopted,In,2023-08-18,2023-08-31,In
+Stanislaus,CERES,6th Cycle,Adopted,In,2025-03-26,2025-05-22,In
+Stanislaus,HUGHSON,6th Cycle,Adopted,In Review,2026-08-26,,Out
+Stanislaus,MODESTO,6th Cycle,Adopted,In,2024-02-23,2024-04-10,In
+Stanislaus,NEWMAN,6th Cycle,Adopted,In,2024-11-04,2024-11-05,In
+Stanislaus,OAKDALE,6th Cycle,Adopted,In Review,2026-09-14,,
+Stanislaus,PATTERSON,6th Cycle,Adopted,In,2026-06-02,2026-07-30,In
+Stanislaus,RIVERBANK,6th Cycle,Adopted,In,2026-06-30,2026-08-14,In
+Stanislaus,STANISLAUS COUNTY,6th Cycle,Adopted,In,2025-12-10,2025-12-30,In
+Stanislaus,TURLOCK,6th Cycle,Adopted,In Review,2026-08-27,,Out
+Stanislaus,WATERFORD,6th Cycle,Adopted,In,2026-03-06,2026-04-30,In
+Sutter,LIVE OAK,6th Cycle,Adopted,In,2026-06-05,2026-06-09,In
+Sutter,SUTTER COUNTY,6th Cycle,Adopted,In,2021-08-16,2021-11-09,In
+Sutter,YUBA CITY,6th Cycle,Adopted,In,2026-05-13,2026-07-07,In
+Tehama,CORNING,7th Cycle,Adopted,In,2025-02-14,2025-03-04,In
+Tehama,RED BLUFF,7th Cycle,Adopted,In,2025-04-22,2025-06-04,In
+Tehama,TEHAMA,7th Cycle,Adopted,In,2024-12-11,2024-12-12,In
+Tehama,TEHAMA COUNTY,7th Cycle,Adopted,In,2026-01-20,2026-03-19,In
+Trinity,TRINITY COUNTY,7th Cycle,Adopted,In,2025-08-11,2025-08-27,In
+Tulare,DINUBA,6th Cycle,Adopted,In,2026-02-02,2026-03-05,In
+Tulare,EXETER,6th Cycle,Adopted,In,2026-08-18,2026-10-08,In
+Tulare,FARMERSVILLE,6th Cycle,Adopted,In,2026-02-11,2026-02-12,In
+Tulare,LINDSAY,6th Cycle,Adopted,In,2025-12-26,2026-01-16,In
+Tulare,PORTERVILLE,6th Cycle,Adopted,In,2026-01-26,2026-02-09,In
+Tulare,TULARE,6th Cycle,Adopted,Out,2026-06-04,2026-08-03,Out
+Tulare,TULARE COUNTY,6th Cycle,Adopted,In,2025-01-29,2025-02-04,In
+Tulare,VISALIA,6th Cycle,Adopted,In,2025-03-03,2025-05-02,In
+Tulare,WOODLAKE,6th Cycle,Adopted,In,2025-06-27,2025-07-07,In
+Tuolumne,SONORA,7th Cycle,Adopted,In,2026-03-19,2026-04-06,In
+Tuolumne,TUOLUMNE COUNTY,7th Cycle,Adopted,In,2024-07-29,2024-07-30,In
+Ventura,CAMARILLO,6th Cycle,Adopted,In,2023-03-23,2023-04-14,In
+Ventura,FILLMORE,6th Cycle,Adopted,In,2025-10-02,2025-10-21,In
+Ventura,MOORPARK,6th Cycle,Adopted,In,2023-02-22,2023-04-20,In
+Ventura,OJAI,6th Cycle,Adopted,In,2023-08-01,2023-08-10,In
+Ventura,OXNARD,6th Cycle,Adopted,In,2022-10-05,2022-10-25,In
+Ventura,PORT HUENEME,6th Cycle,Adopted,In,2022-08-15,2022-10-05,In
+Ventura,SANTA PAULA,6th Cycle,Adopted,In,2023-12-22,2024-02-12,In
+Ventura,SIMI VALLEY,6th Cycle,Adopted,In,2023-03-23,2023-05-18,In
+Ventura,THOUSAND OAKS,6th Cycle,Adopted,In,2024-04-04,2024-05-29,In
+Ventura,VENTURA,6th Cycle,Adopted,In,2023-08-16,2023-10-09,In
+Ventura,VENTURA COUNTY,6th Cycle,Adopted,In,2021-10-15,2021-12-22,In
+Yolo,DAVIS,6th Cycle,Adopted,In,2023-12-14,2024-02-08,In
+Yolo,WEST SACRAMENTO,6th Cycle,Adopted,In,2021-11-30,2022-02-16,In
+Yolo,WINTERS,6th Cycle,Adopted,In,2022-03-29,2022-05-11,In
+Yolo,WOODLAND,6th Cycle,Adopted,In,2023-04-03,2023-04-28,In
+Yolo,YOLO COUNTY,6th Cycle,Adopted,In,2021-09-24,2021-12-21,In
+Yuba,MARYSVILLE,6th Cycle,Adopted,In,2021-12-10,2022-02-02,In
+Yuba,WHEATLAND,6th Cycle,Adopted,In,2024-04-30,2024-05-02,In
+Yuba,YUBA COUNTY,6th Cycle,Adopted,In,2021-09-14,2021-12-10,In

@@ -1,0 +1,565 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 29, 2022
+
+
+         Kristie Wheeler, Assistant Director
+         Community Development Department
+         City of Dublin
+         100 Civic Plaza
+         Dublin, CA 94568
+
+         Dear Kristie Wheeler:
+
+         RE: City of Dublin’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Dublin’s (City) draft housing element received for
+         review on May 31, 2022, along with revisions received on July 25, 2022 and
+         August 15, 2022. Pursuant to Government Code section 65585, subdivision (b), the
+         California Department of Housing and Community Development (HCD) is reporting the
+         results of its review. Our review was facilitated by a conversation on July 7, 2022 with
+         Michael Cass, Principal Planner and consultants Bill Wiseman and Ines Galmiche. In
+         addition, HCD considered comments from Tom Evans, South Bay YIMBY, and
+         Building Industry Association of the Bay Area (BIA) pursuant to Government Code
+         section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Please be aware, if the
+         City fails to adopt a compliant housing element within one year from the statutory
+         deadline, the element cannot be found in substantial compliance until rezones to
+         accommodate a shortfall of sites are completed.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+Kristie Wheeler, Assistant Director
+Page 2
+
+
+
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and dedication the housing element team provided
+during the review. We are committed to assisting the City in addressing all statutory
+requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact Jose Ayala, of our staff, at
+Jose.Ayala@hcd.ca.gov.
+
+Sincerely,
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                         APPENDIX
+                                      CITY OF DUBLIN
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Enforcement and Outreach: The element includes a general statement that the City
+      complies with State and local fair housing laws; however, it should provide discussion to
+      support this statement such as listing some state and federal housing laws and
+      describing how the City complies with these laws. For more information on fair housing
+      laws, please see HCD’s guidance (p. 28) at https://www.hcd.ca.gov/affirmatively-
+      furthering-fair-housing.
+
+      Integration and Segregation: While the element adds additional information and data, it
+      must analyze this data for trends over time, patterns across census tracts, and
+      coincidence with other components of the assessment of fair housing. Additionally, the
+      element must evaluate patterns on a regional basis, comparing the City within the Tri-
+      Valley subregion and Alameda County or bay area region as a whole. This analysis
+      should particularly emphasize disparities in income compared to the region and include
+      appropriate programmatic responses to encourage housing mobility and promote new
+      affordable housing opportunities, regardless of the regional housing need allocation
+      (RHNA).
+
+      Racially Concentrated Areas of Affluence (RCAA): While the element adds information
+      for HCD’s AFFH Data Viewer, the element must also include an analysis regarding the
+      presence of a RCAA in the jurisdiction. The analysis should evaluate the patterns and
+      changes over time at a local (e.g., neighborhood to neighborhood) and regional level
+      (e.g., City to Tri-Valley and City to County).
+
+      Disproportionate Housing Need: While the element adds data regarding homelessness
+      counts over the past five years, it should include meaningful analysis from this data,
+      including disproportionate impacts on protected characteristics (e.g., race, family,
+
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                 Page 1
+August 29, 2022
+      disability), patterns of need and access to opportunities, including services, and
+      transportation.
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element includes
+      some discussion of the number of sites by concentrations of socio-economic
+      characteristics. However, this approach to whether identified sites affirmatively further
+      fair housing does not account for where the sites are located. The analysis should
+      address the number of units by all income groups, and location (e.g., neighborhood,
+      planning area, census tract), discuss any isolation of the RHNA by income group and
+      evaluate the magnitude of the impact on existing concentrations of socio-economic
+      characteristics by area. The analysis should be supported by local data and knowledge
+      and other relevant factors and address overlapping fair housing issues with other
+      components of the assessment of fair housing (e.g., segregation and integration,
+      concentrated areas of poverty, disparities in access to opportunity).
+
+      Local Data and Knowledge: The element includes some code enforcement data and
+      public outreach, but generally does not meet this requirement. The element must
+      incorporate public outreach into the evaluation of fair housing. For example, the element
+      includes public comment about how the City needs more affordable housing and then
+      another public comment to not build apartments. These comments could be
+      incorporated into the discussion of segregation and integration, explaining a high need
+      for housing choices but then opposition to address that could contribute to the
+      disparities of incomes when comparing the City to the broader region. Further, the City
+      could utilize other sources of local data and knowledge to supplement the data and
+      mapping including planning documents such as locally adopted ordinances, other
+      elements of the general plan, infrastructure assessments, and mobility assessments to
+      fully describe the impacts on fair housing patterns and trends.
+
+      Other Relevant Factors: While the element adds general information regarding redlining
+      and anti-displacement policies, the element should complement federal, state, and
+      regional data with other relevant factors. Other relevant factors include describing
+      historical zoning and land use practices, the presence of any CC&Rs (or lack thereof),
+      Camp Parks, and local, state, federal investments in Dublin, such as any community
+      improvement plans, Bay Area Rapid Transit (BART), and the expansion of Dublin east
+      of Dougherty Blvd to fully analyze factors related to fair housing issues in the City. This
+      analysis should discuss how other relevant factors affect the patterns and disparities in
+      access to opportunities in the City and region.
+
+      Contributing Factors: The element mentions fair housing issues and goals and priorities
+      from the analysis on fair housing. However, these issues and goals do not appear
+      adequate to facilitate the formulation of significant and meaningful action to AFFH. The
+      element should re-assess and prioritize contributing factors upon completion of analysis
+      and make revisions as appropriate.
+
+      Goals, Actions, Metrics, and Milestones: The element must be revised to add or modify
+      goals and actions based on the outcomes of a complete analysis. Goals and actions
+      must specifically respond to the analysis and to the identified and prioritized contributing
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                   Page 2
+August 29, 2022
+      factors to fair housing issues and must be significant and meaningful enough to
+      overcome identified patterns and trends. Actions must have specific commitments,
+      milestones, geographic targeting, and metrics and given that most of the City is
+      considered a higher-income community, the element should focus on programs that
+      enhance housing mobility and encourage the development of more affordable housing
+      choices in an inclusive manner.
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Realistic Capacity: The element does not meet this requirement. Currently, the element
+      (pp. D-9 and D-10) state the City calculated unit capacity on sites, there is no supportive
+      information to justify buildout assumptions. While the element provides assumptions of
+      buildout for sites included in the inventory, it must also describe the specific trends,
+      factors, and other evidence that led to the assumptions. For some sites, the City
+      appears to list the maximum density allowed in a zone multiplied by the size of the
+      parcel. The estimate of the number of units for each site must be adjusted as
+      necessary, based on the land use controls and site improvements, typical densities of
+      existing or approved residential developments at a similar affordability level in that
+      jurisdiction, and the current or planned availability and accessibility of sufficient water.
+
+      In addition, the element must account for the likelihood of 100 percent nonresidential
+      uses in zones that allow 100 percent nonresidential uses or are designed for
+      nonresidential uses. The analysis should discuss what zones allow 100 percent
+      nonresidential uses, the presence or absence of any performance standards requiring
+      residential uses, recent trends of all development in these zones, how often 100 percent
+      nonresidential uses occurs, and account for that likelihood in the calculation of
+      residential capacity.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. The analysis shall consider factors
+      including the extent to which existing uses may constitute an impediment to additional
+      residential development, the city’s or county’s past experience with converting existing
+      uses to higher density residential development, the current market demand for the
+      existing use, an analysis of any existing leases or other contracts that would perpetuate
+      the existing use or prevent redevelopment of the site for additional residential
+      development, development trends, market conditions, and regulatory or other incentives
+      or standards to encourage additional residential development on these sites. For
+      example, Sites 18-20 are identified with existing big box store and parking lot uses, but
+      no analysis was provided to demonstrate whether these existing uses would impede
+      residential development of these sites. Additionally, Sites 23 and 25 have existing
+      residential uses on the site. The description of existing uses should be sufficiently
+      detailed to facilitate an analysis demonstrating the potential for residential development
+      within the planning period. The element can summarize past experiences converting
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                    Page 3
+August 29, 2022
+      existing uses to higher density residential development, include current market demand
+      for the existing use, provide analysis of existing leases or contracts that would
+      perpetuate the existing use or prevent additional residential development and include
+      current information on development trends and market conditions in the City and relate
+      those trends to the sites identified. The element could also consider indicators such as
+      age and condition of the existing structure expressed developer interest, low
+      improvement to land value ratio, and other factors.
+
+      Accessory Dwelling Units (ADU): The element projects 248 ADUs over the planning
+      period which well exceeds recent production (15 units per year). While the element
+      includes Program B-7 (ADUs) with a few actions to promote ADUs, the element should
+      reduce the number of ADUs assumed per year (e.g., 20 units per year) and utilize more
+      recent information on permitted units to support realistic assumptions.
+
+      Large Sites: While the element states large sites will only use ten acres of buildable
+      acreage to accommodate lower-income RHNA, it must still provide analysis regarding
+      the development of housing for lower-income households on large sites where the
+      acreage exceeds ten acres. For example, the element should describe how
+      development will work on site, including opportunities and timing for specific-plan
+      development, further subdivision, parceling, site planning or other methods to facilitate
+      appropriately sized sizes and encourage the development of housing affordable to
+      lower-income households on the identified site within the planning period. Absent
+      sufficient evidence that sites of equivalent size with affordability were successfully
+      developed during the planning prior planning period or other evidence that
+      demonstrates the suitability of these sites, the large sites are deemed inadequate to
+      accommodate housing for lower-income households. Based on the outcomes of this
+      analysis, the element should add or modify programs.
+
+      Publicly-Owned Sites: Pursuant to Government Code section 65583, subdivision (c)(1),
+      rezones to accommodate a shortfall must occur within three years of adoption of the
+      housing element. While Program C.1 (Sites Inventory and RHNA Monitoring) states
+      rezoning strategies will occur within three years of the January 31, 2023 submittal
+      deadline, Program B.16 (Publicly-Owned Lands) states has a timeframe of three to five
+      years. Program B.16 should include a specific commitment to facilitate development on
+      these sites in the planning period. For example, instead of stating the City will
+      coordinate with the Alameda County Surplus Property Authority within three to five
+      years, the element should include the actual schedule and the actual actions with timing
+      necessary to allow development in the planning period, including any known
+      impediments to development (e.g., leasing, surplusing). In addition, Program C.1 or
+      B.16 should include actions to facilitate development such as zoning, outreach with
+      developers, incentives, fee waivers, priority processing, and financial assistance.
+      Therefore, the City must amend Program B.16 to address the timing inconsistency and
+      include the relevant development actions described herein, or identify additional sites to
+      ensure available sites for the planning period.
+
+      Environmental Constraints: While the element generally concludes that identified sites
+      are not environmentally constrained, it should also discuss whether there are any other
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                  Page 4
+August 29, 2022
+      known conditions precluding development on identified sites (e.g., irregular shapes,
+      leases, contamination, title conditions, lawsuits) and add or modify programs as
+      appropriate.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+      assistance.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: The element includes a discussion of capacity and a
+              program to modify parking requirements but it should also list all development
+              standards and evaluate compliance with state requirements, including any
+              constraints on the development of emergency shelters.
+          •   Transitional and Supportive Housing: Transitional and supportive housing must
+              be permitted as a residential use in all zones allowing residential uses and only
+              subject to those restrictions that apply to other residential dwellings of the same
+              type in the same zone. (Gov. Code, § 65583, subd. (a)(5).) The element must
+              demonstrate compliance with these requirements or add or revise programs that
+              comply with the statutory requirements.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583,
+      subd. (a)(5).)
+
+      Land Use Controls: While the element describes development standards and some land
+      use controls, it must also analyze those land use controls for impacts on housing supply
+      (number of units), costs, financial feasibility, timing, approval certainty and ability to
+      achieve maximum densities without exceptions (e.g., conditional use permits, variance,
+      planned development).
+
+      In addition, the element concludes parking requirements are not an impediment to
+      development; however, no analysis or supporting information was provided. The
+      element should address parking requirements for multifamily development, particularly
+      the covered or garaged parking requirement plus guest parking space for smaller
+      bedroom types for impacts on cost, supply, housing choice, and financial feasibility and
+      include programs to address identified constraints.
+
+
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                    Page 5
+August 29, 2022
+      Processing and Permit Procedures: While the element now describes that most
+      residential development requires a site development review and lists the approval body
+      and required findings, it must also analyze the impacts on housing supply, cost, timing
+      and approval certainty. For example, the element notes site development reviews are
+      subject to planning commission approval but should also discuss the typical number of
+      hearings and whether projects often are subject to subsequent submittal. Also, some
+      listed approval findings appear subjective and should be evaluated for impact approval
+      certainty, costs and timing.
+
+      In addition, the element generally describes a Planned Development (PD) Zoning
+      District Ordinance process but must analyze this process for impacts on supply, cost,
+      financial feasibility, timing and approval certainty. For example, the analysis should
+      clearly state whether the Planned Development process is mandatory or optional,
+      whether the burden of establishing zoning and development standards typically rests
+      with the City or developers, particularly on identified sites, impacts of the PD Zoning
+      Ordinance’s process to obtain a Stage 2 Development Plan, the potential for projects to
+      be subject to a referendum under the Ordinance, any additional legislative approvals
+      and any other requirements or mechanisms that may act as a constraint. For your
+      information, a zone that lacks fixed development standards is not zoning and is
+      considered a constraint on development and may not be utilized toward the RHNA
+      unless a program is added to establish zoning and development standards pursuant to
+      Government Code section 65583 (c)(1). In addition, the element must also describe the
+      Ordinance’s compliance with state housing laws, including, but not limited to, SB 330’s
+      five-hearing limit, time limits associated with the Permit Streamlining Act, and any
+      additional constraints that might only be resolved through litigation under the Housing
+      Accountability Act, creating an additional constraint on residential development. The
+      element must add or modify programs to address this constraint on development.
+
+      Inclusionary Housing: While the element describes the City’s inclusionary requirements,
+      it should also describe how the City’s inclusionary requirements work with other state
+      housing laws, such as State Density Bonus Law.
+
+      Constraints on Housing for Persons with Disabilities: The element must evaluate
+      constraints on housing for persons with disabilities, as follows:
+
+          •   Reasonable Accommodation: The element indicates a reasonable
+              accommodation is subject to a zoning clearance and must meet various
+              development standards like design compatibility, setbacks and lot coverage. The
+              element further describes no requests have occurred in recent years and
+              applicants may utilize the planned development process – a highly complicated
+              and costly discretionary process that takes a year. First, the lack of requests is
+              not an indicator that the current process works and is more an indicator the
+              process acts as a constraint. Second, a reasonable accommodation is intended
+              as an exception process to zoning, development standards and any other land
+              use controls to provide access to housing for persons with disabilities. Contrarily,
+              the City requires requests for exceptions to meet development standards. This
+
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                    Page 6
+August 29, 2022
+              process is a clear constraint on housing for persons with disabilities and the
+              element must add or modify programs to establish an appropriate process.
+          •   Definition of Family: The element defines a family as “one or more persons
+              occupying a dwelling and living as a single, nonprofit housekeeping unit,
+              including any servants”. The element distinguished this definition from a group
+              occupying a boarding house, community care facility, supportive or transitional
+              housing when configured as group housing, hotel or motel, club, fraternity, or
+              sorority house. These housing types should not be excluded from residential
+              zones, most notably low-density zones, which can constrain the availability of
+              housing choices for persons with disabilities. The element should analyze the
+              definition of family and exclusion of several housing types as a potential
+              constraint for persons with disabilities and add or modify programs as
+              appropriate.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …the length
+      of time between receiving approval for a housing development and submittal of an
+      application for building permits for that housing development that hinder the
+      construction of a locality’s share of the regional housing need in accordance with
+      Government Code section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Approval Times: The element mentions requirements to analyze the length of time
+      between application approval and building permits and then concludes projects are
+      constructed in a reasonable time. However, to better inform the analysis and policies
+      and programs, the element must identify the actual length of time between receiving
+      approval for housing development and submittal of application for building permits and
+      discuss any hindrances on construction.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, programs must be revised with discrete timelines (e.g., month and year),
+      including for Program A.4 (Condominium Conversion Ordinance), Program A.5
+      (Preserve and Monitor Affordable Units At-Risk of Converting to Market Rate), Program
+      B.4 (Inclusionary Zoning), Program B.5 (Commercial Linkage Fee), Program B.7
+      (Accessory Dwelling Units and Junior Accessory Dwelling Units), Program B.9 (Non-
+      Vacant Adequate Sites to Satisfy By-Right Requirements of AB 1397), Program B.11
+      (Transitional and Supportive Housing), Program B.12 (Single-Room Occupancy),
+      Program B.15 (Replacement Housing), Program B.16 (Publicly-Owned Lands), Program
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                  Page 7
+August 29, 2022
+      B.17 (Community Care Facilities), Program C.2 (Safety Element and Environmental
+      Justice Policies), Program D.3 (Emergency Shelters), Program D.4 (Monitoring of
+      Development Fees), Program E.1 (Affirmatively Further Fair Housing), Program E.2
+      (Equal Housing Opportunity), Program E.4 (Low-Barrier Navigation Centers), Program
+      E.5 (Housing for Persons with Developmental Disabilities), Program E.6 (Farmworker
+      and Employee Housing), and Program E.7 (First-Time Homebuyer Loan Program).
+
+      Additionally, all programs should be evaluated to ensure meaningful and specific
+      actions, objectives, and commitments. Programs containing unclear language (e.g.,
+      “consider”; etc.) should be amended to include specific and measurable actions. These
+      programs include Program B.12 (Single-Room Occupancy).
+
+      In addition, many program actions involve a review of existing standards, procedures,
+      and practices, and additional actions “as necessary” or “if needed”. However, the
+      programs should list the specific trigger for additional action, such as the amount of
+      code enforcement cases in Program A.3 (Code Enforcement) or the pace of
+      condominium conversions for Program A.4 (Condominium Conversion Ordinance). The
+      element should review all programs with such language, and describe what action, or
+      lack thereof, would trigger additional program changes.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09... (Gov. Code,
+      § 65583, subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City must add or revise programs to
+      address a shortfall of sites or zoning available to encourage a variety of housing types.
+      In addition, the element must be revised as follows:
+
+      Adequate Sites: The element describes a shortfall of sites (p. D-15) and indicates
+      rezoning will occur to accommodate the RHNA. While the element includes Program
+      C.1 (Sites Inventory and RHNA Monitoring), it must specifically commit to acreage,
+      allowable densities and anticipated units. In addition, if necessary, to accommodate the
+      housing needs of lower-income households, programs should specifically commit to
+      rezoning pursuant to Government Code section 65583.2, subdivisions (h) and (i).
+
+      Publicly-Owned Sites: As previously described, Program B.16 must be revised to
+      ensure sites on publicly-owned land are made available within three years of the
+      beginning of the planning period. This program should commit to a schedule of actions
+      for development, such as coordinating with developers, making zoning available,
+      issuing requests for proposals, facilitating subsequent entitlement and issue permits.
+
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                   Page 8
+August 29, 2022
+      The program should also include a numeric objective consistent with the assumptions in
+      the sites inventory.
+
+      Large Sites: The element must add a program to facilitate the development of lower-
+      income housing on sites with an acreage of more than ten acres. This program should
+      include a schedule of actions to facilitate parceling and zoning consistent with site
+      inventory assumptions on appropriately sized sites (e.g., 1 to 10 acres).
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A3 and A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      In addition, Program B.17 (Community Care Facilities) should commit to amend zoning
+      to allow these uses in all zones allowing residential uses.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd.
+      (c)(6).)
+
+      Program A.5 (Preserve and Monitor Affordable Units At-Risk of Converting to Market
+      Rate) should be revised to commit to proactively seeking funding for units at-risk of
+      converting to market rate uses.
+
+
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                                       Page 9
+August 29, 2022
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element describes the public input received through the community outreach
+   process, it generally describes why changes are not needed instead of responding with
+   revisions. The City should re-consider public comments and make changes to the element.
+
+
+
+
+City of Dublin’s 6th Cycle Draft Housing Element                            Page 10
+August 29, 2022

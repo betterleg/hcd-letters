@@ -1,0 +1,14 @@
+{
+  "county": "Sacramento",
+  "jurisdiction": "Citrus Heights",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-03-12",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sacCitrusHeightsDraft031221.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sacCitrusHeightsDraft031221.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 219066,
+  "text_chars": 12949,
+  "text_empty": false
+}

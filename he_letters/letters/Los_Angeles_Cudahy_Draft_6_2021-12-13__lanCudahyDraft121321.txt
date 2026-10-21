@@ -1,0 +1,525 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 13, 2021
+
+
+         Salvador Lopez, Planning Manager
+         Department of Community Development and Planning
+         City of Cudahy
+         5220 Santa Ana Street
+         Cudahy, CA 90201
+
+         Dear Salvador Lopez:
+
+         RE: City of Cudahy 6th Cycle (2021-2029) Draft Housing Element Update
+
+         Thank you for submitting the City of Cudahy’s draft housing element received for review on
+         October 15, 2021. Pursuant to Government Code section 65585, subdivision (b), the
+         California Department of Housing and Community Development (HCD) is reporting the
+         results of its review. Our review was facilitated by a conversation on December 7, 2021 with
+         you and Gabriel Elliot, Consultant Project Manager.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). The
+         enclosed Appendix describes revisions needed to comply with State Housing Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a
+         local government fails to adopt a compliant housing element within 120 days of this statutory
+         deadline, then any rezoning to accommodate the regional housing needs allocation (RHNA),
+         including for lower-income households, shall be completed no later than one year from the
+         statutory deadline. Otherwise, the local government’s housing element will no longer comply
+         with State Housing Element Law, and HCD may revoke its finding of substantial compliance
+         pursuant to Government Code section 65585, subdivision (i).
+
+         Several federal, state, and regional funding programs consider housing element compliance
+         as an eligibility or ranking criteria. For example, the CalTrans Senate Bill (SB) 1 Sustainable
+         Communities Grant; the Strategic Growth Council and HCD’s Affordable Housing and
+         Sustainable Communities programs; and HCD’s Permanent Local Housing Allocation
+Salvador Lopez, Planning Manager
+Page 2
+
+
+
+consider housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the City will meet
+housing element requirements for these and other funding sources.
+
+For your information, some general plan element updates are triggered by housing element
+adoption. HCD reminds the City to consider timing provisions and welcomes the opportunity
+to provide assistance. For information, please see the Technical Advisories issued by the
+Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates the dedication the housing element team provided during the update. We
+are committed to assisting the City in addressing all statutory requirements of State Housing
+Element Law. If you have any questions or need additional technical assistance, please
+contact Dulce Ochoa, of our staff, at dulce.ochoa@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                           APPENDIX
+                                        CITY OF CUDAHY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   The element must provide an evaluation of the cumulative effectiveness of past goals,
+   policies, and related actions in meeting the housing needs of special needs populations (e.g.,
+   elderly, persons with disabilities, large households, female-headed households, farmworkers,
+   and persons experiencing homelessness) and revise programs as appropriate.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      The element provides various maps and analysis, particularly related to fair housing
+      enforcement and segregation and integration. However, the element generally does not
+      address this requirement. The element, among other things, must include outreach, an
+      assessment of fair housing, analysis of the sites inventory, identification, and prioritization
+      of contributing factors to fair housing issues and goals and actions sufficient to overcome
+      patterns of segregation and foster inclusive communities free from barriers that restrict
+      access to opportunity. For further guidance, please visit HCD’s AFFH in California
+      webpage at https://www.hcd.ca.gov/community-development/affh/index.shtml. In addition,
+      HCD will provide additional guidance and samples to assist the City in meeting these
+      requirements.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+
+City of Cudahy 6th Cycle Draft Housing Element Update                               Page 1
+December 13, 2021
+      Extremely Low-Income (ELI) Households: The element notes the City assumes 50 percent
+      of its very low income regional housing needs allocation (RHNA) (116 units) as the
+      projected housing need for ELI households or 80 units. However, the City’s very low
+      income RHNA is 80 units, and this figure could be updated and corrected as a projected
+      need for 40 ELI households.
+
+   3. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Housing Conditions: The element mentions a February 2013 housing condition survey and
+      that conditions generally have not changed significantly and then utilizes the American
+      Community Survey (ACS) data to determine substandard housing which significantly
+      under-represents substandard housing conditions. Instead of ACS data, the element
+      should include an estimate for the number of units in need of rehabilitation and
+      replacement. The element could utilize numbers or proportions from the past housing
+      conditions survey or other data from sources such as the code enforcement agency or
+      information from knowledgeable organizations.
+
+   4. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Parcel Listing: The parcel listing should describe the existing use for each parcel,
+      particularly for nonvacant sites. The description should be sufficiently detailed to facilitate
+      an analysis that the use will likely discontinue in the planning period.
+
+      Realistic Capacity: The element assumes 60 percent of maximum allowable densities will
+      be achieved but does not provide support for these assumptions (p. 72). The element
+      should demonstrate what specific trends, factors, and other evidence led to the
+      assumptions. The estimate of the number of units for each site must be adjusted as
+      necessary, based on the land use controls and site improvements and typical densities of
+      existing or approved residential developments at a similar affordability level.
+
+      In addition, the element appears to assume residential capacity on sites with zoning that
+      allows 100 percent non-residential uses. If so, the element must account for the likelihood
+      of nonresidential uses. The element should include analysis based on factors such as
+      development trends, performance standards or other relevant factors. For example, the
+      element could analyze all development activity in these nonresidential zones, how often
+      residential development occurs and adjust residential capacity calculations, policies, and
+      programs accordingly.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. The analysis shall consider factors
+      including the extent to which existing uses may constitute an impediment to additional
+      residential development, the City’s past experience with converting existing uses to higher
+
+City of Cudahy 6th Cycle Draft Housing Element Update                                Page 2
+December 13, 2021
+      density residential development, the current market demand for the existing use, an
+      analysis of any existing leases or other contracts that would perpetuate the existing use or
+      prevent redevelopment of the site for additional residential development, development
+      trends, market conditions, and regulatory or other incentives or standards to encourage
+      additional residential development on these sites.
+
+      In addition, if the housing element relies upon nonvacant sites to accommodate more
+      than 50 percent of the RHNA for lower-income households the housing element must
+      demonstrate existing uses are not an impediment to additional residential development
+      and will likely discontinue in the planning period (Gov. Code, § 65583.2, subd. (g)(2)).
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+      uses will be presumed to impede additional residential development and will not be
+      utilized toward demonstrating adequate sites to accommodate the RHNA.
+
+      Finally, the element identifies sites with existing residential uses. Absent a replacement
+      housing policy, these sites are not adequate sites to accommodate lower-income
+      households. The replacement housing policy has the same requirements as set forth in
+      Government Code section 65915, subdivision (c), paragraph (3).
+
+      Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+      accommodate housing for lower-income housing unless it is demonstrated that sites of
+      equivalent size were successfully developed during the prior planning period for an
+      equivalent number of lower-income housing units as projected for the site or unless the
+      housing element describes other evidence to HCD that the site is adequate to
+      accommodate lower-income housing. (Gov. Code, § 65583.2, subd. (c)(2)(A).) The
+      element includes several sites less than half an acre in size and if necessary, to
+      accommodate the RHNA for lower-income households, it must include analysis as
+      described above.
+
+      Sites Identified in Prior Planning Period: Sites identified in prior planning periods (vacant
+      sites identified in two planning periods or nonvacant sites identified in prior planning
+      period) shall not be deemed adequate to accommodate the housing needs for lower-
+      income households unless a program, meeting statutory requirements, requires rezoning
+      within three years. The element should clarify if sites were identified in prior planning
+      periods and if so, which sites and include a program if utilizing previously identified sites in
+      the current planning period.
+
+      Infrastructure: The element must clarify whether there is sufficient existing or planned
+      water, sewer, and dry utility infrastructure capacity to accommodate the City’s RHNA or
+      include programs, if necessary.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD. Please
+      see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions.
+
+
+City of Cudahy 6th Cycle Draft Housing Element Update                                Page 3
+December 13, 2021
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: The element states parking requirements of one per five beds
+              for emergency shelters. Zoning may impose parking requirements on emergency
+              shelters; however, those requirements should only be the number sufficient and
+              necessary for all staff working in the emergency shelter. Parking standards
+              requiring one space per five beds appear inconsistent with statutory requirements.
+              As a result, the element should add or modify programs as appropriate.
+          •   Low Barrier Navigation Centers: Low Barrier Navigation Centers shall be a use
+              by-right in zones where multifamily and mixed uses are permitted, including
+              nonresidential zones permitting multifamily uses pursuant to Government Code
+              section 65660. The element must demonstrate compliance with this requirement
+              and include programs as appropriate.
+          •   Permanent Supportive Housing: Supportive housing shall be a use by-right in zones
+              where multifamily and mixed uses are permitted, including nonresidential zones
+              permitting multifamily uses pursuant to Government Code section 65651. The
+              element must demonstrate compliance with this requirement and include programs
+              as appropriate.
+          •   Single Room Occupancy: The element should describe zoning that encourages and
+              facilitates single room occupancy or add or modify programs as appropriate.
+          •   Accessory Dwelling Units (ADUs): The element indicates ADUs are not permitted in
+              mixed use zones (Table 5.2) which appears inconsistent with statutory
+              requirements. As a result, the element should include a description of whether
+              ADUs are permitted in compliance with statutory requirements and include
+              programs if necessary.
+
+   5. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element identifies multifamily parking requirements of two spaces
+      per unit, including garage requirements. The element should specifically evaluate these
+      requirements for impacts on housing cost and supply, particularly for the cost impacts and
+      smaller bedroom types and add programs to address constraint.
+
+      Processing and Permit Procedures: While the element includes information about
+      processing times, it should also describe the procedures for a typical single-family and
+      multifamily development. The analysis should address the approval body, the number of
+      public hearing if any, approval findings and any other relevant information. The analysis
+      should address impacts on housing cost, supply, timing, and approval certainty. For
+      example, the element should identify and analyze approval findings for impacts on
+      approval certainty, the presence of processes or guidelines to promote certainty and add
+      or modify programs as appropriate.
+
+
+City of Cudahy 6th Cycle Draft Housing Element Update                               Page 4
+December 13, 2021
+      On/Off-Site Improvements: The element must identify subdivision level improvement
+      requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+      analyze their impact as potential constraints on housing supply and affordability. For
+      additional information and a sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/constraints/codes-and-
+      enforcement-on-offsite-improvement-standards.shtml.
+
+      Building Codes and Enforcement: The element mentions the City has adopted the 2013
+      Building Code; however, the City should be enforcing the 2019 Building Code. The
+      element should either describe the City utilizes the current Building Code or include a
+      program as appropriate.
+
+      Constraints on housing for Persons with Disabilities:
+
+         •   Reasonable Accommodation Procedure: The element briefly mentions the City
+             having a reasonable accommodation procedure but should also describe the
+             procedure and evaluate impacts, including identifying and analyzing findings of
+             approval.
+         •   Definition of Family: The element should identify and evaluate any definition of
+             family used in zoning and land use for impacts on housing for persons with
+             disabilities and include programs if necessary.
+         •   Residential Care Facilities for Seven or More Persons: The element requires a
+             conditional use permit for group homes for seven or more persons in the MDR,
+             HDR, and Com MU zones, unlike other similar uses (p.100) and appears to exclude
+             the use from residential zones. The element should specifically analyze these
+             constraints for impacts on housing supply and choices, approval certainty and
+             objectivity for housing for persons with disabilities and include programs as
+             appropriate.
+
+      SB 330 Preliminary Application: The element must clarify compliance with SB 330
+      (Statues of 2019) and add or modify programs to establish compliance if necessary.
+
+      SB 35 Streamlined Ministerial Approval Process: The element must clarify whether there
+      are written procedures to implement SB 35 (Chapter 366, Statues of 2017) and add or
+      modify programs to establish a procedure if necessary.
+
+      Local Ordinances: The element must specifically analyze locally adopted ordinances such
+      as inclusionary ordinances or short-term rental ordinances that directly impact the cost and
+      supply of residential development.
+
+      Zoning, Development Standards and Fees: The element must clarify whether the
+      community complies with new transparency requirements for posting all zoning,
+      development standards and fees or include programs as appropriate.
+
+   6. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+
+City of Cudahy 6th Cycle Draft Housing Element Update                            Page 5
+December 13, 2021
+      Government Code section 65583.2, and the length of time between receiving approval for
+      a housing development and submittal of an application for building permits for that housing
+      development that hinder the construction of a locality’s share of the regional housing need
+      in accordance with Government Code section 65584. The analysis shall also demonstrate
+      local efforts to remove nongovernmental constraints that create a gap between the
+      locality’s planning for the development of housing for all income levels and the
+      construction of that housing. (Gov. Code, § 65583, subd. (a)(6).)
+
+      Requests for Lower Density and Approvals Times: The element must analyze (1) requests
+      to develop housing at densities below those identified in the inventory, and (2) the length
+      of time between receiving approval for a housing development and submittal of an
+      application for building permits. The analysis should address any hinderances on the
+      construction of a locality’s share of the regional housing need and programs should be
+      added or modified as appropriate.
+
+   7. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+      The element indicates a minimal need for farmworkers according to the 2020 Census.
+      However, farmworkers from the broader area and those employed seasonally may have
+      housing needs, including within the City’s boundaries. As a result, the element should at least
+      acknowledge the housing needs of permanent and seasonal farmworkers at a county-level
+      (e.g., using USDA county-level farmworker data) and include programs as appropriate.
+   8. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd. (a)(9)
+      through 65583(a)(9)(D).)
+
+      The element identified units at-risk of converting to market rate uses within a ten-year
+      period. Many of the expiration dates listed for potential at-risk developments differ from
+      HCD records. The element should reconcile these differences, including revising the
+      element as appropriate.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+City of Cudahy 6th Cycle Draft Housing Element Update                              Page 6
+December 13, 2021
+      Programs must include specific commitment and definitive implementation timelines to
+      demonstrate a “beneficial impact” in the planning period. Table 7.1 includes several
+      programs with 2018, 2019, and 2020 timelines (p. 125). These programs must be revised
+      with discrete timelines to be completed during the planning period (2021-2029). In
+      addition, essentially all programs have timelines or completion dates of “ongoing” or
+      “monitor annually” and should be revised with discrete timelines (e.g., annual (beyond
+      monitoring) or by year) where appropriate. Finally, Program 13 (Infrastructure Availability)
+      commits to “pursue a study to evaluate” impacts on infrastructure, however, the element
+      should include specific commitment to actual outcomes in the planning period.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding B4, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+             •   Program 4 (Promote Lot Consolidation): The Program should commit to when
+                 and what incentives will be established and include a proactive and regular
+                 (e.g., annual) marketing component with the development community and
+                 property owners.
+             •   Replacement Housing Requirements: The housing element must include a
+                 program to provide replacement housing. (Gov. Code, § 65583.2, subd. (g)(3).)
+                 The replacement housing program must adhere to the same requirements as
+                 set forth in Government Code section 65915, subdivision (c), paragraph (3).
+             •   Sites Identified in Prior Planning Periods: If necessary, the element must include
+                 a program for vacant sites identified in two of more consecutive planning
+                 periods’ housing elements or non-vacant sites identified in a prior housing
+                 element, that are currently identified to accommodate housing for lower-income
+                 households. The program must be implemented within the first three years of
+                 the planning period and commit to zoning that will meet the density
+                 requirements for housing for lower-income households and allow by-right
+                 approval for housing developments that include 20 percent or more of its units
+                 affordable to lower-income households.
+
+
+
+
+City of Cudahy 6th Cycle Draft Housing Element Update                             Page 7
+December 13, 2021
+   3. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Program 5 (Affordable Housing Incentives): The Program should commit to annual and
+      proactive outreach to the development community. In addition, the Program should
+      consider timing earlier in the planning period than three years.
+
+      Program 20 (Persons with Disabilities): The Program could consider similar actions for
+      other special needs group (e.g., seniors, large families, female-headed households and
+      homeless).
+
+      State Density Bonus Law: The element should include a program to establish or revise an
+      ordinance in compliance with respect to changes to State Density Bonus Law pursuant to
+      Government Code, section 65915.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B5 and B6, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must include a complete assessment of fair housing.
+      Based on the outcomes of that analysis, the element must add or modify programs.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+      can be offered at affordable rent, as defined in Section 50053 of the Health and Safety
+      Code, for very low, low-, or moderate-income households. For purposes of this paragraph,
+      “accessory dwelling units” has the same meaning as “accessory dwelling unit” as defined
+      in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, § 65583, subd. (c)(7).)
+
+      Program 3 (Second Unit Ordinance): The element includes a program to update the City’s
+      Accessory Dwelling Unit Ordinance with State law in 2018 and monitoring ADU
+      development (p. 127). However, the Program should commit to a date in the near future
+      (June 2022) for a compliant ADU ordinance. In addition, the element must include a
+
+City of Cudahy 6th Cycle Draft Housing Element Update                            Page 8
+December 13, 2021
+      program that incentivizes or promotes ADU development for very low-, low-, and
+      moderate-income households. Examples include exploring and pursuing funding,
+      modifying development standards, and reducing fees beyond state law, pre-approved
+      plans, and homeowner/applicant assistance tools.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   HCD understands the draft element was made available for review on October 10, 2021, only
+   a few days before submittal to HCD. By not providing an opportunity for the public to review
+   and comment on a draft of the element in advance of submission, the City has not yet
+   complied with statutory mandates to make a diligent effort to encourage the public participation
+   in the development of the element and it reduces HCD’s ability to consider public comments in
+   the course of its review. The availability of the document to the public and opportunity for
+   public comment prior to submittal to HCD is essential to the public process and HCD’s review.
+   The City must proactively make future revisions available to the public, including any
+   commenters, prior to submitting any revisions to HCD and diligently consider and address
+   comments, including revising the document where appropriate. HCD’s future review will
+   consider the extent to which the revised element documents how the City solicited, considered,
+   and addressed public comments in the element. The City’s consideration of public comments
+   must not be limited by HCD’s findings in this review letter.
+
+   In addition, the element should also summarize the public comments received and describe
+   how they were considered and incorporated into the element. For additional information, see
+   the Building Blocks at http://www.hcd.ca.gov/community-development/building-blocks/getting-
+   started/public-participation.shtml.
+
+
+
+
+City of Cudahy 6th Cycle Draft Housing Element Update                             Page 9
+December 13, 2021

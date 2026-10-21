@@ -1,0 +1,14 @@
+{
+  "county": "Sacramento",
+  "jurisdiction": "Elk Grove",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-02-16",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SacElkGroveAdoptedIn021622.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SacElkGroveAdoptedIn021622.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 163129,
+  "text_chars": 4036,
+  "text_empty": false
+}

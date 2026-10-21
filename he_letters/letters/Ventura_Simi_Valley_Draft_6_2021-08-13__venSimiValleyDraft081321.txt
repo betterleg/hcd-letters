@@ -1,0 +1,518 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+        August 13, 2021
+
+
+        Stratis Perros, Director
+        Department of Environmental Services
+        City of Simi Valley
+        2929 Tapo Canyon Road
+        Simi Valley, CA 93063
+
+        Dear Stratis Perros:
+
+        RE: Review of Simi Valley’s 6th Cycle (2021-2029) Draft Housing Element
+
+        Thank you for submitting the City of Simi Valley’s (City) draft housing element received
+        for review on June 16, 2021. Pursuant to Government Code section 65585, subdivision
+        (b), the California Department of Housing and Community Development (HCD) is
+        reporting the results of its review. Our review was facilitated by conversations with you,
+        Associate Planner Eric Chen, City Planner Sean Gibson, and consultants Veronica Tam
+        of Veronica Tam & Associates and Lilly Rudolph and Steve Conner of Rincon
+        Consultants.
+
+        The draft element addresses many statutory requirements; however, revisions will be
+        necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+        The enclosed Appendix describes the revisions needed to comply with State Housing
+        Element Law.
+
+        For your information, some general plan element updates are triggered by housing
+        element adoption. For information, please see the Technical Advisories issued by the
+        Governor’s Office of Planning and Research at:
+        http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+        http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+        Several federal, state, and regional funding programs consider housing element
+        compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+        (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+        Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+        Local Housing Allocation consider housing element compliance and/or annual reporting
+        requirements pursuant to Government Code section 65400. With a compliant housing
+        element, the City will meet housing element requirements for these and other funding
+        sources.
+Stratis Perros, Deputy Environmental Services Director
+Page 2
+
+
+
+For your information, pursuant to Government Code section 65583.3, subdivision (b), the
+City must utilize standards, forms, and definitions adopted by HCD when preparing the
+sites inventory. Please see HCD’s housing element webpage at
+https://www.hcd.ca.gov/community-development/housing-element/index.shtml#element
+for a copy of the form and instructions. The City can reach out to HCD at
+sitesinventory@hcd.ca.gov for technical assistance. Please note, upon adoption of the
+housing element, the City must submit an electronic version of the sites inventory with its
+adopted housing element to sitesinventory@hcd.ca.gov.
+
+HCD appreciates the cooperation and diligent efforts the housing element update team
+provided during the review. We are committed to assisting the City in addressing all
+statutory requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact Shawn Danino, of our staff, at
+Shawn.Danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+Enclosure
+                                           APPENDIX
+                                      CITY OF SIMI VALLEY
+
+     The following changes are necessary to bring the City’s housing element into compliance
+     with Article 10.6 of the Government Code. Accompanying each recommended change,
+     we cite the supporting section of the Government Code.
+
+     Housing element technical assistance information is available on HCD’s website at
+     http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+     memos.shtml. Among other resources, the housing element section contains HCD’s
+     latest technical assistance tool, Building Blocks for Effective Housing Elements (Building
+     Blocks), available at http://www.hcd.ca.gov/community-development/building-
+     blocks/index.shtml and includes the Government Code addressing State Housing
+     Element Law and other resources.
+
+  A. Housing Needs, Resources, and Constraints
+
+     1. Affirmatively furthering fair housing (AFFH) in accordance with Chapter 15
+        (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+        assessment of fair housing in the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+        While the assessment of fair housing in the City meets many of the statutory
+        requirements, it must include additional analysis, as follows:
+
+            Disproportionate Housing Needs: The element provides data and analysis
+            regarding the patterns and trends of households experiencing overpayment but
+            must also address overcrowding. Additionally, the element must incorporate
+            analysis regarding displacement risk.
+
+            Local Data and Knowledge and Other Relevant Factors: The element should
+            incorporate local data and knowledge of the jurisdiction into the AFFH section. To
+            assist in meeting this requirement, the element should provide local data not
+            captured in regional, state, or federal data analysis. Also, the element must
+            include other relevant factors that contribute to fair housing issues in the
+            jurisdiction. For instance, the element can analyze historical land use and
+            investment practices or other information and demographic trends.
+            Sites Discussion: The element did not address this requirement. The element
+            must identify sites throughout the City consistent with AFFH. Sites must be
+            identified and evaluated relative to the full scope of the assessment of fair
+            housing (e.g., segregation and integration, racially and ethnically concentrated
+            areas of poverty and affluence, access to opportunity, etc.).
+
+            Contributing Factors: The element notes this section will be refined in future
+            versions. For your information, the element must list and prioritize contributing
+            factors to fair housing issues. Contributing factors create, contribute to,
+            perpetuate, or increase the severity of fair housing issues and are fundamental to
+
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                        Page 1
+August 13, 2021
+            adequate goals and actions. Examples include community opposition to
+            affordable housing, housing discrimination, land use and zoning laws, lack of
+            regional cooperation, location and type or lack of affordable housing and lack of
+            public or private investment in areas of opportunity or affordable housing choices.
+            Contributing factors should be unique to the unincorporated areas of the City
+            based on a complete analysis.
+            Goals, Priorities, Metrics, and Milestones: The element states this section will be
+            included in later versions. For your information, the element must be revised to
+            add or modify goals and actions based on the outcomes of analysis described
+            above. Goals and actions must specifically respond to the analysis and identified
+            and prioritized contributing factors to fair housing issues and must be significant
+            and meaningful enough to overcome identified patterns and trends. Actions must
+            have metrics and milestones as appropriate and must address housing mobility
+            enhancement, new housing choices and affordability in high opportunity areas,
+            place-based strategies for community preservation and revitalization and
+            displacement protection.
+        For further guidance, please visit HCD’s Affirmatively Furthering Fair Housing in California
+        webpage at https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+     2. Include An analysis of population and employment trends and documentation of
+        projections and a quantification of the locality’s existing and projected housing needs
+        for all income levels, including extremely low-income households. (Gov. Code, §
+        65583, subd. (a)(1).)
+        Extremely Low-Income Households (ELI): While the element quantifies existing and
+        projected ELI households, it must also analyze their housing needs. The analysis of
+        ELI housing needs could consider tenure and rates of overcrowding and
+        overpayment. To assist the analysis, see the enclosed data and sample analysis at
+        http://www.hcd.ca.gov/community-development/building-blocks/housing-
+        needs/extremely-low-income-housing-needs.shtml.
+
+     3. An inventory of land suitable and available for residential development, including
+        vacant sites and sites having realistic and demonstrated potential for redevelopment
+        during the planning period to meet the locality’s housing need for a designated
+        income level, and an analysis of the relationship of zoning and public facilities and
+        services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+        To demonstrate the adequacy of sites and strategies to accommodate the City’s
+        regional housing need allocation (RHNA), the element must address:
+
+            Parcel Listing: The element must identify the anticipated affordability level of the
+            units for each site identified in the sites inventory (Gov. Code, § 65583.2, subd.
+            (c).).
+
+            Realistic Capacity: The element (page 4-84) mentions an assumption of 70
+            percent of maximum allowable densities to calculate residential capacity on
+
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                         Page 2
+August 13, 2021
+            identified sites and includes a few examples of recent developments. However,
+            the element should include additional and clear supporting information on typical
+            densities of existing or approved residential developments at a similar
+            affordability level. For example, the element could clearly list other recent
+            projects, the zone, acreage, built density, allowable density, level of affordability
+            and presence of exceptions such as a density bonus.
+
+            In addition, the element appears to assume residential development on sites with
+            zoning that allows 100 percent nonresidential uses, but to support this
+            assumption, the element must analyze the likelihood of residential development
+            in zoning where 100 percent nonresidential uses are allowed. The analysis
+            should be based on factors such as development trends including nonresidential,
+            performance standards requiring residential uses or other relevant factors such
+            as enhanced policies and programs.
+
+            Suitability of Nonvacant Sites: The element describes nonvacant sites were
+            identified based on improvement-to-land value ratios and building structures that
+            are older than 30 years. However, the element should include additional factors
+            such as existing versus allowable floor area ratio. In addition, to demonstrate the
+            potential for additional development on these sites, the element should expand
+            the discussion of trends to support these assumptions and list the actual values
+            of these factors for identified sites.
+
+            In addition, if the housing element relies upon nonvacant sites to accommodate
+            more than 50 percent of the RHNA for lower-income households, the housing
+            element must demonstrate that the existing use is not an impediment to
+            additional residential development in the planning period (Gov. Code, § 65583.2,
+            subd. (g)(2).). This can be demonstrated by providing substantial evidence that
+            the existing use is likely to be discontinued during the planning period (Gov.
+            Code, § 65583.2, subd. (g)(2).).
+
+            Small and Large Sites: Sites larger than ten acres in size or smaller than a half-
+            acre in size are deemed inadequate to accommodate housing for lower-income
+            households unless it is demonstrated, with sufficient evidence, that sites are
+            suitable to accommodate housing for lower-income households. The element
+            should provide specific examples with the densities, affordability and, if
+            applicable, circumstances leading to consolidation. The element should relate
+            these examples to the sites identified to accommodate the RHNA for lower-
+            income households to demonstrate that these sites can adequately
+            accommodate the City’s lower-income housing need. Based on a complete
+            analysis, the City should consider adding or revising programs to include
+            incentives for facilitating development on small sites.
+
+            Suitability and Availability of Infrastructure: The element describes infrastructure
+            limitations (Page 4-83) in the City; however, it must also demonstrate sufficient
+            total water and sewer capacity (existing and planned) to accommodate the
+            regional housing need by community plan area.
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                         Page 3
+August 13, 2021
+            For your information, water and sewer service providers must establish specific
+            procedures to grant priority water and sewer service to developments with units
+            affordable to lower-income households. (Gov. Code, § 65589.7.) Local
+            governments are required to immediately deliver the housing element to water
+            and sewer service providers. The element should clarify consistency with these
+            requirements and include programs as appropriate. For additional information
+            and sample cover memo, see the Building Blocks at
+            http://www.hcd.ca.gov/community-development/building-blocks/other-
+            requirements/priority-for-water-sewer.shtml.
+
+            Environmental Constraints: While the element generally describes a few
+            environmental conditions within the City (Table H3-1), it must describe how these
+            conditions relate to identified sites including any known environmental constraints
+            within the City that could impact housing development in the planning period.
+            (Gov. Code, § 65583.2, subd. (b).) For additional information and sample
+            analysis, see the Building Blocks at http://www.hcd.ca.gov/community-
+            development/building-blocks/site-inventory-analysis/analysis-of-sites-and-
+            zoning.shtml#environmental.
+
+            Accessory Dwelling Units (ADUs): ADUs may be counted toward the RHNA based
+            on past permitted units and other factors. In the element, the City projects 400
+            ADUs to be constructed over the planning period, averaging 50 units per year. This
+            projection was based on figures provided based on past ADU annual permit figures
+            of 48, 48, and 45 for 2018, 2019 and 2020, respectively. However, Annual
+            Progress Reports (APRs) submitted by the City showed building permit figures of
+            27, 0, and 53 for 2018, 2019, and 2020, respectively. The element should reconcile
+            these figures and adjust assumptions as appropriate.
+
+            Emergency Shelters: The element must demonstrate the CO, CC, CPD, BP, LI
+            and GI zones have sufficient capacity to accommodate the identified housing
+            need for emergency shelters. (Gov. Code, § 65583, subd. (a)(4).) For example,
+            identifying the number of parcels, typical parcels sizes, whether the sites are
+            nonvacant, and the potential capacity for adaptive reuse. For additional
+            information and a sample analysis, see the Building Blocks at
+            http://www.hcd.ca.gov/community-development/housing-element/housing-
+            element-memos/docs/sb2_memo050708.pdf.
+
+            Housing for Agricultural Employees: The element must demonstrate zoning is
+            consistent with the Employee Housing Act (Health and Safety Code, § 17000 et
+            seq.), specifically, sections 17021.5 and 17021.6. Section 17021.5 requires
+            employee housing for six or fewer employees to be treated as a single-family
+            structure and permitted in the same manner as other dwellings of the same type
+            in the same zone. Section 17021.6 requires employee housing consisting of no
+            more than 12 units or 36 beds to be permitted in the same manner as other
+            agricultural uses in the same zone. For additional information and sample
+
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                       Page 4
+August 13, 2021
+            analysis, see the Building Blocks at http://www.hcd.ca.gov/community-
+            development/building-blocks/housing-needs/farmworkers.shtml.
+
+            Manufactured Housing: The element must clarify how manufactured housing on
+            permanent foundations are allowed and ensure consistency with Government
+            Code section 65852.3.
+
+     4. An analysis of any special housing needs, such as those of the elderly; persons with
+        disabilities, including a developmental disability, as defined in Section 4512 of the
+        Welfare and Institutions Code; large families; farmworkers; families with female
+        heads of households; and families and persons in need of emergency shelter. (Gov.
+        Code, § 65583, subd. (a)(7).)
+
+        The element includes data and analysis for persons with special needs. However, to
+        better formulate policies and programs, it should also identity and analyze elderly
+        households by tenure (renters and owners) and permanent and seasonal
+        farmworkers at a county level. HCD will send data under separate cover.
+
+     5. An analysis of potential and actual governmental constraints upon the maintenance,
+        improvement, or development of housing for all income levels, including the types of
+        housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+        as identified in the analysis pursuant to paragraph (7), including land use controls,
+        building codes and their enforcement, site improvements, fees and other exactions
+        required of developers, and local processing and permit procedures… (Gov. Code, §
+        65583, subd. (a)(5).)
+
+        Land Use Controls: The element must identify and analyze all relevant land use
+        controls impacts as potential constraints on a variety of housing types (e.g.,
+        multifamily rental housing, mobilehomes, transitional housing). While the element
+        does provide some information on residential development standards, such as guest
+        parking requirements (Page 4-43), it does not provide analysis on these factors as a
+        possible constraint. The analysis must also evaluate the cumulative impacts of land
+        use controls on the cost and supply of housing, including the ability to achieve
+        maximum densities.
+
+        In addition, the element should clarify whether the City has an ordinance in
+        compliance with density bonus law pursuant to Government Code section 65915 and
+        include programs as appropriate.
+
+        Growth Control: The element notes the City’s adoption of a “Managed Growth Plan to
+        ensure that the rate of residential development is metered in an effort to control the
+        rate of ozone generated within the City” (Page 4-57). The Housing Crisis Act of 2019
+        (SB 330, 2019) was signed by Governor Newsom on October 9, 2019, and became
+        effective on January 1, 2020. The Housing Crisis Act (Gov. Code, § 66300) generally
+        prohibits a locality from enacting a development policy, standard or condition that
+        reduces intensity, imposes moratoriums, enforces subjective design standards, or
+        implements any provision that limits approvals or caps population. These provisions
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                          Page 5
+August 13, 2021
+        remain in effect until January 1, 2025. Specifically, Government Code section 66300,
+        subdivision (b)(1)(D), with limited exception not applicable here, does not allow
+        affected jurisdictions to adopt new or enforce existing limits on the number of land-
+        use approvals or permits. The City should evaluate consistency with these
+        requirements and if necessary, immediately void or suspend the annual growth cap.
+
+        Building Codes and Enforcement: The housing element must describe and analyze
+        which building code (e.g., 2019) is enforced, any local amendments to the building
+        code, and their enforcement for impacts on housing supply and affordability. For
+        additional information and a sample analysis, see the Building Blocks at
+        http://www.hcd.ca.gov/community-development/building-blocks/constraints/codes-
+        and-enforcement-on-offsite-improvement-standards.shtml.
+
+        On/Off Site Improvements: The element must identify subdivision level improvement
+        requirements, such as minimum street widths (e.g., 40-foot minimum street width),
+        and analyze their impact as potential constraints on housing supply and affordability.
+        For additional information and a sample analysis, see the Building Blocks at
+        http://www.hcd.ca.gov/community-development/building-blocks/constraints/codes-
+        and-enforcement-on-offsite-improvement-standards.shtml.
+
+        Persons with Disabilities: The element briefly describes its reasonable
+        accommodation procedures including that a reasonable accommodation must be in
+        full compliance with the City’s development and municipal codes; however, the
+        purpose of the reasonable accommodation is to provide exception to zoning and land
+        use. As a result, the element must include a program to address this constraint. In
+        addition, group homes for seven or more persons appears to be excluded from
+        several zones allowing residential uses and subject to a conditional use permit. The
+        element should evaluate these requirements as constraints and include programs as
+        appropriate.
+
+        Streamlining Provisions: The element should clarify whether the City has procedures
+        consistent with streamlining requirements pursuant to Government Code section
+        65913.4 and include programs as appropriate.
+
+        Zoning and Fees Transparency: The element mentions the City’s website but should
+        clarify its compliance with new transparency requirements for posting fees and all
+        zoning and development standards for each parcel on the jurisdiction’s website.
+
+     6. An analysis of potential and actual nongovernmental constraints upon the
+        maintenance, improvement, or development of housing for all income levels,
+        including the availability of financing, the price of land, the cost of construction, the
+        requests to develop housing at densities below those anticipated in the analysis
+        required by subdivision (c) of Government Code section 65583.2, and the length of
+        time between receiving approval for a housing development and submittal of an
+        application for building permits for that housing development that hinder the
+        construction of a locality’s share of the regional housing need in accordance with
+        Government Code section 65584.
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                           Page 6
+August 13, 2021
+        Developed Densities and Permit Times: The element must be revised to analyze
+        requests to develop housing at densities below those anticipated in the sites
+        inventory, including hinderance on the construction of the City’s share of the regional
+        housing need.
+
+  B. Housing Programs
+
+     1. Include a program which sets forth a schedule of actions during the planning period,
+        each with a timeline for implementation, which may recognize that certain programs
+        are ongoing, such that there will be beneficial impacts of the programs within the
+        planning period, that the local government is undertaking or intends to undertake to
+        implement the policies and achieve the goals and objectives of the housing element
+        through the administration of land use and development controls, the provision of
+        regulatory concessions and incentives, and the utilization of appropriate federal and
+        state financing and subsidy programs when available. The program shall include an
+        identification of the agencies and officials responsible for the implementation of the
+        various actions. (Gov. Code, § 65583, subd. (c).)
+
+        To address the program requirements of Government Code section 65583,
+        subdivision (c)(1-6), and to facilitate implementation, programs should include: (1) a
+        description of the City’s specific role in implementation; (2) definitive implementation
+        timelines; (3) objectives, quantified where appropriate; and (4) identification of
+        responsible agencies and officials. Programs to be revised include:
+
+        Program 10: Program 10 describes the City’s intent to expand ADU permits by
+        increasing “outreach and technical assistance to interested homeowners.” However,
+        the program must go beyond exploring and must outline specific actions for which the
+        City is committing to take and provide a schedule for these actions. In addition, the
+        program should commit to more frequent monitoring, including affordability and when
+        additional actions will be established if ADUs are not permitted consistent with
+        assumptions.
+
+        Program 11: Program 11 describes the City’s intent to “focus on higher density
+        developments and mixed-use projects.” However, the program must go beyond
+        revisiting its standards and must outline specific actions for which the City is
+        committing to take and provide discrete timing for when actions will be completed.
+
+        Program 12: Program 12 describes the City’s intent to “monitor its development
+        standards and development review / approval process.” However, the program must
+        go beyond monitoring and recommending and must outline specific actions for which
+        the City is committing to take and provide discrete timing for when actions will be
+        completed.
+
+        Program 16: Program 16 commits the City to additional rezoning “to foster additional
+        residential growth.” However, the program must provide discrete timing.
+
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                         Page 7
+August 13, 2021
+     2. Identify actions that will be taken to make sites available during the planning period
+        with appropriate zoning and development standards and with services and facilities to
+        accommodate that portion of the City’s share of the regional housing need for each
+        income level that could not be accommodated on sites identified in the inventory
+        completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to
+        comply with the requirements of Government Code section 65584.09. Sites shall be
+        identified as needed to facilitate and encourage the development of a variety of types
+        of housing for all income levels, including multifamily rental housing, factory-built
+        housing, mobilehomes, housing for agricultural employees, supportive housing,
+        single-room occupancy units, emergency shelters, and transitional housing. (Gov.
+        Code, § 65583, subd. (c)(1).)
+
+        As noted in Finding A3, the element does not include a complete site analysis;
+        therefore, the adequacy of sites and zoning were not established. Based on the
+        results of a complete sites inventory and analysis, the City may need to add or revise
+        programs to address a shortfall of sites or zoning available to encourage a variety of
+        housing types. In addition:
+
+        Program 7: Program 7 commits the City to rezoning to accommodate the regional
+        housing need, including for lower-income households. However, the program must
+        provide discrete timing for completing rezoning, generally within 3 years of the
+        beginning of the planning period.
+
+        City-Owned Sites: The element should include specific commitment to encourage
+        development on City-owned sites. Actions include additional incentives, schedule for
+        development, significant outreach with developers of affordability housing, reducing
+        fees and seeking financing or supporting applications for funding.
+
+        Missing Middle: The element notes upzoning to accommodate the housing needs of
+        the missing middle. Given public comments noted in the element, the element could
+        include additional actions to encourage housing to accommodate this housing need
+        such as expanding permitted uses in some zones, establishing incentives or other
+        efforts.
+
+
+     3. Assist in the development of adequate housing to meet the needs of extremely low,
+        very low, low-, and moderate-income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+        While the element includes programs to assist in the development of very low-, low-,
+        and moderate-income households, it must also include a program(s) to assist in the
+        development of housing for all special needs households (e.g., elderly, homeless,
+        farmworkers, persons with disabilities, female-headed households). Program actions
+        could include proactive outreach and assistance to non-profit service providers and
+        developers, prioritizing some funding for housing developments affordable to special
+        needs households and offering financial incentives or regulatory concessions to
+        encourage a variety of housing types.
+
+
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                       Page 8
+August 13, 2021
+     4. Address and, where appropriate and legally possible, remove governmental and
+        nongovernmental constraints to the maintenance, improvement, and development of
+        housing, including housing for all income levels and housing for persons with
+        disabilities. The program shall remove constraints to, and provide reasonable
+        accommodations for housing designed for, intended for occupancy by, or with
+        supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+        As noted in Findings A4 and A5, the element requires a complete analysis of
+        potential governmental and nongovernmental constraints. Depending upon the
+        results of that analysis, the City may need to revise or add programs and address
+        and remove or mitigate any identified constraints.
+     5. Promote AFFH opportunities and promote housing throughout the community or
+        communities for all persons regardless of race, religion, sex, marital status, ancestry,
+        national origin, color, familial status, or disability, and other characteristics protected
+        by the California Fair Employment and Housing Act (Part 2.8 (commencing with
+        Section 12900) of Division 3 of Title 2), Section 65008, and any other state and
+        federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+        As noted in Finding A1, the element must include a complete analysis of AFFH.
+        Based on the outcomes of that analysis, the element must add or modify programs as
+        appropriate.
+
+
+  C. Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all
+     economic segments of the community in the development of the housing element, and
+     the element shall describe this effort. (Gov. Code, § 65583, subd. (c)(8).)
+
+     While the element includes a summary of the public participation process and includes a
+     list of community meetings conducted (Pages H2-1 to H2-2), the City should consider
+     additional methods of public outreach to make a diligent effort to achieve public
+     participation. For example, efforts could be made to expand language access and
+     interview stakeholders and service providers. Please note, the City must proactively
+     make future revisions available to the public, including any commenters, prior to
+     submitting any revisions to HCD and diligently consider and address comments,
+     including making revisions to the document where appropriate.
+
+
+
+
+HCD Review of City of Simi Valley’s 6th Cycle Housing Element                           Page 9
+August 13, 2021

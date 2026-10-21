@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Santa Clara County",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2025-02-05",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-santa-clara-county-rezone-adopt-in-020525-068cs00000ZEOW9AAP.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-santa-clara-county-rezone-adopt-in-020525-068cs00000ZEOW9AAP.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 184024,
+  "text_chars": 4945,
+  "text_empty": false
+}

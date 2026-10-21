@@ -1,0 +1,14 @@
+{
+  "county": "Siskiyou",
+  "jurisdiction": "Fort Jones",
+  "type": "Adopted",
+  "cycle": "5",
+  "reviewed": "2020-03-10",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sisFortJones03102020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sisFortJones03102020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 161997,
+  "text_chars": 3149,
+  "text_empty": false
+}

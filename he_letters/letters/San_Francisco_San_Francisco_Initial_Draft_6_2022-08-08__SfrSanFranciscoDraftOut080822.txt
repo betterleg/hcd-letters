@@ -1,0 +1,825 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 8, 2022
+
+
+         Rich Hillis, Director
+         San Francisco Planning Department
+         City and County of San Francisco
+         49 South Van Ness Avenue
+         San Francisco, CA 94103
+
+         Dear Rich Hillis:
+
+         RE: San Francisco’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City and County of San Francisco’s (City) draft housing
+         element received for review on May 10, 2022. Pursuant to Government Code section
+         65585, subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a conversation on
+         June 17, 2022 with you, Miriam Chion, James Pappas, Maia Small, Rich Hillis, Lisa
+         Gluckstein, Malena Leon-Farrera, Audrey Pearson, Andrea Ruiz-Esquide, Reanna Tong,
+         and Shelley Caltagirone. In addition, HCD considered comments from Kevin Burke,
+         Christopher Elmendorf, Heidi Petersen, Forge Development Partners, San Francisco
+         YIMBY, Greenbelt Alliance, YIMBY Law, David Broockman, Scott Pluta, Nanditha
+         Ramachandran, Meghan Warner, Riley Avron, and Maggie Pace.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         HCD applauds San Francisco’s several aspects of the approach to the housing element
+         update. The element places a strong emphasis on acknowledging and repairing the
+         harms of decades of inequitable and discriminatory land use and planning policies that
+         resulted in exclusionary and disinvested communities. The City has proposed bold and
+         meaningful actions to both reduce barriers to higher-opportunity neighborhoods while
+         simultaneously reinvesting in historically underserved neighborhoods. For example, the
+         element is focusing on creating new housing opportunities for lower- and moderate-
+         income families in well-resourced communities to increase access to quality parks,
+         schools, jobs, transportation, etc. Additionally, the element includes actions to reinvest
+         in communities of color by providing high-quality neighborhood amenities and housing
+         opportunities that will foster positive economic, social, and health outcomes.
+Rich Hillis, Director
+Page 2
+
+
+
+This includes prioritizing local funds to create affordable housing opportunities; develop
+culturally responsive community amenities; and improve neighborhoods, schools, parks,
+and infrastructure. HCD appreciates San Francisco’s leadership in affirmatively
+furthering fair housing (AFFH) and looks forward to continuing to work with the City in
+meeting all statutory requirements.
+
+For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+a local government fails to adopt a compliant housing element within 120 days of the
+statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+housing needs allocation (RHNA), including for lower-income households, shall be
+completed no later than one year from the statutory deadline. Otherwise, the local
+government’s housing element will no longer comply with State Housing Element Law,
+and HCD may revoke its finding of substantial compliance pursuant to Government
+Code section 65585, subdivision (i). Please be aware, if the City and County fails to
+adopt a compliant housing element within one year from the statutory deadline, the
+element cannot be found in substantial compliance until rezones to accommodate a
+shortfall of sites pursuant to Government Code section 65583, subdivision (c),
+paragraph (1), subparagraph (A), and Government Code section 65583.2, subdivision
+(c), are completed.
+
+Public participation in the development, adoption, and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City and County should continue to engage the community, including
+organizations that represent lower-income and special needs households, by making
+information regularly available and considering and incorporating comments where
+appropriate. Please be aware, any revisions to the element must be posted on the local
+government’s website and a link to the element must be emailed to all individuals and
+organizations that have previously requested notices relating to the local government’s
+housing element at least seven days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs, and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, San Francisco will meet housing element requirements for these and other
+funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City and County to consider timing provisions and
+welcomes the opportunity to provide assistance. For information, please see the
+Technical Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+Rich Hillis, Director
+Page 3
+
+
+
+
+HCD appreciates the hard work and dedication the housing element team provided
+during the review. We are committed to assisting the City and County in addressing all
+statutory requirements of State Housing Element Law. If you have any questions or
+need additional technical assistance, please contact Sohab Mehmood, of our staff, at
+sohab.mehmood@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                     APPENDIX
+                         CITY AND COUNTY OF SAN FRANCISCO
+
+The following changes are necessary to bring the housing element into compliance with Article
+10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element must
+      identify sites to accommodate the regional housing need allocation (RHNA) throughout
+      the community in response to all components of the analysis of AFFH. This analysis
+      should consider all income groups for the RHNA. To address this requirement, the
+      element (p. F-19) lists the number of units in the development pipeline and non-site-
+      specific means (e.g., accessory dwelling units (ADUs), SB 9, at-risk preservation) by
+      income group and whether sites are in well-resourced areas. However, this listing and
+      analysis should also include underutilized and vacant sites and candidate sites for
+      rezoning. In addition, the analysis is limited to “well-resourced” or higher opportunity
+      areas but should address all the components of the analysis of AFFH (e.g., segregation
+      and integration, concentrated areas of poverty and affluence, and disproportionate
+      housing need, including displacement risk). Finally, the analysis should evaluate the
+      impact of the RHNA by income group on the socio-economic patterns on a locational
+      basis (e.g., neighborhood, census tract, district), including addressing any isolation of
+      the RHNA. Based on the outcomes of this analysis, the element should re-evaluate the
+      appropriateness of targets (e.g., increase lower-income targets in well-resourced areas)
+      and add or modify programs to better improve fair housing conditions, including
+      equitable quality of life throughout the community (e.g., anti-displacement and place-
+      based community revitalization strategies).
+
+      Strategies, Actions, Metrics, and Milestones: To facilitate meaningful change and
+      achieve beneficial impact during the planning period, programs must have specific
+      commitments, metrics or numerical targets, geographic targeting, and definitive
+      timelines such as deadlines, dates, or benchmarks for implementation. While the
+      element has included many meaningful and significant policies and actions that address
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element               Page 1
+August 8, 2022
+      the identified fair housing issues, programs or actions should be modified with definitive
+      timelines and metrics, as follows:
+
+          •   Timelines: The element includes many programs with three general timelines:
+              short (0-5 years), medium (6-15 years), and long (16 plus years). However,
+              actions should have timelines more appropriate for an eight-year planning period,
+              including earlier and within the planning period, as well as more specific to the
+              intended actions and housing or people outcomes. For example, many of the
+              identified policies and actions included implementation timelines range from 6 to
+              15 years. The element must be revised to include timelines that are within the
+              eight-year planning period. Also, some actions have short-term timing (0-5
+              years), over halfway through the planning period. Instead, these actions should
+              occur earlier in the planning period (1-2 years). Finally, some actions do not have
+              timing that commits to how often an action will be taken and should be revised
+              with specific commitment and timing to complete steps toward housing
+              outcomes. For example, Policy 17, action b (Investment in Priority Equity
+              Geographies) should commit to how often the City will prioritize investment and
+              what steps with dates will be taken to prioritize investment toward outcomes.
+          •   Metrics: The element must revise its fair housing policies and actions to include
+              metrics or numerical targets toward significant and meaningful AFFH outcomes.
+              Additionally, where appropriate, metrics should be targeting impacts for people,
+              households, and neighborhoods (e.g., number of people or households assisted,
+              number of housing units built, number of parks or infrastructure projects
+              completed).
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The element indicates 47,738 units, of which 11,996
+      units will be affordable to lower-income households, are pending approvals, approved,
+      or under construction (p. F-8). To count these units as progress towards RHNA, the
+      element must analyze and demonstrate the likelihood and availability of these units
+      during the planning period. The element lists an estimated percentage of development
+      capacity in the planning period, but as noted in the element (p. F-9), it must include
+      analysis to support those assumptions or utilize different assumptions. For example, the
+      element could discuss infrastructure schedules and commitments, outreach with project
+      developers, timelines for final approvals, and the timing of any remaining steps prior to
+      building permits. In addition, the element should only count net new units unless
+      meeting statutory requirements pursuant to Government Code section 65583.1 (see
+      below). Lastly, given the element’s reliance on pipeline projects, the element must
+      include programs with actions that commit to facilitating development and monitoring
+      approvals of the projects (e.g., coordination with applicants to approve remaining
+      entitlements, supporting funding applications, commitment to expedite approvals, etc.)
+      with a commitment to alternative actions (e.g., rezoning) if assumptions are not realized.
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                  Page 2
+August 8, 2022
+      Candidate Sites for Rezoning: The element identifies a current shortfall in
+      accommodating the 6th cycle RHNA for lower- (16,766 units) and moderate-income
+      households (8,535 units), including a 15-percent buffer. As a result, the element must
+      identify and analyze the candidate sites for rezoning, including meeting all components
+      of Government Code section 65583.2. The components generally include a parcel
+      listing, analysis of capacity, size of parcels, and the extent existing uses impede
+      additional development (redevelopment potential). The element may utilize a
+      methodology similar to underutilized sites to meet requirements for calculating capacity
+      and demonstrating redevelopment potential.
+
+      Sites Identified in Prior Planning Periods: Sites identified in prior planning periods shall
+      not be deemed adequate to accommodate the housing needs for lower-income
+      households unless a program, meeting statutory requirements, requires rezoning within
+      specified time periods. The element should clarify if sites were identified in prior planning
+      periods and if so, which sites and include a program if utilizing previously identified sites
+      in the current planning period. The program rezoning sites must commit to appropriate
+      densities as specified in statute and allow residential uses by-right for housing
+      developments in which at least 20 percent of the units are affordable to lower income
+      households. By-right is generally defined as permitting uses without discretionary action.
+      Finally, rezoning must be complete within three years. However, if the element is not
+      adopted and found in compliance within 120 days of the statutory deadline, rezoning
+      must be complete in one year. For more information on program requirements, please
+      see HCD’s Housing Element Sites Inventory Guidebook at
+      https://www.hcd.ca.gov/community-development/housing-element/housing-element-
+      memos.shtml.
+
+      Suitability of Novacant Sites: The housing element relies upon nonvacant sites to
+      accommodate more than 50 percent of the RHNA for lower-income households. The
+      element must demonstrate existing uses are not an impediment to additional residential
+      development (Gov. Code, § 65583.2, subd. (g)(2).). Absent findings (e.g., adoption
+      resolution) based on substantial evidence, the existing uses will be presumed to impede
+      additional residential development and will not be utilized toward demonstrating
+      adequate sites to accommodate the RHNA.
+
+      In addition, if the sites inventory identifies sites with existing residential uses, it must
+      identify whether the current residential uses are affordable to lower-income households
+      or describe whether the additional residential development on the site requires the
+      demolition of the existing residential use. For nonvacant sites with existing, vacated, or
+      demolished residential uses and occupied by, or subject to an affordability requirement
+      for, lower-income households within the last five years, there must be a replacement
+      housing program for units affordable to lower-income households. (Gov. Code, §
+      65583.2, subd. (g)(3).) Absent a replacement housing program, these sites are not
+      adequate sites to accommodate lower-income households. The replacement housing
+      program has the same requirements as set forth in Government Code section 65915,
+      subdivision (c)(3). The housing element must be revised to include such analysis and a
+      program, if necessary.
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                  Page 3
+August 8, 2022
+      Small Sites: Sites smaller than half an acre are deemed inadequate to accommodate
+      housing for lower-income households unless it is demonstrated, with sufficient
+      evidence, that sites of equivalent size with affordability were successfully developed
+      during the prior planning period or other evidence demonstrates the suitability of these
+      sites. For example, the element could discuss past trends such as examples of
+      affordable housing projects on small sites and relate it to the sites inventory. The
+      element must also address these requirements for candidate rezoning sites to
+      accommodate the RHNA for lower-income households.
+
+      Adequate Sites Alternatives: The element is counting roughly 4,125 units under the
+      alternative adequate sites (Gov. Code, § 65583.1, subd. (c)) through preservation,
+      conversion, and rehabilitation (pipeline and projected), including HOPE SF and
+      Homekey programs. Of the 4,125 units, 3,625 units will be affordable to lower-income
+      households, and 500 units will be affordable to moderate-income households. To utilize
+      this potential for converting existing units toward the RHNA, the element must
+      demonstrate how these units will meet the requirements of Government Code section
+      65583.1, subdivision (c), including but not limited to identifying sources of committed
+      assistance and various other requirements. For additional guidance, please see
+      Building Blocks at Adequate Sites Alternative | California Department of Housing and
+      Community Development.
+
+      Senate Bill 9 (Statutes of 2021) Projections: The element mentions multiple challenges
+      regarding the anticipated results of SB 9 given the unique circumstances of residential
+      patterns in the City and County. Yet, the element assumes 1,500 units in the planning
+      period that does not appear to be based on recent trends. For these reasons, the
+      element should consider not utilizing these units toward the RHNA or significantly
+      reducing assumptions in the planning period. If utilizing SB 9 toward the RHNA, the
+      element must 1) include a site-specific inventory of sites where SB 9 projections are
+      being applied; 2) include a nonvacant sites analysis demonstrating the likelihood of
+      redevelopment and that the existing use will not constitute an impediment for additional
+      residential use; and 3) include programs and policies that establish zoning,
+      development standards, and incentives early in the planning period and monitor
+      production and affordability and adjust as appropriate (e.g., additional rezoning).
+
+      Publicly-Owned Sites: The element must include additional discussion on publicly-
+      owned sites identified to accommodate the RHNA. Specifically, the analysis should
+      address general plan designations, allowable densities, support for residential capacity
+      assumptions, existing uses, and any known conditions that preclude development in the
+      planning period and the potential schedule for development. If zoning does not currently
+      allow residential uses at appropriate densities, then the element must include programs
+      to rezone sites pursuant to Government Code section 65583.2, subdivisions (h) and (i).
+      In addition, the housing element must include a description of whether there are any
+      plans to sell the property during the planning period and how the jurisdiction will comply
+      with the Surplus Land Act (Article 8 (commencing with Section 54220) of Chapter 5 of
+      Part 1 of Division 2 of Title 5).
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                Page 4
+August 8, 2022
+      Availability of Infrastructure: The element must discuss whether sufficient total water
+      and sewer capacity (existing and planned) can accommodate the regional housing need
+      and include programs if necessary.
+
+      In addition, water and sewer service providers must establish specific procedures to
+      grant priority water and sewer service to developments with units affordable to lower-
+      income households. (Gov. Code, § 65589.7.) Local governments are required to
+      immediately deliver the housing element to water and sewer service providers. The
+      element should discuss compliance with these requirements and, if necessary, add or
+      modify programs to establish a written procedure by a date early in the planning period.
+      For additional information and sample cover memo, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/other-
+      requirements/priority-for-water-sewer.shtml.
+
+      Environmental Constraints: The element must describe any known environmental
+      constraints or other conditions that could preclude development on the identified sites
+      (including candidate rezoning sites) during the planning period. (Gov. Code, § 65583.2,
+      subd. (b).) For additional information and sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+      analysis/analysis-of-sites-and-zoning.shtml#environmental.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Accessory Dwelling Unit (ADU): HCD’s records indicate that the City and County
+             has not submitted its adopted ADU ordinance for review and compliance with
+             State ADU Law. The City and County must submit its ADU ordinance at
+             adu@hcd.ca.gov.
+
+         •   Emergency Shelters: While the element stated that emergency shelters are
+             defined as a residential use and are allowed in most zones, pursuant to
+             Government Code section 65583, the element must clarify if at least one zone
+             allows emergency shelters without discretionary action. Additionally, the element
+             should discuss and evaluate any development standards (e.g., parking, spacing,
+             etc.) as potential constraints. Lastly, the element should determine whether
+             parking requirements comply with AB 139 (Chapter 335, Statutes of 2019), which
+             limits parking requirements to employee parking and add or modify programs as
+             appropriate.
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element              Page 5
+August 8, 2022
+          •   Low Barrier Navigation Centers (LBNC): Government Code section 65660
+              requires LBNC be a use by-right (without discretionary action) in areas zoned for
+              mixed use and nonresidential zones permitting multifamily uses. The element
+              should demonstrate compliance with this requirement or add or modify programs
+              as appropriate.
+
+          •   Transitional and Supportive Housing: Transitional housing and supportive
+              housing must be permitted as a residential use in all zones allowing residential
+              uses and only subject to those restrictions that apply to other residential
+              dwellings of the same type in the same zone. (Gov. Code, § 65583, subd. (a)(5).)
+              The element must demonstrate compliance with Government Code section
+              65583, subdivision (a)(5), or add or revise programs as appropriate.
+
+          •   Permanent Supportive Housing: Supportive housing shall be a use by-right
+              (without discretionary action) in zones where multifamily and mixed uses are
+              permitted, including nonresidential zones permitting multifamily uses pursuant to
+              Government Code section 65651. The element must demonstrate compliance
+              with this requirement or add or modify programs as appropriate.
+
+          •   Employee Housing: Section 17021.5 requires employee housing for six or fewer
+              employees to be treated as a single-family structure and permitted in the same
+              manner as other dwellings of the same type in the same zone. The element must
+              demonstrate zoning in compliance with the Employee Housing Act (Health and
+              Safety Code, § 17000 et seq.) or add or modify programs as appropriate.
+
+          •   Manufactured Housing: Manufactured homes that are built on a permanent
+              foundation must be allowed in the same manner and in the same zones as
+              conventional or stick-built structures. Specifically, manufactured homes on a
+              permanent structure should only be subject to the same development standards
+              that a conventional single-family residential dwelling would be subject to. The
+              element must demonstrate compliance with this requirement or add or modify
+              programs as appropriate.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures. The analysis shall also
+      demonstrate local efforts to remove governmental constraints that hinder the locality
+      from meeting its share of the regional housing need in accordance with Government
+      Code section 65584 and from meeting the need for housing for persons with disabilities,
+      supportive housing, transitional housing, and emergency shelters identified pursuant to
+      paragraph (7). (Gov. Code, § 65583, subd. (a)(5).)
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                 Page 6
+August 8, 2022
+      Land-Use Controls (Heights): The element must identify and analyze the impact of all
+      relevant land use controls as potential constraints on a variety of housing types. The
+      analysis should analyze land use controls independently and cumulatively with other
+      land use controls. Specifically, the element noted the height limits for moderate and
+      high-density developments vary by zone (Attachment G, p. 15). The element should
+      identify and analyze height limits as they relate to reaching allowable densities (without
+      exception). The analysis should address any impacts on cost, supply, housing choice,
+      affordability, timing, approval certainty, and ability to achieve maximum densities and
+      include programs to address identified constraints.
+
+      Fees and Exaction: The element includes some information on planning and impact
+      fees, such as environmental impact report and Transportation Sustainability Fee.
+      However, given in some cases that cumulative fees can well exceed $60,000 per unit,
+      the element should list all planning (e.g., rezones, conditional use permit (CUP),
+      variance) and impact fees, evaluate the impacts on the cost of development and, if
+      necessary, include programs to address identified constraints.
+
+      Local Processing and Permit Procedures: HCD has received several public comments
+      and has active enforcement cases and complaints related to the local permit process
+      that have indicated a complex, untimely, and cumbersome process with little certainty to
+      applicants. There are also indications of potential violations of various state laws,
+      including the Permit Streamlining Act, Housing Accountability Act, Housing Crisis Act,
+      and State Density Bonus Law. As stated in HCD’s February 1, 2022, Technical
+      Assistance Letter, the element must 1) analyze potential and actual governmental
+      constraints on housing development pursuant to State Housing Element Law (Gov.
+      Code, § 65583, subd. (a)(5)), and 2) specifically address potential violations with state
+      housing laws.
+
+      While the element includes some information about the permit process and processing
+      time (Attachment G, pgs. 22-36), a complete analysis must evaluate the processing and
+      entitlement procedures for potential constraints on housing supply, cost, timing, financial
+      feasibility, approval certainty and ability to achieve maximum densities. Specifically, the
+      element must describe the procedures for a typical single-family and multifamily
+      development. As most projects require discretionary approvals, the analysis must
+      describe the decision-making framework for discretionary approvals related to all
+      permits and entitlements, including but not limited to building permits, design review,
+      CUPs, lot splits/consolidations, variances, site plans, environmental review, etc. The
+      analysis must include the approval bodies, the number of public hearings, the actual
+      approval findings, and all relevant information. Examples of processes that could
+      constrain development include the discretionary review application for building permits
+      (p. G-22). The element indicates that a member of the public can request that a building
+      permit that would normally be reviewed and approved at the staff level be evaluated by
+      the planning commission, which could result in impacts to the cost of the project, timing,
+      and certainty for approval. Based on the outcomes of a complete analysis, the element
+      must add or modify programs as appropriate.
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                 Page 7
+August 8, 2022
+      Compliance with State Housing Element Laws: The element must discuss how it
+      currently implements and complies with state housing laws and include programs as
+      appropriate. The element should specifically address processes related to SB 35
+      Streamlined Ministerial Approval Process (Gov. Code, § 65913.4), Housing Crisis Act
+      (Gov. Code, § 66300), Housing Accountability Act (Gov. Code, § 65589.5), Permit
+      Streamlining Act (Gov. Code, §§ 65941.1 and 65943), and CEQA timelines.
+
+      Locally Adopted Ordinances: The element must identify and analyze any locally
+      adopted ordinances that impact the cost and supply of housing, e.g., short-term rentals,
+      inclusionary, growth controls, Senate Bill 9, etc.
+
+      Additionally, through initial review of recent enforcement cases, HCD is aware of potential
+      constraints associated with the inclusionary program in relationship to other state laws
+      such as State Density Bonus Law (SDBL) (Gov. Code, § 65915) and SB 35 Streamlined
+      Ministerial Approval Process (Gov. Code, § 65913.4). Specifically, while the element
+      generally describes the local inclusionary housing program (pp.s. G-18 and G-46) and a
+      brief discussion of its overall impact on project feasibility, it must also include additional
+      information and analysis about how the inclusionary housing program is implemented in
+      relationship to these other state laws. For example, the element should identify and
+      analyze how affordable units provided through SDBL and/or SB 35 are accounted for in
+      relation to the inclusionary requirement, how density bonus units are considered when
+      applying the inclusionary requirement, and the availability of clear written implementation
+      guidelines for establishing a project’s on-site affordability requirement. Based on the
+      information and analysis provided, the element must add or modify programs as
+      appropriate.
+
+      On/Off-Site Improvements: While the element included some information on required
+      improvements, including public-rights-of-way and general requirements imposed by
+      other agencies related to fire, transit, and parks (p. G-33), it must identify and evaluate
+      actual site improvement standards on typical projects for impacts on the cost of
+      development.
+
+      Codes and Enforcement: The element describes adoption of building codes and
+      includes some information on local amendments related to the Green Building Code (p.
+      G-41); however, it must identity and analyze all local amendments for impacts on the
+      cost and supply of housing.
+
+      Zoning, Development Standards, and Fees: The element must clarify its compliance
+      with new transparency requirements for posting all zoning, development standards, and
+      fees on the City and County’s website and include programs if appropriate.
+
+      Constraints on Housing for Persons with Disabilities:
+
+         •   Reasonable Accommodation: While the element briefly described the reasonable
+             accommodation process, it must describe the written procedure and evaluate the
+             process, including approval findings. Additionally, the element indicates two
+             separate processes to request a reasonable accommodation and that one of
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                  Page 8
+August 8, 2022
+             these processes requires the use of a standard variance process. However,
+             reasonable accommodation should be a unique exception process from
+             discretionary permits, especially given its importance in addressing barriers to
+             housing for persons with disabilities. The element should evaluate these
+             requirements as constraints and include programs as appropriate.
+
+         •   Definition of Family: The element states the planning code includes a definition of
+             family as a group of five unrelated individuals (p. G-61); however, the element
+             also indicates zoning does not restrict occupancy of unrelated individuals in
+             group homes, define family, or enforce a definition (p. G-63). The element must
+             reconcile this discussion to be clear on the implementation of a family definition
+             or include a program that clearly commits to address the constraint, if necessary.
+
+         •   Group Homes for Six or Fewer and Seven or More: While the element included
+             some general information on how group housing and residential care facilities (p.
+             G-63) are allowed, it must specifically clarify whether group homes of six or fewer
+             are treated as a single-family use and allowed in all zones allowing single-family
+             uses. Additionally, the element must discuss how and where group homes of
+             seven or more are permitted. For your information, zoning should simply
+             implement a barrier-free definition of family instead of potentially subjecting
+             persons with disabilities to special regulations such as the number of persons,
+             population types, and licenses. The element should include specific analysis of
+             these constraints for impacts on housing for persons with disabilities and include
+             clear commitments to allow these uses with objectivity and certainty.
+
+      Governmental Constraint (General): The cumulative impact of governmental constraints
+      can impact the feasibility of development as well as costs and supply. Given the
+      complexity of the regulatory and political environment, the element should include an
+      analysis of the combination of potential governmental constraints, including but not
+      limited to land use controls, discretionary actions, permit and entitlement procedures,
+      fees and exactions, and any other ordinances or requirements affecting development
+      and add or modify programs as appropriate to address constraints.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the… …and the length of time
+      between receiving approval for a housing development and submittal of an application
+      for building permits for that housing development that hinder the construction of a
+      locality’s share of the regional housing need in accordance with Government Code
+      section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Approval Time and Requests Lesser Densities: The element must include an analysis of
+      requests to develop housing at densities below those identified in the sites inventory,
+      and the length of time between receiving approval for a housing development and
+      submittal of an application for building permits. The analysis should address any
+      hinderances on the jurisdiction’s ability to accommodate RHNA by income category and
+      include programs as appropriate.
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                Page 9
+August 8, 2022
+   5. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).).
+
+      While the element lists an inventory of at-risk units utilizing federal and state funding,
+      the element must also include and analyze any deed-restricted affordable housing units
+      using local governmental assistance such as density bonus or inclusionary program that
+      are at-risk of converting to market-rate within the next ten years. In addition, while the
+      element included an inventory of units at-risk of converting in the next ten years, it must
+      estimate and analyze the cost of replacing versus preserving the units and identify
+      qualified entities to assist with maintaining its affordability. For additional information,
+      please see: Assisted Housing Developments at Risk of Conversion | California
+      Department of Housing and Community Development. For a list of qualified entities
+      serving San Francisco and the broader region, please see:
+      https://www.hcd.ca.gov/policy-research/preserving-existing-affordable-housing.shtml.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      The element identifies three implementation timeframes: short (0-5 years), medium (6-15
+      years), and long term (15+ years). Programs must demonstrate that they will have a
+      beneficial impact within the planning period. Beneficial impact, among other things,
+      means specific commitment with definitive timelines such as deadlines, dates, or
+      benchmarks for implementation. Deliverables should occur early in the planning period to
+      ensure actual housing outcomes. However, in many cases, program should be revised
+      with specific commitment and definitive timing. Further, program timelines must be
+      revised to reflect implementation during the 8-year planning period and where
+      appropriate earlier in the planning period. For example, the “short” timeframe should be
+      adjusted to 0-2 years and the “medium” and “long” timeframes should be replaced with
+      timeframes of 3-5 and 6-8 years, respectively. The element may indicate aspirational and
+      complex programs with timelines beyond the planning period. However, these programs
+      should be ancillary and denoted in some manner.
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                Page 10
+August 8, 2022
+      In addition, the element includes many complex and challenging strategies that are
+      essential to the City’s approach in addressing its housing needs. As a result, the
+      element should include a program to evaluate the effectiveness of these approaches
+      and commit to making adjustments, as appropriate, to continue working toward the
+      housing element’s goals and objectives. Specifically, the element could include a
+      program to conduct an in-depth mid-term evaluation of programs, including
+      effectiveness, and commit to make adjustments withing a specified time period. Topics
+      could include AFFH, pipeline projects, nonvacant sites, rezoning, SB 9 sites, ADUs, and
+      governmental constraints.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the element may need to add or revise
+      programs to address a shortfall of sites or zoning available to encourage a variety of
+      housing types. In addition, the element should be revised as follows:
+
+      Shortfall of Sites: The element identifies a shortfall of sites to accommodate the RHNA
+      for lower- and moderate-income households and includes Policy 20, Actions A-D to
+      implement rezoning efforts. However, the element must revise programs to specifically
+      commit to acreage, allowable densities, and anticipated units. In addition, to
+      accommodate the housing needs of lower-income households, the program should
+      specifically commit to rezoning pursuant to Government Code section 65583.2,
+      subdivisions (h) and (i).
+
+      The rezone program must be revised to include all the provisions of Government Code
+      section 65583.2, subdivisions (h) and (i), as follows:
+
+          •   permit owner-occupied and rental multifamily uses by-right for developments in
+              which 20 percent or more of the units are affordable to lower-income households.
+              By-right means local government review must not require a CUP, planned unit
+              development permit, or other discretionary review or approval;
+          •   accommodate a minimum of 16 units per site;
+          •   require a minimum density of 20 units per acre; and
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element               Page 11
+August 8, 2022
+         •   at least 50 percent of the lower-income need must be accommodated on sites
+             designated for residential use only or on sites zoned for mixed uses that
+             accommodate all of the very low- and low-income housing need, if those sites:
+                 o allow 100 percent residential use, and
+                 o require residential use to occupy 50 percent of the total floor area of a
+                    mixed-use project.
+
+      Sites Identified in Prior Planning Periods: As noted in Finding A2, if the element
+      identified vacant sites in two of more consecutive planning periods’ housing elements or
+      nonvacant sites in a prior housing element, that are currently identified to accommodate
+      housing for lower-income households, the element must include a program. The
+      program must be implemented within the first three years of the planning period and
+      commit to zoning that will meet the density requirements for housing for lower-income
+      households and allow by-right approval for housing developments that include 20
+      percent or more of its units affordable to lower-income households (Gov. Code, §
+      65583.2, subd. (c).). Please also note, rezoning must be implemented within the first
+      year of the planning period if the element is not adopted in compliance in a timely
+      manner as described in Finding A2.
+
+      Replacement Program: As noted in Finding A2, for nonvacant sites with existing,
+      vacated, or demolished residential uses and occupied by, or subject to an affordability
+      requirement for, lower-income households within the last five years, there must be a
+      replacement housing program for units affordable to lower-income households (Gov.
+      Code, § 65583.2, subd. (g)(3)).
+
+      Publicly-Owned Sites: The element identified several publicly-owned sites to
+      accommodate a portion of the RHNA. While the element included Policy 24, Action E
+      and F committing to building public-private partnerships and prioritizing local resources,
+      these actions should be revised with timelines that will occur during the planning period.
+      Additionally, the element should include a schedule of actions to facilitate development
+      and ensure compliance with the Surplus Land Act. Actions could include annual
+      outreach with developers, rezoning and financial assistance, issuing requests for
+      proposals, facilitating any subsequent entitlements, and numerical objectives by
+      affordability.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding(s) A3 and A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the element may need to revise or add programs and address and remove or
+      mitigate any identified constraints. In addition, the element should be revised as follows:
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element               Page 12
+August 8, 2022
+      Compliance with State Housing Laws: The element must include a program to comply
+      with all state housing laws. This program must include steps for implementing (e.g.,
+      develop processes, standard procedures, forms, etc.), definitive timelines, specific
+      commitments, and quantified objectives, where appropriate.
+
+      Policy 25, Action A-C and E (Reduce Development Constraints…): The element
+      included Policy 25 to reduce development constraints, including lengthy entitlement
+      processes. Actions under this policy include establishing streamlined approvals for
+      housing development that meet specific criteria, including specific housing types (small
+      and multifamily developments), affordability requirements, and community benefits. The
+      element indicates an implementation timeline of 0-15 years. In efforts to address the
+      City’s well documented lengthy permit process, the element should revise these
+      timelines to complete these actions earlier in the planning period (e.g., 0-2 years).
+      Additionally, the element could also include quantified objectives to measure program
+      effectiveness throughout the planning period.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete analysis of AFFH. The
+      element must be revised to add goals and actions based on the outcomes of a complete
+      analysis. Additionally, policies and actions must be revised to include definitive timelines
+      during the planning period and quantifiable metrics to measure program effectiveness.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd.
+      (c)(6).)
+
+      Policy 2, Action B-D, and H: While the element included policies and actions to preserve
+      deed restricted units at-risk of converting to market rate, these actions must be revised
+      to occur during the planning period. Additionally, actions must be revised with specific
+      commitment to comply with noticing requirements and to coordinate and outreach with
+      qualified entities to purchase properties and provide education and support to tenants.
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element                   Page 13
+August 8, 2022
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   The element must include quantified objectives estimating the number of housing units by
+   income category that can be constructed, rehabilitated, and conserved over a five-year time
+   period. This requirement could be addressed by utilizing a matrix like the one illustrated
+   below:
+
+                                   New                                    Conservation/
+          Income                Construction       Rehabilitation      Preservation
+      Extremely
+      Low-
+      Very Low-
+      Low-
+      Moderate-
+      Above
+      Moderate-
+              TOTAL
+
+D. Coastal Zone Analysis
+
+   Coastal localities shall document the number of low- and moderate-income units converted
+   or demolished, and the number of replacement units provided. (Gov. Code, § 65588, subd.
+   (d).)
+
+   The element does not meet the statutory requirements. To determine whether the
+   affordable housing stock in the coastal zone is being protected and provided as required by
+   Government Code section 65588, the element must be revised to include the following:
+
+      1. The number of new housing units approved for construction within the coastal zone
+         since January 1982.
+      2. The number of housing units for persons and families of low- and moderate-income
+         required to be provided in new housing developments either within the coastal zone
+         or within three miles.
+      3. The number of existing residential dwelling units occupied by low- and moderate-
+         income households either within the coastal zone or three miles of the coastal zone
+         that have been authorized to be demolished or converted since January 1982.
+      4. The number of residential dwelling units for low- and moderate-income households
+         that have been required for replacement.
+
+
+
+
+City and County of San Francisco’s 6th Cycle Draft Housing Element             Page 14
+August 8, 2022

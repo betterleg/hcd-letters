@@ -1,0 +1,832 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 14, 2022
+
+
+
+         Brian Dossey, City Manager
+         Town of Colma
+         1198 El Camino Real
+         Colma, CA 94014
+
+         Dear Brian Dossey:
+
+         RE: Town of Colma’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the Town of Colma’s (Town) draft housing element received
+         for review on June 16, 2022, with revisions received on September 2, 2022. Pursuant
+         to Government Code section 65585, subdivision (b), the California Department of
+         Housing and Community Development (HCD) is reporting the results of its review. Our
+         review was facilitated by a conversation on August 17, 2022 with you, and the Town’s
+         consultants Alvin Jen, Claire Smith, Farhad Mortazavi, and Brad Donohue from CSG
+         Consultants.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i). Please be aware, if the Town fails to adopt a
+         compliant housing element within one year from the statutory deadline, the element
+         cannot be found in substantial compliance until rezones to accommodate a shortfall of
+         sites pursuant to Government Code section 65583, subdivision (c), paragraph (1),
+         subparagraph (A) and Government Code section 65583.2, subdivision (c) are
+         completed.
+Brian Dossey, City Manager
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the Town should continue to engage the community, including organizations
+that represent lower-income and special needs households, by making information
+regularly available and considering and incorporating comments where appropriate.
+Please be aware, any revisions to the element must be posted on the local
+government’s website and to email a link to all individuals and organizations that have
+previously requested notices relating to the local government’s housing element at
+least seven days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the Town meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the Town to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD is committed to assisting the Town in addressing all statutory requirements of
+State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Molivann Phlong, of our staff, at
+Molivann.Phlong@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Proactive Housing Accountability Chief
+
+Enclosure
+                                         APPENDIX
+                                       TOWN OF COLMA
+
+The following changes are necessary to bring the Town’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      A thorough program-by-program review is necessary to evaluate Town’s performance in
+      addressing housing goals. As part of this analysis, the element should describe how the
+      goals, policies and programs of the updated element incorporates what has been learned
+      from the results of the previous element. This information and analysis provide the basis
+      for developing a more effective housing program. While many programs were identified as
+      being effective last cycle and will continue without modification, the metrics indicated that
+      the programs were not implemented. The element must state how the programs will be
+      revised to be more effective.
+
+      In addition, as part of the evaluation of programs in the past cycle, the element must provide
+      an explanation of the effectiveness of goals, policies, and related actions in meeting the
+      housing needs of special needs populations (e.g., elderly, persons with disabilities, large
+      households, female-headed households, farmworkers and persons experiencing
+      homelessness).
+
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in the
+         jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          Fair Housing Enforcement and Outreach: The element must include the Town’s ability to
+          provide enforcement and outreach capacity, such as the Town’s ability to investigate
+          complaints, obtain remedies, or the Town’s ability to engage in fair housing testing. The
+          analysis should also clarify if the Town provides fair housing information in a variety of
+          languages. While the element currently states that no fair housing complaints were filed in
+          the Town of Colma between the years 2017-2021, it also states that outreach could be
+
+      Town of Colma’s 6th Cycle Draft Housing Element                             Page 1
+      September 14, 2022
+   improved. A program should be added to address needed improvements and provide fair
+   housing outreach throughout the planning period. In addition, the appendix lists many fair
+   housing laws but does not state how the Town complies with those law. If the Town does
+   not currently comply, a program should be added to address this need.
+
+   Integration and Segregation: The element includes some data on integration and
+   segregation at the regional and local level; however, additional information is needed. The
+   analysis of race and ethnicity must describe regional trends and patterns over time. While
+   the element included data in a chart in Appendix B1, it should analyze the data provided. In
+   addition, as the Town is in one census tract, the element must supplement this analysis
+   with local knowledge on patterns and geographic trends within the Town. Lastly, the
+   household income graphs demonstrated a significantly higher poverty rate for African
+   Americans in comparison to other ethnicities within the Town, an analysis and program
+   should be added as needed.
+
+   Access to Opportunity: While the element provides some information on the access to
+   opportunity, the element must include further analysis on access to economic opportunity
+   and the environment. For example, the element states that the Town scores relatively low
+   on economic access compared to surrounding jurisdictions, the element should include a
+   regional analysis for access to jobs beyond the summary sentence. While the element
+   includes a local analysis in relation to environmental access to opportunity, a regional
+   analysis must also be included.
+
+   Disproportionate Housing Needs and Displacement Risk: The element includes some data
+   on overcrowding, homelessness, and cost-burdened households. While it states that there
+   is potential concentration of cost burden, the element should describe what contributes to
+   the concentration in the identified areas as well as include a regional analysis. The section
+   analyzing homelessness includes data on the regional homeless population but should also
+   include data on the number of homeless individuals in the Town of Colma. The section
+   analyzing displacement should further expand on local analysis regarding vulnerability to
+   displacement as well as potential displacement due to the San Andreas Fault.
+
+   Contributing Factors: While the element provided a list of contributing factors, they must
+   also be prioritized and tied to fair housing issues and programs. Contributing factors create,
+   contribute to, perpetuate, or increase the severity of fair housing issues and are
+   fundamental to adequate goals and actions. The analysis shall result in strategic
+   approaches to inform and connect goals and actions to mitigate contributing factors to
+   affordable housing.
+
+   Site Inventory: The element must include an analysis demonstrating whether sites identified
+   to meet the regional housing needs allocation (RHNA) are distributed throughout the
+   community in a manner that affirmatively furthers fair housing. A full analysis should
+   address the income categories of identified sites with respect to location, the number of
+   sites and units by all income groups and how that effects the existing patterns for all
+   components of the assessment of fair housing (e.g., segregation and integration, access to
+   opportunity). The element should also discuss whether the distribution of sites improves or
+   exacerbates conditions. If sites exacerbate conditions, the element should identify further
+   program actions that will be taken to mitigate this (e.g., anti-displacement strategies).
+
+Town of Colma’s 6th Cycle Draft Housing Element                            Page 2
+September 14, 2022
+   Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+   overcome contributing factors to fair housing issues. Currently, the element includes an
+   Affirmatively Furthering Fair Housing (AFFH) Action Plan separate from the element’s
+   policies and programs. If action is being taken on the AFFH Action Plan, this must also be
+   included in the programs section. Programs also need to be based on identified
+   contributing factors, be significant and meaningful. The element must add, and revise
+   programs based on a complete analysis and listing and prioritization of contributing factors
+   to fair housing issues. Furthermore, the element must include metrics and milestones for
+   evaluating progress on programs, actions, and fair housing results.
+   In addition, the Action Plan identified an objective for Action 1.1 which would provide down
+   payment assistance. However, the element must include specific metrics and milestones
+   and specify what providing homebuyer education entails. For Action 2.1 in the Action Plan,
+   the element could include stronger metrics to evaluate the progress of this action prior to
+   2029 or by including objectives midpoint in the planning period. For more information,
+   please see HCD’s guidance at https://www.hcd.ca.gov/affirmatively-furthering-fair-housing.
+2. Include an analysis and documentation of household characteristics, including level of
+   payment compared to ability to pay, housing characteristics, including overcrowding, and
+   housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+   Overpayment: While the element identifies the total number of overpaying households, it
+   must quantify and analyze the number of overpaying households by tenure (i.e., renter and
+   owner) and the lower-income households paying more than 30 percent of their income on
+   housing.
+
+   Extremely Low-Income Households: The element must quantify projected extremely low-
+   income (ELI) households and analyze their housing needs. The analysis of ELI housing
+   needs could consider tenure and rates of overcrowding and overpayment. For additional
+   information, see the Building Blocks at https://www.hcd.ca.gov/extremely-low-income-
+   housing-needs.
+
+   Vacancy Rate: While the element provides the overall vacancy rate, it must quantify and
+   analyze the vacancy rate by tenure (i.e., renter and owner).
+
+   Housing Stock Conditions: The element identifies the age of the housing stock. However, it
+   must include analysis of the condition of the existing housing stock and estimate the
+   number of units in need of rehabilitation and replacement. For example, the analysis could
+   include estimates from a recent windshield survey or sampling, estimates from the code
+   enforcement agency, or information from knowledgeable builders/developers, including
+   non-profit housing developers or organizations. For additional information, see the Building
+   Blocks at https://www.hcd.ca.gov/housing-stock-characteristics.
+
+3. An inventory of land suitable and available for residential development, including vacant
+   sites and sites having realistic and demonstrated potential for redevelopment during the
+   planning period to meet the locality’s housing need for a designated income level, and an
+   analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+   Code, § 65583, subd. (a)(3).)
+
+Town of Colma’s 6th Cycle Draft Housing Element                              Page 3
+September 14, 2022
+   The Town has a RHNA of 202 housing units, of which 69 are for lower-income households.
+   To address this need, the element relies on vacant sites, nonvacant sites, and
+   nonresidential sites that allow residential uses. To demonstrate the adequacy of these sites
+   and strategies to accommodate the Town’s RHNA, the element must include complete
+   analyses:
+   Sites Inventory: The element must list sites by each property’s general plan and zoning
+   designation, describing existing uses for any nonvacant sites and include a calculation of
+   the realistic capacity of each site. While the element includes most requirements, the
+   inventory must list whether each site is vacant or nonvacant, whether it has been identified
+   in the 4th or 5th cycle planning period, as well as the general plan and zoning designations.
+   For additional information and sample sites inventory, see the Building Blocks at
+   https://www.hcd.ca.gov/inventory-of-suitable-land.
+   Pursuant to Government Code section 65583.3, subdivision (b), the Town must utilize
+   standards, forms, and definitions adopted by HCD when preparing the sites inventory. Please
+   see HCD’s housing element webpage at https://www.hcd.ca.gov/housing-elements-hcd or a
+   copy of the form and instructions. The Town can reach out to HCD at
+   sitesinventory@hcd.ca.gov for technical assistance. Please note, upon adoption of the
+   housing element, the Town must submit an electronic version of the sites inventory with its
+   adopted housing element to sitesinventory@hcd.ca.gov.
+   Realistic Capacity: While the element provides assumptions of buildout for sites included
+   in the inventory, it must also provide support for these assumptions. For example, the
+   element should demonstrate what specific trends, factors, and other evidence led to the
+   assumptions. The estimate of the number of units for each site must be adjusted as
+   necessary, based on the land use controls and site improvements, typical densities of
+   existing or approved residential developments at a similar affordability level in that
+   jurisdiction, and on the current or planned availability and accessibility of sufficient water,
+   sewer, and dry utilities. The element also needs to analyze the likelihood that the identified
+   units will be developed as noted in the inventory in zones that allow nonresidential uses
+   (e.g., mixed-use). This analysis should consider whether the mixed-use zone allows for
+   100 percent commercial or residential development and the likelihood of nonresidential
+   development, performance standards, and development trends supporting residential
+   development. For additional information, see the Building Blocks at
+   https://www.hcd.ca.gov/analysis-of-sites-and-zoning.
+   Suitability of Nonvacant Sites: While the element identifies nonvacant sites to
+   accommodate the regional housing need for lower-income households, it provides little
+   description of the potential for redevelopment. The element must further describe the
+   methodology used to determine the additional development potential within the planning
+   period. The methodology must consider factors including the extent to which existing uses
+   may impede additional residential development, development trends, market conditions,
+   any existing leases or other contracts that would perpetuate the existing use or prevent
+   redevelopment of the site for additional residential development, and regulatory or other
+   incentives or standards to encourage additional residential development on these sites.
+   (Gov. Code, § 65583.2, subd. (g).) For sites with residential uses, the inventory could also
+   describe structural conditions or other circumstances and trends demonstrating the
+   redevelopment potential to more intense residential uses. For nonresidential sites, the
+
+Town of Colma’s 6th Cycle Draft Housing Element                              Page 4
+September 14, 2022
+   inventory could also describe whether the use is operating, marginal or discontinued, and
+   the condition of the structure or could describe any expressed interest in redevelopment.
+   The element must also address whether the identified environmental and topographical
+   constraints were considered in the suitability of the sites. In addition, the element must
+   provide an analysis of the nonvacant parking lot site listed as an “additional site” on page
+   H-59.
+   In addition, if the housing element relies upon nonvacant sites to accommodate more than
+   50 percent of the RHNA for lower-income households, the housing element must
+   demonstrate that the existing use is not an impediment to additional residential
+   development in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) This can be
+   demonstrated by providing substantial evidence that the existing use is likely to be
+   discontinued during the planning period (Gov. Code, § 65583.2, subd. (g)(2). Absent
+   findings (e.g., adoption resolution) based on substantial evidence, the existing uses will be
+   presumed to impede additional residential development and will not be utilized toward
+   demonstrating adequate sites to accommodate the RHNA.
+
+   Planned Development Permit: The element indicates that a Planned Development (PD)
+   permit is the best way to develop the sites identified in the inventory. However, it must
+   describe and analyze the permit processing procedures impacts as potential constraints
+   on housing supply and affordability, particularly for residential development affordable to
+   lower-income households. The analysis must address whether the sites can develop at
+   assumed capacity with the base zone, or whether a PD is required to develop at assumed
+   capacity. In addition, the element must address the findings and approval procedures for a
+   PD permit and whether it is discretionary, or a constraint on multifamily development. For
+   additional information, see the Building Blocks at https://www.hcd.ca.gov/processing-
+   permitting-procedures.
+
+   Suitability and Availability of Infrastructure: While the element describes water and sewer
+   infrastructure for some sites, it must demonstrate sufficient water and sewer capacity for
+   all sites. The element must also demonstrate sufficient existing or planned dry utilities
+   supply capacity, including the availability and access to distribution facilities to
+   accommodate the Town’s regional housing need for the planning period (Gov. Code, §
+   65583.2, subd. (b).). For additional information, see the Building Blocks at
+   http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+   analysis/analysis-of-sites-and-zoning.shtml#environmental.
+
+   Sites with Zoning for a Variety of Housing Types:
+
+   •   Multifamily Zoning: While the element appears to indicate that multifamily developments
+       of up to 6 units is allowed in the R Zone and C Zone with a Conditional Use Permit
+       (CUP), the element must describe zoning that allows for projects greater than six units.
+       In addition, the element must analyze the CUP requirement for multifamily as a potential
+       constraint on housing supply and affordability. The analysis should identify findings of
+       approval for the CUP and their potential impact on development approval certainty,
+       timing, and cost. The element must demonstrate this process is not a constraint or it.
+       For additional information, see the Building Blocks at
+       https://www.hcd.ca.gov/processing-permitting-procedures.
+
+
+Town of Colma’s 6th Cycle Draft Housing Element                             Page 5
+September 14, 2022
+   •   Emergency Shelters: Program 4.3 allows for an emergency shelter in the Commercial
+       (C) district. However, the element must demonstrate permit processing, development,
+       and management standards are objective and encourage and facilitate the
+       development of, or conversion to, emergency shelters or include a program to do so. In
+       addition, emergency shelters must only be subject to the same development and
+       management standards that apply to residential or commercial development within the
+       same zone except for those standards prescribed by statute. Also, the element must
+       analyze policies and procedures to accommodate Low Barrier Navigation Centers
+       pursuant to AB 101. For additional information, see the Building Blocks at
+       https://www.hcd.ca.gov/zoning-for-a-variety-of-housing-types and HCD’s SB 2 memo
+       at http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+       memos/docs/sb2_memo050708.pdf.
+   •   Transitional and Supportive Housing: Transitional housing and supportive housing
+       must be permitted as a residential use in all zones allowing residential uses and only
+       subject to those restrictions that apply to other residential dwellings of the same type in
+       the same zone. (Gov. Code, § 65583, subd. (c)(3).) The element must describe and
+       analyze the Town’s transitional and supportive housing standards and codes and
+       demonstrate consistency with Section 65583(c)(3) or add or revise programs which
+       comply with the statutory requirements. In addition, the element must have policies and
+       procedures to accommodate AB 2162. The element should also describe the Town’s
+       procedure for complying with Government Code section 65651, subdivision. Section
+       65651 requires jurisdictions to allow supportive housing by right in zones allowing
+       multifamily housing, including mixed-use and nonresidential zones when the
+       development meets certain requirements.
+   •   Single Room Occupancy (SRO) Units: SROs are an important housing type for
+       extremely low-income households. The element must address where the zoning code
+       allows for SROs.
+   •   Housing for Farmworkers: The element must identify sufficient sites to accommodate
+       the need for farmworker housing and include an analysis of potential and actual
+       governmental constraints upon the maintenance, improvement, or development of
+       housing for agricultural employees, permanent and seasonal. For example, the
+       analysis could describe zoning available to accommodate various housing types, such
+       as manufactured homes, apartments, boarding houses, or single-room occupancy
+       units, to address the needs of farmworkers. In addition, the element must demonstrate
+       the zoning is consistent with the Employee Housing Act (Health and Safety Code, §
+       17000 et seq.), specifically, sections 17021.5 and 17021.6. Section 17021.5 requires
+       employee housing for six or fewer employees to be treated as a single-family structure
+       and permitted in the same manner as other dwellings of the same type in the same
+       zone. Section 17021.6 requires employee housing consisting of no more than 12 units
+       or 36 beds to be permitted in the same manner as other agricultural uses in the same
+       zone. For additional information and sample analysis, see the Building Blocks at
+       https://www.hcd.ca.gov/farmworkers.
+
+4. An analysis of potential and actual governmental constraints upon the maintenance,
+   improvement, or development of housing for all income levels, including the types of
+   housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+   as identified in the analysis pursuant to paragraph (7), including land use controls,
+   building codes and their enforcement, site improvements, fees and other exactions
+
+Town of Colma’s 6th Cycle Draft Housing Element                              Page 6
+September 14, 2022
+    required of developers, and local processing and permit procedures. The analysis
+    shall also demonstrate local efforts to remove governmental constraints that hinder the
+    locality from meeting its share of the regional housing need in accordance with
+    Government Code section 65584 and from meeting the need for housing for persons
+    with disabilities, supportive housing, transitional housing, and emergency shelters
+    identified pursuant to paragraph (7). (Gov. Code, § 65583, subd. (a)(5).)
+
+    Land-Use Controls: The element must identify and analyze all relevant land use
+    controls impacts as potential constraints on a variety of housing types (e.g.,
+    multifamily rental housing, mobilehomes, transitional housing). The analysis must also
+    evaluate the cumulative impacts of land use controls on the cost and supply of
+    housing, including the ability to achieve maximum densities and cost and supply of
+    housing. The analysis should also describe past or current efforts to remove identified
+    governmental constraints. The element must also address whether three stories are
+    possible within the 36-foot height limit in the R and C zones and whether garages are
+    required within the front setback. The element should include programs to address or
+    remove the identified constraints. In addition, the element must describe what uses
+    are allowed in each zone, including the mixed-use zone and the commercial overlay.
+
+    Parking: The element states that 1.5 parking spaces are required for studio and one-
+    bedroom units. The element also states that the PD process could be utilized to
+    remove the potential constraint. Requiring a discretionary process to remove an
+    identified constraint should be addressed and the element should include a program to
+    address the parking requirements.
+
+    Zoning and Fees Transparency: The element must clarify its compliance with new
+    transparency requirements for posting all zoning and development standards as well
+    as inclusionary requirements for each parcel on the jurisdiction’s website pursuant to
+    Government Code section 65940.1(a)(1).
+
+    Fees and Exaction: While the element describes some fees, it must describe all
+    required fees for single family and multifamily housing development, including impact
+    fees, and analyze their impact as potential constraints on housing supply and
+    affordability. The element also demonstrates that fees for multifamily developments
+    are significantly higher than single-family fees on a per unit basis. The element must
+    include a program to address this constraint.
+
+    Local Processing and Permit Procedures: While the element describes some of the
+    use permit procedures, it must further describe and analyze the Town’s permit
+    processing and approval procedures by zone and housing type (e.g., multifamily rental
+    housing, mobilehomes, housing for agricultural employees, supportive housing). The
+    analysis must evaluate the processing and permit procedures’ impacts as potential
+    constraints on housing supply and affordability. For example, the analysis should
+    consider processing and approval procedures and time for typical single- and multi-
+    family developments, including type of permit, level of review, approval findings and
+    any discretionary approval procedures. The element should describe the average
+    processing time for both single and multifamily developments. In addition, as stated
+    above the element must also describe and analyze the findings and approval
+
+Town of Colma’s 6th Cycle Draft Housing Element                            Page 7
+September 14, 2022
+    procedures for a conditional use permit for multifamily projects and planned
+    development process for development of sites. In addition, the element should
+    describe the development standards for mixed-use zones. Lastly, the element must
+    describe its streamlined, ministerial approval process pursuant to SB 35.
+
+    For additional information and sample analysis, see the Building Blocks at
+    https://www.hcd.ca.gov/processing-permitting-procedures.
+
+    Inclusionary Housing: The element must further describe and analyze the inclusionary
+    housing requirements and their impacts as potential constraints on the development of
+    housing for all income levels, specifically on housing supply and affordability. The
+    analysis must evaluate the inclusionary policy’s implementation framework, including
+    levels of mandated affordability and the types of options and incentives offered to
+    encourage and facilitate compliance with the inclusionary requirements. For rental
+    inclusionary housing provisions, the analysis should demonstrate consistency with
+    requirements of Government Code section 65680 (g) which requires provision of
+    alternative means of compliance that may include, but are not limited to, in-lieu fees,
+    land dedication, off-site construction, or acquisition and rehabilitation of existing units.
+    The Town could engage the development community to facilitate this analysis.
+
+    Design Review: The element must describe and analyze the design review guidelines
+    and process, including approval procedures and decision-making criteria, for their
+    impact as potential constraints on housing supply and affordability. For example, the
+    analysis could describe required findings and discuss whether objective standards and
+    guidelines improve development certainty and mitigate cost impacts. The element
+    must demonstrate this process is not a constraint or it must include a program to
+    address this permitting requirement, as appropriate.
+
+    Current Density Bonus: The Town’s current density bonus ordinance should be
+    reviewed for compliance with current state density bonus law. (Gov. Code, § 65915.)
+    A copy of the current law is available on HCD’s website at
+    http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=65915
+    .&lawCode=GOV. For additional information and a sample ordinance, see the Building
+    Blocks at https://www.hcd.ca.gov/assist-in-the-development-of-housing.
+
+    Constraints on Housing for Persons with Disabilities: The element must include an
+    analysis of zoning, development standards, building codes, and process and permit
+    procedures as potential constraints on housing for persons with disabilities. For
+    example, the analysis must describe any zoning code definitions of family and any
+    spacing or concentration requirements for housing for persons with disabilities. The
+    element must also describe and demonstrate the Town has a reasonable
+    accommodation process and procedure for providing exception in zoning and land use
+    or include a program to do so. (Gov. Code, § 65583, subd. (c)(1)(3).) For additional
+    information and sample analysis, see the Building Blocks at
+    https://www.hcd.ca.gov/constraints-for-people-with-disabilities.
+
+    In addition, the element must describe and analyze whether residential care facilities
+    serving six or fewer persons are permitted in all residential zones. The element must
+
+Town of Colma’s 6th Cycle Draft Housing Element                               Page 8
+September 14, 2022
+    also describe and analyze the process for residential care facilities serving seven or
+    more persons. As a potential constraint on housing for persons with disabilities, the
+    element should add or modify programs as appropriate to ensure zoning permits
+    group homes objectively with approval certainty.
+
+    Local Ordinances: The element must further specifically analyze locally adopted
+    ordinances, such as but not limited to, inclusionary ordinances or short-term rental
+    ordinances, that directly impact the cost and supply of residential development.
+
+    Water Sewer Priority: For your information, water and sewer service providers must
+    establish specific procedures to grant priority water and sewer service to
+    developments with units affordable to lower-income households. (Gov. Code, §
+    65589.7.) Local governments are required to immediately deliver the housing element
+    to water and sewer service providers. HCD recommends including a cover memo
+    describing the Town’s housing element, including the Town’s housing needs and
+    regional housing need. For additional information and sample cover memo, see the
+    Building Blocks at https://www.hcd.ca.gov/priority-for-water-and-sewer.
+
+5. An analysis of potential and actual nongovernmental constraints upon the
+   maintenance, improvement, or development of housing for all income levels, including
+   the availability of financing, the price of land, the cost of construction, the requests to
+   develop housing at densities below those anticipated in the analysis required by
+   subdivision (c) of Government Code section 65583.2, and the length of time between
+   receiving approval for a housing development and submittal of an application for
+   building permits for that housing development that hinder the construction of a
+   locality’s share of the regional housing need in accordance with Government Code
+   section 65584. The analysis shall also demonstrate local efforts to remove
+   nongovernmental constraints that create a gap between the locality’s planning for the
+   development of housing for all income levels and the construction of that housing.
+   (Gov. Code, § 65583, subd. (a)(6).)
+
+    The element must describe and analyze the availability of financing, the price of land,
+    and cost of construction as a potential constraint on housing production. When
+    analyzing the availability of financing, the element could consider other relevant
+    factors such as down payment assistance to lower-income households and
+    homeowner association fees. For additional information, see the Building Blocks at:
+    https://www.hcd.ca.gov/projected-housing-needs-rhna.
+
+    Developed Densities and Permit Times: The element must be revised to include
+    analysis of requests to develop housing at densities below those anticipated, and the
+    length of time between receiving approval for a housing development and submittal of
+    an application for building permits that potentially hinder the construction of a locality’s
+    share of the regional housing need.
+
+
+
+
+Town of Colma’s 6th Cycle Draft Housing Element                               Page 9
+September 14, 2022
+C. Housing Programs
+
+  1. Include a program which sets forth a schedule of actions during the planning period,
+     each with a timeline for implementation, which may recognize that certain programs
+     are ongoing, such that there will be beneficial impacts of the programs within the
+     planning period, that the local government is undertaking or intends to undertake to
+     implement the policies and achieve the goals and objectives of the Housing Element
+     through the administration of land use and development controls, the provision of
+     regulatory concessions and incentives, and the utilization of appropriate federal and
+     state financing and subsidy programs when available. The program shall include an
+     identification of the agencies and officials responsible for the implementation of the
+     various actions. (Gov. Code, § 65583, subd. (c).)
+
+     Programs must demonstrate that they will have a beneficial impact within the planning
+     period. Beneficial impact means specific commitment to deliverables, measurable
+     metrics or objectives, definitive deadlines, dates, or benchmarks for implementation.
+     Deliverables should occur early in the planning period to ensure actual housing
+     outcomes. To address the program requirements of Government Code section 65583,
+     subdivision (c)(1-6), and to facilitate implementation, all programs should be evaluated
+     to ensure inclusion of the following:
+
+        •   a description of the Town’s specific role in Implementation.
+        •   definitive implementation timelines.
+        •   objectives, quantified where appropriate.
+        •   identification of responsible agencies and officials.
+        •   programs containing unclear language (e.g., “Evaluate”; “Consider”;
+            “Encourage”; etc.) should be amended to include more specific and measurable
+            actions.
+
+     Programs to be revised include the following:
+
+        •   Program 1.1 (Manufactured Housing Design Standards): The program must
+            clearly include an action to complete as well as proactive outreach.
+        •   Program 2.2 (Accessory Dwelling Units (ADU)): The program must be revised to
+            describe how often outreach will occur. In addition, the program states that
+            incentives will be provided if ADU assumptions are not met, but the element
+            does not include any ADU assumptions. The program must clarify what
+            incentives will be implemented as well as the timing of the survey and outreach
+            materials.
+        •   Program 3.2 (Density Bonus Provisions for Affordable Housing): The program
+            must clarify whether the Town’s density bonus ordinance is currently compliant
+            with state law. If the ordinance was last updated in 2005, the program must
+            commit to updating the density bonus ordinance for compliance with state law
+            within one year of the start of the planning period.
+
+
+
+  Town of Colma’s 6th Cycle Draft Housing Element                           Page 10
+  September 14, 2022
+      •   Program 3.3 (High-Density Housing Near Colma and South San Francisco
+          BART Stations): This program must clarify implementation and timing of the
+          actions.
+      •   Program 3.4 (Planner Responsibility to Promote Affordable Housing and Mixed-
+          Use): This program should include proactive outreach and list potential
+          incentives. The program should also clarify the implementation action.
+      •   Program 3.5 (Planned Development Zoning Provisions for Single Family
+          Attached Development): This program should clarify the purpose and action of
+          the program.
+      •   Program 3.7 (Inclusionary Housing): This program should clarify the
+          implementation action as well as the timing of implementation.
+      •   Program 3.8 (Development Agreement): This program must clarify when public
+          benefits are required, as well as whether the requirements are currently in place
+          or need to be implemented. If the requirements are not currently in place, the
+          program must include timing to implement the requirements.
+      •   Program 3.9 (Funding District): The program must clarify the action as well as
+          whether additional fees will be added.
+      •   Program 4.1 (Reasonable Accommodations Ordinance Public Information,
+          Ordinance Amendment and Monitoring): This program must include specific
+          timing for implementation.
+      •   Program 4.2 (Senior Housing): This program should include preservation of at-
+          risk properties. The program must also include a specific implementation action
+          as well as timing for implementation.
+      •   Program 4.3 (Emergency Shelters): This program must clarify what will be
+          implemented. In addition, it must clarify whether the description of emergency
+          shelters is already in place or needs to be implemented.
+      •   Program 4.4 (Inform Local Developers of Opportunities to Provide Transitional
+          and Supportive Housing): The element must clarify what the implementation
+          action is regarding transitional and supportive housing. If the Town does not
+          comply with state law for transitional and supportive housing, this program must
+          be implemented within the first year of the planning period. In addition, the
+          program should include timing of outreach.
+      •   Program 4.5 (Transitional and Supportive Housing): The program must clarify
+          the implementation action and timing.
+      •   Program 4.6 (Reach Out to Local Service Providers): The program should state
+          when the program will be developed and how often outreach will occur. The
+          program should also clarify what actions will be taken.
+      •   Program 5.1 (Knowledgeable Housing Referral): The program should include
+          specific actions, implementation timing, and proactive outreach.
+      •   Program 5.2 (Human Investment Project Support): This program should include
+          specific timing for proactive outreach.
+      •   Program 5.3 (Section 8 Rental Assistance): This program should include timing
+          of how often outreach will occur.
+      •   Program 5.4 (Housing Recordkeeping): The program must clarify the action as
+          well as whether units will be surveyed for condition.
+
+
+
+
+Town of Colma’s 6th Cycle Draft Housing Element                          Page 11
+September 14, 2022
+      •   Program 5.5 (Address needs of Extremely Low-Income Households): The
+          program should include an implementation of actions or results after the
+          identified meetings.
+      •   Program 6.1 (Greenbuilding Regulations for Residential Uses): This program
+          should be revised to implement after the study is completed. The program must
+          also clarify when the study will be completed.
+      •   Program 6.2 (Encourage Use of Energy Conservation Measures): This program
+          should include proactive outreach and timing for outreach.
+      •   Program 7.1 (Rebuilding Together Peninsula): This program should clarify how
+          often it will be implemented during the planning period.
+      •   Program 7.2 (Neighborhood Improvement): This program should include timing
+          for what will be considered. In addition, the program must clarify whether it
+          includes a crime free ordinance. If so, it should be analyzed as a constraint on
+          fair housing. The program should also clarify what action is being implemented if
+          the element states that it is complete.
+
+2. Identify actions that will be taken to make sites available during the planning period
+   with appropriate zoning and development standards and with services and facilities to
+   accommodate that portion of the city’s or county’s share of the regional housing need
+   for each income level that could not be accommodated on sites identified in the
+   inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+   to comply with the requirements of Government Code section 65584.09. Sites shall be
+   identified as needed to facilitate and encourage the development of a variety of types
+   of housing for all income levels, including multifamily rental housing, factory-built
+   housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+   room occupancy units, emergency shelters, and transitional housing.
+   (Gov. Code, § 65583, subd. (c)(1).)
+
+   As noted in Finding B3, the element does not include a complete site analysis,
+   therefore, the adequacy of sites and zoning were not established. Based on the results
+   of a complete sites inventory and analysis, the Town may need to add or revise
+   programs to address a shortfall of sites or zoning available to encourage a variety of
+   housing types. In addition, the element should be revised as follows:
+
+   Program 3.1 (Planned Development Districts and Mixed Use) and 3.6 (Ensure No Net
+   Loss of Required Units): These programs must clarify whether they are rezone
+   programs for identified sites. If a rezone is required, the program must include a
+   program(s) to identify sites with appropriate zoning to accommodate the regional
+   housing need within the planning period. (Gov. Code, § 65583.2, subd. (h) and (i).). If a
+   rezone is not needed to accommodate the RHNA, the program must clarify the
+   implementation component of this program. In addition, Program 3.6 must clarify which
+   three sites it applies to as well as timing of implementation.
+
+   Previously Identified Nonvacant and Vacant Sites: If nonvacant sites identified in a
+   prior adopted housing element or vacant sites identified in two or more consecutive
+   planning periods, the sites are inadequate to accommodate housing for lower-income
+   households unless:
+
+
+Town of Colma’s 6th Cycle Draft Housing Element                           Page 12
+September 14, 2022
+      •   The site’s current zoning is appropriate for the development of housing
+          affordable to lower-income households by either including analysis or meeting
+          the appropriate density. See Government Code section 65583.2, subdivision
+          (c)(3), and
+      •   The site is subject to a housing element program that requires rezoning within
+          three years of the beginning of the planning period to allow residential use by
+          right for housing developments in which at least 20 percent of the units are
+          affordable to lower income households (Gov. Code, § 65583.2, subd. (c).).
+
+    Replacement Housing Requirements: If the sites inventory identifies sites with existing
+    residential uses, it must identify whether they are affordable to lower-income
+    households or describe whether the additional residential development on the site
+    requires the demolition of the existing residential use. For nonvacant sites with
+    existing, vacated, or demolished residential uses and occupied by, or subject to an
+    affordability requirement for, lower-income households within the last five years there
+    must be a replacement housing program for units affordable to lower-income
+    households (Gov. Code, § 65583.2, subd. (g)(3)). Absent a replacement housing
+    program, these sites are not adequate sites to accommodate lower-income
+    households. The replacement housing program has the same requirements as set
+    forth in Government Code section. 65915, subdivision (c)(3). The housing element
+    must be revised to include such analysis and a program, if necessary.
+
+    Accessory Dwelling Units: While the element includes Program 2.1 (Second Unit
+    Ordinance), the program must be revised to allow ADUs consistently with state law.
+
+3. The Housing Element shall contain programs which assist in the development of
+   adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+   income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+   The element must include a program(s) with specific actions and timelines to assist in
+   the development of housing for extremely low-income (ELI) households. While the
+   element includes Program 5.5 to meet with property owners and non-profit builders, it
+   is unclear how this program will result in the development of housing for ELI
+   households. The program should specific the specific actions and outcomes and could
+   further commit the City to adopting priority processing, granting fee waivers or
+   deferrals, modifying development standards, granting concessions and incentives for
+   housing developments that include units affordable to extremely low-income
+   households; assisting, supporting or pursuing funding applications; and outreach and
+   coordination with affordable housing developers. In addition, the element must include
+   a program(s) to address the Town’s special needs populations. The program should
+   include specific actions to assist housing for persons with special needs (e.g.,
+   farmworkers, homeless, and persons with disabilities, including developmental
+   disabilities).
+4. Address and, where appropriate and legally possible, remove governmental and
+   nongovernmental constraints to the maintenance, improvement, and development of
+   housing, including housing for all income levels and housing for persons with
+   disabilities. The program shall remove constraints to, and provide reasonable
+
+Town of Colma’s 6th Cycle Draft Housing Element                          Page 13
+September 14, 2022
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the Town may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      Program to Mitigate Nongovernmental Constraints: The element must be revised to
+      include a program that mitigates nongovernmental constraints that create a gap in the
+      jurisdictions ability to meet RHNA by income category (Gov. Code, § 65583.2, subd.
+      (c)(3).).
+
+   5. The Housing Element shall include programs to conserve and improve the condition of
+      the existing affordable housing stock. (Gov. Code, § 65583, subd. (c)(4).)
+      The element must include a program(s) to conserve and improve the condition of the
+      existing stock, which may include addressing the loss of dwelling units. A program
+      could provide grants for substantial rehabilitation, provide matching grants for
+      homeowner improvements, or implement proactive code enforcement program. For
+      additional information and a sample program, see the Building Blocks’ at
+      https://www.hcd.ca.gov/improve-and-conserve-the-existing-housing-stock.
+   6. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and
+      other characteristics protected by the California Fair Employment and Housing Act
+      (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+      any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+      (c)(5).)
+
+      The element must include actions that promote AFFH opportunities as stated in
+      Finding B1. For example, the element could include a program committing to
+      implement Government Code section 8899.50, subdivision (b) which requires the City
+      to administer its programs and activities relating to housing and community
+      development in a manner to AFFH and take no action that is materially inconsistent
+      with its obligation to AFFH. Programs should address enhancing housing mobility
+      strategies; encouraging development of new affordable housing in high resource areas;
+      improving place-based strategies to encourage community conservation and
+      revitalization, including preservation of existing affordable housing; and protecting
+      existing residents from displacement. The programs should also include metrics and
+      milestones for evaluating progress on programs, actions, and fair housing results.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   Town of Colma’s 6th Cycle Draft Housing Element                            Page 14
+   September 14, 2022
+   The element must include quantified objectives to establish an estimate of housing units
+   by income category that can be constructed, rehabilitated, and conserved over the
+   planning period. While the element includes these objectives by income group for very
+   low-, low-, moderate- and above-moderate income, the element must also include
+   objectives for extremely low-income households. In addition, the element must include
+   objectives for rehabilitation as well as conservation/preservation.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a summary of the public participation process, it must also
+   describe how public comments were considered and incorporated into the element.
+
+
+F. Consistency with General Plan
+
+   The housing element shall describe the means by which consistency will be achieved with
+   other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   The housing element affects a locality’s policies for growth and residential land uses. The
+   goals, policies and objectives of an updated housing element may conflict with those of the
+   land-use, circulation, open space elements as well as zoning and redevelopment plans. The
+   general plan is required to be “internally consistent.” As part of the housing element update,
+   the Town should review the general plan to ensure internal consistency is maintained. In
+   addition, The Town should consider an internal consistency review as part of its annual
+   general plan implementation report required under Government Code section 65400.
+
+
+
+
+   Town of Colma’s 6th Cycle Draft Housing Element                           Page 15
+   September 14, 2022

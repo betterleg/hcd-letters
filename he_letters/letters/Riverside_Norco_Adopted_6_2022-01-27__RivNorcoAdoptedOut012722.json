@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Norco",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-01-27",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/RivNorcoAdoptedOut012722.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/RivNorcoAdoptedOut012722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 261256,
+  "text_chars": 18655,
+  "text_empty": false
+}

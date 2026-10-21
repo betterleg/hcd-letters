@@ -1,0 +1,25 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Duarte",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-12-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanDuartedrafin120321.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanDuartedrafin120321.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169192,
+  "text_chars": 5016,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "county": "Los Angeles",
+      "jurisdiction": "Duarte",
+      "type": "Draft",
+      "cycle": "6",
+      "reviewed": "2021-12-03",
+      "linktext": "Click to Download Letter",
+      "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanDuartedrafin120321.pdf"
+    }
+  ]
+}

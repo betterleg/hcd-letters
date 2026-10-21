@@ -1,0 +1,14 @@
+{
+  "county": "Marin",
+  "jurisdiction": "San Anselmo",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-08-01",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-san-anselmo-draft-out-080123.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-san-anselmo-draft-out-080123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 196499,
+  "text_chars": 10270,
+  "text_empty": false
+}

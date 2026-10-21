@@ -1,0 +1,14 @@
+{
+  "county": "Napa",
+  "jurisdiction": "Saint Helena",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-09-25",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/nap-saint-helena-adopt-in-092523.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/nap-saint-helena-adopt-in-092523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 171350,
+  "text_chars": 4632,
+  "text_empty": false
+}

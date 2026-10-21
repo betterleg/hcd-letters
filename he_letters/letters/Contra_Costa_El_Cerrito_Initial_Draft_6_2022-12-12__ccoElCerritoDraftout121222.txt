@@ -1,0 +1,482 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 12, 2022
+
+
+         Sean Moss, Planning Manager
+         Planning Division
+         Community Development Department
+         City of El Cerrito
+         10890 San Pablo Avenue
+         El Cerrito, CA 94530
+
+         Dear Sean Moss:
+
+         RE: City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of El Cerrito’s (City) draft housing element received for
+         review on September 19, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. In addition, HCD considered comments from
+         Rachel Rosekind, East Bay Housing Organizations, East Bay for Everyone and
+         Greenbelt Alliance and YIMBY Law pursuant to Government Code section 65585,
+         subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+         lower-income households, shall be completed no later than one year from the statutory
+         deadline. Please be aware, if the City fails to adopt a compliant housing element within
+         one year from the statutory deadline, the element cannot be found in substantial
+         compliance until rezones to accommodate a shortfall of sites are completed.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+Sean Moss, Planning Manager
+Page 2
+
+
+
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the cooperation the City’s housing element team provided during the
+course of our review. We are committed to assisting the City in addressing all statutory
+requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact me at paul.mcdougall@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                        APPENDIX
+                                   CITY OF EL CERRITO
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Fair Housing Enforcement and Capacity: The element should discuss how the City
+      complies with existing fair housing laws and regulations, any past fair housing lawsuits,
+      consent decrees or other related legal matters.
+
+      Racially Concentrated Areas of Affluence (RCAA): The element briefly mentions median
+      household income by block group and notes some eastern areas with higher incomes
+      but then concludes the City does not have RCAAs. However, based on HCD data, the
+      City does have areas of concentrated affluence and the element should include a
+      specific analysis of patterns and trends for RCAAs within the City. The analysis should
+      consider data for RCAAs available on HCD’s website at
+      https://www.hcd.ca.gov/community-development/affh/index.shtml. The analysis should
+      at least address trends, conditions, comparisons to other neighborhoods, effectiveness
+      or absence of past strategies, local data and knowledge and other relevant factors
+      related to equitable quality of life. The element must add or modify meaningful programs
+      based on the outcomes of this analysis, including actions to improve housing mobility
+      within the City.
+      Disproportionate Housing Needs: The element includes some general information on
+      persons experiencing homelessness and housing conditions but should also evaluate
+      those needs, impacts and patterns within the City, such as areas of higher need. For
+      homelessness, the element should examine patterns of need or areas with higher
+      concentrations of persons experiencing homelessness, including access to
+      transportation and services. For housing conditions, the element should discuss any
+      areas of potentially higher needs of rehabilitation and replacement. The element may
+      utilize local data and knowledge such as service providers and code enforcement
+      officials to assist this analysis.
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element includes
+      some discussion regarding identified sites and AFFH. However, this approach to
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                  Page 1
+December 12, 2022
+      whether identified sites AFFH must also account for the location of identified sites by
+      income group. A full analysis should address the income categories of identified sites
+      with respect to location, the number of sites and units by all income groups and how
+      that affects the existing patterns for all components of the assessment of fair housing
+      (e.g., segregation and integration, access to opportunity). In addition, the analysis
+      should be supported by local data and knowledge and other relevant factors. The
+      element should also discuss whether the distribution of sites improves or exacerbates
+      conditions, including any isolation of the regional housing need allocation (RHNA). If
+      sites exacerbate conditions or isolate the RHNA, the element should identify further
+      program actions that will be taken to promote inclusive communities and equitable
+      quality of life throughout the community (e.g., housing mobility and new housing choices
+      and affordability in higher resource, higher income or racially concentrated areas of
+      affluence).
+
+      Local Data and Knowledge: The element must include local data and knowledge to
+      discuss and analyze any unique attributes about the City related to fair housing issues.
+      The element should complement federal, state, and regional data with local data and
+      knowledge where appropriate to capture emerging trends and issues, including utilizing
+      knowledge from local and regional advocates and service providers, City staff and related
+      local and county planning documents.
+      Other Relevant Factors: The element must include other relevant factors that contribute
+      to fair housing issues in the City. For instance, the element can analyze historical land
+      use, lack of zoning for a variety of housing types and barriers to housing choices,
+      investment practices, seeking investment or lack of seeking investment to promote
+      affordability and inclusion, information about redlining/greenlining, restrictive covenants
+      and other discriminatory practices, land use related lawsuits, local initiatives (e.g.,
+      heights, moratoriums, limits on density), demographic trends, or other information that
+      complements the state and federal data.
+
+      Contributing Factors to Fair Housing Issues: Based on the outcomes of a complete
+      analysis, the element should re-assess contributing factors and prioritize those factors
+      then formulate appropriate policies and programs.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                   Page 2
+December 12, 2022
+      Extremely Low-Income (ELI) Households: While the element quantifies existing and
+      projected ELI households, it must also analyze their housing needs. The analysis of ELI
+      housing needs could consider tenure, overpayment, overcrowding, resources and the
+      effectiveness of strategies and the magnitude of housing need.
+
+      Overpayment: While the element identifies the total number of households overpaying
+      for housing (p. 2-20), it must quantify and analyze the number of lower-income
+      households overpaying for housing by tenure (i.e., renter and owner) and add or modify
+      policies and programs as appropriate.
+
+      Special Housing Needs: The element reports data on households and persons with
+      special housing needs. However, for persons with disabilities, female-headed
+      households and large households, it must also describe the resources available and
+      effectiveness of strategies to these special housing needs groups, then determine the
+      magnitude of housing needs to better formulate policies and programs.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress Toward the RHNA: The City’s RHNA may be reduced by the number of new
+      units built, approved, or pending since June 30, 2022; however, the element must
+      demonstrate their availability in the planning period. Availability should address the
+      status, anticipated completion, any barriers to development and other relevant factors
+      such as build out horizons, phasing, and dropout rates to demonstrate the availability or
+      likelihood of development in the planning period.
+
+      Publicly-Owned Sites: The element must include additional discussion on publicly-owned
+      sites identified to accommodate the RHNA, particularly the Del Norte BART Station site.
+      Specifically, the analysis should address existing uses, any known conditions that
+      preclude or could promote development in the planning period, status, and potential
+      schedule for development. Based on this analysis, the element should add or modify
+      programs. Programs should include a schedule of actions to facilitate development in the
+      planning period in stride with assumptions in the inventory such as numerical objectives,
+      outreach, and coordination property owners, removing barriers to development, issuing
+      requests for proposals, incentives, fee waivers, priority processing and financial
+      assistance.
+
+      Environmental Constraints: While the element provides general information on
+      environmental constraints (p. 5-30), it should also relate those constraints to identified
+      sites, including a discussion of any other known conditions (e.g., shape, easements,
+      contamination) that impact or preclude development in the planning period.
+
+      Accessory Dwelling Units (ADUs): HCD records indicate the City permitted 16, 24, 13
+      and 25 ADUs in 2018, 2019, 2020 and 2021, respectively. The records differ from
+      trends reported in the element (p. 4-16) and should be reconciled with HCD records.
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                    Page 3
+December 12, 2022
+      ADU records may be reconciled by correcting figures in the element and adjusting
+      assumptions or correcting annual progress reports pursuant to Government Code
+      section 65400.
+
+      AB 725: For jurisdictions that are considered Metropolitan, the element must identify at
+      least 25 percent of the remaining moderate and above-moderate RHNA on sites that allow
+      at least four units of housing (e.g., four plex or greater) (Gov. Code, § 65583.2, subd.
+      (c)(4)).
+
+      Water Sewer Priority: Water and sewer service providers must establish specific
+      procedures to grant priority water and sewer service to developments with units
+      affordable to lower-income households. (Gov. Code, § 65589.7.) Local governments are
+      required to immediately deliver the housing element to water and sewer service
+      providers. The element should discuss compliance with these requirements and if
+      necessary, add or modify programs to establish a written procedure by a date early in
+      the planning period.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+      assistance.
+
+      Zoning for a Variety of Housing Types (Emergency Shelters): While the element states
+      emergency shelters are permitted by-right, it should clarify which zones permit
+      emergency shelters without discretionary action.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: While the element describes development standards and some land
+      use controls, it must also analyze those land use controls for impacts on housing supply
+      (number of units), costs, financial feasibility, timing, approval certainty and ability to
+      achieve maximum densities without exceptions (e.g., conditional use permits (CUP),
+      variance, planned development). For example, the analysis should address multifamily
+      development standards, including heights, floor area ratios, parking and day planes.
+      The City may engage the development community to assist with this analysis. Based on
+      the outcomes of this analysis, the element should add or modify programs to address
+      identified constraints.
+
+
+
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                    Page 4
+December 12, 2022
+      Local Processing and Permit Procedures: The element generally describes that typical
+      multifamily development are subject to a Design Review Board and in some zones, a
+      CUP when projects are twenty-five units or more. The element also describes project
+      meeting development parameters in the San Pablo Avenue Specific Plan Area are also
+      subject to the Design Review Board and a Tier II design review. The element should
+      analyze these processes for impacts on housing supply (number of units), cost,
+      feasibility and approval certainty. For example, the analysis should address CUP
+      thresholds, parameters of the various design review tiers, typical number of hearings,
+      frequency of re-designs and any related approval findings.
+
+      In addition, the element should list and evaluate processing times for various permit
+      types and clarify whether the City has a written procedure to implement streamlining
+      provisions pursuant to Government Code section 65913.4 (SB 35) and add or modify
+      programs if necessary.
+
+      On/Off-Site Improvements: The element generally describes typical on- and off-site
+      improvements such as parking, sidewalks, street reconstruction, traffic signals and park
+      improvements. However, the element should analyze the cost impacts on a typical
+      development and add or modify programs if necessary.
+
+      Constraints on Housing for Persons with Disabilities: The element must evaluate
+      constraints on housing for persons with disabilities, as follows:
+
+          •   Reasonable Accommodation: The element indicates the City has a reasonable
+              accommodate procedure but also mentions provisions that may be constraints.
+              For example, the procedure appears limited to dimensional requirements.
+              However, this reasonable accommodation procedure should be construed
+              broadly in zoning and land use. In addition, the City appears to apply decision-
+              making parameters similar to a variance (e.g., hardship test) but a reasonable
+              accommodation procedure should be a unique exception process. Based on the
+              outcomes of this analysis, the element should modify Program H-4.B
+              (Reasonable Accommodation) with specific commitment to address constraints.
+          •   Definition of Family: The element explains the definition of family does not
+              differentiate between related and unrelated persons occupying the same unit.
+              However, the definition includes ambiguous provisions such as single non-profit
+              housekeeping unit or sharing sleeping facilities that should be evaluated as
+              potential constraints.
+          •   Group Homes for Seven or More Persons: The element describes that residential
+              care facilities licensed by the state are allowed in residential zones subject to a
+              CUP requirement. However, the element should analyze these requirements to
+              better formulate policies and programs. For example, the element should discuss
+              the licensing, CUP and parking requirements as potential constraints and modify
+              Program H-2.H (Zoning Amendments for Special Needs) with specific
+              commitment to address those constraints.
+
+      Other Ordinances: The element (p. 5-12) the City adopted an inclusionary requirements
+      but should also analyze that requirement as a potential constraint. The analysis must
+      evaluate the inclusionary policy’s implementation framework, including levels of
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                  Page 5
+December 12, 2022
+      mandated affordability and the types of options and incentives offered to encourage and
+      facilitate compliance with the inclusionary requirements. The City could engage the
+      development community to facilitate this analysis.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, programs must be revised with specific commitment (e.g., beyond explore,
+      evaluate, review) to housing outcomes and discrete timelines (e.g., at least annually or
+      by January 2025). Examples of programs that should be revised with discrete timelines
+      include Programs H-2.B (Housing Trust Fund Priorities) and H-2.G (Shelter and
+      Housing Solutions for Persons Experiencing Homelessness). Examples of programs
+      that should be revised with specific commitment include Programs H-1.C (Accessory
+      Dwelling Unit Tools), H-1.E (Zoning for Innovative Housing Types), H-2.D (Assist in
+      Affordable Housing Development), H-2.F (Coordinate Transportation Projects), H-2.G
+      (Shelter and Housing Solutions for Persons Experiencing Homelessness) and H-2.J
+      (Affordable Housing and Places of Assembly).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A3, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised, as follows:
+
+          •   BART Sites: In addition, the element includes Program H-2.E (Develop on BART
+              Lands) to facilitate development on BART owned lands. However, the program
+              should include additional commitment for both identified BART owned sites.
+              Examples of steps include completing on- and off-site improvements and parking
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                   Page 6
+December 12, 2022
+              strategies, completion of requests for proposals or qualifications, facilitating
+              entitlement and issuing permits and alternative actions with timing if steps are not
+              completed as anticipated to facilitate development in the planning period. In
+              addition, numerical objectives should reflect both identified BART sites.
+          •   San Pablo Avenue Specific Plan (SPASP): The element notes several changes
+              pending to the SPASP that are essential to addressing housing needs in the
+              planning period and as a result, the element should include a program with
+              specific commitment and discrete timelines.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A4, the element requires a complete analysis of potential
+      governmental and non-governmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      In addition, as noted in Finding A4, the element should modify Programs H-2.H (Zoning
+      Amendments for Special Needs Housing) and H-4.B (Reasonable Accommodation) with
+      specific commitment to address identified constraints based on the outcomes of a
+      complete analysis.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Goals and actions must specifically respond to the analysis and to the
+      identified and prioritized contributing factors to fair housing issues and must be
+      significant and meaningful enough to overcome identified patterns and trends. Actions
+      must have specific commitments, milestones, geographic targeting, and metrics or
+      numerical targets and, as appropriate, must address housing mobility enhancement
+      (more choices and affordability across geographies), new housing choices and
+      affordability in higher opportunity and income areas (e.g., missing middle housing
+      types), place-based strategies for community preservation and revitalization and
+      displacement protection.
+
+
+
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                       Page 7
+December 12, 2022
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for new construction, rehabilitation, and
+   conservation (p. 7-14), it could consider increasing conservation objectives for all income
+   groups. For your information, conservation objectives are not limited to at-risk preservation
+   and may include a variety of activities that promote stability in housing. Examples of
+   programs that may be used for conservation objectives include Programs H-3.A
+   (Residential Rental Inspection Program)y, H-3.C (Tenant Protections), H-4.C (Housing
+   Choice Vouchers).
+
+
+D. Public Participation
+
+   The local government shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the housing element, and the
+   program shall describe this effort. (Government Code 65583(c)(7))
+
+   While the City made considerable effort to include the public through a survey and
+   workshops, moving forward, the City should employ additional methods for public outreach
+   efforts in the future, particularly to include lower-income and special needs households and
+   neighborhoods with higher concentrations of lower-income households. For example, the
+   City could conduct targeted stakeholder interviews or establish a committee representative
+   of lower-income households in future public outreach efforts.
+
+   In addition, the element includes a general statement that comments were incorporated but
+   should better explain how the comments were incorporated into the element.
+
+
+
+
+City of El Cerrito’s 6th Cycle (2023-2031) Draft Housing Element                  Page 8
+December 12, 2022

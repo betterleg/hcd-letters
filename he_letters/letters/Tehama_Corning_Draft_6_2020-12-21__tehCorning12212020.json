@@ -1,0 +1,14 @@
+{
+  "county": "Tehama",
+  "jurisdiction": "Corning",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2020-12-21",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tehCorning12212020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tehCorning12212020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 137879,
+  "text_chars": 3285,
+  "text_empty": false
+}

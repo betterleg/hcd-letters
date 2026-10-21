@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "La Verne",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2022-09-30",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanLaVerneDraft In093022.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanLaVerneDraft In093022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 152215,
+  "text_chars": 4179,
+  "text_empty": false
+}

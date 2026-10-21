@@ -1,0 +1,522 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY               GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+       September 20, 2023
+
+
+       Paul Johnson, Director
+       Planning Division
+       City of Bakersfield
+       1715 Chester Avenue
+       Bakersfield, CA 93301
+
+       Dear Paul Johnson:
+
+       RE: City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element
+
+       Thank you for submitting the City of Bakersfield’s (City) draft housing element update
+       received for review on June 22, 2023, along with revisions received on September 5, 2023.
+       Pursuant to Government Code section 65585, subdivision (b), the California Department of
+       Housing and Community Development (HCD) is reporting the results of its review. Our
+       review was facilitated by conversations on August 1, 2023 and August 9, 2023 with you,
+       Kassandra Gale, Assistant Planning Director; Christopher Boyle, Development Services
+       Director; Jose Fernandez, Associate Planner; and your consultants, Emily Green, Veronica
+       Tam, Brenna Weatherby, and Jason Montague. In addition, HCD considered comments
+       from several stakeholders, including Leadership Counsel for Justice and Accountability and
+       Home Builders Association of Kern County, pursuant to Government Code section 65585,
+       subdivision (c).
+
+       The draft element addresses many statutory requirements; however, revisions will be
+       necessary to substantially comply with State Housing Element Law (Gov. Code, §
+       65580 et seq.). The enclosed Appendix describes the revisions needed to comply with
+       State Housing Element Law.
+
+       Public participation in the development, adoption and implementation of the housing
+       element is essential to effective housing planning. Throughout the housing element
+       process, the City must continue to engage the community, including organizations that
+       represent lower-income and special needs households; by making information regularly
+       available while considering and incorporating comments where appropriate. Please be
+       aware, any revisions to the element must be posted on the local government’s website
+       and to email a link to all individuals and organizations that have previously requested
+       notices relating to the local government’s housing element at least seven days before
+       submitting to HCD.
+Paul Johnson, Director
+Page 2
+
+
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and dedication you, your staff, and your consultants
+provided in preparation of the City’s housing element and looks forward to working with
+the City toward a compliant housing element. If you have any questions or need
+additional technical assistance, please contact Shawn Danino, of our staff, at
+shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                         APPENDIX
+                                   CITY OF BAKERSFIELD
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Racially/Ethnically Concentrated Areas of Poverty (R/ECAP): While the element briefly
+      states R/ECAPs are concentrated in Central and Southeast Bakersfield and mentions a
+      few demographics, it should specifically analyze these areas for quality of life relative to
+      other areas and formulate appropriate and meaningful policies and programs. For
+      example, an analysis should address housing conditions, neighborhood conditions,
+      infrastructure, parks, community amenities, safe routes to school, environmental health,
+      effectiveness of past strategies and compare R/ECAPs to other areas such as higher
+      opportunity areas or concentrated areas of affluence. The analysis should also
+      incorporate local data and knowledge such as commenters on this review and other
+      relevant factors such as market factors on housing stability, past zoning, and land use,
+      redlining, lack of investment, state, and federal investment (e.g., housing,
+      transportation, infrastructure) and lack of strategies to promote inclusion. Based on the
+      outcomes of this analysis, the element should include significant and meaningful
+      program that are in stride with the needs to promote equitable quality of life and
+      inclusive communities. For example, the element should significantly enhance
+      strategies related to housing mobility (not limited to the regional housing need allocation
+      (RHNA)), displacement risk and place-based community revitalization.
+
+      Racial Concentration of Affluence (RCAA): While the element indicates the presence of
+      RCAAs, it should also analyze these areas. For example, an analysis should address
+      trends, conditions, coincidence with other fair housing factors (e.g., race, highest
+      resource, overpayment), effectiveness or absence of past strategies (e.g., lack of
+      publicly assisted housing and lack of multifamily zoning), local data and knowledge and
+      other relevant factors.
+
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                   Page 1
+September 20, 2023
+      Disproportionate Housing Needs: The element includes some general information on
+      persons experiencing homelessness, farmworkers and housing conditions but should
+      also evaluate that information, as follows:
+
+          •   For persons experiencing homelessness, the element mentions disproportionate
+              impacts on protected characteristics and geographic areas with higher need as
+              well as some proposed strategies but should also discuss the access to
+              services, shelter, sanitation, and amenities to better formulate appropriate
+              policies and programs, including geographic targeting and metrics or numeric
+              targets.
+
+          •   For farmworkers, while the element makes brief statements regarding housing
+              types and incomes, it should examine the disproportionate housing needs of
+              farmworkers. For example, the element could discuss the impacts of salaries on
+              affordability, displacement, and safe and sanitary housing conditions.
+
+         •    For housing conditions, the element should discuss any geographic patterns or
+              areas of higher need for rehabilitation and replacement, how that coincides with
+              other fair housing factors (e.g., environmental quality, overpayment,
+              displacement risk) then discuss the magnitude of the need to better formulate
+              appropriate policies and programs, geographic targeting and metrics or numeric
+              targets.
+
+      These analyses should utilize local data and knowledge such as service providers, code
+      enforcement and other officials and commenters on this review to assist with this
+      analysis.
+
+      Affirmatively Furthering Fair Housing (AFFH) and Identified Sites: The element must
+      identify sites throughout the community to foster inclusive communities. While the
+      element identifies and show sites and zoning throughout the community, many census
+      tracts in the Southwest and Northeast portions of the City are considered highest
+      resource areas by the Tax Credit and Allocation Committee (TCAC), but do not have
+      any capacity for lower-income households. These census tracts include, but are not
+      limited to, 6029005104, 6029002820, 6029003204, 6029002821, 6029002811,
+      6029002807, and 6029003123. In addition, the inventory appears to concentrate a large
+      share of units available to lower-income households in the Southeast and Central
+      portions of the City, where several census tracts are considered either low, moderately
+      resourced, or high segregation and poverty areas by TCAC. These census tracts
+      include, but are not limited to, 6029001600, 6029001300, 6029000600, 6029003202,
+      6029002500, and 6029002400. Given these and other circumstances, the element
+      should further discuss whether this strategy potentially isolates a significant number of
+      the housing need for lower-income and moderate and above-moderate households by
+      location and include actions as appropriate, such as additional zoning for a variety of
+      housing choices, displacement strategies and place-based strategies toward community
+      revitalization.
+
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                 Page 2
+September 20, 2023
+      Contributing Factors to Fair Housing Issues: Based on the outcomes of a complete
+      analysis, the element should re-assess and prioritize the contributing factors to fair
+      housing issues.
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The City’s RHNA may be reduced by pending,
+      approved, or completed projects; however, the element must demonstrate their
+      availability in the planning period. The element lists pipeline projects crediting 3,407
+      total units, all of which are above moderate-income (p. E-7). In addition, while the
+      element provides estimated dates of completion, the element should also discuss any
+      remaining steps, barriers to development, phasing, build out or planning horizons and
+      other relevant factors to demonstrate their availability in the planning period.
+
+      Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre in
+      size are deemed inadequate to accommodate housing for lower-income households
+      unless it is demonstrated, with sufficient evidence, that sites of equivalent size and
+      affordability were developed in the past. The element may provide other evidence to
+      demonstrate the suitability of these sites to accommodate housing for lower-income
+      households, including responsive policies and programs. While the element included a
+      few examples about developments with lot consolidation, it must also provide specific
+      examples with the densities, affordability and, if applicable, circumstances leading to
+      consolidation. The element should relate these examples to the sites identified to
+      accommodate the RHNA for lower-income households to demonstrate that these sites
+      can adequately accommodate the City’s lower-income housing need and provide
+      analysis that shows that maximum allowable densities can be reached on sites smaller
+      than a half-acre.
+
+      In addition, the City provides details on 25 sites over ten acres that have received letters
+      of interest from property owners. However, given that these sites are expected to
+      accommodate 16,832 units, including 9,298 units affordable to lower-income
+      households, the element must specifically analyze their suitability to accommodate
+      housing for lower-income households. For example, the element could describe it
+      parceling strategy at appropriate sizes and include some analysis to ensure maximum
+      densities are reachable given the City’s development standards. Based on a complete
+      analysis, the City should add or revise programs to include incentives for facilitating
+      development on these sites for housing affordable to lower-income households.
+
+      Suitability of Nonvacant Sites: While the element describes several factors (e.g.,
+      improvement to land value, age of structure, existing floor area) utilized to identify
+      suitable nonvacant sites, it should also analyze the validity of these factors. An analysis
+      should utilize recent development trends on nonvacant sites and how those trends and
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                   Page 3
+September 20, 2023
+      prior uses relate to the factors. Further, the element lists parcels by some of these
+      factors but to the extent possible, should list parcels by all the utilized factors. Finally,
+      while the element discusses that most nonvacant sites are underutilized parking lots
+      and a few developments have occurred, it should still discuss the extent existing uses
+      impede additional development for parking lots and other nonvacant sites. For example,
+      the analysis could discuss how development on parking lots would not result in a loss of
+      necessary parking or that the existing viable use would continue. For other nonvacant
+      sites, the element could generally discuss the lack of impediments and indicators of
+      turnover such as expressed interest in residential redevelopment, lack of known leases
+      or other conditions that preclude redevelopment, lack of recent investment and turnover
+      in uses or occupants.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Employee Housing: The element must demonstrate zoning is consistent with the
+             Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically,
+             sections 17021.5, 17021.6 and 17021.8. For example, section 17021.5 requires
+             employee housing for six or fewer employees to be treated as a single-family
+             structure and permitted in the same manner as other dwellings of the same type
+             in the same zone. Section 17021.6 requires employee housing consisting of no
+             more than 12 units or 36 beds to be permitted in the same manner as other
+             agricultural uses in the same zone. While the element broadly describes these
+             requirements (p. C-26), it should demonstrate compliance with these policies,
+             and modify policies and programs as appropriate. In addition, the City provided a
+             matrix of revisions that described pre-approved plans for farmworker housing that
+             were not found inside the element. Therefore, the element should be revised to
+             clarify the timeline of these plans. For additional information and sample analysis,
+             see the Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+             development/housing-elements/building-blocks/farmworkers.
+
+         •   Single-Room Occupancies (SRO): The element describes its plans to incentivize
+             SROs in broad detail (p. E-31 and 34). However, the current zoning code only
+             allows SROs in the C-C zone. Given the City’s strategy to encourage these
+             naturally affordable housing units, it should clarify which zones SROs will be
+             permitted during the planning period, how development standards will encourage
+             the use and add or modify the programs, as appropriate.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                    Page 4
+September 20, 2023
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element identifies many land use controls as potential
+      constraints on a variety of housing types and describes its strategies to remove parking
+      minimums and mitigate some development standards that may constrain housing
+      supply. However, the analysis should analyze land use controls independently and
+      cumulatively with other land use controls. The analysis should specifically address
+      requirements related to maximum building coverage, floor area ratio (FAR), required
+      open space per unit, minimum lot area, setbacks, height limits, and limits on allowable
+      densities. The analysis should address any impacts on cost, supply, housing choice,
+      affordability, timing, approval certainty and ability to achieve maximum densities and
+      include programs to address identified constraints.
+
+      SB-330: The Housing Crisis Act of 2019 (SB 330, 2019) was signed by Governor Newsom
+      on October 9, 2019 and became effective on January 1, 2020. The Housing Crisis Act
+      (Gov. Code, § 66300) generally prohibits a locality from enacting a development policy,
+      standard or condition that reduces intensity, imposes moratoriums, enforces subjective
+      design standards, or implements any provision that limits approvals or caps population.
+      These provisions remain in effect until January 1, 2025. Specifically, Government Code
+      section 66300, subdivision (b)(1)(D), with limited exception, does not allow affected
+      jurisdictions to adopt new or enforce existing limits on the number of land-use approvals or
+      permits. The City broadly describes these requirements (p. C-52) but should also evaluate
+      consistency with these requirements.
+
+      Building Codes and their Enforcement: The element broadly describes how municipal
+      codes are currently enforced (p. C-27 and 28). However, the element should describe the
+      type (e.g., complaint-based) and degree of code enforcement. For additional information
+      and a sample analysis, see the Building Blocks at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements/building-blocks/codes-and-enforcement-and-
+      onsite-offsite-improvement-standards.
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …the length
+      of time between receiving approval for a housing development and submittal of an
+      application for building permits for that housing development that hinder the
+      construction of a locality’s share of the regional housing need in accordance with
+      Government Code section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+      Permit Times: The element describes constraints related to requests to develop
+      densities below those anticipated. However, the element should also describe the
+      length of time between receiving approval for a housing development and submittal of
+      an application for building permits that potentially hinder the construction of a locality’s
+      share of the regional housing need.
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                    Page 5
+September 20, 2023
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact and achieve the goals of the housing elements, programs
+      should have specific commitment, discrete timing (e.g., at least annually) and where
+      applicable, increased numerical objectives. Several programs and actions lack specific
+      commitment and discrete timelines, and some actions should increase numerical
+      objectives and include timelines that should be moved earlier in the planning period to
+      ensure a beneficial impact, as follows:
+
+         •   Earlier Timing: Examples of actions that should have earlier dates include Action
+             5.3 (Farmworker Housing, currently January 2028) and Action 17.10 (targeted
+             community programs in Central and Southeast Bakersfield by January 2028).
+
+         •   Discrete Timing: Examples of actions that should have discrete timing include
+             Action 4.1 (State and Federal Funding), Action 5.3 (Farmworker Housing), Action
+             11.1 (Funding for Homeless Service Providers) and Action 14.1 (Funding for
+             Homeowners).
+
+         •   Numerical Objectives: Several actions have objectives or numerical targets that
+             should be increased in stride with the level of need in the jurisdiction. Examples
+             include, but are not limited to, Action 5.4 (240 farmworker housing units), Action
+             5.6 (100 student housing units within 8 years), Action 5.8 (one Homekey
+             application over 8 years for 20 extremely low-income (ELI) households), Action
+             8.10 (15 moderate income units per year), Action 8.14 (100 units of alternate
+             housing types), Action 10.2 (10 home rehabilitations over 8 years), Action 11.3
+             (100 housing units for persons experiencing homelessness), Action 15.4 (plant
+             100 trees over 8 years), and Action 17.9 (10 affordable ADUs over 8 years).
+
+         •   Specific Commitment: Some actions in the element lack specific
+             commitments and should be amended. These include, but are not limited to,
+             Action 8.9 (coordinate with High-Speed Rail Authority), and Action 19.1
+             (analysis of 15-minute neighborhoods). In addition, the City should consider
+             making a firm commitment to establish smaller unit typologies outside of
+             Accessory Dwelling Units (ADUs) that will increase housing opportunities
+             across income categories.
+
+      Finally, commenters on this review offered many meaningful program suggestions
+      related to clarity, specific commitment, timing, and numeric objectives. HCD encourages
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                 Page 6
+September 20, 2023
+      the City to continue engaging with the public and commenters and make adjustments as
+      appropriate.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised, as follows:
+
+          •   Action 7.5 (General Plan and Zoning Amendments): The Action commits to re-
+              designate and rezone sites to accommodate the RHNA prior to the beginning of
+              the planning period. Please be aware, if these zoning actions are not completed
+              by December 31, 2023, the element must include a program(s) to rezone sites
+              with appropriate zoning and development standards pursuant to Government
+              Code sections 65583, subdivision (c)(1), and 65583.2, subdivisions (h) and (i).
+
+          •   Action 7.4 (Publicly-owned Sites): The Action should commit to additional actions
+              with discrete timing to facilitate development on publicly-owned sites such as
+              facilitating entitlements, assisting with funding, and issuing building permits.
+              Further, the Program should clarify that alternative actions will be taken if
+              development is not feasible in the planning period and commit to when
+              alternative actions will be completed.
+
+          •   Action 8.4 (Lot Consolidation): The Program should commit to establish
+              incentives to promote lot consolidation.
+
+          •   Action 9.1 (Large Sites): The Action should commit to when strategies, including
+              incentives, will be established to encourage parceling of large sites at appropriate
+              sizes and affordability.
+
+          •   Action 13.1 (Monitor Accessory Dwelling Units (ADU)): The Action should commit
+              to additional alternative actions if production is not meeting assumptions in the
+              inventory (e.g., rezoning).
+
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                   Page 7
+September 20, 2023
+          •   Action 18.1 (Annexation): The Action should clarify that alternative actions will be
+              taken if development is not feasible in the planning period and commit to when
+              alternative actions will be completed.
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Action 5.3 (Farmworkers): As noted in Finding A1, the element must complete an
+      analysis of farmworker housing needs. Based on the outcomes of a complete analysis,
+      the element should add actions to assist in development of housing, address
+      constraints, conserve and improve the existing housing stock and promote fair housing
+      opportunities for farmworkers. Further, Action 5.3 should commit to additional actions
+      and more frequently identifying development and conservation and improvement
+      opportunities (e.g., at least annually)
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A3 and A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Programs to AFFH should go beyond status quo actions and should be
+      significant and meaningful to promote inclusive and equitable communities. Programs
+      should include specific commitment, timing, geographic targeting and metrics or
+      numerical targets and should, as appropriate, address housing mobility, encourage new
+      housing choices in higher resource areas, improve place-based strategies toward
+      community revitalization and protect existing residents from displacement.
+
+
+
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                      Page 8
+September 20, 2023
+      The element should, for example, commit to additional programs to promote housing
+      mobility (not limited to the RHNA), address displacement risk and enhance place-based
+      strategies toward community revitalization. Finally, the element should commit to
+      assessing and revising programs through a mid-cycle review. Please see HCD’s AFFH
+      memo for more information: https://www.hcd.ca.gov/community-
+      development/affh/docs/affh_document_final_4-27-2021.pdf#page=23.
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   The element provides a summary of quantified objectives (Table 2-1). These objectives
+   include new construction, rehabilitation, and conservation objectives by income group.
+   However, the element could consider additional conservation objectives. Conservation
+   objectives may include a variety of strategies employed by the City to promote tenant
+   stability and conserve the existing housing stock. Examples include Program 2 (Safe and
+   Sanitary Housing), Program 6 (Tenant and Owner Protections and Support) and Program
+   15 (Support Climate Change Resiliency in Buildings and Neighborhoods)
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation oof all
+   segments of the community in the development of the Housing Element and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the City made extensive efforts to reach the public, including hosting events and
+   meeting with key stakeholders and summarizing community feedback, it should also further
+   discuss how input was incorporated into the housing element.
+
+   In addition, HCD received comments with many meaningful and valuable suggestions
+   related to the housing element and HCD strongly encourages the City to consider and
+   address these comments, including revising the document as appropriate. Examples
+   include a rental assistance program with a target of 300 tenants per year, establishing and
+   defining missing middle housing typologies, and investing in additional incentives for
+   Transit Oriented development.
+
+   Finally, HCD notes that public comments were received from the Leadership Council of
+   Bakersfield and the Home Builders Association of Kern County, and the City expressed
+   interest in responding to these comments during the review period but was not able to do so
+   while meeting public noticing requirements, pursuant to Government Code 65585. These
+   comments should be considered and incorporated into the City’s next housing element
+   submission.
+
+City of Bakersfield’s 6th Cycle (2023-2031) Draft Housing Element                Page 9
+September 20, 2023

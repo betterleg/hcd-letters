@@ -1,0 +1,14 @@
+{
+  "county": "Kings",
+  "jurisdiction": "Lemoore",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2025-01-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/kin-lemoore-draft-out-010625_revised-068cs00000UD4USAA1.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/kin-lemoore-draft-out-010625_revised-068cs00000UD4USAA1.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 300018,
+  "text_chars": 42400,
+  "text_empty": false
+}

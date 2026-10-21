@@ -1,0 +1,14 @@
+{
+  "county": "Colusa",
+  "jurisdiction": "Williams",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2020-12-04",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/colWilliamsAdopted6thCycle12042020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/colWilliamsAdopted6thCycle12042020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 159740,
+  "text_chars": 3158,
+  "text_empty": false
+}

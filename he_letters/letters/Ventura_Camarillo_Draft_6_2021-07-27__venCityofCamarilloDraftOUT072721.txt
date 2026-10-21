@@ -1,0 +1,603 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY              GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 27, 2021
+
+
+
+
+         Joe Vacca, Director
+         Community Development Department
+         City of Camarillo
+         601 Carmen Drive
+         Camarillo, CA 93010
+
+         Dear Joe Vacca:
+
+         RE: Review of the City of Camarillo’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Camarillo’s draft housing element received for
+         review on May 28, 2021, along with revisions received on June 21, 2021. Pursuant to
+         Government Code section 65585, subdivision (b), the California Department of Housing
+         and Community Development (HCD) is reporting the results of its review. Our review
+         was facilitated by a telephone conversation on July 13, 2021 with David Moe and
+         Oksana Buck, and consultants Greg Martin and Veronica Tam.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element
+         within 120 calendar days from the statutory due date of October 15, 2021 for Southern
+         California Association of Government (SCAG) localities. If adopted after this date,
+         Government Code section 65588, subdivision (e)(4), requires the housing element be
+         revised every four years until adopting at least two consecutive revisions by the
+         statutory deadline. For more information on housing element adoption requirements,
+         please visit HCD’s website at: http://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos/docs/sb375_final100413.pdf.
+
+         Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+         standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+         Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml for a copy of the form and instructions. The
+         City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance. Upon
+Joe Vacca, Director
+Page 2
+
+
+adoption of the housing element, the City must submit an electronic version of the sites
+inventory with its adopted housing element to sitesinventory@hcd.ca.gov.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and
+welcomes the opportunity to provide assistance. For information, please see the
+Technical Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+HCD appreciates the hard work and dedication the City’s housing element team
+provided during the course of our review. We are committed to assisting the City in
+addressing all statutory requirements of State Housing Element Law. If you have any
+questions or need additional technical assistance, please contact Molivann Phlong, of
+our staff, at Molivann.Phlong@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+Enclosure
+                                          APPENDIX
+                                     CITY OF CAMARILLO
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+     Review the previous element to evaluate the appropriateness, effectiveness, and
+     progress in implementation, and reflect the results of this review in the revised element.
+     (Gov. Code, § 65588 (a) and (b).)
+
+     As part of the evaluation of programs in the past cycle, the element must provide an
+     explanation of the effectiveness of goals, policies, and related actions in meeting the
+     housing needs of special needs populations (e.g., elderly, persons with disabilities, large
+     households, female headed households, farmworkers, and persons experiencing
+     homelessness).
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+         AFFH: While the element includes a variety of information related to AFFH, the
+         element must include an analysis of that data and draw conclusions from that analysis
+         to inform necessary goals and actions. In addition, the following information is also
+         necessary to address this requirement:
+
+         Local Data and Knowledge: The element should complement federal, state and regional
+         data with local data and knowledge where appropriate to capture emerging trends and
+         issues, including utilizing knowledge from local and regional advocates and service
+         providers.
+
+         Disproportionate Housing Needs: The element identifies trends in disproportionate
+         housing needs (page 7-41). However, the element should analyze trends and patterns
+         at a local and regional level related to substandard housing. For example, the analysis
+         could include estimates from the code enforcement agency, or information from
+         knowledgeable builders/developers, including non-profit housing developers or
+         organizations. For additional information, see the Building Blocks at
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                 Page 1
+July 27, 2021
+         http://www.hcd.ca.gov/community-development/building-blocks/housing-
+         needs/housing-stock-characteristics.shtml.
+
+         Identifying and Prioritizing Contributing Factors to Fair Housing Issues: While the element
+         contains contributing factors on Table 7-11 (page 7-53), it must also prioritize contributing
+         factors to fair housing issues. The element must be revised to evaluate and prioritize
+         contributing factors to fair housing issues, including based on the outcomes of analysis.
+         Contributing factors create, contribute to, perpetuate, or increase the severity of fair
+         housing issues and are fundamental to adequate goals and actions. The analysis shall
+         result in strategic approaches, including prioritizing contributing factors, to inform and
+         connect goals and actions to mitigate contributing factors to affordable housing.
+
+         Sites Inventory: Currently, discussion of sites is limited to lower-income areas and the
+         Racial/Ethnic Areas of Concentration of Poverty (page 7-50). However, the element must
+         address the full scope of AFFH, including the placement of its moderate and above
+         moderate-income units, access to transportation and educational opportunities, and
+         analyze and conclude whether the identified sites improve or exacerbate each of the fair
+         housing issue areas.
+
+         Goals and Actions: While the element includes on Table 7-11 a column for “meaningful
+         actions”, these actions are not incorporated into the housing element programs. The
+         element must be revised to add or modify goals and actions based on the outcomes of
+         analysis described above. Goals and actions must specifically respond to the analysis and
+         identified and prioritized contributing factors to fair housing issues and must be significant
+         and meaningful enough to overcome identified patterns and trends. Actions must have
+         metrics and milestones as appropriate and must address housing mobility enhancement,
+         new housing choices and affordability in high opportunity areas, place-based strategies for
+         community preservation and revitalization and displacement protection. For more
+         information, please contact HCD and visit https://www.hcd.ca.gov/community-
+         development/affh/index.shtml.
+
+      2. Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+         The element identifies the age of the housing stock (page 7-18). However, it must
+         include analysis of the condition of the existing housing stock and estimate the number
+         of units in need of rehabilitation and replacement. For example, the analysis could
+         include estimates from a recent windshield survey or sampling, estimates from the
+         code enforcement agency, or information from knowledgeable builders/developers,
+         including non-profit housing developers or organizations. For additional information,
+         see the Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/housing-needs/housing-stock-characteristics.shtml.
+
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                 Page 2
+July 27, 2021
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         The City has a regional housing need allocation (RHNA) of 1,376 housing units, of
+         which 597 are for lower-income households. To address this need, the element relies
+         on vacant and nonvacant sites, including sites in Specific Plan Areas. To demonstrate
+         the adequacy of these sites and strategies to accommodate the City’s RHNA, the
+         element must include complete analyses:
+
+         Progress in Meeting the RHNA: The element indicates (page 7-64) that 100 units
+         affordable to very low-income and low-income households are entitled, but it provides
+         no information documenting how affordability of the units was determined. The element
+         must describe the City’s methodology for assigning these units to the various income
+         groups based on actual sales price or rent level of the units and demonstrate their
+         availability in the planning period. In addition, the element must describe the expected
+         timeframe of the entitled projects in the planning period; any entitlements that are still
+         required with their expected timing; and include a program to facilitate the approval of
+         the unentitled projects.
+
+         Sites Inventory: The element does not clearly describe which sites were utilized in the
+         prior planning period. If the City utilizes vacant sites identified in two or more
+         consecutive planning periods’ housing elements or nonvacant sites identified in a prior
+         housing element period to accommodate the lower-income RHNA, the element must
+         include a program to commit to zone for the following:
+
+         o sites must meet the density requirements for housing for lower-income households,
+           and
+         o allow by-right approval for housing developments that include 20 percent or more of
+           its units affordable to lower-income households (Gov. Code, § 65583.2, subd. (c).).
+
+         Realistic Capacity: The element assumes residential development on sites zoned for
+         nonresidential uses while also assuming 80 percent development. To support this
+         assumption, the element must include analysis to demonstrate the likelihood for
+         residential development, especially given the zones are intended for nonresidential
+         uses. The analysis may be based on factors such as land-use controls, development
+         trends including typical density of existing, or approved developments at similar
+         affordability levels, performance standards or other relevant factors. For additional
+         information, see the Building Blocks at http://www.hcd.ca.gov/community-
+         development/building-blocks/site-inventory-analysis/analysis-of-sites-and-
+         zoning.shtml#zoning.
+
+         Suitability of Nonvacant Sites: While the element includes some recent trends and
+         generally describes existing uses to demonstrate past experience, it does not explain
+         how these trends relate to zoning, existing uses, densities, and the listed sites in the
+         inventory. The element must also analyze the extent to which existing uses may impede
+         additional residential development and include an analysis of any existing leases or
+         other contracts that would perpetuate the existing use or prevent redevelopment of the
+         site for additional residential development (Gov. Code, § 65583.2, subd. (g)(1).). To
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                  Page 3
+July 27, 2021
+         analyze the extent that existing uses may impede additional residential development,
+         the element should also include information on whether existing uses are operating,
+         have been operating, and whether or not they are anticipated to continue operating. The
+         element could also further describe expected subdivision of parking area as part of this
+         analysis. For additional information and sample analysis, see the Building Blocks at
+         http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+         analysis/analysis-of-sites-and-zoning.shtml#analysis. In addition, relying on nonvacant
+         sites to accommodate 50 percent or more of the housing needs for lower-income
+         households triggers requirements to make findings based on substantial evidence that
+         the existing use is not an impediment and will likely discontinue in the planning period.
+
+         Small Sites: The element identifies sites in Table 7-B-3 at less than a half-acre.
+         Sites smaller than a half-acre in size are deemed inadequate to accommodate
+         housing for lower-income housing unless it is demonstrated that sites of equivalent
+         size were successfully developed during the prior planning period for an equivalent
+         number of lower-income housing units as projected for the site or unless the
+         housing element describes other evidence to HCD that the site is adequate to
+         accommodate lower-income housing (Gov. Code, § 65583.2, subd. (c)(2)(A).). As
+         the element appears to rely on consolidated small sites to accommodate the RHNA
+         for lower-income households, it should also provide analysis demonstrating the
+         potential for consolidation. For example, the analysis could describe the City’s role
+         or track record in facilitating small-lot consolidation, policies or incentives offered or
+         proposed to encourage and facilitate lot consolidation, conditions rendering parcels
+         suitable and ready for lot consolidation, or information from the owners of each
+         aggregated site.
+
+         Sites with Zoning for a Variety of Housing Types:
+
+         •   Single Room Occupancy (SRO) Units: The element describes that housing projects
+             with 100 percent SROs are not allowed. The element must identify and analyze this
+             limitation as a potential constraint on the City’s ability to provide a variety of housing
+             types to accommodate housing at all income levels including housing for extremely
+             low-income households. In particular, this requirement may pose a barrier to the
+             conversion or adaptive reuse of motel or hotels to housing for people experiencing
+             homelessness.
+
+         •   Accessory Dwelling Units (ADUs): The element indicates the City modifies its
+             zoning code to ease barriers to the development of ADU’s. However, per the HCD’s
+             June 29, 2021 letter, HCD discovered several areas which were not consistent with
+             State ADU Law. This includes limiting ADUs to certain zones and requiring the
+             submittal of annual reports. As a result, the element should revise its program to
+             update the City’s ADU ordinance in order to comply with State ADU Law.
+
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                    Page 4
+July 27, 2021
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis shall
+         also demonstrate local efforts to remove governmental constraints that hinder the
+         locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7). Transitional housing and supportive housing shall
+         be considered a residential use of property and shall be subject only to those
+         restrictions that apply to other residential dwellings of the same type in the same zone.
+         (Gov. Code, § 65583, subd. (a)(5).)
+
+         Land-Use Controls: The element must identify and analyze all relevant land-use
+         controls impacts as potential constraints. For example, the element should identify any
+         lot coverage requires, minimum unit sizes, and other standards typically applied to
+         development by zoning district. The analysis must evaluate the cumulative impacts of
+         land use controls on the cost and supply of housing, including the ability to achieve
+         maximum densities and cost and supply of housing. The analysis should also describe
+         past or current efforts to remove identified governmental constraints. The element must
+         also analyze the garage parking requirement (page 7-86) for multifamily units for its
+         impact as a potential constraint on housing. Should the analysis determine the parking
+         standards are a constraint on residential development, it must include a program to
+         address or remove any identified constraints. For additional information, see the
+         Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/constraints/land-use-controls.shtml.
+
+         Fees and Exaction: The element must describe all required fees for single family and
+         multifamily housing development, including impact fees, and analyze their impact as
+         potential constraints on housing supply and affordability. While the element provides
+         some fees and exactions on Table 7-42, it does not calculate all typical fees applied to
+         a project such as those associated with application processing, the Residential
+         Development Board review, and impact fees. For additional information and a sample
+         analysis and tables, see the Building Blocks at http://www.hcd.ca.gov/community-
+         development/building-blocks/constraints/fees-and-exactions.shtml
+
+         Local Processing and Permit Procedures: The element indicates that multifamily
+         development must obtain a planned development or conditional use permit. The
+         element must describe and analyze the permit processing procedures and their
+         impacts as potential constraints on housing supply and affordability, particularly for
+         residential development affordable to lower-income households and development on
+         sites identified in the sites inventory. The analysis must describe and analyze approval
+         procedures and decision-making criteria including approval certainty.
+
+         Residential Development Evaluation Board (RDEB): HCD recognizes that the
+         RDEB has been suspended until 2025 pursuant to SB 330 (Chapter 654, Statutes
+         of 2019). However, this requirement will return in the second half of the planning
+         period if the provisions of SB 330 are not extended. As such, the analysis must
+         include a complete analysis of this requirement as a constraint to development.
+         Specifically, the element should address if there are any roll over provisions for the
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                 Page 5
+July 27, 2021
+         annual 400 unit allocation, the City’s ability to accommodate the total RHNA
+         throughout the planning period, and how this requirement interfaces with
+         streamlined ministerial projects such as SB 35 (Chapter 366, Statutes of 2017) and
+         other by-right provisions. These types of approval processes are non-discretionary
+         and cannot trigger the California Environmental Quality Act (CEQA), whereas many
+         of the findings required by the RDEB process are subjective and may trigger CEQA
+         review.
+
+         Inclusionary Housing and Local Ordinances: The housing element must specifically
+         analyze locally adopted ordinances that directly impact the cost and supply of
+         residential development. The element briefly describes the Inclusionary Housing
+         Policy (page 7-A4). The element must describe and analyze the inclusionary housing
+         requirements and their impacts as potential constraints on the development of
+         housing for all income levels, specifically on housing supply and affordability. The
+         analysis must evaluate the inclusionary policy’s implementation framework, including
+         levels of mandated affordability and the types of options and incentives offered to
+         encourage and facilitate compliance with the inclusionary requirements. The City
+         could engage the development community to facilitate this analysis.
+
+         In addition, the element describes the Affordable Housing Agreement (Agreement)
+         policy in which developers with affordable housing units must enter with the City
+         (page 7-102). It is unclear whether this Agreement is only for projects with
+         inclusionary units or if it is required for all affordable housing. The element must
+         evaluate the requirements of the Agreement for potential constraints to meeting the
+         need for housing for persons with disabilities, supportive housing, transitional
+         housing, and emergency shelters. Particularly the requirement that affordable
+         housing units be distributed among a range of unit sizes may impact the ability to
+         provide 100% affordable housing projects to seniors, or permeant supportive housing
+         to people experiencing homelessness and extremely low-income individuals.
+
+         Constraints on Housing for Persons with Disabilities: The element (page 7-28) currently
+         details that residential care facilities serving six or fewer persons are permitted in all
+         residential zones and with a conditional use permit (CUP) in the Camarillo Commons
+         Zone. However, residential care facilities serving seven or more persons are limited to
+         the same zones with the approval of a CUP. The element notes that larger group
+         homes for seven or more persons are subject to a conditional use permit. While the
+         element states larger group homes have different needs; and that the use permit
+         allows the City to work with applicants; it must also identify and analyze decision-
+         making criteria for impacts on approval certainty and objectivity including programs as
+         appropriate. While the element briefly describes the City’s Chapter 16.08 Reasonable
+         Accommodation process, it should further describe and analyze its reasonable
+         accommodation criteria and process including approval findings.
+
+      5. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels,
+         including the availability of financing, the price of land, the cost of construction, the
+         requests to develop housing at densities below those anticipated in the analysis
+         required by subdivision (c) of Government Code section 65583.2, and the length of
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                    Page 6
+July 27, 2021
+         time between receiving approval for a housing development and submittal of an
+         application for building permits for that housing development that hinder the
+         construction of a locality’s share of the regional housing need in accordance with
+         Government Code section 65584. The analysis shall also demonstrate local efforts
+         to remove nongovernmental constraints that create a gap between the locality’s
+         planning for the development of housing for all income levels and the construction of
+         that housing. (Gov. Code, § 65583, subd. (a)(6).)
+
+         Price of Land, Cost of Construction, and Availability of Financing: While the element
+         includes a high-level analysis of availability of financing, the price of land, and the cost
+         of construction, it should be revised to analyze quantifiable cost data and its impact on
+         the supply of housing.
+
+         Requests for Lower Density, Permit Times, and Efforts to Address Nongovernmental
+         Constraints: The element must include analysis regarding local efforts to address
+         nongovernmental constraints that create a gap in the jurisdiction’s ability to meet
+         RHNA by income category, an identification and analysis of requests to develop at
+         densities below the density identified in the site inventory, and a description of the
+         length of time between project approval and request for building permit that hinders the
+         jurisdiction’s ability to accommodate RHNA by income category. For example, the City
+         can look at recent developments in the jurisdiction and identify any nongovernmental
+         constraints.
+
+      6. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+
+         Farmworkers: The element must quantify and analyze the housing needs of
+         farmworkers. While the element includes a general discussion, it must still include
+         complete information to guide an appropriate analysis. Specifically, the element must
+         identify and analyze farmworkers in the City using local data and include county and
+         regional data for seasonal and permanent farmworkers (e.g., USDA data).
+
+      7. Analyze the opportunities for energy conservation with respect to residential
+         development. (Gov. Code, § 65583(a)(8).)
+
+         The element describes the state requirements on energy conservation. However, the
+         element must include analysis of energy conservation opportunities in residential
+         development. The analysis should facilitate the adoption of housing element policies
+         and programs. For example, programs could provide incentives to promote higher
+         density housing along transit, encourage green building techniques and materials in
+         new construction and remodels, promote energy audits and participation in utility
+         conservation programs, and facilitate energy conserving retrofits upon resale of homes.
+         For additional information and sample analysis, see the Building Blocks at
+         http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+         analysis/opportunities-for-energy-conservation.shtm and HCD’s Green Building and
+         Sustainability Resources bibliography at http://www.hcd.ca.gov/hpd/green_build.pdf.
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                   Page 7
+July 27, 2021
+C.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Government Code section 65583, subdivision
+          (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+          the City’s specific role in implementation; (2) definitive implementation timelines; (3)
+          objectives, quantified where appropriate; and (4) identification of responsible agencies
+          and officials. Programs to be revised include the following:
+
+             •   Program 2 - Affordable Housing Bonus Points Under Residential Development
+                 Control System: For your information, the program must continue suspending
+                 the RDEB if legislation warrants.
+             •   Program 3 - Accessory Dwelling Units: Describe how the City will promote ADU
+                 development and if bulletins are currently available. How will the City specifically
+                 promote ADU development for mod and lower-income households.
+             •   Program 13 - Seek Grant Funding: Seek Grant Funding to Support Affordable
+                 Housing Activities: revise the program to include when the City will apply for
+                 funding.
+             •   Program 15 - Housing Policies: Describe when will the City review the affordable
+                 housing policies.
+             •   Program 17 - Homeless Strategic Plan: revise the program to include
+                 timeframes for development of the plan.
+
+     2.   Identify actions that will be taken to make sites available during the planning period with
+          appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need for
+          each income level that could not be accommodated on sites identified in the inventory
+          completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+          with the requirements of Government Code section 65584.09. Sites shall be identified as
+          needed to facilitate and encourage the development of a variety of types of housing for
+          all income levels, including multifamily rental housing, factory-built housing,
+          mobilehomes, housing for agricultural employees, supportive housing, single-room
+          occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+          subd. (c)(1).)
+
+
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                  Page 8
+July 27, 2021
+         As noted in the Finding B3, the element does not include a complete sites inventory or
+         analysis; as a result, the adequacy of sites and zoning has not been established.
+         Based on the results of a complete sites inventory and analysis, programs may need to
+         be added, or revised, to address a shortfall of sites and zoning for a variety of housing
+         types. In addition, the element must address the following:
+
+             •   Program 10 - Adequate Sites: The program should describe the specific actions
+                 the City will take to ensure adequate capacity throughout the planning period.
+                 For example, the program could be revised to include commitment to monitor
+                 and implement Government Code section 65863 (No Net Loss Law).
+
+             •   As noted above, if the element includes sites identified in previous planning
+                 periods to accommodate the RHNA for lower-income, it must include a program
+                 within the first three years of the planning period to allow by-right approval for
+                 housing development that include 20 percent or more of its units affordable to
+                 lower-income households.
+
+    3.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Findings B4 and B5, the element requires a complete analysis of potential
+         governmental and nongovernmental constraints. Depending upon the results of that
+         analysis, the City may need to revise or add programs and address and remove or
+         mitigate any identified constraints.
+
+      4. Promote AFFH opportunities and promote housing throughout the community or
+         communities for all persons regardless of race, religion, sex, marital status, ancestry,
+         national origin, color, familial status, or disability, and other characteristics protected by
+         the California Fair Employment and Housing Act (Part 2.8 (commencing with Section
+         12900) of Division 3 of Title 2), Section 65008, and any other state and federal fair
+         housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+         As noted in Finding B1, the element must include a complete analysis of AFFH. Based
+         on the outcome of that analysis, the element must add or modify programs. In addition,
+         while the element includes Program 4 which describes how the City responds to fair
+         housing complaints, it must also include actions that promote AFFH opportunities. For
+         example, the element could include a program committing to implement Government
+         Code section 8899.50, subdivision (b), which requires the City to administer its
+         programs and activities relating to housing and community development in a manner to
+         AFFH and take no action that is materially inconsistent with its obligation to AFFH.
+
+
+
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                    Page 9
+July 27, 2021
+         The housing program shall preserve for low-income household the assisted housing
+         developments identified pursuant to paragraph (9) of subdivision (a). The program for
+         preservation of the assisted housing developments shall utilize, to the extent
+         necessary, all available federal, state, and local financing and subsidy programs
+         identified in paragraph (9) of subdivision (a), except where a community has other
+         urgent needs for which alternative funding sources are not available. The program may
+         include strategies that involve local regulation and technical assistance. (Gov. Code, §
+         65583, subd. (c)(6).)
+
+          Program 7 (Affordable Housing Preservation) describes preservation efforts for
+          ownership units. However, the element identifies 268 rental units at-risk of converting
+          to market-rate uses in the planning period. Therefore, the element must include a
+          program(s) with specific and proactive actions to preserve the at-risk units. For
+          example, the program could support applications by non-profits for funding to purchase
+          at-risk units, strengthen relationships with the listed non-profits and develop a plan or
+          strategy for quickly moving forward in the case units are noticed to convert to market-
+          rate uses in the planning period, and consider pursuing funding on at least an annual
+          basis. The program could also commit to contacting non-profits immediately to develop
+          a preservation strategy by a date certain and be ready to quickly act when notice of
+          conversion is received and monitoring the units to ensure tenants receive proper
+          notifications. For additional information and a sample program, see the Building Blocks
+          at http://www.hcd.ca.gov/community-development/building-blocks/housing-
+          needs/assisted-housing-developments.shtml.
+
+D.   Quantified Objectives
+
+     Establish the number of housing units, by income level, that can be constructed,
+     rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+     & 2).)
+
+     The element must include quantified objectives to establish an estimate of housing units by
+     income category that can be constructed, rehabilitated, and conserved over the planning
+     period. While the element includes quantified objectives for new construction and
+     rehabilitation, it must also include conservation objectives, especially for at-risk housing.
+
+E.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the housing element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+     While the element includes a general summary of the public participation process (page 1
+     and Appendix C), it must also demonstrate diligent efforts were made to involve all
+     economic segments of the community in the development of the housing element,
+     particularly lower-income households. In addition, the element must also describe how
+     public comments were considered and incorporated into the element. For additional
+     information, see the Building Blocks at http://www.hcd.ca.gov/community-
+     development/building-blocks/getting-started/public-participation.shtml.
+
+HCD Review of City of Camarillo’s Draft 6th Cycle Housing Element                Page 10
+July 27, 2021

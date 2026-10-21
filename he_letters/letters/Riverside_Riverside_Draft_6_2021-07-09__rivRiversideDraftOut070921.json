@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Riverside",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-07-09",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivRiversideDraftOut070921.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivRiversideDraftOut070921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 300137,
+  "text_chars": 42754,
+  "text_empty": false
+}

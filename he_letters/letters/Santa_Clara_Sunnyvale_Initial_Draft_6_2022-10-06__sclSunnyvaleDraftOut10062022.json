@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Sunnyvale",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2022-10-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sclSunnyvaleDraftOut10062022.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sclSunnyvaleDraftOut10062022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 240908,
+  "text_chars": 31123,
+  "text_empty": false
+}

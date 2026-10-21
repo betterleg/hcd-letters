@@ -1,0 +1,14 @@
+{
+  "county": "Glenn",
+  "jurisdiction": "Willows",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-05",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/gleWillowsDraftHEallfindings100521.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/gleWillowsDraftHEallfindings100521.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 283680,
+  "text_chars": 27543,
+  "text_empty": false
+}

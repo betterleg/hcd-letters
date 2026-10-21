@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Rosemead",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-11-15",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanRosemeadDraft111521.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanRosemeadDraft111521.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 259599,
+  "text_chars": 32289,
+  "text_empty": false
+}

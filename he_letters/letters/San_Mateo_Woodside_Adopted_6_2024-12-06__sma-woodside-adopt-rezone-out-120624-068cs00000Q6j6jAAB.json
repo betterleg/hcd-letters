@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Woodside",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-12-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-woodside-adopt-rezone-out-120624-068cs00000Q6j6jAAB.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-woodside-adopt-rezone-out-120624-068cs00000Q6j6jAAB.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 180746,
+  "text_chars": 5174,
+  "text_empty": false
+}

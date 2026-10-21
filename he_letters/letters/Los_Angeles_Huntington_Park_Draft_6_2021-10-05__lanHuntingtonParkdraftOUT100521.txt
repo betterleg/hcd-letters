@@ -1,0 +1,711 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 5, 2021
+
+
+
+         Sergio Infanzon, Director
+         Department of Community Development
+         City of Huntington Park
+         6550 Miles Avenue
+         Huntington Park, CA 90255
+
+         Dear Sergio Infanzon:
+
+         RE: Review of the City of Huntington Park’s 6th Cycle (2021-2029) Draft Housing
+             Element
+
+         Thank you for submitting the City of Huntington Park’s (City) draft housing element
+         received for review on August 6, 2021. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a telephone
+         conversation on August 14, 2021 with Malia Durand, contract planner. In addition, HCD
+         considered comments from Communities for a Better Environment, Disability Rights
+         California, and the Public Interest Law Project pursuant to Government Code section
+         65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+         particular, the realistic capacity assumptions require further support and analysis, the
+         constraints section must address several potential constraints to housing development,
+         and the element lacks an analysis of the Regional Housing Needs Allocation (RHNA)
+         carryover from the 5th Cycle pursuant to AB 1233 (2005). The enclosed Appendix
+         describes these and other revisions needed to comply with State Housing Element Law.
+
+         The City’s statutory deadline to adopt a housing element is October 15, 2021. For your
+         information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a local
+         government fails to adopt a compliant housing element within 120 days of this statutory
+         deadline, then any rezoning to accommodate the RHNA, including for lower-income
+         households, shall be completed no later than one year from the statutory deadline.
+         Otherwise, the local government’s housing element will no longer comply with State
+         Housing Element Law, and HCD may revoke its finding of substantial compliance
+         pursuant to Government Code section 65585, subdivision (i).
+Sergio Infanzon, Director
+Page 2
+
+
+
+Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+development/housing-element/index.shtml for a copy of the form and instructions. The
+City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance. Upon
+adoption of the housing element, the City must submit an electronic version of the sites
+inventory with its adopted housing element to sitesinventory@hcd.ca.gov.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. In particular, a city that is updating one or more
+elements in their general plan must provide either a standalone Environmental Justice
+Element or integrate Environmental Justice plans and policies into the different elements
+in the general plan. For information, please see the Technical Advisories issued by the
+Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+HCD appreciates the hard work and commitment you, Director Sergio Infanzon, and
+contract planner Malia Durand demonstrated throughout the development of the housing
+element and during the course of our review. We are committed to assisting the City in
+addressing all statutory requirements of State Housing Element Law. If you have any
+questions or need additional technical assistance, please contact Colin Cross, of our
+staff, at colin.cross@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Megan Kirkeby
+
+
+Enclosure
+                                              APPENDIX
+                                       City of Huntington Park
+
+  The following changes are necessary to bring the City’s housing element into compliance with
+  Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+  supporting section of the Government Code.
+
+  Housing element technical assistance information is available on HCD’s website at
+  http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+  Among other resources, the housing element section contains HCD’s latest technical assistance
+  tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+  http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+  Government Code addressing State Housing Element Law and other resources.
+
+     A. Review and Revision
+
+         Review the previous element to evaluate the appropriateness, effectiveness, and progress
+         in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+         § 65588 (a) and (b).)
+
+         As part of the evaluation of programs in the past cycle, the element must provide an
+         explanation of the effectiveness of goals, policies, and related actions in meeting the
+         housing needs of special needs populations (e.g., elderly, persons with disabilities, large
+         households, female headed households, farmworkers and persons experiencing
+         homelessness).
+
+     B. Housing Needs, Resources, and Constraints
+
+         1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+            (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+            assessment of fair housing in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+            Fair Housing Enforcement & Outreach: The element generally describes resources
+            available for fair housing enforcement in Huntington Park, but does not discuss
+            whether any housing discrimination complaints have been received, addressed, or
+            referred to the Fair Housing Council of Los Angeles County, as the element indicates is
+            the City’s policy. The element should be revised to include data on any housing
+            discrimination complaints or cases within the jurisdiction and analyze the data for any
+            patterns or trends by community area or census tract.
+
+            Access to Opportunity: The element addresses educational, economic, and
+            environmental opportunities, but must also analyze transportation at the local and
+            regional level. This analysis should compare concentrations of protected groups with
+            access to transportation options, assess any disproportionate transportation needs for
+            members of protected classes, and analyze combined housing and transportation cost
+            impacts on protected groups.
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                     Page 1
+October 5, 2021
+            Disproportionate Housing Needs: The element addresses cost burden and
+            overcrowding, but must also analyze substandard housing, homelessness, and
+            displacement risk at the local and regional levels.
+
+            Regional Patterns and Trends: For all categories of analysis (segregation and
+            integration, racially and ethnically concentrated areas of poverty, access to opportunity,
+            and disproportionate housing needs, including displacement) the element addresses
+            many requirements to analyze local patterns and trends. However, the element must
+            also analyze regional patterns and trends for each category and subcategory of
+            analysis. A regional analysis should compare conditions at the local level to the rest of
+            the region. This analysis could compare the locality at a county level or a Council of
+            Governments, where appropriate.
+
+            Site Inventory: The element contains an analysis of the site inventory that addresses
+            some AFFH requirements. However, the analysis does not fully identify whether sites
+            improve or exacerbate conditions or whether the sites are isolated by income group. In
+            particular, all sites in the inventory are located within the Downtown Specific Plan
+            (DSP) area, which creates a strong concentration of sites to accommodate the lower-
+            income regional housing need allocation (RHNA) in one area. A complete analysis
+            should address this pattern, analyzing the income categories of identified sites with
+            respect to location, the number of sites and units by income and how that effects the
+            existing patterns for all components of the assessment of fair housing (e.g.,
+            segregation and integration, access to opportunity). The element should also discuss
+            whether the distribution of sites improves or exacerbates conditions; if sites exacerbate
+            conditions, the element should identify further program actions that will be taken to
+            mitigate this (e.g. anti-displacement strategies).
+
+            Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+            overcome contributing factors to fair housing issues. Currently, the element identifies
+            Program 10 (Equal Housing), which commits the City to continue its policies of referral
+            to the Fair Housing Council of Los Angeles County and of encouraging affordable
+            housing opportunities with tools such as Section 8 housing choice vouchers; the
+            program also commits to providing literature about these policies at various community
+            areas. Other programs identified as assisting the City in its fair housing efforts,
+            including Program 2 (ADUs) and Program 12 (Special Needs Housing), primarily
+            consist of actions that the City is obligated to undertake for compliance with state
+            housing law. These programs do not appear to facilitate any meaningful change nor
+            address AFFH. Furthermore, the element must include metrics and milestones for
+            evaluating progress on programs, actions, and fair housing results. The element must
+            add and revise programs based on a complete analysis and drawn from the
+            contributing factors to fair housing issues that are identified in the element.
+
+         2. Include an analysis of population and employment trends and documentation of
+            projections and a quantification of the locality's existing and projected needs for all
+            income levels, including extremely low-income (ELI) households. (Gov. Code, § 65583,
+            subd. (a)(1).)
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                     Page 2
+October 5, 2021
+            While the element quantifies the existing housing needs of ELI households, it must still
+            quantify projected ELI housing needs. The element must also analyze the housing
+            needs of ELI households. This is particularly important given the unique and
+            disproportionate needs of ELI households. For example, the element could analyze
+            tenure, cost burden, overcrowding and other household characteristics then examine
+            trends and the availability of resources to determine the magnitude of gaps in housing
+            needs.
+
+         3. Include an analysis and documentation of household characteristics, including level of
+            payment compared to ability to pay, housing characteristics, including overcrowding,
+            and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+            While the element provides analysis of rent as a percentage of income, it should also
+            estimate actual rental costs in Huntington Park and relate those cost to affordability by
+            income.
+
+         4. An inventory of land suitable and available for residential development, including
+            vacant sites and sites having realistic and demonstrated potential for redevelopment
+            during the planning period to meet the locality’s housing need for a designated income
+            level, and an analysis of the relationship of zoning and public facilities and services to
+            these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+            The City has a RHNA of 1,605 housing units, of which 460 are for lower-income
+            households. To address this need, the element relies on non-vacant sites located in
+            the DSP area. To demonstrate the adequacy of these sites and strategies to
+            accommodate the City’s RHNA, the element must include complete analyses:
+
+            5th Cycle RHNA Carryover: As noted in HCD’s December 10, 2019 letter, the City
+            failed to make adequate sites available to accommodate the regional housing need in
+            the 5th cycle. Therefore, the City must zone or rezone sites to accommodate any
+            unaccommodated need within the first year of the 2021-2029 planning period. (Gov.
+            Code, § 65584.09.) To demonstrate adequate sites were made available in the prior
+            planning period, the element must include an analysis or programs demonstrating
+            compliance with the statutory requirements. For additional information, see the
+            Building Blocks at http://www.hcd.ca.gov/community-development/building-
+            blocks/getting-started/review-revise.shtml and HCD’s AB 1233 Memorandum at
+            http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+            memos.shtml.
+
+            Sites Inventory: The sites inventory lists certain sites as government-owned but does
+            not identify which local public agency owns the sites. If the sites are City-owned, the
+            element should identify them as such and outline the City’s plans for compliance with
+            the Surplus Lands Act (SLA).
+
+            Realistic Capacity: While the element provides assumptions of buildout for sites
+            included in the inventory, including an assumption of 80% buildout for sites in the DSP
+            area, it must also provide support for these assumptions. For example, the element
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                      Page 3
+October 5, 2021
+            should demonstrate what specific trends, factors, and other evidence led to the
+            assumptions. The estimate of the number of units for each site may need to be
+            adjusted based on the land use controls and site improvements, typical densities of
+            existing or approved residential developments at a similar affordability level in that
+            jurisdiction, and on the current or planned availability and accessibility of sufficient
+            water, sewer, and dry utilities. These trends should also support the income category
+            assumptions made for sites in the inventory.
+
+            For sites zoned for nonresidential uses (e.g., mixed-use zones such as the DSP area),
+            this analysis must adjust for the likelihood of nonresidential development. For example,
+            the element could describe the underlying zoning for sites in the DSP area, whether
+            100% nonresidential development is allowed in these zones, and any relevant
+            programs or policies the City is undertaking to facilitate residential development in
+            nonresidential zones.
+
+            Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+            potential for redevelopment of nonvacant sites. To address this requirement, the
+            element describes in general the existing use of each nonvacant site for example
+            “commercial” or “residential”. This alone is not adequate or sufficiently detailed to
+            demonstrate the potential for redevelopment in the planning period. The description of
+            existing uses should be sufficiently detailed to facilitate an analysis demonstrating the
+            potential for additional development in the planning period. In addition, the element
+            needs to also analyze the extent that existing uses may impede additional residential
+            development and should describe and support (through development trends) the
+            factors used to identify sites for redevelopment. The analysis shall consider factors
+            including the extent to which existing uses may constitute an impediment to additional
+            residential development, the City’s past experience with converting existing uses to
+            higher density residential development, the current market demand for the existing use,
+            an analysis of any existing leases or other contracts that would perpetuate the existing
+            use or prevent redevelopment of the site for additional residential development,
+            development trends, market conditions, and regulatory or other incentives or standards
+            to encourage additional residential development on these sites. For example, the
+            element could consider indicators such as age and condition of the existing structure,
+            presence of expiring leases, expressed developer interest, low improvement to land
+            value ratio, and other factors.
+
+            In addition, if the housing element relies upon nonvacant sites to accommodate more
+            than 50 percent of the RHNA for lower-income households, the housing element must
+            demonstrate that the existing use is not an impediment to additional residential
+            development in the planning period (Gov. Code, § 65583.2, subd. (g)(2).). This can be
+            demonstrated by providing substantial evidence that the existing use is likely to be
+            discontinued during the planning period (Gov. Code, § 65583.2, subd. (g)(2).
+
+            Replacement Housing Requirements: Because the sites inventory identifies sites with
+            existing residential uses, it must identify whether they are affordable to lower-income
+            households or describe whether the additional residential development on the site
+            requires the demolition of the existing residential use. For nonvacant sites with
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                     Page 4
+October 5, 2021
+            existing, vacated, or demolished residential uses and occupied by, or subject to an
+            affordability requirement for, lower-income households within the last five years there
+            must be a replacement housing program for units affordable to lower-income
+            households (Gov. Code, § 65583.2, subd. (g)(3)). Absent a replacement housing
+            program, these sites are not adequate sites to accommodate lower-income
+            households. The replacement housing program has the same requirements as set
+            forth in Government Code section. 65915, subdivision (c)(3). The housing element
+            must be revised to include such analysis and a program to address these
+            requirements.
+            Small Sites: Several sites in the inventory consist of aggregated small parcels. For
+            parcels anticipated to be consolidated, the element must demonstrate the potential for
+            lot consolidation. For example, the analysis could describe the City’s role or track
+            record in facilitating small-lot consolidation, policies or incentives offered or proposed
+            to encourage and facilitate lot consolidation, conditions rendering parcels suitable and
+            ready for redevelopment, recent trends of lot consolidation, and/or information on the
+            owners of each aggregated site. For parcels anticipated to develop individually, the
+            element must describe existing and proposed policies or incentives the City will offer to
+            facilitate development of small sites. Please note sites smaller than a half-acre in size
+            are deemed inadequate to accommodate housing for lower-income housing unless it is
+            demonstrated that sites of equivalent size were successfully developed during the prior
+            planning period for an equivalent number of lower-income housing units as projected
+            for the site or unless the housing element describes other evidence to HCD that the
+            site is adequate to accommodate lower-income housing (Gov. Code, § 65583.2, subd.
+            (c)(2)(A).).
+            Accessory Dwelling Units (ADU): The element assumes an average of 24 ADUs per
+            year will be constructed during the planning period, for a total of 192 ADUs. The
+            element’s analysis and programs do not support this assumption. For example, based
+            on HCD records and numbers reported in the element, the City is averaging about 13
+            ADU permits per year. As a result, the element should be updated to include a realistic
+            estimate of the potential for ADUs and include policies and programs that incentivize
+            the production of ADUs.
+            Suitability and Availability of Infrastructure: The element must demonstrate sufficient
+            existing or planned water, sewer, and other dry utilities supply capacity, including the
+            availability and access to distribution facilities to accommodate the City’s regional
+            housing need for the planning period.
+            Additionally, for your information, water and sewer service providers must establish
+            specific procedures to grant priority water and sewer service to developments with
+            units affordable to lower-income households. (Gov. Code, § 65589.7.) Local
+            governments are required to immediately deliver the housing element to water and
+            sewer service providers. HCD recommends including a cover memo describing the
+            City’s housing element, including the City’s housing needs and regional housing need.
+            For additional information and sample cover memo, see the Building Blocks at
+            http://www.hcd.ca.gov/community-development/building-blocks/other-
+            requirements/priority-for-water-sewer.shtml.
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                      Page 5
+October 5, 2021
+            Environmental Constraints: While the element generally describes some environmental
+            conditions within the City (p. IV-31), it must describe any known environmental
+            constraints that could impact housing development in the planning period. Third party
+            comments received by HCD indicate that there may be “multiple contaminated sites,
+            issues of groundwater contamination, hazardous waste, and air
+            pollution issues” within the City (CBE letter, p. 28). Furthermore, many DSP sites are
+            located in areas with high CalEnviroScreen scores. The element should describe these
+            factors and any impact they may have on the development of sites, and include
+            programs as necessary.
+
+            Sites with Zoning for a Variety of Housing Types:
+
+             • Emergency Shelters: While the element notes that emergency shelters are
+               permitted without discretionary action in the Industrial/Manufacturing Planned
+               Development (MPD) zone, given the identified need of 282 individuals experiencing
+               homelessness, the element must demonstrate the City still has sufficient capacity to
+               accommodate the identified housing need for emergency shelters and evaluate the
+               available acreage for characteristics like parcel size, potential redevelopment or
+               reuse opportunities, and proximity to services, and describe development
+               standards. In addition, the element identifies that a Conditional Use Permit (CUP) is
+               required when accommodating more than 30 beds on site. While housing element
+               law does allow a jurisdiction to limit the number of beds or persons permitted to be
+               served nightly by a facility, standards must be designed to encourage and facilitate
+               the development of, or conversion to, an emergency shelter. The element should
+               analyze the 30-bed limit to ensure that the standard does not unduly constrain the
+               development of emergency shelters.
+
+             • Transitional & Supportive Housing: Pursuant to Chapter 633, Statutes of 2007
+               (SB2), transitional and supportive housing must be permitted as a residential use in
+               all zones and only subject to those restrictions that apply to other residential
+               dwellings of the same type in the same zone. The element must demonstrate
+               consistency with these statutory requirements and include a program, as
+               appropriate.
+
+             • Housing for Farmworkers: The element must demonstrate zoning is consistent with
+               the Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically,
+               sections 17021.5 and 17021.6. Section 17021.5 requires employee housing for six
+               or fewer employees to be treated as a single family structure and permitted in the
+               same manner as other dwellings of the same type in the same zone. Section
+               17021.6 requires employee housing consisting of no more than 12 units or 36 beds
+               to be permitted in the same manner as other agricultural uses in the same zone.
+               For additional information and sample analysis, see the Building Blocks at
+               http://www.hcd.ca.gov/community-development/building-blocks/housing-
+               needs/farmworkers.shtml.
+
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                   Page 6
+October 5, 2021
+            •   Manufactured Housing: The element indicates that the City does not have a zone
+                where manufactured housing is permitted without a development permit (p. IV-24).
+                Further analysis is needed to demonstrate that such a requirement is not a
+                constraint to the development of manufactured housing. A full analysis should
+                discuss typical timeframes for the issuance of a development permit, as well as the
+                transparency of the process. Programs to modify or remove this requirement should
+                be added as appropriate.
+
+            •   Single-Room Occupancy (SRO): While the element contains some discussion on
+                how SROs are allowed in the City (page IV-21), it should analyze the standards for
+                SRO’s for potential constraints to on the City’s ability to provide a variety of housing
+                types to accommodate housing at all income levels including housing for ELI
+                households. In particular, pursuant third-party comments, the current municipal
+                code prohibits the conversion for exiting motels, hotels, or apartments to SROs.
+                This prohibition may pose a barrier to the conversion or adaptive reuse of motel
+                sites identified in the inventory.
+
+         5. An analysis of potential and actual governmental constraints upon the maintenance,
+            improvement, or development of housing for all income levels, including the types of
+            housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+            as identified in the analysis pursuant to paragraph (7), including land use controls,
+            building codes and their enforcement, site improvements, fees and other exactions
+            required of developers, and local processing and permit procedures. The analysis shall
+            also demonstrate local efforts to remove governmental constraints that hinder the
+            locality from meeting its share of the regional housing need in accordance with
+            Government Code section 65584 and from meeting the need for housing for persons
+            with disabilities, supportive housing, transitional housing, and emergency shelters
+            identified pursuant to paragraph (7). Transitional housing and supportive housing shall
+            be considered a residential use of property, and shall be subject only to those
+            restrictions that apply to other residential dwellings of the same type in the same zone.
+            (Gov. Code, § 65583, subd. (a)(5).)
+
+            Fees and Exaction: The element identifies the City’s planning and development fees,
+            but requires further analysis. This analysis should identify the total amount of fees and
+            their proportion to the development costs for typical single-family and multifamily
+            housing developments.
+
+            Local Processing and Permit Procedures: The element describes the requirement for a
+            discretionary development permit process for multifamily projects of two or more units
+            and identifies approval findings for this process but does not analyze the development
+            process or its approval findings as a potential constraint. These findings, in particular
+            findings 3 (“harmonious and compatible”) and 7 (“detrimental to the… convenience or
+            welfare of the City”), should be analyzed for their potential as a constraint to
+            development. The analysis should discuss typical timeframes for the issuance of a
+            development permit, as well as impacts to transparency and development certainty in
+            the approval process to mitigate or remove constraints may need to be added, as
+            appropriate.
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                       Page 7
+October 5, 2021
+            Design Review: The element must describe and analyze the City’s design review
+            guidelines and process, including approval procedures and decision-making criteria, for
+            their impact as potential constraints on housing supply and affordability. For example,
+            the analysis could describe required findings and discuss whether objective standards
+            and guidelines improve development certainty and mitigate cost impacts. The element
+            must demonstrate this process is not a constraint or it must include a program to
+            address this permitting requirement, as appropriate.
+
+            Constraints on Housing for Persons with Disabilities: Third-party comments identified a
+            need for further analysis of the City’s reasonable accommodation procedure. As
+            discussed in a letter from Communities for a Better Environment, Disability Rights
+            California, and the Public Interest Law Project to HCD dated September 3, 2021, the
+            City requires a fee for reasonable accommodation requests; the City also provides for
+            the continued use of variances and CUPs in addition to the reasonable accommodation
+            process. These requirements should be specifically addressed in the element’s
+            analysis of the City’s reasonable accommodation procedure and the element should
+            commit to modifying its reasonable accommodation ordinance to address these
+            concerns via a program action.
+
+            Additionally, the element details that residential care facilities serving six or fewer
+            persons are permitted in all residential zones. However, residential care facilities
+            serving seven or more persons require a CUP. The element should analyze the
+            process as a potential constraint on housing for persons with disabilities and add or
+            modify programs as appropriate to ensure zoning permits group homes objectively
+            with approval certainty.
+
+            Local Ordinances: The element must specifically analyze locally adopted ordinances
+            such as inclusionary ordinances or short-term rental ordinances that directly impact
+            the cost and supply of residential development. The analysis should demonstrate local
+            efforts to remove governmental constraints that hinder the locality from meeting its
+            share of the regional housing need and from meeting the need for housing for persons
+            with disabilities, supportive housing, transitional housing, and emergency shelters.
+
+         6. An analysis of potential and actual nongovernmental constraints upon the
+            maintenance, improvement, or development of housing for all income levels, including
+            the availability of financing, the price of land, the cost of construction, the requests to
+            develop housing at densities below those anticipated in the analysis required by
+            subdivision (c) of Government Code section 65583.2, and the length of time between
+            receiving approval for a housing development and submittal of an application for
+            building permits for that housing development that hinder the construction of a locality’s
+            share of the regional housing need in accordance with Government Code section
+            65584. The analysis shall also demonstrate local efforts to remove nongovernmental
+            constraints that create a gap between the locality’s planning for the development of
+            housing for all income levels and the construction of that housing. (Gov. Code, §
+            65583, subd. (a)(6).)
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                      Page 8
+October 5, 2021
+            The element must include analysis of requests to develop housing at densities below
+            those anticipated, and the length of time between receiving approval for a housing
+            development and submittal of an application for building permits that potentially hinder
+            the construction of a locality’s share of the regional housing need. The element must
+            also demonstrate local efforts to remove nongovernmental constraints that create a
+            gap between the jurisdiction’s planning for the development of housing for all income
+            levels and the construction of that housing.
+
+         7. Analyze any special housing needs such as elderly; persons with disabilities, including
+            a developmental disability; large families; farmworkers; families with female heads of
+            households; and families and persons in need of emergency shelter. (Gov. Code, §
+            65583, subd. (a)(7).)
+
+            While the element quantifies the City’s special needs populations, it must also analyze
+            their special housing needs. For a complete analysis of each population group, the
+            element should discuss challenges faced by the population, the existing resources to
+            meet those needs (availability senior housing units, # of large units, # of deed restricted
+            units, etc.,), an assessment of any gaps in resources, and proposed policies,
+            programs, and funding to help address those gaps.
+
+         8. Analyze existing assisted housing developments that are eligible to change to non-low-
+            income housing uses during the next 10 years due to termination of subsidy contracts,
+            mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+            (a)(9) through 65583(a)(9)(D).)
+
+            While the element claims that no assisted units are at risk of conversion to market rate
+            during the next 10 years, data from the National Housing Preservation Database (NHPD)
+            indicate that six projects in Huntington Park, totaling over 300 assisted units, have
+            affordability restrictions that are set to expire between now and 2028.The element should
+            verify the status of these six projects to confirm dates of expiration. While some of these
+            projects may have additional funding that extends the affordability terms beyond the ten-
+            year timeframe that is not captured by the NHPD database, if units are identified at-risk
+            within a ten-year period, the analysis of “at-risk” units must include the following:
+
+               Listing of each development by project name and address
+               Type of governmental assistance received
+               Earliest date of change from low-income use; and
+               Total number of elderly and non-elderly units.
+               Estimated total cost for producing, replacing and preserving the units at-risk.
+               Identification of public and private nonprofit corporations known to the City to have the
+                legal and managerial capacity to acquire and manage at-risk units.
+               Identification and consideration of use of federal, state and local financing and subsidy
+                programs.
+
+
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                      Page 9
+October 5, 2021
+     C. Housing Programs
+         1. Include a program which sets forth a schedule of actions during the planning period,
+            each with a timeline for implementation, which may recognize that certain programs
+            are ongoing, such that there will be beneficial impacts of the programs within the
+            planning period, that the local government is undertaking or intends to undertake to
+            implement the policies and achieve the goals and objectives of the Housing Element
+            through the administration of land use and development controls, the provision of
+            regulatory concessions and incentives, and the utilization of appropriate federal and
+            state financing and subsidy programs when available. The program shall include an
+            identification of the agencies and officials responsible for the implementation of the
+            various actions. (Gov. Code, § 65583, subd. (c).)
+            To address the program requirements of Government Code section 65583,
+            subdivision (c)(1-6), and to facilitate implementation, programs should include: (1) a
+            description of the City’s specific role in implementation; (2) definitive implementation
+            timelines; (3) objectives, quantified where appropriate; and (4) identification of
+            responsible agencies and officials. Programs to be revised include the following:
+
+            •   Program 6 (Removal of Governmental Constraints) and Program 7 (Development
+                and Processing Procedures): While these programs commit to reviewing the City’s
+                code to remove identified constraints, the program does not clearly identify the
+                constraints to be removed. This program should make a commitment to the removal
+                of specific governmental constraints identified in the element by a date certain.
+
+            •   Please note that several programs involve taking action to comply with state law,
+                and as such should include timelines that ensure a beneficial impact by committing
+                to compliance within the first year of the planning period. Programs with actions that
+                require an accelerated timeframe include Program 2 (ADUs), Program 9 (Density
+                Bonus), and Program 12 (Special Needs Housing).
+         2. Identify actions that will be taken to make sites available during the planning period
+            with appropriate zoning and development standards and with services and facilities to
+            accommodate that portion of the city’s or county’s share of the regional housing need
+            for each income level that could not be accommodated on sites identified in the
+            inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+            to comply with the requirements of Government Code section 65584.09. Sites shall be
+            identified as needed to facilitate and encourage the development of a variety of types
+            of housing for all income levels, including multifamily rental housing, factory-built
+            housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+            room occupancy (SRO) units, emergency shelters, and transitional housing.
+            (Gov. Code, § 65583, subd. (c)(1).)
+            As noted in Finding B4, the element does not include a complete site analysis;
+            therefore, the adequacy of sites and zoning was not established. Based on the results
+            of a complete sites inventory and analysis, the City may need to add or revise
+
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                      Page 10
+October 5, 2021
+            programs to address a shortfall of sites or zoning available to encourage a variety of
+            housing types. In addition, the element should be revised as follows:
+
+            ADU Monitoring: The element should commit to monitor ADU production throughout
+            the course of the planning period and implement additional actions if not meeting target
+            numbers at affordability levels anticipated in the housing element. Additional actions, if
+            necessary, should be taken in a timely manner (e.g., within 6 months). Finally, if
+            necessary, the degree of additional actions should be in stride with the degree of the
+            gap in production and affordability. For example, if actual production and affordability of
+            ADUs is far from anticipated trends, then rezoning or something similar would be an
+            appropriate action. If actual production and affordability is near anticipated trends, then
+            measures like outreach and marketing might be more appropriate.
+
+            Lot Consolidation: As the element relies on consolidated small sites to accommodate
+            the RHNA for lower-income households, it should include a program(s) to facilitate lot
+            consolidation and development of housing on small sites. For example, the program
+            could commit to (1) granting density bonuses above state density bonus law (Gov.
+            Code, § 65915.); (2) deferring fees specifically for consolidation; (3) expediting permit
+            processing; (4) identifying and targeting specific financial resources; and (5) modifying
+            development standards
+
+         3. The housing element shall contain programs which assist in the development of
+            adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+            income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+            While the element includes programs to assist in the development of very low-, low-,
+            and moderate-income households, it must also include a program(s) to assist in the
+            development of housing affordable ELI households. Program actions could include
+            prioritizing some funding for housing developments affordable to special needs
+            households and offering financial incentives or regulatory concessions to encourage
+            the development of housing types, such as multifamily and SRO. In addition, the
+            element could include a program to commit to relocation and protections for those
+            long-term tenants in motels which could be displaced if converted to permanent
+            housing.
+
+         4. Address and, where appropriate and legally possible, remove governmental and
+            nongovernmental constraints to the maintenance, improvement, and development of
+            housing, including housing for all income levels and housing for persons with
+            disabilities. The program shall remove constraints to, and provide reasonable
+            accommodations for housing designed for, intended for occupancy by, or with
+            supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+            As noted in Findings B5 and B6, the element requires a complete analysis of potential
+            governmental and non-governmental constraints. Depending upon the results of that
+            analysis, the City may need to revise or add programs and address and remove or
+            mitigate any identified constraints. The element must also add a program specifically
+            intended to remove non-governmental constraints as identified in the element.
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                      Page 11
+October 5, 2021
+         5. Promote AFFH opportunities and promote housing throughout the community or
+            communities for all persons regardless of race, religion, sex, marital status, ancestry,
+            national origin, color, familial status, or disability, and other characteristics protected by
+            the California Fair Employment and Housing Act (Part 2.8 (commencing with Section
+            12900) of Division 3 of Title 2), Section 65008, and any other state and federal fair
+            housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+            As noted in Finding B1, the element must include a complete assessment of fair
+            housing. Based on the outcomes of that analysis, the element must add or modify
+            programs. Goals and actions must specifically respond to the analysis and to the
+            identified and prioritized contributing factors to fair housing issues and must be
+            significant and meaningful enough to overcome identified patterns and trends. Actions
+            must have specific commitment, metrics and milestones as appropriate and must
+            address housing mobility enhancement, new housing choices and affordability in high
+            opportunity areas, place-based strategies for community preservation and revitalization
+            and displacement protection. For additional guidance on program requirements to
+            AFFH, please see HCD’s guidance at https://www.hcd.ca.gov/community-
+            development/housing-element/housing-element-memos.shtml.
+         6. The housing program shall preserve for low-income household the assisted housing
+            developments identified pursuant to paragraph (9) of subdivision (a). The program for
+            preservation of the assisted housing developments shall utilize, to the extent
+            necessary, all available federal, state, and local financing and subsidy programs
+            identified in paragraph (9) of subdivision (a), except where a community has other
+            urgent needs for which alternative funding sources are not available. The program may
+            include strategies that involve local regulation and technical assistance. (Gov. Code, §
+            65583, subd. (c)(6).)
+            As noted in Finding B8, the City appears to have units that are at risk of conversion to
+            market rate within the next 10 years. If applicable, Program 4 (Monitoring and
+            Preserving Affordable Housing) must be strengthened to commit to specific and
+            proactive actions to preserve the identified at-risk units.
+     D. Quantified Objectives
+         Establish the number of housing units, by income level, that can be constructed,
+         rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+         & 2).)
+
+         The element must include quantified objectives for the 6th Cycle estimating the number of
+         housing units by income category that can be constructed, rehabilitated, and conserved
+         over the planning period.
+
+     E. Public Participation
+
+         Local governments shall make a diligent effort to achieve public participation of all
+         economic segments of the community in the development of the housing element, and the
+         element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                         Page 12
+October 5, 2021
+         While the element profiles the strategies undertaken to achieve public participation, it must
+         also describe how the City reached all economic segments of the population in conducting
+         outreach related to its survey and workshops, particularly lower-income households. The
+         element should also provide more information on non-governmental organizations and
+         other parties that were notified; a table containing this information is mentioned (p. C-2)
+         but not provided.
+
+         Additionally, third party comments suggest that the draft element submitted to HCD differs
+         substantially from the draft made available on the City’s website in the weeks prior to
+         submission. By not providing an opportunity for the public to review and comment on a
+         complete and final draft of the element in advance of submission, the City has not yet
+         complied with statutory mandates to make a diligent effort to encourage public
+         participation in the development of the element. The availability of the document to the
+         public and opportunity for public comment prior to submittal to HCD is essential to the
+         public process and to HCD’s review. The City must proactively make future revisions
+         available to the public, including any commenters, prior to submitting any revisions to HCD
+         and diligently consider and address comments, including making revisions to the
+         document where appropriate. HCD’s future review will consider the extent to which the
+         revised element documents how the City solicited, considered, and addressed public
+         comments in the element. The City’s consideration of public comments must not be limited
+         by HCD’s findings in this review letter.
+
+
+
+
+Review of the City of Huntington Park’s 6th Cycle Draft Housing Element                     Page 13
+October 5, 2021

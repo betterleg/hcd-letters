@@ -1,0 +1,14 @@
+{
+  "county": "Napa",
+  "jurisdiction": "Saint Helena",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-04-07",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/napStHelenaDraftOut040723.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/napStHelenaDraftOut040723.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 248494,
+  "text_chars": 24256,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Lake",
+  "jurisdiction": "Lakeport",
+  "type": "Due",
+  "cycle": "6",
+  "reviewed": "2020-01-24",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/Lakeport-6th-Cycle-Past-Due.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/Lakeport-6th-Cycle-Past-Due.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 187914,
+  "text_chars": 2841,
+  "text_empty": false
+}

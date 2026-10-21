@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "La Quinta",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-07-09",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivLaQuinta6thCycleDraft070921.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivLaQuinta6thCycleDraft070921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 268365,
+  "text_chars": 37646,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Pasadena",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanPasadena6thCycleDraftout101121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanPasadena6thCycleDraftout101121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 295787,
+  "text_chars": 43828,
+  "text_empty": false
+}

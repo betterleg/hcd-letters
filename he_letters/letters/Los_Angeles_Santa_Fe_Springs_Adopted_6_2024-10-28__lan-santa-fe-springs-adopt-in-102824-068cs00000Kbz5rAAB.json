@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Santa Fe Springs",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-10-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-santa-fe-springs-adopt-in-102824-068cs00000Kbz5rAAB.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-santa-fe-springs-adopt-in-102824-068cs00000Kbz5rAAB.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183632,
+  "text_chars": 4488,
+  "text_empty": false
+}

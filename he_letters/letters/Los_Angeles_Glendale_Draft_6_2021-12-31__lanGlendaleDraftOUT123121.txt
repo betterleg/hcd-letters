@@ -1,0 +1,772 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 31, 2021
+
+
+
+         Philip Lanzafame, Director
+         Community Development Department
+         City of Glendale
+         633 E. Broadway, Room 103
+         Glendale, CA 91206
+
+         Dear Philip Lanzafame:
+
+         RE: City of Glendale’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Glendale’s (City) draft housing element received for
+         review on November 2, 2021. As the City submitted revisions late in the review period on
+         December 27, 2021 to incorporate feedback from public comments, HCD was unable to
+         consider these revisions in the review. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a conversation
+         on December 29, 2021 with Erik Krause, Deputy Director of Community Development,
+         and consultant Amanda Tropiano. In addition, HCD considered comments from
+         Abundant Housing LA and YIMBY Law; Our Future LA Coalition; Karen Kwak; Abundant
+         Housing LA; Mike Van Gorder; and Tieira pursuant to Government Code section 65585,
+         subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). The
+         enclosed Appendix describes the revisions needed to comply with State Housing Element
+         Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to HCD
+         to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a
+         local government fails to adopt a compliant housing element within 120 days of the statutory
+         deadline (October 15, 2021), then any rezoning to accommodate the regional housing needs
+         allocation (RHNA), including for lower-income households, shall be completed no later than
+         one year from the statutory deadline. Otherwise, the local government’s housing element will
+Philip Lanzafame, Director
+Page 2
+
+
+
+no longer comply with State Housing Element Law, and HCD may revoke its finding of
+substantial compliance pursuant to Government Code section 65585, subdivision (i).
+
+Public participation in the development, adoption and implementation of the housing element
+is essential to effective housing planning. Throughout the housing element process, the City
+should continue to engage the community, including organizations that represent lower-
+income and special needs households, by making information regularly available and
+considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates the dedication and cooperation Erik Krause, Deputy Director of Community
+Development, and consultant Amanda Tropiano provided during the review. We are
+committed to assisting the City in addressing all statutory requirements of State Housing
+Element Law. If you have any questions or need additional technical assistance, please
+contact Hillary Prasad, of our staff, at Hillary.Prasad@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF GLENDALE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   As part of the review of programs in the past cycle, the element must provide an evaluation
+   of the effectiveness of goals, policies, and related actions in meeting the housing needs of
+   special needs populations (e.g., elderly, persons with disabilities, large households, female
+   headed households, farmworkers, and persons experiencing homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+      Outreach: Outreach specifically related to affirmatively furthering fair housing (AFFH) is
+      foundational to a complete analysis and formulating appropriate goals and actions to
+      overcome patterns of segregation and foster more inclusive communities. The element
+      mentions outreach as part of the Analysis of Impediments to Fair Housing Choice (AI)
+      and fair housing survey. However, the element should relate this input to all components
+      of the AFFH analysis and modify or add goals and actions as appropriate. Also, the
+      outreach from the fair housing survey appears limited to fair housing complaints If
+      broader outreach, such as neighborhood specific or broader concerns on quality of life,
+      are not available in the AI, the City should consider additional outreach methods related
+      to AFFH.
+
+      Assessment of Fair Housing: The element reports and maps data on components of the
+      assessment of fair housing (e.g., segregation and integration, disparities in access to
+      opportunity) but it must also analyze the information such as evaluating patterns, trends,
+      conditions and circumstances, coincidence with other components of the assessment of
+
+City of Glendale’s 6th Cycle Draft Housing Element                                Page 1
+December 31, 2021
+      fair housing and the effectiveness of past and current strategies to promote inclusive
+      communities and equitable. This analysis should be complemented by local data and
+      knowledge, including input from commenters, and other relevant factors as described
+      below.
+
+      Enforcement: While the element discusses capacity to investigate fair housing
+      complaints, it should quantify and evaluate the characteristics of complaints to the extent
+      possible. In addition, this analysis must also describe compliance with existing fair
+      housing laws and regulations.
+
+      Racial/Ethnic Areas of Concentration of Poverty (R/ECAP) and Affluence (RCAA): The
+      element states that a R/ECAP does not exist, however, HCD notes the City does have
+      an area of High Segregation and Poverty according to TCAC/HCD Opportunity maps. In
+      addition, the element identifies a concentrated area of affluence. As a result, the element
+      should include specific analysis of these areas, as described above, to formulate
+      appropriate goals and actions.
+
+      Access to Opportunity: The element only provides state data regarding Access to
+      Opportunity, the element must include a local and regional analysis. A complete analysis
+      should include the locally and regional disparities of the educational, environmental,
+      economic, and transportation scores. Please refer to page 35 of the AFFH guidebook
+      (link: https://www.hcd.ca.gov/community-development/affh/index.shtml#guidance) for
+      specific factors that should be considered when analyzing access to opportunities as it
+      pertains to educational, employment, environmental, transportation, and any factors that
+      are unique to Glendale.
+
+      Disproportionate Housing Needs including Displacement: While the element describes
+      the City’s plans to study displacement, the element must analyze data on overcrowded
+      households, substandard housing conditions, cost burdened households, and
+      displacement. The element should analyze this data looking at trends, patterns, and local
+      data and knowledge and other relevant factors, and conclude with a summary of issues.
+      For housing conditions, the City could utilize information from code enforcement to
+      evaluate patterns from neighborhood to neighborhood. For displacement risk, the City
+      could utilize information from the Urban Displacement Project at
+      https://www.urbandisplacement.org/maps/los-angeles-gentrification-and-displacement/.
+
+      Sites Inventory: While the element summarizes where sites are located in relation to the
+      AFFH analysis, the element does not identify sites, especially for lower-income
+      households in high resource or high-income areas and sites are not distributed
+      throughout the community in a manner that AFFH. To support appropriate conclusions,
+      the element should analyze the location of all sites and number of units by income group,
+      magnitude of the impact on existing patterns of socio-economic characteristics and any
+      isolation of the sites. The element must also discuss whether the distribution of sites
+      improves or exacerbates conditions. If sites exacerbate conditions, the element should
+      identify further program actions that will be taken to mitigate this (e.g., anti-displacement
+      strategies) such as significant steps to rezone a variety of housing choices elsewhere or
+      place-based strategies to assure equitable quality of life.
+
+
+City of Glendale’s 6th Cycle Draft Housing Element                                 Page 2
+December 31, 2021
+      Contributing Factors: The element should re-assess and prioritize contributing factors
+      upon completion of analysis and make revisions as appropriate.
+
+      Goals, Priorities, Metrics, and Milestones: The element must be revised to add or modify
+      goals and actions based on the outcomes of the analysis described above. Goals and
+      actions must specifically respond to the analysis and prioritize contributing factors to fair
+      housing issues. Actions must have metrics and milestones as appropriate and address
+      housing mobility enhancement, new housing choices and affordability in high opportunity
+      areas, place-based strategies for community preservation and revitalization and
+      displacement protection.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Extremely-Low Income (ELI) Households: The element identifies the projected housing
+      needs for ELI households and includes some brief discussion of situations and available
+      programs. However, given the unique and disproportionate housing needs of ELI
+      households, the element should evaluate the needs of ELI households such as
+      overpayment, affordability gaps, effectiveness of programs and resources in addressing
+      the housing needs and consideration of new strategies based on the outcomes of the
+      analysis.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The City’s regional housing needs allocation (RHNA)
+      may be reduced by the number of new units built since June 30, 2021, however, the
+      element must describe the status of each project and how likely they are to be developed
+      during the planning period as well as whether they were counted toward 5th cycle RHNA
+      progress. The element indicates (p. 88) that 77 units affordable to very low-income
+      households and 21 units affordable to low-income household have been built or are
+      under construction or approved. Public comments received during HCD’s review
+      indicated that many projects listed as progress towards meeting RHNA were completed
+      and occupied prior to June 30, 2021. The element must clarify that the sites identified as
+      progress toward meeting RHNA were not occupied or receive certificate of occupancy
+      before June 30, 2021.
+
+      In addition, the element does not clarify whether projects in Table 58 (p. 94) are being
+      counted as progress toward RHNA or in the sites inventory. The element must clarify
+      and add additional information as appropriate (i.e. sites inventory and default density
+      requirements or clarifying the existence of deed restrictions and/or market trends to
+      support affordability assumptions).
+
+
+City of Glendale’s 6th Cycle Draft Housing Element                                 Page 3
+December 31, 2021
+      Finally, the element appears to utilize some market rate projects toward the moderate-
+      income RHNA. The element should include additional information to demonstrate
+      affordability based on actual or anticipated sales prices or rents. This is particularly
+      important given current market rents noted in the element (p. 38).
+
+      Parcel Listing: While the element includes many requirements for the sites inventory, it
+      must also include the general plan designation, whether a site is vacant or nonvacant,
+      describe any existing use for nonvacant sites, whether sites were previously identified in
+      the 4th or 5th cycle, the unit count for pending projects listed in the inventory, and
+      incorporate realistic capacity assumptions. Descriptions of existing uses should be
+      sufficiently detailed to facilitate an analysis of redevelopment potential.
+
+      Realistic Capacity: While the element provides assumptions of buildout for sites included
+      in the inventory, it must also provide support for these assumptions. For example, the
+      element should demonstrate what specific trends, factors, and other evidence led to the
+      assumptions. The estimate of the number of units for each site must be adjusted as
+      necessary, based on the land use controls and site improvements, typical densities of
+      existing or approved residential developments at a similar affordability level in that
+      jurisdiction. For example, the element lists all recent projects in the downtown specific
+      plan to support a realistic capacity but should also discuss their level of affordability to
+      demonstrate whether sites with 100 percent affordability are built at the assumed
+      densities.
+
+      For sites with zoning that allows 100 percent nonresidential uses, e.g. commercial and
+      mixed use zones, the element must account for the likelihood of 100 percent
+      nonresidential uses and adjust residential calculations as appropriate. To account for the
+      likelihood of 100 percent non-residential uses, the element should discuss development
+      trends, any performance standards mandating a specified portion of residential and any
+      factors increasing the potential for residential development such as incentives for
+      residential use.
+
+      Suitability of Nonvacant Sites: While the element identifies nonvacant sites to
+      accommodate the regional housing need for lower-income households, it must describe
+      the methodology used to determine the additional development potential within the
+      planning period. The methodology must consider factors including the extent to which
+      existing uses may impede additional residential development, development trends,
+      market conditions, any existing leases or other contracts that would perpetuate the
+      existing use or prevent redevelopment of the site for additional residential development,
+      and regulatory or other incentives or standards to encourage additional residential
+      development on these sites. (Gov. Code, § 65583.2, subd. (g).) The element generally
+      does not address all of these requirements. For example, the element discusses
+      residential recycling where sites can accommodate at least two additional units are
+      assumed suitable for above moderate-income households but it must also rescale this
+      assumptions or demonstrate the likelihood of redevelopment based on development
+      trends and the extent that existing uses impede additional development. For another
+      example, sites in the Downtown Specific Plan, the element lists factors to identify sites
+      but must also support those factors based on development trends, relate the trends to
+
+
+City of Glendale’s 6th Cycle Draft Housing Element                                 Page 4
+December 31, 2021
+      identified sites, reflect the values of each of the factors in the inventory, discuss existing
+      uses and impediments to redevelopment and other factors as discussed above.
+
+      In addition, the housing element relies upon nonvacant sites to accommodate more than
+      50 percent of the RHNA for lower-income households, the housing element must
+      demonstrate that the existing use is not an impediment to additional residential
+      development in the planning period (Gov. Code, § 65583.2, subd. (g)(2).). This can be
+      demonstrated by providing substantial evidence that the existing use is likely to be
+      discontinued during the planning period (Gov. Code, § 65583.2, subd. (g)(2).
+
+      Finally, if element utilizes sites with existing residential uses. Absent a replacement
+      housing policy, these sites are not adequate sites to accommodate lower-income
+      households. The replacement housing policy has the same requirements as set forth in
+      Government Code section 65915, subdivision (c) (3).
+
+      Adequate Sites Alternatives: To credit the conversion of 699 units of existing multifamily
+      units to deed restricted affordable units (pages 41 and 89), City’s regional housing need,
+      the element must demonstrate compliance with all the statutory requirements. (Gov.
+      Code, § 65583.1.) For example, the element must demonstrate that the units will be
+      preserved, and the local government has provided those units with committed
+      assistance. The City must also provide the Alternative Adequate Sites Checklist to
+      support the assumptions. In addition, the element must demonstrate that the units
+      credited toward moderate income meet all of the requirements outlined in AB 787
+      including the deed restriction was recorded between June 30, 2021 and October 15,
+      2021. The element must describe the funding source, how long the deed restriction is in
+      place, and include a program in the element to commit to the funding. For additional
+      information and an Alternative Adequate Sites Checklist, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+      analysis/analysis-of-sites-and-zoning.shtml#realistic.
+
+      Accessory Dwelling Units (ADU): The element assumes an ADU build out of 159 ADU
+      and/or junior accessory dwelling unit (JADU) per year based upon approvals between
+      2018 and 2020. The element should base its estimate on the average number of ADUs
+      permitted per year since 2018. Given that the City has only produced an average of 107
+      units per year since 2018, it is not clear if this production level will be achievable in the
+      planning period. As a result, the element should be updated to include a realistic
+      estimate of the potential for ADUs and include policies and programs that incentivize the
+      production of ADUs. Depending on the analysis, the element must commit to monitor
+      ADU production throughout the course of the planning period and implement additional
+      actions if not meeting target numbers anticipated in the housing element. In addition to
+      monitoring production, this program should also monitor affordability. Additional actions,
+      if necessary, should be taken in a timely manner (e.g., within six months). Finally, if
+      necessary, the degree of additional actions should be in stride with the degree of the gap
+      in production and affordability. For example, if actual production and affordability of
+      ADUs is far from anticipated trends, then rezoning or something similar would be an
+      appropriate action. If actual production and affordability is near anticipated trends, then
+      measures like outreach and marketing might be more appropriate.
+
+
+City of Glendale’s 6th Cycle Draft Housing Element                                   Page 5
+December 31, 2021
+      Availability of Infrastructure: While the element describes water and sewer infrastructure,
+      it must state whether there is enough water and sewer capacity available and accessible
+      accommodate the City’s RHNA and include programs if necessary.
+
+      Environmental Constraints: While the element generally describes a few environmental
+      conditions within the City, it must describe any known environmental constraints or othe
+      conditions such as litigation within the City that could impact housing development on
+      identified sites in the planning period.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: While the element states that emergency shelters are
+              allowed in industrial, special purpose, and IMU. The element must clarify if they
+              are allowed by-right as well as describe the requirements and standards. The
+              element must also analyze the availability of sites and appropriateness of the
+              identified zones.
+          •   Transitional and Supportive Housing: Transitional housing and supportive housing
+              must be permitted as a residential use in all zones allowing residential uses and
+              only subject to those restrictions that apply to other residential dwellings of the
+              same type in the same zone. (Gov. Code, § 65583, subd. (a)(5).) The element
+              must add or revise programs which comply with the statutory requirements.
+          •   Single Room Occupancy (SRO) Units: The element does not describe where
+              SRO units are allowed. This is an important housing type, and the element must
+              be revised to allow SROs.
+          •   Employee Housing: The element must clarify if the City has zones allowing for
+              agricultural uses and must demonstrate the zoning is consistent with the
+              Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically,
+              sections 17021.5 and 17021.6. Section 17021.5 requires employee housing for
+              six or fewer employees to be treated as a single-family structure and permitted in
+              the same manner as other dwellings of the same type in the same zone. Section
+              17021.6 requires employee housing consisting of no more than 12 units or 36
+              beds to be permitted in the same manner as other agricultural uses in the same
+              zone.
+          •   Manufactured Housing: the element does not describe where mobile home parks
+              are allowed within the City. The element must describe where mobile home parks
+              are allowed or add a program as appropriate.
+          •   Accessory Dwelling Units (ADU): The element must clarify compliance with ADU
+              law such as whether ADUs are allowed in the Town Center Specific Plan where
+              multifamily residential is allowed.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures. The analysis shall also
+      demonstrate local efforts to remove governmental constraints that hinder the locality
+      from meeting its share of the regional housing need in accordance with Government
+
+City of Glendale’s 6th Cycle Draft Housing Element                                  Page 6
+December 31, 2021
+      Code section 65584 and from meeting the need for housing for persons with disabilities,
+      supportive housing, transitional housing, and emergency shelters identified pursuant to
+      paragraph (7). Transitional housing and supportive housing shall be considered a
+      residential use of property and shall be subject only to those restrictions that apply to
+      other residential dwellings of the same type in the same zone. (Gov. Code, § 65583,
+      subd. (a)(5).)
+
+      Land Use Controls: While the element describes the general plan and zoning
+      designations for most residential uses, the element must describe whether 100 percent
+      residential or commercial uses are allowed by-right in the Downtown Specific Plan and
+      mixed-use zones. The element should also describe the interaction between the General
+      Plan High Density designation which allows for 35-60 dwelling units an acre, but the
+      corresponding zone allows for up to 34 dwelling units an acre. In addition, the element
+      must alco clarify whether three story multifamily developments are allowed by right in the
+      Downtown Specific Plan areas that limit height to a maximum of 35 feet. The element
+      must also revise parking standards requiring more than one space for efficiency and
+      one-bedroom units as well as the guest parking requirement in the PRD zone. The
+      element should analyze the 40 percent and 50 percent maximum lot coverage
+      requirements for single family and multifamily developments respectively as well as the
+      maximum of two stories for multifamily developments on lots less than 90 feet in width. In
+      addition, the element should clarify the maximum densities equal in multifamily zones.
+
+      The element must describe the maximum number of units in the Town Center Specific
+      Plan in relation to the plan size. The element states that a maximum of 338 units are
+      allowed over the planning area of 16.5 acres at a density up to 100 dwelling units an
+      acre. The element should describe how many units exist in the specific plan currently,
+      whether more units are planned, and whether sites identified in the inventory are in the
+      specific plan. The element must also describe any lot coverage maximums in the
+      Specific Plan. In addition, the element must revise parking standards that require two
+      spaces for studio and one-bedroom units as well as analyze the parking structure
+      requirements and add a program as appropriate.
+
+      Fees and Exaction: The element must describe all required fees for single family and
+      multifamily housing development, including impact fees, and analyze their impact as
+      potential constraints on housing supply and affordability. While the element includes
+      many fees, table on page 78 must also include site plan, specific plan, development
+      agreement, and negative declaration fees. The element must also describe whether the
+      fees listed are applicable for both single family and multifamily developments. In addition,
+      the element must describe the proportion of fees in comparison to overall development
+      cost for a typical single family and multifamily development. The element must also
+      analyze whether the change of use annual parking fee is a constraint and add a program
+      as appropriate.
+
+      Local Processing and Permit Procedures: While the element describes the review
+      authority for type of approval or permit, it must describe and analyze the City’s permit
+      processing and approval procedures by zone and housing type (e.g., multifamily rental
+      housing, mobilehomes, housing for agricultural employees, supportive housing). The
+      analysis must evaluate the processing and permit procedures’ impacts as potential
+
+City of Glendale’s 6th Cycle Draft Housing Element                                Page 7
+December 31, 2021
+      constraints on housing supply and affordability. For example, the analysis should
+      consider processing and approval procedures and time for typical single- and multi-
+      family developments, including type of permit, level of review, approval findings and any
+      discretionary approval procedures. It must also list the typical review time for each permit
+      procedure. In addition, the element must analyze the conditional use findings as a
+      constraint for multifamily developments in the MU-R zones, in particular the employment
+      and compatibility findings, as well as the live work findings, including inhibiting
+      commercial or industrial uses. The element should list the findings for an administrative
+      use permit.
+
+      Local Ordinances: While the element states that there are inclusionary and short term
+      rental ordnances, the element must specifically analyze locally adopted ordinances that
+      directly impact the cost and supply of residential development. The analysis should
+      demonstrate local efforts to remove governmental constraints that hinder the locality
+      from meeting its share of the regional housing need and from meeting the need for
+      housing for persons with disabilities, supportive housing, transitional housing, and
+      emergency shelters.
+
+      Design Review: The element must describe and analyze the design review guidelines
+      and process, including approval procedures and decision-making criteria, for their impact
+      as potential constraints on housing supply and affordability. For example, the analysis
+      could describe required findings and discuss whether objective standards and guidelines
+      improve development certainty and mitigate cost impacts. The element must
+      demonstrate this process is not a constraint or it must include a program to address this
+      permitting requirement, as appropriate.
+
+      On/Off-Site Improvements: The element must identify subdivision level improvement
+      requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+      analyze their impact as potential constraints on housing supply and affordability.
+
+      Constraints on Housing for Persons with Disabilities: Residential care facilities serving
+      seven or more persons are permitted in commercial zones by-right but subject to a
+      conditional use permit (CUP) in some residential zones and not allowed in others. The
+      element should analyze the process as a potential constraint on housing for persons with
+      disabilities and add or modify programs as appropriate to ensure zoning permits group
+      homes objectively with approval certainty. In addition, the element must add or revise a
+      program as appropriate to remove constraints to the reasonable accommodation
+      procedure, such as finding five. The element must also describe the City’s definition of
+      family and analyze for constraints on housing for persons with disabilities.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval
+      for a housing development and submittal of an application for building permits for that
+      housing development that hinder the construction of a locality’s share of the regional
+      housing need in accordance with Government Code section 65584. The analysis shall
+
+City of Glendale’s 6th Cycle Draft Housing Element                                Page 8
+December 31, 2021
+      also demonstrate local efforts to remove nongovernmental constraints that create a gap
+      between the locality’s planning for the development of housing for all income levels and
+      the construction of that housing. (Gov. Code, § 65583, subd. (a)(6).)
+
+      Financing: While the element describes land and construction costs, the element must
+      describe whether financing is available within the City.
+
+      Developed Densities and Permit Times: The element must be revised to include analysis
+      of requests to develop housing at densities below those anticipated, and the length of
+      time between receiving approval for a housing development and submittal of an
+      application for building permits that potentially hinder the construction of a locality’s
+      share of the regional housing need.
+
+   6. Analyze the opportunities for energy conservation with respect to residential
+      development. (Gov. Code, § 65583(a)(8).)
+
+      The element indicates the City enforces Title 24 and describes conservation programs of
+      local utilities. However, it must include analysis of energy conservation opportunities in
+      residential development. The analysis should facilitate the adoption of housing element
+      policies and programs. For example, programs could provide incentives to promote
+      higher density housing along transit, encourage green building techniques and materials
+      in new construction and remodels, promote energy audits and participation in utility
+      conservation programs, and facilitate energy conserving retrofits upon resale of homes.
+
+   7. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).).
+
+      On page 52, the element identifies existing affordable units that are at-risk during the
+      planning period. There were units that have rental restrictions expiring within the next ten
+      years that were not included in the total at-risk units. The element should describe the
+      methodology used to determine whether units are at-risk. In addition, all properties
+      should list type of governmental assistance, and include an analysis of replacement/
+      preservation costs. The element should also include a list of qualified entities and
+      potential funding sources to preserve the units.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+
+City of Glendale’s 6th Cycle Draft Housing Element                                Page 9
+December 31, 2021
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      To address the program requirements of Government Code section 65583, subdivision
+      (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+      the City’s specific role in implementation; (2) definitive implementation timelines (i.e.
+      month and year); (3) objectives, quantified where appropriate; and (4) identification of
+      responsible agencies and officials. Examples of programs to be revised include the
+      following:
+
+           •   Program 1C (Surplus Lands): The Program must include a timeframe of when
+               the initial list will be created as well as how often it will be updated.
+           •   Program 2A (Multi-family Acquisition/Rehabilitation Loan Program): The
+               Program should include a specific implementation date as well as include
+               proactive outreach to developers.
+           •   Program 2C (Code Enforcement): This program should clarify if there is any
+               assistance available to homeowners who cannot afford repairs.
+           •   Program 2D (Neighborhood “Target Areas”): The Program should describe any
+               timeframes regarding the approval of the Tropico study plan.
+           •   Program 3A (Density Bonus Program): This Program should implement an
+               update of the ordinance within one year of adoption as well as evaluate and
+               update the ordinance at a set interval throughout the planning period.
+           •   Program 3E (Mixed Use Standards on Transportation Corridors): The Program
+               lists that the study will be complete in February 2023, but it should also include a
+               discrete timeframe of when the study results will be implemented.
+           •   Program 5A (New Types of Subdivision): This Program should include an action
+               and implementation component. The element should clarify what will occur by
+               December 2023.
+           •   Program 6A (Care Management Services): The element should describe
+               whether any outreach will occur.
+           •   Program 6C (Developmental Disabilities Housing Services): The program
+               should describe when the brochure will be available and how often outreach will
+               occur.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for
+      all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis; therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a
+
+City of Glendale’s 6th Cycle Draft Housing Element                                Page 10
+December 31, 2021
+      complete sites inventory and analysis, the City may need to add or revise programs to
+      address a shortfall of sites or zoning available to encourage a variety of housing types. In
+      addition, the element should be revised as follows:
+
+      Previously Identified Nonvacant and Vacant Sites: While the element includes Policy
+      1.11, it should be revised to require multifamily development with 20 percent affordability
+      to be permitted by right and add a program as appropriate.
+
+      Replacement Housing Requirements: The housing element must include a program to
+      provide replacement housing. Nonvacant sites identified in the sites inventory with
+      existing, vacated, or demolished residential uses and occupied by, or subject to an
+      affordability requirement for, lower-income households within the last five years, require
+      a replacement housing program for units affordable to lower-income households. (Gov.
+      Code, § 65583.2, subd. (g)(3).) Absent a replacement housing program, these sites are
+      not adequate sites to accommodate lower-income households. The replacement housing
+      program must adhere to the same requirements as set forth in Government Code section
+      65915, subdivision (c)(3).
+
+      Program 1E (Adaptive Reuse): This Program should include an implementation
+      component and go farther than exploring potential incentives for adaptive reuse of
+      commercial and office buildings for housing.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for,
+      persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding(s) B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints. In addition, the element should be revised as follows:
+
+           •   Program 6B (Homeless Services): This Program should be revised to clarify
+               which programs will be supported. It should also include regular outreach and
+               assistance for annual funding applications.
+           •   Program 8B (Permit Streamlining): This Program must include an action to
+               reduce permit approval times, a specific timeframe as to when it will be
+               implemented, and how often the process will be reviewed throughout the
+               planning period.
+           •   Program 9A (Monitor Changes in Federal and State Housing, Planning, and
+               Zoning Laws): This program should revise the timing to include annual
+               monitoring as well as how often updates will occur in the planning period.
+           •   Program 9B (Zoning Code Amendments – Housing Constraints): While the
+               element includes revisions to employee housing and agricultural worker
+               housing, it must be consistent with Employee Housing Act (Health and Safety
+               Code, § 17000 et seq.), specifically, sections 17021.5 and 17021.6.
+
+City of Glendale’s 6th Cycle Draft Housing Element                               Page 11
+December 31, 2021
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As mentioned in Finding B1, programs throughout the element should be revised to
+      address enhancing housing mobility strategies; encouraging development of new
+      affordable housing in high resource areas; improving place-based strategies to
+      encourage community conservation and revitalization, including preservation of existing
+      affordable housing; and protecting existing residents from displacement. The programs
+      should include metrics and milestones to provide benchmarks and ensure housing
+      outcomes.
+
+      In addition, Program 7A (Fair Housing Plan) should be strengthened and include how
+      often outreach will occur. Program 7C (Affirmatively Furthering Fair Housing Program)
+      should be revised to refer fair housing complaints to the Department of Fair Employment
+      and Housing (not HCD), the land use component should commit to an action based on
+      the review, it should also include how often outreach will occur, and all implementation
+      actions should include metrics and timing.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd. (c)(6).)
+
+      While the element includes Program 2E (Conservation of Existing and Future Affordable
+      Housing Units), it should incorporate preservation notice law (Government Codes
+      65863.10, 65863.11, 65863.13) as well as include proactive outreach to owners
+      beginning three years before expiration of rental agreements. The program can also
+      commit resources to preserve existing affordable units.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent, as defined in Section 50053 of the Health and
+      Safety Code, for very low, low-, or moderate-income households. For purposes of this
+      paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+      unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, §
+      65583, subd. (c)(7).)
+
+      While the element includes Program 1F (Accessory Dwelling Units), the program should
+      include a monitoring component every two years and identify additional sites if ADU
+      projections are not meeting the assumptions. In addition, the language regarding
+      incentives should be revised to go farther than evaluate potential incentives and should
+      strengthened to implement specific incentives listed in the program.
+City of Glendale’s 6th Cycle Draft Housing Element                                   Page 12
+December 31, 2021
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   The element must include quantified objectives to establish an estimate of housing units by
+   income category that can be constructed, rehabilitated, and conserved over the planning
+   period. While the element includes these objectives by income group, the element must
+   breakout the objective for conservation/preservation for extremely low-, very low-, low-
+   income households.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   While the element includes a general summary of the public participation process, it must
+   also demonstrate diligent efforts were made to involve all economic segments of the
+   community in the development of the housing element. The element could describe the
+   efforts to circulate the housing element among low- and moderate-income households and
+   organizations that represent them and to involve such groups and persons in the element
+   throughout the process. In addition, the element should also summarize the public
+   comments and describe how they were considered and incorporated into the element.
+
+   In addition, HCD understands the City made the element available to the public on
+   November 1, 2021, concurrent with its submittal to HCD. By not providing an opportunity for
+   the public to review and comment on a draft of the element in advance of submission, the
+   City has not yet complied with statutory mandates to make a diligent effort to encourage the
+   public participation in the development of the element and it reduces HCD’s ability to
+   consider public comments in the course of its review. The availability of the document to the
+   public and opportunity for public comment prior to submittal to HCD is essential to the public
+   process and HCD’s review. The City must proactively make future revisions available to the
+   public, including any commenters, prior to submitting any revisions to HCD and diligently
+   consider and address comments, including making revisions to the document where
+   appropriate. HCD’s future review will consider the extent to which the revised element
+   documents how the City solicited, considered, and addressed public comments in the
+   element. The City’s consideration of public comments must not be limited by HCD’s findings
+   in this review letter.
+
+F. Consistency with General Plan
+
+   The Housing Element shall describe the means by which consistency will be achieved with
+   other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+City of Glendale’s 6th Cycle Draft Housing Element                               Page 13
+December 31, 2021
+   The housing element affects a locality’s policies for growth and residential land uses. The
+   goals, policies and objectives of an updated housing element may conflict with those of the
+   land-use, circulation, open space elements as well as zoning and redevelopment plans. The
+   general plan is required to be “internally consistent.” As part of the housing element update,
+   the City should review the general plan to ensure internal consistency is maintained. In
+   addition, The City should consider an internal consistency review as part of its annual
+   general plan implementation report required under Government Code section 65400.
+
+
+
+
+City of Glendale’s 6th Cycle Draft Housing Element                               Page 14
+December 31, 2021

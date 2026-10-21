@@ -1,0 +1,14 @@
+{
+  "county": "Santa Barbara",
+  "jurisdiction": "Goleta",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-03-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbbGoleta_Adopted_OUT032023.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbbGoleta_Adopted_OUT032023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 175370,
+  "text_chars": 14223,
+  "text_empty": false
+}

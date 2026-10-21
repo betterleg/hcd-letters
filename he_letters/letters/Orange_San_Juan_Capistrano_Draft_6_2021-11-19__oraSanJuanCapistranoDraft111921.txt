@@ -1,0 +1,577 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 19, 2021
+
+
+         Joel Rojas, Director
+         Development Services Department
+         City of San Juan Capistrano
+         32400 Paseo Adelanto
+         San Juan Capistrano, CA 92675
+
+         Dear Joel Rojas:
+
+         RE: City of San Juan Capistrano’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of San Juan Capistrano’s (City) draft housing element
+         received for review on September 22, 2021. Pursuant to Government Code section
+         65585, subdivision (b), the California Department of Housing and Community
+         Development (HCD) is reporting the results of its review. Our review was facilitated by a
+         conversation on November 18, 2021 with Laura Stokes (Housing Supervisor/Associate
+         Planner) and your consultants from Michael Baker International. In addition, HCD
+         considered comments from the Kennedy Commission; People for Housing Orange
+         County; Endangered Habitats League; Measure M2 Environmental Coalition; Friends of
+         Harbors, Beaches, and Parks; and Amanda Johnson, pursuant to Government Code
+         section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         The City’s statutory deadline to adopt a housing element was October 15, 2021. For
+         your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a
+         local government fails to adopt a compliant housing element within 120 days of this
+         statutory deadline, then any rezoning to accommodate the regional housing needs
+         allocation (RHNA), including for lower-income households, shall be completed no later
+         than one year from the statutory deadline. Otherwise, the local government’s housing
+         element will no longer comply with State Housing Element Law, and HCD may revoke
+         its finding of substantial compliance pursuant to Government Code section 65585,
+         subdivision (i).
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+Joel Rojas, Director
+Page 2
+
+
+
+process, the City must continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available while considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates the hard work and dedication of Laura Stokes (Housing
+Supervisor/Associate Planner) and your consultants during the housing element update.
+We are committed to assist the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Marisa Prasse, of our staff, at Marisa.Prasse@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+
+Enclosure
+                                       APPENDIX
+                             CITY OF SAN JUAN CAPISTRANO
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s latest
+technical assistance tool, Building Blocks for Effective Housing Elements (Building Blocks),
+available at http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and
+includes the Government Code addressing State Housing Element Law and other resources.
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Racial/Ethnic Concentrated Areas of Poverty (R/ECAP) and Affluence (RCAA): While
+      the element identifies one census tract (320.61) as a Racially Concentrated Area of
+      Affluence (RCAA), based on data provided regarding race/ethnicity and income,
+      additional census tracts that are disproportionately white and high-income should also
+      be analyzed as RCAAs. Adequate analyses of RCAAs will help guide goals and actions
+      to address fair housing issues.
+
+      Disparities in Access to Opportunity: The element provides good information and
+      analyses regarding access to opportunity for education, economic, and transportation;
+      however, the disparities in access to environmental opportunity sections need additional
+      information and analysis, particularly regarding the prevalence of flood risk in certain
+      parts of the city. The element should analyze differences in environmental hazard
+      exposure between census tracts and how these overlap with protected class groups.
+
+      Disproportionate Housing Needs, Including Displacement: The element does include
+      some information on overcrowded households, substandard housing conditions,
+      homelessness, and cost-burdened households, but it should also analyze local spatial
+      trends of homelessness in the city, as well as any patterns and trends in coincidence of
+      homelessness with protected class groups in the city. Furthermore, the displacement
+      analysis should consider displacement risk from environmental hazards such as flood
+      zones.
+
+      Other Relevant Factors: The element must include other relevant factors that contribute
+      to fair housing issues in the jurisdiction. The element should analyze historical land use
+      and investment practices or other information and demographic trends. While the
+      element includes local knowledge and context throughout much of the assessment of
+      fair housing analyses, the element is missing an analysis of other relevant factors such
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                     Page 1
+November 19, 2021
+      as historical land use and investment practices, historical patterns of segregation, or
+      other information and demographic trends that may have impeded housing choices and
+      mobility.
+
+      Site Inventory: The element evaluates regional housing needs allocation (RHNA) sites
+      by proportion of the RHNA and acreage for some assessment of fair housing
+      components; however; this analysis should also address the number of units by income,
+      magnitude of the impact on existing population, any isolation of the RHNA by income
+      group and analyze whether sites improve or exacerbate segregation and integration.
+      This analysis should also address concentrated areas of affluence or areas of higher
+      income and disproportionate housing needs, including displacement risks. Finally, the
+      analysis should account for pending and entitled projects. Based on the outcomes of the
+      analysis, the element should include programs to promote more inclusive communities
+      and equitable quality of life.
+
+      Contributing Factors: Based on the outcomes of a complete analysis, the element
+      should re-evaluate and prioritize contributing factors to fair housing issues as
+      appropriate.
+
+      Goals, Priorities, Metrics, and Milestones: The element must add or revise programs
+      based on a complete analysis, listing, and prioritization of contributing factors to fair
+      housing issues. Goals and actions must significantly seek to overcome contributing
+      factors to fair housing issues and include metrics and milestones to target meaningful
+      fair housing results. Actions should address housing mobility enhancement, new
+      housing choices and affordability in high opportunity areas, place-based strategies for
+      community preservation and revitalization and displacement protection.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Extremely Low-Income (ELI) Households: While the element identifies the projected and
+      existing number of ELI households, it must still analyze their existing housing needs.
+      This is particularly important given the unique and disproportionate needs of ELI
+      households. For example, the element could analyze tenure, cost burden, overcrowding
+      and other household characteristics then examine trends and the availability of
+      resources to determine the magnitude of gaps in housing needs.
+
+      Overpayment by Tenure: While the element identifies the total number of overpaying
+      households, it must quantify and analyze the number of overpaying households by
+      tenure (i.e., renter and owner), including lower-income households.
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                      Page 2
+November 19, 2021
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Nonvacant Sites Analysis: While the element identifies nonvacant sites to accommodate
+      the regional housing need for lower-income households, the element must further
+      describe the methodology used to determine the additional development potential within
+      the planning period. The methodology must consider factors including the extent to
+      which existing uses may impede additional residential development, development
+      trends, market conditions, and regulatory or other incentives or standards to encourage
+      additional residential development on these sites. (Gov. Code, § 65583.2, subd. (g).)
+      For nonresidential sites such as Capistrano Center, Price Club, and the Industrial
+      Overlay, the inventory could also describe whether the use is operating, marginal or
+      discontinued, any presences of existing leases or other contracts that would perpetuate
+      the existing use or prevent redevelopment and the condition of the structure or could
+      describe any expressed interest in redevelopment by property owners. The element
+      should describe past examples and trends of redevelopment of commercial and
+      industrial uses into residential in the city. For additional information and sample
+      analysis, see the Building Blocks at: http://www.hcd.ca.gov/community-
+      development/building-blocks/site-inventory-analysis/analysis-of-sites-and-
+      zoning.shtml#analysis.
+
+      In addition, the housing element relies upon nonvacant sites to accommodate more
+      than 50 percent of the RHNA for lower-income households. For your information, the
+      housing element must demonstrate existing uses are not an impediment to additional
+      residential development and will likely discontinue in the planning period. (Gov. Code, §
+      65583.2, subd. (g)(2).) Absent findings (e.g., adoption resolution) based on substantial
+      evidence, the existing uses will be presumed to impede additional residential
+      development and will not be utilized toward demonstrating adequate sites to
+      accommodate the RHNA.
+
+      Environmental Constraints: The element must describe environmental conditions within
+      the city, relate those conditions to identified sites, and describe any other known
+      environmental or other constraints, that could impact housing development on identified
+      sites in the planning period. This is particularly significant as it appears that many of the
+      areas in the city where a large share of development is planned is subject to significant
+      flood risk.
+
+      Map of Sites: While the element includes a map of sites, the map should include all
+      sites to meet the RHNA (including pending or entitled projects). For additional
+      information, see the sites inventory analysis section of the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+      analysis/inventory-of-land-suitable.shtml.
+
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                       Page 3
+November 19, 2021
+      Water and Sewer Priority: For your information, water and sewer service providers must
+      establish specific procedures to grant priority water and sewer service to developments
+      with units affordable to lower-income households. (Gov. Code, § 65589.7.) Local
+      governments are required to immediately deliver the housing element to water and
+      sewer service providers. The element must demonstrate compliance with these
+      requirements and include programs if appropriate. For additional information and
+      sample cover memo, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/other-requirements/priority-for-water-sewer.shtml.
+
+      Electronic Sites Inventory Form: Pursuant to Government Code section 65583.3,
+      subdivision (b), the City must utilize standards, forms, and definitions adopted by HCD
+      when preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/community-development/housing-element/index.shtml for a
+      copy of the form and instructions. The City can reach out to HCD at
+      sitesinventory@hcd.ca.gov for technical assistance. Please note, upon adoption of the
+      housing element, the City must submit an electronic version of the sites inventory with
+      its adopted housing element to sitesinventory@hcd.ca.gov.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: The element should clarify if there are any spacing
+              requirements and provide greater detail regarding development standards and
+              whether they pose a constraint to the development of emergency shelters.
+          •   Accessory Dwelling Units (ADUs): The City submitted its ADU ordinance to HCD
+              for review on November 17, 2021. Based on the information provided in Table 49
+              on p. 124, the City may need to include a program to update its ADU ordinance
+              to comply with state laws and allow ADUs in all residential zones, and to ensure
+              ADUs are not limited to certain size parcels. HCD will review the ordinance for
+              compliance issues and send findings under separate cover. Based on the
+              outcomes of this review, the element may need to include a program to update
+              the City’s ADU ordinance and comply with state law.
+          •   Single-Room Occupancy (SROs): The element must identify zoning and
+              development standards that will encourage and facilitate the development of
+              SROs and include programs as appropriate.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures… (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      On-/Off Site Improvements: The element must identify actual standards for subdivision
+      level improvement requirements, such as minimum street widths (e.g., 40-foot minimum
+      street width) and analyze their impact as potential constraints on housing supply and
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                       Page 4
+November 19, 2021
+      affordability. While the element broadly describes on- and off-site improvements, it must
+      still identify and analyze the actual standards.
+
+      For additional information and a sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/constraints/codes-and-
+      enforcement-on-offsite-improvement-standards.shtml.
+
+      Design Review: The element must describe and analyze the design review guidelines
+      and process, including approval procedures and decision-making criteria, for their
+      impact as potential constraints on housing supply, cost, timing, and approval certainty.
+      This is especially important given the architectural control review process only applies to
+      projects with a zoning designation of eight units per acre or higher and/or the
+      construction of three or more units on a lot. The element should describe the required
+      findings of the architectural control review procedure, how long the process usually
+      takes, and discuss whether objective standards, guidelines or other processes improve
+      development certainty and mitigate timing and cost impacts.
+
+      Processing and Permit Procedures: While the element describes processing times for a
+      few recent projects, the element must analyze why some of these projects had long
+      processing times at certain points in the approval process. The analysis should address
+      impacts as potential constraints on housing supply, cost, timing, feasibility, and approval
+      certainty. For example, the analysis should consider processing and approval
+      procedures and time for typical single- and multi-family developments, including type of
+      permit, level of review, number of hearings, approval findings and any discretionary
+      approval procedures.
+
+      Constraints on Housing for Persons with Disabilities:
+
+         •   Community Care Facilities with Six or Fewer Persons: The element describes that
+             community care facilities for six or fewer persons are permitted in all residential
+             zones in Table 49 on p.124. However, these provisions appear to be limited to
+             community care facilities licensed by the state. Yet, the state does not license all
+             community care facilities or group homes serving six or fewer persons. The element
+             should either clarify that community care facilities without licenses are also allowed
+             in all residential zones or include a program to address this constraint on housing for
+             persons with disabilities.
+         •   Community Care Facilities for Seven or More Persons: The element limits
+             community care facilities for seven or more persons to the P&I zone, unlike other
+             similar uses, and is unclear whether these uses are subject to a conditional use
+             permit. The element should specifically analyze these constraints for impacts on
+             housing supply and choices, approval certainty and objectivity for housing for
+             persons with disabilities and modify Program 12 as appropriate, such as
+             committing to allow these uses in all zones that allow residential uses.
+         •   Reasonable Accommodations: The element should describe and evaluate the
+             approval process, including approval findings, for a reasonable accommodation
+             request.
+
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                        Page 5
+November 19, 2021
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2, and the length of time between
+      receiving approval for a housing development and submittal of an application for
+      building permits for that housing development that hinder the construction of a locality’s
+      share of the regional housing need in accordance with Government Code section
+      65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Requests for Lesser Densities and Permit Times: While the element identified requests
+      to develop housing at densities below those anticipated and the time between approval
+      and building permit, it should analyze these circumstances, including addressing any
+      hinderances, and add or modify programs as appropriate.
+
+   6. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+      The element includes some general quantification; however, the element should include
+      analysis of households with special housing needs. The analysis should include, but is
+      not limited to, factors such as trends, household income, tenure, housing types, zoning,
+      and available resources. In addition, the element includes information on agricultural
+      employment in the City and County from the American Community Survey (ACS).
+      However, ACS data likely undercounts farmworkers, does not address seasonal and
+      permanent farmworkers and farmworkers from the broader area and those employed
+      seasonally may have housing needs. The element should acknowledge the housing
+      needs of permanent and seasonal farmworkers at a county-level (e.g., using USDA
+      county-level farmworker data) and include programs as appropriate.
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the housing element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, programs must be revised with discrete timelines, objectives, and specific and
+      clear commitment to outcomes, as follows:
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                     Page 6
+November 19, 2021
+          •   Program 8 (Owner Occupied Rehabilitation Program): The Program should
+              include specific commitment with discrete timelines such as annual marketing at
+              community events, including information in utility mailers or canvassing specific
+              neighborhoods.
+          •   Program 16 (Residential Rehabilitation): The Program includes several potential
+              actions such as investigating opportunities, assisting property owners and
+              considering volunteer programs, but it should include specific and clear
+              commitment to deliverables, including discrete timelines (e.g., once a year).
+          •   Program 21 (Place-based Improvements): The program should be revised to
+              include specific and clear commitment to deliverables, including discrete
+              timelines concerning the Capital Improvement Plan (CIP) planning and
+              implementation timeline. For example, the Program could be revised to detail
+              how and to what degree capital improvement projects will be prioritized in
+              underserved areas, and what degree of investment will be funded.
+          •   Rent Control: As noted on page 97, the element should include a program to
+              address displacement risk and stabilize tenancy in older rental housing.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A3, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised as follows:
+
+          •   Program 2 (Sites Inventory Monitoring): While the element includes very
+              conservative assumptions related to nonresidential overlay zoning (e.g.,
+              industrial), it should specifically annually monitor this new zoning and commit to
+              alternatives (e.g., incentives, rezoning) within a specific time if found to be
+              ineffective in facilitating residential development.
+          •   Program 3 (Facilitate ADU Production): The Program commits to monitor ADU
+              production and affordability and if goals are not met, remove constraints, and
+              evaluate the RHNA. However, the Program should clearly commit to alternative
+              actions such as additional incentives and rezoning by a date certain upon
+              monitoring (e.g., within 6 months).
+
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                      Page 7
+November 19, 2021
+         •   Program 12 (Emergency, Transitional and Supportive Housing): The Program
+             intends to address various zoning provisions, but it must include specific
+             commitment to amend zoning. For example, the Program commits to “review” or
+             “if necessary, amend”; however, based on the information in the element, a
+             review has been completed and amendments are necessary and as a result the
+             Program should be revised with clear and specific commitment to amend zoning.
+
+             Furthermore, the Program conflates transitional and supportive housing with
+             group homes and community care facilities, including limits on the number of
+             persons. By-right permanent supportive housing is in addition and unique from
+             group homes, care facilities and general transitional and supportive housing
+             pursuant to Government Code section 65651. The Program should include clear
+             and specific commitment to amend zoning pursuant to Government Code section
+             65651 and to permit transitional and supportive housing as residential uses in all
+             zones allowing residential uses and only subject to those restrictions that apply to
+             other residential dwellings of the same type in the same zone. This should be
+             separate from group homes and care facilities, including limits on the number of
+             persons.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A4 and A5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address, remove, or mitigate
+      any identified constraints. In addition, the element should be revised as follows:
+
+         •   Program 13 (Objective Review and Ministerial Approval): The Program commits
+             to “where necessary, the city will establish objective review criteria in guidelines”.
+             Pending a full analysis of the Architectural Control review procedure, the element
+             may need to revise this commitment to remove the “where necessary” language
+             to ensure objective review criteria is established.
+         •   Program 15 (Zoning Code Review and Cleanup): The Program commits to
+             “review and amend as necessary”, “review and revise as necessary” or merely
+             “review” various constraints. However, the element has already reviewed these
+             standards and identified constraints to be addressed. The Program should revise
+             these commitments to ensure zoning is amended to address and remove or
+             mitigate constraints. In addition, the element notes other constraints such as
+             setbacks and growth control allocations and the Program should be revised to
+             include all identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                       Page 8
+November 19, 2021
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete analysis of AFFH. Based
+      on the outcomes of that analysis, the element must add or modify programs to have
+      specific commitment, milestones, and metrics to overcome fair housing issues and to
+      enhance housing mobility strategies, encourage development of new affordable housing
+      in high resource areas, improve place-based strategies, and protect residents from
+      displacement.
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for construction and rehabilitation, it
+   includes an objective of conserving one unit throughout the eight-year planning period. This
+   unit is the only unit at-risk of converting to market rate uses in the next ten year. However,
+   conservation objectives are not limited to at-risk preservation and given various comments
+   and analysis such as those related to displacement risk, objectives could be increased to
+   reflect the crucial need for conserving the existing affordable housing stock. The element
+   includes many programs that could be utilized such as Program 5 (Housing Choice
+   Voucher), 9 (Little Hollywood), 10 (Mobile Home Park Rent Control), 17 (Displacement
+   Prevention), 18 (Fair Housing and Equal Housing Opportunity) and 19 (Education, Training
+   and Resources).
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the housing element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   While the element summarizes public input from workshops and the survey, the element
+   should address all public comments received, including those that raise concerns regarding
+   Oso Ranch and the suitability or feasibility of some sites included in the site inventory.
+
+   In addition, based on comments during our review call with City staff, HCD understands the
+   City made the element available to the public at the same time as submittal to HCD. By not
+   providing adequate time for the public to review and comment on a draft of the element in
+   advance of submission, the City has not yet complied with statutory mandates to make a
+   diligent effort to encourage the public participation in the development of the element and it
+   reduces HCD’s ability to consider public comments in its review. The availability of the
+   document to the public and opportunity for public comment at least three to four weeks
+   prior to submittal to HCD is essential to the public process and HCD’s review. The City
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                          Page 9
+November 19, 2021
+   must proactively make future revisions available to the public, including any commenters,
+   prior to submitting any revisions to HCD and diligently consider and address comments,
+   including revising the document where appropriate. HCD’s future review will consider the
+   extent to which the revised element documents how the City solicited, considered, and
+   addressed public comments in the element. The City’s consideration of public comments
+   must not be limited by HCD’s findings in this review letter.
+
+E. Consistency with General Plan
+
+    The housing element shall describe the means by which consistency will be achieved with
+    other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+    The element (p. 1) states the housing element is consistent with the direction of the other
+    general plan elements, but it should also describe the means by which consistency will be
+    maintained throughout the planning period. To maintain consistency, the City could
+    consider an internal consistency review as part of its annual general plan implementation
+    report required under Government Code section 65400.
+
+
+
+
+City of San Juan Capistrano’s 6th Cycle Draft Housing Element                   Page 10
+November 19, 2021

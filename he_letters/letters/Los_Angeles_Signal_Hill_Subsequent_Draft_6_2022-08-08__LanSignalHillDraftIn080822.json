@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Signal Hill",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2022-08-08",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanSignalHillDraftIn080822.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanSignalHillDraftIn080822.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 164011,
+  "text_chars": 4829,
+  "text_empty": false
+}

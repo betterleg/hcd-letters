@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Reedley",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-08-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-reedley-draft-out-082323-corrected.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-reedley-draft-out-082323-corrected.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 223852,
+  "text_chars": 20254,
+  "text_empty": false
+}

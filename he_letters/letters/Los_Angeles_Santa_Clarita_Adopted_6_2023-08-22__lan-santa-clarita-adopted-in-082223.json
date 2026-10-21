@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Santa Clarita",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-08-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-santa-clarita-adopted-in-082223.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-santa-clarita-adopted-in-082223.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183106,
+  "text_chars": 5396,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Laguna Woods",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-10-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-laguna-woods-adopt-in-102824-068cs00000Kc7ucAAB.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-laguna-woods-adopt-in-102824-068cs00000Kc7ucAAB.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183429,
+  "text_chars": 4707,
+  "text_empty": false
+}

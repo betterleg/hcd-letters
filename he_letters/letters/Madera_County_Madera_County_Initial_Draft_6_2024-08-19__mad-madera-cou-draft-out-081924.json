@@ -1,0 +1,14 @@
+{
+  "county": "Madera County",
+  "jurisdiction": "Madera County",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2024-08-19",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mad-madera-cou-draft-out-081924.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mad-madera-cou-draft-out-081924.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 260992,
+  "text_chars": 34289,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Cupertino",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-05-04",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SacCupertinoDraftOut050423.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SacCupertinoDraftOut050423.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 286996,
+  "text_chars": 51698,
+  "text_empty": false
+}

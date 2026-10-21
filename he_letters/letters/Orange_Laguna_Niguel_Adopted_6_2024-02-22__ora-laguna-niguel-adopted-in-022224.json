@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Laguna Niguel",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-02-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-laguna-niguel-adopted-in-022224.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-laguna-niguel-adopted-in-022224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156170,
+  "text_chars": 4181,
+  "text_empty": false
+}

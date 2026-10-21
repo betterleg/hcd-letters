@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Gilroy",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-07-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-gilroy-adopt-out-070623.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-gilroy-adopt-out-070623.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 215976,
+  "text_chars": 17895,
+  "text_empty": false
+}

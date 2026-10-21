@@ -1,0 +1,14 @@
+{
+  "county": "Marin",
+  "jurisdiction": "Fairfax",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-08-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-fairfax-draft-out-all-findings-081123.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-fairfax-draft-out-all-findings-081123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 273111,
+  "text_chars": 39882,
+  "text_empty": false
+}

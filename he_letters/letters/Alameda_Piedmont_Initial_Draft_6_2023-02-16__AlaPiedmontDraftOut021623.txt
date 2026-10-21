@@ -1,0 +1,595 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 16, 2023
+
+
+         Kevin Jackson, Director
+         Planning & Building Department
+         City of Piedmont
+         120 Vista Avenue
+         Piedmont, CA 94611
+
+         Dear Kevin Jackson:
+
+         RE: City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Piedmont’s (City) draft housing element update that
+         was received for review on November 18, 2022. Pursuant to Government Code section
+         65585, subdivision (b), the California Department of Housing and Community
+         Development (HCD) is reporting the results of its review. Our review was facilitated by
+         conversations on January 6, 2023, and January 12, 2023 with you, Pierce Macdonald,
+         Senior Planner, as well as your consultants, Kathryn Slama and David Bergman. In
+         addition, HCD considered comments from several stakeholders and members of the
+         community, pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+Kevin Jackson, Director
+Page 2
+
+
+
+
+lower-income households, shall be completed no later than one year from the statutory
+deadline. Please be aware, if the City fails to adopt a compliant housing element within
+one year from the statutory deadline, the element cannot be found in substantial
+compliance until all necessary rezones pursuant to Government Code sections 65583,
+subdivision (c)(1) and 65583.2, subdivision (c) are completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and dedication you, Pierce Macdonald, as well as your
+consultants, Kathryn Slama and David Bergman, provided in preparation of the City’s
+housing element. If you have any questions or need additional technical assistance,
+please contact Shawn Danino, of our staff, at shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                         APPENDIX
+                                     CITY OF PIEDMONT
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other resources,
+the housing element section contains HCD’s latest technical assistance tool, Building Blocks for
+Effective Housing Elements (Building Blocks), available at https://www.hcd.ca.gov/planning-and-
+community-development/housing-elements/building-blocks and includes the Government Code
+addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   While the element includes analysis of past programs’ accomplishments over the previous
+   planning period (pp. D-19 to 24), it should also evaluate the cumulative effectiveness of the
+   previous housing element’s programs to address the housing needs of special needs
+   populations.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Outreach and Enforcement: While the element mentions the City does not have any
+      pending legal matters related to fair housing laws such as lawsuits or settlements (p. F-3),
+      it should also discuss how the City proactively complies with fair housing laws and
+      regulations. Examples include Government Code sections 65008 and 8899.50. For
+      additional information, please see HCD’s guidance memo at
+      https://www.hcd.ca.gov/planning-and-community-development/affirmatively-furthering-
+      fair-housing.
+
+      Income and Racially Concentrated Areas of Affluence (RCAAs): While the element
+      includes some broad discussion of RCAAs (p. F-15), it should include specific analysis
+      of income and RCAA at a regional level (City compared to the broader region). The
+      analysis should at least address trends, coincidence with other fair housing factors (e.g.,
+      race, highest resource, overpayment), effectiveness or absence of past strategies (e.g.,
+      lack of publicly assisted housing and lack of multifamily zoning), local data and
+      knowledge and other relevant factors such as past zoning or local initiatives (see
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                    Page 1
+February 16, 2023
+      below). The element must add or modify significant and meaningful programs based on
+      the outcomes of this analysis, including actions to improve housing mobility within and
+      beyond City boundaries that are not limited to the regional housing need allocation
+      (RHNA).
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element
+      generally discusses identified sites relative to socio-economic categories. For example,
+      the element notes 100 percent of sites intended for lower income households are
+      identified in the highest resource TCAC category and are not located in concentrated
+      areas of poverty but the entire City is the highest resource category and the City does
+      not have any concentrated areas of poverty. Instead, to evaluate whether the inventory
+      AFFH, the analysis should address the location (e.g., neighborhoods, planning areas),
+      number of units by income group, magnitude of the impact and, particularly, any
+      isolation of the RHNA then evaluate how the identified sites are expected to improve
+      and/or exacerbate fair housing conditions. For example, a large portion of the lower-
+      income RHNA is isolated in three remote areas on the boundaries of the City yet a
+      significant portion of the moderate and above moderate RHNA is located throughout the
+      City. The element should evaluate these patterns and based on the outcomes of this
+      analysis, consider identifying additional sites and add or modify programs to promote
+      housing mobility throughout the City (Not limited to the RHNA).
+
+      Local Data and Knowledge: The element includes state and federal data but must utilize
+      other sources of local data and knowledge to supplement the data and mapping
+      including planning documents such as locally adopted ordinances, other elements of the
+      general plan, infrastructure assessments, and mobility assessments to fully describe the
+      impacts on fair housing patterns and trends at a local and regional level.
+
+      Other Relevant Factors: While the element includes analysis with regards to fair housing
+      on some factors, such as rates of home ownership by race and ethnicity (p. F-31), it
+      must include other relevant factors that contribute to fair housing issues in the
+      jurisdiction, such as zoning, growth control measures, and other initiatives. For instance,
+      the element can analyze historical land use and investment practices, the City Charter,
+      or other information and demographic trends.
+
+      Contributing Factors to Fair Housing Issues: Upon a complete AFFH analysis, the
+      element must assess and prioritize contributing factors to fair housing issues and add or
+      modify programs as appropriate.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                    Page 2
+February 16, 2023
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code,
+      § 65583, subd. (a)(7).)
+
+      Overpayment: While the element identifies the total number of households overpaying for
+      housing (pp. A-54 and 55), it must quantify and analyze the number of lower-income
+      households overpaying for housing by tenure (i.e., renter and owner) and add or modify
+      policies and programs as appropriate.
+
+      Extremely Low-Income Households (ELI): While the element includes some information on
+      ELI households relative to race, it should also evaluate tenure, overpayment, resources
+      and strategies available and the gap and magnitude of housing needs to better formulate
+      policies and programs.
+
+      Housing Costs: While the element includes information on sales and rental prices (pp. A-52
+      to 55), rental information from the American Community Survey does not fully reflect
+      market conditions and the element should include additional data sources (e.g., Zillow,
+      Apartments.com).
+
+      Special Housing Needs: While the element quantifies (pp. A-28 to 38) the City’s special
+      needs populations, it must also analyze their special housing needs. For a complete
+      analysis of each population group, the element should discuss challenges faced by the
+      population, the existing resources to meet those needs (availability of senior housing units,
+      number of large units, number of deed restricted units, etc.,), an assessment of any gaps
+      in resources, and proposed policies, programs, and funding to help address those gaps.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Realistic Capacity: The estimate of the number of units for each site must be adjusted
+      based on the land use controls and site improvements and other factors. The element
+      appears to identify sites with zoning that allows 100 percent nonresidential
+      development. If so, the calculation of residential capacity should account for the
+      likelihood of 100 percent nonresidential development. For example, the element could
+      discuss existing or planned residential performance standards (e.g., 50 percent of
+      development required to be residential), examine how often 100 percent nonresidential
+      development occurs in the pertinent zone and adjust calculation accordingly or enhance
+      policies and programs to encourage residential development.
+
+      Infrastructure: The element describes infrastructure concerns and limitations (p. C-30)
+      such as water and sewer line retrofits and upsizing. However, it must also demonstrate
+      sufficient total water and sewer capacity (existing and planned) to accommodate the
+      regional housing need.
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                      Page 3
+February 16, 2023
+      Large Sites: Sites larger than ten acres in size are deemed inadequate to accommodate
+      housing for lower-income households unless sites of equivalent size and affordability
+      were developed in the prior planning period or other analysis demonstrates the
+      suitability of these sites. The element identifies one large site of 11.9 acres (p. B-25).
+      However, the element must also demonstrate the suitability of this site as described
+      above. For example, the element could discuss how parceling will facilitate development
+      with units affordable to lower-income households or how the housing will be
+      incorporated into the overall development as part of a mixed-income approach. Based
+      on the outcomes of this analysis, the element must add or modify programs to
+      encourage housing for lower-income households on large sites.
+      Nonvacant Sites: The element describes the methodology for selecting nonvacant sites
+      with residential development potential (p. B-9). However, to demonstrate the potential
+      for redevelopment, the element should be revised, as follows:
+         •   Extent Existing Uses Impede Additional Development: The element broadly
+             describes potential for development based on parking areas and the age of
+             structures but should further evaluate the existing uses to demonstrate the
+             potential for redevelopment. For example, the element should describe whether
+             the existing uses are anticipated to be razed or if the site will be intensified with
+             existing uses remaining and if so, whether the needed parking is an impediment.
+             The element should also discuss any indicators that the properties will turnover in
+             the planning period such as property owner or developer interest, expiring
+             leases, vacancy, marginal operations, lack of improvements or lack of market
+             demand for the use.
+         •   Development Trends: The element lists several recent developments on
+             nonvacant sites and concludes based on these trends, the identified sites will
+             redevelop in the planning period. However, the element should support this
+             conclusion by discussing how the characteristics of recent developments relate
+             to identified sites. For example, the element lists a recent development on a site
+             with an office building but should discuss the similarity to the identified site. For
+             example, the element could discuss how the office building was a two-story
+             building with operating offices, included a similarly situated parking lot and how
+             the parking was replaced.
+
+      In addition, if the element relies on nonvacant sites to accommodate more than 50
+      percent of the Regional Housing Needs Allocation (RHNA) for lower-income
+      households, it must demonstrate existing uses are not an impediment to additional
+      residential development and will likely discontinue in the planning period. (Gov. Code, §
+      65583.2, subd. (g)(2).) For your information, absent findings in the resolution as part of
+      adoption based on substantial evidence, the existing uses will be presumed to impede
+      additional residential development and will not be utilized toward demonstrating
+      adequate sites to accommodate the RHNA.
+
+      Publicly-Owned Sites: The element identifies four City-Owned parcels to accommodate
+      a large portion of the City’s lower-income RHNA and includes some broad discussion of
+      the site characteristics and anticipated specific plan process. However, the element
+      should specifically discuss the extent existing uses impede additional development
+      including timing of any potential relocation or similar activity, any known conditions that
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                     Page 4
+February 16, 2023
+      preclude or affect the timing or feasibility of development in the planning period and
+      potential schedule for development. Based on this analysis, the element should add or
+      modify programs with a schedule of actions to facilitate development in the planning
+      period.
+
+      Environmental Constraints: While the element generally describes a few environmental
+      conditions within the City (p. C-29), it must describe how these conditions relate to
+      identified sites including any other known environmental or other conditions (e.g.,
+      shape, easements, relocation, parking replacement) that could impact or preclude
+      housing development in the planning period.
+
+      Accessory Dwelling Units (ADU): The element may utilize ADUs toward the RHNA
+      based on past trends, affordability, resources and incentives and other relevant factors.
+      While the element discusses ADU assumptions toward the RHNA based on past trends,
+      it should also discuss other relevant factors and adjust assumptions as appropriate.
+      Specifically, the analysis should account for the availability of the units for occupancy
+      which was a key issue in the prior cycle as noted in the review and revise portion of the
+      element (See Program 1.D – p. D-4). The analysis should incorporate the information
+      gathered from the prior planning period, adjust assumptions as appropriate and if
+      necessary, identify additional sites.
+
+      In addition, for your information, HCD reviewed the City’s ADU ordinance and noted
+      some areas inconsistent with statutory requirements. HCD will provide a complete
+      listing of ADU non-compliance issues under a separate cover. As a result, the element
+      should add or modify existing programs to ensure the City’s ADU ordinance will be
+      updated to comply with state law.
+
+      Electronic Copy of the Sites Inventory: For your information, pursuant to Government
+      Code section 65583.3, the City must submit an electronic sites inventory with its
+      adopted housing element. The City must utilize standards, forms, and definitions
+      adopted by HCD. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-elements for a
+      copy of the form and instructions. The City can reach out to HCD at
+      sitesinventory@hcd.ca.gov for technical assistance.
+
+      Zoning for a Variety of Housing Types (Emergency Shelters): The element mentions
+      emergency shelters are permitted in Zone B (p. C-10). However, the element should
+      also clarify shelters are permitted without discretionary action and discuss available
+      acreage, including typical parcel sizes and the presence of reuse opportunities. In
+      addition, the analysis should address proximity to transportation and services and any
+      conditions inappropriate for human habitability. In addition, subsequent draft
+      submissions may need to comply with the requirements of Chapter 654, Statutes of
+      2022 (AB 2339). For more information on timing requirements and these new statutory
+      requirements, please see HCD’s memo at
+      https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/ab2339-
+      notice.pdf.
+
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                   Page 5
+February 16, 2023
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Site Improvements: While the element includes some broad description of on and
+      off-site improvements (p. C-24), it must list actual standards and analyze their
+      impact on the cost of development.
+
+      Housing for Persons with Disabilities: The element concludes that the definition of family
+      used in zoning and land use does not include unrelated individuals and does not
+      unnecessarily constrain living configurations. However, the element should list the
+      definition and analyze the impacts on housing for persons with disabilities. This is
+      particularly important since upon a cursory review, the City’s definition appears to have
+      potential constraints on persons with disabilities such as requiring families to be
+      “traditional”, “sharing household activities” and requiring a “single written lease”. Based
+      on the outcomes of this analysis, the element should add or modify programs to
+      address identified constraints and modify the family definition.
+
+      In addition, the element briefly mentions a reasonable accommodation procedure,
+      including some findings of approval. However, based on a cursory review, the
+      procedure has provisions that may act as a constraint on housing for persons with
+      disabilities. For example, the procedure appears to disallow waiving a conditional use
+      permit and the decision-making criteria includes other considerations such as impacts
+      on surrounding uses and equivalent level of benefit that will not result in exceptions to
+      development standards. The element should specifically evaluate these provisions as
+      potential constraints and add or modify programs to address identified constraint.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+      A large share of the programs lists implementation timelines as “ongoing.” While this
+      may be appropriate for some programs, programs with specific implementation actions
+      must include completion dates resulting in beneficial impacts within the planning period.
+      Programs that should be modified to add discrete timing include (but are not limited to)
+      5.F (Everyone Home), 5.G (Faith Community Participation), 5.H (Housing for ELI
+      Households), and 5.J (Developmentally Disabled Residents).
+
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                      Page 6
+February 16, 2023
+      Additionally, several programs and actions have timelines that should be moved earlier
+      in the planning period to ensure a beneficial impact. Many of these programs’ timelines
+      are benchmarked to the date of housing element adoption. Those programs should be
+      revised to reflect actual dates. Examples include Programs 1.D (Allow Religious
+      Institution Affiliated Housing in Zone A), 1.F (Increase Allowances for Housing in Zone
+      B), 1.G (Facilitating Multi-family development in Zone C), 1.H (Increase Allowances for
+      Housing in Zone D), 1.P (General Plan Amendments, and 1.Q (Density Bonus
+      Ordinance).
+      Additionally, programs must have specific commitment to housing outcomes or
+      deliverables. Several programs include actions with no description of how those actions
+      will be implemented (e.g., “support”, “study”, “explore”, “evaluate”, etc.,). For example,
+      Program 3.E states that the City will “investigate affordable housing fund” and "meet
+      with Council in 2023 to discuss potential risks and opportunities". However, it does not
+      make any firm commitment to establish an affordable housing fund. Programs should be
+      amended, as appropriate, to include specific commitment. Examples include Programs
+      1.G (Facilitating Development in Zone C), 1.H (Increasing Allowances in Zone D), 1.O
+      (Gas Station Remediation Study), 2.B (Availability of Small Homes), 3.E (Affordable
+      Housing Fund), 4.F (Capital Improvement Plan Updates), 4.G (Monitoring the Effects of
+      the City Charter), 4.H (Consider Modifying Charter on Zoning Amendments), 4.J (Small
+      Lot Housing Study), 4.K (Small Lot Affordable Housing Study), 5.C (Assistance to
+      Nonprofit Developers), 5.H (Housing for ELI Households), and 5.J (Developmentally
+      Disabled Residents).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised as follows:
+
+          •   Program 1.R (Lower-Income Sites to Address Shortfall): The element commits to
+              rezone sites and address various requirements related to Government Code
+              section 65583.2, subdivisions (h) and (i). However, the Program should also
+              commit to the shortfall of sites, minimum acreage, allowable densities, and
+              development standards that will facilitate maximum allowable densities.
+
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                     Page 7
+February 16, 2023
+         •   Program 1.L (Specific Plan): The Program should be revised based on a
+             complete analysis as noted in Finding B3. In addition, the Program should
+             commit to complying with the Surplus Land Act, finalizing necessary entitlements,
+             and issuing building permits by a specified date and evaluating progress by a
+             specified date and if necessary, identifying alternative sites by a specified date to
+             accommodate development in the planning period.
+         •   Program 4.N (Allow Transitional and Supportive Housing): The Program commits
+             to allow transitional and supportive housing similar to other dwellings. But, in
+             addition, the element should specifically commit to permit permanent supportive
+             housing without discretionary action in zones allowing multifamily and mixed-use
+             development and comply with Government Code section 65651.
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The element must include programs with specific actions and timelines to assist in the
+      development of housing for lower-income households, including ELI and special needs
+      households, as follows:
+
+         •   Program 5.C (Assistance to Nonprofit Developers): The element should
+             specifically commit to proactively and annually reaching out to developers of
+             affordable housing and identify development opportunities. In addition, the
+             program should commit to establish a package of incentive that will be ready to
+             assist the development of housing for lower-income households such as funding,
+             adopting priority processing, granting concessions and incentives beyond State
+             Density Bonus Law, waiving fees, and assisting with site preparation or
+             predevelopment.
+         •   Program 5.D (Persons with Development Disabilities): The Program should
+             include actions beyond an explanation of the process to retrofit a home. For
+             example, the Program could commit to work with regional providers and non-profit
+             developers to identify development opportunities, pursue funding, develop a pilot
+             program or other actions more geared toward housing outcomes.
+         •   Program 5.H (ELI Households): While the Program commits to “explore” ways to
+             expand housing for ELI households, it should also commit to pursue and
+             establish strategies. In addition, the Program commits to amend zoning to allow
+             SROs but should also commit to appropriate development standards and permit
+             procedures that encourage the use.
+         •   Program 5.E (Housing Support for Families in Crisis): In addition to providing
+             support and referral to County services, the element should also seek to develop
+             opportunities within the City to address the housing needs of special needs
+             populations such as specific efforts within Program 1.L (Specific Plan) or
+             identifying additional sites, capacity, and funding to pursue permanent supportive
+             housing.
+         •   Program 5.F (Faith Community Participation): The Program should go beyond
+             identifying potential partners and commit to establish partnerships and pursue
+             strategies such as providing technical assistance, amending zoning, and
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                     Page 8
+February 16, 2023
+             assisting with funding application and coordinating with non-profit agencies and
+             developers.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding B4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints. In addition, the element should be revised, as
+      follows:
+
+         •   Programs 1.G (Development in Zone C) and 1.H (Housing in Zone D): These
+             Programs generally commit to increase allowable densities but should also go
+             beyond “consider” or implementing “possible” incentives and specifically commit
+             to establish appropriate procedures and development standards that improve
+             approval certainty and facilitate maximum densities without exceptions. For
+             example, Program 1.G (Development in Zone C) could commit to establish
+             heights of at least five stories and Program 1.H could commit to establish heights
+             of at least seven stories. This is particularly important given the lack of
+             implementation in the prior planning period (p. D-6).
+         •   Programs 4.G (Monitoring the City Charter) and 4.H (Modifying the Charter):
+             Program 4.G from the prior planning period (p. D-17) specifically committed to
+             evaluate the effects of the City Charter on multifamily development and take
+             appropriate action to address the constraint. These actions were not limited to
+             the RHNA. In response, the City appears to have taken no action to address this
+             fundamental constraint on housing choices and, as a result, the current programs
+             must have specific commitment to address the constraint. For example, Program
+             4.H should go beyond “consider modifying” and commit to a schedule of actions
+             to modify the Charter and alternative actions to address the constraint if the
+             Charter is not amended by a specified date.
+         •   Program 4.P (Residential Care Facilities): The Program should commit to permit
+             group homes for six or fewer persons as a single-family residential use
+             regardless of licensing. In addition, regarding group homes for seven or more
+             persons, the Program commits to considering other provisions but, instead,
+             should specifically commit to amend procedures and zoning to allow these uses
+             in all residential zones with objectivity to promote approval certainty similar to
+             other residential uses of the same form. For more information, please see HCD’s
+             guidance at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+             community/group-home-technical-advisory-2022.pdf.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                    Page 9
+February 16, 2023
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Programs to AFFH should go beyond status quo actions, include specific
+      commitment, discrete timing, geographic targeting and metrics or numerical targets and
+      should generally address housing mobility, encourage new housing choices in higher
+      resource areas, improve place-based strategies toward community revitalization and
+      protect existing residents from displacement. For example, the element must add
+      significant and meaningful housing mobility actions to promote housing choices and
+      affordability (not limited to the RHNA) and overcome the existing patterns in the City
+      relative to the broader region.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      The element includes many meaningful actions to promote the creation of ADUs.
+      However, the element should also commit to monitor the production and affordability of
+      ADUs at least twice in the planning period and take appropriate action such as adjusting
+      assumptions or rezoning within a specified time (e.g., 1 year) if assumptions are not
+      realized.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the City made considerable effort to include the public through workshops and surveys and
+   included some broad responses to public comments under a separate City Council staff report,
+   moving forward, the City should employ additional methods for public outreach efforts in the
+   future, particularly to include lower-income and special needs households or representatives. For
+   example, the City could conduct targeted stakeholder interviews or establish a committee
+   representative of lower-income households in future public outreach efforts. In addition, the
+   element explains various public comments but should also discuss how those comments were
+   incorporated into the elements.
+
+
+
+
+City of Piedmont’s 6th Cycle (2023-2031) Draft Housing Element                       Page 10
+February 16, 2023

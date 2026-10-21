@@ -1,0 +1,14 @@
+{
+  "county": "Kern",
+  "jurisdiction": "Ridgecrest",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2024-01-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ker-ridgecrest-draft-out-011724.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ker-ridgecrest-draft-out-011724.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 271816,
+  "text_chars": 38857,
+  "text_empty": false
+}

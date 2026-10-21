@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Orange",
+  "type": "Subsequent Draft",
+  "cycle": "",
+  "reviewed": "2023-09-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-orange-draft-in-092923.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ora-orange-draft-in-092923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 216414,
+  "text_chars": 9008,
+  "text_empty": false
+}

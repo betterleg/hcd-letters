@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Sierra Madre",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-02-16",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanSierraMadre_Adopted_OUT_021622.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanSierraMadre_Adopted_OUT_021622.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 252102,
+  "text_chars": 20626,
+  "text_empty": false
+}

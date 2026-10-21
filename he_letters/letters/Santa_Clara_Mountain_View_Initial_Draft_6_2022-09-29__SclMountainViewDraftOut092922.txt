@@ -1,0 +1,693 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 29, 2021
+
+
+
+         Aarti Shrivastava, Director
+         Community Development Department
+         City of Mountain View
+         500 Castro Street, PO Box 7540
+         Mountain View, CA 94039
+
+         Dear Aarti Shrivastava:
+
+         RE: City of Mountain View’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Mountain View’s (City) draft housing element
+         received for review on July 1, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a conversation
+         on September 13, 2022 with yourself, Ellen Yau, Senior Planner, Erica Anderson,
+         Advanced Planning Manager, Wayne Chen, Assistant Community Development
+         Director, Micaela Hellman-Tincher, Housing Neighborhood Services Manager, Beverly
+         Choi, Community Planning Program Manager, Grace Nelson, Environmental Intern, and
+         BAE Consultant Stephanie Hagar. In addition, HCD considered comments from Liwen
+         Chen, League of Women Voters Los Altos-Mountain View area, Mountain View YIMBY,
+         Deniece Smith, the Mountain View Chamber of Commerce & Foundation, SV@Home,
+         James Kuszmaul, Greenbelt Alliance, Salim Damerdji, TransForm, and Kevin Ma
+         pursuant to Government Code section 65585, subdivision (c). HCD also received
+         comments from Mountain View Mobile Home Alliance, Susan Morales, and Anna Marie
+         Morales on September 28, 2022. However, HCD was unable to fully examine the
+         information and consider the comments as part of this review. Consequently, HCD will
+         retain the comments for full consideration in the next review of the housing element
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+         particular, the element must clarify its use and definition of “pending projects” in the
+         sites inventory, and provide further analysis to demonstrate its local density bonus
+         requirements are not in violation of State Law. The enclosed Appendix describes these
+         and other revisions needed to comply with State Housing Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+Aarti Shrivastava, Director
+Page 2
+
+
+
+statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+housing needs allocation (RHNA), including for lower-income households, shall be
+completed no later than one year from the statutory deadline. Otherwise, the local
+government’s housing element will no longer comply with State Housing Element Law,
+and HCD may revoke its finding of substantial compliance pursuant to Government
+Code section 65585, subdivision (i). Please be aware, if the City fails to adopt a
+compliant housing element within one year from the statutory deadline, the element
+cannot be found in substantial compliance until rezones to accommodate a shortfall of
+sites pursuant to Government Code section 65583, subdivision (c), paragraph (1),
+subparagraph (A) and Government Code section 65583.2, subdivision (c) are
+completed.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+Aarti Shrivastava, Director
+Page 3
+
+
+
+
+HCD appreciates the hard work of the City’s entire housing element team during the
+course of our review. We are committed to assist the City in addressing all statutory
+requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact Reid Miller, of our staff, at
+Reid.Miller@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                   CITY OF MOUNTAIN VIEW
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   As part of the evaluation of programs in the past cycle, the element must also provide an
+   explanation of the effectiveness of goals, policies, and related actions in meeting the housing
+   needs of special needs populations (e.g., elderly, persons with disabilities, large households,
+   female headed households, farmworkers and persons experiencing homelessness).
+   Programs should be revised as appropriate to reflect the results of this evaluation.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+      Enforcement and Outreach: The element must state whether or not there were any
+      judgements, lawsuits, or enforcement actions against the City as a result of fair housing
+      complaints. The element must also provide a clear statement that the City complies with
+      all existing State and Federal fair housing laws and regulations.
+
+      Integration and Segregation: While the element provided most of the necessary data and
+      analysis for integration and segregation patterns in the City in the local context, it must
+      discuss and analyze data for trends over time and patterns across census tracts for
+      familial status, income, and persons with disabilities. Additionally, it must evaluate these
+      patterns at a regional basis, comparing the City to the region.
+
+      Racial/Ethnic Areas of Concentration of Affluence (RCAA): The element correctly states
+      on pg. 156 that a RCAA does not exist within the City. However, the City is predominantly
+
+
+      Review of the City of Mountain View’s 6th Cycle Draft Housing Element        Page 1
+      September 29, 2022
+a high resource category according to TCAC/HCD Opportunity Maps and higher income,
+with areas of concentrated higher incomes being predominantly white. These patterns are
+similar to the surrounding region, but the element should include specific analysis of the
+City compared to the region and should formulate policies and programs to promote an
+inclusive community. For example, the City should consider additional actions (not limited
+to the RHNA) to promote housing mobility and improve new housing opportunities
+throughout the City. This is particularly important since the City did not permit adequate
+housing affordable to lower income households in the prior planning period.
+
+Disparities in Access to Opportunity: While the element provides information on the access
+to opportunity through the TCAC opportunity maps and provides a complete local and
+regional analysis of patterns and trends for most components of the affirmatively furthering
+fair housing (AFFH) analysis, HCD has received public comments concerning racial
+disparities in access to opportunities in education in the City. The element should provide
+a comprehensive analysis of local and regional disparities of the educational scores
+through local, federal, and/or state data. Additionally, the element should provide
+additional local analysis related to access to opportunity in relation to a healthy
+environment. Please refer to page 35 of the AFFH guidebook (link:
+https://www.hcd.ca.gov/community-development/affh/index.shtml#guidance) for specific
+factors that should be considered when analyzing access to opportunities as it pertains to
+education, and any factors that are unique to Mountain View.
+
+Disproportionate Housing Needs including Displacement Risks: While the element
+includes some local data on cost burdened households (overpayment), the element must
+evaluate regional trends and patterns for overpayment. In addition, the element briefly and
+generically mentions displacement and homelessness in other areas of the housing
+element, it must still provide data, analysis, and conclusions on displacement risk and
+homelessness in the AFFH section.
+
+Site Inventory: While the element includes some general discussion and conclusions
+beginning on pg. 273 that identified sites for lower-income households are not
+concentrated in any areas of the City, the element should include analysis to support these
+conclusions, including the number of units per site by income group for each of the AFFH
+categories relative to the existing patterns (number of households), impacts on patterns of
+disproportionate housing needs (e.g., overpayment, overcrowding, displacement) and
+expanding on the reasoning of the distribution of the regional housing need allocation
+(RHNA) for lower income households. Further, if the inventory does isolate the RHNA for
+lower income households in central areas, the element must have commensurate
+programs with place-based strategies for community revitalization and new opportunities
+in higher opportunity areas (beyond RHNA) to result in an equitable quality of life and
+affirmatively further fair housing throughout the City.
+
+Contributing Factors: The element mentions four main fair housing issues and connects
+them to goals and priorities. However, these issues and goals do not appear to be
+connected to programs adequate to facilitate the formulation of meaningful action to
+overcome these contributing factors. The element should re-assess contributing factors
+upon completion of analysis and make revisions as appropriate, ensuring these
+
+
+Review of the City of Mountain View’s 6th Cycle Draft Housing Element      Page 2
+September 29, 2022
+   contributing factors are linked to programs that have meaningful actions to address
+   concerns specific to the City.
+
+   Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+   overcome contributing factors to fair housing issues. Currently, the element identifies
+   programs to encourage and promote affordable housing; however, most of these
+   programs do not appear to facilitate any meaningful change nor address AFFH
+   requirements. Given that most of the City is considered a high-income community, the
+   element could focus on programs that enhance housing mobility and encourage
+   development of more housing choices and affordable housing in an inclusive manner.
+   Programs also need to be based on identified contributing factors, be significant and
+   meaningful. The element must add and revise programs based on a complete analysis
+   and listing and prioritization of contributing factors to fair housing issues and include
+   geographic targeting as appropriate. Furthermore, the element must include metrics and
+   milestones for evaluating progress on programs, actions, and fair housing results.
+
+2. Include an analysis of population and employment trends and documentation of
+   projections and a quantification of the locality's existing and projected needs for all income
+   levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+   Extremely Low-Income Households: While the element identifies the projected number of
+   extremely low-income (ELI) households, it must still analyze their existing housing needs.
+   This is particularly important given the unique and disproportionate needs of ELI
+   households. For example, the element could analyze tenure, cost burden, overcrowding
+   and other household characteristics then examine trends and the availability of resources
+   to determine the magnitude of gaps in housing needs.
+
+3. Include an analysis and documentation of household characteristics, including level of
+   payment compared to ability to pay, housing characteristics, including overcrowding, and
+   housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+   Housing Conditions: The element identifies the age of the housing stock (p. 74, Figure 10).
+   However, it must include analysis of the condition of the existing housing stock and
+   estimate the number of units in need of rehabilitation and replacement. For example, the
+   analysis could include estimates from a recent windshield survey or sampling, estimates
+   from the code enforcement agency, or information from knowledgeable
+   builders/developers, including non-profit housing developers or organizations.
+
+4. An inventory of land suitable and available for residential development, including vacant
+   sites and sites having realistic and demonstrated potential for redevelopment during the
+   planning period to meet the locality’s housing need for a designated income level, and an
+   analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+   Code, § 65583, subd. (a)(3).)
+
+   The City has a RHNA of 11,135 housing units, of which 4,370 are for lower-income
+   households. To address this need, the element relies on approved and pipeline projects,
+   as well as nonvacant sites and sites in proposed master plan areas. To demonstrate the
+
+
+   Review of the City of Mountain View’s 6th Cycle Draft Housing Element         Page 3
+   September 29, 2022
+adequacy of these sites and strategies to accommodate the City’s RHNA, the element
+must include complete analyses:
+
+Progress in Meeting the RHNA: The element indicates (p. 238) that 379 units affordable to
+very low-income and low-income households have been built or are under construction or
+approved, but provides no information documenting how affordability of the units was
+determined. As you know, the City’s RHNA may be reduced by the number of new units
+built since , however, the element must describe the City’s methodology for assigning
+these units to the various income groups based on actual sales price or rent level of the
+units and demonstrate their availability in the planning period.
+
+Additionally, the element identifies a number of “pending” projects that are listed in the
+sites inventory with no additional analysis as to where these projects are in the
+development process. First, to count these units as progress towards RHNA, the element
+should describe the status all projects, not just those with anticipated affordability. Second,
+the element must demonstrate these units are expected to be constructed during the
+planning period. To demonstrate the availability of units within the planning period, the
+element could analyze infrastructure schedules, City’s past completion rates on pipeline
+projects, outreach with project developers, and should describe any expiration dates on
+entitlements, anticipated timelines for final approvals, and any remaining steps for projects
+to receive final entitlements. Lastly, given the element’s reliance on pipeline projects, the
+element must include programs with actions that commit to facilitating development and
+monitoring approvals of the projects (e.g., coordination with applicants to approve
+remaining entitlements, supporting funding applications, expediating approvals, rezoning
+or identification of additional sites should the applications not be approved).
+
+Specific/Master Plan Areas: The element identifies the Middlefield Park Master Plan, and
+the North Bayshore Master Plan as pending projects. It is unclear whether the expected
+units from these master plans are from actual proposed projects or are anticipated
+capacity from yet to be proposed projects that will require subsequent approvals. If there
+are no actual proposed projects, parcels within these master plans should be listed not as
+a “pending project” but as sites.
+
+Additionally, the element may utilize residential capacity in specific plans to accommodate
+the RHNA but should account for the number of units realistically anticipated to occur in
+the planning period. For example, if the master plan has an anticipated build out horizon of
+20 years, the number of units should be adjusted for the 8-year planning period. The
+element should include additional discussion for the Middlefield Park Master Plans and
+North Bayshore master plans including their anticipated timeline or build out horizon and
+adjust capacity assumptions if appropriate.
+
+Realistic Capacity: While the element provides assumptions of buildout for sites included
+in the inventory, the capacity estimate must consider land use controls and site
+improvements.
+
+Nonvacant Sites: The element states on page 255 that nonvacant opportunity sites in were
+screened based on specific criteria related to floor area ratio, date of structure, type of
+
+
+Review of the City of Mountain View’s 6th Cycle Draft Housing Element         Page 4
+September 29, 2022
+   existing use, underutilized surface parking lots occupying a major portion of the site,
+   and/or have landowners that expressed interest in redevelopment. However, the element
+   should clearly relate these criteria to the sites identified. For example, it is unclear which
+   properties have underutilized surface parking or which had expressed interest in
+   redevelopment. In addition, to further demonstrate the development potential of these
+   underutilized sites, the element could also include information related to the condition of
+   the structure and where the uses are operating, marginalized, or for shopping centers,
+   current rate of occupancy.
+
+   Additionally, the element identifies appears to identify sites with existing residential uses.
+   Absent a replacement housing policy, these sites are not adequate sites to accommodate
+   lower-income households. The replacement housing policy has the same requirements as
+   set forth in Government Code section 65915, subdivision (c), paragraph (3).
+
+   Sites Identified in Prior Planning Periods: Sites identified in prior planning periods shall not
+   be deemed adequate to accommodate the housing needs for lower-income households
+   unless a program, meeting statutory requirements, requires rezoning within three years.
+   The element must include a program to address this requirement, and it should clarify
+   which sites were identified in prior planning periods. For more information on program
+   requirements, please see HCD’s Housing Element Sites Inventory Guidebook at
+   https://www.hcd.ca.gov/community-development/housing-element/housing-element-
+   memos.shtml.
+
+   Environmental Constraints: While the element generally describes a few environmental
+   conditions within the City (page 3-35), it must relate those conditions to identified sites and
+   describe any other known environmental or other constraints that could impact housing
+   development on identified sites in the planning period.
+
+   Electronic Sites Inventory: For your information, pursuant to Government Code section
+   65583.3, the City must submit an electronic sites inventory with its adopted housing
+   element. The City must utilize standards, forms, and definitions adopted by HCD. Please
+   see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+   development/housing-element/index.shtml#element for a copy of the form and
+   instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+   assistance.
+
+   Zoning for a Variety of Housing Types (Single Room Occupancy (SRO) Units): The
+   element does not state in what zones it allows SRO units and should be revised to include
+   this information.
+
+5. An analysis of potential and actual governmental constraints upon the maintenance,
+   improvement, or development of housing for all income levels, including the types of
+   housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+   identified in the analysis pursuant to paragraph (7), including land use controls, building
+   codes and their enforcement, site improvements, fees and other exactions required of
+   developers, and local processing and permit procedures. The analysis shall also
+   demonstrate local efforts to remove governmental constraints that hinder the locality from
+
+
+   Review of the City of Mountain View’s 6th Cycle Draft Housing Element          Page 5
+   September 29, 2022
+meeting its share of the regional housing need in accordance with Government Code
+section 65584 and from meeting the need for housing for persons with disabilities,
+supportive housing, transitional housing, and emergency shelters identified pursuant to
+paragraph (7). (Gov. Code, § 65583, subd. (a)(5).)
+
+Governmental Constraint (General): The cumulative impact of governmental constraints
+can impact the feasibility of development as well as costs and supply. Given the
+complexity of the regulatory and political environment, the element should include an
+analysis of the combination of potential governmental constraints, including but not
+limited to land use controls, discretionary actions, permit and entitlement procedures,
+fees and exactions, and any other ordinances or requirements affecting development.
+Please note, HCD received many public comments noting concerns related to
+constraints on the permit and processing of development within the City. In addition,
+HCD notes Appendix H in the element which provides some analysis of potential
+constraints and impacts. The City should incorporate this information into the analysis
+and add or modify programs as appropriate to address constraints.
+
+Land Use Controls: The element must identify and analyze all relevant land use controls
+impacts as potential constraints on a variety of housing types. The analysis should analyze
+land use controls independently and cumulatively with other land use controls. The
+analysis should specifically address requirements related to parking, heights, lot coverage
+and limits on allowable densities. The analysis should address any impacts on cost,
+supply, housing choice, affordability, timing, approval certainty and ability to achieve
+maximum densities and include programs to address identified constraints.
+
+Fees and Exaction: While the element provides some basic information on residential
+development fees starting on pg. 211, it must describe all required fees for single family
+and multifamily housing development, including impact fees, and analyze their impact as
+potential constraints on housing supply and affordability. For example, the analysis could
+identify the total amount of fees and their proportion to the development costs for both
+single family and multifamily housing. For additional information and a sample analysis
+and tables, see the Building Blocks at http://www.hcd.ca.gov/community-
+development/building-blocks/constraints/fees-and-exactions.shtml. This analysis is
+particularly important given the fact that HCD has received numerous public comments
+that fees the City is charging are high and constitute a constraint on development.
+
+Local Processing and Permit Procedures: While the element includes some information
+about the permit process and processing time, a complete analysis must evaluate the
+processing and entitlement procedures for potential constraints on housing supply, cost,
+timing, financial feasibility, approval certainty and ability to achieve maximum densities.
+While the element includes information about processing times, it should also describe the
+procedures for a typical single family and multifamily development. The analysis should
+address the approval body, the number of public hearing if any, approval findings and any
+other relevant information. For example, the element should identify and analyze approval
+findings for impacts on approval certainty, the presence of processes or guidelines to
+promote certainty and add or modify programs as appropriate. Additionally, the element
+briefly mentions a “gatekeeper” process on pg. 215. The element should provide further
+
+
+Review of the City of Mountain View’s 6th Cycle Draft Housing Element      Page 6
+September 29, 2022
+description and analysis of this process and add or modify programs as appropriate to
+ensure that the process is not a constraint on housing production.
+
+On/Off Site Improvements: While the element provides a basic description of on and off
+site improvements on pg. 214, it must identify subdivision level improvement requirements,
+such as minimum street widths (e.g., 40 foot minimum street width), and analyze their
+impact as potential constraints on housing supply and affordability. For additional
+information and a sample analysis, see the Building Blocks at
+http://www.hcd.ca.gov/community-development/building-blocks/constraints/codes-and-
+enforcement-on-offsite-improvement-standards.shtml.
+
+Codes and Enforcement: While the element provides some information on relevant
+codes the City has adopted starting on pg. 219, it must also provide and analysis of the
+systems the City has in place to enforce these codes.
+
+Constraints on Housing for Persons with Disabilities: The element subjects group homes
+of seven or more persons to a conditional use permit, unlike other similar uses. For your
+information, zoning should simply implement a barrier-free definition of family instead of
+subjecting, potentially persons with disabilities, to special regulations such as the number
+of persons, population types and licenses. These housing types should not be excluded
+from residential zones, most notably low-density zones, which can constrain the
+availability of housing choices for persons with disabilities. Requiring these housing types
+to obtain a special use or CUP could potentially subject housing for persons with
+disabilities to higher discretionary standards where an applicant must demonstrate
+compatibility with the neighborhood, unlike other residential uses. The element should
+specifically analyze these constraints for impacts on housing supply and choices and
+approval certainty and objectivity for housing for persons with disabilities and include
+programs as appropriate.
+
+Finally, starting on pg. 225, the element identifies approval findings for granting a
+reasonable accommodation including finding related to impacts on surrounding uses –
+essentially a conditional use permit finding. However, reasonable accommodation should
+be a unique exception process from a conditional use permit, especially given its
+importance in addressing barriers to housing for persons with disabilities. The element
+should include revise Program 2.4 (Reasonable Accommodations) to amend the
+Reasonable Accommodation Ordinance and remove constraints, namely the “potential
+impact on surrounding uses” approval finding.
+
+Zoning, Development Standards and Fees: The element must clarify compliance with new
+transparency requirements for posting all zoning, development standards and fees on the
+City’s website and add a program to address these requirements, if necessary.
+
+Other Local Ordinances: The element must analyze any locally adopted ordinances that
+directly impacts the cost and supply or residential development (e.g., inclusionary
+requirements, short term rentals, growth controls). Specifically, the element should further
+analyze inclusionary requirements starting on pg. 209 to ensure that they are not a
+constraint, and modify Programs as appropriate based on the complete analysis.
+
+
+Review of the City of Mountain View’s 6th Cycle Draft Housing Element        Page 7
+September 29, 2022
+     Additionally, HCD has been in contact with the City regarding its implementation of State
+     Density Bonus Law (SDBL), and has provided technical assistance to that effect in a letter
+     dated October 8, 2021. Specifically, HCD offered guidance on the manner in which the
+     City applies SDBL in concert with its Community Benefit Zoning program, namely the
+     implementation of floor area ratio (FAR) as a measure of density, and the incompatibility of
+     the State waivers and concessions process with the City’s program. The City should
+     review this correspondence and revise Program 1.5 (Density Bonus) to state that the City
+     will review and modify it its density bonus ordinance and policies to comply with state law.
+
+  6. Analyze any special housing needs such as elderly; persons with disabilities, including a
+     developmental disability; large families; farmworkers; families with female heads of
+     households; and families and persons in need of emergency shelter. (Gov. Code,
+     § 65583, subd. (a)(7).)
+
+     While the element quantifies the number of the elderly, persons with disabilities, large
+     families, families with female heads of households, and families and persons in need of
+     emergency shelter, it must still quantify the number of farmworkers in the City, and
+     analyze all special housing needs categories. The analysis should include, but is not
+     limited to, factors such as household income, tenure, housing types, zoning, and available
+     resources. Local officials, special needs service providers, or City/County social and
+     health service providers may be able to assist with information to complete the analysis.
+     For additional information and a sample analysis, see the Building Blocks at
+     http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/large-
+     families-female-head-household.shtml.
+
+
+C. Housing Programs
+
+  1. Include a program which sets forth a schedule of actions during the planning period, each
+     with a timeline for implementation, which may recognize that certain programs are
+     ongoing, such that there will be beneficial impacts of the programs within the planning
+     period, that the local government is undertaking or intends to undertake to implement the
+     policies and achieve the goals and objectives of the Housing Element through the
+     administration of land use and development controls, the provision of regulatory
+     concessions and incentives, and the utilization of appropriate federal and state financing
+     and subsidy programs when available. The program shall include an identification of the
+     agencies and officials responsible for the implementation of the various actions. (Gov.
+     Code, § 65583, subd. (c).)
+
+     To address the program requirements of Government Code section 65583, subdivision
+     (c)(1-6), and to facilitate implementation, programs should include: (1) a description of the
+     City’s specific role in implementation; (2) definitive implementation timelines; (3)
+     objectives, quantified where appropriate; and (4) identification of responsible agencies and
+     officials. Programs to be revised include the following:
+
+
+
+
+     Review of the City of Mountain View’s 6th Cycle Draft Housing Element       Page 8
+     September 29, 2022
+Program 1.1 (Zoning Ordinance Update): This program should describe the desired
+outcomes or achievements related to the review of local development standards, and
+provide a distinct milestones for what constitutes a complete assessment. The program’s
+goals and metrics should be reflective of the results of this analysis. Additionally, the
+program should be revised to carry out a more concrete actions than merely “considering”
+updated standards for 100 percent affordable housing and other residential development.
+
+Program 1.2 (Religious and Community Assembly Sites for Housing): This program should
+be revised to provide further detail as to the proposed allowable density for affordable
+multifamily projects developed in conjunction with nonprofit religious and community
+assembly uses on large sites. It should also provide greater detail on what the overall
+process will look like when it is applied.
+
+Program 1.3 (Conservation of Units): The program should be revised to provide a
+quantifiable outcome for how many units the City anticipates preserving during the
+planning period.
+
+Program 1.5 (Density Bonus): As noted in finding B5, this program should be revised to
+state that the City will review and modify it its density bonus ordinance and policies to
+comply with State Law, particularly regarding the giving of incentives and concessions to
+developers.
+
+Program 1.6 (No Net Loss): This program should be revised to ensure that its activities
+align with State No Net Loss Law, such as making findings on a project-by-project basis in
+addition to monitoring sites statuses every six months.
+
+Program 1.7 (Code Enforcement Program): This program should be revised to include
+further detail as to how exactly reported code violations will be remedied or addressed
+(e.g. will this enforcement be tied to a housing rehabilitation and/or replacement
+program?).
+
+Program 1.8 (Multifamily Housing Inspection Program): This program should be revised to
+provide further detail as to exactly how the Multifamily housing program will be
+implemented, and provide assurances that its implementation does not violate the City’s
+obligation to AFFH.
+
+Program 1.11 (BMR Program Review): This program should be revised to provide more
+detail as to what the review of the City’s Below-Market-Rate (BMR) program will actually
+encompass, and provide more concrete and measurable outcomes resulting from this
+review.
+
+Program 2.1 (Subsidize and support affordable housing programs to meet an array of
+housing needs, with a particular emphasis on underserved populations): This program
+should be revised to commit to doing more than just “exploring” innovative programs as
+appropriate to meet gaps in affordable housing need. All program activities must have
+concrete actions, timelines, metrics and milestones in order to demonstrate whether
+progress is being made during the planning period.
+
+
+Review of the City of Mountain View’s 6th Cycle Draft Housing Element      Page 9
+September 29, 2022
+   Program 3.1 (Homelessness Prevention and Services for the Unhoused): The program
+   should be revised to clearly articulate what the City will do to “support” emergency rental
+   programs and pathways to housing, with specific goals and quantifiable outcomes for the
+   planning period.
+
+   Program 3.2 (Displacement Prevention and Mitigation): This program should be revised to
+   increase its quantifiable outcomes and assist more than one naturally occurring affordable
+   project during the planning period, especially given the fact that displacement risk seemed
+   to be a major concern in the public comment HCD received.
+
+   Program 4.1 (Development Streamlining and Processing Revisions): This program should
+   be revised to be completed earlier in the planning period, and should also clearly state
+   how its goals and actions reflect the needs highlighted in the analysis of the Governmental
+   Constraints section of the element.
+
+   Program 4.2 (Federal, State, and Regional Policy initiatives): This program should be
+   revised to provide concrete goals, metrics and milestones to measure effectiveness
+   throughout the planning period.
+
+   Program 4.4 (Partnerships to support affordable housing): This program should be revised
+   to provide concrete goals, metrics and milestones to measure effectiveness throughout the
+   planning period. The program should also make clear if there is already a list of partners
+   the City is considering.
+
+   Program 4.7 (Neighborhood Engagement): This program should be revised to
+   demonstrate what actions the City will take to “encourage” developers to engage with
+   community.
+
+2. Identify actions that will be taken to make sites available during the planning period with
+   appropriate zoning and development standards and with services and facilities to
+   accommodate that portion of the city’s or county’s share of the regional housing need for
+   each income level that could not be accommodated on sites identified in the inventory
+   completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+   with the requirements of Government Code section 65584.09. Sites shall be identified as
+   needed to facilitate and encourage the development of a variety of types of housing for all
+   income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+   housing for agricultural employees, supportive housing, single-room occupancy units,
+   emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+   As noted in Finding B4, the element does not include a complete site analysis; therefore,
+   the adequacy of sites and zoning were not established. Based on the results of a complete
+   sites inventory and analysis, the City may need to add or revise programs to address a
+   shortfall of sites or zoning available to encourage a variety of housing types.
+
+3. Address and, where appropriate and legally possible, remove governmental and
+   nongovernmental constraints to the maintenance, improvement, and development of
+
+
+   Review of the City of Mountain View’s 6th Cycle Draft Housing Element       Page 10
+   September 29, 2022
+   housing, including housing for all income levels and housing for persons with disabilities.
+   The program shall remove constraints to, and provide reasonable accommodations for
+   housing designed for, intended for occupancy by, or with supportive services for, persons
+   with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+   As noted in Finding B5, the element requires a complete analysis of potential
+   governmental constraints. Depending upon the results of that analysis, the City may need
+   to revise or add programs and address and remove or mitigate any identified constraints.
+
+4. Promote and affirmatively further fair housing opportunities and promote housing
+   throughout the community or communities for all persons regardless of race, religion, sex,
+   marital status, ancestry, national origin, color, familial status, or disability, and other
+   characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+   (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+   state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+   As noted in Finding B1, the element must include a complete analysis of AFFH. The
+   element must be revised to add goals and actions based on the outcomes of a complete
+   analysis. Goals and actions must specifically respond to the analysis and to the identified
+   and prioritized contributing factors to fair housing issues and must be significant and
+   meaningful enough to overcome identified patterns and trends. Actions must have specific
+   commitment, metrics and milestones as appropriate and must address housing mobility
+   enhancement, new housing choices and affordability in high opportunity areas, place-
+   based strategies for community preservation and revitalization and displacement
+   protection. Currently the element only associates programs with contributing factors, but it
+   does not explain or provide analysis as to how these programs actually address these
+   issues. The element should revise program actions to address the City’s obligation to
+   AFFH including how programs address housing mobility enhancement, new housing
+   choices and affordability in high opportunity areas, place-based strategies for community
+   preservation and revitalization and displacement protection. In addition, the element
+   should also describe how all the City’s housing programs comply with and further the
+   requirements and goals of Government Code section 8899.50, subdivision (b).
+
+5. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+   can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+   The element is required to include a program that incentivizes or promotes accessory
+   dwelling unit (ADU) development for very low-, low-, and moderate-income households.
+   While the element included Program 1.4, this program only commits to tracking and
+   monitoring ADU construction, and updating the webpage with resources. The program
+   should be revised to include incentivizes or otherwise promotes ADU development.
+   Examples of incentives include pursuing funding opportunities, modifying development
+   standards, and reducing fees beyond state law, increasing awareness, pre-approved
+   plans, and homeowner/applicant assistance tools. Other strategies could include
+   developing information packets to market ADU construction, targeted advertising of ADU
+   development opportunities or establishing an ADU specialist within the planning
+   department.
+
+
+   Review of the City of Mountain View’s 6th Cycle Draft Housing Element       Page 11
+   September 29, 2022
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the City made effort to include the public through workshops and surveys, and
+   employed additional methods for public outreach efforts, particularly including lower-income
+   and special needs households and neighborhoods with higher concentrations of lower-
+   income and special needs households, HCD received comments with many meaningful
+   suggestions related to program timing, program commitment and other issues related to
+   zoning and AFFH. HCD encourages the City to consider these comments. For additional
+   information, see the Building Blocks at http://www.hcd.ca.gov/community-
+   development/building-blocks/getting-started/public-participation.shtml.
+
+
+
+
+      Review of the City of Mountain View’s 6th Cycle Draft Housing Element       Page 12
+      September 29, 2022

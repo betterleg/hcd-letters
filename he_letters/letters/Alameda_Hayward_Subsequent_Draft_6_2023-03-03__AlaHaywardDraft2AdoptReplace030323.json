@@ -1,0 +1,14 @@
+{
+  "county": "Alameda",
+  "jurisdiction": "Hayward",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-03-03",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/AlaHaywardDraft2AdoptReplace030323.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/AlaHaywardDraft2AdoptReplace030323.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 122424,
+  "text_chars": 1533,
+  "text_empty": false
+}

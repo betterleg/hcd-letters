@@ -1,0 +1,14 @@
+{
+  "county": "Glenn",
+  "jurisdiction": "Orland",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-05-12",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/gleOrlandAdoptedOUT051222.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/gleOrlandAdoptedOUT051222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 222410,
+  "text_chars": 19376,
+  "text_empty": false
+}

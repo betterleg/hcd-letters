@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Palo Alto",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-08-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/slo-palo-alto-adopt-in-082024.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/slo-palo-alto-adopt-in-082024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 163232,
+  "text_chars": 5172,
+  "text_empty": false
+}

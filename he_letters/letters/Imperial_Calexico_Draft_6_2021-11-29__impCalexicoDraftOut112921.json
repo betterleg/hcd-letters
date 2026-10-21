@@ -1,0 +1,14 @@
+{
+  "county": "Imperial",
+  "jurisdiction": "Calexico",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-11-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/impCalexicoDraftOut112921.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/impCalexicoDraftOut112921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 292705,
+  "text_chars": 39679,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Los Angeles County",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-26",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanLACountyDRAFTOUT102621.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanLACountyDRAFTOUT102621.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 274132,
+  "text_chars": 26216,
+  "text_empty": false
+}

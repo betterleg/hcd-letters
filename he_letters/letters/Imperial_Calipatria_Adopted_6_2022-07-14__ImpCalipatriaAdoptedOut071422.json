@@ -1,0 +1,14 @@
+{
+  "county": "Imperial",
+  "jurisdiction": "Calipatria",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-07-14",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ImpCalipatriaAdoptedOut071422.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ImpCalipatriaAdoptedOut071422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 204549,
+  "text_chars": 11341,
+  "text_empty": false
+}

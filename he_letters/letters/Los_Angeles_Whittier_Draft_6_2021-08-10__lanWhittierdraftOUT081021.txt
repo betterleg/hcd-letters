@@ -1,0 +1,585 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 10, 2021
+
+
+
+         Sonya Lui, Principal Planner
+         Department of Community Development
+         City of Whittier
+         13230 Penn Street
+         Whittier, CA 90602
+
+         Dear Sonya Lui:
+
+         RE: Review of the City of Whittier’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Whittier’s (City) draft housing element received for
+         review on June 11, 2021. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a conversation on July 27, 2021
+         with Sonya Lui, Principal Planner, and MIG. In addition, HCD considered comments from
+         Abundant Housing L.A., Homes for Whittier, YIMBY law, and Mitchell M. Tsai, pursuant
+         to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+         particular, the element must support its capacity assumptions for sites included in the
+         sites inventory, address a variety of program requirements, and strengthen the analysis
+         for the Affirmatively Furthering Fair Housing (AFFH) obligation. The enclosed Appendix
+         describes these and other revisions needed to comply with State Housing Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element
+         within 120 calendar days from the statutory due date of October 15, 2021 for Southern
+         California Association of Governments (SCAG) localities. If adopted after this date,
+         Government Code section 65588, subdivision (e)(4), requires the housing element be
+         revised every four years until adopting at least two consecutive revisions by the statutory
+         deadline. For more information on housing element adoption requirements, please visit
+         HCD’s website at: http://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos/docs/sb375_final100413.pdf.
+
+         Pursuant to Government Code section 65583.3, the City must submit an electronic, true-
+         and-correct copy of the housing element site inventory when it submits its adopted
+         housing element to HCD for review. The City must utilize standards, forms, and
+Sonya Lui, Principal Planner
+Page 2
+
+
+
+definitions adopted by HCD. The City can reach out to HCD at
+sitesinventory@hcd.ca.gov for technical assistance.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+HCD is committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Colin Cross, of our staff, at (916) 820-1275 or colin.cross@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+Enclosure
+                                            APPENDIX
+                                        CITY OF WHITTIER
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      As part of the evaluation of programs in the past cycle, the element must provide an
+      explanation of the effectiveness of goals, policies, and related actions in meeting the
+      housing needs of special needs populations (e.g., elderly, persons with disabilities,
+      large households, female headed households, farmworkers, and persons experiencing
+      homelessness).
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          Promote AFFH opportunities and promote housing throughout the community or
+          communities for all persons regardless of race, religion, sex, marital status, ancestry,
+          national origin, color, familial status, or disability, and other characteristics protected
+          by the California Fair Employment and Housing Act (Part 2.8 (commencing with
+          Section 12900) of Division 3 of Title 2), Section 65008, and any other state and
+          federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).) For more
+          information, please contact HCD and visit https://www.hcd.ca.gov/community-
+          development/housing-element/housing-element-memos.shtml.
+
+          Integration and Segregation: Integration and segregation is addressed (Constraints,
+          p. 29) and meets some requirements. However, while the element does include data
+          on race and ethnicity, the element does not include relevant data, local knowledge,
+          and historical context on the analysis of incomes, familial status, and persons with
+          disabilities. The element includes dissimilarity data on the segregation between
+          several ethnic groups; however, the element does not fully explain other data aspects
+          that can be drawn from the dissimilarity data with local knowledge. This analysis
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                             Page 1
+August 10, 2021
+          should also include maps of areas within the City that are highly segregated. In-depth
+          analyses are required so that the local and regional trends and patterns can be
+          identified and guided through meaningful goals and actions that address fair housing
+          issues.
+
+          Racial/Ethnic Areas of Concentration of Poverty: The element (Constraints, p. 30)
+          states that there are no Racially and Ethnically Concentrated Areas of Poverty
+          (R/ECAP) in the City. However, the analysis must be supported and complemented
+          by quantitative evidence for the local and regional comparisons. In addition, the
+          element should identify any Racially Concentrated Areas of Affluence (RCAA) as it
+          relates to areas of affluence if the City does not have areas of concentrated poverty.
+          The combination of the R/ECAP and RCAA analyses will help guide goals and
+          actions to address fair housing issues. The analysis should evaluate the patterns and
+          changes over time and consider other relevant factors, such as public participation,
+          past policies, practices, and investments and demographic trends.
+
+          Access to Opportunity: Access to opportunity is addressed (Constraints, p. 30) in the
+          element. However, the housing element must identify and analyze local and regional
+          significant disparities in access to opportunity by education, employment opportunity,
+          transportation, environmental quality, and any additional factors through local,
+          federal, and/or state data. While HCD recognizes the City’s high opportunity
+          designation in accordance with California Tax Credit Allocation Committee
+          (TCAC)/HCD opportunity maps, a complete analysis is required. Please refer to page
+          34 of the AFFH guidebook (link: https://www.hcd.ca.gov/community-
+          development/affh/index.shtml#guidancev) for specific factors that should be
+          considered when analyzing access to opportunities as it pertains to educational,
+          employment, environmental, transportation, and any factors that are unique to the
+          City.
+
+          Disproportionate housing needs and Displacement Risk: The element (Constraints,
+          p. 30) includes data on disproportionate housing needs of racial/ethnic groups;
+          however, it must also include data and analyze cost burden and severe cost
+          burden households, overcrowding, substandard housing conditions,
+          homelessness, and also discuss displacement risks. It must also analyze the data
+          including looking at trends, patterns, and other local knowledge, and conclude with
+          a summary of issues. Please refer to pages 39 and 41 of the AFFH guidebook
+          (link: https://www.hcd.ca.gov/community-development/affh/index.shtml#guidancev)
+          for specific factors that should be considered when analyzing disproportionate
+          housing needs and displacement risks.
+
+          Site Inventory: The element states sites are distributed throughout the City in the high
+          or highest resource areas and no concentration of lower-income sites exists
+          (Constraints, p. 30). However, the accompanying analysis must evaluate the site
+          inventory’s consistency with its obligation to AFFH by addressing improved and
+          exacerbated conditions, isolation of the regional housing need allocation (RHNA),
+          local data and knowledge, and other relevant factors. The site inventory analysis
+          should address how the sites are identified to improve conditions (or if sites
+          exacerbate conditions, how a program can mitigate the impact) relative to access to
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                          Page 2
+August 10, 2021
+          opportunity, segregation and integration; racially and ethnically concentrated areas of
+          poverty and affluence; displacement risk; and should be supported by local data and
+          knowledge.
+
+          Contributing Factors: While using the City’s analysis of impediments (Constraints, p.
+          33) is acceptable when identifying potential contributing factors to fair housing, the
+          element should also be based on the summary of analyses resulting from this AFFH
+          analysis. The element must list and prioritize contributing factors to fair housing
+          issues. Contributing factors create, contribute to, perpetuate, or increase the severity
+          of fair housing issues and are fundamental to adequate goals and actions. Examples
+          include community opposition to affordable housing, housing discrimination, land use
+          and zoning laws, lack of regional cooperation, location and type or lack of affordable
+          housing and lack of public or private investment in areas of opportunity or affordable
+          housing choices. The analysis shall result in strategic approaches to inform and
+          connect goals and actions to mitigate contributing factors to affordable housing.
+          Please refer to page 49 of the AFFH guidebook (link:
+          https://www.hcd.ca.gov/community-development/affh/index.shtml#guidancev) for
+          specific factors that should be considered when identifying and prioritizing
+          contributing factors.
+
+          Goals & Actions: The element must be revised to identify and add or modify goals
+          and actions based on the identified and prioritized contributing factors. Goals and
+          actions must specifically respond to the analysis and identify and prioritize
+          contributing factors to fair housing issues. Actions must have metrics and milestones
+          as appropriate and address housing mobility enhancement, new housing choices and
+          affordability in high opportunity areas, place-based strategies for community
+          preservation and revitalization and displacement protection. For more information,
+          please see HCD’s guidance at https://www.hcd.ca.gov/community-
+          development/affh/index.shtml#guidancev.
+
+          Local Data and Knowledge: While the element does include national data and
+          knowledge to fair housing issues, the element also needs to reflect local data in the
+          contributing factors section of the analysis. Data provided by regional advocates and
+          service providers should help the City identify patterns and further evaluate trends
+          and contributing factors to fair housing issues. For more information, please see
+          HCD’s guidance at https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+      2. Include an analysis and documentation of household characteristics, including level
+         of payment compared to ability to pay, housing characteristics, including
+         overcrowding, and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+          While the element quantifies existing and projected extremely low-income (ELI)
+          households, it must also analyze their housing needs. The analysis of ELI housing
+          needs could consider tenure and rates of overcrowding and overpayment. To assist
+          the analysis, see the enclosed data and sample analysis at
+          http://www.hcd.ca.gov/community-development/building-blocks/housing-
+          needs/extremely-low-income-housing-needs.shtml.
+
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                          Page 3
+August 10, 2021
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated
+         income level, and an analysis of the relationship of zoning and public facilities and
+         services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          The City has a Regional Housing Needs Allotment (RHNA) of 3,439 housing units, of
+          which 1,562 are for lower-income households. To address this need, the element
+          relies on vacant and nonvacant sites. To demonstrate the adequacy of these sites
+          and strategies to accommodate the City’s RHNA, the element must include complete
+          analyses:
+
+          Realistic Capacity: While the element provides assumptions of buildout for sites
+          included in the inventory, it must also provide support for these assumptions. For
+          example, the element should demonstrate what specific trends, factors, and other
+          evidence led to the assumptions of 50 percent, 75 percent, and 100 percent buildout
+          in the Uptown Core Specific Plan area; the 90 percent assumption for higher-density
+          residential sites; and the assumptions of 50 percent, 75 percent, and 80 percent for
+          mixed-use sites, among other realistic capacity estimates. The estimate of the
+          number of units for each site may need to be adjusted based on the land-use controls
+          and site improvements, typical densities of existing or approved residential
+          developments at a similar affordability level, and on the current or planned availability
+          and accessibility of sufficient water, sewer, and dry utilities. The element also needs
+          to analyze the likelihood that the identified units will be developed as noted in the
+          inventory in zones that allow nonresidential uses (e.g., mixed-use). This analysis
+          should consider the likelihood of nonresidential, performance standards, and
+          development trends supporting residential.
+
+          Suitability of Nonvacant Sites: The element must include an analysis demonstrating
+          the potential for redevelopment of nonvacant sites. The analysis shall consider
+          factors including the extent to which existing uses may constitute an impediment to
+          additional residential development, the City’s past experience with converting existing
+          uses to higher density residential development, the current market demand for the
+          existing use, an analysis of any existing leases or other contracts that would
+          perpetuate the existing use or prevent redevelopment of the site for additional
+          residential development, development trends, market conditions, and regulatory or
+          other incentives or standards to encourage additional residential development on
+          these sites.
+
+          To address this requirement, the element notes that the existing commercial centers
+          were identified “based on property owner interest, location near development catalyst
+          uses, and the redesignation under the new general plan to allow for the addition of
+          higher density residential uses”. These factors alone are not adequate to
+          demonstrate the potential for redevelopment in the planning period. First, the element
+          should consider additional indicators such as age and condition of the existing
+          structure; presence of expiring leases; expressed developer interest; low
+          improvement to land value ratio; and other factors. Second, the element should
+          describe and support (through development trends) the thresholds used to identify
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                           Page 4
+August 10, 2021
+          sites for redevelopment. For example, the element could show how new development
+          potential under the general plan update compares to existing development potential
+          for each of these sites, and what threshold was used to determine whether a site was
+          viable for redevelopment. Third, the element should include a specific discussion of
+          recent trends in redevelopment and how the site characteristics of recent
+          redevelopments align with identified nonvacant sites in the inventory. Finally, since
+          the element relies on nonvacant sites for more than 50 percent of the lower-income
+          RHNA, it must make findings of substantial evidence that the existing use does not
+          constitute an impediment to development, and that the existing use is likely to
+          discontinue.
+
+          Accessory Dwelling Units (ADUs): The element calculates ADU potential for the
+          planning period by considering an annual growth rate of 7.5 percent based on a
+          window of time that is not clarified. However, the analysis and programs do not
+          support the assumption that 624 ADUs will be permitted during the planning period.
+          Specifically, in addition to other methods, HCD accepts the use of trends in ADU
+          construction since January 2018 to estimate new production. Based on past
+          production between 2018 to 2020, the City is averaging 16 units per year, which puts
+          the element’s assumption of 621 ADUs during the planning period considerably out of
+          reach. As a result, the element should be revised to reduce the number of ADUs
+          assumed per year. The City can increase this estimate if it includes additional
+          analysis that includes information such as how community needs and demand are
+          likely to increase production and include programs that aggressively promote,
+          incentivize, and monitor ADU construction.
+
+          Small Sites: The element identifies several sites consisting of aggregated small
+          parcels. The element must describe whether these aggregated parcels are expected
+          to develop individually or consolidated with the other small parcels. For parcels
+          anticipated to be consolidated, the element must demonstrate the potential for lot
+          consolidation. For example, analysis describing the City’s role or track record in
+          facilitating small-lot consolidation, policies or incentives offered or proposed to
+          encourage and facilitate lot consolidation, conditions rendering parcels suitable and
+          ready for redevelopment, recent trends of lot consolidation, and information on the
+          owners of each aggregated site. Please be aware sites smaller than a half-acre in
+          size are deemed inadequate to accommodate housing for lower-income housing
+          unless it is demonstrated that sites of equivalent size were successfully developed
+          during the prior planning period for an equivalent number of lower-income housing
+          units as projected for the site or unless the housing element describes other evidence
+          to HCD that the site is adequate to accommodate lower-income housing (Gov. Code,
+          § 65583.2, subd. (c)(2)(A).). As a reminder, in order for these sites to be included in a
+          rezone program, each site must have the capacity to accommodate 16 units.
+
+          Suitability and Availability of Infrastructure: While the element identifies water and
+          sewer infrastructure capacity to accommodate the City’s regional housing need, it
+          must also demonstrate sufficient existing or planned dry utilities supply capacity (Gov.
+          Code, § 65583.2, subd. (b).) For additional information, see the Building Blocks at
+          http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+          analysis/analysis-of-sites-and-zoning.shtml#environmental.
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                           Page 5
+August 10, 2021
+          Environmental Constraints: The element must describe any known environmental
+          constraints within the City that could impact housing development in the planning
+          period. (Gov. Code, § 65583.2, subd. (b).) In particular, the element should address
+          concerns related to the location of sites within Very High Fire Hazard Severity Zones
+          and the potential impacts this may have on development during the planning period.
+
+          Zoning for a Variety of Housing Types:
+
+          •   ADUs: The element indicates (Constraints, p. 6) that ADUs are excluded from
+              some zones which allow residential. The City may need to evaluate its ADU
+              ordinance for compliance with state law and revise the element accordingly.
+          •   Emergency Shelters: The element indicates that emergency shelters are allowed
+              without discretionary review in the M zone but should also provide analysis of the
+              M zone’s suitability for accommodating emergency shelters. This analysis could
+              discuss the proximity of services, transit, and other indicators that would make the
+              zone appropriate for this use.
+
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis
+         shall also demonstrate local efforts to remove governmental constraints that hinder
+         the locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7). Transitional housing and supportive housing
+         shall be considered a residential use of property, and shall be subject only to those
+         restrictions that apply to other residential dwellings of the same type in the same
+         zone. (Gov. Code, § 65583, subd. (a)(5).)
+
+          Land-Use Controls: The element must identify and analyze the impacts from all
+          relevant land-use controls as potential constraints on a variety of housing types (e.g.,
+          multifamily rental housing, mobile homes, transitional housing). The analysis must
+          also evaluate the cumulative impacts of land-use controls on the cost and supply of
+          housing, including the ability to achieve maximum densities. In particular, minimum
+          lot sizes should be evaluated, especially the requirement of 20,000 square feet for
+          the R4 zone. Parking standards and minimum unit sizes should also be analyzed for
+          their impact as a potential constraint on housing. In addition, the analysis should
+          clarify the standards for mixed-use zones, including whether 100 percent residential
+          development is allowed and how the maximum density can be achieved under
+          existing standards such as the floor area ratio (FAR) of 1.0. The element should
+          include programs to address or remove identified constraints.
+
+          Design Review: The element must describe and analyze the design review guidelines
+          and process, including approval procedures and decision-making criteria, for their
+          impact as potential constraints on housing supply and affordability. The element
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                           Page 6
+August 10, 2021
+          generally describes some of the City’s design review process but does not provide
+          adequate information or analysis. This analysis should describe required findings for
+          the typical single-family and multifamily development, identify whether guidelines are
+          subjective or objective, and discuss whether objective guidelines improve
+          development certainty and mitigate cost impacts. The element must demonstrate this
+          process is not a constraint, or it must include a program to address this permitting
+          requirement, as appropriate.
+
+          Constraints on Housing for Persons with Disabilities: The element currently details
+          that residential care facilities serving six or fewer persons are permitted in all
+          residential zones. However, residential care facilities serving seven or more persons
+          are limited to the same zones with the approval of a conditional use permit. The
+          element should analyze the process as a potential constraint on housing for persons
+          with disabilities and add or modify programs as appropriate to ensure zoning permits
+          group homes objectively with approval certainty.
+
+          In addition, the element indicates that the City has a reasonable accommodation
+          procedure, but the element does not describe or analyze the procedure and findings.
+          The element should analyze the City’s reasonable accommodation findings from
+          Chapter 18.51.060 of the Municipal Code for their impact as a potential constraint.
+
+      5. Analyze any special housing needs such as elderly; persons with disabilities,
+         including a developmental disability; large families; farmworkers; families with female
+         heads of households; and families and persons in need of emergency shelter. (Gov.
+         Code, § 65583, subd. (a)(7).)
+
+          While the element quantifies the City’s special needs populations, it must also
+          analyze their special housing needs. For a complete analysis of each population
+          group, the element should discuss challenges faced by the population, the existing
+          resources to meet those needs (availability of senior housing units, number of large
+          units, number of deed restricted units, etc.), an assessment of any gaps in resources,
+          and proposed policies, programs, and funding to help address those gaps.
+
+   C. Housing Programs
+
+      1. Include a program which sets forth a schedule of actions during the planning period,
+         each with a timeline for implementation, which may recognize that certain programs
+         are ongoing, such that there will be beneficial impacts of the programs within the
+         planning period, that the local government is undertaking or intends to undertake to
+         implement the policies and achieve the goals and objectives of the housing element
+         through the administration of land-use and development controls, the provision of
+         regulatory concessions and incentives, and the utilization of appropriate federal and
+         state financing and subsidy programs when available. The program shall include an
+         identification of the agencies and officials responsible for the implementation of the
+         various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Government Code section 65583,
+          subdivision (c)(1-6), and to facilitate implementation, programs should include: (1) a
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                          Page 7
+August 10, 2021
+          description of the City’s specific role in implementation; (2) definitive implementation
+          timelines; (3) objectives, quantified where appropriate; and (4) identification of
+          responsible agencies and officials. Programs to be revised include the following:
+
+          •   1.4 (ADUs): Specify timing for creation of pre-approved ADU plans and
+              development of public outreach program.
+          •   1.6 (Density Bonus Ordinance): As the City’s density bonus ordinance is out of
+              compliance with state law, the program should be revised to sooner in the
+              planning period such as within one year of adoption.
+          •   2.4 (Affordable Housing Technical Assistance): Provide specific timeframes for
+              consultation with local affordable housing developers and describe how the City
+              will encourage multifamily housing development at key catalyst sites.
+          •   3.2 (Development Process Streamlining): As the provisions of SB 35 sunset in
+              2026, this action to comply with State law should be completed earlier than three
+              years to have a beneficial impact within the planning period.
+          •   3.6 (Special Needs Housing Law): As the City’s zoning ordinance is out of
+              compliance with State law, the program should be revised to sooner in the
+              planning period such as within one year of adoption.
+
+          Additionally, several programs still require clear, meaningful, and specific actions and
+          objectives. Programs containing unclear language (e.g., “Continue to facilitate”;
+          “Explore”; “Consider”; “Encourage”; etc.) should be amended to include more specific
+          and measurable actions.
+
+      2. Identify actions that will be taken to make sites available during the planning period
+         with appropriate zoning and development standards and with services and facilities to
+         accommodate that portion of the city’s or county’s share of the regional housing need
+         for each income level that could not be accommodated on sites identified in the
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning,
+         and to comply with the requirements of Government Code section 65584.09. Sites
+         shall be identified as needed to facilitate and encourage the development of a variety
+         of types of housing for all income levels, including multifamily rental housing, factory-
+         built housing, mobilehomes, housing for agricultural employees, supportive housing,
+         single-room occupancy units, emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding B3, the element does not include a complete site analysis;
+          therefore, the adequacy of sites and zoning was not established. Based on the
+          results of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types. In addition, the element should be revised as follows:
+
+         •    1.1 (Adequate Sites): In addition to other requirements, pursuant to
+              Government Code section 65583.2, subdivisions (h) and (i), the program to
+              rezone a shortfall of sites to accommodate the lower-income RHNA must
+              commit to accommodating at least 50 percent of the lower-income need on
+              sites designated for residential use only or on sites zoned for mixed uses that
+              accommodate all of the very low- and low-income housing need, if those sites
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                           Page 8
+August 10, 2021
+            allow 100 percent residential use, and require residential use occupy 50
+            percent of the total floor area of a mixed-use project.
+          • 3.1 (Lot Consolidation): If the City anticipates lot consolidation for sites intended to
+            accommodate the lower-income RHNA, this program should be strengthened to
+            include specific actions to facilitate lot consolidation on sites identified in the
+            inventory and timeframes for enacting additional incentives and subsidies.
+
+          Replacement Housing Requirements: The housing element must include a program
+          to provide replacement housing. Nonvacant sites identified in the sites inventory with
+          existing, vacated, or demolished residential uses and occupied by, or subject to an
+          affordability requirement for, lower-income households within the last five years,
+          require a replacement housing program for units affordable to lower-income
+          households (Gov. Code, § 65583.2, subd. (g)(3)). Absent a replacement housing
+          program, these sites are not adequate sites to accommodate lower-income
+          households. The replacement housing program must adhere to the same
+          requirements as set forth in Government Code section 65915, subdivision (c)(3).
+
+          State Density Bonus Law: The Housing Plan, as indicated in Program 1.5 (Housing
+          Plan, p. 7), currently relies on State Density Bonus Law as the primary incentive for
+          encouraging construction on specific plan sites and sites to be redeveloped during
+          the planning period. The element should provide additional sites strategies and
+          incentives that strengthen the likelihood of development on these sites.
+
+      3. The housing element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+          While the element includes programs to assist in the development of very low-, low-,
+          and moderate-income households, it must also include a program(s) to assist in the
+          development of housing affordable extremely low-income (ELI) households. For
+          example, Program 2.3 (Special Needs Housing) should clarify the specific incentives
+          offered towards the development of ELI housing and specify timeframes for
+          expansion of incentives.
+
+      4. Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+          As noted in Finding B4, the element requires a complete analysis of potential
+          governmental constraints. Depending upon the results of that analysis, the City may
+          need to revise or add programs and address and remove or mitigate any identified
+          constraints.
+
+      5. Promote AFFH opportunities and promote housing throughout the community or
+         communities for all persons regardless of race, religion, sex, marital status, ancestry,
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                            Page 9
+August 10, 2021
+          national origin, color, familial status, or disability, and other characteristics protected
+          by the California Fair Employment and Housing Act (Part 2.8 (commencing with
+          Section 12900) of Division 3 of Title 2), Section 65008, and any other state and
+          federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+          As noted in Finding B1, the element must include a complete analysis of AFFH.
+          Based on the outcomes of that analysis, the element must add or modify programs.
+
+   D. Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd.
+      (b)(1 & 2).)
+
+      The element must include quantified objectives to establish an estimate of housing units
+      by income category that can be constructed, rehabilitated, and conserved over the
+      planning period. While the element includes these objectives by income group for very
+      low-, low-, moderate- and above-moderate income, the element must also include
+      objectives for extremely low-income households.
+
+   E. Public Participation
+
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the housing element, and
+      the element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      While the element includes a general summary of the public participation process, the
+      element should include additional efforts to include a broad spectrum of individuals and
+      representative organizations and consider language access barriers. The element should
+      describe the efforts to circulate the housing element among low- and moderate-income
+      households and organizations that represent them and to involve such groups and
+      persons in the element throughout the process. In addition, the element must summarize
+      the public comments and describe how they were considered and incorporated into the
+      element.
+
+
+
+
+Review of the City of Whittier’s 6th Cycle Draft Housing Element                              Page 10
+August 10, 2021

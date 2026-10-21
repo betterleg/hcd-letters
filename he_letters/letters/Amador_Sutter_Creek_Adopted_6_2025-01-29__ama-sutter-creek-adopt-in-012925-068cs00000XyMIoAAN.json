@@ -1,0 +1,14 @@
+{
+  "county": "Amador",
+  "jurisdiction": "Sutter Creek",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2025-01-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ama-sutter-creek-adopt-in-012925-068cs00000XyMIoAAN.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ama-sutter-creek-adopt-in-012925-068cs00000XyMIoAAN.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 184093,
+  "text_chars": 4865,
+  "text_empty": false
+}

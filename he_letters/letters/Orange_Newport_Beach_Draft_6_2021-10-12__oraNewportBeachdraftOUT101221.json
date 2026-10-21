@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Newport Beach",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-12",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraNewportBeachdraftOUT101221.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraNewportBeachdraftOUT101221.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 313072,
+  "text_chars": 41678,
+  "text_empty": false
+}

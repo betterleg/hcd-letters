@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "San Diego County",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-05-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanDiegoCountyDraftHEltrall findings051121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanDiegoCountyDraftHEltrall findings051121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 233458,
+  "text_chars": 28536,
+  "text_empty": false
+}

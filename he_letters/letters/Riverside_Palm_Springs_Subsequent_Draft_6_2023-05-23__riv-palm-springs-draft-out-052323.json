@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Palm Springs",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-05-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/riv-palm-springs-draft-out-052323.pdf",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/riv-palm-springs-draft-out-052323.pdf",
+  "fetched_from": "hcd_website_fallback",
+  "pdf_bytes": 175917,
+  "text_chars": 9069,
+  "text_empty": false
+}

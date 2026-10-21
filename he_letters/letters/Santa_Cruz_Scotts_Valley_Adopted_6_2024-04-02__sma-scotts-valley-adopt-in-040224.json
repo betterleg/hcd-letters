@@ -1,0 +1,14 @@
+{
+  "county": "Santa Cruz",
+  "jurisdiction": "Scotts Valley",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-04-02",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-scotts-valley-adopt-in-040224.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-scotts-valley-adopt-in-040224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185677,
+  "text_chars": 6184,
+  "text_empty": false
+}

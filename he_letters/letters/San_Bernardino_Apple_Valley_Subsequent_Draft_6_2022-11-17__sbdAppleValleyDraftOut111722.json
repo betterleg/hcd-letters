@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Apple Valley",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2022-11-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdAppleValleyDraftOut111722.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdAppleValleyDraftOut111722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 167300,
+  "text_chars": 6401,
+  "text_empty": false
+}

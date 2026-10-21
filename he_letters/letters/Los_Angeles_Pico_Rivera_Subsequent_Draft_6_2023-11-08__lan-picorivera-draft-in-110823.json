@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Pico Rivera",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-11-08",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-picorivera-draft-in-110823.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-picorivera-draft-in-110823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 155133,
+  "text_chars": 6239,
+  "text_empty": false
+}

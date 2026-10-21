@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Menlo Park",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-08-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-menlo-park-adopt-out-082923.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-menlo-park-adopt-out-082923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 205253,
+  "text_chars": 17134,
+  "text_empty": false
+}

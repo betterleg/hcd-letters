@@ -1,0 +1,14 @@
+{
+  "county": "Santa Cruz",
+  "jurisdiction": "Capitola",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-08-30",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scr-capitola-adopt-in-083024.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scr-capitola-adopt-in-083024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183024,
+  "text_chars": 4595,
+  "text_empty": false
+}
