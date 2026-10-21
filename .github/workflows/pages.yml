@@ -1,0 +1,45 @@
+name: Website
+
+# Builds the HCD Letter Tracker page (site/) from the repo's CSVs and publishes it on
+# GitHub Pages. Runs after each weekly data job, when the site files change, or by hand.
+# One-time setup: Settings -> Pages -> Build and deployment -> Source: GitHub Actions.
+on:
+  workflow_run:
+    workflows: ["HAU letters", "Housing element review letters"]
+    types: [completed]
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/build_site_data.py", ".github/workflows/pages.yml"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main   # after a data job, use the commit it just pushed
+      - name: Build site data
+        run: python3 scripts/build_site_data.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

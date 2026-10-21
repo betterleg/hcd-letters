@@ -15,6 +15,22 @@ Each job does the following:
 4. Rebuilds the indexes and commits everything.
 5. Opens an issue listing the new letters, which GitHub emails to you.
 
+## Website: HCD Letter Tracker
+
+`site/` is a public web page built from this repo's data and published on GitHub Pages at **https://<your-user>.github.io/hcd-letters/** (for this repo, https://betterleg.github.io/hcd-letters/). It has five tabs:
+
+- **Overview:** totals, the latest letters, and HAU letters by quarter.
+- **Trends:** HAU letters per quarter by letter type, filterable by housing law; housing element review letters per quarter by finding, filterable by cycle; and a table of housing laws by year.
+- **Statutes & keywords:** the most-cited statutory references and keywords, with a sparkline for each. Click one to see its letters by year and the full list.
+- **Compliance:** current status counts from HCD's Review and Compliance Report, 6th-cycle findings by year, days from submittal to letter against the 60- and 90-day review periods, and the jurisdictions out of compliance today.
+- **Jurisdiction lookup:** every HAU and review letter for a city or county, with links to the text in this repo and to HCD's PDFs.
+
+The **Website** workflow rebuilds the page after each Monday data job, so it stays current on its own. `scripts/build_site_data.py` turns the CSVs into `site/data/*.json` at build time; those files are not committed.
+
+**One-time setup:** go to **Settings** → **Pages** → **Build and deployment** → **Source** and choose **GitHub Actions**. Then go to **Actions** → **Website** → **Run workflow**. The page goes live in a minute or two. (GitHub Pages on a private repo needs a paid GitHub plan; on a public repo it's free.)
+
+To preview it in a codespace: `python3 scripts/build_site_data.py && python3 -m http.server -d site 8000`, then open port 8000 from the Ports tab.
+
 ## Where to start reading
 
 - `hau/LETTERS.md`: HAU letters by year, letter type, housing law and most-cited statute.
