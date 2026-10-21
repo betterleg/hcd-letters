@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027206",
+  "case_number": "HAU0003628",
+  "letter_date": "2026-09-15",
+  "jurisdiction": "San Bernardino County",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300.6(b)",
+  "n_statutes": "1",
+  "keywords": "replacement | vesting state law | warehouse",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-bernardino-cou-hau-3628-ta-091526.pdf",
+  "hcd_letter": "San Bernardino County Technical Assistance Letter 09/15/2026",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-bernardino-cou-hau-3628-ta-091526.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 217268,
+  "text_chars": 13082,
+  "text_empty": false
+}

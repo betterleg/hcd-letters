@@ -1,0 +1,209 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 17, 2025
+
+
+
+
+         Matthew Glesne
+         City of Los Angeles
+         Senior City Planner, Los Angeles City Planning
+         Los Angeles City Hall
+         200 N. Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Matthew Glesne:
+
+         RE:      City of Los Angeles – Starter Home Revitalization Act (SHRA) – Letter of
+                  Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the Starter Home Revitalization Act (SHRA) 1
+         as the City of Los Angeles (City) prepares for implementation. 2 This letter provides
+         technical assistance and general guidance to support the City’s efforts to implement these
+         new statutes in a manner consistent with state housing law. The information below
+         addresses a range of inquiries related to statutory interpretation, interaction with other
+         housing laws, and practical considerations for application of the SHRA to eligible housing
+         development projects.
+
+         Analysis
+
+         The City submitted the following questions to HCD:
+
+         Question 1: Regarding Government Code section 65852.28, subdivision (b)(2)(A)(i),
+         how many units are subject to the physical preclusion provision? Does it only
+         protect units up to the default density or does it cover projects built to the
+         maximum allowable zoned density if the underlying zoning is greater than 30
+         dwelling units per acre (du/ac) (“default density”)?
+
+
+
+
+1 As created by Senate Bills 684 (Chapter 783, Statutes of 2023) and subsequently amended by
+
+Senate Bill 1123 (Chapter 294, Statutes of 2024)
+2 Gov. Code, §§ 65852.28, 65913.4.5, and 66499.41
+      Matthew Glesne, Los Angeles City Planning
+      Page 2
+
+
+
+
+      The answer is “both.” Government Code section 65852.28, subdivision (b)(2)(A)(i) only
+      refers to the default density, which is established in Government Code section 65583.2,
+      subdivision (c)(3)(B). However, this must be considered in conjunction with Government
+      Code section 65852.28, subdivision (b)(1), which authorizes local agencies to impose
+      objective standards only to the extent that they do not conflict with Government Code
+      sections 65852.28 and 66499.41. Government Code section 66499.41 sets forth the
+      eligibility criteria for use of the SHRA, including that a qualifying project must achieve at
+      least 66 percent of the greater of either the default density or the maximum allowable
+      density under local zoning. 3
+
+      Accordingly, where a project satisfies the statutory criteria, a local agency may apply
+      objective standards only to the extent that those standards do not prevent the project from
+      meeting the requirements of Government Code section 66499.41. Because some projects
+      may be required to use the higher, underlying zoned capacity, the agency must only apply
+      standards that still allow the project to be developed at the density needed to maintain
+      eligibility. Limiting these protections to only the portion of units within the default density
+      would create a confusing and inconsistent outcome and undermine the statutory
+      framework. Therefore, to give full effect to both statutes, the protections under
+      Government Code section 65852.28, subdivision (b)(1) should be understood as applying
+      to the project regardless of whether it is developed at the default density or at the higher
+      density required by local zoning.
+
+      Question 2: Regarding Government Code section 66499.41, subdivision (a)(5),
+      when the default density is to be utilized as a minimum density, is the applicable
+      minimum density 20 du/acre (66 percent of 30 du/acre) or something higher, as
+      could be inferred from HCD’s letter to the City of Oakland? 4
+
+      The answer is “both,” depending on whether the underlying zoning is greater than the
+      default density. The statute requires that the proposed development must result in at least
+      66 percent of the maximum allowable residential density under local zoning or 66 percent
+      of the default density established under Government Code section 65583.2, subdivision
+      (c)(3)(B), whichever is greater. 5 Where local zoning permits densities above the default
+      density, the 66 percent threshold must be calculated from the higher local density. Where
+      local zoning is more restrictive than the default density, the 66 percent threshold is
+      calculated from the default density.
+
+
+
+3 Gov. Code, § 66499.41, subd. (a)(5)(B)(i).
+4 See HCD’s Letter of Technical Assistance to the City of Oakland (Feb. 19, 2025), available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/oakland-hau-1147-sb-
+684-ta-02192025.pdf.
+5 Gov. Code, § 66499.41, subd. (a)(5)(B)(i).
+      Matthew Glesne, Los Angeles City Planning
+      Page 3
+
+
+
+      Question 3: Can accessory dwelling units (ADUs), if permitted by the jurisdiction,
+      be used to meet the minimum density requirement in Government Code section
+      66499.41, subdivision (a)(5)?
+
+      The answer is “no.” Pursuant to Government Code section 66499.41, subdivision (g)
+      ADUs or junior ADUs (JADUs) on parcels created pursuant to this section, those units
+      “shall not count as residential units for the purposes of paragraph (1) of subdivision (a).”
+      Accordingly, ADUs and JADUs may not be included in the calculation of the “10 or fewer
+      units” threshold required for eligibility under subdivision (a)(1). Moreover, because these
+      units are not recognized as part of the principal residential unit count, they similarly may
+      not be considered when evaluating whether a project satisfies the minimum density
+      requirement under subdivision (a)(5). HCD has given similar guidance in relation to other
+      state housing laws, including the State Density Bonus Law (SDBL), where ADUs are not
+      included in calculations of base density or maximum allowable residential density. 6 The
+      exclusion of ADUs reinforces their role as accessory uses rather than principal dwelling
+      units for the purposes of density and eligibility thresholds.
+
+      Question 4: Does the SHRA allow multifamily buildings in single-family zones,
+      where the zoning code “use” restrictions do not permit this use?
+
+      The answer is “it depends.” The SHRA applies to lots that are vacant and zoned for
+      single-family use or are zoned for multifamily residential use. With the passing of SB 1123
+      Chapter 294, Statutes of 2024), Government Code section 66499.41, subdivision (a)(2),
+      was amended such that projects in single-family residential zones, in addition to
+      multifamily residential zones, would be able to make use of the SHRA. Eligibility depends
+      upon whether a site is located in a zone that allows for residential uses as a principally or
+      conditionally permitted use. If it does, the project must then demonstrate that it meets
+      other criteria, including minimum density, lot size, and average unit size requirements.
+      Once these requirements are satisfied, the project may proceed, and the site may be
+      subdivided into fee simple ownership lots, a common interest development, or other
+      allowable configurations. In this way, the SHRA is “agnostic” as to which specific, locally
+      defined residential land uses are permitted.
+
+      While local governments may apply objective zoning and design standards, Government
+      Code section, 65852.28, subdivision (b) clarifies that those standards must be modified
+      as necessary to avoid physically precluding development of a qualifying project at the
+      density authorized under the SHRA. This provision of the law precludes a local
+      government from requiring a project to fit within one specific residential use type (e.g.,
+
+
+6 See HCD’s letter to the City of Carlsbad (Feb. 16, 2024), available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/carlsbad-hau565-ta-
+02162024.pdf.
+Matthew Glesne, Los Angeles City Planning
+Page 4
+
+
+
+detached single-family residence, attached single-family residence, duplex, triplex,
+multifamily residential, townhome, rowhouse, condominium, cottage court, etc.) and
+underscores the necessity for design flexibility within the density and design parameters
+of the SHRA. For example, a qualifying project may consist of condominiums or attached
+townhomes, even if the local zoning ordinance does not otherwise permit these housing
+types (i.e., it allows only single-family detached residences). Once the statutory
+thresholds are met, the SHRA ensures that eligible projects may be developed
+notwithstanding local use restrictions.
+
+Question 5: Can the SHRA be combined with two-unit developments pursuant to
+SB 9?
+
+The answer is “yes,” if the local agency chooses to allow it. Government Code section
+66499.41, subdivision (h)(1) provides the ability, but not the obligation, to allow this
+practice by stating that a “local agency is not required to permit an urban lot split on a
+parcel created through the exercise of the authority contained within this section.” This
+provision is permissive in nature and does not prohibit a local agency from allowing an
+urban lot split on such a parcel if it so chooses. If a local agency elects to allow an urban
+lot split on a parcel created pursuant to section 66499.41, it may also permit up to two
+units on each lot consistent with the provisions of SB 9, provided that all applicable
+eligibility and development standards are met.
+
+Question 6: Does the SHRA allow for multiple 10-unit SHRA projects to be
+constructed on adjacent parcels by the same developer?
+
+The answer is “yes,” provided that each project application is processed separately. The
+statute does not include any provision that would prohibit multiple projects pursuant to the
+SHRA from being proposed on adjacent parcels, including when submitted by the same
+applicant or property owner. Nevertheless, each proposed subdivision must be reviewed
+and approved independently, with each parcel evaluated for compliance with all
+applicable eligibility criteria, including the maximum of 10 residential units, minimum lot
+size, and density requirements. While common ownership or adjacency does not preclude
+application of the statute, jurisdictions should ensure that each proposal stands on its own
+merits and conforms to the statutory framework without relying on aggregation across
+parcels.
+Matthew Glesne, Los Angeles City Planning
+Page 5
+
+
+
+If you have any questions or need additional information, please contact Mackenzie Goldberg
+at mackenzie.goldberg@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

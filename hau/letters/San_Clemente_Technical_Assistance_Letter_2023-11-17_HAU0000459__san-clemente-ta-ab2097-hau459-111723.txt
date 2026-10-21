@@ -1,0 +1,179 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 17, 2023
+
+
+         Adam Atamian, Community Development Director
+         City of San Clemente
+         910 Calle Negocio, Suite 100
+         San Clemente, CA 92672
+
+         Dear Adam Atamian:
+
+         RE: AB 2097 Transit Distance Criteria – Letter of Technical Assistance
+
+         This letter provides technical assistance regarding the application of Assembly Bill (AB) 2097
+         (Chapter 459, Statues of 2022). The California Department of Housing and Community
+         Development (HCD) received a technical assistance request from Kristine Michaels
+         (Applicant), seeking clarification on how to measure the one-half mile distance to a major
+         transit stop required under AB 2097. The letter is provided for the benefit of both the City of
+         San Clemente (City) and the Applicant.
+
+         Summary of Request
+
+         HCD understands the Applicant submitted an application to the City for an accessory
+         dwelling unit (ADU) conversion project at 240 W. Mariposa Avenue. The project proposes
+         to convert an existing carport into an approximately 668.5 square-foot ADU. The City has
+         approved a conceptual plan verifying that the project meets local zoning regulations and
+         does not require additional off-street parking to be provided to serve the ADU. However,
+         because the project is located in the Coastal Zone and the City does not have a fully
+         certified Local Coastal Program (LCP) at this time, the project also requires a Coastal
+         Development Permit (CDP) from the California Coastal Commission (Coastal
+         Commission). HCD understands that the Applicant has submitted its CDP application,
+         including the approved conceptual plan from the City, to the Coastal Commission for
+         review. It appears that the Coastal Commission is exploring potential parking mitigation
+         measures for the project including the removal of red curbed areas to create more on-
+         street parking and/or an annual in lieu parking mitigation fee. However, the applicant
+         desires to utilize the reduced minimum parking requirements under AB 2097 for
+         residential development within one-half mile of a major transit stop.
+
+         AB 2097 is codified at Government Code Title 7, Division 1, Chapter 4, Article 2,
+         Section 65863.2 and became effective January 1, 2023. This law limits the ability of a
+         public agency to impose minimum automobile parking requirements for residential,
+Adam Atamian, Community Development Director
+Page 2
+
+
+
+commercial, or other qualifying development projects within one-half mile of a major
+public transit stop. HCD has authority to enforce AB 2097 pursuant to Government
+Code section 65585, subdivision (j)(12).
+
+The sole question posed by the requestor relates to the method of measurement used
+to determine whether a project site is located within one-half mile of a major transit stop,
+thus becoming eligible for the benefits of AB 2097. Specifically, the requester asks
+whether the one-half mile distance should be measured in a straight line from parcel
+edge to the transit stop or based on the walking distance from parcel edge to the transit
+stop. This letter provides technical assistance clarifying how to measure the one-half
+mile distance to a major transit stop for the purposes of AB 2097.
+
+AB 2097 Transit Distance Criteria
+
+Under AB 2097, “A public agency shall not impose or enforce any minimum automobile
+parking requirement on a residential, commercial, or other development project if the
+project is located within one-half mile of public transit.” (Gov. Code, § 65863.2, subd.
+(a).) Additionally, Government Code section 65863.2, subdivision (e)(5), defines “public
+transit” to mean a major transit stop as defined in Section 21155 of the Public
+Resources Code.
+
+Major Transit Stop Definition in the Public Resources Code
+
+Section 21155, subdivision (b), of the Public Resources Code states, “A major transit
+stop is as defined in Section 21064.3, except that, for purposes of this section, it also
+includes major transit stops that are included in the applicable regional transportation
+plan.” Section 21064.3 defines a major transit stop as a site containing any of the
+following:
+
+       (a) An existing rail or bus rapid transit station.
+       (b) A ferry terminal served by either a bus or rail transit service.
+       (c) The intersection of two or more major bus routes with a frequency of service
+           interval of 15 minutes or less during the morning and afternoon peak
+           commute periods.
+
+Based on the above, the San Clemente Pier Station Train Stop would qualify as a major
+transit stop under Public Resources Code, Section 21064.3, subdivision (a), because it
+is an existing rail transit station served by the Metrolink rail system.
+
+AB 2097 Path of Measurement
+
+For the purposes of AB 2097, the one-half mile distance to a major transit stop should
+be measured in a straight, direct line from the nearest edge of the parcel containing the
+project site to any point on the parcel(s) that make up the property upon which a major
+Adam Atamian, Community Development Director
+Page 3
+
+
+
+transit stop is located. Generally, measurements are to be taken in a straight, direct line
+from parcel edge to parcel edge unless otherwise specified in statute. This is in keeping
+with the “ordinary meaning” of how required distances are typically measured in state
+housing laws absent specific statutory instructions to the contrary. AB 2097 does not
+contain any language that indicates that the one-half mile distance should be measured
+based on walking distance. Additionally, the definitions of a major stop in Section 21155
+and Section 21064.3 of the Public Resources Code do not reference walking distance.
+Had the Legislature intended for the one-half mile distance in AB 2097 to be based on
+walking distance, it could have included language to that effect as seen in other state
+housing laws such as ADU Law (Gov. Code, § 65852.2, subds. (c) and (d)) and Senate
+Bill 9 (Gov. Code, § 65852.21, subd. (c)(1)(A) 1).
+
+This determination is consistent with other one-half mile distances to public transit employed
+elsewhere in state statutes that do not specify walking distance, such as AB 2162 (Gov.
+Code, § 65654 2) and SB 35 (Gov. Code, § 65913.4, subd. (e)(1)(A) 3). This determination
+also most closely aligns with AB 2097’s intent as outlined in Government Code section,
+65863.2, subdivision (i), which states that “the imposition of mandatory parking minimums
+can increase the cost of housing, limit the number of available units, lead to an oversupply
+of parking spaces, and increased greenhouse gas emissions. Therefore, this section shall
+be interpreted in favor of the prohibition of the imposition of mandatory parking minimums as
+outlined in this section.”
+
+
+
+
+1 “A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or
+
+proposed single family or multifamily dwelling unit that is within one-half of one mile
+walking distance of a major transit stop or a high-quality transit corridor, as those terms
+are defined in Section 21155 of the Public Resources Code.” (Gov. Code, § 65852.2,
+subd. (c)(2)(D)(ii).)
+
+“Where the accessory dwelling unit is located within one-half mile walking distance of
+public transit.” (Gov. Code, § 65852.2, subd. (d)(1)(A).)
+
+“The parcel is located within one-half mile walking distance of either a high-quality
+transit corridor, as defined in subdivision (b) of Section 21155 of the Public Resources
+Code, or a major transit stop, as defined in Section 21064.3 of the Public Resources
+Code.” (Gov. Code, § 65852.21, subd. (c)(1)(A).)
+2 “If the supportive housing development is located within one-half mile of a public
+
+transit stop, the local government shall not impose any minimum parking requirements
+for the units occupied by supportive housing residents.” (Gov. Code § 65654.)
+3 “The development is located within one-half mile of public transit.” (Gov. Code §
+
+65913.4, subd. (e)(1)(A).)
+Adam Atamian, Community Development Director
+Page 4
+
+
+
+
+Conclusion
+
+For the purposes of AB 2097, the one-half mile distance to a major transit stop should be
+measured in a straight line from the nearest edge of the parcel containing the proposed
+project to any point on the parcel(s) that make up the property upon which a major transit
+stop is located. Using this method of measurement, the ADU conversion project
+proposed at 240 W. Mariposa Avenue is less than one-half mile from the San Clemente
+Pier Train Station and therefore meets this criterion under AB 2097. This technical
+assistance provides a consistent methodology for measuring distance and is more
+inclusive than other alternatives, thereby maximizing the housing production potential of
+AB 2097.
+
+If you have questions or need additional information, please contact Deepeaka Dhaliwal,
+of our staff, at Deepeaka.Dhaliwal@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

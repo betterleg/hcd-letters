@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024604",
+  "case_number": "ADU0007697",
+  "letter_date": "2024-10-21",
+  "jurisdiction": "Richmond",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/richmond-adu-findings-102124.pdf",
+  "hcd_letter": "Richmond Ordinance Findings Letter 10/21/2024",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/richmond-adu-findings-102124.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 206983,
+  "text_chars": 19054,
+  "text_empty": false
+}

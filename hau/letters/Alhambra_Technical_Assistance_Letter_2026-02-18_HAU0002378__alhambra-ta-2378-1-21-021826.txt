@@ -1,0 +1,149 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+         February 18, 2026
+
+
+         Maia McCurley, Planning Manager
+         Community Development Department
+         City of Alhambra
+         111 S. First Street
+         Alhambra, CA 91801
+
+         Dear Maia McCurley:
+
+         RE: Alhambra – 231 and 235 Curtis Avenue – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the Housing Crisis Act 1 (HCA) and the
+         replacement of a potentially protected unit in the City of Alhambra (City). Generally, the
+         City requested technical assistance to ensure that the City is interpreting and
+         implementing the law correctly, particularly in cases where limited previous tenant
+         information is available. The City posed four specific questions to HCD that are
+         addressed individually in the Analysis section of this letter.
+
+         Background
+
+         HCD understands that there is a proposal to replace two existing single-family dwellings
+         located on adjoining parcels at 231 and 235 Curtis Avenue with a 10-unit condominium
+         structure, which includes a density bonus. HCD and the City agree that the owner-
+         occupied dwelling is not a protected unit under the HCA and does not need to be
+         replaced as such. The second dwelling is occupied by the owner’s sons and is the
+         subject of this letter. Neither the owner nor the City is able to provide income
+         documentation for prior tenant households in the second dwelling. In the following
+         analysis, HCD will address two fundamental concerns: 1) if the second unit is required
+         to be replaced pursuant to the HCA, and 2) if applicable, which income category shall
+         apply.
+
+         Analysis
+
+         Question #1: When relying on the CHAS database to determine the income category of
+         a former tenant (due to a lack of income documentation), are we meant to use the
+         proportional breakdown of low, very low, and extremely low-income households as
+         separate categories? Or is it acceptable to group all “lower income” renters into a single
+         category for the purposes of calculating the number of required replacement units?
+
+1 Gov. Code, § 66300 et seq.
+Maia McCurley, Planning Manager
+Page 2 of 3
+
+
+Answer: Government Code section 65915, subdivision (c)(3)(B)(ii) applies “[i]f all
+dwelling units…have been vacated or demolished within the five-year period preceding
+the application…” Considering there is only one unit in question, if a renter household
+occupied the unit within the five-year period preceding the application, and preceding
+the current renter household, this would constitute the unit being “vacated” by the
+previous renter household thus triggering this provision of Government Code.
+
+When calculating the income category for a replacement unit, Government Code
+section 65915, subdivision (c)(3)(B)(ii) includes the low-income and very low-income
+categories only, not the extremely low-income category. Therefore, where subdivision
+(c)(3)(B)(ii) applies, the income categories will include low-income and very low-income,
+but not the extremely low-income category.
+
+Although the second part of the question does not apply to this scenario (as it assumes
+that subdivision (c)(3)(B)(i) applies and subdivision (c)(3)(B)(ii) does not), see the
+answer to question number four, which addresses a scenario in which only subdivision
+(c)(3)(B)(i) applies.
+
+Question #2: For a project requiring only one replacement unit, can the applicant
+choose the affordability level (low, very low, extremely low) for that unit, as it falls within
+the lower income band?
+
+Answer: No. When a single replacement unit is required, the applicant shall not choose
+the affordability level. Provisions within Government Code section 65915, subdivisions
+(c)(3)(B)(i) and (ii), specify which categories of income levels are applicable in each
+circumstance. Where a single protected unit is required to be replaced, the local agency
+shall use the applicable income category with the highest proportion of lower income
+renter households to all renter households within the jurisdiction. For example, in the
+case that only one replacement unit is required and the income category with the
+highest proportion within the jurisdiction is very low-income, the unit shall be replaced at
+the very low-income level.
+
+Question #3: Can a single unit satisfy the requirements for a protected unit
+replacement, an inclusionary housing unit obligation, and a density bonus unit
+simultaneously, so long as the affordability terms meet all applicable statutes?
+
+Answer: Yes. There is no prohibition of a single unit satisfying these multiple criteria.
+Additionally, pursuant to Government Code section 66300.6, subdivision (b)(1)(B):
+
+   Any protected units replaced pursuant to this paragraph shall be considered in
+   determining whether the housing development project satisfies the requirements of
+   Section 65915 or a locally adopted requirement that requires, as a condition of the
+   development of residential rental units, that the project provide a certain percentage
+   of residential rental units affordable to, and occupied by, households with incomes
+   that do not exceed the limits for moderate-income, lower income, very low income,
+   or extremely low income households, as specified in Sections 50079.5, 50093,
+   50105, and 50106 of the Health and Safety Code.
+      Maia McCurley, Planning Manager
+      Page 3 of 3
+
+
+
+      Question #4: In one of HCD’s Technical Assistance letters, 2 extremely low-income
+      households appear to be excluded from the CHAS-based calculation method. Please
+      confirm whether this was intentional, or if extremely low-income households should be
+      included in the proportional replacement unit calculation?
+
+      Answer: Whereas Government Code section 65915, subdivision (c)(3)(B)(i) uses the
+      general term “lower income,” which encompasses low-income, very low-income, and
+      extremely low-income categories, subdivision (c)(3)(B)(ii) is specific in the use of the
+      defined terms “low-income” and “very low-income” and excludes the defined term
+      “extremely low-income” as a separate category.
+
+      Conclusion
+
+      If a replacement unit is required pursuant to the HCA, the replacement unit is subject to
+      the criteria set forth in Government Code 65915, subdivisions (c)(3)(B)(i) and
+      (c)(3)(B)(ii), which are not mutually exclusive. In this case, the previous rental
+      household income is unknown and therefore the rebuttable presumption in subdivision
+      (c)(3)(B)(ii) applies when determining the income category. Additionally, as there is only
+      unit in this case, the City shall use the income category with the highest proportion of
+      lower income renter households within the jurisdiction.
+
+      HCD remains committed to supporting the City of Alhambra in facilitating housing at all
+      income levels and hopes the City finds this clarification helpful. If you have questions or
+      need additional information, please contact Brandon Estes at
+      Brandon.Estes@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Melinda Coy
+      Housing Accountability Unit Chief
+      Local Government Relations and Accountability
+
+
+
+
+2 City of Westminster, available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+
+community/HAU/westminster-hau217-ta-080723.pdf.

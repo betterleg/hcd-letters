@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0019199",
+  "case_number": "HAU0001598",
+  "letter_date": "2023-06-23",
+  "jurisdiction": "Los Angeles",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/2222-marvin-loi-062323.pdf",
+  "hcd_letter": "Los Angeles Letter of Inquiry 06/23/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/2222-marvin-loi-062323.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 168057,
+  "text_chars": 4072,
+  "text_empty": false
+}

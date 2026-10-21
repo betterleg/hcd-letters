@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024363",
+  "case_number": "ADU0007607",
+  "letter_date": "2025-05-12",
+  "jurisdiction": "Inglewood",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/inglewood-adu-findings-05122025.pdf",
+  "hcd_letter": "Inglewood Ordinance Findings Letter 05/12/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/inglewood-adu-findings-05122025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 207433,
+  "text_chars": 16582,
+  "text_empty": false
+}

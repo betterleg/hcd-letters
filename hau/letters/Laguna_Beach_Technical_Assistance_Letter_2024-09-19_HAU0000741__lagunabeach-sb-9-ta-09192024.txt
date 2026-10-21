@@ -1,0 +1,151 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 19, 2024
+
+
+
+         David Contreras, Director
+         Community Development Department
+         City of Laguna Beach
+         505 Forest Avenue
+         Laguna Beach, CA 92651
+
+         RE: City of Laguna Beach SB 9 Ordinance – Letter of Technical Assistance
+
+         Dear David Contreras:
+
+         The purpose of this letter is to provide technical assistance to the City of Laguna Beach
+         (City) regarding draft Zoning Ordinance Amendment 22-1548 (Ordinance), which will
+         amend Title 25 of the Laguna Beach Municipal Code (LBMC) and implement provisions
+         of Senate Bill (SB) 9 (Chapter 162, Statutes of 2021)1. The California Department of
+         Housing and Community Development (HCD) identified several provisions within the
+         Ordinance that conflict with SB 9, as discussed below.
+
+         Background
+
+         HCD received a request for technical assistance from a City of Laguna Beach owner’s
+         representative (requester). HCD understands the requester is interested in pursuing an
+         SB 9 urban lot split within the R/HP (Residential/Hillside Protection) zoning district and
+         alerted HCD that this zoning district is not included as an eligible zone under the
+         Ordinance. The adoption (second reading) of the Ordinance was originally scheduled
+         for the March 12, 2024, City Council meeting. On March 11, 2024, HCD submitted a
+         public comment via email to the City Council regarding the exclusion of the R/HP zoning
+         district and also alerted the City of HCD’s forthcoming comments on the remainder of
+         HCD’s review of the Ordinance. HCD understands that on March 12, 2024, the City’s
+         Ordinance adoption was postponed to a future date. HCD finds that the Ordinance
+         addresses many statutory requirements; however, HCD finds that the Ordinance fails to
+         comply with state law as follows:
+
+
+
+
+1 Gov. Code, §§ 65852.21, 66411.7 et seq.
+      David Contreras, Director
+      Page 2
+
+
+
+          1. Section 25.95.030 - Site Eligibility/Single-Family Zones – The Ordinance states
+             that it shall only apply to parcels within the R-1 Residential Low-Density Zone,
+             Diamond/Crestview Specific Plan Zone, Lagunita Zone, and Three Arch Bay
+             Zone. The Ordinance does not include the Residential/Hillside Protection Zone
+             (R/HP) among the eligible zones. However, SB 9 provides that, “…two residential
+             units within a single-family residential zone shall be considered ministerially.” 2
+             Additionally, the law further provides that, “…a local agency shall ministerially
+             approve…an urban lot split…if the parcel is located within a single-family
+             residential zone.” 3 Based on HCD’s understanding of the intent and purpose of
+             the R/HP Zone (LBMC 25.15.002), it should be considered a single-family
+             residential zone for purposes of SB 9. Therefore, the City must modify the
+             Ordinance to include the R/HP Zone among the SB 9 eligible zones.
+             (Note: This comment was previously conveyed via email to the City Council on
+             March 11, 2024)
+
+          2. Section 25.95.030 - Site Eligibility, Very High Fire Hazard Severity Zones - The
+             Ordinance states an SB 9 housing development or urban lot split shall not be
+             located on a site that is, “Within a very high fire hazard severity zone…” This
+             language appears to mimic language that was contained in Government Code
+             65913.4, subdivision (a)(6)(D) prior to 2024. However, it should be noted that this
+             subdivision 4 was revised as of January 1, 2024. The City must review the
+             updated statutory language and revise the Ordinance as needed to ensure the
+             appropriate areas are either included or excluded, in compliance with state law.
+
+          3. Section 25.95.030 - Site Eligibility, Earthquake Fault Zones – The Ordinance
+             states an SB 9 housing development or urban lot split shall not be located,
+             “…within a delineated earthquake fault zone, unless the development
+             complies…” State law provides the following exclusion language, “…within a
+             delineated earthquake fault zone as determined by the State Geologist in any
+             official maps published by the State Geologist, unless the development
+             complies…”5 The Ordinance fault zone exclusion language substantively differs
+             from state law as the city has locally mapped fault lines that are not mapped by
+             the State Geologist. The fault zone exclusion language in the Ordinance must be
+             corrected to be consistent with state law.
+
+          4. Section 25.95.040 (E) – Occupancy – The Ordinance states, “A deed
+             restriction…shall be recorded…prior to issuance of building permits for any SB 9
+             housing development (duplex law) stating that the property owner shall occupy
+             one of the SB 9 units for a period of three (3) years from the date of approval of
+             the SB 9 housing development as his or her principal residence…” The law
+
+2 Gov. Code, § 65852.21, subd. (a).
+3 Gov. Code, § 66411.7, subd. (a)(3)(A).
+4 Gov. Code, § 65913.4, subd. (a)(6)(D).
+5 Gov. Code, § 65913.4, subd. (a)(6)(F).
+      David Contreras, Director
+      Page 3
+
+
+
+             provides owner-occupancy requirements for urban lot splits6 that the city has
+             addressed within Section 25.95.050. However, SB 9 duplex law7 does not
+             include any owner-occupancy requirements for SB 9 housing developments and
+             therefore none can be required by the City for an SB 9 housing development.
+             Therefore, the City must modify the Ordinance to remove the owner-occupancy
+             requirement for an SB 9 housing development.
+
+          5. Section 25.95.040 (C) - Objective Standards - The Ordinance states “…an SB 9
+             housing development shall comply with the…landscaping…of the applicable
+             zoning district in which the lot is located.” The Zoning Code states (25.15.004 (6)
+             (R/HP Design criteria)), “…The proposal should maintain native vegetation to the
+             greatest extent possible and should include the provision of additional native
+             vegetation to mitigate potential visual impacts and erosion concerns associated
+             with the development proposal.” However, state law provides, “…a local agency
+             may impose objective zoning standards, objective subdivision standards, and
+             objective design review standards…” 8 HCD has found that a number of
+             landscaping standards the Ordinance references for various single-family zones,
+             and eligible specific plan areas, are not objective due to phrasing such as to
+             “maintain native vegetation to the greatest extent possible.” Therefore, the City
+             must modify the landscape design standards or otherwise indicate that they are
+             not required for SB 9 housing developments and urban lot splits.
+
+      Conclusion
+
+      HCD looks forward to assisting the City in its compliance with state housing laws and
+      reminds the City that HCD has enforcement authority over SB 9, among other state
+      housing laws. Accordingly, HCD may review local government actions and inactions to
+      determine consistency with these laws. If HCD finds that a city’s actions do not comply
+      with state law, HCD may notify the California Office of the Attorney General that the
+      local government is in violation of state law. 9 If you have questions or need additional
+      information, please contact Mindy Wilcox at mindy.wilcox@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+
+6 Gov. Code, § 66411.7, subd. (g).
+7 Gov. Code, § 66411.7.
+8 Gov. Code, §§ 65852.21, subd. (b)(1), and 66411.7, subd. (c)(1).
+9 Gov. Code, § 65585, subd. (j).

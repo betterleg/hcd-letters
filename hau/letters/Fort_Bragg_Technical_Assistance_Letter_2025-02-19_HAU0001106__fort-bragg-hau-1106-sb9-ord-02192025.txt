@@ -1,0 +1,281 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY               GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 19, 2025
+
+
+         John Smith, Acting Community Development Director
+         Community Development Department
+         City of Fort Bragg
+         416 N. Franklin Street
+         Fort Bragg, CA 95437
+
+         Dear John Smith:
+
+         RE: City of Fort Bragg Senate Bill 9 Ordinance-Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the City of Fort Bragg
+         (City) regarding Ordinance 986-2023 (Ordinance), adopted on March 25, 2024, and
+         which amended the Inland Land Use Development Code and implemented provisions of
+         Senate Bill (SB) 9 (Chapter 162, Statutes of 2021) 1. Additionally, this letter also
+         provides technical assistance on the City’s pending Local Coastal Program Amendment
+         2-23 (LCPA), which is proposed to amend the Coastal Land Use Development Code to
+         implement SB 9 in the Coastal Zone portions of the City.
+
+         The California Department of Housing and Community Development (HCD) conducted
+         a review of the City’s LCPA 2 sections 17.42.200 (Coastal-Urban Unit Development) and
+         17.84.045 (Coastal-Urban Lot Split), along with Ordinance sections 18.42.200 (Inland-
+         Urban Unit Development) 3 and 18.84.045 (Inland-Urban Lot Split) 4, and finds the LCPA
+         and Ordinance do not comply with state law in the following respects:
+
+
+
+
+1 Gov. Code, §§ 65852.21, 66411.7 et seq.
+2 https://cityfortbragg.legistar.com/View.ashx?M=F&ID=12517837&GUID=4C798BE8-F409-4FA1-
+
+8607-81FB6A3F2AA8.
+3
+
+https://www.codepublishing.com/CA/FortBragg/#!/LUC18/FortBraggLUC184/FortBraggLUC1842.html
+#18.42.200.
+4
+
+https://www.codepublishing.com/CA/FortBragg/#!/LUC18/FortBraggLUC188/FortBraggLUC1884.html
+#18.84.045.
+      John Smith, Acting Community Development Director
+      Page 2
+
+
+        1. Sections 17.42.200 and 18.42.200 - Limitations on Location for Urban Unit
+           Development - The LCPA and Ordinance, respectively, contain site exclusions
+           applicable to urban lot splits 5 in Sections 17.84.045 (Coastal Urban Lot Splits) and
+           18.84.045 (Inland Urban Lot Splits) but do not reference those same site
+           exclusions under Sections 17.42.200 and 18.42.200 (Urban Unit Development).
+           Under SB 9 and as amended by SB 450, “A proposed housing development
+           containing no more than two residential units within a single-family residential zone
+           shall be considered ministerially…if the proposed housing development meets all
+           of the following requirements:…(2) The parcel satisfies the requirements specified
+           in subparagraphs (B) to (K), inclusive, of paragraph (6) of subdivision (a) of Section
+           65913.4 as that section read on September 16, 2021”6; “(3) the proposed housing
+           development would not require demolition or alteration of any of the following types
+           of housing…”7 and “(4) The parcel subject to the proposed housing development is
+           not a parcel on which an owner of residential real property has exercised the
+           owner’s rights…” 8 Therefore, the City must amend the LCPA and Ordinance to
+           specify that the site exclusions also apply to units developed pursuant to
+           Government Code Section 65852.21. Please note that exclusions should match
+           the modified exclusion language resulting from Comment #7 below in addition to
+           this specific finding. Government Code Section 65913.4, subdivision (a)(6) (B) to
+           (K), as it read on September 16, 2021 is included as Enclosure 1.
+        2. Sections 17.42.20-0 and 18.42.200(A) - Purpose - The LCPA and Ordinance,
+           respectively, state, “This Section establishes standards to implement California
+           Government Code § 66411.7 which requires ministerial approval up to 2 units of
+           housing (see Subsection (D)(2) of this Section) on a parcel created through an
+           urban lot split and up to 4 units (see Subsection (D)(1) of this Section) on a single
+           parcel that was not created through an urban lot split.” However, Government
+           Code Section 65852.21 also provides for ministerial approval of SB 9 units.
+           Therefore, the City must modify the LCPA and Ordinance to also reference the
+           applicability of ministerial approvals pursuant to Government Code Section
+           65852.21.
+        3. Sections 17.42.200(A) and 18.42.200(D) - Density, Size and Number of Units
+           allowed - The LCPA and Ordinance, respectively, state, “A maximum of 2 units is
+           permissible on each lot created by an urban lot split...One primary unit of any size
+           and 1 ADU [Accessory Dwelling Unit] of 800 square feet or less...” However,
+           Government Code Section 66321 states, “…a local agency shall not establish by
+           ordinance any of the following: (2) A maximum square footage requirement for
+           either an attached or detached accessory dwelling unit that is less than either of
+           the following:(A) Eight hundred fifty square feet…(B) One thousand square feet for
+           an accessory dwelling unit that provides more than one bedroom”9. Therefore, the
+           City must modify the LCPA and Ordinance to remove conflicts with state law.
+
+5 Gov. Code, § 66411.7, subd. (a)(3)(C).
+6 Gov. Code, § 65852.21, subd. (a)(2).
+7 Gov. Code, § 65852.21, subd. (a)(3).
+8 Gov. Code, § 65852.21, subd. (a)(4).
+9 Gov. Code, § 66321, subd. (b)(2).
+      John Smith, Acting Community Development Director
+      Page 3
+
+
+           The City may want to consider maintaining all standards specific to Accessory
+           Dwelling Units (ADU) and Junior Accessory Dwelling Units (JADU), in the City’s
+           ADU/JADU Ordinance and the applicable ADU/JADU section(s) of the Local
+           Coastal Program.
+        4. Sections 17.42.200(F) and 18.42.200(F)-Objective Design Review Standards- The
+           LCPA and Ordinance contain requirements related to private open space and
+           storage space. However, Government Code Section 65852.21, subdivision (b)(3),
+           as amended by SB 450 specifies that, “A local agency shall not impose objective
+           zoning standards, objective subdivision standards, and objective design standards
+           that do not apply uniformly to development within the underlying zone…”
+           (emphasis added). The LCPA and Ordinance appear to include development
+           standards (e.g. at a minimum, private open space) that are required of multi-family
+           residential units but not single-family residential units. As SB 9 units are located in
+           single-family zones, development standards cannot be more restrictive than those
+           required in single-family zones. Therefore, the City must review all development
+           standards applicable to SB 9 units to confirm they apply uniformly to development
+           within the underlying zone.
+        5. Sections 17.42.200(E) and 18.42.200(H) - Exceptions to Development Standards -
+           The LCPA and Ordinance, respectively, state, “Exceptions to accommodate at
+           least 2 800-square-foot units: The Community Development Director shall modify
+           or eliminate objective development standards if they prevent the construction of up
+           to 2 units of at least 800 square feet in on each lot. The following objective
+           development standards shall be modified last (and only if no other combination of
+           modified standards permits at least 2800-square-foot units): parking requirement,
+           front setback, height limit.” However, Government Code Section 66411.7,
+           subdivision (c)(2) specifies that, “A local agency shall not impose objective zoning
+           standards, objective subdivision standards, and objective design review standards
+           that would have the effect of physically precluding the construction of two units on
+           either of the resulting parcels or that would result in a unit size of less than 800
+           square feet”. 10 While the LCPA and Ordinance include the physical preclusion
+           language under 17.42.200 and 18.42.200 (Urban Unit Development), it must also
+           be included as applicable to urban lot splits. Therefore, the City must modify the
+           LCPA and Ordinance to include the physical preclusion language for urban lot
+           splits pursuant to Government Code section 66411.7.
+
+        6. Sections 17.42.200(G)(1) and 18.42.200(J)(1) - Utilities - The LCPA and
+           Ordinance, respectively, state, “The project shall include separate gas, electric and
+           water utility connection directly between each dwelling unit and the utility.” The
+           LCPA and Ordinance specify that “Unit” means a primary unit or one unit of a
+           duplex, an ADU or a JADU. However, “For an accessory dwelling unit described in
+           paragraph (1) of subdivision (a) of [Government Code] Section 66323…a local
+           agency…shall not require the applicant to install a new or separate utility
+           connection directly between the accessory dwelling unit and the utility… 11”
+
+10 Gov. Code, §§ 65852.21, subd. (b)(2)(A) and 66411.7, subd. (c)(2).
+11 Gov. Code, § 66324, subd. (d).
+      John Smith, Acting Community Development Director
+      Page 4
+
+
+            Therefore, the City must modify the LCPA and Ordinance to remove conflicts with
+            ADU law.
+
+        7. Sections 17.84.045(A) and 18.84.045(B) - Site Exclusion Language - The LCPA
+           and Ordinance, respectively, state that for urban lot splits, “The applicant shall
+           undertake proper mitigation if the parcel is in a Fire, Flood, or Earthquake Hazard
+           Zone per the appropriate section of this code.” The Ordinance also states that
+           urban lot splits are not permitted “On a parcel located in a historic site or district,
+           listed on the State Historic Resources Inventory or designated as a Historic
+           Landmark...On a parcel located on prime farmland, a hazardous waste site listed
+           pursuant to Section 65962.5, or within a 100-year flood zone”. This language is
+           similar to but not identical to language contained in SB 9. 12 The site exclusion
+           language contained in the Ordinance appears to reflect City specific conditions and
+           applicability. While it is not required that the City include Government Code 13
+           language verbatim, the City should generally make reference to the applicability of
+           Government Code Section 65913.4, as that section read on September 16, 2021,
+           in both the LCPA and Ordinance.
+
+        8. Sections 17.84.045(A)(2) and 18.84.045(B)(2) - Earthquake Hazard Zones - The
+           LCPA and Ordinance, respectively, state, “The applicant shall undertake proper
+           mitigation if the parcel is in a ... Earthquake Hazard Zone per the appropriate
+           section of this code.” However, SB 9 provides the following exclusion language,
+           “…within a delineated earthquake fault zone as determined by the State Geologist
+           in any official maps published by the State Geologist, unless the development
+           complies…”14 The LCPA and Ordinance fault zone exclusion language
+           substantively differ from the state law in light of the fact that the City has locally
+           mapped fault lines in the Local Coastal Program that are not mapped by the State
+           Geologist. Therefore, the fault zone exclusion language in both the LCPA and
+           Ordinance must be amended to be consistent with state law.
+
+        9. Sections 17.84.045(A)(4) and 18.84.045(B)(4) - Rental and Affordable Housing
+           Protections - The LCPA and Ordinance, respectively, state, “Urban lot splits are
+           not permitted…(g) On a parcel where the urban lot split would require demolition of
+           affordable or rental housing…” However, SB 9 specifies that “[t]he proposed urban
+           lot split would not require demolition or alteration of any of the following types of
+           housing… 15 (emphasis added)”. The City’s LCPA and Ordinance currently
+           addresses limitations on demolition of residential structures but does not include
+           the same limitations on alteration to residential structures. Therefore, the LCPA
+           and Ordinance must be modified to include the limitations on alterations of
+           residential structures as well.
+
+
+
+12 Gov. Code, §§ 66411.7, subd. (a); 65852.21, subd. (a); 65913.4, subd. (a)(6)(B) through (K), as it
+
+read on September 16, 2021.
+13 Gov. Code, § 65913.4, subd. (a)(6)(B) through (K).
+14 Gov. Code, § 65913.4, subd. (a)(6)(F).
+15 Gov. Code, § 66411.7, subd. (a)(3)(D), 65852.21, subd. (a)(3) and (4).
+      John Smith, Acting Community Development Director
+      Page 5
+
+
+        10. Section 17.84.045(A)(4)(h) - Limitations on Location for Urban Lot Splits in Coastal
+            Zone - The LCPA states, “Urban Lot Splits are not permitted…On a parcel located
+            within areas mapped in the Coastal General Plan on any of the following Coastal
+            General Plan maps: Map OS-1 Open Space and Environmentally Sensitive Habitat
+            Areas; Map OS-2 Special Review and Runoff Sensitive Areas; and/or Map SF-2
+            Flood Hazards”. However, SB 9, as amended by SB 450, requires that for a
+            pending urban lot split, “The parcel satisfies the requirements specified in
+            subparagraphs (B) to (K), inclusive, of paragraph (6) of subdivision (a) of Section
+            65913.4 as that section read on September 16, 2021 .” 16 Therefore, the City must
+            demonstrate in the LCPA that additional site exclusions included under Section
+            17.84.045 (A)(4)(h), are equivalent to, and do not exceed, site exclusions under
+            Government Code section 65913.4, subdivision (a)(6)(B) to (K) as that section
+            read on September 16, 2021.
+
+        11. Sections 17.84.045(D)(2)(b) and 18.84.045(E)(2)(b) - Short-Term Rentals - The
+            LCPA and Ordinance, respectively, state that for urban lot splits, “Units shall not be
+            rented for periods of less than 31 days”. The LCPA and Ordinance do not contain
+            similar language for SB 9-unit developments. State law provides that “... A local
+            agency shall require that a rental of any unit created pursuant to this section be for
+            a term longer than 30 days”. 17 Therefore, the City must modify the LCPA and
+            Ordinance to specify that SB 9 units, constructed independent of an urban lot split,
+            are required to be rented for a term longer than 30 days (i.e. for periods not less
+            than 31 days).
+
+        12. Sections 17.84.045(I) and 18.42.200(L) - Findings for Denial - The LCPA and
+            Ordinance, respectively, state, “The denial of a proposed urban lot split requires
+            the Building Official to make the following finding...” However, the Ordinance does
+            not include similar language for denial of an SB 9-unit development. State law, as
+            amended by SB 450, provides, “... a local agency may deny a proposed housing
+            development project if the building official makes a written finding, based upon a
+            preponderance of the evidence, that the proposed housing development project
+            would have a specific, adverse impact, as defined and determined in paragraph (2)
+            of subdivision (d) of Section 65589.5, upon public health and safety for which there
+            is no feasible method to satisfactorily mitigate or avoid the specific, adverse
+            impact”. 18 Therefore, the City must modify the LCPA and Ordinance to specify the
+            required Findings for Denial for SB 9 unit developments.
+
+
+
+
+16 Gov. Code, § 66411.7, subd. (a)(3)(C) and 65852.21, subd. (a)(2).
+17 Gov. Code, §§ 65852.21, subd. (e) and 66411.7, subd. (h).
+18 Gov. Code, § 65852.21, subd. (d).
+         John Smith, Acting Community Development Director
+         Page 6
+
+
+
+         Conclusion
+
+         HCD looks forward to assisting the City with its implementation of SB 9 and in its
+         compliance with state housing laws. HCD would like to remind the City that HCD has
+         enforcement authority over SB 9, among other state housing laws. Accordingly, HCD
+         may review local government actions and inactions to determine consistency with these
+         laws. If HCD finds that a city’s actions do not comply with state law, HCD may notify the
+         California Office of the Attorney General that the local government is in violation of state
+         law. 19 If you have questions or need additional information, please contact Mindy Wilcox
+         at mindy.wilcox@hcd.ca.gov.
+
+         Sincerely,
+
+
+
+
+         Shannan West
+         Housing Accountability Unit Chief
+
+
+
+
+19   Gov. Code, § 65585, subd. (j).

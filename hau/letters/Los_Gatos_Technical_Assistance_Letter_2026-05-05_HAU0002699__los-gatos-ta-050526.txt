@@ -1,0 +1,253 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         May 5, 2026
+
+
+
+         Sean Mullin, Planning Manager
+         Planning Department
+         Town of Los Gatos
+         110 E. Main St
+         Los Gatos, CA 95030
+
+         Dear Sean Mullin:
+
+         RE: Los Gatos Senate Bill (SB) 9 Ordinance-Technical Assistance Letter
+
+         HCD has reviewed the Town’s Municipal Code for SB 9 Governance and submits these
+         written findings pursuant to Government Code section 65585, subdivision (j). HCD finds
+         that the Municipal Code fails to comply with SB 9 in the manner noted below.
+         Accordingly, the Town must provide a written response to these findings no later than
+         June 5, 2026.
+
+         The Municipal Code addresses many statutory requirements; however, HCD finds that
+         the Municipal Code is inconsistent with state law in the following ways:
+
+              1. Section 29.10.610 – Definition of Two-Unit Development – The Municipal Code
+                 defines a two unit housing development as “… either the construction of no more
+                 than two (2) new primary dwelling units, one (1) new primary dwelling unit and
+                 retention of one (1) existing primary dwelling unit, or retention of two (2) existing
+                 legal non-conforming primary dwelling units where one (1) or both units are
+                 subject to a proposed addition or alteration.” However, this applies SB 9 law only
+                 in the case that two units are created and/or retained.
+
+                  SB 9 states, “[a] proposed housing development containing no more than two
+                  residential units within a single-family residential zone shall be considered
+                  ministerially, if the proposed housing development meets all of the following
+                  requirements...” 1 [emphasis added]. Therefore, SB 9 is applicable in a scenario
+                  where construction results in the construction of either one or two primary
+                  dwelling units on a lot. Both the first and the second primary dwelling unit
+                  constructed on a lot are eligible for SB 9. An applicant can choose to utilize SB 9
+                  to construct a single primary structure on a lot even if there are no existing units
+                  on the site. The Municipal Code must be modified to clarify that both first and
+                  second primary dwelling units are eligible for SB 9 processes and applicable
+                  development standards.
+
+1 Gov. Code § 65852.21, subd. (a).
+Sean Mullin, Planning Manager
+Page 2
+
+
+
+   2. Section 29.10.620 (3) – Historic Property – The municipal code contains
+      outdated historic exclusion language under Section 29.10.620(3). Pursuant to
+      Assembly Bill 1061 of 2025, the historic exclusions under SB 9 were amended as
+      detailed in Government Code Sections 65852.21(a)(5) and 66411.7(a)(3)(E). The
+      municipal code must be amended to reflect SB 9’s current historic exclusion
+      language.
+
+   3. Section 29.10.630 (1)(a) – Height in Setbacks – The Municipal Code states,
+      “[b]uildings located within the required side or rear setbacks of the applicable
+      zoning district, and those located in the Hillside Residential (HR) zones, shall not
+      exceed sixteen (16) feet in height.” However, Government Code section
+      65852.21, subdivision (b)(3) states, “[a] local agency shall not impose objective
+      zoning standards, objective subdivision standards, and objective design
+      standards that do not apply uniformly to development within the underlying zone.”
+      There is no generally applicable height limitation imposed on other structures
+      within rear and side setbacks, and section 29.40.275 sets height maximums in
+      the Hillside Residential at 30 feet. The limit of 16 feet for SB 9 units is more
+      restrictive than the underlying zoning and is therefore inconsistent with state SB
+      9 law. The Town must amend the municipal code to remove this height limitation.
+
+   4. Section 29.10.630(1)(f)(2) – Grading – The Municipal Code states “Grading
+      activity associated with a two-unit housing development shall not exceed fifty (50)
+      cubic yards, cut plus fill…”. However, this is a restriction that is exclusive to SB 9
+      development, and which does not appear in the underlying zoning. Government
+      Code section 65852.21, subdivision (b)(3) prohibits “objective zoning standards,
+      objective subdivision standards, and objective design standards that do not apply
+      uniformly to development within the underlying zone.” The Town must remove
+      this limitation.
+
+   5. Section 29.10.630 (3) and (4) – Maximum Size – The Municipal Code states,
+      “[t]he maximum size of the first new residential unit shall not exceed one
+      thousand two hundred (1,200) square feet.” It later states, “[w]hen a two-unit
+      housing development is proposed and the existing structures are at or below the
+      maximum allowed floor area, a ten (10) percent increase in the floor area ratio
+      standards for residential structures is allowed, excluding garages, and this
+      increase in floor area cannot be combined with a separate increase for an
+      accessory dwelling unit allowed by Town Code Section 29.10.320. The additional
+      floor area allowed by this subsection shall not exceed one thousand two hundred
+      (1,200) square feet.” In both cases, the Town is restricting SB 9-unit size below
+      the allowances provided to conventional single-family residential development in
+      the underlying zoning. Government Code section 65852.21, subdivision (b)(3)
+      prohibits “objective zoning standards, objective subdivision standards, and
+      objective design standards that do not apply uniformly to development within the
+      underlying zone.” Therefore, the Town must remove these SB 9-specific size
+      maximums.
+Sean Mullin, Planning Manager
+Page 3
+
+
+   6. Table 1-2 – Setback Requirements – The Municipal Code appears to omit
+      reference to rear yard setbacks. Per Government Code section 65852.21,
+      subdivision (c)(3)(B) states that, “a local agency may require a setback of up to
+      four feet from the side and rear lot lines.” While the Town is not required to apply
+      setback requirements, please note that new construction SB 9 units may not be
+      subject to rear setbacks larger than four feet.
+
+   7. Table 1-2 – Street Side Yard Setback – The Municipal Code requires “street
+      side” setbacks “per the applicable zoning district” for corner lots. However, state
+      SB 9 law does not refer to “street side” setbacks, and Government Code section
+      65852.21, subdivision (c)(3)(B) requires side and rear setbacks of no more than
+      four feet. The Town must remove requirements for underlying setbacks that
+      exceed four feet for street-facing sides of corner lots.
+
+   8. Section 29.10.630 (e) – Second Story Setback – The Municipal Code states,
+      “[t]he interior side and rear elevations of the second story of a two-story primary
+      dwelling unit shall have a minimum setback of nine (9) feet.” However, this
+      second story setback does not appear in the underlying zoning. Government
+      Code section 65852.21, subdivision (b)(3) prohibits the application of
+      development standards that do not appear in the underlying zoning to units
+      subject to state SB 9 law. The Town must amend the Municipal Code to remove
+      this second story setback requirement.
+
+   9. Section 29.10.630 (g) – Plate Height – The Municipal Code states “[t]he plate
+      height of each story shall be limited to a maximum of ten (10) feet as measured
+      from finished floor, and when above the first floor the plate height shall be limited
+      to a maximum of eight (8) feet…” However, this height restriction does not
+      appear in the underlying zoning. Government Code section 65852.21,
+      subdivision (b)(3) prohibits the application of development standards that do not
+      appear in the underlying zoning to units subject to state SB 9 law. The Town
+      must amend the Municipal Code to remove more restrictive height requirements.
+
+   10. Section 29.10.630 (h) and (i) – Development Standards – The Municipal Code
+       requires clerestory windows and prohibits vinyl siding and plywood as external
+       materials. Neither of these requirements appear to apply to conventional
+       residential development in the underlying zoning, which is inconsistent with
+       Government Code section 65852.21, subdivision (b)(3). The Town must remove
+       these requirements.
+
+   11. Section 29.10.630 (3)(a) and (3)(b) – Duplex Unit Cap – The Municipal Code
+       allows “[a] maximum of four (4) units, with a maximum of two (2) primary dwelling
+       units, on lots that have not undergone an urban lot split… In addition to the two
+       (2) residential units allowed under this section, consistent with Chapter 29, Article
+       1, Division 7, Accessory Dwelling Units," of the Municipal Code, one (1)
+       accessory dwelling unit and one (1) junior accessory dwelling unit shall be
+       allowed on lots that have not undergone an urban lot split.”
+Sean Mullin, Planning Manager
+Page 4
+
+
+      Government Code section 65852.21, subdivision (f) states, “[n]otwithstanding
+      Article 2 (commencing with Section 66314) or Article 3 (commencing with Section
+      66333) of Chapter 13, a local agency shall not be required to permit an
+      accessory dwelling unit or a junior accessory dwelling unit on parcels that use
+      both the authority contained within this section and the authority contained in
+      Section 66411.7.” Thus, in instances where a property has only utilized SB 9
+      duplex law (Government Code 65852.21), the number of ADUs or JADUs
+      allowed is to be consistent with what is allowed by State ADU Law. The Town
+      must amend the code to reflect this allowance. In some instances, the creation of
+      more than two ADUs may be possible.
+
+   12. Section 29.10.630 (3)(c) – Building Code – The Municipal Code states, “[T]he
+       International Building Code ("Building Code"), and the California Fire Code and
+       International Fire Code (together, "Fire Code"), as adopted by Chapter 6 of the
+       Town Code, respectively, apply to all two-unit housing developments.” However,
+       this would apply current building/fire codes to all SB 9 units, including existing
+       dwellings on a site. For example, if an existing site contains one primary dwelling
+       and a second, detached primary dwelling is proposed pursuant to SB 9, this
+       Town code provision could result in the application of building/fire code
+       requirements for the existing dwelling (such as building sprinkler systems) above
+       and beyond what the building/fire codes would typically require for an existing
+       detached unit. Per Government Code section 65852.21, subdivision (b)(3), “A
+       local agency shall not impose objective zoning standards, objective subdivision
+       standards, and objective design standards that do not apply uniformly to
+       development within the underlying zone.” The Town must remove this language
+       or clarify that existing structures are not subject to additional building/fire code
+       requirements above and beyond what the building and fire codes would ordinarily
+       require of residential development in single-family zones.
+
+   13. Section 29.10.630 (e) – The Municipal Code states, “[t]he two-unit housing
+       development shall not require either demolition of more than twenty-five (25)
+       percent of the exterior walls”. However, SB 450 removed language requiring a
+       demolition cap of 25 percent from State SB 9 Law in 2021; therefore, the Town
+       must remove this language.
+
+   14. Section 29.10.630 (4) – Exceptions – The Municipal Code exempts zoning
+       standards that would preclude a two-unit development but omits a necessary
+       reference to split lots. Government Code section 66411.7, subdivision (c)(2)
+       states, “[A] local agency shall not impose objective zoning standards, objective
+       subdivision standards, and objective design review standards that would have
+       the effect of physically precluding the construction of two units on either of the
+       resulting parcels or that would result in a unit size of less than 800 square feet.”
+       The Town must add language to include split lots in this exception clause.
+
+   15. Section 29.10.640 (3) and 29.10.660 (3) – Neighbor Notification – The Municipal
+       Code states, “[i]n addition to the standard application materials, the applicant will
+       be required to submit one (1) set of stamped, addressed envelopes to
+Sean Mullin, Planning Manager
+Page 5
+
+
+      neighboring residents and property owners” in the case of either a two-unit
+      development or a lot split. However, this does not appear to apply to
+      conventional residential development in the underlying zoning, which would
+      conflict with Government Code section 65852.21, subdivision (b)(3).
+      Furthermore, this requirement is not related to “the design or to improvements of
+      a parcel”, which are the only standards that may be applied to split lots. The
+      Town must remove these sections.
+   16. Section 29.10.640(5) and 29.10.660(6) – Denial – The Municipal Code refers to
+       “the physical environment” in the sections describing denial conditions. However,
+       SB 450 removed references to “the physical environment” from Government
+       Code section 66411.7, subdivision (d) and section 65852.21, subdivision (d),
+       which now refer to an “…adverse impact, as defined and determined in
+       paragraph (2) of subdivision (d) of Section 65589.5, upon public health and
+       safety for which there is no feasible method to satisfactorily mitigate or avoid the
+       specific, adverse impact.” The Town must remove the reference.
+   17. Section 29.10.640 (l) – Utility Providers – The Municipal Code states, “[t]he
+       requirements of the parcel's utility providers shall be satisfied prior to recordation
+       of a parcel map.” However, SB 9 states, “Notwithstanding Section 66411.1, a
+       local agency shall not impose regulations that require dedications of rights-of-
+       way or the construction of offsite improvements for the parcels being created as
+       a condition of issuing a parcel map for an urban lot split pursuant to this section.”
+       Neither the Town nor utility provider may require offsite improvements to approve
+       or record an urban lot split and the Town must modify the zoning code to clarify
+       this.
+
+HCD looks forward to assisting the Town in its compliance with state housing laws and
+reminds the Town that HCD has enforcement authority over SB 9, among other state
+housing laws. Accordingly, HCD may review local government actions and inactions to
+determine consistency with these laws. If HCD finds that a Town’s actions do not
+comply with state law, HCD may notify the California Office of the Attorney General that
+the local government is in violation of state law.’
+HCD appreciates the Town’s efforts in the preparation and adoption of the Ordinance
+and welcomes the opportunity to assist the Town in fully complying with state law.
+Please feel free to contact Mindy Wilcox at Mindy.Wilcox@hcd.ca.gov if you have any
+questions.
+Sincerely,
+
+
+
+
+Brian Heaton
+Section Chief, Land Use Policy
+Housing Accountability Unit

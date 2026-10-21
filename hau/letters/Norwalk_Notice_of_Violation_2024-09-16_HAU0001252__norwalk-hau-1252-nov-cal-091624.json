@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017399",
+  "case_number": "HAU0001252",
+  "letter_date": "2024-09-16",
+  "jurisdiction": "Norwalk",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Anti-Discrimination in Land Use Law | By-Right Low Barrier Navigation Centers | By-Right Supportive Housing Provisions | Housing Crisis Act of 2019 | Housing Element Law",
+  "statutes": "65008(a) | 65008(b)(1) | 65580(a) | 65583(c) | 65585(i) | 65585(j) | 66300(b)(1)(B) | 8899.50(a)(1) | 8899.50(b)",
+  "n_statutes": "9",
+  "keywords": "AFFH | SRO | emergency shelters | fair housing | moratorium | supportive housing | transitional housing",
+  "n_keywords": "7",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/norwalk-hau-1252-nov-cal-091624.pdf\u00a0",
+  "hcd_letter": "Norwalk Notice of Violation 09/16/2024",
+  "housing_law": "Housing Crisis Act of 2019, Anti-Discrimination in Land Use Law, Affirmatively Further Fair Housing, Housing Element Law, By-Right Supportive Housing Provisions, By-Right Low Barrier Navigation Centers",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/norwalk-hau-1252-nov-cal-091624.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 223910,
+  "text_chars": 23611,
+  "text_empty": false
+}

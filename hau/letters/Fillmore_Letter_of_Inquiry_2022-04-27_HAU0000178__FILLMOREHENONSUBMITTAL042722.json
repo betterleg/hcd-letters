@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011165",
+  "case_number": "HAU0000178",
+  "letter_date": "2022-04-27",
+  "jurisdiction": "Fillmore",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/FILLMOREHENONSUBMITTAL042722.pdf",
+  "hcd_letter": "Fillmore Letter of Inquiry 04/27/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/FILLMOREHENONSUBMITTAL042722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169964,
+  "text_chars": 5660,
+  "text_empty": false
+}

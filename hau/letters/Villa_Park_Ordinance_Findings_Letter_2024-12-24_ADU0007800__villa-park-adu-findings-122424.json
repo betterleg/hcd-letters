@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024871",
+  "case_number": "ADU0007800",
+  "letter_date": "2024-12-24",
+  "jurisdiction": "Villa Park",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/villa-park-adu-findings-122424.pdf",
+  "hcd_letter": "Villa Park Ordinance Findings Letter 12/24/2024",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/villa-park-adu-findings-122424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 228273,
+  "text_chars": 18533,
+  "text_empty": false
+}

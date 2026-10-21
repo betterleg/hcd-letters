@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026182",
+  "case_number": "ADU0008105",
+  "letter_date": "2026-06-17",
+  "jurisdiction": "Oceanside",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66328",
+  "n_statutes": "12",
+  "keywords": "Coastal Zone | JADU | Oceanside | Ordinance",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/oceanside-adu-findings-061726.pdf",
+  "hcd_letter": "Oceanside Ordinance Findings Letter 06/17/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/oceanside-adu-findings-061726.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 293532,
+  "text_chars": 32722,
+  "text_empty": false
+}

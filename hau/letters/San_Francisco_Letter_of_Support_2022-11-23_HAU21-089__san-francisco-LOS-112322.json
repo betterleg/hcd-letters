@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021152",
+  "case_number": "HAU21-089",
+  "letter_date": "2022-11-23",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Letter of Support",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65589.5",
+  "n_statutes": "1",
+  "keywords": "CEQA delay | PPR",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-LOS-112322.pdf",
+  "hcd_letter": "San Francisco Letter of Support 11/23/2022",
+  "housing_law": "Housing Element Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-LOS-112322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 209288,
+  "text_chars": 4709,
+  "text_empty": false
+}

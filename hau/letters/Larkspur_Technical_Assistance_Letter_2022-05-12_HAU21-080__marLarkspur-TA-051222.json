@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010691",
+  "case_number": "HAU21-080",
+  "letter_date": "2022-05-12",
+  "jurisdiction": "Larkspur",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65589.5(h) | 65589.5(j) | 65915(a)(2) | 65915(k)",
+  "n_statutes": "4",
+  "keywords": "objective standards | reasonable documentation",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/marLarkspur-TA-051222.pdf",
+  "hcd_letter": "Larkspur Technical Assistance Letter 05/12/2022",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/marLarkspur-TA-051222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 206457,
+  "text_chars": 11605,
+  "text_empty": false
+}

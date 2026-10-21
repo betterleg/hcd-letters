@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024409",
+  "case_number": "ADU0007639",
+  "letter_date": "2023-05-25",
+  "jurisdiction": "Monte Sereno",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/monte-sereno-adu-ordinance-052523.pdf",
+  "hcd_letter": "Monte Sereno Ordinance Findings Letter 05/25/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/monte-sereno-adu-ordinance-052523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 177874,
+  "text_chars": 8634,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021650",
+  "case_number": "HAU0001602",
+  "letter_date": "2025-08-19",
+  "jurisdiction": "Berkeley",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "17620 | 65589.5(o) | 65589.5(o)(2)(C) | 65589.5(o)(6) | 65974 | 65995(b)(3) | 65996(a)",
+  "n_statutes": "7",
+  "keywords": "CEQA | SB 330",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/berkeley-hau-1602-ta-081925.pdf",
+  "hcd_letter": "Berkeley Technical Assistance Letter 08/19/2025",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/berkeley-hau-1602-ta-081925.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225543,
+  "text_chars": 10391,
+  "text_empty": false
+}

@@ -1,0 +1,232 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                       GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 17, 2026
+
+
+         Rob Eastwood
+         Community Development Director
+         City of Campbell
+         70 N. First St.
+         City Hall - Upper Level
+         Campbell, CA 95008
+
+         Dear Rob Eastwood:
+
+         RE: City of Campbell SHRA Implementation – Letter of Technical Assistance
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding how the Starter Home Revitalization Act
+         (SHRA) 1 should be implemented in the City of Campbell (City), including in relation to
+         other state laws such as the Housing Crisis Act (HCA) 2 and the Permit Streamlining Act
+         (PSA) 3. Among other provisions, the SHRA allows for residentially-zoned sites,
+         including vacant single-family-zoned lots, to be subdivided and individually developed
+         for new housing, provided the new units meet certain size standards. This letter
+         provides technical assistance to the City regarding the timing of vacancy status,
+         demolition of existing housing, vesting of preliminary applications, enforcement of limits
+         on the number of stories, and classification of half-stories for square footage purposes.
+
+         Background
+
+         HCD understands that the City has received significant development interest in using
+         the SHRA since the law was first enacted; as of May 20, 2026, the City has received 16
+         applications for SHRA projects, including 11 in 2026 alone. Of these projects, 8 were
+         proposed on single-family-zoned lots. 4 Prior to April 2026, the City governed the review
+         of SHRA applications through a series of interim ordinances. These ordinances
+         considered a single-family-zoned parcel to be vacant for SHRA purposes “no later than
+         the date of recordation of a final map or issuance of a building permit, whichever occurs
+
+
+
+
+1 Gov. Code §§ 65852.28, 65913.4.5, 66499.40, 66499.41.
+2 Gov. Code § 66300.6.
+3 Gov. Code § 65941.1.
+4 City of Campbell Starter Home Projects webpage (accessed 2026-06-05),
+
+https://www.campbellca.gov/1535/Starter-Home-Projects.
+Rob Eastwood, Community Development Director
+Page 2
+
+
+first.” 5 In April 2026, the City adopted an urgency ordinance, amending the vacancy
+requirement for single-family-zoned lots to require that a lot be vacant “on the date that
+a development proponent submits an application” for a SHRA project. 6 This ordinance
+remains in effect pending the adoption of an urgency ordinance and any amendments to
+State law that would affect the vacancy requirement. In April, the City also submitted a
+list of seven questions to HCD. 7
+
+Analysis
+
+HCD provides technical assistance on the following seven questions posed by the City:
+
+Question 1: Must a parcel satisfy the statutory definition of "vacant" under
+Government Code section 66499.41, subdivision (a)(2)(A)(ii) at the time of
+application submittal? If not, at what point must vacancy be established?
+
+The SHRA does not provide a definitive point in time in which the parcel must satisfy the
+definition of “vacant”. However, a parcel should satisfy the statutory definition of
+“vacant” under the SHRA at the time of application submittal. The SHRA states that a
+local government shall ministerially consider a map for a housing development that
+meets the listed requirements in the statute. 8 Among these requirements, the SHRA
+states that a lot can either be zoned to allow for multifamily residential uses, or it can be
+“vacant and zoned for single-family residential development.” 9 Additionally, subdivision
+(a)(2) states that “the lot proposed to be subdivided” (emphasis added) must satisfy the
+listed requirements, suggesting that the site must be vacant at the start of the process
+(i.e., at the time the project is proposed in the form of an application being submitted).
+
+Question 2: The City of Campbell adopted an interim ordinance providing that a
+single-family-zoned parcel must satisfy the statutory definition of “vacant” no
+later than recordation of the project’s final map or issuance of a building permit,
+whichever occurs first. Is this approach consistent with Government Code
+section 66499.41, subdivision (a)(2)(A)(ii)?
+
+As stated in the answer to the previous question, a single-family-zoned parcel must
+satisfy the statutory definition of “vacant” by the time of application submittal.
+
+
+
+
+5 City of Campbell Interim Ordinance No. 2334, August 4, 2025, https://ca-
+
+campbell.civicplus.com/DocumentCenter/View/24477/Ordinance-No-26-2347-SB-
+1123?bidId=, PDF page 8.
+6 City of Campbell Ordinance No. 26-2347, April 21, 2026, https://ca-
+
+campbell.civicplus.com/DocumentCenter/View/24477/Ordinance-No-26-2347-SB-
+1123?bidId=, PDF page 3.
+7 HAU 3283 Request for Technical Assistance, April 16, 2026,
+
+https://www.campbellca.gov/DocumentCenter/View/29536/Housing-Law-Request-Case-
+HAU0003283.
+8 Gov. Code, § 66499.41, subd. (a).
+9 Gov. Code, § 66499.41, subd. (a)(2)(A).
+Rob Eastwood, Community Development Director
+Page 3
+
+
+Question 3: Does Government Code section 66300.6, subdivision (a) apply to the
+approval of a stand-alone demolition permit for an existing residential unit?
+
+The answer is “no.” The HCA prevents a local government from approving “a housing
+development project that will require the demolition of one or more residential dwelling
+units” unless the project creates at least as many units as will be demolished. 10 This
+limits the scope of the section to only applications for housing development projects that
+demolish residential units as part of the development application.
+
+A standalone demolition permit for an existing residential unit does not contain a
+replacement housing development project and therefore is not prohibited by the section.
+Note that a subsequent housing development would be subject to the “five-year
+lookback” provision of Government Code section 66499.41, subdivision (a)(2)(A)(ii)(III)
+to determine if the lot is eligible for the SHRA (specifically, whether the lot is considered
+vacant). Additionally, the subsequent development would be subject to a different “five-
+year-lookback” provision in Government Code section 66300.6, subdivision (b) requiring
+the replacement of protected units.
+
+Question 4: If Government Code Section 66300.6, subdivision (a) does not apply
+to approval of a stand-alone demolition permit, may the City adopt a demolition
+control ordinance that limits issuance of demolition permits for existing
+residential units unless a replacement housing project has already received the
+necessary approvals?
+
+HCD acknowledges receipt of this question but respectfully declines to provide a
+determination at this time. However, if the City chooses to pursue a local demolition
+control ordinance, it should be mindful of potential unintended consequences resulting
+from a restrictive demolition control ordinance as it may impede beneficial
+redevelopment of sites and housing production goals.
+
+Question 5: Does Government Code section 65941.1 allow a preliminary
+application for a housing development project to be submitted after a formal
+application has already been filed, rather than prior to submitting the formal
+application?
+
+The answer is “yes.” The PSA does not prevent a preliminary application from being
+submitted after a formal development application has already been filed. Neither
+Government Code section 65941.1, nor Government Code section 65589.5, subdivision
+(o) – which requires that projects be subject only to the standards in place when a
+completed preliminary application is submitted – include language which requires a
+preliminary application to be submitted prior to the submittal of a formal application.
+
+Question 6: Under Government Code section 65852.28, subdivision (b)(2)(A)(ii),
+may the City enforce limits on both numeric height and the number of stories, or
+must compliance be evaluated solely based on the numeric height limit?
+
+
+
+10 Gov. Code, § 66300.6, subd. (a).
+Rob Eastwood, Community Development Director
+Page 4
+
+
+The answer is “yes.” In allowing the local government to impose height limits no less
+than the height allowed pursuant to the existing zoning designation, Government Code
+section 65852.28 does not specify whether the limit must be measured in numeric
+height or the number of stories. Similarly, Government Code section 66499.40,
+subdivision (b)(6) requires that SHRA-enabled developments must “comply with existing
+height limits, if applicable,” without specifying whether the limit is in numeric height or
+the number of stories. In the absence of more specific language, the City is able to
+enforce either height limit, as applicable in the underlying zone. Note that the height limit
+imposed on a SHRA-enabled development must be exactly that of the underlying zone.
+The City may not impose a unique height limit applicable only to SHRA-enabled
+developments.
+
+Question 7: Where a local definition of a half-story permits habitable floor area, is
+that area nonetheless excluded from the 1,750 square foot limit, or is the
+exclusion intended to apply only to non-habitable space, like the other examples
+provided in the statute?
+
+The answer is “yes, the half-story is not counted toward the 1,750 square foot limit.”
+Government Code section 66499.40, subdivision (b)(9) requires that the units in a
+SHRA project must not have an average total floorspace area greater than 1,750 net
+habitable square feet. Government Code section 66499.41, subdivision (a)(6) defines
+“net habitable square feet” as “means the finished and heated floor area fully enclosed
+by the inside surface” of the building edge, “excluding garages, carports, parking
+spaces, cellars, half-stories, and unfinished attics and basements.” However, this
+definition of net habitable square feet is only for the purposes of determining a project’s
+eligibility to use the SHRA, not for compliance with local development standards.
+Pursuant to Government Code section 65852.28, subdivision (b)(1), a local government
+may impose objective standards related to the housing development, provided they do
+not otherwise conflict with the other provisions of the SHRA. 11
+
+Conclusion
+
+A parcel should satisfy the statutory definition of “vacant” under the SHRA by the time of
+application submittal. The HCA does not prohibit the City from approving a standalone
+demolition permit, and the PSA and HAA do not require that a preliminary application be
+submitted prior to a formal application in order to achieve vesting. The City is not
+prevented from imposing numeric or story-based height limits on SHRA projects.
+Finally, a local definition of floor area that includes half-stories is not applicable to
+whether a project’s average unit floor area exceeds the SHRA’s limit.
+
+
+
+
+11 Gov. Code § 65852.28, subd. (b)(2) prevents a local government from imposing
+
+objective development standards that would physically preclude the densities allowed
+by the SHRA. While HCD is not currently aware of a conflict between the City’s local
+definition of floor area for its own standards and the SHRA’s parameters for eligible
+projects, in the event of an unforeseen conflict between these requirements, the City
+would be precluded from imposing them on a SHRA project.
+Rob Eastwood, Community Development Director
+Page 5
+
+
+HCD remains committed to supporting the City of Campbell in facilitating housing at all
+income levels and hopes the City finds this clarification helpful. If you have questions or
+need additional information, please contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Brian Heaton
+Section Chief, Land Use Policy

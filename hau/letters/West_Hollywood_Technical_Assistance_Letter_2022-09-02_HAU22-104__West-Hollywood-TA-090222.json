@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010712",
+  "case_number": "HAU22-104",
+  "letter_date": "2022-09-02",
+  "jurisdiction": "West Hollywood",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65850 | 65915(1) | 65915(o)(6)",
+  "n_statutes": "3",
+  "keywords": "IZ | Latinos Unidos del Valle de Napa y Solano v. County of Napa | MI | harmonize | inclusionary zoning | moderate income units | substitutions",
+  "n_keywords": "7",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/West-Hollywood-TA-090222.pdf",
+  "hcd_letter": "West Hollywood Technical Assistance Letter 09/02/2022",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/West-Hollywood-TA-090222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 215948,
+  "text_chars": 18645,
+  "text_empty": false
+}

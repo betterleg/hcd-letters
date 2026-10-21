@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024255",
+  "case_number": "ADU0007514",
+  "letter_date": "2024-11-25",
+  "jurisdiction": "Artesia",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/artesia-adu-findings-112524.pdf",
+  "hcd_letter": "Artesia Ordinance Findings Letter 11/25/2024",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/artesia-adu-findings-112524.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 205952,
+  "text_chars": 10717,
+  "text_empty": false
+}

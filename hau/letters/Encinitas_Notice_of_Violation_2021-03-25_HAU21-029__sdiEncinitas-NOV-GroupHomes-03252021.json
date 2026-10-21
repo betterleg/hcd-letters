@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010761",
+  "case_number": "HAU21-029",
+  "letter_date": "2021-03-25",
+  "jurisdiction": "Encinitas",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915",
+  "n_statutes": "1",
+  "keywords": "California Coastal Commission | State Density Bonus",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiEncinitas-NOV-GroupHomes-03252021.pdf",
+  "hcd_letter": "Encinitas Notice of Violation 03/25/2021",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiEncinitas-NOV-GroupHomes-03252021.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 272038,
+  "text_chars": 28363,
+  "text_empty": false
+}

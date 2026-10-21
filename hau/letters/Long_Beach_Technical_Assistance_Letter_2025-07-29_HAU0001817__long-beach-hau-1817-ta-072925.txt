@@ -1,0 +1,335 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 29, 2025
+
+
+
+         Alison Spindler-Ruiz, Planning Manager
+         City of Long Beach
+         411 W. Ocean Blvd.
+         Long Beach, CA 90802
+
+         Dear Alison Spindler-Ruiz:
+
+         RE: City of Long Beach Special Group Residence Policy – Letter of Technical
+             Assistance
+
+         The purpose of this letter is for the California Department of Housing and Community
+         (HCD) to provide technical assistance to the City of Long Beach (City) regarding the
+         City’s Municipal Code and memorandum pertaining to Special Group Residences
+         (collectively, “Special Group Residence Policy” or “Policy”) as these relate to several
+         state housing laws, including Accessory Dwelling Unit (ADU) Law1 and Senate Bill
+         (SB) 9. 2
+
+         Background
+
+         HCD received a request for technical assistance regarding an SB 9-ADU residential
+         development project application located at 1411 Iroquois Avenue after the City found
+         the project inconsistent with its Special Group Residence Policy. The project proposes
+         to construct one new SB 9 unit and two new detached ADUs on a site that contains an
+         existing detached single-family residence (which will remain). After receiving the
+         application on December 17, 2024, the City responded with a plan check correction for
+         the project on February 4, 2025. Among other points of feedback, the City claimed that
+         because the project exceeded the maximum allowable number of bedrooms, it
+         constituted a Special Group Residence pursuant to the City’s Policy and thus could not
+         be permitted as proposed.
+
+
+
+
+1 Gov. Code, §§ 66310-66342.
+2 Gov. Code, §§ 65852.21 and 66411.7.
+Alison Spindler-Ruiz, Planning Manager
+Page 2
+
+
+
+
+      City of Long Beach Special Group Residence Policy
+
+      HCD understands that the City’s Municipal Code defines “Special Group Residence” as
+      a type of residential use that includes “fraternity and sorority houses, college
+      dormitories, residential care facilities, convalescent hospitals, senior citizen housing,
+      housing for persons with disabilities, halfway houses, communal housing, and military
+      barracks.” 3 The City’s Municipal Code does not permit Special Group Residences in
+      most residential zones, including all single-family residential zones. 4
+
+      On April 11, 2024, and prior to the submittal of the application, the City Zoning
+      Administration Officer sent a memorandum to City Planning Bureau staff establishing
+      additional guidance on how to implement portions of the City’s Municipal Code
+      pertaining to Special Group Residences (Zoning Policy for Single Family Dwelling
+      Unit/Senate Bill 9 Projects with high bedroom counts). This memorandum establishes
+      guidance and supplementary standards to aid the City in applying the Special Group
+      Residence section of the City’s Municipal Code to housing development applications
+      that utilize ADU Law or SB 9. The memorandum 1) establishes a method to categorize
+      ADU/SB 9 applications as Special Group Residences (which are considered
+      unpermitted by the City) and 2) establishes a method to “rebut” the “presumption” that a
+      housing development application constitutes a Special Group Residence.
+
+      The Policy generally uses the following criteria to determine whether a project
+      constitutes a Special Group Residence:
+
+         •   Housing development projects that involve a combination of single-family
+             dwellings or additions to existing units pursuant to the underlying zone, ADU(s),
+             and SB 9 units.
+         •   These projects “typically” include:
+                o Seven or more bedrooms per lot, or a total bedroom count of more than
+                    one bedroom per 1,000 square feet of lot area, cumulatively.
+                o A bathroom-to-bedroom ratio of 1:2 or greater.
+                o “Minimal to no” common amenity areas.
+                o Kitchen and dining areas “smaller than reasonable” for the “likely number
+                    of residents.”
+         •   Proximity to college campuses and bathrooms accessed via bedrooms “shall be
+             additional indicators that support a presumption that the project is a Special
+             Group Residence.”
+
+      In cases where housing development projects are deemed to constitute Special Group
+      Residences, the Policy provides guidance on how applicants can “rebut” the
+      “presumption” that a housing development proposal constitutes a Special Group
+      Residence. The Policy states that the applicant may provide evidence that “may include,
+      but is not limited to, an affidavit from the applicant describing the purpose(s) of the
+
+      3 Long Beach Municipal Code (LBMC) § 21.15.2810.
+      4 Long Beach Municipal Code (LBMC) § 21.31.205, Table 31-1.
+Alison Spindler-Ruiz, Planning Manager
+Page 3
+
+
+
+      proposed bedroom count and configuration of the unit(s) and/or the intentions for the
+      use of the property demonstrating that it will not function as a Special Group
+      Residence.” In requesting revisions for the 1411 Iroquois Ave. project, the City provided
+      a covenant for the applicant to sign stating that the property would not be used as a
+      Special Group Residence in perpetuity.
+
+      Analysis
+
+      The following analysis identifies ways in which the City’s Special Group Residence
+      Policy conflicts with various state housing laws.
+
+      SB 9
+
+         •   Permitted use – The Policy categorizes units proposed pursuant to SB 9 as a
+             distinct residential use, Special Group Residence, which is not permitted in single
+             family residential zones. 5 However, SB 9 expressly provides for the ministerial
+             approval of qualifying applications in “single-family residential” zones. 6 The City
+             is not authorized to categorically preempt SB 9 by grouping SB 9 units as part of
+             an unpermitted land use. Doing so may also impermissibly preclude SB 9 units
+             from being built on otherwise eligible parcels. 7 The City’s Municipal Code is
+             therefore inconsistent with SB 9.
+
+         •   Subjective standards – The City’s Policy is replete with, and relies upon,
+             subjective standards and procedures. Examples of subjective language include,
+             but are not limited to, a finding that kitchen and dining areas are “smaller than
+             reasonable” for the “likely number of residents.” SB 9 enables a local agency to
+             impose only objective zoning, subdivision, and design review standards. 8
+             Government Code section 65852.21, subdivision (j) defines objective standards
+             to mean “standards that involve no personal or subjective judgment by a public
+             official and are uniformly verifiable by reference to an external and uniform
+             benchmark or criterion available and knowable by both the development
+             applicant or proponent and the public official prior to submittal.” The City’s
+             subjective and conclusory standards are therefore inconsistent with SB 9.
+
+         •   Standards applied uniformly to the underlying zone – The City’s Policy does not
+             apply to proposals that are only single-family dwelling units permitted via the
+             underlying Municipal Zoning Code. However, Government Code section
+             65852.21, subdivision (b)(3) prohibits a local agency from applying any objective
+             standards that “that do not apply uniformly to development within the underlying
+             zone.” The City’s Policy is therefore inconsistent with SB 9.
+
+
+
+
+      5 Long Beach Municipal Code (LBMC) §§ 21.15.2810; 21.31.205, Table 31-1.
+      6 Gov. Code, § 65852.21, subd. (a).
+      7 Gov. Code, § 65852.21, subd. (b)(2).
+      8 Gov. Code, § 65852.21, subd. (b)(1).
+Alison Spindler-Ruiz, Planning Manager
+Page 4
+
+
+
+      ADU Law
+
+      •   Subjective standards and discretionary review – The Policy is replete with subjective
+          language, as discussed above, and requires discretionary review on the part of the
+          Zoning Administrator. 9 Government Code section 66317, subdivision (a) states, “A
+          permit application for an accessory dwelling unit or a junior accessory dwelling unit
+          shall be considered and approved ministerially without discretionary review or a
+          hearing” (emphasis added). The City Policy is therefore inconsistent with state law.
+
+      •   Standards outside the ADU ordinance – The Policy is not contained in the City’s
+          implementing ADU ordinance. Government Code section 66317, subdivision (c)
+          states that “no local ordinance, policy, or regulation, other than an accessory
+          dwelling unit ordinance consistent with this article shall be the basis for the delay or
+          denial of a building permit or a use permit (for an ADU or JADU).” As demonstrated
+          in the 1411 Iroquois Ave. example, the Policy has caused delay and denial of an
+          ADU application and is inconsistent with State ADU Law.
+
+      •   State exempt ADUs – State ADU Law provides for several types of ADUs and
+          JADUs that a local agency must approve ministerially pursuant to Government Code
+          section 66323. 10 Government Code section 66323 creates four categories of ADUs
+          (and JADUs) that are exempt from standards not specifically provided for in that
+          section. 11 In addition to other amendments, the City must amend the Policy to reflect
+          these categories of ADUs and JADUs subject to ministerial approval and not subject
+          to local standards.
+
+      Housing Element Law
+
+      Every jurisdiction’s housing element is required to include a program that sets forth a
+      schedule of actions during the planning period that will affirmatively further fair housing
+      (AFFH) in accordance with Chapter 15 (commencing with Section 8899.50) of Division 1
+      of Title 2. 12 The City of Long Beach’s adopted housing element includes Program 2.4 (A
+      Variety of Housing Types), which commits to accommodate a variety of housing types in
+      high opportunity neighborhoods related to the Land Use Element Founding and
+      Contemporary Neighborhoods PlaceType. In particular, the program provides for an
+      action to evaluate the effectiveness of current City policy on facilitating developments
+      that include large units (with three or more bedrooms) and update City policy if
+      appropriate.
+
+
+      9 The City’s memo states that “The Zoning Administrator shall determine if the
+
+      presumption has been rebutted and the decision of the Zoning Administrator shall be
+      final.”
+      10 For more information on section 66323 Units, see HCD’s January 2025 Updated ADU
+
+      Handbook, pg. 18, available at: https://www.hcd.ca.gov/sites/default/files/docs/policy-
+      and-research/adu-handbook-update.pdf.
+      11 Gov. Code § 66323, subd. (b).
+      12 Gov. Code § 65583, subd. (c)(10).
+Alison Spindler-Ruiz, Planning Manager
+Page 5
+
+
+
+      Implementing program commitments, particularly those relating to AFFH, is imperative
+      for the City to maintain its housing element compliance. In its April 8, 2022, letter finding
+      the City’s adopted housing element substantially compliant with Housing Element Law
+      (Article 10.6 of the Gov. Code), HCD identified the City’s fair housing programs,
+      including those listed in Table F-25. 13
+
+      The Special Group Residence Policy conflicts with Program 2.4. The Policy on its face,
+      and if applied, will nullify the program’s commitments by discouraging a variety of
+      housing types and units with a variety of bedroom counts in high opportunity
+      neighborhoods. The project located at 1411 Iroquois Ave., for example, is in the Highest
+      Opportunity resource area as indicated by the California Tax Credit Allocation
+      Committee 2025 Opportunity Map.
+
+      Anti-Discrimination in Land Use Law
+
+      All local land use decisions and policy-making enactments are subject to Government
+      Code section 65008, known as Anti-Discrimination in Land Use (ALU) Law. Specifically,
+      Government Code section 65008, subdivision (a), deems any action taken by a city,
+      county, or other local governmental agency to be null and void if such action denies to
+      an individual or group of individuals the enjoyment of residence, landownership,
+      tenancy, or any other land use in the state due to discrimination. This law prohibits
+      discrimination based on a protected class such as race, color, religion, sex, gender,
+      gender identity, gender expression, sexual orientation, marital status, national origin,
+      ancestry, familial status, source of income, disability, veteran or military status, or
+      genetic information.
+
+      The City’s Policy intentionally applies bedroom count limits on proposed housing
+      development projects. HCD has determined that a limit on the number of bedrooms
+      could be construed as discriminatory toward protected classes. 14 Additionally, the City’s
+      definition of Special Group Residence in its Municipal Code identifies several types of
+      housing serving protected populations, including “housing for persons with disabilities”
+      and “senior housing.” 15 The City’s Special Group Residence Policy classifies “housing
+      for persons with disabilities” and “senior citizen housing” as Special Group Residences
+      that are either prohibited or subject to discretionary review.
+
+      The City’s Municipal Code and Special Group Residence Policy contain numerous
+      provisions that are inconsistent with ALU Law.
+
+
+
+
+      13 See HCD’s April 8, 2022, housing element review letter for the City of Long Beach,
+
+      available at: https://hcdpowerbi.blob.core.windows.net/housing-
+      elements/LanLongBeachAdoptedIn040822.pdf
+      14 See HCD ADU Handbook pg. 21: “A limit on the number of bedrooms could be
+
+      construed as a discriminatory practice towards protected classes, such as familial
+      status.”
+      15 Long Beach Municipal Code (LBMC) § 21.15.2810.
+Alison Spindler-Ruiz, Planning Manager
+Page 6
+
+
+
+      Prohousing Designation
+
+      The City received a Prohousing Designation on July 14, 2023. HCD appreciates the
+      City’s efforts to become a Prohousing jurisdiction and maintain Prohousing policies. A
+      Prohousing Designation confers multiple benefits to local governments, including
+      eligibility for the Prohousing Incentive Program and additional points or preference in
+      various state funding programs.
+
+      However, HCD may review and revoke a Prohousing Designation if a jurisdiction has,
+      among other things, failed to comply with state housing laws, including SB 9, State ADU
+      Law, Housing Element Law, and ALU Law 16; has failed to implement or enact a
+      proposed Prohousing Policy 17; or has failed to take action or has taken action
+      inconsistent with its housing element. 18 As discussed above, the City’s Special Group
+      Residence Policy is inconsistent with various state housing laws.
+
+      In addition, the City includes a program in Category 2A of its Prohousing Designation
+      application to establish “ministerial approval for a variety of housing types,” including
+      facilitating SB 9 to allow “up to two principle (sic) dwelling units on each single-family
+      zoned lot” and a program in Category 3B to “reduce barriers for property owners to
+      create ADUs/JADUs.” The Special Group Residence Policy conflicts with these policies.
+
+      Finally, as noted above, the Special Group Residence Policy conflicts with Program 2.4
+      of the City’s housing element.
+
+      Failure by the City to remedy conflicts with state housing laws, to implement proposed
+      Prohousing Policies, or to implement housing element program actions may result in
+      HCD commencing a review of the City’s Prohousing Designation. 19
+
+      Conclusion
+
+      As identified above, the Special Group Residence Policy is inconsistent with SB 9, ADU
+      Law, Housing Element Law, and ALU Law. Additionally, the City should assess the
+      Special Group Residence definition and permitting procedures contained in its Municipal
+      Code for consistency with the ALU Law.
+
+      HCD has enforcement authority over SB 9, ADU Law, Housing Element Law, and ALU
+      Law, among others. Accordingly, HCD may review local government actions to
+      determine consistency with these laws. If HCD finds that a jurisdiction’s actions do not
+      comply with state law, HCD may notify the California Office of the Attorney General that
+      the local government is in violation of state law. 20
+
+
+
+      16 CCR, § 6607, subd. (a)(1)(E).
+      17 CCR, § 6607, subd. (a)(1)(A).
+      18 CCR, § 6607, subd. (a)(1)(F).
+      19 See CCR, § 6607, subd. (a)(2)-(8).
+      20 Gov. Code, § 65585, subd. (j).
+Alison Spindler-Ruiz, Planning Manager
+Page 7
+
+
+
+      HCD requests a written response from the City by August 29, 2025 indicating how the
+      City plans to implement the guidance provided in this letter. If you have questions or
+      need additional technical assistance, please contact Brandon Yung at
+      brandon.yung@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability

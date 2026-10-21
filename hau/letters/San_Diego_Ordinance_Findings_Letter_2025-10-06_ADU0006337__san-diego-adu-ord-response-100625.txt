@@ -1,0 +1,201 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 6, 2025
+
+
+
+
+         Heidi Vonblum, Planning Director
+         City of San Diego
+         202 C Street, M.S. 413
+         San Diego, CA 92101
+
+         Dear Heidi Vonblum:
+
+         RE: Review of San Diego’s Accessory Dwelling Unit (ADU) Ordinance under State
+             ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Thank you for submitting the City of San Diego’s (City) ADU Ordinance No. O-21989
+         (Ordinance), adopted July 23, 2025, to the California Department of Housing and
+         Community Development (HCD). The Ordinance was received on July 24, 2025. HCD
+         has reviewed the Ordinance and submits these written findings pursuant to Government
+         Code section 66326, subdivision (a). HCD finds that the Ordinance fails to comply with
+         State ADU Laws in the manner noted below. Pursuant to Government Code section
+         66326, subdivision (b)(1), the City has up to 30 days to respond to these findings.
+         Accordingly, the City must provide a written response to these findings no later than
+         November 5, 2025.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law as follows:
+
+            1. Fire Sprinklers – The City’s July 11, 2025, response to HCD’s May 30, 2025, ADU
+               Ordinance preliminary review states, “The intent of this language is to address
+               scenarios where a detached ADU structure is permitted with multiple attached
+               ADUs. In such cases, fire sprinklers would be required to comply with the
+               California Building Code’s provisions for multifamily buildings.” However, this is
+               inconsistent with State ADU Law. Section 141.0302 (a)(6)(C) of the Ordinance
+               remains unchanged. HCD disagrees that fire sprinklers are always required in a
+               structure consisting of multiple ADUs attached to each other. Government Code
+               section 66323, subdivision (d) states: “The installation of fire sprinklers shall not
+               be required in an accessory dwelling unit if sprinklers are not required for the
+               primary residence.”
+Heidi Vonblum, Planning Director
+Page 2
+
+
+     Therefore, the City must amend this section to remove the requirement for fire
+     sprinklers within ADUs constructed under State ADU Law when the primary
+     dwelling on the lot does not require fire sprinklers.
+
+   2. Unit Size – The City’s response to HCD’s May 30, 2025, ADU Ordinance
+      preliminary review states, “GC 66314 allows cities to set an ADU size maximum of
+      1,200 square feet…” and “HCD’s interpretation is that detached ADUs on a lot with
+      a multifamily dwelling unit do not have maximum floor area. The City Planning
+      Department requests further clarification and citations to the Government Code so
+      we can better understand this interpretation.” Section 141.0302(b)(7)(B) includes
+      the same language as was cited in HCD’s May 30, 2025, review. An ADU
+      detached from a multifamily dwelling does not have a maximum floor area,
+      because such ADUs are reviewed pursuant to Government Code section 66323,
+      subdivision (a)(4), which does not include size restrictions. Further, Government
+      Code section 66323, subdivision (b) states, “A local agency shall not impose any
+      objective development or design standard that is not authorized by this section
+      upon any accessory dwelling unit that meets the requirements of any of
+      paragraphs (1) to (4), inclusive, of subdivision (a).”
+
+      Therefore, the City must amend the Ordinance to exempt ADUs proposed under
+      Government Code section 66323, subdivision (a) from size limitations which are
+      not imposed within that subdivision.
+
+   3. Fire Separation Distance vs. Setbacks – The City’s response to findings 8 and 10
+      of HCD’s May 30, 2025, ADU Ordinance preliminary review states, “The use of the
+      term “may” is intended to provide the Fire Code Official the authority to enforce
+      any separation requirements when needed by law. The intent of this section is to
+      inform applicants that the setbacks outlined for each zone in the municipal code
+      and the ADU setbacks in Chapter 14 may be increased to ensure compliance
+      with applicable fire safety requirements.”
+
+      However, sections 141.0302(b)(9)(C)(i) and (b)(9)(D)(i) of the Ordinance both
+      begin with, “For ADU Structures located on a premises outside a High or Very
+      High Fire Hazard Severity Zone....” They go on to state that “the Fire Code
+      Official may require a greater setback to ensure compliance with California Code
+      of Regulations (CCR) Title 14 Section 1276.01 and the International Fire Code
+      (IFC), including section 504.1,” which is codified into the California Fire Code
+      (CFC) through CCR Title 24, Part 9, section 504.1.
+
+      CCR section 1276.01 only applies within State Responsibility Areas and High or
+      Very Fire Hazard Severity Zones (HFHSZ or VHFHSZ), while these Ordinance
+      provisions apply to areas outside an HFHSZ or VHFHSZ. Thus, the Fire Official’s
+      ability to require greater fire separation distances within a VHFHSZ does not
+      apply here, because these sections of the Ordinance specifically apply to areas
+      outside VHFHSZs.
+Heidi Vonblum, Planning Director
+Page 3
+
+
+
+      Additionally, Section 504.1 of the CFC is about points of access, including doors,
+      openings, and walkways. It does not address setbacks or fire separation
+      distances. Thus, again, this section of the CFC does not give the Fire Official
+      authority to require greater fire separation distances, particularly for areas
+      outside VHFHSZs, which the Ordinance provisions refer to. HCD also notes that
+      “setbacks” are development standards regulated by State ADU Law, whereas
+      “fire separation distance” is a separate and distinct standard with a specific
+      definition within the Building and Fire Codes. Setbacks are set by law or
+      ordinance, whereas fire separation distances can be variable based on a number
+      of factors, including exterior wall design. By using the terms interchangeably, the
+      City invites confusion about which standards apply to a specific ADU
+      development proposed by an individual applicant. The City should make clear
+      that “setbacks” apply universally as laid out in State ADU Law, whereas “fire
+      separation distances” apply only in specific instances. An ADU applicant subject
+      to a “fire separation distance” should be made aware of that fact, but using the
+      term “setback” in that case is incorrect.
+
+      HCD would find the following revisions to the City’s Ordinance compliant with
+      State ADU Law. Deletions are indicated in red strikeout and additions are
+      indicated in blue italics.
+
+      Ordinance section 141.0302(b)(9)(C)(i):
+
+             For ADU structures located on a premises outside of a High or Very High
+             Fire Hazard Severity Zone, there is no minimum interior side yard and rear
+             yard setbacks, except that the Fire Code Official may require a greater
+             setback fire separation distance to ensure compliance with the California
+             Building Standards Code, Title 24 of the California Code of Regulations.
+             California Fire Code, California Code of Regulations (CCR), Title 14,
+             Section 1276.01, and the International Fire Coxe (IFC), including section
+             504.1
+
+      Ordinance section 141.0302(b)(9)(D)(i):
+
+             For ADU structures located on a premises outside of a High or Very High
+             Fire Hazard Severity Zone, there is no minimum interior side yard and rear
+             yard setbacks, except that the Fire Code Official may require a greater
+             setback fire separation distance to ensure compliance with the California
+             Building Standards Code, Title 24 of the California Code of Regulations.
+             California Fire Code. However, if the side or rear property line abuts
+             another premises that is residentially zoned or developed with exclusively
+             residential uses, the minimum interior side yard and rear yard setbacks
+             shall be 4 feet or the minimum setback of the applicable base zone,
+             whichever is less, except that the Fire Code Official may require a greater
+      Heidi Vonblum, Planning Director
+      Page 4
+
+
+                    setback fire separation distance to ensure compliance with California
+                    Building Standards Code, Title 24 of the California Code of Regulations.
+                    California Fire Code, California Code of Regulations (CCR), Title 14,
+                    Section 1276.01, and the International Fire Coxe (IFC), including section
+                    504.1
+
+          4. Separate Sale – The City’s response to HCD’s May 30, 2025, ADU Ordinance
+             preliminary review states that section 141.0302(g)(3)(B) has been removed from
+             the Ordinance. However, this section remains unchanged in the Ordinance and is
+             missing the contents of Government Code section 66341, subdivision (c)(5),
+             regarding separate sale of an ADU with a tenancy in common agreement
+             recorded after December 31, 2021.
+
+             Therefore, the City must amend the Ordinance to include the tenancy in common
+             requirements of Government Code section 66341, subdivision (c)(5).
+
+      The City has two options in response to this letter. 1 The City can either amend the
+      Ordinance to comply with State ADU Law 2 or adopt the Ordinance without changes and
+      include findings in its resolution accompanying the Ordinance that explain the reasons
+      the City believes that the Ordinance complies with State ADU Law despite HCD’s
+      findings. 3 If the City fails to take either course of action and bring the Ordinance into
+      compliance with State ADU Law, HCD must notify the City and may notify the California
+      Office of the Attorney General that the City is in violation of State ADU Law. 4
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact Tyler Galli at tyler.galli@hcd.ca.gov if you have any
+      questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Policy Development Division
+
+
+
+
+1
+  Gov. Code, § 66326, subd. (c)(1).
+2
+  Gov. Code, § 66326, subd. (b)(2)(A).
+3
+  Gov. Code, § 66326, subd. (b)(2)(B).
+4
+  Gov. Code, § 66326, subd. (c)(1).

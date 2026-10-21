@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026121",
+  "case_number": "HAU0002310",
+  "letter_date": "2026-06-10",
+  "jurisdiction": "Greenfield",
+  "letter_type": "Determination Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300(b)(1)",
+  "n_statutes": "1",
+  "keywords": "moratorium",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/greenfield-moratorium-061026.pdf",
+  "hcd_letter": "Greenfield Determination Letter 06/10/2026",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/greenfield-moratorium-061026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 291026,
+  "text_chars": 18029,
+  "text_empty": false
+}

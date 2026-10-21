@@ -1,0 +1,165 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         April 18, 2025
+
+
+         Patty Nevins, Director of Planning
+         City of Fontana Planning Department
+         8353 Limonite Avenue
+         Fontana, CA 92335
+
+         Dear Patty Nevins:
+
+         RE: Fontana Housing Crisis Act Unit Bank – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the compliance of the City of Fontana’s (City)
+         No Net Loss Program Ordinance (Program) 1 with the Housing Crisis Act of 2019 (HCA). 2
+         Among other provisions, the HCA requires concurrent compensatory increases in
+         residential development capacity when a local government reduces the intensity of land
+         use for a parcel. The purpose of this letter is to provide technical assistance for the
+         benefit of the City on whether the City’s No Net Loss Program complies with the HCA.
+
+         Background
+
+         HCD understands that the City’s Program was created in October 2022 as an alternate
+         pathway for compliance with the no net loss provisions of the Housing Crisis Act. 3 Under
+         the Program, the City maintains a “unit bank” that receives development capacity
+         (measured in housing units) that are lost when the City takes an action that reduces the
+         development capacity (e.g., downzones a parcel). The bank can hold up to 2,200 units.
+         These units can be held indefinitely until withdrawn and applied to housing developments
+         located on residentially zoned parcels at least one acre in size through a 20-percent
+         density bonus. Because of the bank’s capacity limit, would-be applicants are dependent
+         on the bank either having units to withdraw or excess space to deposit units into. If the
+         bank is completely depleted, applicants will not be able to use the associated density
+         bonus. If the bank has no available capacity for deposits, applicants will need to offset
+         their reduction in development capacity by using concurrent and equivalent increases in
+         capacity on other parcels. HCD understands that these additional units through the unit
+         back are separate from any units that a project may receive through the application State
+         Density Bonus Law.
+
+
+1 Article XV of the City of Fontana Zoning and Development Code)
+2 Gov. Code, § 66300.
+3 Gov. Code, § 66300(b)(1)(A).
+      Patty Nevins, Director of Planning
+      Page 2
+
+
+      HCD understands that developments that reduce land use intensity have been
+      depositing units into the bank. In June 2023, the City approved two projects that rezoned
+      residentially zoned land to commercial zones to facilitate the development of
+      warehouses. The two projects between them deposited 1,280 units into the bank. HCD
+      further understands that no units have yet to be withdrawn from the bank, though some
+      projects are considering doing so.
+
+      HCA Compliance
+
+      Government Code section 66300 prohibits changing the land use designation or zoning
+      of a parcel to a less intensive use or reducing the intensity of land use below what was
+      allowed by the land use designation or zoning that was in effect on January 1, 2018. An
+      exception to this is if the local government “concurrently changes the development
+      standards, policies, and conditions applicable to other parcels within the jurisdiction to
+      ensure that there is no net loss in residential capacity,” where “concurrently” is defined
+      as the same meeting of the legislative body. Therefore, the relevant question is: Does
+      the deposit into the unit bank of lost land use intensity constitute a concurrent
+      change that satisfies the requirements of the HCA?
+
+      The answer is “no.” Although the City’s No Net Loss program and its associated unit
+      bank is technically a standard, policy, or condition, it fails to comply with the statutory
+      mandate of Government Code section 66300 for the following reasons:
+
+         •   Meaning of “Other Parcels.” Unlike the conventional process of increasing
+             capacity on identified parcels, the unit bank concept does not involve the
+             identification of the specific parcel(s) that will receive the transferred development
+             capacity – the method of compliance contemplated by the HCA. A plain language
+             interpretation of the statutory language points to “other parcels” meaning specific
+             identified parcels and not all other residentially zoned land in the City. A review of
+             the bill analyses written for the bill that established the HCA does not include any
+             discussion of alternative means of compliance (e.g., a unit bank and associated
+             local density bonus program). 4 To the contrary, the analysis describes only the
+             conventional pathway of identifying and concurrently upzoning specific parcels
+             located elsewhere in the jurisdiction. This suggests that the Legislature did not
+             consider unit banks as a form of compliance at the time the bill was passed.
+
+         •   Meaning of “Concurrent.” The term “concurrent” means that the city is
+             responsible for identifying and reallocating the shortfall of capacity at the time in
+             which the downzoning action occurs. However, under the unit bank system, the
+             future location of the increased capacity is unknowable by definition and defers
+             decision-making about where to reallocate residential capacity to some future
+             time.
+
+
+4 SB 330 (Chapter 654, Statutes of 2019).
+Patty Nevins, Director of Planning
+Page 3
+
+
+   •   Unequal Transfer of Development Rights. The associated density bonus
+       program does not provide the same development rights as would be gained from
+       upzoning one or more parcels. To successfully transfer development capacity
+       under the Program, prospective applicants must meet the Program’s many new
+       requirements and await approval. For instance, the receiving site must be at least
+       one acre in size, and the density bonus can only be used on residentially zoned
+       parcels. This differs vastly from a concurrent transfer process, where a property
+       would be immediately identified to take the extra housing capacity. The Program
+       creates an inherently unequal and uncertain process, trading the legal surety of a
+       zoning district for a merely potential increase in density.
+
+   •   Affirmatively Furthering Fair Housing. The Program puts the future location of
+       the transferred development capacity into the hands of a future applicant. This
+       denies the opportunity for the local government to Affirmatively Further Fair
+       Housing (AFFH) per Assembly Bill 686 (Chapter 958, Statutes of 2018) at the time
+       the reduction in residential development capacity occurs. “Banking” development
+       capacity, potentially indefinitely, has the potential to reduce housing for historically
+       disadvantaged communities for years without recourse until a future applicant
+       comes along. AFFH is a critical part of a jurisdiction’s housing element, and the
+       distribution of development capacity can have significant material effects on fair
+       housing in the jurisdiction.
+
+   •   Questionable Program Efficacy. The empirical performance of the Program is
+       also questionable. According to City staff, in the two years that the Program has
+       been in effect, no developer has withdrawn units from the bank. As such, the
+       Program has effectively only been a way for the City to reduce its development
+       capacity without consequence. If this trend continues in the long term, the City
+       may reduce its development capacity by up to 2,200 units with no guarantee that
+       the units will be distributed to other parcels.
+
+Conclusion
+
+HCD finds that the City has reduced its development capacity by the number of units
+currently deposited in the unit bank which is inconsistent with the HCA. The City must
+remedy the inappropriate use of the unit bank to satisfy the HCA immediately by taking
+actions that would create residential development capacity equivalent to 1,280 units.
+This would most commonly be accomplished by identifying and upzoning parcels to
+compensate for the lost capacity. HCD requests a response from the City by
+June 18, 2025, that includes a plan to remedy this issue.
+
+HCD remains committed to supporting the City in facilitating housing at all income levels
+and hopes the City finds this clarification helpful. HCD would like to remind the City that
+HCD has enforcement authority over the HCA, among other state housing laws.
+Accordingly, if HCD finds that a city’s actions do not comply with state law, HCD may
+notify the California Office of the Attorney General that the local government is in
+Patty Nevins, Director of Planning
+Page 4
+
+
+violation of state law. If you have questions or need additional information, please
+contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Proactive Housing Accountability Unit Chief

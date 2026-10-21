@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021044",
+  "case_number": "HAU0002921",
+  "letter_date": "2025-03-17",
+  "jurisdiction": "Torrance",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/torrance-he-rezone-loi-031725.pdf",
+  "hcd_letter": "Torrance Letter of Inquiry 03/17/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/torrance-he-rezone-loi-031725.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 157558,
+  "text_chars": 4561,
+  "text_empty": false
+}

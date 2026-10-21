@@ -1,0 +1,194 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 1, 2024
+
+
+
+         Lisa Webber, AICP, Deputy Director of Project Planning
+         City of Los Angeles
+         200 North Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Lisa Webber:
+
+         RE: City of Los Angeles State Density Bonus Law Implementation –
+             Lemona Apartments Project – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) Housing
+         Accountability Unit (HAU) received a request for technical assistance from Rafa
+         Sonnenfeld of YIMBY Law (Requestor) regarding the application of the State Density
+         Bonus Law (SDBL) and calculation of base density (Gov. Code, § 65915 et seq. 1) for
+         the proposed housing project to be located at 10346 and 10338 Lemona Ave (HAU
+         Case No. 647). This letter provides technical assistance for the benefit of both the City
+         of Los Angeles (City) and the Requestor.
+
+         HCD understands the application proposes a 154-unit development project with 153
+         units reserved for lower-income households and one manager’s unit. According to the
+         City’s ZIMAS online map, the site is zoned A2-1-O Agriculture; its general plan land use
+         designation is “low residential” in the Mission Hills – Panorama City – North Hills
+         Community Plan 2 (“General Plan”); and it is in a very low vehicle miles traveled (VMT)
+         area. 3 The request for technical assistance pertains to the SDBL and the applicable
+         base density for the 1.97-acre site, and whether the proposed development project
+         requires a zoning change.
+
+         Question 1. What is the applicable base density for 10346 and 10338 Lemona
+         Avenue (“site”)?
+
+         Response. For purposes of applying the SDBL, the maximum allowable density
+         (“base density”) for the site is 9 units per acre, which yields the greatest number of
+
+
+1 HCD has authority to enforce SDBL pursuant to Government Code section 65585, subdivision (j)(3).
+2 Mission Hills Community Plan (1999). https://planning.lacity.gov/odocument/fee68461-843f-48da-
+
+92e9-49a01d1f09e3/Mission_Hills-Panorama_City-North_Hills_Community_Plan.pdf
+3 City of Los Angeles, ZIMAS Map. https://zimas.lacity.org/
+       Lisa Webber, AICP, Deputy Director of Project Planning
+       Page 2
+
+
+
+       units allowed within the low residential land use designation. Therefore, the 1.97-acre
+       site would yield 18 units in its base density, which allows the project to qualify as a
+       “housing development” under SDBL 4.
+
+       AB 2334 (Chapter 651, Statutes of 2022, effective January 1, 2023) and AB 1287
+       (Chapter 755, Statutes of 2023, effective on January 1, 2024) clarified the definition of
+       “maximum allowable residential density” or “base density” to mean: “…the greatest
+       number of units allowed under the zoning ordinance, specific plan, or land use element
+       of the general plan, or, if a range of density is permitted, means the greatest number of
+       units allowed by the specific zoning range, specific plan, or land use element of the
+       general plan applicable to the project.” 5
+
+       AB 1287 also further clarifies that any inconsistency between planning documents is
+       irrelevant by removing the sentence that read, “If the density allowed under the zoning
+       ordinance is inconsistent with the density allowed under the land use element of the
+       general or specific plan, the greater shall prevail.” Please be advised that the SDBL
+       “shall be interpreted liberally in favor of producing the maximum number of total housing
+       units.” 6
+
+       HCD considered the following candidate densities from (1) the City’s Zoning Code and
+       (2) General Plan, with the understanding that the City’s zoning generally determines
+       density through a minimum lot area per dwelling unit calculation, which can be
+       converted to a units per acre standard, while the general plan uses a dwelling units per
+       acre calculation.
+
+       Candidate Base Density #1: Zoning Code. The A2 (Agriculture) zone permits one
+       dwelling per acre, with a maximum of two dwellings permitted on a lot. 7 This would
+       represent a base density of two units.
+
+       Candidate Base Density #2: General Plan. The General Plan designates land use
+       densities as indicated in the “Plan Population and Dwelling Unit Capacity” table listed on
+       page III-2. For the Low Residential land use designation, the table identifies a density
+       range of “4+ to 9 dwelling units per acre”. Therefore, the highest available density in the
+       permitted range would be 9 dwelling units per acre. 8 This would represent a base
+       density of 18 units.
+
+
+
+
+4 Gov. Code, § 65915 subd. (i).
+5 Gov. Code, § 65915, subd. (o)(6).
+6 Gov. Code, § 65915, subd. (r).
+7 City of Los Angeles Municipal Code, §12.06(C)(2) Lot Area.
+8 While not relevant to the issue at hand, HCD notes that the density permitted by the project site’s
+
+current zoning (A2 – Agriculture) density falls outside of the range identified in the Low Residential
+General Plan Land Use Designation.
+      Lisa Webber, AICP, Deputy Director of Project Planning
+      Page 3
+
+
+
+      •   General Plan Land Use Map Footnotes. HCD understands the City relies on
+          footnote 12 of the General Plan Land Use Map to allow for more restrictive zones
+          (i.e., less intensive uses) permitted by the municipal code but not listed in the Map
+          legend. However, this footnote is irrelevant for purposes of determining the
+          applicable base density under the SDBL. The site’s General Plan Land Use
+          Designation is plainly identifiable as Low Residential. Footnote 4, an additional
+          footnote discussed in the meeting between the City and HCD, is likewise irrelevant
+          for the purpose at hand. Footnote 4 of the Land Use Map states: “Development in
+          low density areas shall not preclude approval of RD6 density on large areas of over
+          12,000 square feet or larger.” RD6 (Restricted Density Multiple Dwelling) permits
+          one dwelling per 6,000 square feet of lot area, which converts to a density of 7.26
+          units per acre, and the site exceeds 12,000 square feet. The discussion of footnotes
+          12 and 4 are included in this letter only to memorialize their prior mention.
+
+      •   General Plan Low Residential Corresponding Zones. The City issued an SDBL
+          memo on the “Implementation of AB 2334, 1551, 682” dated January 31, 2023 9.
+          Regarding maximum residential density, it states: “The density permitted by the
+          general plan is based on the General Plan Land Use designation for a property. If
+          the designation allows for a greater density through one of the corresponding zones
+          in the permitted range, then it shall be used to calculate maximum allowable
+          residential density for density bonus projects. This definition applies to properties
+          that may have zoning limitations or prohibitions on residential use.” According to the
+          General Plan Land Use Map, the Low Residential land use designation corresponds
+          to RE9, RS, R1, and RU zones. While the policy described in the City’s memo is
+          ostensibly permissive, it has no bearing on how base density is determined pursuant
+          to the SDBL. The “permitted range” is that listed in the General Plan Land Use
+          Density Table for the applicable Land Use Designation.
+
+      Therefore, the base density for the project site is 9 units per acre (18 units), the top of
+      the permitted range identified in the General Plan Density Table for the Low Residential
+      land use designation.
+
+      Question 2: Does the development project require a general plan amendment
+      and/or zoning change?
+
+      Response: In accordance with Government Code section 65915, subdivision
+      (f)(5), the granting of a density bonus, in and of itself, shall not require a general
+      plan amendment, zoning change, or other discretionary approval. The project as
+      currently proposed meets the definition of 100 percent affordable 10 and therefore,
+      qualifies for an “unlimited” density bonus pursuant to Government Code section 65915,
+
+
+9 City of Los Angeles, “Implementation of 2022 State Density Bonus Laws – AB 2334, AB 1551, AB
+
+682)”. (January 31, 2023). https://planning.lacity.gov/odocument/ce5fae12-a3da-4046-a8b8-
+2ceb858cbb40/AB%202334,%201551,%20682%20(2022)%20Density%20Bonus%20Memo.pdf
+10 Gov. Code, § 65915, subd. (b)(1)(G).
+      Lisa Webber, AICP, Deputy Director of Project Planning
+      Page 4
+
+
+
+      subdivision (f)(3)(D)(iii), for a 100-percent affordable housing development in a very low
+      vehicle travel area. Furthermore, the project shall receive up to five incentives or
+      concessions 11
+
+      Conclusion
+
+      In summary, HCD finds that, for the purposes of the SDBL, the applicable base density
+      for the site is nine units per acre and the City shall not require a general plan
+      amendment or zoning change in the granting of density bonus for the proposed 100
+      percent affordable development project.
+
+      HCD appreciates the challenges of implementing ever changing state housing laws and
+      is committed to supporting the City of Los Angeles in achieving planning objectives.
+      HCD may review local government actions and inactions to determine consistency with
+      these laws and may notify the California Office of the Attorney General if a local
+      government is in violation of state law. (Gov. Code, § 65585, subd. (j).) If you have any
+      questions or need additional information, please contact Grace Wu, of our staff, at
+      grace.wu@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+
+
+
+11 Gov. Code, § 65915, subd. (d)(2)(D).

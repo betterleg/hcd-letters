@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025786",
+  "case_number": "ADU0008357",
+  "letter_date": "2026-05-11",
+  "jurisdiction": "San Diego County",
+  "letter_type": "Technical Assistance Letter - Repeal Request",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Repeal Request",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-diego-county-adu-ta-05112026.pdf",
+  "hcd_letter": "San Diego County Technical Assistance Letter - Repeal Request 05/11/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-diego-county-adu-ta-05112026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225916,
+  "text_chars": 9576,
+  "text_empty": false
+}

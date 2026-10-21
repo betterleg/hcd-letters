@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0016407",
+  "case_number": "HAU0001162",
+  "letter_date": "2024-08-06",
+  "jurisdiction": "Fresno County",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Anti-Discrimination in Land Use Law | Housing Element Law",
+  "statutes": "65008(a)(1)(B)(3) | 65008(b)(2)(B) | 65580(a)",
+  "n_statutes": "3",
+  "keywords": "No Place Like Home",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fresno-county-hau1162-ta-libre-commons-080524.pdf",
+  "hcd_letter": "Fresno County Technical Assistance Letter 08/06/2024",
+  "housing_law": "Anti-Discrimination in Land Use Law, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fresno-county-hau1162-ta-libre-commons-080524.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 219514,
+  "text_chars": 15260,
+  "text_empty": false
+}

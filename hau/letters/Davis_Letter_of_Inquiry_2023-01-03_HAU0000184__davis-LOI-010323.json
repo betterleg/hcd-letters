@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0011177",
+  "case_number": "HAU0000184",
+  "letter_date": "2023-01-03",
+  "jurisdiction": "Davis",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/davis-LOI-010323.pdf",
+  "hcd_letter": "Davis Letter of Inquiry 01/03/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/davis-LOI-010323.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 202579,
+  "text_chars": 5870,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0011171",
+      "case_number": "HAU0000181",
+      "letter_date": "2022-08-25",
+      "jurisdiction": "Del Mar",
+      "letter_type": "Letter of Inquiry",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65585",
+      "n_statutes": "1",
+      "keywords": "housing element",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/davis-LOI-010323.pdf",
+      "hcd_letter": "Del Mar Letter of Inquiry 08/25/2022",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

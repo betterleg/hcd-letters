@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022192",
+  "case_number": "HAU0002966",
+  "letter_date": "2025-01-15",
+  "jurisdiction": "Morro Bay",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65583.2",
+  "n_statutes": "1",
+  "keywords": "Morro Bay TA Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/morro-bay-rezone-ta-011525.pdf",
+  "hcd_letter": "Morro Bay Technical Assistance Letter 01/15/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/morro-bay-rezone-ta-011525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182755,
+  "text_chars": 3996,
+  "text_empty": false
+}

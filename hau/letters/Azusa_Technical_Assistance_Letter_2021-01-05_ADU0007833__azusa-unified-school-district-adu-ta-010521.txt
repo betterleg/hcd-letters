@@ -1,0 +1,155 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY         GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 5, 2021
+
+
+
+         James Traber
+         Fagen Friedman & Fulfrost, LLP
+         520 Capitol Mall, Suite 400
+         Sacramento, CA 95814-4713
+
+         RE: Azusa Unified School District Accessory Dwelling Unit (ADU) Fees –
+             Letter of Technical Assistance
+
+         Dear James Traber:
+
+         The California Department of Housing and Community Development (HCD)
+         received the email you sent in your capacity as legal counsel to the Azusa Unified
+         School District (District), dated December 23, 2020, regarding the District’s position
+         that unattached ADUs smaller than 500 square feet are subject to school impact
+         fees. The purpose of this letter is to provide technical advice regarding the
+         application of Government Code sections 65852.150, 65852.2, and 65852.22 to the
+         question of fees that may be charged by the District for ADUs constructed pursuant
+         to these sections. We hope that the following technical assistance is useful to the
+         District and assists it in expeditiously bringing its practices into compliance with
+         State law.
+
+         As you may know, the Legislature declared a severe housing crisis in the State.
+         (Gov. Code, § 65852.150, subd. (a)(5).) For instance, the Legislature found, in the
+         Housing Crisis Act of 2019, that “California is experiencing a housing supply crisis,
+         with housing demand far outstripping supply.” (Stats. 2019, ch. 654 (S.B.330), § 2.)
+         The housing crisis has resulted in increased poverty, increased homelessness
+         including first-time homelessness, increased sprawl and longer commutes, and
+         even forced families to leave the state. (Ibid.) To address this crisis, the Legislature
+         has adopted a number of new housing laws, including new laws to facilitate ADUs.
+         (Gov. Code, § 65852.22, subds. (a)(5), (a)(8) [“California faces a severe housing
+         crisis” and ADUs are “an essential component of California’s housing supply.”].)
+
+         The Legislature has given HCD particular authority to shepherd the development
+         and application of State ADU Law. (Gov. Code, § 65852.2, subd. (h), (i).) Among
+         other things, HCD is charged with reviewing local ordinances for compliance with
+         the law and providing technical assistance in the form of letters and a technical
+         assistance handbook. Among the changes made to facilitate the development of
+         ADUs were limitations on impact fees that may be charged by local agencies. (See,
+James Traber, Fagen Friedman & Fulfrost, LLP
+Page 2
+
+
+e.g., Gov. Code, § 65852.2, subd. (f)(3).) With regard to school fees, as you know,
+HCD has determined that school districts may charge school impact fees, but not
+on ADUs that are less than 500 square feet under section 17620 of the Education
+Code. (HCD, Accessory Dwelling Unit Handbook (September 2020), at p. 13.)
+
+Education Code section 17620 provides in relevant part that school districts may
+levy fees for residential construction, but only as to construction that is either:
+
+   •   “New residential construction;” (Ed. Code, § 17620, subd. (a)(1)(B).)
+
+   •   Or “… to other residential construction, only if the resulting increase in
+       assessable space exceeds 500 square feet.” (Id., subd. (a)(1)(C).)
+
+Looking to Warmington Old Town Associates v. Tustin Unified School District
+(2002) 101 Cal.App.4th 840, the Azusa Unified School District appears to believe
+that the “parameters of the phrase ‘other residential construction’ is limited to
+remodels to existing residential structures.” On this basis, the District contends that
+it may assess school impact fees on unattached ADUs that are less than 500
+square feet but not on otherwise identical but attached ADUs. HCD disagrees.
+
+Warmington does not support the District’s conclusions. First, Warmington involved
+the redevelopment of a site in which 56 apartment units were demolished and
+replaced with 38 new single-family homes. The court there rejected the
+interpretation that the school district could charge fees only for the net increase in
+assessable space that exceeds 500 square feet, reasoning that such an exemption
+would carve a huge hole in the statute for redevelopment that had no statutory
+support. As the court concluded, this large redevelopment project was “new
+residential construction” and not “other residential construction” under section
+17620. Construction of small ADUs accessory to existing dwelling units presents
+wholly different facts. Indeed, Warmington reasoned that the clause applying to
+“other residential construction” was intended to apply to individual homeowners
+making improvements to their own properties. (Warmington, supra, at p. 854.) The
+idea was to encourage homeowners to make such improvements and to apply for
+permits to do so properly. Those concerns apply equally to ADUs (attached or
+detached), which are intended to improve an existing residential property, to be
+accessory to the primary dwelling unit on the property, and to provide critically
+needed housing. (See generally Gov. Code, § 65852.150.)
+
+Second, Warmington did not purport to interpret and reconcile Education Code
+section 17620 with Government Code sections 65852.150, 65852.2, and 65852.22.
+In fact, Warmington predates most of the more expansive recent amendments to
+these sections of Government Code. As noted above, the construction of a small
+ADU as an accessory to an existing structure is not factually similar to the
+construction of 38 single family homes. ADUs are not stand-alone, new residences.
+They are by their very definition accessory to a primary residence and cannot be
+
+                                                                                          2
+James Traber, Fagen Friedman & Fulfrost, LLP
+Page 3
+
+
+conveyed separately from a primary residence. (See, e.g., Gov. Code, § 65852.2,
+subd. (a)(1)(D)(i).) They must be attached to, within an existing structure, or located
+on the same lot as a primary residence. (Id., subd. (a)(1)(D)(iii).) Further, as the
+District concedes, attached ADUs less than 500 feet are “other residential
+construction.” The District cannot assess fees as against such ADUs. There is no
+principled reason—based in statute or caselaw—for distinguishing attached ADUs
+from unattached ADUs, where both are less than 500 square feet, for the purposes
+of assessing fees. They both are all inclusive dwelling units that are accessory to a
+primary dwelling unit.1 As such, whether attached or unattached, HCD considers
+such ADUs to be exempt from impact fees where (1) the “other residential
+construction” is an accessory to an existing structure and (2) less than 500 square
+feet.
+
+We appreciate that the District efforts to comply with ADU law and welcome the
+opportunity to assist the District in expeditiously complying with ADU law and the
+Education Code. Please feel free to contact Greg Nickless, of our staff, at (916)
+274-6244 or greg.nickless@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+cc:      Matt Marquez
+         Director of Economic and Community Development
+         City of Azusa
+
+         David Pai
+         Department of Justice
+         Office of the Attorney General
+
+
+
+
+1
+  The only distinction might be where the attached ADU results in a decrease in the assessible space in the
+primary dwelling unit. In such a case, section 17620 provides for a rebate for the lost assessable space: “The
+calculation of the ‘resulting increase in assessable space’ for this purpose shall reflect any decrease in
+assessable space in the same residential structure that also results from that construction. Where authorized
+under this paragraph, the fee, charge, dedication, or other requirement is applicable to the total resulting
+increase in assessable space.” (Ed. Code, § 17620, subd. (a)(1)(C).)
+
+
+                                                                                                                 3

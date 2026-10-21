@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010745",
+  "case_number": "HAU21-058",
+  "letter_date": "2021-08-10",
+  "jurisdiction": "Anaheim",
+  "letter_type": "Letter of Support",
+  "housing_laws": "Affirmatively Further Fair Housing | Housing Element Law",
+  "statutes": "65583(a)(5) | 65583(a)(7) | 65583(c)",
+  "n_statutes": "3",
+  "keywords": "conditional use permit | memory care | senior | special needs",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/oraAnaheim-SUP-081021.pdf",
+  "hcd_letter": "Anaheim Letter of Support 08/10/2021",
+  "housing_law": "Affirmatively Further Fair Housing, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/oraAnaheim-SUP-081021.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 229778,
+  "text_chars": 7480,
+  "text_empty": false
+}

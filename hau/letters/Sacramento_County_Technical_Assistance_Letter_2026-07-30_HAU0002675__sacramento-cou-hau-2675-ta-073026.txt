@@ -1,0 +1,238 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 30, 2026
+
+
+         Todd Smith, Planning Director
+         County of Sacramento
+         Planning and Environmental Review
+         827 7th Street, Room 225,
+         Sacramento, CA 9581
+         Dear Todd Smith
+         RE: County of Sacramento – SB 9 Implementation – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding a proposed Senate Bill (SB) 9 (Chapter 162,
+         Statutes of 2021) 1 project located in Sacramento County (County) (Assessor Parcel
+         Number 213-0120-038). This letter provides technical assistance to the Requester and
+         the County regarding the eligibility of the County’s Agriculture-Residential (AR) zoning
+         districts for SB 9, consistent with previous HCD technical assistance issued to Placer
+         County2 and the City of Bellflower 3. Additionally, the County posed three specific
+         questions related to this topic.
+
+         Background
+
+         SB 9 allows for the ministerial processing of applications for a parcel map for an urban
+         lot split or a housing development project containing no more than two primary units
+         when certain requirements are met, including that the property is located within “a single-
+         family residential zone.” 4 While some jurisdictions have zoning districts that are readily
+         identifiable as single-family residential, others may have more than one zone that
+         functions as a single-family residential zone. In these instances, the permitted uses,
+         zone district descriptions in the zoning code and the land use designation descriptions in
+         the Land Use Element of the General Plan can be used to identify zones whose primary
+         purpose is single-family residential uses, and which are therefore subject to SB 9.
+
+
+
+
+1 Gov. Code, §§ 65852.21, 66411.7
+2
+  https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/placer-co-hau-1462-
+sb-9-04092025.pdf
+3
+  https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/bellflower-hau-1414-ta-
+052125.pdf
+4 Gov. Code, §§ 65852.21, subd. (a); 66411.7, subd. (a)(3)(A).
+      Todd Smith, Planning Director
+      Page 2
+
+
+
+      As HCD understands, the County has 4 Agricultural-Residential zones (AR 1, AR 2, AR
+      5, and AR 10). These zones have a minimum size requirement ranging from 1 to 10
+      acres.
+
+      Based on our discussions with the County, HCD understands that the County considers
+      AR zones to be ineligible for SB 9 because they allow both residential and agricultural
+      uses. The County views this zoning as distinct from the County’s residential districts
+      based on the zone’s purpose and code intent. The County also indicated that it is
+      common for AR zoned properties to utilize septic systems and/or private wells.
+      Properties in these zones must meet minimum lot sizes of one to two acres pursuant to
+      the County’s Local Agency Management Program (LAMP), which conflict with the
+      minimum lot sizes specified by SB 9.
+
+      Agricultural-Residential Zones
+
+      The Agricultural-Residential (AR) zoning districts qualify as single‑family residential
+      zones for the purposes of SB 9 because their primary intent is to allow single‑family
+      residential uses. According to the County’s zoning code, the first listed “General
+      Purpose” of the AR zones is, “[T]o establish living areas within the County where
+      development is limited to low‑density concentrations of single‑family dwellings.” 5
+      Additionally, the General Purpose of the AR zones does not mention agricultural
+      activity. While the AR zones allow single‑family dwellings as a primary permitted use
+      and don’t allow multifamily residential, these zones do also allow General Agricultural as
+      a primary permitted use. General Agricultural uses include activities such as; cultivation
+      of crops, raising of livestock and sale of locally grown crops. However, the AR zone also
+      contains limitations on the extent of this activity in each of the zones. For example,
+      General Agricultural activity in the AR-1 zone requires a minimum lot width of 150 feet
+      and when hogs are raised in the AR-2 zone a maximum of three hogs are allowed.
+      Given the stated purpose of the AR zones together with the limitations placed on
+      agricultural activity in each zone (but no such limits on single family residential uses),
+      the zoning regulations indicate that the primary purpose of the AR zone is single family.
+
+      In the County’s General Plan, the AR zoned land typically appears to have a land use
+      designation of Agricultural-Residential (AR). In the General Plan, the AR designation is
+      categorized as an “Urban Designation” that is “planned for urban uses and the provision
+      of public services and infrastructure during the time horizon of this Plan” (i.e. 2030).
+      Additionally, the AR designation is further subcategorized as a “Residential Designation”
+      that “provides for rural residential uses, such as animal husbandry, small‑scale
+      agriculture, and other limited agricultural activities).” 6
+
+
+
+
+5 Sacramento County Municipal Code § 2.5.1
+6 https://landuse.saccounty.gov/gp/lu/#i--urban-designations
+      Todd Smith, Planning Director
+      Page 3
+
+
+
+      While the AR zones allow for limited types of agricultural uses as primary permitted
+      uses, they clearly permit single-family residential uses and do not allow multifamily
+      residential development. Based on both the zoning code description and the land use
+      designation, the primary purpose of the AR zones is single-family residential use.
+
+      HCD also understands that in developing its SB 9 regulations, the County
+      comprehensively evaluated various constraints present for AR zones such as rural
+      census designation, unavailability of sewer lines, unavailability of potable water lines
+      and the absence of right-of-way frontage infrastructure. HCD understands these
+      constraints are fairly prevalent in the AR zones therefore the County determined that
+      these zones should be excluded entirely from SB 9 eligibility. HCD advises the County
+      that the AR zones qualify as single family under SB 9 for the reasons stated above and
+      that these zones cannot be automatically excluded due to prevalence of the constraints
+      identified. Instead, the AR zone must be designated as single family for purposes of
+      SB 9 and each SB 9 application must be considered on an individual basis for
+      compliance with applicable regulations related to the constraints (e.g., suitability for
+      septic systems).
+
+      Analysis
+
+      The County requested technical assistance on the following three questions related to
+      HCD’s determination that the AR zones are classified as a single-family zone for
+      purposes of SB 9.
+
+      Question #1. When a property contains an onsite wastewater treatment system
+      (OWTS) or a well, and is subject to a minimum lot size requirement imposed by
+      the local water district does SB 9 require the water district minimum lot sizes to
+      be waived in order to comply with the SB 9 lot size requirements?
+
+      Answer: As HCD understands, minimum lot size requirements are contained in Local
+      Area Management Plans (LAMP). These regulations are authorized by and implement
+      state water law. 7 They are intended to protect water quality, ensure adequate
+      infrastructure capacity, and manage wastewater disposal. The County requires a
+      minimum lot size of two acres for parcels that use both an OWTS and a private well and
+      one acre for parcels that have a public potable water source but no sewer and therefore
+      utilize an OWTS. However, SB 9 specifies that for an urban lot split, a local agency
+      cannot require a minimum lot size larger than 1,200 square feet.
+
+      The County must harmonize the LAMP regulations with SB 9 to the maximum extent
+      possible. HCD also notes that SB 9 does not contain any language indicating that SB 9
+      standards would supersede LAMP regulations. While in some cases this may ultimately
+      prevent the use of SB 9 on smaller lots because it would represent an unmitigatable
+      “specific, adverse impact” (as defined), it should not impede the use of SB 9 on larger
+
+
+
+7 CA Water Code §§ 13290-13291.7.
+Todd Smith, Planning Director
+Page 4
+
+
+
+lots that can meet the LAMP’s objective minimum lot size standards or in circumstances
+where mitigation is possible.
+
+If the County were to determine that an urban lot split’s noncompliance with LAMP
+minimum lot size requirements would constitute a specific, adverse impact, Code
+section 66411.7, subdivision (d), provides that, “a local agency may deny an urban lot
+split… based upon a preponderance of the evidence, that the proposed housing
+development project would have a specific, adverse impact, as defined and determined
+in paragraph (2) of subdivision (d) of Section 65589.5… for which there is no feasible
+method to satisfactorily mitigate or avoid the specific, adverse impact.” However, as part
+of making the required SB 9 denial findings the County should also carefully consider if
+there is a feasible method to satisfactorily mitigate the impact that also complies with
+the LAMP. For example, there may be instances where an offsite water or sewer
+extension could bring a project proposal into compliance with objective standards of the
+LAMP and mitigate the specific adverse impact. See the answer to Question 3, below.
+
+Question #2. Are properties located within census designated “Rural Areas”
+eligible for SB 9?
+
+Answer: No. Government Code section 65852.21, subdivision (a)(1), and 66411.7,
+subdivision (a)(3)(B), require that an eligible property be “[L]ocated within a city, the
+boundaries of which include some portion of either an urbanized area or urban cluster,
+as designated by the United States Census Bureau, or, for unincorporated areas, a
+legal parcel wholly within the boundaries of an urbanized area or urban cluster, as
+designated by the United States Census Bureau.” Properties currently located in census
+designated Rural Areas do not meet the statutory eligibility criteria and therefore are not
+eligible for SB 9.
+
+Question #3. Can the County impose offsite frontage (e.g. sidewalks and other
+improvements in the public right-of-way) or offsite utility improvements in areas
+where no frontage improvements currently exist or public utilities do not extend?
+
+Answer: The answer depends on whether the application is for an urban lot split or SB 9
+unit development. For an urban lot split application, the County may not require offsite
+improvements. Government Code section 66411.7, subd. (b)(3), states, “Notwithstanding
+Section 66411.1 a local agency shall not impose regulations that require dedications of
+rights-of-way or the construction of offsite improvements for the parcels being created as
+a condition of issuing a parcel map for an urban lot split pursuant to this section.”
+
+For residential developments processed under Government Code section 65852.21,
+there is no similar prohibition. Therefore, offsite improvements may be required at the
+time of SB 9 unit construction to the extent they do not conflict with section 65852.21,
+subdivision (b)(3), which provides that, “a local agency shall not impose objective
+zoning standards, objective subdivision standards, and objective design standards that
+do not apply uniformly to development within the underlying zone.”
+Todd Smith, Planning Director
+Page 5
+
+
+
+Conclusion
+
+The County’s AR zones qualify as single-family for purposes of SB 9. The County must
+amend its SB 9 implementing ordinance to include these zones.
+
+HCD remains committed to supporting the County of Sacramento in facilitating housing at
+all income levels and hopes the County finds this clarification helpful. In addition, HCD
+has enforcement authority over SB 9 among other state housing laws. Accordingly, HCD
+may review local government actions to determine consistency with these laws. Pursuant
+to Government Code 65585, subdivision (j), if HCD finds that a jurisdiction’s actions do
+not comply with state law, HCD may notify the California Office of the Attorney General.
+
+HCD requests a written response from the County by August 28, 2026, indicating how
+the County plans to implement the guidance provided in this letter. If you have any
+questions about this letter or require additional technical assistance, please contact
+Troy Andres at troy.andres@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Brian Heaton
+Housing Accountability Unit
+Section Chief, Land Use Policy
+Housing Policy Development Division

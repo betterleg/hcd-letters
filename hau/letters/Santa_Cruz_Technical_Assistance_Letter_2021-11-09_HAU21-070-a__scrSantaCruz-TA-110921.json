@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0018834",
+  "case_number": "HAU21-070-a",
+  "letter_date": "2021-11-09",
+  "jurisdiction": "Santa Cruz",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "statutes": "17929(a)(2)",
+  "n_statutes": "1",
+  "keywords": "SB 35",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/scrSantaCruz-TA-110921.pdf",
+  "hcd_letter": "Santa Cruz Technical Assistance Letter 11/09/2021",
+  "housing_law": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/scrSantaCruz-TA-110921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 281980,
+  "text_chars": 5679,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0010688",
+      "case_number": "HAU21-070",
+      "letter_date": "2021-11-09",
+      "jurisdiction": "Santa Cruz",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Affirmatively Further Fair Housing | Streamlined Ministerial Approval Process (SB 35 of 2017)",
+      "statutes": "8899.50",
+      "n_statutes": "1",
+      "keywords": "Streamlined Ministerial Approval Process | affirmatively furthering fair housing",
+      "n_keywords": "2",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/scrSantaCruz-TA-110921.pdf",
+      "hcd_letter": "Santa Cruz Technical Assistance Letter 11/09/2021",
+      "housing_law": "Affirmatively Further Fair Housing, Streamlined Ministerial Approval Process (SB 35 of 2017)"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                        GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+          September 3, 2026
+
+
+          Michael Branson, Senior Deputy City Attorney
+          City of Oakland
+          One Frank H. Ogawa Plaza, Sixth Floor
+          Oakland, CA 94612
+
+          Dear Michael Branson:
+
+          RE:       City of Oakland – Enacted Ordinance to Implement SB 79 (Gov. Code, §§
+                    65912.155 - 65912.162) – Letter of Technical Assistance
+
+          Thank you for submitting a letter on July 3, 2026, along with revised supporting
+          documents on June 29, 2026, July 20, 2026, and July 23, 2026, in response to the
+          California Department of Housing and Community Development’s (HCD) Senate Bill
+          (SB) 79 ordinance review letter dated June 12, 2026. 1
+
+          The City of Oakland (City) has not yet amended its adopted and enacted Ordinance No.
+          13875 (Ordinance) to address HCD’s findings; therefore, the Ordinance remains out of
+          substantial compliance with SB 79. However, based on the revised supporting
+          documents, HCD provides the following technical assistance.
+
+          Technical Assistance
+
+          According to the City’s response letter and revised supporting documents (detailed in
+          Attachment A, Table 1 below), the Ordinance’s temporary exclusions satisfy the
+          following statutory requirements:
+
+          1. Sites that permit a density and residential floor area ratio at no less than 50 percent
+             of the standards specified under Government Code section 65912.157, subdivision
+             (a), pursuant to Government Code section 65912.161, subdivision (b)(1)(A);
+          2. Sites in a TOD zone primarily comprised of a low resource area and densities that
+             cumulatively allow for at least 40 percent of the aggregate density for the TOD zone
+             specified under Section 65912.157, subdivision (a), pursuant to Government Code
+             section 65912.161, subdivision (b)(1)(B)(ii); and
+          3. Sites with historic resources designated as of January 1, 2025 on the local register,
+             pursuant to Government Code section 65912.161, subdivision (b)(1)(F).
+
+
+1 Available at: https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+
+community/HAU/oakland-sb-79-out-hau-3152-061226.pdf
+Michael Branson, Senior Deputy City Attorney
+Page 2
+
+
+
+       In addition, the City’s zoning map, 2 adopted in accordance with Government Code
+       section 65912.161, subdivision (b)(2), correctly identifies the sites subject to the
+       provisions of SB 79.
+       HCD understands that the City will amend Section 17.86.050 (Eligibility) of its
+       Ordinance in October 2026 pursuant to Government Code section 65912.160,
+       subdivision (d)(5)(A), to be consistent with the City’s map and to ensure substantial
+       compliance with SB 79. 3,4 Furthermore, the City has clarified on its SB 79 website that
+       the Ordinance amendments will be made. 5
+       Conclusion
+       Based on the information provided, HCD looks forward to receiving the City’s amended
+       Ordinance pursuant to Government Code section 65912.160, subdivision (d) to bring its
+       Ordinance into substantial compliance with SB 79. HCD reserves the right to request
+       additional information to ensure substantial compliance with SB 79 and may update its
+       findings if new information comes to light. HCD appreciates the cooperation of the City
+       of Oakland’s staff and hopes this letter has been helpful. If you have questions or need
+       additional information, please contact me at grace.wu@hcd.ca.gov.
+       Sincerely,
+
+
+
+
+       Grace Wu
+       Section Chief, Transit-Oriented Development
+       Housing Accountability Unit
+
+       Enclosure
+       Attachment A – Table 1 City of Oakland Submittal Documents
+
+2 Oakland S-8 Combining Zone (SB 79) Map, available at:
+
+https://oakgis.maps.arcgis.com/apps/mapviewer/index.html?webmap=53d0a204f8ad451f9d9b
+748a1ebbf563.
+3 The City will remove the following zones to clarify that the zones are eligible for SB 79: OS
+
+Open Space Zone; M-40, CIX-, IG, IO Industrial Zones; D-CE-5 and D-CE-6 Central Estuary
+District Industrial Zone; D-GI Gateway District Industrial Zone; and D-CO-5, D-CO6.
+4 The City will also correct a clerical error in Section 17.86.060(B) (Exclusions) which identifies
+
+AC Transit TEMPO 20th Avenue Stop as excluded although the City Council had removed this
+exclusion.
+5 City of Oakland SB 79 website, available at: https://www.oaklandca.gov/Planning-
+
+Building/Your-Commercial-Projects-Permits/SB-79-Transit-Oriented-Housing-in-Oakland.
+                                         Attachment A
+
+Table 1 City of Oakland Submittal Documents
+     Filename                   Document Description                          Received Date
+ 1   HAU 3112 HCD Doc           Revised 40% Capacity Calculations
+                                                                              06/29/2026
+     Requests (folder)          (including Industrial and OS Zoned parcels)
+ 2   Final Response
+     Letter_HCD                 City’s response letter to HCD                 07/03/2026
+     07.03.2026_wg.pdf
+ 3                              Address and APN of the historic parcels
+     Oakland_HistoricResource
+                                temporarily excluded based solely on local    07/20/2026
+     _only.dbf
+                                register designation.
+ 4   S-8 Combining Zone (SB
+                                Revised ArcGIS webmap                         07/23/2026
+     79) Map

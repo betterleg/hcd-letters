@@ -1,0 +1,285 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 16, 2025
+
+
+         Lucy Rollins, Senior Planner
+         Placer County Community Development Resource Agency
+         3091 County Center Drive
+         Auburn, CA 95603
+
+         Dear Lucy Rollins:
+
+         RE:      Placer County, Housing Element Program HE-42 – Letter of Technical
+                  Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request from Placer County (County) to review a draft ordinance implementing the
+         County’s Housing Element Program HE-42. The County also requested written
+         clarification of two items:
+
+              1. The County requested an explanation of HCD’s concerns with the minor use
+                 permit (MUP) process and options for the County to address those concerns. As
+                 part of HCD’s review of the draft ordinance, HCD noted that the County’s MUP
+                 process 1 may include subjective elements that could be considered overly
+                 restrictive and discriminatory.
+
+              2. The County asked whether HCD had intended the term “single family residential
+                 districts” in Program HE-42 to include only districts in which single family
+                 residential is the only permitted use or to include any zone where single-family
+                 homes are permitted. Program HE-42 was originally drafted by HCD as
+                 suggested language for the County to include in its housing element.
+
+         This letter provides technical assistance to the County regarding those two items.
+
+         Background
+
+         Housing Element Program HE-42
+
+         Housing Element Program HE-42 reads: “GROUP HOMES The County shall amend the
+         zoning code to treat all residential care homes as family homes, consistent with Health
+
+1 Placer County Code of Ordinances, §§ 17.58.120 (Minor use permits), 17.58.140 (Permit issuance).
+      Lucy Rollins, Senior Planner
+      Page 2
+
+
+      and Safety Codes, and to allow residential care homes with seven or more clients with
+      approval of a minor use permit in single family residential districts.”
+
+      The County’s proposed draft ordinance dated September 15, 2025 includes the
+      following definitions:
+
+          •   “Residential care home, six or fewer” means any family home, group care facility,
+              or similar facility as determined by the director operating as a single-family
+              residence that provides licensable services for six or fewer residents, including
+              twenty-four-hour nonmedical care of persons in need of personal services,
+              supervision or assistance essential to sustaining the activities of daily living or for
+              the protection of the individual. The facility meets the definition of a single-family
+              dwelling as established in this section.
+
+          •   “Residential care home, seven or more” means any family home, group care
+              facility, or similar facility as determined by the director operating as a single-
+              family residence that provides licensable services to seven to sixteen residents,
+              including twenty-four-hour nonmedical care of persons in need of personal
+              services, supervision or assistance essential to sustaining the activities of daily
+              living or for the protection of the individual. The facility meets the definition of a
+              single-family dwelling as established in this section.
+
+      HCD Group Home Technical Advisory
+
+      HCD’s Group Home Technical Advisory (Group Home TA) 2 provides guidance
+      regarding under what circumstances local governments may require an MUP or similar
+      special permit for a group home. To summarize, group homes that operate as single-
+      family residences and that do not provide licensable services, as well as group homes
+      that operate as single-family residences and that provide licensable services to six or
+      fewer residents (“residential care home, six or fewer,” to use Placer County’s proposed
+      terminology), must be allowed in single-family neighborhoods, subject only to the
+      generally applicable, nondiscriminatory health, safety, and zoning laws that apply to all
+      single-family residences. Only group homes operating as single-family residences that
+      provide licensable services to more than six residents (“residential care home, seven or
+      more,” to use Placer County’s proposed terminology) may be subject to conditional use
+      or other discretionary approval processes such as an MUP. 3
+
+
+
+
+2 Available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/group-home-
+
+technical-advisory-2022.pdf.
+3 Group Home TA at p. 26.
+       Lucy Rollins, Senior Planner
+       Page 3
+
+
+
+       Statutory Background
+
+       Anti-Discrimination in Land Use (ALU) Law
+
+       The ALU Law4 prohibits jurisdictions from engaging in discriminatory land use and
+       planning activities. Specifically, the law deems any action taken by a city to be null and
+       void if it denies an individual or group of individuals the enjoyment of residence,
+       landownership, tenancy, or any other land use in the state due to illegal discrimination. 5
+       The ALU Law prohibits discrimination based on any characteristic, including disabilities,
+       protected by other state or federal laws, while adding its own prohibitions of
+       discrimination against individuals or households who have very low, low, moderate, or
+       middle incomes. 6 The law further recites multiple categories of actions that are
+       determined to be discriminatory, including enactment or administration of ordinances
+       that prohibit or discriminate based on a protected characteristic 7 and imposition of
+       requirements on a residential use for persons with protected characteristics that are not
+       generally imposed upon other residential uses. 8
+
+       Affirmatively Furthering Fair Housing (AFFH) Law
+
+       AFFH Law 9 requires all California public agencies, including counties, “to administer
+       their programs and activities relating to housing and community development in a
+       manner to affirmatively further fair housing, and take no action that is materially
+       inconsistent with [this] obligation....” 10 AFFH means:
+
+               taking meaningful actions, in addition to combating discrimination, that overcome
+               patterns of segregation and foster inclusive communities free from barriers that
+               restrict access to opportunity based on protected characteristics. Specifically,
+               affirmatively furthering fair housing means taking meaningful actions that, taken
+               together, address significant disparities in housing needs and in access to
+               opportunity, replacing segregated living patterns with truly integrated and
+               balanced living patterns, transforming racially and ethnically concentrated areas
+               of poverty into areas of opportunity, and fostering and maintaining compliance
+               with civil rights and fair housing laws. 11
+
+
+
+
+4 Gov. Code, § 65008.
+5 Id. at subd. (a)(1).
+6 Id. at subds. (a)(1)(A), (b)(1)(B)-(C), (b)(2)(B), (b)(3).
+7 Id. at subd. (b)(1)(B).
+8 Id. at subd. (d)(2)(A).
+9 Gov. Code, § 8899.50.
+10 Id. at subds. (a)(2)(B), (b)(1), (2).
+11 Id. at subd. (a)(1).
+         Lucy Rollins, Senior Planner
+         Page 4
+
+
+         Moreover, the “duty to affirmatively further fair housing extends to all of a public
+         agency’s activities and programs relating to housing and community development.” 12
+
+         Housing Element Law
+
+         In addition to the general AFFH requirements in AFFH Law, Housing Element Law
+         includes more specific AFFH requirements for counties (and cities). Housing Element
+         Law requires counties to thoroughly analyze fair housing issues related to housing for
+         people with disabilities and set forth a program of actions that protect and promote such
+         housing. 13 Through their housing elements, counties must “remove governmental
+         constraints that hinder . . . meeting the need for housing for persons with disabilities,”
+         which requires “remov[ing] constraints to, and provid[ing] reasonable accommodations
+         for housing designed for, intended for occupancy by, or with supportive services for,
+         persons with disabilities.” 14 Section 65583 also requires counties to “promote and
+         affirmatively further fair housing opportunities and promote housing throughout the
+         community or communities all persons regardless of . . . disability” or “other protected
+         characteristics.”15 And counties’ housing elements must include a fair housing
+         assessment with specific goals, implementation strategies, and “metrics and
+         milestones” for evaluating results. 16 In complying with these AFFH duties, counties are
+         required to analyze data and set measurable objectives and milestones. 17
+
+         Analysis
+
+         Question 1: What are HCD’s concerns with the County’s MUP Process and
+         options for the County to address those concerns?
+
+         As noted above, residential care homes operating as single-family residences that
+         provide licensable services to seven or more clients may be subject to conditional use
+         or other discretionary approval processes such as an MUP. However, any substantive
+         requirements for these homes must still comply with the local government’s obligations
+         to remove constraints on housing for persons with disabilities, affirmatively support it,
+         and prevent discrimination against it. 18
+
+         HCD’s Concerns with the County’s MUP Process
+
+         The County’s MUP process includes subjective elements that could be considered
+         overly restrictive and discriminatory and/or applied in a discriminatory manner.
+
+
+
+12 Id.
+13 Gov. Code, § 65583.
+14 Id. at subds. (a)(6), (c)(3).
+15 Id. at subd. (c)(5).
+16 Id. at subd. (c)(10)(A)(iv).
+17 See, e.g., id. at subds. (a)(5), (a)(7), (b)(1), (c)(10)(A)(ii).
+18 See, e.g., id. at subds. (c)(3), (5), (10); HCD’s Group Home TA at p. 26.
+      Lucy Rollins, Senior Planner
+      Page 5
+
+
+      For example, one of the County’s required findings for approval of an MUP is:
+
+             “The establishment, maintenance or operation of the proposed use or building
+             will not, under the circumstances of the particular case, be detrimental to the
+             health, safety, peace, comfort and general welfare of people residing or working
+             in the neighborhood of the proposed use, or be detrimental or injurious to
+             property or improvements in the neighborhood or to the general welfare of the
+             county; except that a proposed use may be approved contrary to this finding
+             where the granting authority determines that extenuating circumstances justify
+             approval and enable the making of specific overriding findings.”19
+
+      Terms such as “peace,” “comfort,” and “detrimental” are subjective and risk
+      discriminatory applications.
+
+      Another required finding is:
+
+             “The proposed project or use will be consistent with the character of the
+             immediate neighborhood and will not be contrary to its orderly development.” 20
+
+      The term “consistent with the character of the immediate neighborhood” is subjective
+      and risks discriminatory applications. An objective standard, for example, would be to
+      require that all dwellings in the neighborhood adhere to the same height limits,
+      setbacks, and measurable development standards.
+
+      Options for the County to Address those Concerns
+
+      HCD presents three options for the County to consider:
+
+      1. The County could remove the requirement for an MUP for residential care homes
+         with seven or more clients that provide licensable services.
+      2. The County could amend the MUP sections of its code to ensure all findings and
+         standards are objective. This option would also help ensure the County complies
+         with other state housing laws that require the use of only objective standards, such
+         as the Housing Accountability Act.
+      3. The County could use a different type of permit for licensed residential care homes
+         with seven or more clients that does not include subjective standards. One option
+         would be to create a specific permit type for this use (e.g. a Residential Care Home
+         Permit).
+
+      Question 2: Does HCD intend the term “single family residential districts” in
+      Program HE-42 to include only districts in which single family residential is the
+      only permitted use or to include any zone where single-family homes are
+      permitted?
+
+19 Placer County Code of Ordinances, § 17.58.140, subd. A.3.
+20 Placer County Code of Ordinances, § 17.58.140, subd. A.4.
+       Lucy Rollins, Senior Planner
+       Page 6
+
+
+
+       The term “single family residential districts” in Program HE-42 should include any zone
+       where single-family homes are permitted. To avoid constraints on, prevent
+       discrimination against, and affirmatively support housing for persons with disabilities,
+       residential care homes that operate as single-family residences should be permitted in
+       the same zones where other single-family residences are permitted.
+
+       Conclusion
+
+       HCD appreciates the County’s commitment to implementing Program HE-42
+       consistently with state housing laws. HCD has enforcement authority over ALU Law,
+       AFFH Law, and Housing Element Law. Accordingly, HCD may review local government
+       actions to determine consistency with these laws. If HCD finds that a jurisdiction is in
+       violation of state law, HCD may notify the California Office of the Attorney General. 21
+
+       If you have any questions regarding this letter or require additional technical assistance,
+       please contact Stephanie Reyes at stephanie.reyes@hcd.ca.gov.
+
+       Sincerely,
+
+
+
+
+       David Zisser
+       Assistant Deputy Director
+       Local Government Relations and Accountability
+
+
+
+
+21 Gov. Code, § 65585, subds. (i), (j).

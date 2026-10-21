@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024324",
+  "case_number": "ADU0007577",
+  "letter_date": "2025-08-25",
+  "jurisdiction": "El Cerrito",
+  "letter_type": "Technical Assistance Letter - Repeal Request",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66316",
+  "n_statutes": "1",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/el-cerrito-adu-ta-082625.pdf",
+  "hcd_letter": "El Cerrito Technical Assistance Letter - Repeal Request 08/25/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/el-cerrito-adu-ta-082625.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 164983,
+  "text_chars": 3138,
+  "text_empty": false
+}

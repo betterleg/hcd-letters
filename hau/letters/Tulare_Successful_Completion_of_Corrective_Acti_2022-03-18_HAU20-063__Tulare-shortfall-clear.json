@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010753",
+  "case_number": "HAU20-063",
+  "letter_date": "2022-03-18",
+  "jurisdiction": "Tulare",
+  "letter_type": "Successful Completion of Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/Tulare-shortfall-clear.pdf",
+  "hcd_letter": "Tulare Successful Completion of Corrective Action 03/18/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/Tulare-shortfall-clear.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 166545,
+  "text_chars": 3387,
+  "text_empty": false
+}

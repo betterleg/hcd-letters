@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011378",
+  "case_number": "HAU0000271",
+  "letter_date": "2023-05-19",
+  "jurisdiction": "Arcadia",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/arcadia-loi-051923.pdf",
+  "hcd_letter": "Arcadia Letter of Inquiry 05/19/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/arcadia-loi-051923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189990,
+  "text_chars": 7173,
+  "text_empty": false
+}

@@ -1,0 +1,147 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 24, 2022
+
+
+
+         John F. Signo, Director
+         Planning & Community Services
+         City of Rolling Hills
+         2 Portuguese Bend Road
+         Rolling Hills, CA 90274
+
+         Dear John F Signo:
+
+         RE: Review of Rolling Hills’ Accessory Dwelling Unit (ADU) Ordinance under
+             State ADU Law (Gov. Code, § 65852.2)
+
+         Thank you for submitting the City of Rolling Hills’ (City) accessory dwelling unit (ADU)
+         Ordinance No. 364 (Ordinance) adopted February 24, 2020, to the California
+         Department of Housing and Community Development (HCD). HCD has reviewed the
+         Ordinance and submits these written findings pursuant to Government Code section
+         65852.2, subdivision (h). HCD finds that the Ordinance does not comply with section
+         65852.2 in the manner noted below. Under that statute, the City has up to 30 days to
+         respond to these findings. Accordingly, the City must provide a written response to
+         these findings no later than July 24, 2022.
+
+         The adopted ADU Ordinance addresses many statutory requirements; however, HCD
+         finds that the Ordinance does not comply with State ADU Law in the following respects:
+
+             •    Section 17.28.030 (D)(2) and (3) – Efficiency Kitchen – The Ordinance defines
+                  an efficiency kitchen to include “A food preparation counter or counters that
+                  total at least 15 square feet in area” and “Food storage cabinets that total at
+                  least 30 square feet of shelf space.” However, Government Code section
+                  65852.22, subdivision (a)(6)(B) only requires that an efficiency kitchen include a
+                  food preparation counter and storage cabinets that are “of reasonable size in
+                  relation to the size of the junior accessory dwelling unit.” As there is no specific
+                  size requirement in statute, the size requirements as written in the Ordinance
+                  could act as a constraint on junior accessory dwelling units (JADUs). Therefore,
+                  the City must remove the size references. To provide clarity, HCD recommends
+                  that the City includes language per Government Code section 65852.22,
+                  subdivision (a)(6)(B).
+             •    Section 17.28.040 (A)(1) – Unit Combination – The Ordinance permits “[o]nly one
+                  ADU or JADU on a lot with a proposed or existing single-family dwelling on it.”
+John F. Signo, Director
+Page 2
+
+
+
+       This reference is outdated. Current Government Code section 65852.2,
+       subdivision (e)(1)(A), provides for “One accessory dwelling unit and one junior
+       accessory dwelling unit per lot” (emphasis added), and the ADU on a lot that also
+       has a JADU may be either attached or detached. Therefore, the City must
+       change “or” to “and” or make a similar correction that brings the Ordinance into
+       compliance with State ADU Law.
+   •   Section 17.28.050 (D) – Separate Conveyance – The Ordinance currently
+       prohibits the separate sale of an ADU or JADU. However, Government Code
+       section 65852.26 creates a narrow exception to allow separate conveyance of an
+       ADU to a qualified buyer if the property was built or developed by a qualified
+       nonprofit corporation, among other things. The City should revise the Ordinance
+       to allow for such an exception.
+   •   Section 17.28.060 (A)(1) – Bedroom Limitation – The Ordinance states that “no
+       more than two bedrooms are allowed.” Limiting the number of bedrooms within
+       an ADU may constrain housing choice and result in discriminatory effects on
+       families with children, people with disabilities, and other protected groups in
+       violation of state and federal fair housing laws, including but not limited to
+       Government Code section 65008, subdivisions (a)(1)(A) and (b)(1)(B)(i).
+       Therefore, the City must revise this section to avoid limiting the occupancy of
+       housing units based on familial status or other protected characteristics.
+   •   Section 17.28.060 (C)(1) – Front Property Line – The Ordinance states, “No part
+       of any ADU… may be located within 30 feet of the front property line.” The City
+       should be aware that this 30-foot front set back requirement must not prevent the
+       creation of at least an 800 square foot ADU that is at least 16 feet in height with a
+       four-foot side and rear yard setback to be constructed in compliance with all
+       other local development standards per Government Code section 65852.2,
+       subdivision (c)(1)(C). While not required, HCD recommends including such
+       language.
+   •   Section 17.28.060 (I)(4), (I)(6), (I)(7) – Architectural Requirements – The
+       Ordinance requires that “the ADU entrance must be located on the side or rear
+       building façade, not facing a public-right-of-way…. windows and doors of the
+       ADU may not have a direct line of sight to an adjoining residential property….
+       [and] all windows and doors that are less than 30 feet from a property line that is
+       not a right-of-way line must either be (for windows) clerestory with the bottom of
+       the glass at least six feet above the finished floor, (for windows and for doors)
+       utilize frosted or obscure glass, or (for doors) opaque.” Government Code section
+       65852.150, subdivision (b), requires that “provisions… relating to matters
+       including unit size, parking, fees, and other requirements, are not so arbitrary,
+       excessive, or burdensome so as to unreasonably restrict the ability of
+       homeowners to create accessory dwelling units.” Statute for both ADUs (Gov.
+       Code, § 65852.2, subd. (e)(1)(A)(ii)), and JADUs (Gov. Code, § 65852.22, subd.
+       (a)(5)), require independent entry into the unit, and a constraint on the location of
+John F. Signo, Director
+Page 3
+
+
+
+       an entry door may prohibit the creation of an additional housing unit. In addition,
+       the window placement restriction and clerestory window requirements could
+       make it infeasible to meet standard building code regulations for egress, thus
+       potentially limiting the creation of an ADU at all, depending on the lot
+       configuration. As a result, HCD considers the above requirements to be
+       potentially excessive and burdensome. Furthermore, local development
+       standards provided by the Ordinance pursuant to Government Code section
+       65852.2, subdivisions (a) through (d), do not apply to ADUs created under
+       subdivision (e). Therefore, the City should remove these design requirements.
+   •   Section 17.28.070 (B)(2) – Utility Fees – The Ordinance states that “All ADUs
+       and JADUs not covered by Section 17.28.070.B.1 above require a new, separate
+       utility connection directly between the ADU or JADU and the utility.” However, all
+       JADUs are created out of converted space within a single-family home and would
+       therefore be covered by Section 17.28.070 (B)(1). To promote internal
+       consistency, the City should remove the references to JADUs in Section
+       17.28.070 (B)(2).
+
+In response to the findings in this letter, and pursuant to Government Code section
+65852.2, subdivision (h)(2)(B), the City must either amend the Ordinance to comply with
+State ADU Law or adopt the Ordinance without changes. Should the City choose to
+adopt the Ordinance without the changes specified by HCD, the City must include
+findings in its resolution that explain the reasons the City finds that the Ordinance
+complies with State ADU Law despite the findings made by HCD. Accordingly, the City’s
+response should provide a plan and timeline to bring the Ordinance into compliance.
+
+Please note that, pursuant to Government Code section 65852.2, subdivision (h)(3)(A),
+if the City fails to take either course of action and bring the Ordinance into compliance
+with State ADU Law, HCD may notify the City and the California Office of the Attorney
+General that the City is in violation of State ADU Law.
+
+HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please feel free to contact Mike Van Gorder, of our staff, at (916) 776 - 7541 or at
+mike.vangorder@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

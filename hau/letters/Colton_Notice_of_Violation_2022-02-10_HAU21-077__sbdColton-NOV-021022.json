@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010763",
+  "case_number": "HAU21-077",
+  "letter_date": "2022-02-10",
+  "jurisdiction": "Colton",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "65580(j) | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element law | notice of violation | project denial",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sbdColton-NOV-021022.pdf",
+  "hcd_letter": "Colton Notice of Violation 02/10/2022",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sbdColton-NOV-021022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 207829,
+  "text_chars": 17758,
+  "text_empty": false
+}

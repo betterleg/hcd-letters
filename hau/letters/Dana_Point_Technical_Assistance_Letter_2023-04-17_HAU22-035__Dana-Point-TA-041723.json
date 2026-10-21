@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011185",
+  "case_number": "HAU22-035",
+  "letter_date": "2023-04-17",
+  "jurisdiction": "Dana Point",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Duplexes and Urban Lot Splits (SB 9 of 2021) | Housing Crisis Act of 2019",
+  "statutes": "66300 | 66411.7",
+  "n_statutes": "2",
+  "keywords": "housing crisis act",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/Dana-Point-TA-041723.pdf",
+  "hcd_letter": "Dana Point Technical Assistance Letter 04/17/2023",
+  "housing_law": "Housing Crisis Act of 2019, Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/Dana-Point-TA-041723.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225370,
+  "text_chars": 14607,
+  "text_empty": false
+}

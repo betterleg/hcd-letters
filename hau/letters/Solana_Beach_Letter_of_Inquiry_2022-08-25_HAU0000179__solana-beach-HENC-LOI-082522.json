@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011167",
+  "case_number": "HAU0000179",
+  "letter_date": "2022-08-25",
+  "jurisdiction": "Solana Beach",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "LOI, Housing Element Law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/solana-beach-HENC-LOI-082522.pdf",
+  "hcd_letter": "Solana Beach Letter of Inquiry 08/25/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/solana-beach-HENC-LOI-082522.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 168419,
+  "text_chars": 6122,
+  "text_empty": false
+}

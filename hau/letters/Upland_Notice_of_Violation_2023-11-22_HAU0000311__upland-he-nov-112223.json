@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0012703",
+  "case_number": "HAU0000311",
+  "letter_date": "2023-11-22",
+  "jurisdiction": "Upland",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "NOV",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/upland-he-nov-112223.pdf",
+  "hcd_letter": "Upland Notice of Violation 11/22/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/upland-he-nov-112223.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 192032,
+  "text_chars": 9043,
+  "text_empty": false
+}

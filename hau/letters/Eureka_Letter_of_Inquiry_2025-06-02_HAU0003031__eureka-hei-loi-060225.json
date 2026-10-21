@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021055",
+  "case_number": "HAU0003031",
+  "letter_date": "2025-06-02",
+  "jurisdiction": "Eureka",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Eureka HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/eureka-hei-loi-060225.pdf",
+  "hcd_letter": "Eureka Letter of Inquiry 06/02/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/eureka-hei-loi-060225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 163496,
+  "text_chars": 5033,
+  "text_empty": false
+}

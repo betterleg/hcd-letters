@@ -1,0 +1,229 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 3, 2023
+
+
+
+         Denice Thomas
+         Community Development Director
+         City of Agoura Hills
+         30001 Ladyface Court
+         Agoura Hills, CA 91301
+
+         Dear Denice Thomas:
+
+         RE: Review of Agoura Hills’ Accessory Dwelling Unit (ADU) Ordinance under ADU
+            Law (Gov. Code, § 65852.2)
+
+         Thank you for submitting the City of Agoura Hills (City) accessory dwelling unit (ADU)
+         Ordinance No. 21-456 (Ordinance) adopted August 25, 2021, to the California
+         Department of Housing and Community Development (HCD). The Ordinance was
+         received on December 3, 2021. HCD has reviewed the Ordinance and is submitting
+         these written findings pursuant to Government Code section 65852.2, subdivision (h).
+         HCD finds that the Ordinance does not comply with section 65852.2 in the manner
+         noted below. Under that statute, the City has up to 30 days to respond to these findings.
+         Accordingly, the City must provide a written response to these findings no later than
+         March 6, 2023.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with ADU law in the following respects:
+
+             •    Section 9120 – Definition Junior Accessory Dwelling Unit – The Ordinance
+                  defines a Junior ADU (JADU) as being “contained entirely within a single-family
+                  residence, excluding an attached garage”. Government Code section
+                  65852.22, subdivision (i)(1), defines a JADU as “a unit...contained entirely
+                  within a single-family residence.” However, recent amendments to the statute in
+                  Government Code section 65852.22, subdivision (a)(4), add that a local agency
+                  may “Require a permitted junior accessory dwelling unit to be constructed
+                  within the walls of the proposed or existing single-family residence. For
+                  purposes of this paragraph, enclosed uses within the residence, such as
+                  attached garages, are considered a part of the proposed or existing single-
+                  family residence.” Therefore, because JADUs may be constructed in an
+                  attached garage, the City must revise this section to conform with current
+                  statute.
+      Denice Thomas, Community Development Director
+      Page 2
+
+
+
+
+          •   Sections 9283 and 9283.2 (1) – Very High Fire Hazard Severity Zone – The
+              Ordinance states in its purpose declaration that “A substantial portion of the City
+              of Agoura Hills is located in a designated ‘Very High Fire Hazard Severity Zone’
+              and this chapter ensures that ADUs and JADUs are developed and operated on
+              adequate sites, at proper and desirable locations, and that the goals and
+              objectives of the General Plan are observed.” The Ordinance then permits only
+              one ADU or JADU for sites in the Very High Fire Hazard Severity Zone
+              (VHFHSZ) that have less than “two distinct means of vehicular access,” and
+              creates a discretionary process for approval of other units.
+
+              While the California Department of Forestry and Fire Protection (CalFire) maps
+              establish the VHFHSZ boundaries, the intent of these maps is not to limit the
+              locations where ADUs or other dwellings may be permitted. Rather, the CalFire
+              maps identify areas in which hazard mitigating building design standards will
+              apply. The note on the CalFire map for Agoura Hills even states, “In late 2005 to
+              be effective in 2008, the California Building Commission adopted California
+              Building Code Chapter 7A requiring new buildings in VHFHSZs to use ignition
+              resistant construction methods and materials. These new codes include
+              provisions to improve the ignition resistance of buildings, especially from
+              firebrands. The updated very high fire hazard severity zones will be used by
+              building officials for new building permits in LRA. The updated zones will also be
+              used to identify property whose owners must comply with natural hazards
+              disclosure requirements at time of property sale and 100-foot defensible space
+              clearance. It is likely that the fire hazard severity zones will be used for updates
+              to the safety element of general plans.”1
+
+              Further, ADU restrictions through local development standards provided by the
+              Ordinance pursuant to Government Code section 65852.2, subdivisions (a) through (d),
+              would not apply to ADUs created under Government Code section 65852.2, subdivision
+              (e). Therefore, ADUs created under subdivision (e) cannot be restricted by local
+              ordinance.
+
+              Lastly, the “Fire Safety Review” allows for the Director to “determine… sufficient fire
+              safety measures”, which constitutes an additional discretionary process. However,
+              Government Code section 65852.2, subdivision (a)(3), requires “an approval process
+              that includes only ministerial provisions for the approval of accessory dwelling units and
+              shall not include any discretionary processes, provisions, or requirements.” Therefore,
+              the City must remove 9283.2 (1) and rely on the application of the building code to
+              address fire safety.
+
+
+
+
+1 https://osfm.fire.ca.gov/media/5800/agoura_hills.pdf
+Denice Thomas, Community Development Director
+Page 3
+
+
+
+  •   Sections 9283.1 (1)(b) and (d), 9283.5 (2),(4),(9) – Height – The Ordinance states in
+      several places that the height limitation for ADUs is 16 feet. However, ADU statute
+      restricts local agencies from requiring the height of attached and detached ADUs, to be
+      less than either 16, 18, or 25 feet pursuant to Government Code section 65852.2,
+      subdivisions (c)(2)(D) and (e)(1)(B)(ii). The City must amend the Ordinance to allow for
+      the minimum height requirements in State ADU Law.
+
+  •   Section 9283.2 (2) – Building Separation – The Ordinance requires that ADUs within the
+      VHFHSZ “…must maintain a 10-foot separation between the accessory dwelling unit
+      and any other structure.” However, pursuant to Government Code section 65852.2,
+      subdivision (c)(2)(C), a local agency may not establish by Ordinance “Any…limits on lot
+      coverage, floor area ratio, open space, front setbacks, and minimum lot size, for either
+      attached or detached dwellings that does not permit at least an 800 square foot
+      accessory dwelling unit with four-foot side and rear yard setbacks to be constructed in
+      compliance with all other local development standards. In as much as a 10-foot
+      separation requirement would limit the placement of an 800 square foot ADU, the
+      Ordinance must be amended to comply with State ADU Law.
+
+  •   Section 9283.2 (3) – Detached ADU Setbacks – The Ordinance requires that detached
+      ADUs in the VHFHSZ “shall provide a minimum setback of five feet from the side and
+      rear lot lines.” However, per Government Code section 65852.2, subdivisions
+      (a)(1)(D)(vii), (c)(2)(C), (e)(1)(B) and (D), the setbacks from side and rear lot lines shall
+      not be required to be greater than four feet. Therefore, the City must revise this section
+      to comply with State ADU Law.
+
+  •   Section 9283.2 (4) – Conversion of Existing Parking Structure – The Ordinance requires
+      that “For a garage, carport, or covered parking structure located within a Very High Fire
+      Hazard Severity Zone that is converted to an ADU, onsite replacement parking spaces
+      shall be required that comply with the minimum number of spaces stated in Section
+      9654.6.” However, Government Code section 65852.2, subdivision (a)(1)(D)(xi), states
+      that “When a garage, carport, or covered parking structure is demolished in conjunction
+      with the construction of an accessory dwelling unit or converted to an accessory
+      dwelling unit, the local agency shall not require that those off-street parking spaces be
+      replaced.” Therefore, the City must remove this requirement.
+
+  •   Section 9283.2 (5) – Setbacks – The Ordinance states that "an ADU shall comply with
+      all front yard setback requirements applicable to the lot's primary residence. Unless
+      otherwise provided in this Section, any new attached or detached ADUs shall have a
+      minimum setback of four (4) feet from the rear property line and four (4) feet from the
+      side property line. However, Government Code section 65852.2, subdivision (c)(2)(C),
+      states that “Any…limits on lot coverage, floor area ratio, open space, front setbacks,
+      and minimum lot size, for either attached or detached dwellings that does not permit at
+      least an 800 square foot accessory dwelling unit with four-foot side and rear yard
+      setbacks to be constructed in compliance with all other local development standards”
+Denice Thomas, Community Development Director
+Page 4
+
+
+
+      (emphasis added). As far as front yard setback requirements applicable for the primary
+      residence may limit the placement of ADUs in the front yard, the Ordinance must be
+      amended to comply with State ADU Law. The City may not impose front setback
+      requirements that would exclude at least an 800 square foot ADU.
+
+  •   Section 9283.3 (2)(a)(ii) – ADU Sold Separate from the Primary Dwelling – The
+      Ordinance states that “the ADU or JADU shall not be sold or conveyed separately from
+      the primary residence.” However, Government Code 65852.26, subdivision (a)(1), which
+      went into effect January 1, 2022, creates a narrow exception to allow separate
+      conveyance of ADUs with the involvement of qualified nonprofit housing organizations.
+      The City should revise the Ordinance to allow for such an exception.
+  •   Section 9283.5 (3)(c) – ADU Size – The Ordinance states that the maximum gross area
+      of a “New detached ADU in an existing legally established accessory structure” shall not
+      exceed “850 square feet for a one bedroom and 1,000 square feet for an ADU with
+      more than one bedroom.” A “New detached ADU in an existing legally established
+      accessory structure” is a conversion of an accessory structure to an ADU. Government
+      Code section 65852.2, subdivision (e)(1), provides that “notwithstanding subdivisions
+      (a) to (d), inclusive, a local agency shall ministerially approve an application for a
+      building permit” for an ADU that, according to Government Code section 65852.2,
+      subdivision (e)(1)(A)(i), “is within the proposed space of a single-family dwelling or
+      existing space of a single-family dwelling or accessory structure.” Subdivisions (a) to (d)
+      include the entirety of local standards that jurisdictions may require for new construction
+      ADUs. Subdivision (e)(1)(A) exempts such ADUs as are created out of such converted
+      space from local design standards beyond those within the base building code.
+      Therefore, per Government Code section 65852.2, subdivision (e)(1), units created
+      through the conversion of detached structures are not subject to height limitations of
+      any kind. Lastly, the Ordinance already governs converted units in Section 9283.1(a)(i)
+      which contradicts Section 9283.5 (3)(c). Therefore, the City must remove Section
+      9283.5 (3)(c).
+  •   Section 9283.5 (5)(a) – Old Agoura Design Overlay – The Ordinance states that
+      “Notwithstanding these provisions, in the Old Agoura Design Overlay District, a
+      detached ADU may be erected in the required minimum front yard provided it does not
+      exceed more than twenty-five (25) percent of the minimum required front yard.”
+      However, Government Code section 65852.2, subdivision (c)(2)(C), prohibits "Any
+      requirement for a zoning clearance or separate zoning review or any other minimum or
+      maximum size for an accessory dwelling unit, size based upon a percentage of the
+      proposed or existing primary dwelling, or limits on lot coverage, floor area ratio, open
+      space, front setbacks, and minimum lot size, for either attached or detached dwellings
+      that does not permit at least an 800 square foot accessory dwelling unit with four-foot
+      side and rear yard setbacks to be constructed in compliance with all other local
+      development standards.” Therefore, the City must remove this section or note the
+      exception.
+Denice Thomas, Community Development Director
+Page 5
+
+
+
+
+In response to the findings in this letter, and pursuant to Government Code section
+65852.2, subdivision (h)(2)(B), the City must either amend the Ordinance to comply with
+State ADU Law or adopt the Ordinance without changes. Should the City choose to
+adopt the Ordinance without the changes specified by HCD, the City must include
+findings in its resolution that explain the reasons the City finds that the Ordinance
+complies with State ADU Law despite the findings made by HCD. Accordingly, the City’s
+response should provide a plan and timeline to bring the Ordinance into compliance.
+
+Please note that, pursuant to Government Code section 65852.2, subdivision (h)(3)(A),
+if the City fails to take either course of action and bring the Ordinance into compliance
+with State ADU Law, HCD may notify the City and the California Office of the Attorney
+General that the City is in violation of State ADU Law.
+
+HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please feel free to contact Mike Van Gorder, of our staff, at (916) 776-7541 or at
+mike.vangorder@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

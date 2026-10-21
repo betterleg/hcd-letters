@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017131",
+  "case_number": "HAU0002951",
+  "letter_date": "2024-08-14",
+  "jurisdiction": "Yuba City",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Yuba City Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/yuba-city-he-rezone-loi-081424.pdf",
+  "hcd_letter": "Yuba City Letter of Inquiry 08/14/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/yuba-city-he-rezone-loi-081424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 162196,
+  "text_chars": 4396,
+  "text_empty": false
+}

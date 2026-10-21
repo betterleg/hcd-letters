@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011482",
+  "case_number": "HAU0000295",
+  "letter_date": "2023-05-19",
+  "jurisdiction": "La Habra Heights",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-habra-heights-loi-051923.pdf",
+  "hcd_letter": "La Habra Heights Letter of Inquiry 05/19/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-habra-heights-loi-051923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 188837,
+  "text_chars": 6304,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021891",
+  "case_number": "HAU0001870",
+  "letter_date": "2025-09-11",
+  "jurisdiction": "Moreno Valley",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "No Net Loss",
+  "statutes": "65863 | 65863(c)",
+  "n_statutes": "2",
+  "keywords": "No net loss",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/moreno-valley-hau-1870-loi-091125.pdf",
+  "hcd_letter": "Moreno Valley Letter of Inquiry 09/11/2025",
+  "housing_law": "No Net Loss",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/moreno-valley-hau-1870-loi-091125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 190355,
+  "text_chars": 8040,
+  "text_empty": false
+}

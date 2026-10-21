@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021869",
+  "case_number": "HAU0001995",
+  "letter_date": "2025-09-15",
+  "jurisdiction": "Dana Point",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "65852.21",
+  "n_statutes": "1",
+  "keywords": "SB 9",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/dana-point-hau-1995-sb9-ta-091525.pdf",
+  "hcd_letter": "Dana Point Technical Assistance Letter 09/15/2025",
+  "housing_law": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/dana-point-hau-1995-sb9-ta-091525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186464,
+  "text_chars": 6695,
+  "text_empty": false
+}

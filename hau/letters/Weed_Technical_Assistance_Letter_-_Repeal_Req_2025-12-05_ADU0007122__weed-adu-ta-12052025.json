@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023095",
+  "case_number": "ADU0007122",
+  "letter_date": "2025-12-05",
+  "jurisdiction": "Weed",
+  "letter_type": "Technical Assistance Letter - Repeal Request",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Repeal Request",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/weed-adu-ta-12052025.pdf",
+  "hcd_letter": "Weed Technical Assistance Letter - Repeal Request 12/05/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/weed-adu-ta-12052025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 201726,
+  "text_chars": 14948,
+  "text_empty": false
+}

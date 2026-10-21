@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023386",
+  "case_number": "HAU0002893",
+  "letter_date": "2025-10-14",
+  "jurisdiction": "La Puente",
+  "letter_type": "Decertification of Housing Element Compliance",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65583.4",
+  "n_statutes": "1",
+  "keywords": "La Puente Decertification Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-puente-rezone-he-revocation-101425.pdf",
+  "hcd_letter": "La Puente Decertification of Housing Element Compliance 10/14/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-puente-rezone-he-revocation-101425.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156399,
+  "text_chars": 4477,
+  "text_empty": false
+}

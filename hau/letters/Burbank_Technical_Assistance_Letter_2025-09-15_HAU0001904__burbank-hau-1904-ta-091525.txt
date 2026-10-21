@@ -1,0 +1,159 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 15, 2025
+
+         Greg Mirza-Avakyan, Senior Planner
+         Fatima Benitez, Associate Planner
+         City of Burbank
+         Planning Department
+         150 N. Third Street
+         Burbank, CA 91502
+         Via email: gmirzaavakyan@burbankca.gov, fbenitez@burbankca.gov
+
+         Dear Greg Mirza-Avakyan and Fatima Benitez:
+
+         RE: City of Burbank – SB 9 Implementation – Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the City of Burbank (City)
+         regarding access requirements and fire hazard mitigation measures for housing
+         development projects and urban lot splits under Senate Bill (SB) 9 (Chapter 162,
+         Statutes of 2021). 1
+
+         Background
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the City of Burbank regarding the interaction of
+         SB 9 with easement and fire safety requirements. The specific property at issue is one
+         parcel located within an existing four-lot subdivision. HCD understands that this parcel
+         is accessed from the public right-of-way via a private easement that was established by
+         the original subdivision. An owner of one of the four lots applied to perform an SB 9
+         urban lot split and develop a primary dwelling unit on the resultant parcel. Since the
+         existing parcel does not adjoin the public right of way (ROW), an easement through
+         neighboring properties in the original subdivision would be necessary to provide access
+         to the public ROW. A Declaration, recorded with the original subdivision, permits the
+         original four parcels in the subdivision to utilize the easements to access the public
+         ROW.
+
+         Additionally, HCD understands that the subject property is located in a very high fire
+         hazard severity zone (VHFHSZ). The City has advised that despite CalFire’s recent
+         remapping of VHFHSZ areas in Burbank, the subject property remains in a VHFHSZ.
+         The City has also advised HCD that despite this remapping, the City’s Hazard Mitigation
+         Plan fire standards have not yet been updated to reflect it.
+
+
+1 Gov. Code, §§ 65852.21, 66411.7.
+        Greg Mirza-Avakyan, Senior Planner, and Fatima Benitez, Associate Planner
+        Page 2
+
+
+
+        Analysis
+
+        The City submitted the following questions to HCD:
+
+        Can the existing offsite easements be used to comply with SB 9 access
+        requirements if the urban lot split site does not adjoin the public ROW?
+
+        In general, an offsite easement can be a suitable means for providing access to the
+        public ROW for SB 9 developments. SB 9 states that, when considering an application
+        for a parcel map for an urban lot split, “a local agency may require ... that the parcels
+        have access to, provide access to, or adjoin the public right-of-way.” 2 It is HCD's general
+        understanding that if an easement served the original parcel, it should serve the
+        resulting parcels created by an urban lot split. Pursuant to SB 9, in this situation, the
+        City may choose to require that “the parcels have access to…the public right-of-way. 3 In
+        addition, as noted below, the parcel’s location in a VHFHSZ triggers certain ingress and
+        egress requirements in the building code, which may implicate the adequacy of the
+        proposed access roads.
+
+        Can the City apply existing fire hazard mitigation standards if the standards have
+        not been updated to reflect CalFire’s expanded fire hazard zones?
+
+        SB 9 ministerial approval does not apply to urban lot splits when the development is “(D)
+        ... [w]ithin a very high fire hazard severity zone, as determined by the Department of
+        Forestry and Fire Protection pursuant to Section 51178....” However, this prohibition
+        “does not apply to sites that have adopted fire hazard mitigation measures pursuant to
+        existing building standards or state fire mitigation measures applicable to the
+        development….” 4
+
+        HCD understands the City has determined that the site is located in a VHFHSZ and
+        that, pursuant to existing state building and fire codes, there are existing state fire
+        mitigation measures applicable to this development. These include Chapter 7A of the
+        California Building Code (CBC), Chapter 49 of the California Fire Code (CFC), and the
+        Minimum Fire Safe Regulations in the Public Resources Code Section 4290 (14 CCR
+        1270 et seq.). These codes have all been updated since the passage of SB 35 in 2017
+        to establish and/or strengthen development standards that govern residential
+        development within Fire Hazard Severity Zones and Wildland-Urban Interface Fire
+        Areas. Both CBC Chapter 7A and CFC Chapter 49 require compliance with the
+        requirements for defensible space and building in wildfire prone areas of Government
+        Code Sections 51175 through 51189.
+
+        Given the foregoing, the site’s location in a VHFHSZ does not preclude the site from
+        eligibility for an SB 9 development. However, the City should ensure that the Project
+
+2 Gov. Code, § 66411.7, subd. (e)(2).
+3 Id.
+4 Gov. Code, §§ 65852.21, subd. (a)(2); 66411.7, subd. (a)(3)(C), incorporating the standard set forth
+
+in Gov. Code, § 65913.4, subd. (a)(6)(D).
+      Greg Mirza-Avakyan, Senior Planner, and Fatima Benitez, Associate Planner
+      Page 3
+
+
+      meets all code requirements, including ingress and egress requirements contained in
+      the CBC.
+
+      How does the city protect against fire when the offsite fire suppression
+      infrastructure is insufficient to serve up to 16 units?
+
+      When processing an urban lot split application, the City may not require offsite
+      improvements. As SB 9 states, “Notwithstanding Section 66411.7, a local agency shall
+      not impose regulations that require dedications of rights-of-way or the construction of
+      offsite improvements for the parcels being created as a condition of issuing a parcel
+      map for an urban lot split pursuant to this section.” 5
+
+      However, Government Code section 65852.21 does not contain a similar prohibition.
+      Therefore, offsite improvements may be required at the time of SB 9 unit construction to
+      the extent they do not conflict with section 65852.21, subdivision (b)(3), which states
+      that “[a] local agency shall not impose objective zoning standards, objective subdivision
+      standards, and objective design standards that do not apply uniformly to development
+      within the underlying zone.”
+
+      In short, additional offsite fire suppression infrastructure cannot be required as a
+      condition of issuing a parcel map for an SB 9 urban lot split but can be required when
+      permitting for construction of SB 9 residential units if such infrastructure is required by
+      the underlying zoning.
+
+      Additionally, section 65852.21, subdivision (d) and section 66411.7, subdivision (d)
+      permit a local agency to deny an application for an SB 9 urban lot split or construction of
+      an SB 9 residential unit where the agency makes written findings, based on the
+      preponderance of the evidence, that the project would have a specific, adverse impact
+      on public health and safety that cannot be mitigated. The City may consider whether
+      these provisions are applicable in this circumstance.
+
+      Conclusion
+
+      HCD understands the intricacies of implementing ever-changing state housing laws and
+      is committed to supporting local agencies in the successful implementation of state
+      housing laws, including SB 9. If you have any questions or need additional information,
+      please contact Brandon Estes at Brandon.Estes@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+5 Gov. Code, § 66411.7, subd. (b)(3).

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010659",
+  "case_number": "HAU20-025",
+  "letter_date": "2020-07-27",
+  "jurisdiction": "Greenfield",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65008(D) | 65008(b) | 65008(e) | 65585(i) | 65589.5(a)(2) | 65589.5(j)(2)(A)",
+  "n_statutes": "6",
+  "keywords": "anti-discrimination in land use | consistency review notification | deemed compliant | housing element program commitments",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/WalnutGroveGreenfield.07272020.pdf",
+  "hcd_letter": "Greenfield Technical Assistance Letter 07/27/2020",
+  "housing_law": "Housing Accountability Act, Housing Element Law, Anti-Discrimination in Land Use Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/WalnutGroveGreenfield.07272020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169797,
+  "text_chars": 12182,
+  "text_empty": false
+}

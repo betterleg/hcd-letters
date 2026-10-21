@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024262",
+  "case_number": "ADU0007525",
+  "letter_date": "2022-02-17",
+  "jurisdiction": "Buellton",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/BuelltonADUOrdinanceReview021722.pdf",
+  "hcd_letter": "Buellton Ordinance Findings Letter 02/17/2022",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/BuelltonADUOrdinanceReview021722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185269,
+  "text_chars": 12750,
+  "text_empty": false
+}

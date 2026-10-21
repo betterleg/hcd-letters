@@ -1,0 +1,222 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 22, 2023
+
+
+
+         Samuel Dea, Supervising Regional Planner
+         Department of Regional Planning
+         County of Los Angeles
+         320 W. Temple St
+         Los Angeles, CA 90012
+
+         Dear Samuel Dea:
+
+         RE: County of Los Angeles Very High Fire Hazard Severity Zone (VHFHSZ) and
+             Accessory Dwelling Units – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) thanks the
+         County of Los Angeles (County) for submitting the County’s Board of Supervisors’
+         Adopted Hearing of August 4, 2020, which contained findings relevant to Very High Fire
+         Hazard Severity Zones (VHFHSZ) and the development of accessory dwelling units
+         (ADUs). HCD appreciates the time and effort the County took in meeting with HCD team
+         members on this issue.
+
+         Nevertheless, HCD has significant concerns with the County’s response as it fails to
+         address substantial inconsistencies between the County’s zoning code and State ADU
+         Law. HCD is providing this Letter of Technical Assistance in hopes that it will serve as a
+         guide to the steps specific to the Fire Hazard issue that the County must take to comply
+         with state law.
+
+         Background
+
+         On April 14, 2022, HCD received a complaint from a resident who applied for an
+         ADU in Agua Dulce that is in a VHFHSZ. The application was denied on or before
+         February 4, 2022 on the grounds that the County municipal code prohibited ADUs in
+         VHFHSZs “unless it has two distinct means of vehicular access from the lot to a
+         highway.” (LACMC, section 22.140.640, sub. (C)(2)(b).) HCD met with County staff
+         on October 27, 2022, to discuss the issue and was provided Ordinance number
+         2020-059, adopted October 13, 2020. Upon asking specifically for findings in support
+         of the above-mentioned restriction, staff provided HCD with the staff report 1 of
+
+1 Los Angeles County Department of Regional Planning, Hearing on the Accessory Dwelling Unit
+
+  Ordinance, Project No. 202-000600 (1-5), Aug. 4, 2020, available at
+  https://file.lacounty.gov/SDSInter/bos/supdocs/147452.pdf.
+      Samuel Dea, Supervising Regional Planner
+      Page 2
+
+
+      August 4, 2020, entitled “Hearing on the Accessory Dwelling Unit Ordinance Project
+      No. 2020-000600 (1-5) Advance Planning Case No. PPL2020001003,” which
+      presented Ordinance 2020-059 to the Board of Supervisors.
+
+      The following quote from the “Key Components” section on page 4 of the staff report
+      was provided for further context:
+
+             Prohibited Areas: In order to promote public health and safety in fire-prone
+             areas, the County's previous ADU Ordinance prohibited the construction of
+             new ADUs, and the conversion of existing spaces to ADUs, within VHFHSZs
+             with substandard roads and limited access. The proposed Ordinance further
+             clarifies the language in the previous ordinance by requiring two distinct
+             means of access not overlapping with each other, as measured from the lot
+             frontage to the point of intersection with a highway. Each means of access
+             must contain pavement of at least 24 feet in width, exclusive of sidewalks, if
+             the lot is located in a VHFHSZ and a Hillside Management Area (HMA). For
+             lots that are located in a VHFHSZ and not an HMA, the two distinct means of
+             access may include unpaved roads of at least 24 feet in width maintained by
+             Public Works. The proposed Ordinance also allows ADUs and JADUs on lots
+             with a single means of access if such lots front onto a highway and vehicles
+             enter directly from the highway.
+
+      This passage contains no evidence or statements regarding the need for restrictions
+      beyond the promotion of “public health and safety in fire-prone areas.” A review of the
+      ADU ordinance confirms that ADUs in VHFHSZs must include two distinct means of
+      vehicular access, 2 and no findings appear on the County’s website.
+
+      After meeting in person on October 27, 2022, to discuss the issue further, County staff
+      sent the Safety Element portion of the most recent General Plan. However, this
+      document outlines programs intended to mitigate fire risk and contains limited
+      information specific to ADUs.
+
+      Designating Areas Where ADUs May Be Permitted
+
+      Government Code 65852.2, subdivision (a)(1)(A), allows local jurisdictions to designate
+      areas where ADUs may be permitted based on “the impact of accessory dwelling units
+      on traffic flow and public safety.” However, while HCD is sympathetic to concerns about
+      fire safety and the need to ensure adequate evacuation in the event of a fire, the County
+      has not adequately demonstrated that ADUs will impact public safety in the VHFHSZ
+      and that a prohibition based on two vehicular routes of egress is therefore justified.
+
+
+
+2 Los Angeles County, Ordinance No. 2020-0059, Oct. 13, 2020, available at
+
+ https://case.planning.lacounty.gov/assets/upl/project/adu_certified.pdf.
+          Samuel Dea, Supervising Regional Planner
+          Page 3
+
+
+
+          The County is relying on the fact of the VHFHSZ’s existence as evidence to justify
+          restrictions. However, while the California Department of Forestry and Fire Protection
+          (CalFire) maps establish the VHFHSZ boundaries, the intent of these maps is not to
+          limit the locations where ADUs or other dwellings may be permitted. Rather, the CalFire
+          maps focus on identifying areas in which hazard mitigating building design standards
+          will apply. For example, the 2022 FHSZ model adds a buffer of FHSZ from the
+          surrounding wildland into water bodies to account for potential threat of embers to
+          buildings on docks and house boats and variation in reservoir height due to drought. 3
+          The new maps also include new factors such as land use changes, and an interactive,
+          more detailed spatial model comparing VHSZs from 2007 and 2022. 4 None of these
+          updates speak to ADU feasibility or permission in VHFHSZs. Additionally, the note on
+          the CalFire Local Responsibility Area map for Los Angeles County states, “In late 2005
+          to be effective in 2008, the California Building Commission adopted California Building
+          Code Chapter 7A requiring new buildings in VHFHSZs to use ignition resistant
+          construction methods and materials…. The updated zones will also be used to identify
+          property whose owners must comply with natural hazards disclosure requirements at
+          time of property sale and 100-foot defensible space clearance. It is likely that the fire
+          hazard severity zones will be used for updates to the safety element of general plans.”
+          This further illustrates the primary intent of the VHFHSZ maps to dictate safety
+          considerations aside from ADU development.
+
+          Furthermore, ADU restrictions through local development standards provided by the
+          Ordinance pursuant to Government Code section 65852.2, subdivisions (a) through (d),
+          would not apply to ADUs created under Government Code section 65852.2, subdivision
+          (e). Therefore, ADUs created under subdivision (e) cannot be restricted by local
+          ordinance. HCD has corrected similar restrictions on the same grounds in letters to
+          Rancho Palos Verdes 5 and Berkeley. 6
+
+
+
+
+3 CalFire, Frequently Asked Questions About: 2022 Fire Hazard Severity Zones, Jan. 23, 2023,
+
+  available at https://osfm.fire.ca.gov/media/qkmn1glc/2022-fhsz-faqs-jan-23-2023.pdf.
+4 Ibid.
+5 California Department of Housing and Community Development (HCD), City of Rancho Palos
+
+  Verdes’ Accessory Dwelling Unit (ADU) Ordinance – Letter of Technical Assistance, Aug. 29, 2022,
+  available at https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-
+  letters/RanchoPalosVerdesADU-TA082922.pdf.
+6 HCD, Review of Berkeley’s Accessory Dwelling Unit (ADU) Ordinance under State ADU Law (Gov.
+
+  Code, § 65852.2), Oct. 17, 2022, available at https://www.hcd.ca.gov/sites/default/files/docs/policy-
+  and-research/ordinance-review-letters/Berkeley-ADU-101722.pdf.
+       Samuel Dea, Supervising Regional Planner
+       Page 4
+
+
+
+       Requirement to Approve or Deny an ADU Application
+
+       The enactment of Senate Bill (SB) 897 (Chapter 664, Statutes of 2022) changed State
+       ADU Law effective January 1, 2023, and a cursory review of the County’s municipal
+       code shows other sections of ADU governance that are not in compliance with current
+       state law. 7 (HCD may follow up with a more in-depth review of the County’s ADU
+       ordinance.) However, The County remains obligated to process ADU applications per
+       Government Code section 65852.2, subdivisions (a)(3)(A) and (b)(1), which require a
+       permitting agency to “either approve or deny [an] application to create or serve an
+       accessory dwelling unit or a junior accessory dwelling unit within 60 days from the date
+       the permitting agency receives a completed application.” Notably, Government Code
+       section 65852.2, subdivision (a)(7), states, “No other local ordinance, policy, or
+       regulation shall be the basis for the delay or denial of a building permit or a use permit
+       under this subdivision.” The absence of a compliant ordinance therefore cannot
+       preclude the County from acting to approve or deny a permit to create an ADU.
+
+       Housing Crisis Act
+
+       Denying ADUs in this manner would likely also constitute a violation of provisions of the
+       Housing Crisis Act of 2019 (HCA). The HCA prohibits a local government from
+       “enact[ing] a development policy, standard, or condition” that would have the effect of
+       “[c]hanging the general plan land use designation, specific plan land use designation, or
+       zoning of a parcel or parcels of property to a less intensive use or reducing the intensity
+       of land use within an existing general plan land use designation, specific plan land use
+       designation, or zoning district in effect at the time of the proposed change, below what
+       was allowed under the land use designation or zoning ordinances … in effect on
+       January 1, 2018.” (Gov. Code, § 66300, subd. (b)(1)(A).) The statute defines “reducing
+       the intensity of land use” to include “any other action that would individually or
+       cumulatively reduce the site’s residential development capacity.” (Ibid.) According to the
+       County general plan, outlined in the most recent Housing Element 8 on page 51, the
+       County intends to use ADUs to meet its housing goals and has a goal of 450 ADUs
+       annually. A prohibition in this manner does indeed reduce the intensity of land use of
+       parcels within the affected areas and may interfere with implementation of the County’s
+       housing element.
+
+
+
+7 Although it is not the scope of this letter to provide complete findings of noncompliance, it should be
+
+  noted that sections 22.140.640 (C), (E), (F)(1), (G)(1)(B), (G)(1)(d)(ii)(2) and (3) conflict with current
+  state law.
+8 Revised County of Los Angeles Housing Element (2021-2029), May 17, 2022, available at
+
+  https://planning.lacounty.gov/wp-content/uploads/2022/11/housing-element-20220517.pdf.
+Samuel Dea, Supervising Regional Planner
+Page 5
+
+
+Conclusion
+
+In summary, the County may not deny ADU applications in VHFHSZ areas due to a lack
+of two vehicular means of egress without making the necessary findings to justify such a
+restriction. HCD welcomes the opportunity to assist the County in fully complying with
+State ADU Law. Please contact Nicholas Green of our staff at
+Nicholas.Green@hcd.ca.gov for more information.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

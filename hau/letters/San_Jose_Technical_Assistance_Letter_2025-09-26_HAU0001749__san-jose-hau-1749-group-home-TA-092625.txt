@@ -1,0 +1,439 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 26, 2025
+
+
+
+         Christopher Burton, Director, Planning Services Division
+         City of San José
+         200 East Santa Clara Street
+         San José, CA 95113
+
+         Dear Christopher Burton:
+
+         RE: City of San José – Group Home Ordinance – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the City of San José (City) regarding the
+         implementation of the City’s 6th Cycle Housing Element Program P-42 (Group Homes
+         for Seven or More Persons) in light of the Ninth Circuit’s April 2025 decision in Ohio
+         House, LLC v. City of Costa Mesa. In that decision, the court rejected claims that Costa
+         Mesa’s group home regulations discriminated against persons with disabilities. 1 This
+         letter responds to the City’s request and provides guidance regarding group homes and
+         conditional use permits, and compliance with the state’s Anti-Discrimination in Land Use
+         (ALU) Law, 2 Affirmatively Furthering Fair Housing (AFFH) Law, 3 and Housing Element
+         Law. 4
+
+         The scope of this technical assistance letter is primarily focused on the “residential
+         service facilities” land use, which the City’s zoning code identifies as a residential facility
+         where an operator receives compensation for the provision of services and does not
+         provide a service that requires a license under state law. From correspondence with the
+         City, it is HCD’s understanding that:
+              •    All other forms of unlicensed group homes in the City are treated the same as
+                   other single housekeeping units and permitted in any zoning district in the same
+                   manner as other residential dwellings in that zone, and
+              •    The City does not propose adding any objective ordinance standards, policies,
+                   or regulations that would specifically apply to group homes.
+
+
+
+
+1
+  Ohio House, LLC v. City of Costa Mesa (Ohio House) (9th Cir. 2025) 135 F.4th 645.
+2
+  Gov. Code, § 65008.
+3
+  Gov. Code, §§ 8899.50, 66583.
+4
+  Gov. Code, § 65580 et seq.
+      Christopher Burton, Director, Planning Services Division
+      Page 2
+
+
+      Background
+
+      HCD Group Home Technical Advisory
+
+      In December 2022, HCD issued a Group Home Technical Advisory (Group Home TA) to
+      provide guidance to local governments on how to comply with state planning and zoning
+      and fair housing laws (collectively, state housing laws) regarding group homes and local
+      land use policies and practices. The Group Home TA advises local governments to treat
+      group homes that do not provide licensable services the same as other residential
+      dwellings, consistent with state housing laws such as the ALU Law, AFFH Law, and
+      Housing Element Law, by applying only generally applicable health, safety, and zoning
+      laws. 5 Local governments can apply requested reasonable accommodations that are
+      appropriate in some circumstances to provide specific benefit for, or address health or
+      safety issues to, persons with disabilities. 6
+
+      Housing Element Program P-42 (Group Homes for Seven or More Persons)
+
+      On January 29, 2024, HCD certified the City’s adopted 6th cycle housing element, which
+      included Program P-42 to: “Update the zoning code to be consistent with state and
+      federal laws and AFFH by ensuring that group homes serving seven or more persons
+      are subject only to the generally applicable, non-discriminatory health, safety, and
+      zoning laws that apply to all single-family residences.”
+
+      Ohio House v. City of Costa Mesa
+
+      Ohio House, a group home operator in the City of Costa Mesa, sued that city in federal
+      court, bringing claims that the city violated the federal Fair Housing Act (FHA) 7 and the
+      state’s Fair Employment and Housing Act (FEHA) 8 by, among other things, imposing
+      regulations on group homes that were more restrictive than those generally imposed on
+      housing in the same zoning districts. 9 After the City prevailed in the district court, Ohio
+      House filed an appeal with the Ninth Circuit. 10 In June 2023, the Attorney General filed
+      an amicus brief (Amicus Brief) on behalf of HCD and the Civil Rights Department (CRD)
+      supporting Ohio House's appeal and explaining how the district court’s rulings and
+      verdicts conflicted with state law, including the FEHA, Housing Element Law, AFFH
+      laws, and the California Constitution’s right to privacy. 11
+
+
+
+5
+  See, e.g., HCD Group Home Technical Advisory (2022) (“Group Home TA”) at pp. 1-4, 25-26.
+available at:
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/group-home-technical-
+advisory-2022.pdf.
+6
+  Cal. Code Regs., tit. 2, § 12042, subd. (f); see also Group Home TA, p. 32.
+7
+  42 U.S.C. §§ 3601-3619.
+8
+  Gov. Code, §§ 12900-12999.
+9
+  Ohio House, supra, 135 F.4th at pp. 659-660.
+10
+   Id.
+11
+   Id. at Docket Entry 24, available at:
+https://oag.ca.gov/system/files/media/amicus-brief-25-2.pdf
+      Christopher Burton, Director, Planning Services Division
+      Page 3
+
+
+      In April 2025, without addressing the analysis of state law in the Group Home TA or the
+      Amicus Brief, the Ninth Circuit denied Ohio House’s appeal and ruled that Costa Mesa’s
+      group home regulations, including special permitting and spacing requirements,
+      complied with the FHA and FEHA. 12 The Ninth Circuit based this decision, in part, on
+      Costa Mesa’s arguments that (1) its regulations benefited group homes by treating them
+      more favorably than boarding houses and were necessary to preserve the “residential
+      character” of neighborhoods and prevent too many group homes located near each
+      other, creating “institutionalized” living conditions; (2) Ohio House had waived its claims
+      under the ALU Law and not presented data-based evidence of discriminatory effects;
+      and (3) Ohio House’s reasonable accommodation requests for modifications of the
+      group home regulations would have fundamentally altered Costa Mesa's zoning code. 13
+
+      State Group Home Definitions
+
+      Various laws use the term “group homes” to refer to different types of housing for
+      different populations. For the purposes of state housing laws, this letter refers to the
+      following terms for residences in which unrelated persons share one residence:
+
+          •   Group Homes are housing shared by unrelated persons with disabilities that
+              provide peer and other support for their residents’ disability-related needs—in
+              which residents may share cooking, dining, and living areas and participate in
+              other communal living activities—but do not provide services that require
+              licenses under state law. 14
+          •   Transitional housing is defined in Housing Element Law as “buildings
+              configured as rental housing developments, but operated under program
+              requirements that require the termination of assistance and recirculating of the
+              assisted unit to another eligible program recipient at a predetermined future point
+              in time that shall be no less than six months from the beginning of the
+              assistance.” 15
+          •   Supportive housing is defined in Housing Element Law as “housing with no limit
+              on length of stay, that is occupied by the target population, and that is linked to
+              an onsite or offsite service that assists the supportive housing resident in
+              retaining the housing, improving their health status, and maximizing their ability
+              to live and, when possible, work in the community.” 16 In addition, supportive
+              housing shall be a by-right use in zones where multifamily and mixed uses are
+              permitted if the proposed housing development meets certain criteria, including
+              deed-restricted affordability, public funding, floor area usage, and facilities
+              requirements. 17
+
+
+12
+   Ohio House, supra, 135 F.4th at pp. 660-680.
+13
+   Id.
+14
+   Group Home TA at p. 5. In this letter, where “group home” is referenced, HCD refers specifically to
+unlicensed group homes. The Group Home TA includes separate definitions for “group homes” and
+“unlicensed group homes.”
+15
+   Gov. Code, § 65582, subd. (q).
+16
+   Gov. Code, § 65582, subd. (n).
+17
+   Gov. Code, § 65651.
+      Christopher Burton, Director, Planning Services Division
+      Page 4
+
+
+      Housing Element Law requires that “transitional housing and supportive housing shall
+      be considered a residential use of property and shall be subject only to those
+      restrictions that apply to other residential dwellings of the same type in the same
+      zone.” 18 While transitional housing and supportive housing may fall within the definition
+      of “group home,” the two forms of housing together do not encompass the full scope of
+      group homes. In other words, there may be uses that are considered group homes but
+      are not “transitional housing” or “supportive housing.”
+
+      City of San José Zoning Code Definitions
+
+      Currently, the City’s zoning code includes definitions for “transitional housing” and
+      “permanent supportive housing” that differ slightly from definitions in Housing Element
+      Law. In the City’s zoning code, transitional housing is “subject only to those restrictions
+      that apply to other residential uses of the same residential housing type located in the
+      same zoning district” 19 (emphasis added), whereas Housing Element Law, as
+      mentioned earlier, requires equal treatment of residential dwelling type in the same
+      zone. Supportive housing is “housing with no limit on length of stay and that is occupied
+      by a target population as defined in subdivision [(n)] of Section 65582 of the California
+      Government Code” and “shall be allowed in residential, commercial, public/quasi-public,
+      and the downtown zoning districts.” 20 However, the City’s zoning code currently does
+      not permit permanent supportive housing in several of its residential zoning districts,
+      including R-1, R-2, and R-MH. 21
+
+      For unlicensed group homes that do not match the definition of “transitional housing” or
+      “permanent supportive housing,” the City’s residential zoning code includes a separate
+      land use classification for “residential service facility”:
+          •   “Residential Service Facility” is defined as “a residential facility, other than a
+              residential care facility or single housekeeping unit, where the operator receives
+              compensation for the provision of personal services, in addition to housing,
+              including but not limited to, protection, supervision, assistance, guidance,
+              training, therapy or other nonmedical care.” 22 (Emphasis added.)
+
+      According to the City’s zoning code, a residential service facility is distinct from a
+      residential care facility 23 in that its functions do not require a license under state law. A
+      residential service facility is also distinct from a single housekeeping unit 24 due to the
+      presence of an operator that receives compensation for the provision of personal
+      services. Notably, an unlicensed group home that does not otherwise fall under the
+      definition of a “residential service facility” (e.g., a facility that does not have an operator
+      but otherwise includes care for persons in need of personal and nonmedical services
+
+
+18
+   Gov. Code, § 65583, subd. (c)(3).
+19
+   SJMC, § 20.200.1283 (“Transitional housing”).
+20
+   SJMC, § 20.200.1265 (“Permanent supportive housing”).
+21
+   SJMC, § 20.30.100, Table 20-50 (Residential Zoning District Use Regulations).
+22
+   SJMC, § 20.200.1030 (“Residential service facility”).
+23
+   SJMC, § 20.200.1010 (“Residential care facility”).
+24
+   SJMC, § 20.200.1130 (“Single housekeeping units”).
+      Christopher Burton, Director, Planning Services Division
+      Page 5
+
+
+      including protection, guidance, training, etc.) is considered a “single housekeeping unit”
+      and treated the same as other similar residential uses in the zoning district.
+
+      Analysis
+
+      Can the City require a Conditional Use Permit (CUP) for a residential service
+      facility within a residential dwelling?
+
+      No, the City cannot require a CUP for a residential service facility, including on the basis
+      that its occupants include seven or more unrelated persons with disabilities, if the City
+      does not require a CUP for similar dwellings in the same zone. Currently, residential
+      service facilities serving six or fewer persons are permitted in all residential zones, but
+      facilities serving seven or more persons are only conditionally permitted in the R-M and
+      R-MH zones and are not permitted in the City’s R-1 and R-2 zones.
+
+      Imposing CUPs on or not permitting residential service facilities in these zones is
+      inconsistent with state law. For example, these requirements conflict with the ALU Law,
+      which prohibits discrimination against housing occupied or intended for occupancy by
+      individuals or groups protected by state fair housing laws, which include persons with
+      disabilities and the group homes that serve them. 25 More specifically, the ALU Law
+      prohibits imposing “different requirements on . . . residential developments” because
+      they are intended to be occupied by persons with disabilities or other protected
+      characteristics “than those imposed on developments generally . . . .” 26
+
+      In addition, these permitting restrictions and requirements for group homes could
+      conflict with the City’s AFFH duties under both the general AFFH statute and Housing
+      Element Law, which, among other things, require the City to promote, support, and
+      remove constraints on housing for persons with disabilities and to adopt and implement
+      housing element programs that measurably advance these goals. 27
+
+      CUPs and other ordinance standards, policies, or regulations for group homes must
+      also be viewed in the context of the state Constitution’s protections for communal
+      homes shared by residents with or without disabilities. In City of Santa Barbara v.
+      Adamson, the California Supreme Court held that the right to privacy under Article,
+      Section 1 of the California Constitution prohibited a city ordinance that prevented more
+      than five persons unrelated by blood or marriage from occupying a house where the
+      owner was renting out rooms for a group of unrelated adults to live together in a
+      communal setting. 28 Applying Adamson, a state appellate court in City of Chula Vista v.
+      Pagard invalidated for the same reason a city’s permitting requirement and added
+      regulations (e.g., occupancy limits, parking, spacing, periodic inspections) for several
+      communal homes in single family zones that were run by the same operator. 29 These
+
+25
+   Gov. Code, § 65008, subds. (a), (b), (d).
+26
+   Gov. Code, § 65008, subd. (d)(2)(A).
+27
+   Group Home TA at pp. 9-12, 25-26.
+28
+   City of Santa Barbara v. Adamson (1980) 27 Cal.3d 123, 127-128, 130, 134-135; see also City of
+Santa Barbara v. Adamson (1979) 90 Cal.App.3d 606, 153 Cal.Rptr. 507, 509 (confirming that
+Adamson was charging rent to her home's other occupants).
+29
+   City of Chula Vista v. Pagard (1981) 115 Cal.App.3d 785, 791, 793-780.
+      Christopher Burton, Director, Planning Services Division
+      Page 6
+
+
+      same protections under the state Constitution apply to group homes, which are a form
+      of communal homes intended for occupancy by persons with disabilities. And this more
+      generally applicable constitutional doctrine informs and reinforces the specific
+      protections for group homes under the ALU Law, AFFH Law, and Housing Element
+      Law.
+
+      Does HCD’ s guidance about state law in the Group Home TA still apply after the
+      Ninth Circuit’ s April 2025 decision in the Ohio House v. Costa Mesa case?
+
+      Yes, HCD’s guidance about state law in the Group Home TA still applies after the Ninth
+      Circuit’s decision in Ohio House for the following reasons, among others:
+          •   The state may continue to enforce state law. The United States Supreme
+              Court has confirmed that federal civil rights laws set floors under, not ceilings
+              over, the state’s civil rights laws 30 and the Legislature has specified that state fair
+              housing laws may be interpreted broadly to provide “greater rights and
+              remedies,” 31 while emphasizing that the state’s protections of disability rights
+              predate the passage of federal disability rights laws and have always “afforded
+              additional protections” beyond those in federal laws. 32
+          •   State statutes and cases continue to support the analysis and guidance in
+              HCD’s Group Home TA. State housing laws require local governments to focus
+              on objective standards when drafting land use laws and to subject their land use
+              policies to rigorous, data-based analysis, particularly when the policies restrict
+              housing for persons with disabilities. 33 In addition, the California Supreme Court
+              and appellate courts have rejected arguments that local policies restricting
+              boarding houses, in which homeowners rent rooms to boarders living
+              independently of each other, can be used to restrict homes in which the
+              occupants are living together communally, which would include group homes. 34
+              Similarly, for decades, federal and state courts have rejected justifications for
+              restrictions on group homes that were based on comparisons to restrictions on
+              boarding houses. 35
+
+
+
+30
+   California Federal Sav. And Loan Ass’n v. Guerra (1987) 479 U.S. 272, 285.
+31
+   Gov. Code, § 12955.6; Auburn Woods I Homeowners Ass’n v. Fair Emp’t & Hous. Comm’n (2004)
+121 Cal. App.4th 1578, 1591; Group Home TA at pp. 22-23; Martinez v. City of Clovis (2023) 90
+Cal.App.5th 193, 240-252, 269-291 (separately analyzing claims brought under the FEHA, ALU Law,
+AFFH Law, and Housing Element Law from claims brought under the FHA)
+32
+   Gov. Code, § 12926.1; see also Gov. Code, § 8899.50 (specifying that interpretations of state
+AFFH law shall not be impacted by any subsequent changes in federal law after the date that federal
+AFFH regulations were published in 2015).
+33
+   See, e.g., Gov. Code, §§ 65583 subds. (a)-(c).
+34
+   See Colony Hill v. Ghamaty (2006) 143 Cal.App.4th 1156, 1168-1169, citing Adamson, supra,) 27
+Cal.3d at pp.123, 127-128, 130, 134-135, and Pagard, supra, 115 Cal.App.3d at pp. 791, 793-800.
+35
+   See, e.g., Oconomowoc Residential Programs, Inc. v. City of Milwaukee (7th Cir. 2002) 300 F.3d
+775, 787; Linn Cty. v. City of Hiawatha (Iowa 1981) 311 N.W.2d 95, 99-100 (rejecting a city's attempt
+to justify its restrictions on group homes by comparing them to boarding houses and citing decisions
+by courts in other states finding that group homes should be treated like single family dwellings).
+       Christopher Burton, Director, Planning Services Division
+       Page 7
+
+
+          •   The Ninth Circuit did not address the analysis that HCD, CRD, and the
+              Attorney General provided in the amicus brief. The Ohio House decision did
+              not address, among other things, how the state’s ALU Law, AFFH Law, Housing
+              Element Law, and Adamson line of cases apply to local land use regulations of
+              group homes. 36 In particular, the Ninth Circuit never considered AFFH Law
+              requiring all public agencies to address intentional discrimination and that in the
+              ALU Law, the Legislature specifically prohibits local governments from imposing
+              requirements on housing for persons with protected characteristics, including
+              disabilities, beyond those generally imposed on other housing. 37
+
+       Conclusion
+
+       HCD’s guidance on state law in the Group Home TA continues to apply after the Ninth
+       Circuit’s decision in the Ohio House v. City of Costa Mesa case. As such, the City must
+       implement Housing Element Program P-42. Specifically, HCD notes the following:
+
+          •   Group homes without an operator must be treated the same as single
+              housekeeping units.
+          •   Residential service facilities (i.e., unlicensed group homes with an operator) must
+              be treated the same as other similar dwellings in the same zone. The City cannot
+              require a CUP for a residential service facility on the basis that its occupants
+              include seven or more unrelated persons with disabilities if the City does not
+              require a CUP for similar dwellings with seven or more occupants in the same
+              zone.
+          •   HCD advises that the City adopt the definitions for “transitional housing” and
+              “supportive housing” as defined in state Housing Element Law under
+              Government Code section 65582, subdivisions (q) and (n), respectively, and
+              maintain the provisions for by-right use for certain supportive housing projects as
+              specified under Government Code section 65651.
+
+       In addition, generally applicable health and safety standards, such as occupancy limits
+       based on floor area, must be administered in a nondiscriminatory manner 38 and
+       therefore may be enforced consistently with the City’s AFFH duties. 39 Reasonable
+       accommodations for persons with disabilities are appropriate in some circumstances. 40
+
+       As noted in the Group Home TA, HCD recommends programs that focus on education,
+       outreach, collaboration, and support for group homes and their occupants, which can be
+       administered in ways that are consistent with the ALU Law, AFFH Law, and Housing
+
+
+36
+   Ohio House, supra, 135 F.4th at pp. 660-680.
+37
+   Gov. Code, § 65008, subd. (d)(2)(A).
+38
+   See. e.g., Cal. Code Regs., tit. 2, § 12162.
+39
+   This is subject to the limits on the City imposing more restrictive occupancy limits or other building
+standards than those set by state law unless the City makes the required findings that local climate,
+geology, or topography necessitates stricter rules. See Cal. Health & Saf. Code, §§ 17958, 17958.5,
+17958.7.
+40
+   See, e.g., Cal. Code Regs., tit. 2, §§ 12176-12180.
+         Christopher Burton, Director, Planning Services Division
+         Page 8
+
+
+         Element Law. 41 Programs that support group homes generally are more effective and
+         more consistent with state housing laws than adopting overly broad land use regulations
+         which may result in a constraint on housing for persons with disabilities.
+
+         As the City is aware, HCD continues to be responsible for enforcing and providing
+         guidance on implementation of state housing laws, including the ALU Law, AFFH Law,
+         and Housing Element Law.
+
+         HCD welcomes further discussions with the City and appreciates the dedication and
+         cooperation of the City’s planning staff in their implementation of Housing Element
+         Program P-42 to protect group home uses and residents and ensure ongoing
+         compliance between local codes and state housing laws. If you have any questions or
+         need additional information, please contact Grace Wu at grace.wu@hcd.ca.gov.
+
+         Sincerely,
+
+
+
+
+         David Zisser
+         Assistant Deputy Director
+         Local Government Relations and Accountability
+
+
+
+
+41
+     Group Home TA at pp. 11-12.

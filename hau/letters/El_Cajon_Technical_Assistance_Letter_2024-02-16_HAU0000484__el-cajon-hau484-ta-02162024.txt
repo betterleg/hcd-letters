@@ -1,0 +1,227 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 16, 2023
+
+
+
+         Jose Dorado, Housing Manager
+         City of El Cajon
+         200 Civic Center Way
+         El Cajon, CA 92020
+
+         Dear Jose Dorado:
+
+         RE: 145 W Renette Avenue, City of El Cajon – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the proposed housing development at 145 W
+         Renette Avenue (Project) located in the City of El Cajon. The submittal requested
+         assistance under State Density Bonus Law (SDBL) (Gov. Code, § 65915) regarding three
+         distinct questions on the topics of: density bonus calculations for infill projects; affordable
+         unit comparability/dispersal requirements; and the ability of a development to not specify
+         which specific units will be deed-restricted affordable units (i.e., to allow “floating”
+         affordable units via the use of existing units, new units, or a combination of the two).
+
+         HCD understands that the Project intends to utilize Government Code section 65915,
+         subdivision (b)(1)(A), to add six units to an existing four-unit development, bringing the
+         overall unit count to ten. The site is 0.38 acres and is zoned Residential Multi-Family 2200
+         (RM-2200), yielding a base density of eight units. No existing units are to be demolished.
+         The Project seeks a 35-percent density bonus (two units) by providing 20 percent (two
+         units) affordable to low-income households. Two of the existing units would also be deed-
+         restricted for low-income households. The following are the three questions posed:
+
+         In instances where the project site contains existing housing units, are the existing
+         units incorporated in density bonus calculations under the SDBL?
+
+         Currently, SDBL does not consider whether existing units should be counted for purposes
+         of determining a project’s “total units.” (Gov. Code, § 65915, subd. (o)(8).). The term ”total
+         units” refers to the number of units before any bonus units are added. The law neatly
+         addresses the development of vacant sites and those that include the demolition of
+         housing, but it does not provide guidance on the treatment of project sites that contain, and
+         will continue to contain, existing housing units. (Gov. Code, § 65915, subd. (c)(3).) Given
+         the absence of statutory guidance, HCD reasons that this determination depends on the
+         degree of involvement of the existing units in the new project proposal.
+      Jose Dorado, Housing Manager
+      Page 2
+
+
+
+          •   Scenario 1 (Independent Projects): If all the existing units are independent of the
+              new units both physically and legally (i.e., the units are not being physically modified
+              and the proposal does not deed restrict the units to qualify for a density bonus), then
+              only the new units are considered a part of the “total units” of the project.
+
+                 o Independent Project Example: An existing 4-story market-rate apartment
+                   building is located next to a private surface parking lot. The applicant seeks to
+                   build a new 3-story, mixed-income, freestanding multifamily residential
+                   development on the portion of the site currently occupied by the surface
+                   parking lot. The units in the existing market-rate apartment building will be
+                   updated (e.g., new flooring, HVAC improvements, etc.) but will otherwise not
+                   be substantially modified (e.g., no units consolidated, bedrooms consolidated,
+                   floorplans altered, demolitions, etc.). The applicant does not intend to deed
+                   restrict the existing building nor any individual units within the existing
+                   building. Because the new building is functionally independent from the
+                   existing building, the existing units in the existing building are not included in
+                   the project’s “total unit” count.
+
+          •   Scenario 2 (Dependent Projects): If any of the existing units are being physically
+              modified 1 or deed restricted as part of the proposal, then all the existing units are
+              considered a part of the “total units” of the project.
+
+                 o Dependent Project Example: The property contains an existing market-rate
+                   apartment complex with detached garages that serve as private parking for
+                   residents. The applicant seeks to demolish the garages and reconstruct them
+                   with two additional stories of housing above. Additionally, the applicant
+                   intends to internally subdivide a number of the existing apartments (e.g.,
+                   creating studios from three-bedroom units) and convert two ground floor units
+                   into communal amenities. The applicant intends to deed restrict a
+                   combination of new and existing units to qualify the project under the SDBL.
+                   Because the new buildings and proposed changes are integrated with (and
+                   dependent on) the existing units, the existing units are included in the
+                   project’s “total unit” count.
+
+
+
+
+1
+ Physical modifications may include substantial alterations to floor plans, changes to the number of
+bedrooms, consolidation of two units into one, etc.
+      Jose Dorado, Housing Manager
+      Page 3
+
+
+
+                                                                Maximum
+                           Existing                             Allowable
+       Example                              Proposed                              “Total Units”
+                        Units on Site                           Residential
+       Scenarios                            New Units                             under SDBL
+                       (All to Remain)                         Density/Base
+                                                              Density (Units)
+       Independent
+                              50                 25                 100                 25
+       Project
+       Dependent
+                              50                 25                 100                 75
+       Project
+
+      Note that the example scenarios illustrated in this table represent projects that do not
+      exhaust the maximum allowable residential density or base density nor request a density
+      bonus. This was done to reduce confusion between terms “maximum allowable residential
+      density or base density” and “total units.” (Gov. Code, § 65915, subds. (o)(6) and (o)(8).)
+      “Maximum allowable residential density or base density” is the greatest number of units that
+      could ordinarily be built on the site as specified in the Zoning Code, Specific Plan, or
+      General Plan and does not vary based on the project description. “Total units” is simply the
+      number of units in the project excluding bonus units. The number of “total units” often
+      matches, but typically never exceeds the “maximum allowable residential density.” The
+      number of “total units” can also be less than the “maximum allowable residential density.”
+
+      Because the Project at 145 W Renette Avenue intends to deed restrict at least one existing
+      unit to qualify under the SDBL, it would be considered a “Dependent Project” per the
+      discussion above. “Total units” would include both the existing and proposed units (i.e., ten
+      units).
+
+      Does SDBL contain comparability requirements for affordable units?
+
+      No, the SDBL does not contain an across-the-board requirement that the design quality or
+      attributes of the affordable units match those of the market-rate units (i.e., a comparability
+      requirement pertaining to floor area, bedroom count, interior finishes, etc.), nor does it
+      require that the affordable units be physically dispersed among the market-rate units (i.e., a
+      dispersal requirement) for new and existing units. 2 In fact, the SDBL suggests the opposite
+      – that “[t]he density bonus shall be permitted in geographic areas of the housing
+      development other than the areas where the units for the lower income households are
+      located.” (Gov. Code, § 65915, subd. (i).)
+
+      Regarding dispersal of deed-restricted affordable units, the Health and Safety Code
+      provides some direction. It states that mixed-income structures shall provide occupants of
+      affordable housing units and occupants of market-rate housing units with equal access to
+
+2
+  For the narrow purposes of replacement units (albeit inapplicable to this case), the SDBL requires
+the proposed development to provide at least the same number of units of equivalent size (Gov.
+Code, §65915, subd. (c)(3))
+Jose Dorado, Housing Manager
+Page 4
+
+
+common entrances, areas, and amenities. (Health & Safe. Code, § 17929, subd. (a)(1).)
+Furthermore, a mixed-income structure shall not isolate the affordable housing units within
+that structure to a specific floor or an area on a specific floor. (Health & Safe. Code, §
+17929, subd. (a)(2).) Since each unit in the proposed development at 145 W Renette
+Avenue is contained within its own structure (i.e., unattached), there is no locational
+restriction under Health and Safety Code section 17929, as long as each of the units has
+reasonably equal access to amenities.
+
+Another concern raised about the proposed project is the age difference between the
+existing structures, which HCD understands were built in 1960, and the new units. HCD
+understands there is nothing in SDBL, the Health and Safety Code, or other state housing
+laws that requires deed-restricted affordable units to be similar in age to market-rate units.
+Therefore, it would be possible for some or all the affordable units to be provided for via the
+older existing units. However, HCD is keenly aware of the importance of reducing the
+displacement of existing lower-income tenants. Therefore, HCD encourages the City to
+consider how its policies may limit or exacerbate displacement of current low-income
+tenants in the context of infill SDBL projects that retain existing units. Additionally, HCD
+notes that state and local health and safety laws apply to existing as well as new units. The
+City has the authority and responsibility to verify and correct any substandard living
+conditions that may be present in the existing units.
+
+Does SDBL allow for a development to “float” a deed restriction among units?
+
+Yes. The SDBL does not prohibit a development to “float” a deed restriction among units.
+Floating refers to the concept of using a deed restriction that does not identify which
+specific unit(s) are to be affordable (and at what affordability level), but rather allows any of
+the units in the development to serve as the affordable units on an evolving basis. This
+approach provides a number of benefits in the context of infill development on sites with
+existing units that are to be retained.
+
+First, it provides flexibility that can reduce displacement of tenants. For example, if a
+tenant of an affordable unit’s income increases such that they no longer qualify for their
+current unit, floating could be utilized to move the deed restriction to another unit while
+allowing the tenant to stay in their unit.
+
+Second, to avoid displacement, the new units could accommodate the affordable units at
+the time of initial lease up, and then be dispersed to the existing units once the older,
+existing units are vacated through the typical turnover of rental units.
+
+Third, HCD understands deed restrictions do not typically specify which individual units
+(e.g., Units 204, 208, and 210 in Building B) are affordable. Instead, they indicate the
+number of units by bedroom count and affordability level. Property managers must be able
+to demonstrate that tenants of the specific income level are occupying the appropriate
+affordable units somewhere within the development. Some local agencies’ inclusionary
+Jose Dorado, Housing Manager
+Page 5
+
+
+zoning ordinances require specific units to be identified on the project site plan or floor
+plans, typically to verify that affordable units are dispersed among the market-rate units.
+As discussed above, the City should consider how its policies will impact the ongoing
+management of the development and consider how a more flexible “floating” approach
+might benefit the City’s efforts to create and preserve affordable housing.
+
+Conclusion
+
+HCD appreciates the challenges inherent in applying the SDBL in the context of infill
+projects that seek to retain existing housing units. It is HCD’s hope that the technical
+assistance provided in this letter will assist the City as it applies the SDBL as a tool to
+achieve its affordable and market-rate housing production goals and to balance the needs
+of current low-income residents.
+
+If you have any questions regarding the content of this letter or would like additional
+technical assistance, please contact Bentley Regehr at bentley.regehr@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

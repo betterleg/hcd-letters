@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023624",
+  "case_number": "ADU0007341",
+  "letter_date": "2025-12-10",
+  "jurisdiction": "Santa Clarita",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law | Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "ADUs and Duplexes | Affordability Requirements | Deed Restrictions | Fire Hazard | Legally Built | Maximum Size | Setbacks | Single SB9 Unit | Sprinklers | Subjective Standards | Underlying Zoning | Unit Mixture | Unit combinations | height | nonconformity | objective standards | owner occupancy | parking",
+  "n_keywords": "18",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santa-clarita-adu-sb9-findings-121025.pdf",
+  "hcd_letter": "Santa Clarita Ordinance Findings Letter 12/10/2025",
+  "housing_law": "Accessory Dwelling Unit Law, Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santa-clarita-adu-sb9-findings-121025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227033,
+  "text_chars": 23961,
+  "text_empty": false
+}

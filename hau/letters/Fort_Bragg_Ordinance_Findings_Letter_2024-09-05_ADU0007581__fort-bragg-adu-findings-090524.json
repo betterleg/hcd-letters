@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024329",
+  "case_number": "ADU0007581",
+  "letter_date": "2024-09-05",
+  "jurisdiction": "Fort Bragg",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/fort-bragg-adu-findings-090524.pdf",
+  "hcd_letter": "Fort Bragg Ordinance Findings Letter 09/05/2024",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/fort-bragg-adu-findings-090524.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 294623,
+  "text_chars": 48278,
+  "text_empty": false
+}

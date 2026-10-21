@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021315",
+  "case_number": "HAU0001817",
+  "letter_date": "2025-07-29",
+  "jurisdiction": "Long Beach",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law | Duplexes and Urban Lot Splits (SB 9 of 2021) | Housing Element Law",
+  "statutes": "65008 | 65852.21(a) | 65852.21(b)(1) | 66317(a) | 66317(c) | 66323",
+  "n_statutes": "6",
+  "keywords": "ADU | Prohousing Designation | administrative memo | bathroom count | bedroom maximum | group housing | senior housing | special group residence | student housing",
+  "n_keywords": "9",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/long-beach-hau-1817-ta-072925.pdf",
+  "hcd_letter": "Long Beach Technical Assistance Letter 07/29/2025",
+  "housing_law": "Accessory Dwelling Unit Law, Duplexes and Urban Lot Splits (SB 9 of 2021), Anti-Discrimination in Land Use Law, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/long-beach-hau-1817-ta-072925.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 260367,
+  "text_chars": 17918,
+  "text_empty": false
+}

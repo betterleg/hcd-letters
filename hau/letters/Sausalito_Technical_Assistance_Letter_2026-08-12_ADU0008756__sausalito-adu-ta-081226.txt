@@ -1,0 +1,189 @@
+STATE OF CALIFORNIA – CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                        GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+          August 12, 2026
+
+
+
+          Brandon Phipps, Interim City Manager
+          Community Development Department
+          City of Sausalito
+          420 Litho Street
+          Sausalito, CA 94965
+
+          Dear Brandon Phipps:
+
+          RE:       City of Sausalito – Accessory Dwelling Unit (ADU) Completeness Review and
+                    Applicable Development Standards – Letter of Technical Assistance
+
+          This letter provides technical assistance to the City of Sausalito (City) regarding
+          application completeness determinations and applicable development standards with
+          respect to a specific ADU application.
+
+          Background
+
+          The California Department of Housing and Community Development (HCD) was
+          recently contacted by the property owner (Requester) at 426 Pine Street, Sausalito,
+          regarding a proposed 696 square-foot ADU in the rear yard (Project). The Requester
+          provided a copy of a “Notice of Incomplete Application” dated July 7, 2026, issued by
+          the City with respect to the project (Notice). Of the four reasons the Notice provided for
+          determining the application incomplete, the fourth stated reason was that the application
+          was missing a building coverage diagram and an impervious surface coverage diagram.
+          The Requester asks if the lack of the two diagrams was an appropriate basis for the City
+          to determine the application incomplete. As part of its investigation into this matter, HCD
+          met with City staff and reviewed follow-up questions sent by the City. This letter
+          addresses questions from the Requester and the City which were posed directly to
+          HCD, to the extent HCD is able to respond.
+
+          Analysis
+
+          Question 1 - Did the City properly determine the application incomplete in part due to
+          the lack of a building coverage diagram and an impervious surface coverage diagram?
+      Brandon Phipps, Assistant City Manager
+      Page 2
+
+
+
+      Yes, the City may properly determine the application to be incomplete based on the lack
+      of a building coverage diagram and an impervious surface coverage diagram. These
+      items are required by the City's ADU application checklist, which the City shared as part
+      of the Notice. State ADU Law does not prescribe the contents of an application checklist
+      and instead leaves the creation of a checklist to the local agency. Thus, as long as the
+      requested items on the checklist are reasonably related to the entitlement and
+      construction of an ADU, an applicant must provide them. Building coverage information
+      is reasonable for the City to collect when new floor area is proposed on a property
+      because it could be relevant to the analysis of future projects that may be proposed on
+      the property. For certain ADUs, such as those proposed under Government Code
+      section 66314, development standards like maximum lot coverage may be applicable,
+      and hence it is understandable to see this information required on an ADU application
+      checklist. Also, it is reasonable for the City to require information about impervious
+      surface coverage because this has a bearing on certain building standards. 1 ADUs must
+      comply with all applicable provisions of the California Building Standards Code.
+
+      The project plans dated June 17, 2026, show a proposed 696 square-foot, two-story
+      detached ADU, which would be connected to the primary house by a breezeway. This
+      ADU is properly classified as detached, because the connection created by the
+      unenclosed breezeway is minor in nature, and the ADU would not be attached to the
+      house by a common wall, ceiling or floor. The proposed ADU is a single-family detached
+      ADU that meets the description provided by subdivision (a)(2) of Government Code
+      section 66323, because the primary dwelling is a single-family home and the floor area
+      of the ADU is less than 800 square feet of livable space. Such ADUs are subject to the
+      following rule: "A local agency shall not impose any objective development or design
+      standard that is not authorized by this section upon any unit that meets the
+      requirements of any of paragraphs (1) to (4), inclusive, of subdivision (a)." 2 Maximum
+      building coverage is not one of the development standards authorized for ADUs under
+      Government Code section 66323. Hence, while the City may require building coverage
+      information as a matter of determining whether the application is complete, once the
+      City receives a complete application, it must take care not to apply development
+      standards prohibited by Government Code section 66323, such as maximum building
+      coverage, to an ADU which is exempt from those standards, including the proposed
+      detached ADU.
+
+      Question 2 – Can an applicant rely on Government Code section 66321, subdivision
+      (b)(3) to avoid a denial of an ADU of up to 800 square feet proposed under Government
+      Code section 66314, where FAR and/or coverage limits are exceeded on the lot and a
+      detached ADU under Government Code 66323 is also being permitted on that lot?
+
+
+
+
+1 See, for example, California Residential Code § R401.3.
+2 Gov. Code, § 66323, subd. (b).
+      Brandon Phipps, Assistant City Manager
+      Page 3
+
+
+
+      The answer is “yes.” The context for this question includes the requestor’s separate
+      application to rebuild a single-family residence as a larger home with an attached ADU,
+      as well as the current detached ADU proposal, all on the subject property. State ADU
+      Law provides: “a local agency shall not establish by ordinance any of the following …
+      Any requirement for a zoning clearance or separate zoning review or any other
+      minimum or maximum size for an accessory dwelling unit, size based upon a
+      percentage of the proposed or existing primary dwelling, or limits on lot coverage, floor
+      area ratio, open space, front setbacks, and minimum lot size, for either attached or
+      detached dwellings that does not permit an accessory dwelling unit with at least 800
+      square feet of interior livable space and with four-foot side and rear yard setbacks to be
+      constructed in compliance with all other local development standards.” 3 Thus, the City
+      must waive the development standards listed in Government Code section 66321,
+      subdivision (b)(3) to the extent that they would prevent an ADU proposed under
+      Government Code section 66314 4 of up to 800 square-feet, and which is set back at
+      least four feet from the side and rear property lines, from being built. This is true
+      regardless of whether an applicant is proposing another ADU under section 66323, as is
+      the case here. 5 Nothing in State ADU Law limits the applicability of subdivision (b)(3) of
+      section 66321 because an applicant is also proposing an ADU under section 66323.
+
+      Question 3 - May an applicant expand (either under Government Code section 66314 or
+      66323) a previously approved Government Code section 66314 ADU of approximately
+      428 square feet up to 800 square feet permitted with a single-family residence, even it
+      would remove one of the parking spaces required to issue a land use permit for the prior
+      approved single-family residence and which would also be necessary to obtain a
+      certificate of occupancy for that primary residence?
+
+      HCD respectfully declines to provide technical assistance specific to this question at this
+      time. HCD’s understanding is that the question relates to a hypothetical application
+      which the City does not currently have under review. If the City receives such an
+      application and requires technical assistance, it may request such assistance from HCD
+      at that time. This approach avoids potential confusion which may arise if the details of a
+      future application happen to differ from the scenario posed here. The City may also
+      consult the technical assistance on conversion ADUs provided in HCD’s ADU
+      Handbook. 6
+
+3 Gov. Code, § 66321, subd. (b)(3).
+4 Such as the ADU which the requestor is proposing to attach to the rebuilt house on the separate
+
+application mentioned above.
+5 Note that there are different pathways in State ADU Law to waive certain development standards
+
+based on the type of ADU proposed. Subdivision (b)(3) of Government Code section 66321 waives
+certain development standards for ADUs permitted under Government Code section 66314, whereas
+ADUs permitted under Government Code section 66323 are only subject to the development
+standards authorized by section 66323.
+6 The ADU Handbook is posted here: https://www.hcd.ca.gov/sites/default/files/docs/policy-and-
+
+research/adu-handbook-update.pdf.
+      Brandon Phipps, Assistant City Manager
+      Page 4
+
+
+
+      Conclusion
+
+      In summary, the City may require all items on its ADU checklist, including building
+      coverage and impervious surface coverage diagrams, when determining whether an
+      ADU application is complete. However, in assessing whether a complete application for
+      an ADU proposed under Government Code section 66323 complies with all applicable
+      development standards, the City must limit itself to applying the development standards
+      authorized by section 66323. Furthermore, the limits on development standards in
+      subdivision (b)(3) of Government Code section 66321 apply to an ADU proposed under
+      Government Code section 66314, even when another ADU is proposed on the same
+      property under section 66323.
+
+      HCD remains committed to supporting the City in facilitating housing at all income levels
+      and hopes the City finds this clarification helpful. In addition, HCD has enforcement
+      authority over State ADU Law, among other state housing laws. 7 Accordingly, HCD may
+      review local government actions to determine consistency with these laws. If HCD finds
+      that a jurisdiction is in violation of state law, HCD may notify the California Office of the
+      Attorney General. HCD requests a written response from the City by September 11, 2026,
+      indicating how the City plans to implement the guidance provided in this letter. If you have
+      any questions about this letter or require additional technical assistance, please contact
+      David Barboza at david.barboza@hcd.ca.gov.
+
+      Sincerely,
+
+
+      Laura Nunn
+      Housing Accountability Unit Chief
+
+
+
+
+7 Gov. Code, § 65585, subd. (j)

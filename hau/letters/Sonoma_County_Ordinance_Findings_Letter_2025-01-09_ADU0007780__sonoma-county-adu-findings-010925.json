@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024825",
+  "case_number": "ADU0007780",
+  "letter_date": "2025-01-09",
+  "jurisdiction": "Sonoma County",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/sonoma-county-adu-findings-010925.pdf",
+  "hcd_letter": "Sonoma County Ordinance Findings Letter 01/09/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/sonoma-county-adu-findings-010925.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 230875,
+  "text_chars": 20666,
+  "text_empty": false
+}

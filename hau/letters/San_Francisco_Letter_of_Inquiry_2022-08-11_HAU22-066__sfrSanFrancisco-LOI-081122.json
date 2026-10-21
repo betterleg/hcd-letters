@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010734",
+  "case_number": "HAU22-066",
+  "letter_date": "2022-08-11",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sfrSanFrancisco-LOI-081122.pdf",
+  "hcd_letter": "San Francisco Letter of Inquiry 08/11/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sfrSanFrancisco-LOI-081122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 195729,
+  "text_chars": 9107,
+  "text_empty": false
+}

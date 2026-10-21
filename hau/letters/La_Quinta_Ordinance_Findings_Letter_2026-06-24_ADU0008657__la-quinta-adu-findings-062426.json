@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026266",
+  "case_number": "ADU0008657",
+  "letter_date": "2026-06-24",
+  "jurisdiction": "La Quinta",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance Review",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/la-quinta-adu-findings-062426.pdf",
+  "hcd_letter": "La Quinta Ordinance Findings Letter 06/24/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/la-quinta-adu-findings-062426.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191603,
+  "text_chars": 10347,
+  "text_empty": false
+}

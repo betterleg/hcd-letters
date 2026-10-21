@@ -1,0 +1,152 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+          June 16, 2026
+
+
+
+          Jordan Klein, Principal Planner
+          City of Berkeley
+          2180 Milvia Street
+          Berkeley, CA 94704
+
+          Dear Jordan Klein:
+
+          RE: Review City of Berkeley’s Accessory Dwelling Unit (ADU) Governance under
+              State ADU Law (Gov. Code, §§ 66310–66342)
+
+          On May 11, 2026, HCD sent the City of Berkeley a request to repeal the most recent
+          adopted Accessory Dwelling Unit (ADU) ordinance that HCD had in its archive, which
+          was adopted in 2023. City staff responded to note that the City updated its ADU
+          ordinance in 2025. As no official copy was provided, HCD has reviewed the City’s ADU
+          Governance as it appears in the currently available Municipal Code and submits these
+          written findings pursuant to Government Code section 66326, subdivision (a). HCD
+          finds that the Ordinance fails to comply with State ADU Laws in the manner noted
+          below. Pursuant to Government Code section 66326, subdivision (b)(1), the City has up
+          to 30 days to respond to these findings. Accordingly, the City must provide a written
+          response to these findings no later than July 16, 2026, with a plan to either amend the
+          current ordinance or adopt a resolution with findings. 1 Responses should be submitted
+          formally on agency letterhead.
+
+          The Ordinance addresses many statutory requirements; however, HCD finds that the
+          Ordinance does not comply with State ADU Law as follows:
+
+               1. Table 23.306-1. – Single Family Unit Allowance – The Municipal Code allows, on
+                  lots with one single family primary dwelling, “1 Conversion ADU, 1 New
+                  Construction ADU, and 1 Junior ADU.” However, this impermissibly restricts units
+                  created subject to Government Code section 66314. Section 66317 states that a
+                  permitting agency “shall either approve or deny the application to create or serve”
+                  an application subject to section 66314. Subdivision (d)(3) of section 66314
+                  states an ADU may be “either attached to, or located within, the proposed or
+                  existing primary dwelling, including attached garages, storage areas or similar
+                  uses, or an accessory structure or detached from the proposed or existing
+                  primary dwelling and located on the same lot as the proposed or existing primary
+
+1 Gov. Code, § 66326, subd. (b)(2)(B).
+Jordan Klein, Principal Planner
+Page 2
+
+             dwelling, including detached garages.” Since section 66317 mandates that a
+             local agency “shall approve or deny” an application under section 66314, while
+             also requiring that “…a local agency shall ministerially approve an application for
+             a building permit within a residential or mixed-use zone to create any of the
+             following” under section 66323, the City must amend its Municipal Code to allow
+             the full allotment of units described under section 66323 and at least one unit
+             described under section 66314.
+          2. Table 23.306-1. – Unit Allowance (Nonconformities) – The Municipal Code
+             allows, on lots with more than one single-family dwelling, “1 ADU.” However,
+             multiple single-family dwellings on a single lot are considered a zoning
+             nonconformity for the purposes of State ADU Law. Government Code
+             section 66322, section (b) states, “The local agency shall not deny an application
+             for a permit to create an accessory dwelling unit due to the correction of
+             nonconforming zoning conditions, building code violations, or unpermitted
+             structures that do not present a threat to public health and safety and are not
+             affected by the construction of the accessory dwelling unit.” Section 66323
+             describes categories of state-mandated units as being created with either “single-
+             family primary dwellings” or “multifamily primary dwellings.” Therefore, a lot with
+             multiple single-family dwellings would be eligible for one converted ADU, one
+             new construction detached ADU up to 800 square feet, and one junior accessory
+             dwelling unit (JADU) per lot. The City must amend the Municipal Code to remove
+             this restriction.
+
+          3. Table 23.306-1. – Unit Allowance (Multifamily Primaries) – The Municipal Code
+             provides only the allowances for multifamily primary dwellings that are described
+             in Government Code section 66323. However, Government Code section 66314,
+             subdivision (d) provides for at least one “accessory dwelling unit [that] is either
+             attached to, or located within, the proposed or existing primary dwelling, including
+             attached garages, storage areas or similar uses, or an accessory structure or
+             detached from the proposed or existing primary dwelling and located on the
+             same lot as the proposed or existing primary dwelling, including detached
+             garages.” This section does not differentiate between single-family primary
+             dwellings and multifamily primary dwellings; thus, a multifamily primary dwelling
+             must be allowed at least one unit subject to section 66314. The City must amend
+             the Municipal Code to provide for this allowance.
+
+          4. Section 23.306.040 A. – Completeness – The Municipal Code omits reference to
+             items required by Government Code section 66317, subdivision (a)(2) that
+             govern completeness. The City should review current State ADU Law and must
+             provide compliant governance regarding application completeness.
+
+          5. Section 23.306.040 C. – Deed Restrictions – The Municipal Code states, “Deed
+             Restriction. The property owner shall file a deed restriction with the Alameda
+             County Recorder which states: The ADU shall not be sold separately from the
+             main building, unless authorized under BMC 21.29 (ADU Condominium
+             Ordinance) or under BMC 23.306.040(D)--ADUs Developed by a Qualified
+             Nonprofit Developer, or as otherwise permitted by state law…[and] The ADU
+Jordan Klein, Principal Planner
+Page 3
+
+             shall not be rented for a term that is shorter than 30 days…” However, a deed
+             restriction cannot be imposed on an ADU. Government Code section 66315
+             states, “No additional standards, other than those provided in Section 66314,
+             shall be used or imposed, including an owner-occupant requirement, except that
+             a local agency may require that the property may be used for rentals of terms 30
+             days or longer.” Although deed restrictions are required for JADUs, they are
+             prohibited for ADUs. The City must amend the Municipal Code to remove the
+             deed restriction requirement for an ADU.
+
+          6. Table 23.306-2 – Interior Livable Space – The Ordinance determines size
+             maximums in terms of square feet. However, current State ADU Law measures
+             all size maximums in terms of “square feet of interior livable space”. 2 The City
+             must amend the Municipal Code to include “interior livable space” when
+             measuring size maximums.
+
+      The City has two options in response to this letter. 3 The City can either 1) amend the
+      Ordinance to comply with State ADU Law4 or 2) adopt the Ordinance without changes
+      and include findings in its resolution accompanying the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings. 5 If the City fails to take either course of action, or if HCD finds that the
+      newly adopted Ordinance remains out of compliance with State ADU Law despite the
+      City’s findings and explanations, HCD must notify the City and may notify the California
+      Office of the Attorney General that the City is in violation of State ADU Law. 6
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you
+      have any questions or wish to discuss any of HCD’s findings.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Accountability Unit
+
+
+
+
+2 Gov. Code, § 66321, subds. (b)(1), (b)(3).
+3 Gov. Code, § 66326, subd. (c)(1).
+4 Gov. Code, § 66326, subd. (b)(2)(A).
+5 Gov. Code, § 66326, subd. (b)(2)(B).
+6 Gov. Code, § 66326, subd. (c)(1).

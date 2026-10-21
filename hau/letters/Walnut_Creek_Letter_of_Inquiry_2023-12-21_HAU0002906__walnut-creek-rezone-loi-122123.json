@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017087",
+  "case_number": "HAU0002906",
+  "letter_date": "2023-12-21",
+  "jurisdiction": "Walnut Creek",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Walnut Creek Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/walnut-creek-rezone-loi-122123.pdf",
+  "hcd_letter": "Walnut Creek Letter of Inquiry 12/21/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/walnut-creek-rezone-loi-122123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156521,
+  "text_chars": 4390,
+  "text_empty": false
+}

@@ -1,0 +1,216 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 17, 2026
+
+
+         Jing Yeo
+         Community Development Director
+         City of Santa Monica
+         1685 Main Street, Santa Monica, CA 90401
+
+         Dear Jing Yeo:
+
+         RE: City of Santa Monica SHRA Physical Preclusion – Letter of Technical
+             Assistance
+         The California Department of Housing and Community Development (HCD) received
+         requests for technical assistance regarding how the Starter Home Revitalization Act 1
+         (SHRA) applies to the proposed housing development projects at 2134 Stewart Street
+         (Stewart Street Project) and 2958 Delaware Avenue (Delaware Avenue Project). Among
+         other provisions, the SHRA prevents local governments from imposing side and rear
+         setbacks greater than four feet, and from applying development standards that would
+         physically preclude projects eligible under the statute. This letter provides technical
+         assistance to the City of Santa Monica (City) regarding implementation of the SHRA,
+         specifically regarding the City’s ability to require building massing modulation, to include
+         unit size within the definition of density, and to require full compliance with a front
+         setback standard.
+
+         Background
+
+         The Stewart Street Project proposes three multifamily units to be located behind an
+         existing single-family house in an R2 zone. 2 The Delaware Street Project proposes four
+         units, arranged such that two units are next to each other on each side of the lot, in an
+         R1 zone. 3 HCD understands that the applications for the Stewart Street and Delaware
+         Street Projects were submitted on November 26, 2025 and March 10, 2026,
+         respectively.
+
+
+
+
+1 Gov. Code §§ 65852.28, 65913.4.5, 66499.41.
+2 Per Santa Monica Municipal Code §9.08.020, Table 9.07.020, the R2 zone permits
+
+multiple-unit dwellings.
+3 Per Santa Monica Municipal Code §9.07.020, Table 9.07.020, the R1 zone permits
+
+single-unit dwellings and duplexes, along with larger multiple-unit dwellings in limited
+circumstances.
+Jing Yeo, Community Development Director
+Page 2
+
+
+
+In reviewing the projects, the City required that the applicants comply with building
+modulation standards established by the City’s zoning ordinance. For the Stewart Street
+Project, the applicable R2 zone requires “an additional 2-foot average side stepback”
+from the existing side setback, “provided at each story.” 4 For the Delaware Street
+Project, the applicable R1 zone requires that upper stories be additionally set back by
+“at least 1% of total parcel area” and be between 20 percent and 25 percent of total
+parcel width measured from the side parcel line. 5 Both the applicant and the City seek
+clarification on whether the stepbacks are a form of setback and impermissible beyond
+the four-foot limit established by the SHRA.
+
+In the context of the Delaware Street Project, the City additionally seeks clarification on
+the SHRA’s provision limiting standards that physically preclude projects eligible for the
+SHRA. Further, the City seeks clarification on whether the definition of density includes
+unit size and whether the City is precluded from imposing development standards that
+allow the proposed density (i.e., the number of units), but not the proposed unit size (i.e.,
+floor area). For example, the Delaware Street Project includes off-street parking, not
+required by the City, that makes it difficult for the project to meet the City’s local standard
+for a 30-foot front setback while retaining the proposed density and unit size(s).
+
+Analysis
+
+HCD provides technical assistance on the following three questions posed by the City
+and the projects’ applicants:
+
+Question 1: Does the SHRA prevent the City from requiring objective modulation
+standards in addition to the maximum four-foot setback?
+
+The answer is “yes.” Although the City’s modulation requirements do not require a full
+recession of the entire building face from the side parcel line, they still require portions
+of the building to be recessed beyond the SHRA’s maximum allowable four-foot
+setback. This is especially true for the R2 zone, where the stepback must be provided at
+each story.
+
+HCD has previously provided technical assistance on stepbacks to the City of Riverside
+in the context of SB 9. 6 The City of Riverside had adopted an ordinance which required
+that SB 9 projects provide an additional setback on upper floors and portions of the
+buildings over 16 feet in height. However, HCD instructed the City of Riverside to
+remove this provision and require side setbacks no greater than four feet because the
+statute “makes no exception above any heights or floors.” 7 The same principle applies
+under the SHRA, which references SB 9 to establish the four-foot setback maximum. 8
+
+4 Santa Monica Municipal Code §9.08.030.
+5 Santa Monica Municipal Code §9.07.030, Table 9.07.030.
+6 Gov Code, § 65852.21.
+7 Letter of Technical Assistance to the City of Riverside, March 21, 2025,
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/riverside-
+hau-1143-ta-sb9-03212025.pdf, page 2.
+8 Gov, Code, § 65852.28, subd. (b)(2)(E).
+Jing Yeo, Community Development Director
+Page 3
+
+
+As a result, any modulation, step back, or similar design requirement that effectively
+pushes portions of the building beyond four feet still constitutes a setback requirement
+for the purposes of complying with the SHRA’s four-foot limit.
+
+Question 2: Does the SHRA prevent the City from imposing standards that would
+affect an eligible project’s unit size?
+
+The answer is “yes.” A project that meets the requirements of the SHRA is protected
+from local development standards that would otherwise prevent it from being built at the
+proposed density. Government Code section 65852.28, subdivision (b)(2)(A) prevents
+local governments from physically precluding the development of a project built to the
+allowed densities as specified in Government Code sections 65583.2, subdivision
+(c)(3)(B), (“default densities,”) and 66499.41, subdivision (a)(5) (minimum densities).
+Government Code section 65852.28, subdivision (b)(1) also prevents local governments
+from imposing objective standards that conflict with Government Code sections
+65852.28 and 66499.41.
+
+The application of an objective local standard that would physically preclude an eligible
+housing development (i.e., one that meets statutory limits regarding parcel and unit
+sizes, among other requirements) would conflict with these sections. The Delaware
+Street Project meets the default density applicable to the City of Santa Monica of 30
+dwelling units per acre. Additionally, the project meets the requirements of the SHRA in
+Government Code section 66499.41, subdivision (a), including lot sizes of at least 600
+square feet and average unit size no larger than 1,750 square feet.
+
+In a previous letter to the City of Oakland regarding its implementation of the SHRA,
+HCD wrote that local governments are obligated to reduce development standards,
+such as a front setback, “to the extent necessary to accommodate the units at the
+proposed density and size.” 9 Under Government Code section 65852.28, subdivision
+(d), a local government may disapprove a project eligible for the section if it is able to
+make the finding of specific, adverse impact on public health and safety without a
+feasible method of mitigation or avoidance of the impact, as specified in the Housing
+Accountability Act. 10
+
+Question 3: Does the SHRA prevent the City from requiring a 30-foot front
+setback even if the applicant has not maximized the allowable building area and
+has voluntarily proposed amenities?
+
+The answer is “yes.” The physical preclusion language of the SHRA closely resembles
+that of the State Density Bonus Law (SDBL), which prevents local governments from
+applying “any development standard that will have the effect of physically precluding the
+construction of a development” that is otherwise eligible for the SDBL at the densities or
+with the concessions permitted by the law. 11
+
+9 Letter of Technical Assistance to the City of Oakland, February 19, 2025,
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/oakland-
+hau-1147-sb-684-ta-02192025.pdf, page 3.
+10 Gov, Code, § 65589.5, subd. (d)(2).
+11 Gov. Code, § 65915, subd. (e)(1).
+Jing Yeo, Community Development Director
+Page 4
+
+
+Local governments cannot prevent qualifying SDBL projects from waiving development
+standards on the basis that a differently designed project would not need the requested
+waiver(s).
+
+Judicial precedent has affirmed this. In Wollmer v. City of Berkeley (2011), the First
+Appellate District Court of Appeal ruled that the City of Berkeley correctly waived height
+and setback requirements to enable amenities such as a courtyard, community plaza,
+and increased ceiling heights. Had the City of Berkeley denied the waiver, that would
+“have had ‘the effect of physically precluding the construction of a development’
+meeting the criteria of the [SDBL].”12 Similarly, the Fourth Appellate District Court of
+Appeal in Bankers Hill 150 v. City of San Diego rejected the claim that a project would
+not have needed relief from development standards if it did not include a courtyard,
+writing that “a city may not apply any development standard that would physically
+preclude construction of that project as designed, even if the building includes
+‘amenities’ beyond the bare minimum of building components.”13
+
+In the context of the SHRA, local governments are likewise unable to physically
+preclude a development, as proposed, that meets the criteria of the law. The Delaware
+Street Project proposes reducing the City’s front setback requirement to accommodate
+rear utility line clearance consistent with the local utility standards, while providing off-
+street parking and other design features. The applicant does not need to maximize the
+developable area of the site nor remove off-street parking in order to justify the
+reduction.
+
+Conclusion
+
+The SHRA protects qualifying projects from side setbacks greater than four feet,
+including building modulation requirements that are applied above a certain height
+and/or to a portion of the side length. The SHRA also provides relief to qualifying
+projects from other development standards that would physically preclude the project at
+its proposed size and density.
+
+HCD remains committed to supporting the City of Santa Monica in facilitating housing at
+all income levels and hopes the City finds this clarification helpful. If you have questions
+or need additional information, please contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Brian Heaton
+Section Chief, Land Use Policy
+
+
+
+
+12 Wollmer v. City of Berkeley (2011) 193 Cal.App.4th 1329, 1347.
+13 Bankers Hill 150 v. City of San Diego (2022) 74 Cal.App.5th 755, 775.

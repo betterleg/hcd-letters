@@ -1,0 +1,390 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 24, 2025
+
+
+
+         Heather Allen,
+         Acting Planning and Building Director
+         City of Anaheim
+         200 S. Anaheim Boulevard
+         Anaheim, CA 92805
+
+         Dear Ted White:
+
+         RE: Review of Anaheim’s Accessory Dwelling Unit (ADU) Ordinance under State
+             ADU Law (Gov. Code, §§ 66310 - 66342) and Senate Bill (SB) 9 Ordinance
+             under State SB 9 Law (Gov. Code, §§ 65852.21, 66411.7)
+
+         Thank you for submitting the City of Anaheim (City) ADU Ordinance No. 6570 (ADU
+         Ordinance), adopted March 19, 2024, and SB 9 Ordinance No. 6524 (SB 9 Ordinance),
+         adopted January 11, 2022, to the California Department of Housing and Community
+         Development (HCD). HCD has reviewed both the Ordinances and submits these written
+         findings pursuant to Government Code section 66326, subdivision (a) and Government
+         Code section 65585, subdivision (j). HCD finds that the Ordinances do not comply with
+         State ADU, JADU, and SB 9 Laws in the manner noted below. The City has up to 30
+         days to respond to these findings. Accordingly, the City must provide a written response
+         to these findings no later than April 23, 2024.
+
+         Accordingly, the following identifies portions of the ADU and SB 9 Ordinance that
+         conflict with SB 9 Law.
+
+         ADU Findings (Gov. Code, §§ 66310 - 66342)
+
+              1. Statutory Numbering - The Ordinance contains several references to code sections
+                 that were deleted by SB 477, effective March 25, 2024. These include Government
+                 Code sections 65852.2, 65852.22 and 65852.26. The contents of these sections
+                 were relocated to Government Code, Title 7, Division 1, Chapter 13 (sections
+                 66310-66342, see Enclosure). The City must amend the Ordinance to refer to the
+                 correct code sections.
+
+              2. Section 18.38.015 .030 – Unit Allowance – The Ordinance states, “No more than
+                 one (1) Accessory Dwelling Unit and one (1) Junior Accessory Dwelling Unit shall
+                 be allowed on a single lot with a single-family dwelling.” However, Government
+                 Code section 66323 states, "Notwithstanding Sections 66314 to 66322, inclusive,
+Heather Allen, Acting Planning & Building Director
+Page 2
+
+
+      a local agency shall ministerially approve an application for a building permit
+      within a residential or mixed-use zone to create any of the following: (1) One
+      accessory dwelling unit and one junior accessory dwelling unit per lot with a
+      proposed or existing single-family dwelling…(A) The accessory dwelling unit or
+      junior accessory dwelling unit is within the proposed space of a single family
+      dwelling or existing space of a single-family dwelling or accessory structure."
+      Subparagraph (2) permits "[o]ne detached, new construction, accessory dwelling
+      unit that does not exceed four-foot side and rear yard setbacks." The use of the
+      term "any" followed by a list of permitted ADU types indicates that any of these
+      ADU types can be combined on a lot zoned for single family dwellings.
+
+      This permits a homeowner, who meets specified requirements, to create one
+      converted ADU; one detached, new construction ADU; and one JADU. Thus, if
+      the local agency approves an ADU that is created from existing (or proposed)
+      space, and the owner subsequently applies for a detached ADU (or vice versa)
+      that meets the size and setbacks pursuant to the subdivision, the local agency
+      cannot deny the application, nor deny a permit for a JADU under this section.
+
+      Limiting single-family lots to one ADU would prevent property owners from
+      creating ADUs to which they are entitled under section 66323. Therefore, the
+      City must amend the Ordinance to allow for all permissible ADU combinations.
+
+   3. Table 38-A – Location Constraints – The Ordinance states detached units
+      under 800 square feet must be, “…no closer to the front property line than the
+      front-most building wall of the main dwelling unit; except for [ADUs] resulting
+      from the conversion of an existing garage, carport or covered parking
+      structure.” It later states, “At the discretion of the Planning and Building
+      Director, a modified front setback may be permitted if an applicant can
+      demonstrate that it is not possible to construct an 800 square foot unit outside
+      of the front setback.”
+
+      However, Government Code section 66321, subdivision (b)(3) prohibits “Any
+      other minimum or maximum size for an accessory dwelling unit, size based
+      upon…front setbacks, and minimum lot size, for either attached or detached
+      dwellings that does not permit at least an 800 square foot accessory dwelling
+      unit with four-foot side and rear yard setbacks." While jurisdictions can impose
+      front setbacks, they cannot preclude an ADU of 800 square feet or less from
+      existing in the front setback. Furthermore, Government Code section 66316
+      requires that local ADU Ordinances shall include “…only ministerial provisions
+      for the approval of accessory dwelling units and shall not include any
+      discretionary processes, provisions, or requirements for those units…”
+      Therefore, the discretion of the Planning and Building Director may not apply to
+      the location of an ADU. The City must amend the Ordinance accordingly.
+Heather Allen, Acting Planning & Building Director
+Page 3
+
+
+
+   4. Section 18.38.015 .0602 – Sprinklers – The Ordinance states, “Accessory
+      Dwelling Units shall not be required to provide fire sprinklers if they are not
+      required for the primary residence.” This satisfies State ADU Law, but
+      Government Code section 66314, subdivision (d)(12) and section 66323,
+      subdivision (c), also require that “The construction of an accessory dwelling unit
+      shall not trigger a requirement for fire sprinklers to be installed in the existing
+      primary dwelling.” The City must amend the Ordinance to add the additional
+      language.
+
+   5. Section 18.38.015 .0702 – Subjective Language – The Ordinance states, “The
+      design of an attached Accessory Dwelling Unit or Junior Accessory Dwelling
+      Unit shall be architecturally compatible with the main dwelling unit.” However,
+      Government Code section 66314, subdivision (b)(1) allows local ordinances to
+      apply only “objective standards on accessory dwelling units,” and section
+      66313, subdivision (h) states, “’Objective standards’ means standards that
+      involve no personal or subjective judgment by a public official and are uniformly
+      verifiable by reference to an external and uniform benchmark or criterion
+      available and knowable by both the development applicant or proponent and
+      the public official prior to submittal.” As there is no objective standard for
+      “architecturally compatible”, the City must remove this language.
+
+   6. Section 18.38.015 .090 – Local Historic Inventory – The Ordinance states, “An
+      Accessory Dwelling Unit or Junior Accessory Dwelling Unit proposed for any lot
+      that includes a building listed in the National Register of Historic Places,
+      California Register of Historic Places, or the City of Anaheim’s local historic
+      inventory shall conform to the following design standards…” However,
+      Government Code section 66314, subdivision (b)(1) states, “Impose objective
+      standards on accessory dwelling units that include, but are not limited to,
+      parking, height, setback, landscape, architectural review, maximum size of a
+      unit, and standards that prevent adverse impacts on any real property that is
+      listed in the California Register of Historical Resources.” Therefore, local
+      historic registers are not recognized by State ADU Law. The City must remove
+      the reference.
+
+   7. Section 18.38.015 .1051 and .120 – Separate Sale – The Ordinance prohibits
+      separate sale of an ADU from its primary dwelling. However, Government Code
+      section 66341 creates a narrow exception to allow separate conveyance of an
+      ADU to a qualified buyer if the property was built or developed by a qualified
+      nonprofit corporation, among other things. The City must note the exception.
+
+      Additionally, section 66342 gives local jurisdictions the option of adopting an
+      Ordinance to govern separate sale of ADUs pursuant to the Davis-Sterling
+      Common Interest Development Act. The City may wish to consider such an
+      ordinance.
+Heather Allen, Acting Planning & Building Director
+Page 4
+
+
+   8. Section 18.38.011 .130 – Legal Establishment – The Ordinance states,
+      “Accessory Dwelling Units that exist as of the effective date of this section that
+      have previously been legally established may continue to operate as legal
+      nonconforming Accessory Dwelling Units. Any Accessory Dwelling Unit that
+      exists as of the effective date of this section, and has not previously been
+      legally established, is considered an unlawful use, unless the Planning and
+      Building Director determines that the unit meets the provisions of this section.”
+
+      However, Government Code section 66332 states, “Notwithstanding any other
+      law, and except as otherwise provided in subdivision (b), a local agency shall
+      not deny a permit for an unpermitted accessory dwelling unit that was
+      constructed before January 1, 2018, due to either of the following: (1) The
+      accessory dwelling unit is in violation of building standards pursuant to Article 1
+      (commencing with Section 17960) of Chapter 5 of Part 1.5 of Division 13 of the
+      Health and Safety Code. (2) The accessory dwelling unit does not comply with
+      this article or any local ordinance regulating accessory dwelling units.” The City
+      may not use discretion to establish the legality of units that would be subject to
+      Government Code section 66332.
+
+      The City should also note that as of January 1, 2025, with the passing of
+      Assembly Bill (AB) 2533 (Chapter 834, Statutes of 2024), this language will
+      change. As of January 1, 2025, Government Code section 66332 will state
+      “Notwithstanding any other law, and except as otherwise provided in
+      subdivision (b), a local agency shall not deny a permit for an unpermitted
+      accessory dwelling unit that was constructed before January 1, 2020, due to
+      either of the following: (1) The accessory dwelling unit is in violation of building
+      standards pursuant to Article 1 (commencing with Section 17960) of Chapter 5
+      of Part 1.5 of Division 13 of the Health and Safety Code. (2) The accessory
+      dwelling unit does not comply with this article or any local ordinance regulating
+      accessory dwelling units.”
+      Therefore, the City must remove language that allows the City the discretion to
+      establish the legality of units that would be subject to Government Code section
+      66332.
+   9. Section 18.38.015 .1401 – “Granny Unit” – The Ordinance states, “Conversion
+      of an existing legal "granny unit" into an Accessory Dwelling Unit shall require
+      that the unit meet the provisions of this Code…” However, any dwelling unit
+      that meets the definition of an accessory dwelling unit under Government Code
+      section 66313, subdivision (a) is an accessory dwelling unit: “’Accessory
+      dwelling unit’ means an attached or a detached residential dwelling unit that
+      provides complete independent living facilities for one or more persons and is
+      located on a lot with a proposed or existing primary residence. It shall include
+      permanent provisions for living, sleeping, eating, cooking, and sanitation on the
+      same parcel as the single-family or multifamily dwelling is or will be situated.”
+      The City must amend the Ordinance to refer instead to State ADU Law.
+      Heather Allen, Acting Planning & Building Director
+      Page 5
+
+
+          10. Section 18.38.015 .150 – Approval – The Ordinance states that an ADU
+              application “…shall be approved within 60 days of receipt; otherwise, the
+              application shall be denied.” However, Government Code section 66317,
+              subdivision (b) requires that “If a permitting agency denies an application for an
+              accessory dwelling unit or junior accessory dwelling unit pursuant to
+              subdivision (a), the permitting agency shall, within the time period described in
+              subdivision (a), return in writing a full set of comments to the applicant with a
+              list of items that are defective or deficient and a description of how the
+              application can be remedied by the applicant.” The City must amend the
+              Ordinance to include the process for denial required in State ADU Law.
+      SB 9 Findings (Gov. Code, §§ 65852.21; 66411.7)
+
+          1. Section 18.38.015 .0502 – ADU/JADU Preemption – The ADU Ordinance states
+             that ADUs or JADUs are not permitted “On any parcel that has obtained a permit
+             for a Two-Unit Development or an Urban Lot Split, pursuant to Section 18.38.255
+             (Two-Unit Development and Urban Lot Split).” However, SB 9 does not allow a
+             local agency to preempt ADUs or JADUs on lots that propose or have units
+             permitted pursuant to SB 9 (utilizing section 65852.21) and that do not involve an
+             urban lot split (utilizing section 66411.7). While a local agency is not required to
+             approve ADUs and JADUs on lots that involve both urban lot splits and primary
+             units processed pursuant to SB 9, 1 and the local agency may impose a two unit
+             maximum, inclusive of ADUs and JADUs, on lots created through an urban lot
+             split, 2, SB 9 does not provide for a limit on the application of ADUs and JADUs
+             on lots that do not involve an urban lot split. 3 The ADU Ordinance must be
+             amended to allow ADUs and JADUs on eligible parcels.
+
+          2. Section 18.38.255 .0203 – ADU/JADU Preemption – The City’s SB 9 Ordinance
+             contains a provision that both precludes ADUs/JADUs and subjects
+             ADUs/JADUs to objective standards contained within the SB 9 ordinance. The
+             SB 9 ordinance defines “Unit” to mean “Any dwelling unit, including, but not
+             limited to, an Accessory Dwelling Unit, Accessory Dwelling Unit–Junior, a
+             Dwellings-Single Family Detached, or a unit created pursuant to a Two-Unit
+             Development.” This definition subjects ADUs/JADUs to a maximum unit count of
+             two and applies standards applicable to SB 9 units to ADUs/JADUs (see Table
+             38-C). As noted above, SB 9 does not provide for a limit on the application of
+             ADUs and JADUs on lots that do not involve an urban lot split. Additionally, while
+             Government Code section 65852.21, subdivision (b) enables a local agency to
+             impose objective zoning, subdivision, and design review standards, the term
+             “unit,” does not encompass ADUs or JADUs unless specifically identified in SB 9;
+
+
+
+1 Gov Code, § 65852.21, subd. (f).
+2 Gov Code, § 66411.7, subd. (j)(1).
+3 HCD SB 9 Fact Sheet, pg. 7, available at https://www.hcd.ca.gov/sites/default/files/docs/planning-
+
+and-community/sb-9-fact-sheet.pdf.
+          Heather Allen, Acting Planning & Building Director
+          Page 6
+
+
+                subdivision (b) does not define “the units” to include ADUs or JADUs. 4 The SB 9
+                ordinance must be updated to remove ADUs and JADUs from the definition of
+                “Unit.”
+
+             3. Section 18.38.255 .0202 – SB 9 Unit Allowances – The SB 9 Ordinance defers to
+                the definition of “Dwelling, Two-Unit Development” in Chapter 18.36 (Types of
+                Uses), where it is defined as “two (2) new units or the addition of one (1) new unit
+                and one existing unit developed under the provisions of Section 18.38.255, each
+                with its own kitchen and bathroom facilities, on a single lot. This classification
+                excludes a single-family dwelling unit with an Accessory Dwelling Unit…”
+                However, Government Code section 65852.21, subdivision (a) states that a local
+                agency must consider “…a proposed housing development containing no more
+                than two residential units…” The phrase “no more than two residential units”
+                means that SB 9 requires the ministerial approval of either one or two residential
+                units, among other provisions of SB 9 that provide that a single unit can be
+                proposed on an eligible lot. 5 The SB 9 Ordinance must be amended to allow one
+                or two units to be processed and approved pursuant to SB 9.
+
+             4. Section 18.38.255 .050 – Objective Standards – The SB 9 Ordinance states, “At
+                the discretion of the Planning and Building Director, additional building height
+                may be permitted up to the height limit of the underlying zone if an applicant can
+                demonstrate that additional height is necessary to construct an 800 square foot
+                unit.” However, Government Code section 65852.21, subdivision (i)(2), defines
+                the terms “objective zoning standards,” “objective subdivision standards,” and
+                “objective design review standards” to mean “mean standards that involve no
+                personal or subjective judgment by a public official and are uniformly verifiable by
+                reference to an external and uniform benchmark or criterion available and
+                knowable by both the development applicant or proponent and the public official
+                prior to submittal.” Phrases such as “at the discretion of the Planning and
+                Building Director” and “may be permitted” introduce personal or subjective
+                judgement by a public official. Additionally, subdivision (b)(2)(A) states that “The
+                local agency shall not impose objective zoning standards, objective subdivision
+                standards, and objective design standards that would have the effect of
+                physically precluding the construction of up to two units or that would physically
+                preclude either of the two units from being at least 800 square feet in floor area.”
+                The SB 9 Ordinance must remove non-objective language such as “at the
+                discretion” and “may permit.” Additionally, the SB 9 Ordinance must allow for any
+                objective zoning, subdivision, or design review standard that would physically
+                preclude the construction of up to two units or result in a unit size of less than
+                800 square feet to be modified or waived by the local agency in order to facilitate
+                the development of the project.
+
+
+
+4 Gov. Code, § 65852.21, subd. (b)(2)(A).
+5 Ibid.
+Heather Allen, Acting Planning & Building Director
+Page 7
+
+
+   5. Section 18.38.255 .060 – Setbacks – The SB 9 Ordinance states that, “Existing
+      structures shall provide a four-foot setback from a new property line for lots
+      greater than 7,200 square feet.” However, Government Code section 66411.7,
+      subdivision (c)(3)(A) states that, “No setback shall be required for an existing
+      structure, or a structure constructed in the same location and to the same
+      dimensions as an existing structure.” The SB 9 Ordinance must be amended to
+      remove required setbacks for existing structures, or a structure constructed in the
+      same location and to the same dimensions as an existing structure.
+
+   6. Section 18.38.255 .090 – Public Hearings – The SB 9 Ordinance provides that “If
+      a question arises relating to interpretation or applicability of a provision of this
+      section, the matter shall be considered by the Planning Commission as a
+      “Reports and Recommendations” item and determined by resolution.” However,
+      this requirement, in effect, constitutes a public hearing for the project in question
+      or its interaction with the SB 9 Ordinance. Government Code section 65852.21,
+      subdivision (a) states that “A proposed housing development containing no more
+      than two residential units within a single-family residential zone shall be
+      considered ministerially, without discretionary review or a hearing” if the
+      development meets specified requirements. The SB 9 Ordinance must remove
+      this provision since it involves a public hearing or review for a project.
+      Additionally, the SB 9 Ordinance must ensure zoning, subdivision, and design
+      review standards involve no personal or subjective judgment by a public official
+      and are uniformly verifiable by reference to an external and uniform benchmark
+      or criterion available and knowable by both the development applicant or
+      proponent and the public official prior to submittal, pursuant to subdivision (i)(2).
+
+   7. Section 18.62.110 .020 – Objective Standards – The SB 9 Ordinance states that,
+      “If the Planning and Building Director determines that additional information and
+      review is needed, he or she may require a final plan review.” However,
+      Government Code section 65852.21, subdivision (i)(2), defines the terms
+      “objective zoning standards,” “objective subdivision standards,” and “objective
+      design review standards” to mean “mean standards that involve no personal or
+      subjective judgment by a public official and are uniformly verifiable by reference
+      to an external and uniform benchmark or criterion available and knowable by
+      both the development applicant or proponent and the public official prior to
+      submittal.” The term “may,” paired with a lack of objective criteria for “final plan
+      review,” introduces personal or subjective judgement by a public official. The SB
+      9 ordinance must remove non-objective language or replace any non-objective
+      language with objective standards.
+      Heather Allen, Acting Planning & Building Director
+      Page 8
+
+
+      Conclusion
+
+      ADU Ordinance
+
+      Please note that the City has two options in response to this letter. 6 The City can either amend
+      the Ordinance to comply with State ADU Law 7 or adopt the Ordinance without changes and
+      include findings in its resolution adopting the Ordinance that explain the reasons the City
+      believes that the Ordinance complies with State ADU Law despite HCD’s findings. 8 If the City
+      fails to take either course of action and bring the Ordinance into compliance with State ADU
+      Law, HCD must notify the City and may notify the California Office of the Attorney General that
+      the City is in violation of State ADU Law. 9
+
+      SB 9 Ordinance
+
+      HCD looks forward to assisting the City in its compliance with state housing laws and
+      reminds the City that HCD has enforcement authority over SB 9, among other state
+      housing laws. Accordingly, HCD may review local government actions and inactions to
+      determine consistency with these laws. If HCD finds that a city’s actions do not comply
+      with state law, HCD may notify the California Office of the Attorney General that the
+      local government is in violation of state law. 10
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please contact Mike Van Gorder, of our staff, at mike.vangorder@hcd.ca.gov if you
+      have any questions or would like HCD’s technical assistance in ADU matters. For SB 9
+      specific questions, please contact Brandon Young, of our staff, at
+      brandon.young@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Senior Program Manager
+      Housing Policy Development Division
+
+
+
+
+6 Gov. Code, § 66326, subd. (c)(1).
+7 Gov. Code, § 66326, subd. (b)(2)(A).
+8 Gov. Code, § 66326, subd. (b)(2)(B).
+9 Gov. Code, § 66326, subd. (c)(1).
+10 Gov. Code, § 65585, subd. (j).

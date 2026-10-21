@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0012780",
+  "case_number": "HAU0000601",
+  "letter_date": "2023-10-26",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580",
+  "n_statutes": "1",
+  "keywords": "San Francisco Policy and Practice Review | housing element implementation",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-ordinance-ta-102623.pdf",
+  "hcd_letter": "San Francisco Technical Assistance Letter 10/26/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-ordinance-ta-102623.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 188190,
+  "text_chars": 7402,
+  "text_empty": false
+}

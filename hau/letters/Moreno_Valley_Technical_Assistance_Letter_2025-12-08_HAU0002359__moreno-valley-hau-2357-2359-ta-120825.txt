@@ -1,0 +1,455 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 8, 2025
+
+
+         Angelica Frausto-Lupo, Community Development Director
+         City of Moreno Valley
+         14177 Frederick St.
+         PO Box 88005
+         Moreno Valley, CA 92552
+
+         Dear Angelica Frausto-Lupo:
+
+         RE: City of Moreno Valley, Regulation of Group Homes – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received
+         multiple inquiries regarding the City of Moreno Valley’s (City) group home regulations.
+         This letter provides technical assistance to the City regarding the City’s regulation of
+         group homes.
+
+         Definitions
+
+         Various laws use the term “group homes” to refer to different types of housing for
+         different populations. For the purposes of state fair housing and planning and zoning
+         laws, the following terms refer to various types of residences in which unrelated persons
+         share the residence:
+
+         •    Shared Living Residences—any housing shared by unrelated persons, including,
+              for example, communal homes, group homes, recovery residences, 1 some
+              community care residential facilities, some supportive and transitional housing,
+              emergency shelters, boardinghouses, and dormitories.
+
+         •    Group Homes—housing shared by unrelated persons with disabilities that provide
+              peer and other support for their residents’ disability-related needs and in which
+              residents share cooking, dining, and living areas, and may, in some group homes,
+
+1 Individuals recovering from alcoholism or addiction are recognized as people with disabilities (see
+
+Gov. Code, § 12926, subd. (j)), and “sober living homes and other dwellings intended for occupancy
+by persons recovering from alcoholism and drug addiction are protected from illegal discrimination
+against the disabled.” SoCal Recovery, LLC v. City of Costa Mesa (“SoCal Recovery”) (9th Cir. 2023)
+56 F.4th 802, 814.
+       Angelica Frausto-Lupo, Community Development Director
+       Page 2
+
+
+           participate in cooking, housekeeping, and other communal living activities and that
+           do not provide services that require licenses under state law.
+
+       •   Licensed Facilities—shared living residences that provide services that require
+           licenses under state law.
+
+       The Moreno Valley Municipal Code (MVMC) regulates group homes (which do not
+       provide services that require licenses under state law) in section 9.09.330. State
+       licensed residential care facilities are regulated under 9.09.160. This letter focuses on
+       the regulations of group homes in section 9.09.330.
+
+       Statutory Background
+
+       Anti-Discrimination in Land Use (ALU) Law
+
+       ALU Law2 prohibits jurisdictions from engaging in discriminatory land use and planning
+       activities. Specifically, the law deems any action taken by a city to be null and void if it
+       denies an individual or group of individuals the enjoyment of residence, landownership,
+       tenancy, or any other land use in the state due to illegal discrimination. 3 ALU Law
+       prohibits discrimination based on any characteristic, including disabilities, protected by
+       other state or federal laws, while adding its own prohibitions of discrimination against
+       individuals or households who have very low, low, moderate, or middle incomes. 4 The
+       law further recites multiple categories of actions that are determined to be
+       discriminatory, including enactment or administration of ordinances that prohibit or
+       discriminate based on a protected characteristic 5 and imposition of requirements on a
+       residential use for persons with protected characteristics that are not generally imposed
+       upon other residential uses. 6
+
+       Affirmatively Furthering Fair Housing (AFFH) Law
+
+       AFFH Law 7 requires all California public agencies, including cities, “to administer their
+       programs and activities relating to housing and community development in a manner to
+       affirmatively further fair housing, and take no action that is materially inconsistent with
+       [this] obligation....” 8 AFFH means:
+
+               … taking meaningful actions, in addition to combating discrimination, that
+               overcome patterns of segregation and foster inclusive communities free from
+               barriers that restrict access to opportunity based on protected characteristics.
+
+2 Gov. Code, § 65008.
+3 Id. at subd. (a)(1).
+4 Id. at subds. (a)(1)(A), (a)(1)(B)(3), (b)(1)(B)-(C), (b)(2)(B), (b)(3), (d)(2)(A).
+5 Id. at subd. (b)(1)(B).
+6 Id. at subd. (d)(2)(A).
+7 Gov. Code, § 8899.50.
+8 Id. at subds. (a)(2)(B), (b)(1), (2).
+         Angelica Frausto-Lupo, Community Development Director
+         Page 3
+
+
+                Specifically, affirmatively furthering fair housing means taking meaningful actions
+                that, taken together, address significant disparities in housing needs and in
+                access to opportunity, replacing segregated living patterns with truly integrated
+                and balanced living patterns, transforming racially and ethnically concentrated
+                areas of poverty into areas of opportunity, and fostering and maintaining
+                compliance with civil rights and fair housing laws. 9
+
+         Moreover, the “duty to affirmatively further fair housing extends to all of a public
+         agency’s activities and programs relating to housing and community development.” 10
+
+         Housing Element Law
+
+         In addition to the general AFFH requirements in AFFH Law, Housing Element Law
+         includes more specific AFFH requirements for cities. Government Code section 65583
+         requires cities to thoroughly analyze fair housing issues related to housing for people
+         with disabilities and set forth a program of actions that protect and promote such
+         housing. Through their housing elements, cities must “remove governmental constraints
+         that hinder . . . meeting the need for housing for persons with disabilities,” which
+         requires “remov[ing] constraints to, and provid[ing] reasonable accommodations for
+         housing designed for, intended for occupancy by, or with supportive services for,
+         persons with disabilities.” 11 Section 65583 also requires cities to “promote and
+         affirmatively further fair housing opportunities and promote housing throughout the
+         community or communities all persons regardless of . . . disability” or “other protected
+         characteristics.”12 And cities’ housing elements must include a fair housing assessment
+         with specific goals, implementation strategies, and “metrics and milestones” for
+         evaluating results. 13 In complying with these AFFH duties, cities are required to analyze
+         data and set measurable objectives and milestones. 14
+
+         State Constitutional Protections for Shared Living Residences
+
+         Ordinance standards, policies, or regulations for group homes must also be viewed in
+         the context of the state Constitution’s protections for communal homes shared by
+         residents with or without disabilities. In City of Santa Barbara v. Adamson, the California
+         Supreme Court held that the right to privacy under Article, Section 1 of the California
+         Constitution prohibited a city ordinance that prevented more than five persons unrelated
+         by blood or marriage from occupying a house where the owner was renting out rooms
+
+
+
+
+9 Id. at subd. (a)(1).
+10 Id.
+11 Gov. Code, § 65583, subds. (a)(7), (c)(3).
+12 Id. at subd. (c)(5).
+13 Id. at subd. (c)(10)(A)(iv).
+14 See, e.g., Gov. Code, § 65583, subds. (a)(5), (a)(7), (b)(1), (c)(10)(A)(ii).
+      Angelica Frausto-Lupo, Community Development Director
+      Page 4
+
+
+      for a group of unrelated adults to live together in a communal setting. 15 Applying
+      Adamson, a state appellate court in City of Chula Vista v. Pagard invalidated for the
+      same reason a city’s permitting requirement and added regulations (e.g., occupancy
+      limits, parking, spacing, periodic inspections) for several communal homes in single
+      family zones that were run by the same operator. 16 These same protections under the
+      state Constitution apply to group homes, which are a form of communal homes intended
+      for occupancy by persons with disabilities. And this more generally applicable
+      constitutional doctrine informs and reinforces the specific protections for group homes
+      under the ALU Law, AFFH Law, and Housing Element Law.
+
+      Analysis
+
+      HCD finds that certain elements of the City’s group home regulations violate ALU Law,
+      AFFH Law, and Housing Element Law by failing to meet the City’s obligations to
+      affirmatively further, protect, and remove constraints on housing for persons with
+      disabilities, and also by discriminating against this housing.
+
+      Conditional Use Permit (CUP) Requirement
+
+      According to MVMC 9.09.330 C.6, a group home for more than six residents is subject
+      to a CUP.
+
+      This requirement appears to be based on a faulty application of Health and Safety Code
+      statutes that allow local governments to subject licensed facilities with more than six
+      residents to conditional use or other discretionary approval processes but require local
+      governments to treat many types of licensed facilities with six or fewer residents the
+      same as single-family homes and prohibit requiring these small, licensed group homes
+      to obtain CUPs or other special approvals to locate in single-family zones. 17
+
+      The City, however, cannot justify its restrictions on group homes through statutes
+      designed to protect small, licensed facilities, which provide higher levels of support and
+      care that require state licenses. 18 These statutes specifically apply to licensed facilities,
+      not to unlicensed group homes. In effect, the City is inappropriately transforming state
+      laws designed to prevent local constraints on small, licensed facilities into constraints on
+      group homes that do not provide services requiring state licenses.
+
+
+
+15 City of Santa Barbara v. Adamson (1980) 27 Cal.3d 123, 127-128, 130, 134-135; see also City of
+
+Santa Barbara v. Adamson (1979) 90 Cal.App.3d 606, 153 Cal.Rptr. 507, 509 (confirming that
+Adamson was charging rent to her home's other occupants).
+16 City of Chula Vista v. Pagard (1981) 115 Cal.App.3d 785, 791, 793-780.
+17 See, e.g., Health & Saf. Code, §§ 1566.3, 1569.85, 11834.23.
+18 See HCD’s Group Home Technical Advisory (Group Home TA) at pp. 25-26, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/group-home-technical-
+advisory-2022.pdf.
+      Angelica Frausto-Lupo, Community Development Director
+      Page 5
+
+
+      The CUP requirement, and the City’s application and enforcement of this requirement,
+      violates ALU Law, AFFH Law, and Housing Element Law by, among other things,
+      discriminating against housing for persons with disabilities, constraining and failing to
+      promote this housing, and restricting the fair housing choices of persons with disabilities
+      (their right to housing of their choice and the housing they find most suitable for their
+      disability-related needs).
+
+      The City does not impose similar restrictions on other dwellings with more than six
+      residents located in residential districts. The discriminatory effects and constraints these
+      permitting requirements impose include the costs and burdens imposed on group
+      homes, the displacement of persons with disabilities from housing of their choice, and
+      the disruptions of their lives.
+
+      Group homes that operate as single-family residences and that do not provide
+      licensable services must be allowed in single-family neighborhoods, subject only to the
+      generally applicable, nondiscriminatory health, safety, and zoning laws that apply to all
+      single-family residences. This is true even if these homes have more than six residents.
+      Because these homes do not provide licensable services, they must be treated the
+      same as other residences. 19
+
+      MVMC 9.09.330 C.2 states: “A group home, limited, that serves six or fewer persons
+      shall not be included within the definition of a boarding house, rooming house,
+      institution, or home for the care of minors, the aged, or persons with mental health
+      disorders, foster care home, guest home, rest home, community residence, or other
+      similar terms that imply that the residential facility is a business run for profit or differs in
+      any other way from a family dwelling.”
+
+      MVMC 9.09.330 C.3 states: “A group home, limited, that serve six or fewer persons are
+      allowed in all residential zoning districts a permitted use without a conditional use or
+      other discretionary permit.”
+
+      These protections must be extended to group homes for more than six residents. The
+      City may not require a CUP for group homes regardless of the number of residents
+      served.
+
+      Lack of Grandfathering
+
+      Typically, when a zoning code changes, preexisting, nonconforming uses are
+      “grandfathered” in and allowed to continue operating under the requirements that were
+      in place before the amendments. 20 Moreno Valley’s zoning code follows this well-
+      established practice by allowing preexisting, nonconforming uses to continue
+
+19 See Group Home TA at p. 26.
+20 See, e.g., Edmonds v. Los Angeles County (1953) 40 Cal.2d 642, 651 (“The rights of users of
+
+property as those rights existed at the time of the adoption of a zoning ordinance are well recognized
+and have always been protected.”).
+       Angelica Frausto-Lupo, Community Development Director
+       Page 6
+
+
+       operating 21 unless they are discontinued for a continuous period of 12 months or
+       more. 22 But the City departs both from general grandfathering practices and its own
+       grandfathering code provisions by requiring preexisting group homes of more than six
+       residents to apply for permits in the same fashion as new ones to remain operational.
+       This imposes discriminatory and constraining conditions on preexisting group homes,
+       while creating displacement impacts that AFFH duties and Housing Element Law
+       require the City to consider and avoid. 23 The City must apply its generally applicable
+       grandfathering provisions to preexisting group homes, subject to reasonable
+       accommodations requirements.
+
+       Separation Requirement
+
+       MVMC 9.09.330 C.7 requires a group home for more than six residents to have a
+       minimum distance from any other group home of more than six residents of 300 feet.
+       MVMC references Health and Safety Code section 1267.9, subdivision (b) to justify the
+       separation requirement.
+
+       However, that section of the Health and Safety Code applies only to specific types of
+       licensed facilities. Specifically, community care facilities, intermediate care facilities
+       serving persons with developmental disabilities who require intermittent but recurring
+       skilled nursing care, and pediatric day health and respite care facilities that provide
+       licensed services to children with particularly acute or chronic healthcare needs and
+       their parents or guardians must be separated by at least 300 feet. 24 This requirement is
+       not applicable to group homes (which do not provide services that require licenses
+       under state law) and should not be included in MVMC 9.09.330.
+
+       The City’s separation requirements have a particularly severe impact on group homes,
+       severely limiting where they can locate, causing group homes to close, and preventing
+       others from opening. Yet the City has not shown that these separation requirements are
+       necessary or that there are health, safety, or similar justifications for the spacing
+       requirements, or that if these were actual issues, that the City could not address them
+       through less restrictive and discriminatory policies.
+
+
+
+
+21 MVMC 9.02.180 E.1.
+22 MVMC 9.02.180 D.
+23 Gov. Code, § 65583, subds. (c)(10)(A)(ii), (v).
+24 Health & Saf. Code, § 1267.9, subds. (b) and (b)(1).
+      Angelica Frausto-Lupo, Community Development Director
+      Page 7
+
+
+
+      Pages 27-29 of the Group Home TA provide additional guidance illustrating why the
+      City’s separation requirements conflict with its duties under state housing law, as does
+      the amicus brief that HCD, the Attorney General’s Office, and the Civil Rights
+      Department (CRD) filed in the appeal in Ohio House, LLC v. City of Costa Mesa (Ohio
+      House), (9th Cir. 2025) 135 F.4th 645, Docket No. 25-2 (Amicus Brief). 25
+
+      Other Permitting Requirements
+
+      MVMC 9.09.330 C.4 states: “Any sized group home shall not be located in an accessory
+      dwelling unit (ADU), unless the primary dwelling unit is used for the same purpose.”
+
+      MVMC 9.09.330 C.10 states: “Fences or walls may be required to ensure privacy and
+      neighborhood compatibility.”
+
+      MVMC 9.09.330 C.11 states: “Such other conditions and standards necessary to
+      preserve and safeguard the public health, safety or welfare of the occupants and the
+      community may be imposed.”
+
+      If these requirements are not imposed equally on other dwelling units, they can burden
+      group homes with additional, unjustified costs, while perpetuating fears and stereotypes
+      about persons with disabilities. To avoid liability for a law or policy that facially
+      discriminates against persons with disabilities, a local government must show that the
+      policy:
+
+             (1) either
+                     (a) actually benefits persons with disabilities or
+                     (b) is justified by individualized safety concerns raised by the persons the
+                         policy affects, and
+
+             (2) is “the least restrictive means of achieving” one or both of these goals. 26
+
+      These justifications for facial discrimination are “extremely narrow exception[s],” and
+      jurisdictions should be wary of relying on them. 27 Jurisdictions must support them with
+
+25 Available at https://oag.ca.gov/system/files/media/amicus-brief-25-2.pdf. For the reasons the
+
+department explained in another recent technical assistance letter, HCD’s guidance on how state law
+applies to local group home regulations remains valid after the Ninth Circuit’s Ohio House decision.
+See https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-jose-hau-1749-
+group-home-TA-092625.pdf.
+26 Cal. Code Regs., tit. 2, §§ 12042, subd. (f), 12161, subd. (d); see, also, e.g., Larkin v. State of
+
+Mich. Dept. of Social Services (6th Cir. 1996) 89 F.3d 285, 290.
+27 Dothard v. Rawlinson (1977) 433 U.S. 321, 334; Bangerter v. Orem City Corp. (10th Cir. 1995) 46
+
+F.3d 1491, 1504; see also Koire v. Metro Car Wash (1985) 40 Cal.3d 24, 31 nn. 7, 8 (explaining that
+public policy exceptions to Unruh Act’s prohibitions of discrimination are “rare” and “should be
+carefully and narrowly construed”).
+       Angelica Frausto-Lupo, Community Development Director
+       Page 8
+
+
+       at least, if not more than, the specific and thorough analysis and evidence required by
+       Housing Element Law, including its AFFH provisions. 28 Generalized concerns or ones
+       based on stereotypes will not suffice. 29 Jurisdictions should also consider less
+       discriminatory alternatives. 30 And in light of jurisdictions’ obligations to “protect[] existing
+       residents from displacement” and otherwise affirmatively further fair housing, laws or
+       policies that displace group home occupants from their current, chosen residences
+       warrant especially thorough scrutiny. 31
+
+       In addition, with respect to C.11, conditions and standards that cannot be known in
+       advance to an applicant are not objective and present a barrier to approval of group
+       homes.
+
+       Required Remedy and Resource Materials
+
+       To comply with state law, the City must immediately stop enforcing the elements of its
+       group home regulations that are in conflict with state law and must amend those
+       regulations to conform with state law.
+
+       In amending its regulations, the City should consider HCD’s Group Home TA, its AFFH
+       Guidance Memorandum (AFFH Memo), 32 and the Amicus Brief. The guidance
+       documents and Amicus Brief discuss relevant statutes, regulations, and case law, as
+       well as HCD’s and other government agencies’ earlier guidance documents, academic
+       papers, and demographic and statistical analyses.
+
+       Moreno Valley May Still Address Problems that Might Arise at Individual Group
+       Homes
+
+       The City has resources to legally address problems that might occur at individual group
+       homes. If group home operators are engaging in activities that constitute public
+       nuisances; violating generally applicable building, housing, or other health and safety
+       laws; committing fraud; or engaging in other illegal activities, the City can address these
+       issues through the same code enforcement and other legal processes it applies to
+       others who violate municipal codes and other laws. If the City has evidence that a group
+       home operator is providing services that require a license without obtaining one, it can
+       contact the state’s Department of Social Services or Department of Health Care
+       Services, which can initiate investigations and take remedial action if appropriate. 33
+
+28 See, e.g., Gov. Code, § 65583, subds. (a)(5), (a)(7), (b)(1), (c)(10)(A)(ii).
+29 See, e.g., Larkin, supra, 89 F.3d at 291-292 (rigorously examining and rejecting an agency’s
+
+justifications and evidence for spacing and community notice requirements for group homes and
+holding that they violate the federal Fair Housing Act (FHA), 42. U.S.C. §§ 3601-3619.).
+30 Cal. Code Regs., tit. 2, § 12042, subd. (f).
+31 See, e.g., Gov. Code, § 65583, subds. (c)(10)(A)(iv), (v).
+32 Available at https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-
+
+2021.pdf.
+33 See Group Home TA, at pp. 33-36, 37.
+       Angelica Frausto-Lupo, Community Development Director
+       Page 9
+
+
+
+       This may still require considering if reasonable accommodations are appropriate in
+       some circumstances. And the City should avoid overbroad or discriminatory applications
+       of nuisance laws, such as those basing civil nuisance actions on 911 calls for
+       emergency services. 34 But if a group home is found to have violated local or state law,
+       the City may, for example, seek equitable relief that could include more stringent
+       oversight and other affirmative relief to prevent further violations.
+
+       Focusing on individual group homes that are actually causing problems is a better
+       practice than adopting overly broad, constraining, and unlawful regulations for all group
+       homes.
+
+       Conclusion
+
+       To comply with state law, the City must immediately stop enforcing the elements of its
+       group home regulations that are in conflict with state law, including, but not limited to,
+       the requirement that group homes of seven or more residents must obtain a CUP. In
+       addition, the City must amend those regulations to conform with state law.
+
+       HCD has enforcement authority over ALU Law, AFFH Law, and Housing Element Law.
+       Accordingly, HCD may review local government actions to determine consistency with
+       these laws. If HCD finds that a jurisdiction is in violation of state law, HCD may notify
+       the California Office of the Attorney General. 35
+
+       HCD requests a written response from the City by January 8, 2026, indicating how the
+       City plans to implement the guidance provided in this letter. If you have any questions
+       regarding this letter or require additional technical assistance, please contact
+       Stephanie Reyes at stephanie.reyes@hcd.ca.gov.
+
+       Sincerely,
+
+
+
+
+       David Zisser
+       Assistant Deputy Director
+       Local Government Relations and Accountability
+
+
+
+
+34 See. e.g., Cal. Code Regs., tit. 2, § 12162, subd. (a); see also California Attorney General Rob
+
+Bonta letter to all Cities and Counties in California re Crime Free Hosing Policies (Apr. 21, 2023),
+available at https://oag.ca.gov/system/files/attachments/press-
+docs/Crime%20Free%20Housing%20Guidance_4.21.23.pdf.
+35 Gov. Code, § 65585, subds. (i) and (j).

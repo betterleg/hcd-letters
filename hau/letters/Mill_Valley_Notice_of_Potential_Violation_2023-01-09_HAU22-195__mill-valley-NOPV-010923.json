@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018472",
+  "case_number": "HAU22-195",
+  "letter_date": "2023-01-09",
+  "jurisdiction": "Mill Valley",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65915",
+  "n_statutes": "1",
+  "keywords": "Wollmer v. City of Berkeley | objective standards",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mill-valley-NOPV-010923.pdf",
+  "hcd_letter": "Mill Valley Notice of Potential Violation 01/09/2023",
+  "housing_law": "Housing Accountability Act, Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mill-valley-NOPV-010923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 231055,
+  "text_chars": 20657,
+  "text_empty": false
+}

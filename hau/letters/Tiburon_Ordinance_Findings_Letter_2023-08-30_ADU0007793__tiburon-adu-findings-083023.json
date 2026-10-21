@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024849",
+  "case_number": "ADU0007793",
+  "letter_date": "2023-08-30",
+  "jurisdiction": "Tiburon",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/tiburon-adu-findings-083023.pdf",
+  "hcd_letter": "Tiburon Ordinance Findings Letter 08/30/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/tiburon-adu-findings-083023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 222575,
+  "text_chars": 20773,
+  "text_empty": false
+}

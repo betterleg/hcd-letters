@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022254",
+  "case_number": "ADU0001762",
+  "letter_date": "2022-03-23",
+  "jurisdiction": "Glendale",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/GlendaleADUOrdinanceResponse03252022.pdf",
+  "hcd_letter": "Glendale Ordinance Findings Letter 03/23/2022",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/GlendaleADUOrdinanceResponse03252022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 194108,
+  "text_chars": 7423,
+  "text_empty": false
+}

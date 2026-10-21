@@ -1,0 +1,172 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 15, 2025
+
+
+         Greg Wolff, Planning Director
+         City of Lafayette Planning Department
+         3675 Mt. Diablo Boulevard #210
+         Lafayette, CA 94549
+
+         Dear Greg Wolff:
+
+         RE: City of Lafayette – State Density Bonus Law Affordability Concession –
+             Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the City of Lafayette (City) regarding the City’s
+         application of the State Density Bonus Law1 (SDBL) to a proposed housing
+         development (Project). Among other provisions, the SDBL allows applicants that
+         provide sufficient deed-restricted affordable housing to obtain relief from development
+         standards (“concessions”) if doing so would reduce the cost of providing affordable
+         housing. This letter provides technical assistance explaining that SDBL concessions
+         cannot be used to increase the income levels of deed-restricted housing units required
+         to be provided under a local inclusionary zoning program.
+
+         Background
+
+         HCD understands that the Project consists of 90 for-sale units, including 12 deed-
+         restricted affordable units, located at 1001 Oak Hill Road. The City’s inclusionary
+         zoning ordinance requires that 9 percent of units be affordable at 110 percent of area
+         median income (AMI) and 6 percent be affordable at 50 percent of AMI in for-sale
+         developments. 2 The Project applicant instead proposes using an SDBL concession it
+         is entitled to by providing sufficient very low-income units to adjust the affordability to 5
+         percent of units at 50 percent of AMI, 5 percent of units at 135 percent of AMI, and 5
+         percent of units at 200 percent of AMI.
+
+         The applicant argues that the adjustment is permissible because it would reduce the
+         cost of providing the deed-restricted housing units, citing prior HCD technical
+
+
+
+
+1 Gov. Code, § 65915.
+2 Lafayette Municipal Code Chapter 6-37, Sections 6-3702(b), 6-3704(b).
+      Greg Wolff, Planning Director
+      Page 2
+
+
+      assistance to West Hollywood, 3 Sonoma County, 4 and Menlo Park5 that inclusionary
+      requirements can be modified to improve economic feasibility. The City rejected this
+      argument and informed the applicant that it would not support the concession.
+
+      Analysis
+
+      Government Code section 65915, subdivision (d)(1) allows eligible housing
+      developments to receive concessions for development standards if doing so would
+      reduce the cost of providing deed-restricted affordable housing, while local governments
+      are allowed to deny concessions if doing so would not result in an identifiable and actual
+      cost reduction. Therefore, the relevant question is:
+
+      Can the Project applicant obtain a concession to reduce the percentage of
+      affordable units required at lower-income levels in favor of higher ones?
+
+      The answer is “no.” Concessions cannot be used to reduce the Project’s obligation to
+      provide deed-restricted affordable housing at the specified income levels.
+
+      Allowing concessions to reduce the percentage of affordable units required at lower-
+      income levels in favor of higher ones would allow developments to avoid providing any
+      deed-restricted lower- and moderate-income housing beyond the amount needed to
+      qualify for a SDBL concession. This would effectively negate many local inclusionary
+      zoning programs in California. However, the SDBL specifically contemplates the
+      existence and compatibility of the SDBL with inclusionary zoning programs.
+      Government Code section 65915, subdivision (o)(9)(A)(ii) states that the total unit count
+      used to calculate density bonuses for housing developments means a calculation that
+      “[i]ncludes a unit designated to satisfy an inclusionary zoning requirement” of a local
+      government. Therefore, local governments must harmonize both inclusionary zoning
+      requirements and the SDBL.
+
+      The courts and the legislature provide additional direction. The Supreme Court of
+      California upheld the legitimacy of inclusionary zoning in its ruling in California Building
+      Industrial Association v. City of San Jose, noting that “[legislative] history makes clear
+      that there was agreement that the density bonus law ‘does not preempt the ability [of]
+
+3 Letter of Technical Assistance to the City of West Hollywood, September 2, 2022, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/West-Hollywood-TA-
+090222.pdf.
+4 Letter of Technical Assistance to Sonoma County, April 26, 2024, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sonoma-co-hau-704-ta-
+042624.pdf.
+5 Letter of Technical Assistance to the City of Menlo Park, December 17, 2024, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/menlo-park-hau-1267-
+ta-121724.pdf.
+       Greg Wolff, Planning Director
+       Page 3
+
+
+       local ordinances to require the inclusion of affordable (low, very low, or moderate-
+       income) units within a housing development.”6 The judiciary also addressed the topic of
+       harmonization in Latinos Unidos del Valle de Napa y Solano v. County of Napa, where
+       the First District Court of Appeal confirmed that a single affordable unit may serve both
+       for the purpose of the SDBL and for a local inclusionary ordinance. 7
+
+       As noted by the applicant, HCD has provided prior technical assistance on how local
+       governments should harmonize local inclusionary ordinances with the SDBL. These
+       include letters to West Hollywood (allowing a more deeply affordable unit to be
+       substituted for a less deeply affordable unit), Sonoma County (allowing a change in
+       tenancy), and Menlo Park (synchronizing an affordability threshold). These letters share
+       as a common theme that certain provisions of a local inclusionary ordinance can be
+       subject to modification via an SDBL concession, reinforcing that the contents of a local
+       inclusionary ordinance are not simply “off-limits” under the SDBL.
+
+       However, the letters should not be read to mean that all requirements of a local
+       government’s inclusionary ordinance are subject to modification via an SDBL
+       concession, especially when the request pertains to the most basic elements of an
+       inclusionary ordinance (i.e., the percentage of affordable units and the level of
+       affordability) and would reduce the overall affordability of the development and
+       essentially render the inclusionary zoning requirements moot. While the West
+       Hollywood letter did allow changes in the level of affordability, the allowed change was
+       in the direction of greater affordability, not less, as the Project applicant proposes.
+       Allowing a concession in favor of deeper affordability supports the goals of both local
+       inclusionary zoning ordinances and the SDBL.
+
+       Finally, the applicant’s proposal would run contrary to legislative intent. In the SDBL
+       itself, the Legislature expressed its intent in the statute that it “incentivize the
+       construction of very low, low-, and moderate-income housing units.” 8 Allowing the
+       proposed concession would reduce the amount of very low- and moderate-income units
+       in favor of above-moderate units. 9
+
+
+
+6 California Building Industrial Association v. City of San Jose (2015) 189 Cal.4th 435., p.9.
+7 Latinos Unidos del Valle de Napa y Solano v. County of Napa (2013) 217 Cal.App.4th 1160.
+8 Gov. Code, § 65915, subd. (u)(2).
+9 Furthermore, with the passing of AB 1505 (Chapter 486, Statutes of 2017), the Legislature
+
+allowed local governments to adopt local inclusionary zoning ordinances with certain
+limitations. Inclusionary ordinances are also commonly included in housing element
+implementation programs as an established method of increasing affordable housing
+production. It is implausible that the Legislature would give local governments the ability to
+adopt inclusionary zoning ordinances, with limitations already included in the statute, if it meant
+for the ordinances to be further constrained to the affordability percentages in the SDBL.
+Greg Wolff, Planning Director
+Page 4
+
+
+Conclusion
+
+HCD remains committed to supporting local governments in facilitating housing at all
+income levels and hopes the City finds this clarification helpful. If you have any
+questions regarding the content of this letter or would like additional technical
+assistance, please contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

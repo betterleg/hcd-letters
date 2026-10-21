@@ -1,0 +1,448 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 13, 2025
+
+
+         Heidi Vonblum, Planning Director
+         City of San Diego
+         202 C Street, M.S. 413
+         San Diego, CA 92101
+
+         Dear Heidi Vonblum:
+
+         RE: San Diego City Council’s Consideration of Amendments to the Accessory
+             Dwelling Unit (ADU) Density Bonus Program – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) is aware
+         that on March 4, 2025, the San Diego City Council moved to request that staff return
+         with an action item to remove the eligibility for the City’s ADU Home Density Bonus
+         Program from eight of the City’s 14 RS-1 residential zones. Additionally, the Council
+         requested that staff bring forward significant revisions to the ADU Home Density Bonus
+         Program in all remaining zones, including high and very high fire hazard severity zones.
+         Further, on May 1, 2025, a memo with these proposed amendments was presented to
+         the Planning Commission as part of a larger group of amendments, including to the
+         City’s ADU ordinance.
+
+         HCD understands that the ADU Home Density Bonus Program is intended to
+         supplement the City’s ADU ordinance and offer more opportunities to construct housing
+         than is strictly required by state law. However, upon learning of the City Council’s
+         decision and the subsequent recommendations, HCD conducted a review that raised
+         significant concerns regarding the City’s ADU ordinance, 6th Cycle housing element
+         implementation, duty to Affirmatively Further Fair Housing (AFFH), and Prohousing
+         Designation.
+
+         Background and Timeline
+
+         In October of 2020, the City of San Diego (City) adopted a series of housing legislation
+         reforms, including the City’s ADU Home Density Bonus Program. As of this writing, this
+         program has seen 875 ADUs permitted, including 368 with affordability restrictions,
+         according to City staff.
+
+         The following are key dates related to the City’s actions to amend the ADU Home
+         Density Bonus Program:
+      Heidi Vonblum, Planning Director
+      Page 2
+
+
+          •   January 28, 2025 – City Council Meeting
+              During a regular City Council meeting, the City Council moved to request that
+              staff return within 60 days with an action item to remove and repeal the City’s
+              ADU Home Density Bonus Program and strictly adhere to the minimum
+              standards provided within State ADU Law. Despite the bonus program’s absence
+              from the agenda and following repeated recommendations from the City Attorney
+              and Assistant City Attorney to raise the issue at a publicly noticed meeting in
+              compliance with the Brown Act, the City Council approved the motion.
+
+          •   February 28, 2025 – Memorandum to the City Council
+              The Memorandum to the City Council following January’s meeting presented
+              several potential amendments and addressed recent related actions and
+              potential concerns related to the repeal of the ADU Home Density Bonus
+              Program.
+
+          •   March 4, 2025 – City Council Meeting
+              During a regular City Council meeting, the City Council voted in favor of a motion
+              for the following:
+                      “Request City Staff to return to City Council within 90 days with an action
+                      item to remove applicability of the ADU Density Bonus program from the
+                      San Diego Municipal Code, conforming the local ADU Bonus Program to
+                      state-mandated ADU regulations for single-family zoned parcels in RS-1-
+                      1, RS-1-2, RS-1-3, RS-1-4, RS-1-8, RS-1-9, RS-1-10, and RS-1-11 zoned
+                      parcels; and
+                      Request the City Planning Department to bring forward revisions to the
+                      ADU Density Bonus program including, but not limited to, those provided
+                      in the February 28, 2025, memorandum to the Land Use and Housing
+                      Committee for consideration.” 1
+              During this meeting, concerns regarding the City’s housing element compliance
+              were raised and subsequently dismissed.
+
+          •   March 25, 2025 – City News Release
+              A news release titled “Gloria Administration Proposes Reforms to ADU Density
+              Bonus Program, Invites Public Feedback” was released, 2 and largely mirrors the
+              proposed amendments in the February 28, 2025 memorandum.
+          •   April 24, 2025 – Memorandum to the Planning Commission
+              City staff provided a report 3 to the Planning Commission, detailing the following
+              proposed amendments, consistent with the previous memorandum on
+              February 28, 2025, and the mayor’s March 25, 2025 news release.
+
+
+1 “City Council Meeting Results Summary, March 4, 2025,” available at
+
+https://sandiego.hylandcloud.com/211agendaonlinecouncil/Meetings/ViewMeeting?id=6429&doctype
+=3&site=council.
+2 “Gloria Administration Proposes Reforms to ADU Density Bonus Program, Invites Public Feedback,”
+
+available at https://www.sandiego.gov/sites/default/files/2025-03/2025-03-25-gloria-administration-
+proposes-reforms-to-adu-density-bonus-program-invites-public-feedback.pdf.
+3 “Report to the Planning Commission,” available at https://www.sandiego.gov/sites/default/files/2025-
+
+04/planning-commission-report-no-pc-25-016_0.pdf.
+Heidi Vonblum, Planning Director
+Page 3
+
+
+Analysis
+
+1. ADU Ordinance
+
+The recommendation for changes described above highlights several policies which are
+inconsistent with State ADU Law, both within the City’s ADU Home Density Bonus
+Program and within its general ADU ordinance. These items include, but are not limited
+to:
+    • Item 2 – Unit Allowances – The proposed amendments only allow three
+      statutorily-required units on a single-family lot. However, Government Code
+      section 66323, subdivisions (a)(1)-(4) require, in certain circumstances, that a
+      single-family lot may allow for a primary dwelling, one detached, new
+      construction ADU under 800 square feet, one ADU converted from existing
+      space in the primary unit or an accessory structure, and one junior accessory
+      dwelling unit (JADU) within the primary residence, for a total of four units.
+
+   •   Item 11 – Setbacks – The proposed amendments state that within Very High Fire
+       Hazard Severity Zones (VHFHSZs), ADUs will be required to have five-foot
+       setbacks. However, Government Code section 66314, subdivision (d)(7) requires
+       only four-foot side and rear setbacks for all ADUs. The fire separation distance
+       and defensible space requirements within the California Building Standards
+       Code, “Title 24” for additional fire separations will still apply regardless of ADU
+       setback requirements. Fire separation distance and defensible space cannot be
+       conflated with setbacks.
+
+   •   Item 12 – Replacement Parking – The proposed amendments would require
+       replacement parking when an uncovered parking spot is demolished or
+       converted outside of any Transit Priority Area (TPA), or within local zoning
+       overlays. However, Government Code section 66314, subdivision (d)(11), and
+       section 66322, subdivisions (a)(1)-(6) provide exemptions for parking
+       requirements which apply to all ADUs regardless of local zoning standards, the
+       City’s ADU Ordinance, or any other law.
+
+The above is not intended to take the place of a formal review, nor is it an exhaustive
+list; HCD may provide additional guidance in future communications. The adoption of
+these amendments would result in the City having an ADU ordinance that is
+inconsistent with State ADU law, in addition to diminishing the effectiveness of the City’s
+successful ADU Home Density Bonus Program in a way which may be inconsistent with
+other state laws.
+      Heidi Vonblum, Planning Director
+      Page 4
+
+
+
+      Finally, upon review of the City’s regulations for multiple-dwelling and urban lot split
+      regulations in single-family zones, it was noted that section 143.1305, subdivision (c)(2)
+      prohibits ADUs and JADUs on a lot that proposes, or has utilized the urban lot split
+      provisions of section 143.1315, as well as requires existing ADUs and JADUs to be
+      converted into what the City refers to as “multiple dwelling units.” However, ADUs and
+      JADUs are explicitly included within the definition of “unit” provided in Government Code
+      section 66411.7, subdivision (j)(2). While Government Code section 65852.21,
+      subdivision (f) states that a local agency shall not be required to permit ADUs or JADUs
+      on parcels utilizing the provisions of both that section and Government Code section
+      66411.7, existing ADUs and JADUs may be one of the two units allowed on either of the
+      newly-created parcels pursuant to Government Code sections 65852.21 and 66411.7.
+      Furthermore, requiring all ADUs and JADUs on a lot to be converted into a different type
+      of dwelling unit strips them of the protections within State ADU Law. This unduly
+      restricts ADUs and JADUs on lots which utilize lot splits and is inconsistent with state
+      law.
+
+      2. Housing Element Law
+
+      As the City is aware, through Housing Element Law, the Legislature has established
+      that “the availability of housing is of vital statewide importance, and the early attainment
+      of decent housing and a suitable living environment for every Californian, including
+      farmworkers, is a priority of the highest order.” 4 The City contributes to this statewide
+      effort through the housing programs in its 6th Cycle Housing Element (2021-2029),
+      once the housing element has been adopted by the City and found to be in substantial
+      compliance with Housing Element Law by HCD. On September 10, 2021, HCD found
+      the City’s 6th cycle housing element in substantial compliance.
+
+      AFFH in the Housing Element
+
+      The City’s ability to demonstrate a commitment to AFFH is an important part of the
+      housing element certification process. In the letter certifying the City’s housing element,
+      HCD noted that the element includes only marginally sufficient actions to AFFH. 5 The
+      proposed amendments to the City’s ADU Home Density Bonus Program and ADU
+      ordinance mark a shift that may be inconsistent with several of the policies that the City
+      has committed to. Additionally, as outlined in HCD’s September 10, 2021, housing
+      element review, the City must continue to analyze and address fair housing concerns.
+
+      This action by the City Council would move the City further away from addressing these
+      AFFH findings. As a result, the City’s housing element may require an amendment in
+      order to accommodate the substantial cuts made to the ADU Home Density Bonus
+      Program. The City would need to submit that amendment for HCD’s review for
+      substantial compliance with Housing Element Law. 6
+
+
+4 Gov. Code, § 65580, subd. (a).
+5 Housing Element Compliance Letter, available at
+
+https://www.sandiego.gov/sites/default/files/hcd_letter_sd_city_adopted_-_final_-_9-10-2021.pdf
+6 Gov. Code, § 65585, subd. (b)(1).
+        Heidi Vonblum, Planning Director
+        Page 5
+
+
+        Housing Element Law also include AFFH obligations that require that local agencies
+        promote and assist in the development of housing for persons with lower incomes and
+        other characteristics protected by state law; actively engage in outreach; and include an
+        assessment of fair housing, a sites analysis, and policies and programs that AFFH in
+        the housing element. 7 In these assessments, the City is required to use data,
+        quantifiable analysis, metrics, and milestones to analyze and implement its AFFH
+        programs. 8
+
+        The proposed amendments to the ADU bonus program implicate each of these duties
+        because the City relied on the ADU bonus program to satisfy the AFFH requirements of
+        its housing element. According to the analysis of fair housing issues on pg. HE-A-236 of
+        the City’s housing element, the ADU bonus program is a meaningful action to address
+        multiple fair housing issues. 9 Issues which rely, in part or whole, on the ADU bonus
+        program to comply with AFFH laws are as follows:
+           •   Access to Opportunity:
+                  o Within Racially/Ethnically Concentrated Areas of Poverty (R/ECAPS 10)
+                    and Integration/segregation
+                  o For Persons with Disabilities
+           •   Disproportionate Housing Needs
+                  o Overcrowding
+                  o Homelessness
+                  o Displacement Risk
+
+        Under Item 14, the proposed amendments remove program eligibility for the ADU Home
+        Density Bonus Program in the following eight residential zones: RS-1-1, RS-1-2, RS-1-
+        3, RS-1-4, RS-1-8, RS-1-9, RS-1-10, and RS-1-11. This amounts to nearly one quarter
+        of the total eligible area for the program, or approximately 25,689 acres. Approximately
+        22,324 acres, or roughly 20 percent of the total eligible area is outside of the SDA
+        where there is a maximum of one bonus ADU home. Under the current development
+        standards, removing eligibility from these zones would cut applicability of the program
+        by approximately 20 percent of the eligible spaces where production is most likely to
+        result in between one and three ADUs, as 98 percent of all ADU projects within the City
+        have been. The primary concerns raised during City Council meetings were related to
+        large, outlier projects and substantial increases in residential density where the
+        infrastructure cannot support it. However, the proposed amendments to eligibility criteria
+        appear to go much farther than addressing those concerns by removing eligibility from
+        20 percent of the area where fewer units would be allowed in the first place and by
+        imposing prohibitive restrictions on the remainder of all eligible sites.
+
+
+7 Gov. Code, § 65583.
+8 Id.
+9 Appendix HE-A, available at
+
+https://www.sandiego.gov/sites/default/files/he_appa_assessmentfairhousing_final.pdf.
+10 The racial/ethnic concentration R/ECAPs must have a non-white population of 50 percent or more
+
+and census tracts with 40 percent or more of individuals living at or below the poverty line.
+Heidi Vonblum, Planning Director
+Page 6
+
+
+A significant change in the eligible area for the ADU Home Density Bonus Program may
+jeopardize the City’s compliance with the AFFH programs in its housing element. While
+the City did provide an analysis of what the residents of underserved communities want,
+which includes more ADUs, more housing for rent or purchase in areas with good jobs
+and schools, and more rent-restricted affordable housing, the City has not released
+findings on the potential impacts of the amendments to the ADU Home Density Bonus
+Program’s applicability in R/ECAPS, or areas with disproportionate housing needs.
+There are several reasons to believe the current program is providing AFFH benefits
+that will be lost under the proposed changes.
+
+Notably, the Voluntary Accessibility Program (described below) currently grants an
+additional accessible ADU, even outside of the Sustainable Development Area (SDA).
+The proposed amendments would only allow for an additional accessible unit where the
+ADU Home Density Bonus Program is utilized. As a result, there would be fewer eligible
+areas, and significant barriers imposed upon these accessible units. And most projects
+utilizing the ADU Home Density Bonus Program are located within Tax Credit Allocation
+Committee (TCAC) opportunity areas identified as moderate, high, or highest resource,
+meaning the program is successfully creating more housing in higher resource areas –
+a critical AFFH goal. If an analysis of the sites finds that the ADU Home Density Bonus
+Program would shift affordable or accessible development out of these higher resource
+areas, the City would be at risk of not fulfilling its program and policy goals to
+satisfactorily address the fair housing issues identified within its analysis.
+
+Other Housing Element Programs
+
+In addition to the AFFH-related reasons listed above, the ADU Home Density Bonus
+Program is integral to the housing element’s continued compliance. The “ADU Incentive
+Program” is first mentioned on page HE-50 of San Diego’s housing element, under Goal
+1, Objective C – “Facilitate the construction of quality housing by providing programs
+that incentivize development.”
+
+Other housing element programs which may be utilized in tandem with the ADU Home
+Density Bonus Program – and may therefore be impacted by the changes to the
+program – include:
+
+   •   Historic Neighborhood Accessory Dwelling Unit Guidance
+          o Develop guidance and suggestions for how homeowners can successfully
+            add ADUs to properties that are designated as historic or are located
+            within historic districts.
+      Heidi Vonblum, Planning Director
+      Page 7
+
+
+
+
+          •   Voluntary Accessibility Program
+                 o [E]ncourages residential development that incorporates accessible design
+                   features to meet the needs of as many users as possible. The intent is to
+                   reduce the potential for occupants to be displaced from their homes due to
+                   a disability, to allow those persons to visit neighboring dwelling units, and
+                   to increase the number of accessible dwelling units in the local housing
+                   supply that meet long term housing needs by offering incentives that
+                   facilitate this type of accessible design.
+
+      Additionally, this program is a key part of the implementation of multiple policies within
+      the housing element. The following housing element policies would be impacted by the
+      proposed amendments:
+
+          •   HE-C.1
+                 o Develop and maintain policies and programs that identify obstacles to
+                   building affordable housing, infill housing, and smart growth housing
+                   development, and provide regulatory strategies and tools that will
+                   streamline the development process.
+          •   HE-C.2
+                 o Create and promote programs and incentives that stimulate the production
+                   of new units across all household incomes, ages, types, and needs.
+          •   HE-C.7
+                 o Incentivize the provision of ADUs that are covenant restricted for very low,
+                   low-, and moderate-income households.
+          •   HE-C.11
+                 o Allow densities that exceed ranges defined in the zone for projects using
+                   State density bonus provisions and for projects within designated TPA.
+
+      Moreover, the ADU Home Density Bonus Program is listed on page HE-120 as an
+      incentive program with an anticipated 40 covenant-restricted units per year, to run for
+      the entirety of the 2021-2029 housing element cycle. 11 This program commitment exists
+      regardless of whether or not the City has met its housing production goals.
+
+
+
+
+11 City of San Diego Certified Housing Element (2021 – 2029), available at
+
+https://www.sandiego.gov/sites/default/files/he_final_print_view_june2021.pdf
+         Heidi Vonblum, Planning Director
+         Page 8
+
+
+
+         As a reminder, if a review of the City’s actions find that they are inconsistent with the
+         City’s housing element, or fail to implement programs in the housing element, HCD may
+         revoke housing element compliance, opening the City to the “Builder’s Remedy” as
+         described in the Housing Accountability Act. 12 Decertification of the City’s housing
+         element would also result in the City losing eligibility or priority for a number of funding
+         opportunities, including the Prohousing Incentive Program (PIP), Affordable Housing
+         and Sustainable Communities (AHSC), and the Infill Infrastructure Grant (IIG) program.
+
+         3. General AFFH Obligation
+
+         A public agency must not only incorporate AFFH programs into its housing element, as
+         described above, but is responsible for complying with AFFH principles in all its
+         activities and programs relating to housing and community development. 13 Government
+         Code section 8899.50, subdivision (a)(1), defines AFFH as “taking meaningful actions,
+         in addition to combating discrimination, that overcome patterns of segregation and
+         foster inclusive communities free from barriers that restrict access to opportunity based
+         on protected characteristics.” In addition, public agencies are prohibited from taking any
+         action that is materially inconsistent with their obligation to AFFH. 14
+
+         The ADU Home Density Bonus Program offers a valuable opportunity to provide much-
+         needed affordable housing opportunities in areas with access to critical resources and
+         amenities. As described above, the proposed amendments, which would repeal the
+         program’s applicability within eight residential zones, comprising approximately 20
+         percent of the area where small-scale ADU production is most likely, and apply
+         additional restrictions on ADUs regardless of their eligibility for the ADU Home Density
+         Bonus Program, would impact ADU development within critical resource areas.
+         This would raise concerns about whether the amended provisions are “materially
+         inconsistent” with the City’s obligation to AFFH.
+
+         4. Prohousing Designation Status
+
+         The proposed amendments to the City’s ADU ordinance and ADU Home Density Bonus
+         Program could impact the City’s Prohousing Designation due to the significant
+         departure from programs which were promised and taken into consideration at the time
+         HCD approved San Diego’s Prohousing application on December 15, 2022.
+
+         The City applied to the Prohousing Designation Program in April of 2022, with the final
+         draft submitted in November of 2022. HCD awarded the City 3 points on its application
+         for utilizing Category 1E, to increase allowable density in low-density residential areas
+         through allowing ADUs and JADUs in excess of State ADU Law. The program
+         description is:
+
+
+
+
+12 Gov. Code, § 65589.5, subd. (d).
+13 Gov. Code, § 8899.50, subd. (b)(1).
+14 Id.
+      Heidi Vonblum, Planning Director
+      Page 9
+
+
+             “Accessory Dwelling Unit Bonus for Affordable ADUs program allows for one
+             additional ADU for every ADU that is set aside as affordable to very low income,
+             low income, and moderate income households.”
+
+      San Diego’s ADU Home Density Bonus Program was specifically referenced in HCD’s
+      award letter, highlighting an example of praiseworthy prohousing policies; however, the
+      substantial shift in the program’s implementation under the proposed amendments may
+      trigger a review, and potentially result in revocation, of the City’s Prohousing
+      Designation. 15
+
+      Conclusion
+
+      As outlined above, the proposed amendments to the ADU Home Density Bonus
+      Program include several provisions which may be inconsistent with state law, including
+      ADU Law, Housing Element Law, and AFFH, as well as the City’s Prohousing
+      Designation. While HCD understands the potential need to amend the existing program
+      requirements to meet the needs of local communities, the City should consider more
+      targeted amendments which address the specific, adverse unintended consequences.
+
+      HCD would also like to remind the City that HCD has statutory authority to enforce ADU
+      Law, Housing Element Law and AFFH. Accordingly, HCD may review the City’s actions
+      and inactions to determine consistency with these laws. If HCD finds that the City’s
+      actions are inconsistent with, or fail to implement, the City’s housing element programs,
+      HCD may revoke its finding of compliance. 16 In addition, if HCD finds that the City’s
+      actions do not comply with state law, HCD may notify the California Office of the
+      Attorney General that the City is in violation of state law. 17
+
+      HCD requests that the City respond to this letter by July 11, 2025 with the City’s
+      intended next steps, or an alternative means of implementation which is consistent with
+      state law. If you have questions or need additional information, please contact
+      Tyler Galli at (916) 776-7613 or Tyler.Galli@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+
+
+15 CCR Title 25, § 6607, subd. (a)(1).
+16 Gov. Code, § 65585, subd. (i)(1).
+17 Gov. Code, § 65585, subd. (j).

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011449",
+  "case_number": "HAU0000085",
+  "letter_date": "2023-06-08",
+  "jurisdiction": "La Canada Flintridge",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65585(f)(1) | 65585(f)(2) | 65589.5(d)(5) | 65941.1",
+  "n_statutes": "4",
+  "keywords": "Housing Element Self-Certification: Housing Element Backdate",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-canada-flintridge-nov-060823.pdf",
+  "hcd_letter": "La Canada Flintridge Notice of Violation 06/08/2023",
+  "housing_law": "Housing Element Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-canada-flintridge-nov-060823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 212632,
+  "text_chars": 17706,
+  "text_empty": false
+}

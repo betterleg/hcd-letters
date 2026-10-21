@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026585",
+  "case_number": "HAU0003468",
+  "letter_date": "2026-07-27",
+  "jurisdiction": "Grover Beach",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019 | Housing Element Law",
+  "statutes": "65009.1 | 65588 | 65915 | 66300",
+  "n_statutes": "4",
+  "keywords": "No net loss | ballot measure | housing crisis act",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/grover-beach-ta-072726.pdf",
+  "hcd_letter": "Grover Beach Technical Assistance Letter 07/27/2026",
+  "housing_law": "Housing Crisis Act of 2019, Housing Element Law, No Net Loss",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/grover-beach-ta-072726.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 211006,
+  "text_chars": 16272,
+  "text_empty": false
+}

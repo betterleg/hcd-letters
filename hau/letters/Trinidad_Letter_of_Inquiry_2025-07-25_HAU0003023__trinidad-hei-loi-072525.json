@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021511",
+  "case_number": "HAU0003023",
+  "letter_date": "2025-07-25",
+  "jurisdiction": "Trinidad",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "Trinidad HEI Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/trinidad-hei-loi-072525.pdf",
+  "hcd_letter": "Trinidad Letter of Inquiry 07/25/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/trinidad-hei-loi-072525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169081,
+  "text_chars": 6632,
+  "text_empty": false
+}

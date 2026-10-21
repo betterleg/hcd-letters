@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025648",
+  "case_number": "HAU0000178",
+  "letter_date": "2019-03-20",
+  "jurisdiction": "Fillmore",
+  "letter_type": "Successful Completion of Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "corrective action | housing element law",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/venFillmore032019.pdf",
+  "hcd_letter": "Fillmore Successful Completion of Corrective Action 03/20/2019",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/venFillmore032019.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 161900,
+  "text_chars": 5082,
+  "text_empty": false
+}

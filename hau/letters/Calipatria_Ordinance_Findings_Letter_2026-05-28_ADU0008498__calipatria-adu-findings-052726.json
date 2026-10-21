@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025969",
+  "case_number": "ADU0008498",
+  "letter_date": "2026-05-28",
+  "jurisdiction": "Calipatria",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66326",
+  "n_statutes": "11",
+  "keywords": "Deed Restriction | Unit Allowance | height | impact fees. | owner occupancy",
+  "n_keywords": "5",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/calipatria-adu-findings-052726.pdf",
+  "hcd_letter": "Calipatria Ordinance Findings Letter 05/28/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/calipatria-adu-findings-052726.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 240918,
+  "text_chars": 18309,
+  "text_empty": false
+}

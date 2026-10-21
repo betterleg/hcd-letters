@@ -1,0 +1,176 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 3, 2026
+
+
+         Chloe Chen, Principal Planner
+         Community Development Department
+         City of Beverly Hills
+         455 North Rexford Drive
+         Beverly Hills, CA 90210
+
+         Dear Chloe Chen:
+
+         RE: City of Beverly Hills – Enacted Senate Bill 79 Transit-Oriented Development
+             Alternative Plan – SB 79 Findings Letter and Letter of Technical Assistance
+
+         Thank you for submitting the City of Beverly Hills’ (City) revised Senate Bill (SB) 79
+         Transit-Oriented Development Alternative Plan (TODAP), adopted and enacted under
+         Urgency Ordinance No. 26-O-2935, received for review on June 10, 2026, along with
+         supplemental documentation on July 27, 2026. The California Department of Housing
+         and Community Development (HCD) sent a first review letter on May 8, 2026. 1
+
+         While the enacted TODAP addresses many statutory requirements, HCD finds that the
+         TODAP is not in substantial compliance with SB 79 (Government Code Chapter
+         4.1.5). The standards and provisions of Government Code section 65912.157 continue
+         to apply in the City unless and until the City adopts a TODAP that has been approved
+         by HCD. 2
+
+         Findings
+
+         HCD reviewed the documents submitted by the City (see Attachment A - Table 1) and
+         finds that revisions will be necessary to substantially comply with the requirements of
+         Government Code section 65912.161. Specifically:
+
+
+1 HCD has not evaluated whether the City met the requirements for passing an urgency ordinance
+
+pursuant to Government Code section 65858. On July 17, 2023, the California Office of the Attorney
+General issued legal guidance for local governments regarding requirements under state law that
+apply to the enactment of urgency ordinances, available at:
+https://oag.ca.gov/system/files/attachments/press-docs/7-17-
+23%20Letter%20Urgency%20Ordinances%20and%20Ministerial%20Approval%20of%20Housing%2
+0Projects.pdf
+2 Gov. Code, 65912.161, subd. (d).
+Chloe Chen, Principal Planner
+Page 2
+
+
+
+      Government Code section 65912.161, subdivision (a)(1), provides that: “A local
+      transit-oriented development alternative plan shall maintain at least the same total net
+      zoned capacity, in terms of both total units and residential floor area, as provided for in
+      this chapter across all transit-oriented development zones within the jurisdiction.”
+
+      The City’s proposed TODAP does not “maintain at least the same total net zoned
+      capacity….” (Emphasis added.) A city must first subtract the existing unit count from the
+      gross zoned density across transit-oriented development zones provided for under
+      Government Code section 65912.157, subdivisions (a)(3)-(6), (b), and (e) 3 to determine
+      the net zoned capacity that needs to be maintained. A city must then similarly calculates
+      the gross zoned capacity for the TODAP and subtract the existing unit count from that
+      gross TODAP capacity, and this will result in the TODAP’s net zoned capacity. If the
+      TODAP’s net zoned capacity matches or exceeds SB 79’s net zoned capacity, then the
+      TODAP complies with the statute.
+
+      However, the City of Beverly Hills does not subtract the existing unit count from the
+      gross TODAP capacity; rather, the City’s TODAP has a gross zoned capacity that is
+      equal to SB 79’s net zoned capacity. The City must; therefore, recalculate its TODAP
+      based on the statutory requirements of a net-to-net comparison of the SB 79 zoned
+      capacity. 4
+
+      Technical Assistance
+
+      Obligations Under Other State Housing Laws
+
+      Additionally, the City is advised that because a TODAP is part of a local jurisdiction’s
+      municipal code, other state housing laws apply that operate independently of the
+      TODAP provisions, including the State Density Bonus Law (SDBL) pursuant to
+      Government Code sections 65915-65918, not the modified version of SDBL in section
+      65912.157, subdivision (d). Therefore, pursuant to the SDBL, the City must remove
+      language referencing and incorporating section 65912.157, subdivision (d) from Section
+      10-3-5102.8 (A) of its TODAP Ordinance.
+
+      Conclusion and Next steps
+
+      The City has until Monday, November 2, 2026 (60 days from this letter), to respond to
+      the written finding and technical assistance. 5 Pursuant to Government Code section
+      65912.160, subdivision (d)(5), the City must consider the findings provided here and
+      must either amend the ordinance to comply with HCD’s findings or enact the ordinance
+      without changes. If the City chooses to enact the ordinance without changes, it must
+
+3 Gov. Code, § 65912.161, subd. (a)(1)(A).
+
+4 The SB 79 gross zoned capacity is 22,484.5 units. The SB 79 net zoned capacity is 19,549.5 after
+
+the existing units (2,935) are subtracted from the SB 79 gross zoned capacity. The TODAP net zoned
+capacity is 16,614.5, after the existing units are subtracted from the TODAP gross capacity of
+19,549.5. Therefore, the remaining capacity that needs to be made up in the TODAP is 2,935.
+5 Gov. Code, § 65912.160, subd. (d)(4).
+Chloe Chen, Principal Planner
+Page 3
+
+
+
+      include findings in its resolution adopting the ordinance that explain the reasons the City
+      believes the ordinance complies with Government Code section 65912.161 despite the
+      findings provided by HCD.
+
+      Please be advised, if the City does not amend its ordinance in response to HCD’s
+      findings or does not adopt a resolution with findings explaining the reason the ordinance
+      complies with this section and addressing HCD’s findings, HCD shall notify the City and
+      may notify the Attorney General that the City is in violation of SB 79 pursuant to
+      Government Code section 65912.160, subdivision (d)(6).
+
+      Failure by the City to allow the SDBL to be used for housing development projects
+      proposed on a TODAP site would be a violation of the SDBL. Under Government Code
+      section 65585, subdivision (j)(3), HCD must notify a local government when that local
+      government takes actions that violate SDBL and may notify the California Office of the
+      Attorney General of the violation.
+
+      HCD reserves the right to request additional information to ensure substantial
+      compliance with SB 79 and may update its findings if new information comes to light. In
+      addition, the Southern California Association of Governments’ (SCAG) SB 79 map shall
+      have rebuttable presumption of validity for use by project applicants and local
+      governments. 6
+
+      HCD appreciates the cooperation of the City of Beverly Hills staff during the course of
+      this review. HCD is committed to assisting the City in addressing all statutory
+      requirements of SB 79. If you have any questions or need additional technical
+      assistance, please contact Xjvirr Thomas at Xjvirr.Thomas@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Deputy Director
+      Housing Policy Development
+
+
+      Enclosure
+      Attachment A – Table 1 City of Beverly Hills Submittal Documents
+
+
+
+
+6 Gov. Code, § 65912.160, subd. (f).
+                                       Attachment A
+
+Table 1 Submittal Documents
+       Filename                         Document Description                Received Date
+                                        Description of the Transit-Oriented
+      Amended Adopted Transit-Oriented
+1                                       Development Alternative Plan and June 10, 2026
+      Development Sites Inventory
+                                        sites
+      Beverly Hills City Council Agenda City Council/Planning Commission
+2                                                                           June 10, 2026
+      Packet dated June 3, 2026         Staff Report and Exhibits
+3     Amended TODAP Map                 Identified TOD stops                June 10, 2026
+      Original and Amended TODAP        Capacity Analysis of each TOD
+4                                                                           June 10, 2026
+      Areas Comparison                  Zone
+      SB 79 Urgency Ordinance Amended
+5                                       SB 79 Urgency Ordinance             June 10, 2026
+      TODAP
+6     Methodology for HCD               Capacity Analysis                   July 27, 2026

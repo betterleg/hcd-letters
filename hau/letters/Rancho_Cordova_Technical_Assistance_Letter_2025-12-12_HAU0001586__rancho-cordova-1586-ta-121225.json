@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022460",
+  "case_number": "HAU0001586",
+  "letter_date": "2025-12-12",
+  "jurisdiction": "Rancho Cordova",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "65589.5(a)(2)(L) | 65589.5(f)(1) | 65589.5(f)(3) | 65589.5(f)(9) | 65589.5(h)(3)(C)(i) | 65589.5(j)(2)(A) | 65589.5(j)(4) | 65943(a) | 65943(b) | 65944(a)",
+  "n_statutes": "10",
+  "keywords": "Consistency Review | Impact Fees | Parkland Requirement | Required Application Materials",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/rancho-cordova-1586-ta-121225.pdf",
+  "hcd_letter": "Rancho Cordova Technical Assistance Letter 12/12/2025",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/rancho-cordova-1586-ta-121225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 326832,
+  "text_chars": 16675,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010749",
+  "case_number": "HAU20-002",
+  "letter_date": "2020-05-12",
+  "jurisdiction": "Hollister",
+  "letter_type": "Housing Element Findings of Noncompliance/ Corrective Action",
+  "housing_laws": "Housing Crisis Act of 2019 | Housing Element Law",
+  "statutes": "65585 | 66300 | 66300(b)(1)(D)(i)",
+  "n_statutes": "3",
+  "keywords": "affected city | affected jurisdiction | growth management program",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sbtHollister-CAL-051220.pdf",
+  "hcd_letter": "Hollister Housing Element Findings of Noncompliance/ Corrective Action 05/12/2020",
+  "housing_law": "Housing Element Law, Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sbtHollister-CAL-051220.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156865,
+  "text_chars": 4606,
+  "text_empty": false
+}

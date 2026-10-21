@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010658",
+  "case_number": "HAU20-019-a",
+  "letter_date": "2021-02-23",
+  "jurisdiction": "Carlsbad",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300",
+  "n_statutes": "1",
+  "keywords": "Prop E | affected city | growth cap | growth measure",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiCarlsbad-TA-022321.pdf",
+  "hcd_letter": "Carlsbad Technical Assistance Letter 02/23/2021",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiCarlsbad-TA-022321.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 142652,
+  "text_chars": 3643,
+  "text_empty": false
+}

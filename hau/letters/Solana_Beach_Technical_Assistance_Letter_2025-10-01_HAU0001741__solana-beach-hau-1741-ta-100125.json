@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022107",
+  "case_number": "HAU0001741",
+  "letter_date": "2025-10-01",
+  "jurisdiction": "Solana Beach",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(f)(3)(A)",
+  "n_statutes": "1",
+  "keywords": "RCFE | waivers",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/solana-beach-hau-1741-ta-100125.pdf",
+  "hcd_letter": "Solana Beach Technical Assistance Letter 10/01/2025",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/solana-beach-hau-1741-ta-100125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169699,
+  "text_chars": 6649,
+  "text_empty": false
+}

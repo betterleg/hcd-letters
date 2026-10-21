@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0014325",
+  "case_number": "HAU0000773",
+  "letter_date": "2024-03-01",
+  "jurisdiction": "Hidden Hills",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/hidden-hills-loi-03012024.pdf",
+  "hcd_letter": "Hidden Hills Letter of Inquiry 03/01/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/hidden-hills-loi-03012024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189866,
+  "text_chars": 6811,
+  "text_empty": false
+}

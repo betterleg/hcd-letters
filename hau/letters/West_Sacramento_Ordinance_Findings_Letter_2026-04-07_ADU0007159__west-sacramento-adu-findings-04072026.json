@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025726",
+  "case_number": "ADU0007159",
+  "letter_date": "2026-04-07",
+  "jurisdiction": "West Sacramento",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66326",
+  "n_statutes": "11",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/west-sacramento-adu-findings-04072026.pdf",
+  "hcd_letter": "West Sacramento Ordinance Findings Letter 04/07/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/west-sacramento-adu-findings-04072026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 280205,
+  "text_chars": 26405,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024925",
+  "case_number": "HAU21-101",
+  "letter_date": "2026-02-19",
+  "jurisdiction": "Temple City",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "65852.21",
+  "n_statutes": "1",
+  "keywords": "constraints analysis",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/temple-city-ta-021926.pdf",
+  "hcd_letter": "Temple City Technical Assistance Letter 02/19/2026",
+  "housing_law": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/temple-city-ta-021926.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 229505,
+  "text_chars": 17228,
+  "text_empty": false
+}

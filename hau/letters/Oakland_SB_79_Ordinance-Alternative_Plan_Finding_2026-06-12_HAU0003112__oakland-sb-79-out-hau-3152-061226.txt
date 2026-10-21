@@ -1,0 +1,282 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+         June 12, 2026
+
+         Michael Branson, Senior Deputy City Attorney
+         City of Oakland
+         One Frank H. Ogawa Plaza, Sixth Floor
+         Oakland, CA 94612
+
+         Dear Michael Branson:
+
+         RE: City of Oakland – Review of Enacted Senate Bill 79 Ordinance to Temporarily
+             Exclude Sites under State SB 79 Law (Gov. Code, §§ 65912.155 - 65912.162)
+
+         Thank you for submitting the City of Oakland’s (City) adopted and enacted Ordinance
+         No. 13875 (Ordinance) to the California Department of Housing and Community
+         Development (HCD). The Ordinance amends Title 17 of the Oakland Municipal Code
+         (the Planning Code) to add Chapter 17.86 S-8 Abundant and Affordable Homes Near
+         Transit (Senate Bill 79) Combining Zone to identify sites eligible and ineligible or
+         excluded from Senate Bill (SB) 79 property development standards.
+
+         Pursuant to Government Code section 65912.160, subdivision (d)(3)(A), this letter
+         consists of HCD’s findings that the Ordinance is not in compliance with State SB 79
+         law and details the revisions necessary to substantially comply with SB 79.
+
+         Analysis
+
+         HCD received the City’s adopted and enacted ordinance on March 17, 2026 and
+         supplemental documents on April 3, 2026, and April 30, 2026 (see Attachment A, Table
+         1 City of Oakland Submittal Documents), after receiving the draft ordinance on February
+         13, 2026.
+
+         HCD finds the Ordinance does not comply with State SB 79 law as follows:
+
+         1. Section 17.86.050 – Eligibility – The ordinance states: “The following zones are not
+            residential, mixed, or commercial zones and therefore a site with any such
+            designation is an Ineligible Site and may not utilize the development standards
+            provided in the Abundant and Affordable Homes Near Transit Act:
+                − OS Open Space Zoning Designations
+                − M-40 Industrial Zone Designations
+                − S-16 Interstate Corridor Commercial Zone Designations
+                − D-CE-5, D-CE-6 Central Estuary District Industrial Zone Designations
+                − D-GI Gateway District Industrial Zone Designations
+                − D-CO-5, D-CO-6 Coliseum Area Industrial Zone Designations
+Michael Branson, Senior Deputy City Attorney
+Page 2
+
+
+       − Undesignated areas serving as road, highway, train track, bicycle lane, and
+         other right of way.
+       − Parcels lying underwater.
+
+In addition, Section 17.86.020 (Definitions) provides definitions for terms that do not
+appear in Government Code section 65912.156. The City defines “ineligible site” to
+mean “a site within the S-8 zone (within one-half mile of a TOD Stop) that is not zoned
+for residential, mixed, or commercial development, as further identified in Section
+17.86.050.”
+
+However, Government Code section 65912.157, subdivision (a) states (emphasis
+added): “A housing development project shall be an allowed use as a transit-oriented
+housing development on any site zoned for residential, mixed, or commercial
+development within one-half or one-quarter mile of a transit-oriented development
+stop….” Furthermore, Government Code section 65912.155 “finds and declares [that]
+California faces a housing shortage both acute and chronic, particularly in areas with
+access to robust public transit infrastructure” 1 and “building more homes near transit
+access reduces housing and transportation costs….” 2
+
+While the statute does not explicitly define “mixed” or “commercial” uses, if the
+jurisdiction’s zoning principally or conditionally permits residential, residential mixed use,
+or commercial land use on a parcel not underwater within a transit-oriented
+development (TOD) zone over which the jurisdiction has zoning authority, then SB 79
+shall apply. This is consistent with prior HCD technical assistance explaining that
+“zoned for” means principally or conditionally permitted land use within a zone. 3 For
+example, if a site is zoned industrial or open space but the zone allows for commercial
+development, then SB 79 may apply.
+
+According to the City’s Planning Code, the following zones principally or conditionally
+permit residential, mixed, or commercial development and therefore are eligible for SB
+79 unless specific exceptions apply. In addition, the parcel land areas must be included
+in the City’s SB 79 capacity calculations:
+
+   •   17.11.050 OS Open Space Zone conditionally permits permanent residential
+       activities and commercial activities.
+   •   Table 17.72.01 M-40 Industrial Zone principally and conditionally permits
+       commercial activities.
+   •   Table 17.73.020 CIX-, IG, IO Industrial Zones principally and conditionally permit
+       commercial activities.
+
+
+1 Gov. Code, § 65912.155, subd. (a).
+2 Gov. Code, § 65912.155, subd. (c).
+3 HCD TA Letter to the City of Hayward, dated January 28, 2025. Available at:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/hayward-
+hau-1167-sb-684-1123-ta-01282025.pdf
+Michael Branson, Senior Deputy City Attorney
+Page 3
+
+
+   •   Table 17.101E.01 D-CE-5 and D-CE-6 Central Estuary District Industrial Zone
+       principally and conditionally permit commercial activities.
+   •   Table 17.101F.01 D-GI Gateway District Industrial Zone principally and
+       conditionally permit commercial activities.
+   •   Table 17.101H.01 D-CO-5, D-CO-6 Coliseum Area Industrial Zone principally
+       and conditionally permit commercial activities.
+
+2. Section 17.86.060(B) – Exclusions: Sites in a Transit-Oriented Development
+   Zone around a Transit-Oriented Development Stop that is primarily comprised
+   of a Low-Resource Area which includes sites with densities that cumulatively
+   allow for at least 40 percent of the aggregate density for the Transit-Oriented
+   Development Zone specified in the Abundant and Affordable Homes Near
+   Transit (Senate Bill 79). (Gov. Code Sec. 65912.161(b)(1)(B)(ii)) – The Ordinance
+   states: “The following TOD stops, and therefore all parcels located within one-half
+   mile of those TOD stops, are primarily comprised of a low-resource area and include
+   sites with densities cumulatively exceeding forty (40) percent of those specified in
+   Section 65912.157(a). The TOD zones surrounding the following TOD stops are
+   excluded from the standards provided in Senate Bill 79:”
+
+   A local government may enact an ordinance to temporarily exclude sites from the
+   provisions of Government Code section 65912.157 until one year after the adoption
+   of the jurisdiction’s seventh cycle Housing Element by demonstrating that the sites
+   meet at least one of the criteria under Section 65912.161, subdivision (b)(1)(A)-(F). 4
+   One of the criteria includes Section 65912.161, subdivision (b)(1)(B)(ii), which
+   states: “A site in a transit-oriented development zone around a transit-oriented
+   development stop that is primarily comprised of a low-resource area which includes
+   sites with densities that cumulatively allow for at least 40 percent of the aggregate
+   density for the transit-oriented development zone specified under subdivision (a) of
+   Section 65912.157.”
+
+   Based on the City’s submitted documents, and related to Finding 1 above, HCD
+   understands that the City did not assess the densities as specified in Section
+   65912.157, subdivision (a) for several zones that principally or conditionally permit
+   residential or commercial development. For example, the City did not assess the
+   densities for sites in the CIX, IG, and OS zones within the West Oakland BART TOD
+   zone. Therefore, HCD is unable to determine whether the sites would meet 40
+   percent of the aggregate density for the TOD zone as specified in Section
+   65912.157, subdivision (a) because the City did not include all the land area eligible
+   for SB 79 in its analysis.
+
+   In addition, please clarify whether the City intends to temporarily exclude sites in the
+   AC Transit TEMPO 20th Avenue TOD Zone. Section 17.86.060(B)(11) specifies that
+   the AC Transit TEMPO 20th Avenue Stop is excluded from the standards provided in
+
+
+4 Gov. Code, 65912.161, subd. (b)(1).
+Michael Branson, Senior Deputy City Attorney
+Page 4
+
+
+   SB 79; however, Exhibit B, Map 28 (AC Transit TEMPO 20th Avenue Stop) includes
+   the label “Exclusion Removed by Council Amendment 3/3/2026.”
+
+3. Section 17.86.060(C) – Exclusions: Sites with a historic resource designated
+   as of January 1, 2025, on a local register. (Gov. Code Sec. 65912.161(b)(1)(F)) –
+   The Ordinance states: “All sites on the Local Register as mapped on City of Oakland
+   Geospatial Information System Zoning Map as of January 1, 2025, are excluded.
+   Policy 3.8 of the City of Oakland Historic Preservation Element, an element of the
+   Oakland General Plan, defines the Local Register of Historic Resources. The Local
+   Register is defined to include all Oakland Landmarks, S-7 and S-20 Preservation
+   District combining zone properties, ‘Potentially Designated Historic Properties’ that
+   have an existing survey rating of ‘A’ or ‘B’ or are located within Areas of Primary
+   Importance (APIs), Heritage Properties, and Preservation Study List Properties.”
+
+   A local government may enact an ordinance to temporarily exclude “sites with a
+   historic resource designated as of January 1, 2025, on a local register” from the
+   provisions of Government Code section 65912.157 until one year after the adoption
+   of the jurisdiction’s seventh cycle Housing Element. 5 According to the City’s SB79
+   historic resources parcels document, the City excluded 1,820 sites under this
+   temporary exemption provision.
+
+   However, HCD understands that excluded sites include “Potential Designated
+   Historic Properties” (PDHPs) and the City’s website specifically states that “PDHP is
+   not a designation.”6 PDHPs are not designated historic resources and therefore do
+   not qualify for temporary exclusion under Section 65912.161, subdivision (b)(1)(F).
+
+Conclusion
+
+Please note, pursuant to Government Code section 65912.161, subdivision (b)(2), the
+City’s public zoning map must be updated to reflect any amendments to the sites or
+transit-oriented development zones that are and are not covered by Section 65912.157.
+In addition, pursuant to Government Code section 65912.160, subdivision (f), the
+Metropolitan Transportation Commission (MTC) SB 79 map shall have rebuttable
+presumption of validity for use by project applicants and local governments and
+therefore the City’s Ordinance and zoning map shall be at least as inclusive as MTC’s
+map when it is made available. HCD reserves the right to request additional information
+to monitor ongoing substantial compliance with SB 79 and may update its findings if
+new information comes to light. HCD may revoke compliance if the local government’s
+actions do not comply with state law.
+
+5 Gov. Code, 65912.161, subd. (b)(1)(F).
+6 City of Oakland, Historical and Architectural Rating Systems website: “PDHP is not a
+
+designation. It is a category based on Survey ratings, and the ratings simply report what
+the Survey has found throughout Oakland.” Available at:
+https://www.oaklandca.gov/Planning-Building/Historic-Preservation/Historical-and-
+Architectural-Rating-Systems
+Michael Branson, Senior Deputy City Attorney
+Page 5
+
+
+
+HCD is committed to assisting the City in addressing all statutory requirements of SB
+79. If you have any questions or need additional information, please contact Grace Wu
+at grace.wu@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Housing Accountability Unit Chief
+
+Enclosure
+
+Attachment A – Table 1 City of Oakland Submittal Documents
+                                      Attachment A
+Table 1 City of Oakland Submittal Documents
+             Filename               Document Description                             Submittal Date
+                                    • Ordinance 13875 (p. 1-6);
+                                    • Exhibit A: S-8 Abundant and Affordable
+                                       Homes Near Transit (Senate Bill 79)
+                                       Combining Zone (p. 7-15);
+                                    • Exhibit B: SB 79 Low Resource and
+                                       40% Density Eligibility & Exclusion
+                                       Analysis Map (p. 16-63);
+             View Supplemental
+             Legislation and        • Exhibit C: SB 79 Site Exclusion
+     1                                 Analysis – Sites Excluded Based on            03/17/2026
+             Exhibits A B C And D –
+             352026.pdf                Zoning Under Gov. Code
+                                       65912.161(b)(1)(A) (50 percent density
+                                       and residential FAR) (p. 64-82)
+                                    • Exhibit D: SB 79 Exclusion Analysis of
+                                       Historic Resources – Sites Excluded
+                                       Under Gov. Code
+                                       65912.161(b)(1)(F)(local register of
+                                       historic resources) (p. 83-101)
+             Att A_50% capacity
+     2                              Zoning Analysis for 50 Percent Exclusion         03/17/2026
+             calculation.pdf
+            Att B_Tier 1-40%          Summary of Density of Tier 1 TOD Zones
+     3                                                                               03/17/2026
+            density calculation.pdf   by Geographical Area
+                                      Housing Capacity Analysis of Oakland
+            Att C_Tier 1-parcel
+     4                                Zoning Compared with SB 79 Standards in        03/17/2026
+            calculation.pdf
+                                      Tier 1 TOD Zones for Six BART Stations
+            Att D_Tier 2-40%          Summary of the Density of Tier 2 TOD
+     5                                                                               03/17/2026
+            density calculation.pdf   Zones by Geographic Area
+                                      Housing Capacity Analysis of Oakland
+            Att E_Tier 2-parcel       Zoning Compared with SB 79 Standards in
+     6                                                                               03/17/2026
+            calculation.pdf           Tier 2 TOD Zones for 39 AC Transit Tempo
+                                      Stops
+            Analysis of Zones
+                                      Zoning Districts Within Each TOD Zone
+     7      Within Each TOD                                                          04/03/2026
+                                      (excel)
+            Zone.xlsx
+            Attachment A Zoning
+                                      Zoning Analysis for 50 Percent Exclusion
+     8      Analysis for 50 percent                                                  04/03/2026
+                                      (excel)
+            exclusion.xlsx
+            SB79 historic             List of historic resources parcels: Address,
+     9                                                                               04/20/2026
+            resources parcels.dbf     APN, Tier, Distance, TOD Zone (excel)
+                                      Public zoning map indicating sites or TOD
+            S-8 Combining Zone
+    10                                zones covered and not covered by SB 79         04/30/2026
+            (SB 79) Map DRAFT
+                                      (ArcGIS webmap)

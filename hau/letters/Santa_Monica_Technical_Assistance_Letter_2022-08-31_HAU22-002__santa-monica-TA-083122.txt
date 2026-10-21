@@ -1,0 +1,190 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 31, 2022
+
+
+         David Martin
+         Community Development Director
+         City of Santa Monica
+         1685 Main Street
+         Santa Monica, CA 90401
+
+         Dear David Martin:
+
+         RE: 1101 Wilshire Boulevard – Letter of Technical Assistance
+         The purpose of this letter is to provide technical assistance to the City of Santa Monica
+         (City) regarding the mixed-used infill project to be located at 1101 Wilshire Boulevard.
+         The proposed project would result in the construction of a six-story, 93-unit mixed-use
+         building containing ground floor restaurant/retail space and upper story market-rate and
+         affordable housing units. The project would provide 11 units that would be affordable to
+         very low-income (VLI) households and 82 market-rate units. The proposed project
+         utilizes the State Density Bonus Law (SDBL) (Gov. Code, § 65915) to achieve a density
+         bonus.
+
+         The City requested technical assistance from the California Department of Housing and
+         Community Development (HCD) regarding the interpretation of the SDBL in the context
+         of the proposed project. Specifically, the City seeks guidance on how to appropriately
+         do the following:
+
+             •    Calculate a density bonus for a project located in an area for which there is no
+                  associated residential density expressed in dwelling units per acre (du/ac).
+             •    Consider a SDBL incentive/concession or development standard waiver that
+                  would increase a project’s allowable floor area ratio (FAR) if the density bonus
+                  itself was granted in the form of additional FAR.
+
+         The project site is zoned Mixed-Use Boulevard (MUB), a zone which does not prescribe
+         a density standard in terms of du/ac. Instead, development is regulated only through
+         development standards – including, notably, FAR. This approach is commonly
+         employed in downtown and mixed-used areas throughout the state where the
+         community’s primary concern is the height, bulk, and design of buildings rather than the
+         absolute number of homes allowed on a given site.
+
+         The SDBL; however, only contemplates density bonus calculations in situations where
+         the density standard is expressed in du/ac. This creates an implementation challenge
+David Martin, Community Development Department
+Page 2
+
+
+
+for local agencies that must devise a method for calculating a density bonus without
+detailed statutory guidance. Further complicating matters, downstream issues relating to
+incentives/concessions and waivers often arise depending on the method of calculation
+employed by the local agency.
+
+The challenge of granting a density bonus in zones that do not express density in du/ac
+is particularly pressing because, as noted in the case of Latinos Unidos del Valle de
+Napa y Solano v. County of Napa (2013) 217 Cal.App.4th 1160, 1166 [159 Cal.Rptr.3d
+284, 288], the SDBL “imposes a clear and unambiguous duty on municipalities to award
+a density bonus when a developer agrees to dedicate a certain percentage of the
+overall units in a development to affordable housing.” HCD hopes that the content of
+this letter will help the City and other local agencies make informed decisions when
+carrying out their obligations under the SDBL.
+
+Calculating Base Density for the Purposes of Granting a Density Bonus
+
+The core of the SDBL intends for calculations to be made based on units, as evidenced
+by the numerous references to units throughout this section. Specifically, Government
+Code section 65915, subdivisions (b) and (f), rely on units to establish eligibility for a
+density bonus and in determining the density bonus owed. Therefore, regardless of the
+method used to calculate a project’s base density, it should ultimately result in an exact
+number of base density units. This approach results in the most minor departure
+possible from the typical implementation of the SDBL.
+
+The SDBL is currently silent on what methodology a local agency should use to
+establish base density absent a du/ac-based density standard. One approach observed
+by HCD involves the local agency utilizing a hypothetical base project, prepared by the
+applicant, that meets all objective development standards to determine the base density
+(i.e., the precise number of units). Once the base density is established, the density
+bonus (in units) can be determined as it normally would. Correspondingly, the local
+agency’s consideration of incentives/concessions and development standard waivers
+can occur as normal. Note that applications made pursuant to Government Code
+section 65917.2, which provide for a FAR bonus in lieu of a density bonus, are
+discussed below.
+
+Incentives/Concessions and Development Standard Waivers to Increase FAR in
+Circumstances where Density Bonus is Granted in the Form of Additional FAR
+
+A common occurrence when a local agency grants a “density bonus” in the form of
+increased FAR is that the applicant will then request an incentive/concession or
+development standard waiver to further increase the project’s FAR. The complication
+that this creates is one of the fundamental reasons why HCD recommends that local
+agencies avoid this practice. By utilizing du/acre-based density bonuses instead of
+FAR-based “density bonuses”, a local agency can avoid the “unlimited FAR” conundrum
+       David Martin, Community Development Department
+       Page 3
+
+
+
+       examined in HCD’s October 2021 letter to Mountain View. 1 This approach renders moot
+       the question of whether a project is eligible for a concession or waiver to increase FAR
+       because using du/ac instead of FAR for density bonuses limits the role of FAR solely to
+       that of a development standard. Regarding the pending subject project, HCD
+       recommends that the local agency carefully evaluate and accommodate the request for
+       additional FAR, as an incentive/concession or waiver, if doing so would facilitate the
+       successful development of the project.
+
+       FAR Bonus in Lieu of Density Bonus (Gov. Code, § 65917.2)
+
+       Government Code section 65917.2 allows a local agency to grant a FAR bonus in lieu
+       of a density bonus awarded on the basis of du/ac. 2 This action is legally distinct from the
+       granting of a density bonus pursuant to Government Code section 65915. The contents
+       of this letter pertain only to projects proposed under Government Code section 65915.
+       Often confused, these two sections have fundamentally different purposes and
+       functions. First, whereas section 65915 applies in all jurisdictions (regardless of whether
+       the local agency has adopted an implementing ordinance), section 65917.2 applies only
+       in jurisdictions where the local agency has chosen to adopt an implementing ordinance.
+       Second, section 65917.2 contains unique eligibility and other requirements that are not
+       found in section 65915. Finally, the application of section 65915 results in additional
+       units whereas the application of section 65917.2 results in additional floor area (which
+       may or may not be used to construct more units). It should be noted that HCD is not
+       aware of any local agencies that have adopted an ordinance to implement section
+       65917.2, though local community benefit zoning strategies that allow a project to
+       receive increased FAR in exchange for public amenities are relatively common.
+
+       Santa Monica Housing Element Site Inventory
+
+       While the City continues to process the proposed project application, HCD reminds the
+       City that the 93-unit proposed project appears in the City’s draft 6th Cycle Housing
+       Element (adopted October 12, 2021) in the “Approved and Pending Housing Projects”
+       table 3, which states that the project contains 82 market-rate units and 11 VLI units.
+
+
+1 HCD’s October 2021 letter to Mountain View addressed two specific issues:
+
+    1. Whether state law prohibits a local agency from regulating density purely via FAR. (It does not.
+        In this letter to the City of Santa Monica, HCD’s technical assistance is more specifically about
+        how to calculate a density bonus in such a zone.)
+    2. An FAR waiver in the context of the City of Mountain View’s FAR Bonus.
+The letter is available at https://www.hcd.ca.gov/community-development/housing-
+element/docs/sclmountainview-TA-100821.pdf.
+2 Section 65917.2 provides a formula to calculate an FAR bonus, but it requires as an input a du/ac
+
+figure (Gov. Code, § 65917.2, subd. (b)(2)).
+3 Page F-36 of Appendix F
+      David Martin, Community Development Department
+      Page 4
+
+
+
+      The project is also listed in the “FAR and Size of Sites for Past and Current Housing
+      Projects” table 4, where the project is described as a six-story 93-unit project. This
+      suggests that the City is prepared to permit the project as proposed.
+
+      Conclusion
+
+      HCD respects the challenges inherent in infill development and applauds the
+      construction of a mixed-income development on a site currently without any residential
+      uses. Regarding other currently pending SDBL projects, HCD advises that the contents
+      of this letter not be used to delay or otherwise unnecessarily complicate a project
+      currently moving through the entitlement process. Local agencies should be pragmatic
+      in their considerations of SDBL applications that provide much needed affordable and
+      market-rate housing throughout California. “Although application of the statute can be
+      complicated, its aim is fairly simple: When a developer agrees to construct a certain
+      percentage of the units… for low or very low-income households… the city or county
+      must grant the developer [concessions and a bonus].” 5
+
+      If you have questions or need additional information, please contact Brian Heaton at
+      Brian.Heaton@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+
+
+
+4 Page F-38 of Appendix F
+5 Friends of Lagoon Valley v. Vacaville (2007) 154 Cal.App.4th 807, 824 [65 Cal.Rptr.3d 251, 264].

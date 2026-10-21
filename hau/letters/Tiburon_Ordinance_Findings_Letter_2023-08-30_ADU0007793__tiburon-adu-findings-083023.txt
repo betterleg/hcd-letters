@@ -1,0 +1,318 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 30, 2023
+
+
+
+         Dina Tasini, Community Development Director
+         Planning Division
+         City of Tiburon
+         1505 Tiburon Blvd
+         Tiburon, CA 94920
+
+         Dear Dina Tasini:
+
+         RE: Review of Tiburon’s Accessory Dwelling Unit (ADU) Ordinance under State ADU
+             Law (Gov. Code, § 65852.2)
+
+         Thank you for submitting the Town of Tiburon (Town) accessory dwelling unit (ADU)
+         Ordinance No. 594 (Ordinance), adopted February 16, 2022, to the California Department of
+         Housing and Community Development (HCD). HCD has reviewed the Ordinance and submits
+         these written findings pursuant to Government Code section 65852.2, subdivision (h). HCD
+         finds that the Ordinance does not comply with section 65852.2 in the manner noted below.
+         Under that statute, the Town has up to 30 days to respond to these findings. Accordingly, the
+         Town must provide a written response to these findings no later than September 30, 2023.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law in the following respects:
+
+          •    16.52.100. (A)(1) – Definitions: Accessory Dwelling Unit – The Ordinance states that an
+               ADU “…shall mean an attached or detached residential dwelling unit that provides
+               complete independent living facilities for one or more persons and is located on a lot with a
+               proposed or existing dwelling. It shall include permanent provision for living sleeping,
+               eating, cooking, and sanitation on the same parcel as the single-family dwelling is or will
+               be situated.” However, Government Code section 65852.2, subdivision (j)(1), provides that
+               “[a]n accessory dwelling unit also includes the following:
+
+               (A) An efficiency unit.
+               (B) A manufactured home, as defined in Section 18007 of the Health and Safety Code.”
+
+               The Town should amend this section of the Ordinance to also include efficiency units and
+               manufactured homes.
+
+          •    16-52.100 (A)(2) – Definitions: Junior Accessory Dwelling Unit – The Ordinance states, “A
+               Junior Accessory Dwelling Unit must include an efficiency kitchen with a sink, cooking
+Dina Tasini, Community Development Director
+Page 2
+
+
+    facility with appliances that do not require electrical service greater than 120 volts....”
+    However, Government Code section 65852.22, subdivision (a)(6)(A), requires only “a
+    cooking facility with appliances” in JADUs. Language prohibiting 220-volt connections was
+    specifically removed from statute. The Ordinance must be amended to comply with State
+    ADU Law.
+
+•   16-52.100 (B1)(2) – Lot Permissions – The Ordinance states, “Accessory Dwelling Units
+    and Junior Accessory Dwelling Units are permitted on lots zoned to allow single-family or
+    multi family dwelling residential use.” However, under Government Code section
+    65852.22, subdivision (a)(1), JADUs are only permissible within single-family residences
+    and in single-family residential zones. The Town must amend this section to make this
+    clarification.
+
+•   16-52.100 (B1)(3) – Applications – The Ordinance states, “The building permit application
+    shall be acted upon within 60 days....” However, Government Code section 65852.2,
+    subdivision (a)(3)(A), states that a local agency must either approve or deny an application
+    for an ADU within 60 days. The Town should amend this section to read “approve or
+    deny.”
+
+•   16-52.100 (B2)(1) – Sale – The Ordinance states, “The Accessory Dwelling Unit may not
+    be sold separately from the Primary Unit.” However, Government Code section 65852.26
+    creates a narrow exception to allow separate conveyance of an ADU to a qualified buyer if
+    the property was built or developed by a qualified nonprofit corporation, among other
+    things. Therefore, this section should be amended to allow for the separate sale as
+    determined in Government Code section 65852.26.
+
+•   16-52.100 (B2)(4) Table 1 – Attached ADU Size – The Ordinance states, “In no case may
+    the total floor area of an attached ADU exceed 50% of an existing primary dwelling.”
+    However, this contradicts the Ordinance’s guaranteed allowance in subdivision (B2)(3).
+    Additionally, Government Code section 65852.2, subdivision (c)(2)(C), prohibits a local
+    agency from imposing a “requirement for a zoning clearance or separate zoning review or
+    any other minimum or maximum size for an accessory dwelling unit, size based upon a
+    percentage of the proposed or existing primary dwelling, or limits on lot coverage, floor
+    area ratio, open space, front setbacks, and minimum lot size, for either attached or
+    detached dwellings that does not permit at least an 800 square foot accessory dwelling
+    unit with four-foot side and rear yard setbacks to be constructed in compliance with all
+    other local development standards.” (Emphasis added.) If the primary dwelling is less than
+    1,600 square feet, the Ordinance as it is currently written, would require an ADU to be less
+    than 800 square feet. The City must revise the Ordinance to eliminate this potential
+    constraint on the size of an ADU addition and clarify that neither floor area ratio nor lot
+    coverage would deny a minimum of 800 square-foot ADU. Therefore, the Town should
+    clarify this restriction and its applicability.
+Dina Tasini, Community Development Director
+Page 3
+
+
+•   16-52.100 (B2), (B2)(3), (B2)(7), and (B2)(9) – Setbacks and Setback Exceptions – Table
+    3 specifies " In the case of an ADU within a Precise Plan Area or Residential Planned
+    Development Area where no front setback is prescribed, the front setback shall be 30
+    feet.” The Ordinance also states, “All standards related to size, limits on lot coverage, floor
+    area ratio, open space and/or minimum lot size that apply to an Accessory Dwelling Unit
+    shall not prohibit an Accessory Dwelling Unit measuring 800 square feet of floor area or
+    less, a height of 16 feet or less, and four-foot side and rear yard setbacks, provided the
+    Accessory Dwelling Unit complies with all other applicable standards.” However, under
+    Government Code section 65852.2, subdivision (c)(2)(C), a local agency cannot impose
+    front yard setbacks which would preclude an 800 square-foot ADU from being constructed
+    on the lot. Imposing front yard setbacks would potentially prevent ADUs from being
+    constructed in spaces within those front setbacks. The exceptions in subdivision (B2)(3) of
+    the Ordinance do not mention an exception for front setbacks. The Town must remove
+    this restriction from the Ordinance or add front setback exception requirements.
+
+    Additionally, the Ordinance states, “No Setback shall be required for a lawfully constructed
+    garage in existence prior to January 1, 2017, that is converted in whole or part to an
+    Accessory Dwelling Unit.” However, Government Code section 65852.2, subdivision
+    (a)(1)(D)(vii) states, “No setback shall be required for an existing living area or accessory
+    structure, or a structure constructed in the same location and to the same dimensions as
+    an existing structure that is converted to an accessory dwelling unit or to a portion of an
+    accessory dwelling unit.” This applies to all existing converted space and is not limited to
+    garages. Also, the existing space may be converted to an ADU regardless of whether it is
+    lawfully constructed or not. Pursuant to Government Code section 65852.2, subdivision
+    (d)(2), “The local agency shall not deny an application for a permit to create an accessory
+    dwelling unit due to the correction of nonconforming zoning conditions, building code
+    violations, or unpermitted structures that do not present a threat to public health and safety
+    and are not affected by the construction of the accessory dwelling unit.” Therefore, even if
+    an accessory structure was not previously permitted or lawfully constructed, it may be
+    converted to an ADU. The Town must amend this section to expand the setback
+    exemptions and remove the term “lawfully constructed.”
+
+•   16-52.100 (B2)(10) – Height – The Ordinance states, “One story Accessory Dwelling Units
+    shall have a height limit of 16 feet or no taller than the primary residence at the area of
+    attachment and in no case greater than 30 feet. Accessory Dwelling Units may be two
+    stories and no greater in height than 30 feet.” The Ordinance does not address the height
+    requirement for detached ADUs. Government Code section 65852.2, subdivision (c)(2)(D),
+    states that “a local agency shall not establish by ordinance any of the following: Any height
+    limitation that does not allow at least the following, as applicable:
+
+      (i) A height of 16 feet for a detached accessory dwelling unit on a lot with an existing or
+          proposed single family or multifamily dwelling unit.
+Dina Tasini, Community Development Director
+Page 4
+
+
+
+      (ii) A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or
+           proposed single family or multifamily dwelling unit that is within one-half of one mile
+           walking distance of a major transit stop or a high-quality transit corridor, as those
+           terms are defined in Section 21155 of the Public Resources Code. A local agency
+           shall also allow an additional two feet in height to accommodate a roof pitch on the
+           accessory dwelling unit that is aligned with the roof pitch of the primary dwelling unit.
+
+      (iii) A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or
+            proposed multifamily, multistory dwelling.
+
+      (iv) A height of 25 feet or the height limitation in the local zoning ordinance that applies
+          to the primary dwelling, whichever is lower, for an accessory dwelling unit that is
+          attached to a primary dwelling. This clause shall not require a local agency to allow
+          an accessory dwelling unit to exceed two stories.”
+
+Restricting ADUs to the height of the primary dwelling, or to less than 18 feet for detached
+ADUs, is not compliant with State ADU Law. The Town must amend this section to allow for
+heights as described in State ADU Law.
+
+•   16-52.100 (B2)(13) – Parking Exceptions – The Ordinance lists five parking exceptions (a
+    through e). However, Government Code section 65852.2, subdivision (d)(1), includes a
+    sixth parking exception: “When a permit application for an accessory dwelling unit is
+    submitted with a permit application to create a new single-family dwelling or a new
+    multifamily dwelling on the same lot, provided that the accessory dwelling unit or the
+    parcel satisfies any other criteria listed in this paragraph.” The Town must amend the
+    Ordinance to include this exception.
+
+•   16-52.100 (B2)(15) – Architectural Compatibility, Setbacks – The Ordinance details
+    several design criteria, such as (B2)(15)(c) (“The Accessory Dwelling Unit shall be located
+    at least 10 feet from the top of any creek bank that exists on the lot of the proposed
+    Accessory Dwelling Unit.”) (B2)(15)(g) (“No entryways are allowed within 10 feet of a side
+    or rear property line.”), and (B2)(15)(p) (“Two trees shall be planted at each proposed
+    window of the Accessory Dwelling Unit facing a neighboring property….”). However, for
+    the construction of ADUs, no setbacks or limits on lot coverage may preclude the
+    construction of an ADU of 800 square feet under Government Code section 65852.2,
+    subdivisions (c)(2)(A) and (c)(2)(C). Imposing such restrictions even on proposed ADUs
+    which are 800 square feet or less could prevent them from being constructed on the lot.
+    The Town must amend this section to clarify that none of these design criteria may
+    preclude an 800 square-foot unit on the lot.
+
+    Additionally, there are subjective criteria, such as (B2)(15)(j) (“The roof color of the
+    Accessory Dwelling Unit shall use similar roof materials and color as the primary dwelling
+Dina Tasini, Community Development Director
+Page 5
+
+
+    unit.”) within the design criteria. Government Code section 65852.2, subdivision
+    (a)(1)(B)(i), states, “The ordinance shall … Impose objective standards on accessory
+    dwelling units that include, but are not limited to, parking, height, setback, landscape,
+    architectural review, maximum size of a unit, and standards that prevent adverse impacts
+    on any real property that is listed in the California Register of Historical Resources.” An
+    objective standard is defined in Government Code section 65852.2, subdivision (j)(7), as
+    “standards that involve no personal or subjective judgment by a public official and are
+    uniformly verifiable by reference to an external and uniform benchmark or criterion
+    available and knowable by both the development applicant or proponent and the public
+    official prior to submittal.” Phrases such as “similar to” are subjective in nature. The Town
+    must amend this section to contain only objective standards.
+
+•   16-52.100 (C1)(2) – JADUs, Applications – The Ordinance states, “The Director shall act
+    on the application within 60 days from receipt….” However, Government Code section
+    65852.22, subdivision(c)(1) states that a local agency must either approve or deny an
+    application for an ADU within 60 days. The Town must amend this section to read
+    “approve or deny.”
+
+    Additionally, the Ordinance references JADUs in the context where “there is an existing
+    single-family or multifamily dwelling on the lot.” However, under Government Code section
+    65852.22, JADUs are only permissible in single-family residential zones. The Town must
+    amend this section to make this clarification.
+
+•   16-52.100 (C2)(2) – Owner Occupancy – The Ordinance states, “One of the dwelling units
+    on the site (either the Primary Unit or the Junior Accessory Dwelling Unit) shall be owner-
+    occupied.” However, there is a narrow exemption in Government Code section 65852.22,
+    subdivision (a)(2), where owner-occupancy shall not be required if the owner is another
+    governmental agency, land trust, or housing organization. The Town must amend this
+    section to allow for this exception.
+
+•   16-52.100 (C2)(1) – JADU Development Standards – The Ordinance states that “Junior
+    Accessory Dwelling Units shall be no greater than 500 square feet in size and contained
+    entirely within a single-family residence.” However, Government Code section 65852.22,
+    subdivision (a)(4), requires that a local ordinance must “[r]equire a permitted junior
+    accessory dwelling unit to be constructed within the walls of the proposed or existing
+    single-family residence. For purposes of this paragraph, enclosed uses within the
+    residence, such as attached garages, are considered a part of the proposed or existing
+    single-family residence.” Therefore, a JADU may be built within “proposed” primary
+    dwellings, as well as within the confines of any “enclosed uses within the residence, such
+    as garages.” The Town must amend this section to allow for the creation of JADUs in
+    proposed primary dwellings as well as in attached, enclosed uses.
+Dina Tasini, Community Development Director
+Page 6
+
+
+•   16-52.100 (D)(1),(2), and (4) – Accessory Dwelling Units Subject to Limited Standards –
+    The Ordinance specifies, “One Accessory Dwelling Unit or Junior Accessory Dwelling
+    Unit.” However, Government Code section 65852.2, subdivision (e)(1), states,
+    “Notwithstanding subdivisions (a) to (d), inclusive, a local agency shall ministerially
+    approve an application for a building permit within a residential or mixed-use zone to
+    create any of the following: (A) One accessory dwelling unit and one junior accessory
+    dwelling unit per lot with a proposed or existing single-family dwelling…(i) The accessory
+    dwelling unit or junior accessory dwelling unit is within the proposed space of a single-
+    family dwelling or existing space of a single-family dwelling or accessory structure.”
+    Subparagraph (B) permits “[o]ne detached, new construction, accessory dwelling unit that
+    does not exceed four-foot side and rear yard setbacks.” The use of the term “any” followed
+    by an enumeration of by right ADU types permitted indicate that any of these ADU types
+    can be combined on a lot zoned for single family dwellings. This permits a homeowner,
+    who meets specified requirements, to create one converted ADU; one detached, new
+    construction ADU; and one JADU. Thus, if the local agency approves an ADU that is
+    created from existing (or proposed) space, and the owner subsequently applies for a
+    detached ADU (or vice versa) that meets the size and setbacks pursuant to the
+    subdivision, the local agency cannot deny the application, nor deny a permit for a JADU
+    under this section. HCD notes that the Legislature, in creating the list, did not use “or” or
+    “one of” to indicate only one or another would be applicable to the exclusion of the other.
+    This subdivision applies equally to ADUs created pursuant to Government Code section
+    65852.2, subdivisions (e)(1)(C) and (D), on lots with proposed or existing multifamily
+    dwellings. Limiting single-family lots to one ADU would prevent property owners from
+    creating ADUs by right under subdivision (e)(1). The Town must revise the Ordinance to
+    remove this restriction.
+
+    Additionally, the Ordinance states, “The detached Accessory Dwelling Unit must comply
+    with the following:
+
+      a. Maximum floor area: 800 square feet.
+      b. Maximum height: 16 feet.
+      c. Minimum rear and side setbacks: four feet.”
+
+    However, Government Code section 65852.2, subdivision (c)(2)(D), prescribes the height
+    limitations for detached and attached ADUs, and sets the limit at 16, 18 or 25 feet, as
+    provided in the subdivision. Limiting these ADUs to 16 feet would violate State ADU law.
+    The Town must amend this section to allows for the heights as described in subdivision
+    (c)(2)(D).
+
+•   16-52.100 (D)(4) – Detached Accessory Dwelling Units on Multifamily Lots – The
+    Ordinance states, “In the event an Accessory Dwelling Unit is proposed on a lot that has
+    an existing multifamily dwelling but is detached from that multifamily dwelling, no more
+Dina Tasini, Community Development Director
+Page 7
+
+
+    than two Accessory Dwelling Units are permitted.” However, Government Code section
+    65852.2, subdivision (e)(1)(D), allows “[n]ot more than two accessory dwelling units that
+    are located on a lot that has an existing or proposed multifamily dwelling….” (Emphasis
+    added.) Therefore, the Town must amend the Ordinance section to allow detached ADUs
+    in conjunction with proposed multifamily dwellings.
+
+In response to the findings in this letter, and pursuant to Government Code section 65852.2,
+subdivision (h)(2)(B), the Town must either amend the Ordinance to comply with State ADU
+Law or adopt the Ordinance without changes. Should the Town choose to adopt the Ordinance
+without the changes specified by HCD, the Town must include findings in its resolution that
+explain the reasons the Town finds that the Ordinance complies with State ADU Law despite
+the findings made by HCD. Accordingly, the Town’s response should provide a plan and
+timeline to bring the Ordinance into compliance.
+
+Please note that, pursuant to Government Code section 65852.2, subdivision (h)(3)(A), if the
+Town fails to take either course of action and bring the Ordinance into compliance with State
+ADU Law, HCD may notify the Town and the California Office of the Attorney General that the
+Town is in violation of State ADU Law.
+
+HCD appreciates the Town’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the Town in fully complying with State ADU Law. Please
+feel free to contact Tyler Galli, of our staff, at (916) 776-7163 or at Tyler.Galli@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

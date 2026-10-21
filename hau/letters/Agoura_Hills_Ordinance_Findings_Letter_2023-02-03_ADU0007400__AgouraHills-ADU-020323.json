@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024015",
+  "case_number": "ADU0007400",
+  "letter_date": "2023-02-03",
+  "jurisdiction": "Agoura Hills",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "Design Standards | Fire | Separate Sale | Setbacks | Size | VHFHSZ",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/AgouraHills-ADU-020323.pdf",
+  "hcd_letter": "Agoura Hills Ordinance Findings Letter 02/03/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/AgouraHills-ADU-020323.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185277,
+  "text_chars": 14439,
+  "text_empty": false
+}

@@ -1,0 +1,227 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 19, 2023
+
+
+         Joe Vacca, Director
+         Department of Community Development
+         City of Camarillo
+         601 Carmen Drive
+         Camarillo, CA 93010
+
+         Dear Joe Vacca:
+
+         RE: City of Camarillo’s SB 9 Ordinance under Housing Crisis Act (Gov. Code, §
+             66300), ADU Law (Gov. Code, § 65852.2), etc. – Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the City of Camarillo
+         (City) regarding the relationship between its adopted Senate Bill 9 (Chapter 162,
+         Statutes of 2021) (SB 9) implementation ordinance (Ordinance 1188) (“Ordinance”) and
+         the Housing Crisis Act of 2019 (Gov. Code, § 66300), among other relevant state
+         housing laws. The California Department of Housing and Community Development
+         (HCD) received several complaints raising concerns that certain provisions of the
+         Ordinance may violate state law. HCD subsequently reviewed the adopted ordinance
+         and other publicly available materials. This letter identifies several concerning
+         provisions of the Ordinance and describes the ways in which these provisions likely
+         violate the Housing Crisis Act of 2019.
+
+         This letter also identifies provisions of the Ordinance that raise concerns under other
+         housing laws that HCD enforces, such as Housing Element Law (Gov. Code, § 65580 et
+         seq.) and Accessory Dwelling Unit (ADU) Law (Gov. Code, §§ 65852.2 and 65852.22).
+
+         Housing Crisis Act of 2019 (Gov. Code, § 66300)
+
+         The Housing Crisis Act of 2019 (HCA) limits the ability of a local agency to reduce the
+         intensity of land use anywhere where housing is an allowable use without concurrently
+         increasing the intensity of land use elsewhere to compensate for the loss of residential
+         development capacity. The HCA defines reductions in the intensity of land use to
+         include the addition or modification of development standards. Specifically, the law
+         provides the following:
+
+                  Changing the general plan land use designation, specific plan land use
+                  designation, or zoning of a parcel or parcels of property to a less intensive use or
+                  reducing the intensity of land use within an existing general plan land use
+Joe Vacca, Director
+Page 2
+
+
+
+       designation, specific plan land use designation, or zoning district in effect at the
+       time of the proposed change, below what was allowed under the land use
+       designation or zoning ordinances of the affected county or affected city, as
+       applicable, as in effect on January 1, 2018, except as otherwise provided in
+       clause (ii) of subparagraph (B) or subdivision (i). For purposes of this
+       subparagraph, “reducing the intensity of land use” includes, but is not limited to,
+       reductions to height, density, or floor area ratio, new or increased open space or
+       lot size requirements, new or increased setback requirements, minimum frontage
+       requirements, or maximum lot coverage limitations, or any other action that
+       would individually or cumulatively reduce the site’s residential development
+       capacity.
+
+(Gov. Code, § 66300, subd. (b)(1)(A).)
+
+Governmental Constraints under Housing Element Law (Gov. Code, §§ 65580-
+65589.11)
+
+Housing elements are required to contain an analysis of potential and actual
+governmental constraints on the development of housing for all income levels.
+(Gov. Code, § 65583, subd. (a)(5).) This includes, but is not limited to, analysis of
+land use controls, building codes and their enforcement, and locally adopted
+ordinances that directly impact the cost and supply of residential development.
+After identifying governmental constraints, the City must implement programs to
+remove those governmental constraints to the development of housing where
+legally possible. (Gov. Code, § 65583, subd. (c)(3).)
+
+ADU Law (Gov. Code, §§ 65852.2 and 65858.22)
+
+SB 9 and ADU Law are complementary. Both laws can be implemented in ways
+that result in developments with both “SB 9 Units” and ADUs. When combined, up
+to four units may be built in the same lot area typically used for a single-family
+home. The calculation varies slightly depending on whether a lot split is involved,
+but the outcomes regarding total maximum unit counts are identical. Only in the
+cases of the use of both sections of SB 9 (i.e., Gov. Code, §§ 65852.21 and
+66411.7) – as in, two primary units on a lot resulting from an SB 9 lot split – is ADU
+Law superseded; in all other cases, State ADU Law applies.
+
+Findings
+
+   •   Section 19.14.170 (E) and Section 19.56.130 – Two Unit Limit/ADUs – The
+       Ordinance states, “No more than two dwelling units may be developed on
+       the underlying parcel. Existing accessory dwelling units and junior
+Joe Vacca, Director
+Page 3
+
+
+
+       accessory dwelling units will be counted toward this maximum number of
+       units.” However, this imposes a two-unit cap on all single-family lots, even in
+       instances when a lot split has not occurred. (Gov. Code, § 66411.7, subd.
+       (j).) Imposing a two-unit cap on unsplit lots would also violate State ADU
+       Law. (Gov. Code, § 65852.2, subds. (a) and (e).) Therefore, the City must
+       remove this limitation.
+
+   •   Section 19.14.170 (K)(23) – Size Restrictions – The Ordinance states that
+       “the maximum habitable square footage allowed per urban dwelling is 800
+       square feet…” and that “[e]ach urban dwelling must have a minimum of 700
+       square feet….” However, the maximum size represents a reduction in the
+       intensity of land use in violation of Government Code section 66300,
+       subdivision (b)(1)(A), as any large lot would see an extreme reduction in the
+       developable floor area compared to existing zone development standards.
+       Additionally, the minimum size requirement constitutes a governmental
+       constraint on the production of housing under Government Code section
+       65583, subdivision (g), as smaller or even efficiency units may be
+       appropriate for some homeowners. Therefore, the City must remove this
+       section.
+
+   •   Section 19.14.170 (K)(28) – Height – The Ordinance states that “the
+       maximum building height for any new urban dwelling unit is one-story up to
+       16 feet.” However, Section 19.14.100 states that in the R-1 Single Family
+       zone, “[b]uilding height shall not exceed twenty-five feet in height with the
+       exception of antennas or where permitted by conditional use permit.”
+       Therefore, the required reduction in height also constitutes a reduction in
+       the intensity of land use specific to SB 9 units in violation of Government
+       Code section 66300, subdivision (b)(1)(A). Therefore, the City must remove
+       this reference or amend it to state that urban dwelling units may be the
+       same height as the underlying zoning permits for single-family development.
+       Be advised that in practice, preventing two-story structures means the lot
+       coverage will necessarily increase to accommodate the units.
+
+   •   Section 19.14.170 (K)(44)(b) – Affordability Deed Restriction – The
+       Ordinance requires a deed restriction wherein “[a]ny new urban dwelling
+       must be for rent and restricted to low-income households….” The terms of
+       the deed restriction “will be 55 years from the issuance of a Certificate of
+       Occupancy, that resets with each property transfer.” In practice, the terms of
+       the deed restriction would likely last in perpetuity.
+
+       However, while inclusionary zoning requirements are a well-used and
+       important tool for the creation of affordable housing, this requirement is
+       equivalent to either a 50-, 75- or 100-percent inclusionary requirement that
+       is not imposed on any other type of residential development in Camarillo.
+      Joe Vacca, Director
+      Page 4
+
+
+
+              While Government Code section 65850, subdivision (g), authorizes local
+              agencies to adopt an inclusionary housing ordinance that includes
+              residential rental units affordable to lower- and moderate-income
+              households, under section 65850.01, HCD has the authority to review an
+              inclusionary requirement that exceeds 15 percent and to request a local
+              jurisdiction submit an economic feasibility study providing “evidence that the
+              ordinance does not unduly constrain the production of housing….” Absent
+              an economic feasibility study showing otherwise, the Ordinance’s
+              inclusionary requirements raises concerns it may render implementation of
+              SB 9 economically infeasible. Therefore, the City should remove the
+              requirement.
+
+          •   Urgency Ordinance – Ordinance No. 1188 was adopted as an “urgency
+              ordinance” on December 8, 2021. Please be advised that the term “urgency
+              ordinance” does not appear in any section of the Government Code relevant
+              to zoning code changes affecting the intensity of land use. Interim
+              ordinances may be adopted to make zoning changes, but they have
+              particular requirements and are limited in duration. 1 As the findings herein
+              constitute violations of statute that merit a replacement ordinance in any
+              case, HCD advises, as a courtesy, that the City review state law on interim
+              ordinances to avoid future violations.
+
+      Conclusion
+
+      Separately and collectively, these development standards and other requirements
+      reduce the intensity of land use, constituting potential violations of the HCA. They
+      also raise concerns under Housing Element Law and State ADU Law.
+
+      HCD would like to remind the City that under Government Code section 65585,
+      subdivision (j), HCD has enforcement authority over these and other housing laws.
+      Accordingly, HCD may review local government actions to determine consistency
+      with these and other laws. (Gov. Code, § 65585, subd. (i).) If HCD finds that a
+      city’s actions do not comply with state law, HCD may notify the California Office of
+      the Attorney General. (Gov. Code, § 65585, subd. (j).)
+
+
+
+
+1 Please see Government Code sections 65850 and 65853-65858 for a review of zoning ordinances
+
+and of interim zoning ordinances in particular.
+       Joe Vacca, Director
+       Page 5
+
+
+
+
+       Thank you for your prompt attention to this matter. HCD recommends that the City
+       conduct a comprehensive review of the HCA and other applicable state housing
+       laws 2 and update its SB 9 implementing ordinance accordingly. Additionally, HCD
+       requests that the City respond in writing within 30 days of June 19, 2023. The
+       City’s response should include a proposed timeline for corrective actions. If you
+       have questions or need additional information, please contact Mike Van Gorder, of
+       our staff, at mike.vangorder@hcd.ca.gov.
+
+       Sincerely,
+
+
+
+
+       David Zisser
+       Assistant Deputy Director
+       Local Government Relations and Accountability
+
+
+
+
+2 While it is beyond the scope of this letter to detail conflicts between the Ordinance and SB 9, (Gov.
+
+Codes, §§ 65852.21, 66411.7) the following sections were noted as containing such conflicts:
+19.14.170 subdivisions (B)(1), (E), (F), (K), (K)(23), (K)(26), (K)(44)(a)(i); 19.14.180 subdivisions
+(B)(2), (I)(i). Please refer to HCD’s SB 9 Fact Sheet, available at
+https://www.hcd.ca.gov/docs/planning-and-community-development/sb9factsheet.pdf, to bring the
+Ordinance into compliance with state law.

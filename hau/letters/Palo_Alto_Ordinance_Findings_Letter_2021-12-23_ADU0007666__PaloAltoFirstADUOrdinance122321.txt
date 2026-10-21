@@ -1,0 +1,223 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 23, 2021
+
+
+         Jonathan Lait, Planning Director
+         Planning Department
+         City of Palo Alto
+         250 Hamilton Avenue – Fifth Floor
+         Palo Alto, CA 94301
+
+         Dear Jonathan Lait:
+
+         RE: Review of Palo Alto’s Accessory Dwelling Unit (ADU) Ordinance under ADU
+             Law (Gov. Code § 65852.2)
+
+         Thank you for submitting the City of Palo Alto (City) accessory dwelling unit (ADU)
+         ordinance (Ordinance No.5507) adopted September 26, 2020, to the California
+         Department of Housing and Community Development (HCD). The ordinance was
+         received on October 20, 2020. HCD has reviewed the ordinance and is submitting these
+         written findings pursuant to Government Code section 65852.2, subdivision (h). HCD has
+         determined that the ordinance does not comply with section 65852.2 in the manner
+         noted below. Under the statute, the City has up to 30 days to respond to these findings.
+         Accordingly, the City must provide a written response to these findings no later than
+         January 23, 2022. HCD will review and consider any written response received from the
+         City before that date in advance of taking further action authorized by Government Code
+         section 65852.2.
+
+         The adopted ADU ordinance meets many statutory requirements. However, the
+         ordinance must be revised to comply with State ADU Law (Gov. Code, § 65852.2), as
+         follows:
+
+             •    Section 18.09.030(a)(3) Units Exempt from Generally Applicable Local
+                  Regulations: The text of this Section and the applicable portion of Table 1
+                  indicate the maximum size of a newly constructed detached ADU is 800 square
+                  feet. Although a local agency may establish minimum and maximum size
+                  requirements for ADUs pursuant to subdivision (c)(1) of Government Code
+                  section 65852.2 within limits, a local agency shall not establish a maximum
+                  square footage requirement for either attached or detached ADUs that is less
+                  than 850 square feet and 1,000 square feet for an ADU that provides more than
+                  one bedroom. (Gov. Code, § 65852.2, subd. (c)(2)(B).) Therefore, all relevant
+Jonathan Lait, Planning Director
+Page 2
+
+
+
+       sections of the ordinance must be amended to comply with this mandate in State
+       ADU Law.
+
+   •   Section 18.09.030 Units Exempt from Generally Applicable Local Regulations:
+       There appears to be a conflict between the text of this section and Table 1. The
+       number of allowable units are correctly noted in Table 1 as “1 ADU and 1
+       JADU.” The text of section 18.09.030(a) appears to limit allowable units to “an
+       ADU or JADU.” Government Code section 65852.2, subdivision (e)(1)(A),
+       requires an ordinance to allow “one ADU and one JADU per lot… .” The City
+       must amend the ordinance to correct this inconsistency, clarifying that “one
+       ADU and one JADU” are permitted if all the conditions of section 65852.2,
+       subdivision (e)(1)(A) apply.
+
+   •   Section 18.09.030(b) Application of Development Standards: Local agencies
+       may establish standards for ADUs pursuant to Government Code section
+       65852.2, subdivision (a); however, these standards do not apply to ADUs
+       constructed pursuant to subdivision (e). Table 1 impermissibly applies
+       “underlying zoning” “for front setback[s]” to subdivision (e) ADUs. (Mun. Code,
+       §18.09.030(b).) Subdivision (e)(1) describes permitted setbacks in full. Unless
+       underlying zoning for all residential areas conforms to subdivision (e) limits, this
+       table must be amended to comply with statute. (Gov. Code, § 65852.2, subd.
+       (e)(1)(A).)
+
+   •   Section 18.09.030(b)(1) ADU Height in Flood Zones: The City has
+       impermissibly restricted the height of ADUs. It appears that the City establishes
+       minimum elevations for the first floor of structures in the flood zone, which is
+       essentially the entire city to varying degrees. To account for this, the zoning
+       code allows most residential structures to exceed otherwise maximum
+       allowable heights for development. The City does not extend this
+       accommodation to ADUs. Currently, Table 1 states that the maximum height for
+       new, detached ADUs is 16 feet, but includes a caveat that “units built in a flood
+       zone are not entitled to any height extension.” (Mun. Code, § 18.09.030(b).) In
+       many instances, this would operate as an impermissible restriction on ADUs.
+       Under State ADU Law, the City must accommodate an ADU of at least 800
+       square feet and 16 feet in height. Thus, the caveat in Table 1 is potentially
+       confusing and could restrict the height to less than 16 feet. If it would in fact
+       operate to effectively limit the height of ADUs to less than 16 feet, it would
+       operate as an impermissible restriction on ADUs. As such, Table 1 should be
+       revised to clarify that this limitation does not apply where necessary to permit
+       an 800-square foot ADU that it at least 16 feet tall. (Gov. Code, § 65852.2,
+       subds. (c)(2)(C) and (e)(1)(B)(ii).)
+
+   •   Section 18.09.040(b) Daylight Plane and ADU Height Standards: Table 2 states
+       that “daylight plane” acts as a limit on the height of ADUs. In many instances,
+Jonathan Lait, Planning Director
+Page 3
+
+
+
+       this may not be a problem; however, daylight plane concerns cannot be used to
+       unduly limit the height of an ADU. ADUs are permitted up to 16 feet high. (Gov.
+       Code, § 65852.2, subds. (c)(2)(C), (e)(1)(B)(ii).) Therefore, in considering
+       restrictions that the City is imposing on ADUs for daylight planes, the ordinance
+       should note the 16-foot height allowable for ADUs. This Table must be
+       amended to clarify this point.
+
+   •   Section 18.09.040(b) Units Subject to Local Standards: Table 2 sets out the
+       development standards for ADUs that do not qualify under section 18.09.030.
+       Although the City has more freedom to establish development standards for
+       these ADUs, that is not without limitation. This section, and Table 2, must be
+       amended to clarify that—notwithstanding the development standards—an ADU
+       of at least 800 square feet, 16 feet in height, and with four-foot rear and side-
+       yard setbacks is permitted as required by State ADU Law. (Gov. Code, §
+       65852.2, subd. (c)(2)(C).)
+
+   •   Section 18.09.040(b) Floor Area and JADUs: Development standards can
+       account for ADUs in their measurement of the floor area restrictions or ratio
+       (FAR). But these standards may not account for or consider JADUs. A JADU
+       may not be included in this calculation, because a JADU is a unit that is
+       contained entirely within a single-family residence. (Gov. Code § 65852.22,
+       subd. (h)(1).) Footnote 4 of Table 2 impermissibly includes JADUs as part of
+       the FAR calculations. This footnote must be amended to clarify this point.
+
+   •   Section 18.09.040(h) Noise-Producing Equipment: Local agencies may impose
+       development standards on ADUs; however, these standards shall not exceed
+       state standards. Section 18.09.040(h) states that noise-producing equipment
+       “shall be located outside of the setbacks.” This section must be revised to only
+       refer to ADUs since setbacks are not required for JADUs. In addition, this
+       setback for noise-producing equipment for ADUs must be revised to make clear
+       that this setback requirement will not impede the minimum state standards of
+       four-foot setbacks. (Gov. Code, § 65852.2, subd. (c)(2)(C).)
+
+   •   Section 18.09.040(i)(2) Setbacks: Currently, this section states, “No basement or
+       other subterranean portion of an ADU/JADU shall encroach into a setback required
+       for the primary dwelling.” Under state law, new attached and detached ADUs have
+       maximum four-foot rear and side-yard setbacks. (Gov. Code, § 65852.2, subds.
+       (a)(1)(D)(vii), (c)(2)(C), (e)(1)(B), and (e)(1)(D).) Local agencies may impose
+       setback requirements if the minimum rear and side-yard setbacks established by
+       state law are not exceeded. This restriction is concerning on a number of grounds.
+       First, setbacks may not be required for JADUs as they are constructed within the
+       walls of the primary dwelling. Second, this requirement imposes excessive
+       restrictions on ADUs converted from an existing area of the primary dwelling or
+       accessory structure with a basement or subterranean space. Again, these
+Jonathan Lait, Planning Director
+Page 4
+
+
+
+       structures are not subject to setback requirements. Finally, this section would
+       violate State ADU Law if the side or rear setback requirement for an ADU or JADU
+       located in a basement or other subterranean structure exceeded four feet.
+       Requiring ADUs and JADUs to meet the side and rear setbacks for the primary
+       dwellings could exceed the maximum four-foot setbacks set out in State ADU Law.
+       The ordinance must be revised to eliminate these concerns.
+
+   •   Section 18.09.040(j) Design: This section states, “Except on corner lots, the
+       unit shall not have an entranceway facing the same lot line (property line) as
+       the entranceway to the main dwelling unit unless the entranceway to the
+       accessory unit is located in the rear half of the lot. Exterior staircases to second
+       floor units shall be located towards the interior side or rear yard of the property.”
+       These standards appear to apply only to the creation of ADUs and may unduly
+       restrict the placement of an ADU on some lots. Local development standards
+       provided by ordinance pursuant to subdivisions (a) through (d) of Government
+       Code section 65852.2 do not apply to ADUs created under subdivision (e).
+       Please consider eliminating this restriction or modifying it such that it applies
+       “when feasible.”
+
+   •   Section 18.09.040(j)(2)(A) Privacy: The section states, “Second story doors and
+       decks shall not face a neighboring dwelling unit.” This limitation, however, may
+       place an impermissible constraint on an ADU. For example, excessive
+       constraints would be placed on the creation of a second story ADU if residential
+       units were located on all adjacent parcels. In addition, when operating in
+       conjunction with Section 18.09.040(j), noted above, this restriction may prohibit
+       ADUs created under subdivision (e) of Government Code section 65852.2.
+       Accordingly, this provision must be revised to allow for more flexibility. The City
+       could revise the first sentence of this section to state, “Second story doors and
+       decks shall not face a neighboring dwelling unit, where feasible.”
+
+   •   Section 18.09.040(k)(4) Parking: The ordinance indicates if covered parking for a
+       unit is provided in any district, the maximum size of the covered parking area for
+       the accessory dwelling unit is 220 square feet. Further, under this section, the
+       space for the covered parking count towards the total floor area for the site and
+       the ADU if attached to the unit. Covered parking should not count towards the
+       total floor area of the site as if it would unduly limit the allowable size of an ADU
+       established by state law, nor should it directly count toward the area available for
+       the ADU. Although standards within an underlying zone may apply when noted in
+       the adopted ADU ordinance, they may not be more restrictive than those
+       contained in state statute. (See, e.g., Gov. Code, § 65852.2, subs. (a)(1)(B),
+       (a)(1)(D)(vii), (a)(1)(D)(x), (c), and (e).) The portion of this section stating “unit
+       unless attached to the unit” should be deleted, or the section should otherwise be
+       modified to comply with state law.
+Jonathan Lait, Planning Director
+Page 5
+
+
+
+In these respects, revisions are necessary to comply with statute.
+
+HCD will consider any written response to these findings, such as a revised ordinance
+or a detailed plan to bring the ordinance into compliance with law by a date certain,
+before taking further action authorized pursuant to Government Code section 65852.2.
+Please note that HCD may notify the Attorney General’s Office in the event that the City
+fails to take appropriate and timely action under section 65852.2, subdivision (h).
+
+HCD appreciates the City’s efforts in the preparation and adoption of the ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please contact Lauren Lajoie of our staff, at (916) 776-7495 or at
+Lauren.Lajoie@hcd.ca.gov if you have any questions or would like HCD’s technical
+assistance in these matters.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

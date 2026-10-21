@@ -1,0 +1,175 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 3, 2025
+
+
+         Craig Spencer, Director of Housing and Community Development
+         Monterey County Housing and Community Development Department
+         1441 Schilling Place
+         South 2 nd Floor
+         Salinas, CA 93901
+
+         Dear Craig Spencer:
+
+         RE: Monterey County Permit Streamlining Act Preliminary Fee – Letter of
+             Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the compliance of the County of Monterey’s
+         (County) imposed fee for preliminary applications with the Permit Streamlining Act
+         (PSA) 1 as well as the application of the Housing Accountability Act (HAA) 2 to mobile
+         home parks. Among other provisions, the PSA establishes procedures for the
+         processing of preliminary applications, while the HAA provides limitations on the ability
+         of a local government to deny a housing development project when it does not have a
+         compliant housing element. The purpose of this letter is to provide technical assistance
+         for the benefit of the County on whether the amount charged to an applicant complies
+         with the PSA, and whether mobile home parks are eligible for certain provisions of the
+         HAA.
+
+         Background
+
+         HCD understands that the project applicant (Applicant) submitted three preliminary
+         applications for the same site at 711 Viejo Road on November 17, 2024. One of the
+         applications consisted of a mobile home park with a mix of ground and trailer leases
+         and without subdivisions, while the other two consisted of apartments in different
+         configurations. Because the County did not have a substantially compliant housing
+         element, the three applications invoked the so-called “Builder’s Remedy” implicit in the
+         HAA in Government Code section 65589.5, subdivision (d)(5) 3 to develop the site at
+         densities above that allowed by the County’s general plan and zoning.
+
+
+1 Gov. Code, § 65920 et seq.
+2 Gov. Code, § 65589.5.
+3 As of January 1, 2025, the “Builder’s Remedy” is now found explicitly in Gov. Code, § subds.
+
+(f)(6)-(7), (h)(11).
+      Craig Spencer, Director of Housing and Community Development
+      Page 2
+
+
+
+      On December 12, 2024, the County invoiced the Applicant a total of $4,506 for three
+      development review conferences. This fee amount represents the cost of a
+      development review conference for a full development application as specified in the
+      County’s adopted fee schedule. After the Applicant contested this amount, the County
+      increased the fee amount on December 16 to a Tier 7 $22,000 deposit, the amount for
+      an “Extraordinary Development Application,” as specified in the County’s adopted fee
+      schedule. On December 17, the Applicant submitted an inquiry with HCD, after which
+      the County revised the fee downward to $15,000 and then eventually to $500 per
+      application, which the Applicant ultimately paid.
+
+      In addition to the matter of fees, the Applicant also requests HCD’s technical assistance
+      regarding the interaction between mobile home parks and the Builder’s Remedy.
+
+      Preliminary Application Fee
+
+      Government Code section 65941.1 authorizes local governments to charge “payment
+      processing fee[s]” for the submission of preliminary applications, and it conditions the
+      benefits of preliminary applications on the payment of the fee. The County states that it
+      charges the full application fee (i.e., the application fee associated with the anticipated
+      full development application) when a preliminary application is submitted, with the
+      option of refunding up to 50 percent of the fee if the full development application is
+      ultimately not submitted. The County has expressed concern that if the full development
+      application fee is not charged upfront, there is no guarantee that the County will be able
+      to collect the full application fee should an applicant claim that the PSA prevents the
+      further charging of a fee. 4
+
+      Therefore, the relevant question is: Can a local government charge the fee
+      associated with a full development application when a preliminary application is
+      submitted?
+
+      The answer is “no.” The purpose of the PSA’s preliminary application system is to
+      provide certainty to applicants by allowing them to lock in development standards when
+      the basic contours of their projects are known. It is inappropriate for the County to
+      charge the full development fee given the much narrower scope of review of a
+      preliminary application. The statute provides that a preliminary application and a full
+      development application, and their associated fees, are distinct under the PSA. 5
+      Moreover, the statute’s use of the word “processing” further frames the fee as being
+      solely for recovering the costs of staff time to verify that all 17 items are present in the
+      preliminary application. 6
+
+
+
+4 Gov. Code, § 65943, subd. (e).
+5 Fees associated with preliminary applications are discussed in Gov. Code, § 65941.1, and fees
+
+associated with full development applications are discussed in Gov. Code, § 65940.1.
+6 Gov. Code, § 65941.1, subd. (a).
+      Craig Spencer, Director of Housing and Community Development
+      Page 3
+
+
+
+
+      In addition, as set out in Government Code section 66023, subdivision (a)(1)(A), fees
+      shall not exceed “the amount reasonably necessary to cover the cost of . . .[the] service
+      provided by the local agency.”
+
+      Finally, the County’s asserted concern is misplaced; a straightforward reading of the
+      PSA does not support the ability of an applicant to avoid paying a full application fee by
+      submitting a preliminary application.
+
+      Mobile Home Parks and the Builder’s Remedy
+
+      Mobile home projects may consist of residential units already in place, or they may
+      allow applicants to bring their own trailers and rent lots from the owner. In the case of
+      the mobile home park version of the project, the Applicant proposes a mix of ground
+      and trailer leases.
+
+      Therefore, the relevant question is: Can a mobile home park with ground leases as
+      at least part of the project be eligible for the Builder’s Remedy?
+
+      The answer is “yes.” The HAA defines a “housing development project” as a use
+      consisting of either “residential units only” or mixed use developments in which at least
+      two-thirds of the square footage is “designated for residential use.”7 The fact that some
+      of the lots in the project will be lot-lease-only does not negate the fact that all of the lots
+      in the mobile home park are “designated for residential use.” A mobile home park
+      project that develops the site with lots to facilitate the installation of trailers still will
+      contain residential uses upon leasing.
+
+      Furthermore, the Legislature’s intent in establishing the HAA was to “significantly
+      increase the approval and construction of new housing for all economic segments of
+      California’s communities by meaningfully and effectively curbing the capability of local
+      governments to deny, reduce the density for, or render infeasible housing development
+      projects” 8. Allowing ground lease mobile home parks to be eligible for HAA protection is
+      consistent with this intent. It is implausible that the Legislature intended for statute to
+      protect mobile home park projects where trailers are leased while not protecting mobile
+      home park projects where some trailers are leased and some lots are leased to
+      residents who bring their own trailers.
+
+
+
+
+7 Gov. Code, § 65589.5, subd. (h)(2).
+8 Gov. Code, § 65589.5, subd. (a)(2)(K).
+Craig Spencer, Director of Housing and Community Development
+Page 4
+
+
+
+
+Conclusion
+
+As described above, full development application fees cannot be charged for
+preliminary applications, and mobile home parks are eligible for the Builder’s Remedy.
+HCD remains committed to supporting the County in facilitating housing at all income
+levels and hopes the County finds this clarification helpful. If you have questions or
+need additional information, please contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

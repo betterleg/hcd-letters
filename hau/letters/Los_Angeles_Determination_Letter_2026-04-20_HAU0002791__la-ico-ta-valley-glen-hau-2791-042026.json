@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025417",
+  "case_number": "HAU0002791",
+  "letter_date": "2026-04-20",
+  "jurisdiction": "Los Angeles",
+  "letter_type": "Determination Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300(b)(1)(A)",
+  "n_statutes": "1",
+  "keywords": "Interim Control Ordinance | Valley Glen | moratorium | replacement",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-ico-ta-valley-glen-hau-2791-042026.pdf",
+  "hcd_letter": "Los Angeles Determination Letter 04/20/2026",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-ico-ta-valley-glen-hau-2791-042026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 218637,
+  "text_chars": 8944,
+  "text_empty": false
+}

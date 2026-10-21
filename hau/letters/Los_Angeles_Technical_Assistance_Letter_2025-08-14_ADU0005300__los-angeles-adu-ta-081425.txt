@@ -1,0 +1,158 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 14, 2025
+
+
+         Minye Pak, Chief of Development Services
+         Development Services
+         City of Los Angeles
+         201 N. Figueroa St, Suite 1030
+         Los Angeles, CA 90012
+
+         Dear Minye Pak:
+
+         RE: City of Los Angeles – State Accessory Dwelling Unit Law (ADU) – Letter of
+            Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received an
+         inquiry from a developer regarding the relationship between Government Code section
+         66332, which governs legitimization of unpermitted ADUs, and section 66323, which
+         requires ministerial approval of ADUs that meet specific standards described in that
+         section. Both sections allow multiple units with existing multifamily structures, so the
+         question arose as to how many units State ADU Law allows when both sections are
+         applied to a specific property.
+
+         Background
+
+         The application concerns a multifamily primary dwelling that was built in the 1950s. The
+         building was originally permitted with eight units on two floors; there was also a guest
+         room that did not include a kitchen and two attached covered parking spaces. At some
+         point between 1960 and 2020, the four larger units on the top floor were split into two
+         units each, and the guest room was converted to a full dwelling unit, adding five units
+         and giving the building a total of 13 units. These changes were unpermitted. The
+         owners wish both to convert the parking spaces into two ADUs through Government
+         Code section 66323, subdivision (a)(3), and to legitimize the five unpermitted units
+         through Government Code section 66332, yielding a proposed total of 15 units.
+
+         Section 66332 – Permitting Unpermitted ADUs
+
+         Government Code section 66332 was recently chaptered by AB 2533 (Chapter 834,
+         Statutes of 2024) and provides a path to approval for unpermitted ADUs created before
+         January 1, 2020. Section 66332, subdivision (a), states:
+
+                  Notwithstanding any other law, and except as otherwise provided in subdivision
+                  (b), a local agency shall not deny a permit for an unpermitted accessory dwelling
+                  unit or unpermitted junior accessory dwelling unit that was constructed before
+                  January 1, 2020, due to either of the following:
+      Minye Pak, Chief of Development Services
+      Page 2
+
+
+
+                    (1) The accessory dwelling unit or junior accessory dwelling unit is in
+                    violation of building standards pursuant to Article 1… the Health and
+                    Safety Code.
+
+                    (2) The accessory dwelling unit or junior accessory dwelling unit does not
+                    comply with this article or Article 3 (commencing with Section 66333), as
+                    applicable, or any local ordinance regulating accessory dwelling units or
+                    junior accessory dwelling units.
+
+      In addition, local agencies must approve the permits necessary to correct
+      noncompliance with health and safety standards, and denials are allowed only when the
+      local jurisdiction determines that the building is substandard. 1
+
+      Section 66323 – Ministerial Approval of “State Exempt” Units
+
+      Government Code section 66323 contains four types of ADUs that must be ministerially
+      approved, provided they meet the requirements of that section. This specific inquiry
+      involves an existing multifamily dwelling, which is covered by section 66323, subdivision
+      (a)(3), which requires a local jurisdiction to ministerially approve the following:
+
+             (A) Multiple accessory dwelling units within the portions of existing multifamily
+                 dwelling structures that are not used as livable space, including, but not
+                 limited to, storage rooms, boiler rooms, passageways, attics, basements, or
+                 garages, if each unit complies with state building standards for dwellings.
+
+             (B) A local agency shall allow at least one accessory dwelling unit within an
+                 existing multifamily dwelling and shall allow up to 25 percent of the existing
+                 multifamily dwelling units.
+
+      Analysis
+
+      HCD understands that the City’s position on this issue is the following: Section 66323,
+      subdivision (a)(3)(B) allows up to 25 percent “attached ADUs” within an existing
+      multifamily dwelling. The ADUs that are legitimized under section 66332 are “attached
+      ADUs.” If they meet or exceed the 25 percent limit, then the limit in section 66323,
+      subdivision (a)(3)(B) is already met. If there is still a reserve to reach that 25 percent
+      limit, the City would allow additional attached ADUs up to that limit. If the number of
+      unpermitted ADUs exceed the 25 percent limit, the City still allows them to be
+      legitimized under section 66332, but the City asserts that there is no language in State
+      ADU Law which allows a combination of the two sections.
+
+      While the City is correct that the statute does not explicitly address a combination of
+      sections 66323 and 66332, section 66332 does not limit the number of ADUs that must
+      be approved pursuant to that section, and neither section precludes the approval of
+
+1 Gov. Code, § 66332, subds. (b) and (c).
+      Minye Pak, Chief of Development Services
+      Page 3
+
+
+      ADUs pursuant to other parts of State ADU Law. In other words, approving ADUs
+      pursuant to section 66323 does not mean that ADUs must not also be approved
+      pursuant to section 66332, and vice versa.
+
+      The units that must be provided with a pathway to compliance through section 66332
+      are only those that were in existence before January 1, 2020, but there is no upper limit
+      to that number in the statute. Therefore, State ADU Law requires the approval of any
+      and all unpermitted ADUs through the provisions of section 66332 if they are habitable 2
+      and if they meet the definition of an ADU – “an attached or a detached residential
+      dwelling unit that provides complete independent living facilities for one or more persons
+      and is located on a lot with a proposed or existing primary residence. It shall include
+      permanent provisions for living, sleeping, eating, cooking, and sanitation on the same
+      parcel as the single-family or multifamily dwelling is or will be situated.” 3
+
+      In addition, the unpermitted units in this situation were created out of existing habitable
+      space – namely, portions of existing apartments. They are therefore not eligible under
+      section 66323, subdivision (a)(3), which permits the conversion of nonhabitable space.
+      In the July 27, 2025, email, the City uses the phrase “attached ADUs” as a citation to
+      section 66323, subdivision (a)(3)(B). However, this is a term of art that does not appear
+      in that section but does appear in several other parts of the statute. Instead, section
+      66323, subdivision (a)(3)(A) refers to “[m]ultiple accessory dwelling units within the
+      portions of existing multifamily dwelling structures that are not used as livable space.”
+      The reference to “within portions of existing” structures is distinct from “attached” ADUs.
+
+      Conclusion
+
+      The City must process applications under Government Code sections 66332 and 66323
+      according to the requirements of each section and may not use one section to preclude
+      units under the other.
+
+      HCD appreciates the opportunity to provide technical assistance to the City and
+      requests a written response to this letter by September 13, 2025, explaining how the
+      City plans to implement the guidance contained in this letter when processing ADU
+      applications. Please feel free to contact Mike Van Gorder at
+      Mike.VanGorder@hcd.ca.gov if you have any questions or need additional assistance.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+2 Gov. Code, § 66332, subd. (b).
+3 Gov. Code, § 66313, subd. (a).

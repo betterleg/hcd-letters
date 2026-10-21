@@ -1,0 +1,176 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 17, 2025
+
+
+
+         Chris Cortez, Assistant Planner
+         City of Chino
+         Development Services Department
+         13220 Central Avenue
+         Chino, CA 91710
+
+         Dear Chris Cortez:
+
+         RE: City of Chino – SB 9 Implementation – Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the City of Chino (City)
+         regarding access requirements for urban lot splits under Senate Bill (SB) 9 (Chapter
+         162, Statutes of 2021). 1
+
+         Background
+
+         HCD received a request for technical assistance from the City regarding its street
+         frontage standards as applied to an urban lot split application. The specific property at
+         issue is 12828 10th Street, located in the RD-4.5 (Residential Density, 4.5 dwelling units
+         per acre) zone. HCD understands that this parcel is accessed from 10th Street and a
+         rear alley, both of which are considered public rights-of-way, but the City does not
+         consider the alley to be a “street.” 2 There are two existing dwelling units on the parcel:
+         one unit is adjacent to 10th street and the other unit is adjacent to the rear alley. The
+         applicant proposes a lot split in which one resulting lot would adjoin 10th Street and the
+         second resulting lot would adjoin the rear alley.
+
+         City requirements specify that for an urban lot split, the resulting lots must have a street
+         frontage that is a minimum of 40 percent of the original lot width. The City also prohibits
+         flag lots and effectively prohibits access easements for SB 9 urban lot splits. 3 The
+         owner’s preference is to subdivide the lot such that the two existing dwelling units would
+         then be located on separate lots instead of on a single lot, as is the current
+         configuration. Subdividing the parcel as proposed by the owner would necessitate the
+         resulting rear parcel to rely solely on the alley for access, which is not compliant with the
+
+
+1 Gov. Code, § 66411.7.
+2 Chino Municipal Code § 20.24.020, subd. (S)(6).
+3 Chino Municipal Code §§ 19.04.110, subds. (D)(1)(c), (D)(1)(d).
+      Chris Cortez, Assistant Planner
+      Page 2
+
+
+
+      City’s minimum 40-percent street frontage standard. Subdividing the parcel as is
+      currently required by the City’s standards would necessitate alteration of one or both
+      structures. The City also indicated that the rear alley does not comply with standards for
+      fire department access, lacks fire suppression infrastructure, and would therefore not be
+      suitable to be considered a “street”.
+
+      Analysis
+
+      The City submitted the following question to HCD:
+
+      Can the City of Chino deny an SB 9 application because the resultant parcel
+      would not meet the 40-percent street frontage requirement contained in the SB 9
+      ordinance?
+
+      The answer is, “No.”
+
+      First, SB 9 enables a jurisdiction to require adequate access for the resulting parcels.
+      Specifically, Government Code 66411.7, subdivision (e) provides that a local agency
+      may require certain “conditions when considering an application for a parcel map for an
+      urban lot split.” More specifically, a local agency may impose the following condition: “A
+      requirement that the parcels have access to, provide access to, or adjoin the public
+      right-of-way.” 4 (Emphasis added.) The City may impose this condition, but when
+      imposed, it must be imposed in its entirety – such that all three access options are
+      made available to the applicant.
+
+      However, the City’s frontage requirement effectively limits access options only to direct
+      access to the public right-of-way. For example, where a new lot does not adjoin a street,
+      the requirement may be satisfied by either an access easement that ensures the lot has
+      access to the public right-of-way or is designed in a panhandle configuration such that
+      the lot directly adjoins the right-of-way and ensures both resulting parcels adjoin a
+      public right-of-way.
+
+      In addition, Government Code section 66411.7, subdivision (c)(2) prevents the
+      application of objective zoning, subdivision, and design review standards that physically
+      preclude an urban lot split. HCD conducted a review of the Chino Municipal Code
+      (CMC) and notes that the following objective standards may preclude an urban lot split
+      for the requester and other potential applicants:
+
+             CMC19.04.110 (D)(1)(c) Urban Lot Splits, Additional Requirements - Each
+             resulting parcel shall include at least 40% of the street frontage of the original
+             parcel proposed for subdivision; and…
+
+             CMC 19.04.110 (D)(1)(d) Urban Lot Splits, Additional Requirements - Flag lots
+             are not permitted.
+
+
+4 Gov. Code, § 66411.7, subd. (e)(2).
+      Chris Cortez, Assistant Planner
+      Page 3
+
+
+
+      In combination, these standards result only in SB 9 subdivisions where the original lot is
+      split down the approximate center (back to front) and the two resulting lots both have
+      direct street frontage. In case of the subject project, the existing lot is 80 feet wide, and
+      the City’s standards would result in two new lots of 32 to 48 feet in width. Also, the new
+      lot line running vertically through the center would require the alteration or demolition of
+      one of the existing residences. This outcome is in contravention of the statutory intent
+      and language of SB 9. These development standards also preclude the horizontal
+      subdivision of the parcel (as proposed by the applicant) that would result in a “front” and
+      “rear” parcel, where the rear parcel would otherwise be accessed by means of an
+      easement or narrow strip of land in a panhandle configuration (flag lot).
+
+      Additionally, by requiring the demolition or alteration of the existing dwellings, the City’s
+      standards would be physically precluding an urban lot split if either structure meets the
+      housing type criteria contained in Government Code section 66411.7, subdivision
+      (a)(3)(D). SB 9 expressly provides that certain types of protected dwellings may not be
+      altered or demolished to facilitate an urban lot split. 5 To the extent that the City’s
+      Ordinance has the practical effect of requiring the demolition or alteration of existing
+      dwellings that meet the criteria set forth in Government Code section 66411.7,
+      subdivision (a)(3)(D), those standards physically preclude the lot split and are,
+      therefore, inconsistent with SB 9.
+
+      Lastly, HCD reminds the City that Government Code sections 65852.21, subdivision (d)
+      and 66411.7, subdivision (d) limit a local agency’s denial of an application for an SB 9
+      urban lot split or construction of an SB 9 residential unit to instances where the local
+      agency makes written findings, based on a preponderance of the evidence, that the
+      project would have a specific, adverse impact on public health and safety and there is
+      no feasible method to satisfactorily mitigate or avoid the specific, adverse impact.
+
+      Conclusion
+
+      In conclusion, for this site, the City’s requirement that the proposed parcels maintain a
+      40-percent minimum street frontage, combined with the prohibition of an access
+      easement or a flag lot, precludes an SB 9 urban lot split from occurring and as such
+      does not comply with state law. Where the urban lot split may be facilitated by objective
+      standards that still ensure the parcels have access to (e.g., easement), provide access
+      to (e.g., easement), or adjoin the public right-of-way (e.g., flag lot), the City must:
+
+          •   Waive the 40-percent minimum street frontage, flag lot prohibition, and/or
+              easement prohibition as needed to facilitate this lot split and others; and
+          •   Ensure that any denial is based on the mandated SB 9 findings of denial.
+
+
+
+
+5 Gov. Code, § 66411.7, subd. (a)(3)(D).
+Chris Cortez, Assistant Planner
+Page 4
+
+
+
+
+HCD understands the intricacies of implementing ever-changing state housing laws and
+is committed to supporting local agencies in the successful implementation of state
+housing laws, including SB 9. Please respond to this letter by January 16, 2026
+explaining how the City plans to implement the guidance provided herein. If you have
+any questions or need additional information, please contact Brandon Estes at
+Brandon.Estes@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Brian Heaton
+Section Chief, Land Use Policy
+Housing Accountability Unit

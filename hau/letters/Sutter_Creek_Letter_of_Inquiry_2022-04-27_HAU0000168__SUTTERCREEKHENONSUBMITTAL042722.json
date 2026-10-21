@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011153",
+  "case_number": "HAU0000168",
+  "letter_date": "2022-04-27",
+  "jurisdiction": "Sutter Creek",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/SUTTERCREEKHENONSUBMITTAL042722.pdf",
+  "hcd_letter": "Sutter Creek Letter of Inquiry 04/27/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/SUTTERCREEKHENONSUBMITTAL042722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 166374,
+  "text_chars": 5660,
+  "text_empty": false
+}

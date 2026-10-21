@@ -1,0 +1,265 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 9, 2024
+
+
+
+         Alison Spindler-Ruiz, Planning Bureau Manager
+         City of Long Beach
+         411 W. Ocean Blvd.
+         Long Beach, CA 90802
+
+
+         Dear Alison Spindler-Ruiz:
+
+         RE: City of Long Beach Senate Bill 9 Implementation — Letter of Technical
+             Assistance
+
+         This letter provides technical assistance to the City of Long Beach (City) regarding
+         Subdivision Ordinance No. ORD-23-0051 (subdivision ordinance), which amends
+         Title 20 of the Long Beach Municipal Codes (LBMC) and implements provisions of
+         Senate Bill (SB) 9 (Chapter 162, Statutes of 2021) 1 relating to the approval of a parcel
+         map for an urban lot split.
+
+         The California Department of Housing and Community Development (HCD) identified
+         several standards within the subdivision ordinance that conflict with SB 9 to the extent
+         that they preclude certain SB 9 developments throughout the City on otherwise eligible
+         lots. Where standards conflict with SB 9, as detailed below, the City should either
+         revise the standards or develop a ministerial waiver process to facilitate the
+         development of projects processed pursuant to SB 9.
+
+         Background
+
+         HCD received a request for technical assistance from a City of Long Beach resident
+         (requester). HCD understands the requester is interested in pursuing an urban lot split
+         within the R-1-N (Single-family Residential, standard lot) zoning district and alerted HCD
+         that several objective standards contained within the City’s subdivision ordinance
+         preclude approval of a parcel map under an SB 9 urban lot split (henceforth referred to
+         as an “urban lot split”). Specifically, the requester’s lot does not abut a rear street or alley
+         and was thus precluded from pursuing an urban lot split pursuant due to standards
+         contained within the subdivision ordinance. HCD understands that a recently updated
+         subdivision ordinance that implements portions of SB 9, specifically Chapter 20.18, titled
+         “Urban Lot Split (Parcel Map),” was adopted by the City on December 19, 2023, and
+         implemented on January 22, 2024. 2 Both the requester and the City confirmed that
+
+1
+    Gov. Code, §§ 65852.21, 66411.7 et seq.
+2
+    LBMC, § 20.18.010 et seq.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 2
+
+
+      standards in the updated ordinance continue to preclude approval of the urban lot split
+      on the requester’s lot.
+
+      Analysis
+
+      SB 9 establishes eligibility criteria for the ministerial approval of a parcel map for an
+      urban lot split and allows a local agency to impose zoning, subdivision, and design
+      review standards. 3 It also establishes certain conditions a city may require when
+      considering an application for a parcel map for an urban lot split. 4 HCD conducted a
+      review of the City’s subdivision ordinance and notes that the following objective
+      standards preclude urban lot splits for the requester and other potential applicants:
+
+             20.18.100 (G) Minimum Lot Widths – The subdivision ordinance states, “Both
+             newly created parcels shall conform to the minimum lot width requirements in
+             Chapter 21.31 and Chapter 20.08 of the Long Beach Municipal Code….,”
+             referencing minimum lot widths contained in the underlying zoning districts. The
+             subdivision ordinance also allows for an exception, in which case the new lot
+             width will not be less than the average lot width and size of existing lots within a
+             300-foot radius (Section 20.08.020). Section 20.18.100(G) of the subdivision
+             ordinance requires, generally, that the resulting parcels conform to minimum lot
+             widths contained in the LBMC. The requester’s existing lot width is 50 feet. The
+             minimum lot width for the R-1-N zoning district is also 50 feet. 5
+
+             20.10.100 (I) Public Right of Way Frontage – The subdivision ordinance states,
+             “Each of the proposed parcels shall have public right-of-way frontage (public
+             street or alley) abutting the original parcel.” However, the requester’s lot does
+             not abut a rear public street or alley; rather, the parcel only abuts one street. To
+             meet this requirement, the proposed parcels could be split along the current
+             street frontage. However, this would result in a lot width less than 50 feet and
+             would be precluded by the minimum lot width requirement.
+
+             20.18.100 (J) Flag Lots – The subdivision ordinance states, “A flag lot, or a lot
+             with a narrow projecting strip of land extending to or along a public right-of way
+             frontage, shall not be permitted.” In instances where a parcel that abuts a single
+             public street could be split using a single strip of narrow land to adjoin the new
+             interior parcel to a public street (often called a “panhandle” or a “flag lot”),
+             20.18.100 (J) disallows such configurations.
+
+      These standards generally limit urban lot splits for eligible single-family zoned parcels
+      to those that either have rear streets or alleys, or twice the street frontage of the
+      applicable minimum lot width. Lots twice as wide as the applicable minimum lot are
+      unusual and many lots do not have rear streets or alleys, making a significant share of
+      single-family parcels across the City ineligible. To demonstrate this point, HCD
+
+3 Gov. Code, §§ 65852.21, subd. (b); 66411.7, subd. (c).
+4 Gov. Code, § 66411.7, subd. (e).
+5 LBMC, Chapter 21.31 Table 31-2A Residential Development Standards.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 3
+
+
+      performed a cursory review of 1,744 parcels within single-family residential zones
+      using the City’s publicly available zoning and parcel data 6 and found that approximately
+      55 percent of those parcels did not have access to a rear street or alley. While this
+      figure may not be representative citywide, the assessment demonstrates the significant
+      share of parcels that are made ineligible for an urban lot split by the City’s subdivision
+      ordinance.
+
+      SB 9 limits objective subdivision standards that physically preclude a lot split
+
+      SB 9 sets forth the requirement that a local agency ministerially approve an urban lot
+      split for two new parcels if the application meets several requirements. 7 To facilitate the
+      lot split, SB 9 establishes guardrails for these objective standards. Specifically, SB 9
+      provides:
+
+             “A local agency shall not impose objective zoning standards, objective
+             subdivision standards, and objective design review standards that would have
+             the effect of physically precluding the construction of two units on either of the
+             resulting parcels or that would result in a unit size of less than 800 square feet.”
+             (Gov. Code, § 66411.7, subd. (c)(2).) (Emphasis added.)
+
+      It follows that, to have two units on “either of the resulting parcels,” the resulting parcels
+      must be able to occur. 8 In the case of the requester’s lot, the urban lot split is physically
+      precluded by LBMC sections 20.18.100 (G), 20.10.100 (I), and 20.18.100 (J).
+
+      SB 9 enables a requirement for sufficient access to both resulting parcels
+
+      While Government Code section 66411.7, subdivision (c)(2) prevents the application of
+      objective zoning, subdivision, and design review standards that physically preclude the
+      urban lot split from occurring, SB 9 also provides an enabling protocol for how access
+      can be required for the resulting parcels. Specifically, subdivision (e) provides that a
+      local agency may require certain “conditions when considering an application for a
+      parcel map for an urban lot split.” Specifically, a local agency may impose “a
+      requirement that the parcels have access to, provide access to, or adjoin the public
+      right-of-way.” 9
+
+      Here, subdivision (e)(2) offers three options for allowable requirements, using the word
+      “or.” The local agency may require that the parcels (1) have access to, (2) provide
+
+6 See City of Long Beach Zoning and Land Use Map, available at
+
+https://longbeachca.maps.arcgis.com/apps/webappviewer/index.html?id=17b68e7082ef4a4ea8ba6b0
+d04729758.
+7 Gov. Code, § 66411.7, subds. (a), (b).
+8 See HCD’s SB 9 Fact Sheet, pg. 1, available at https://www.hcd.ca.gov/docs/planning-and-
+
+community-development/sb9factsheet.pdf. (“Key provisions of the law require a local agency to
+modify or eliminate objective development standards on a project-by-project basis if they would
+prevent an otherwise eligible lot from being split….”)
+9 Gov. Code, § 66411.7, subd. (e)(2). Emphasis added.
+Alison Spindler-Ruiz, Planning Bureau Manager
+Page 4
+
+
+access to, or (3) adjoin the public right-of-way. For example, the requirement may be
+satisfied by a flag lot, ensuring both parcels have access to a public right-of-way; a
+shared access easement, ensuring one parcel provides access to the other; or a rear
+alley/public street, ensuring both resulting parcels adjoin a public right-of-way.
+
+Overall, the operative function of subdivision (e)(2) is to ensure sufficient access for
+both lots can be provided, which can be met through one or more of the three options.
+However, the options offered in subdivision (e)(2) should not be read in a way that
+conflicts with subdivision (c)(2), which preempts objective standards that would
+physically preclude an urban lot split. Government Code section 66411.7, subdivision
+(c)(2) and (e)(2), working together, mean that a local agency may not use the strict
+application of one of the options to become grounds for physically precluding an urban
+lot split in circumstances where the selection of another implementing option may
+facilitate the lot split.
+
+In the case of the City’s subdivision ordinance, the requirements that both proposed
+parcels maintain public right-of-way frontage (public street or alley) and conform to
+minimum lot widths act to physically preclude urban lot splits from occurring on a
+significant number of parcels. Where the urban lot split may be facilitated by objective
+subdivision standards that still ensure the parcels have access to, provide access to, or
+adjoin the public right-of-way, the City should opt to impose such standards and waive
+standards that physically preclude the urban lot split.
+
+It is beyond the scope of this letter to lay out all possible minimum access requirements
+that would satisfy both Government Code section 66411.7, subdivisions (c)(2) and
+(e)(2). However, the City should consider how it can employ a menu of potential
+options, including flag lots, shared driveway easements, or shared pathway easements
+in areas with zero off-street parking minimums to ensure adequate access is required
+without employing standards that physically preclude an urban lot split from occurring
+on a lot where at least one of the options enumerated by subdivision (e)(2) would
+facilitate the urban lot split.
+
+Other conflicts — application of underlying zoning code to urban lot splits
+
+HCD also found another provision within the subdivision ordinance that conflicts with
+SB 9. Specifically, the subdivision ordinance provides the following:
+
+      20.18.100(Q) Lot Lines and Nonconformities – “Lot lines shall not render an
+      existing structure as nonconforming in any respect (e.g. setbacks, open yard,
+      Floor Area Ratio, parking), nor increase the nonconformity of an existing
+      nonconforming structure.”
+
+HCD understands that standards referenced in section 20.18.100 (Q) refer to and thus
+apply standards contained within the underlying zoning. However, a requirement that
+an urban lot split not create new nonconformities or not increase existing
+nonconformities is, in effect, broadly applying the standards of the underlying zoning
+code to urban lot split applications. Doing so creates several conflicts with SB 9.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 5
+
+
+      Any objective zoning, subdivision, or design review standard that would prevent an
+      otherwise eligible lot from being split, physically preclude the construction of up to two
+      units on either of the resulting parcels, or result in a unit size of less than 800 square
+      feet must be modified or waived by the local agency in order to facilitate the
+      development of the project. 10 Additionally, the ordinance provision may conflict with
+      other portions of SB 9, including but not limited to parking, 11 setbacks, 12 and
+      protections for existing structures. 13 Finally, while Government Code section 66411.7,
+      subdivision (i) provides that a local agency cannot require “the correction of
+      nonconforming zoning conditions” as a condition of approval, 14 subdivision (i) does not
+      enable a local agency to broadly disallow urban lot splits that would create new
+      nonconformities or increase existing nonconformities.
+
+      Conclusion
+
+      To the extent that objective zoning, subdivision, and design standards within the City’s
+      implementing urban lot split subdivision ordinance conflict with SB 9 as demonstrated
+      throughout this letter, HCD recommends that the subdivision ordinance be revised.
+      However, standards may also need to be waived or modified on a project-by-project
+      basis. Because of this, HCD also recommends that the City develop a ministerial
+      waiver process when standards are found to conflict with Government Code sections
+      66411.7, subdivision (c)(2) or 65852.21, subdivision (b)(2)(A).
+
+      HCD would also like to remind the City that HCD has enforcement authority over SB 9,
+      among other state housing laws. Accordingly, HCD may review local government
+      actions and inactions to determine consistency with these laws. If HCD finds that a
+      City’s actions do not comply with state law, HCD may notify the California Office of the
+      Attorney General that the local government is in violation of state law. (Gov. Code, §
+      65585, subd. (j).) If you have questions or need additional information, please contact
+      Brandon Yung at brandon.yung@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+
+
+10 See HCD’s SB 9 Fact Sheet, pg. 2, available at https://www.hcd.ca.gov/docs/planning-and-
+
+community-development/sb9factsheet.pdf.
+11 Gov. Code, §§ 65852.21, subd. (c)(1); 66411.7, subd. (e)(3).
+12 Gov. Code, §§ 65852.21, subd. (b)(2)(B)(ii); 66411.7, subd. (c)(3)(B).
+13 Gov. Code, §§ 65852.21, subd. (b)(2)(B)(i); 66411.7, subd. (c)(3)(A).
+14 Gov. Code, § 66411.7, subd. (i).

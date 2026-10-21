@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010732",
+  "case_number": "HAU21-099",
+  "letter_date": "2022-06-03",
+  "jurisdiction": "Seaside",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/monSeaside-NOI-063022.pdf",
+  "hcd_letter": "Seaside Letter of Inquiry 06/03/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/monSeaside-NOI-063022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 181828,
+  "text_chars": 5022,
+  "text_empty": false
+}

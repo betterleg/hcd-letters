@@ -1,0 +1,344 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 29, 2022
+
+
+
+         Ken Rukavina, Director of Community Development
+         Community Development Department
+         City of Rancho Palos Verdes
+         30940 Hawthorne Boulevard
+         Rancho Palos Verdes, CA 90275
+
+         Dear Ken Rukavina:
+
+         RE: City of Rancho Palos Verdes’ Accessory Dwelling Unit (ADU) Ordinance –
+             Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) thanks the
+         City of Rancho Palos Verdes (City) for submitting accessory dwelling unit (ADU)
+         Ordinance Number 640 (Ordinance) and for its response to HCD’s May 21, 2021,
+         written findings of non-compliance. HCD appreciates the time and effort the City took in
+         crafting its June 18, 2021, response.
+
+         Nevertheless, HCD has significant concerns with the City’s response as it fails to
+         address substantial inconsistencies between the City’s zoning code and State ADU
+         Law. Per the City’s request, HCD is providing this Letter of Technical Assistance in
+         hopes that it will serve as a guide to outline the steps the City must take to comply with
+         state law.
+
+         HCD requests that the City respond to this letter no later than September 28, 2022,
+         with a detailed plan of action, with dates and deadlines, to bring its ordinance into
+         compliance pursuant to Government Code section 65852.2, subdivision (h)(2)(B).
+         Specifically, to bring its ADU ordinance into compliance, the City must either amend
+         the Ordinance according to HCD’s findings, pursuant to Government Code section
+         65852.2, subdivision (h)(2)(B)(i), or readopt the Ordinance without changes and
+         make express findings via resolution explaining the reasons the City believes it has
+         complied with State ADU Law despite HCD’s findings pursuant to Government Code
+         section 65852.2, subdivision (h)(2)(B)(ii). HCD understands that the City has recently
+         begun the process of making some amendments, including a Planning Commission
+         hearing on August 23, 2022. While HCD has not substantively reviewed the proposed
+         amendments, this letter may offer additional guidance to help the City make updates
+         consistent with HCD's prior findings.
+Ken Rukavina, Director of Community Development
+Page 2
+
+
+
+
+Background and Summary of Issues
+
+In its May 21, 2021, findings, HCD found that Municipal Code section 17.10.020.C
+violates Government Code section 65852.2, subdivisions (a) and (e). Those
+Government Code sections were intended to facilitate the ministerial development of
+ADUs in residential areas to address critical housing needs and the housing crisis.
+(Gov. Code, § 65852.2, subds. (a)(3), (a)(4), and (e)(1).)
+
+In its June 18, 2021, letter, the City indicated that it would explore textual revisions to
+address a number of HCD’s findings. While the City does not appear to have made
+those changes yet, it is HCD’s understanding that once the City receives this letter, it
+will begin the process of adopting them.
+
+However, the City rejected HCD’s findings related to Municipal Code section
+17.10.020.C., which prohibits ADUs on lots that are located in a Very High Fire Hazard
+Severity Zone (VHFHSZ) unless the lot has two distinct means of vehicular access. The
+Ordinance goes on to state that ADUs located in a VHFHSZ may be allowed with a
+conditional use permit (CUP), and the City’s letter clarifies that the CUP is needed to
+“assure that ADUs proposed to be located within a [VHFHSZ] are on streets with two
+distinct means of vehicular access….”
+
+To explain its position, the City stated in its letter that it is asking for “a means to
+manage and control the development of ADUs in a manner that can ensure the safety of
+the public.” Although it does not cite the statute, the City seems to be relying on
+Government Code section 65852.2, subdivision (a)(1)(A), which states that a local
+agency may adopt an ordinance that designates areas where ADUs may be permitted
+“based on … the impact of accessory dwelling units on traffic flow and public safety.”
+
+As explained below, the City has not adequately demonstrated that ADUs will impact
+public safety in the VHFHSZ and that the prohibition and CUP requirement is therefore
+justified. Furthermore, even if the City does provide adequate justification for this
+restriction on ADUs that fall under Government Code section 65852.2, subdivision (a),
+the City may not justify such a restriction on ADUs that fall under subdivision (e). In
+addition, a CUP is discretionary, thus violating the state requirement that ADUs be
+approved ministerially. (Gov. Code, § 65852.2, subds. (a)(3) and (4); (b); and (e)(1).)
+
+Finally, the City has not taken the necessary steps to bring its ordinance into
+compliance with State ADU Law either by amending the Ordinance or by adopting
+findings explaining why the City believes the Ordinance complies with State ADU Law
+despite HCD’s findings. (Gov. Code, § 65852.2, subd. (h)(2)(B).)
+         Ken Rukavina, Director of Community Development
+         Page 3
+
+
+
+
+         The City must either demonstrate that ADUs are a public safety risk to justify
+         restrictions in the VHFHSZ or remove the prohibition and CUP requirement for
+         subdivision (a) ADUs
+
+         Under Government Code section 65852.2, subdivision (a), the City is permitted to
+         designate areas in which ADUs may be developed. However, the City has not
+         adequately demonstrated the impact that ADUs will have on public safety so as to justify
+         prohibiting ADUs without two means of vehicular access and requiring a CUP for all
+         ADUs in the VHFHSZ, which covers virtually the entire city, potentially prohibiting or
+         delaying ADU construction in large swaths of the city. 1
+
+         To be clear, HCD does not take issue with the existence of the VHFHSZ itself, as
+         suggested by the City in its June 18, 2021, letter. Rather, HCD is concerned about
+         added requirements that may effectively prohibit ADU development in the majority of the
+         city, especially given the lack of evidence that these restrictions are needed or will fulfill
+         their intended purpose.
+
+         Note that the VHFHSZ mapping was not intended to serve as a development
+         moratorium. Rather, according to Cal Fire, these maps are intended to be used for
+         planning purposes and mitigation measures, namely:
+
+            •   Implementing wildland-urban interface building standards for new construction
+            •   Natural hazard real estate disclosure at time of sale
+            •   100-foot defensible space clearance requirements around buildings
+            •   Property development standards such as road widths, water supply and signage
+            •   Consideration in city and county general plans 2
+
+         Further, in consultation with the California Department of Forestry and Fire Protection,
+         HCD has confirmed that ADU development in a VHFHSZ must conform with standards
+         set forth in Chapter 7A of the California Building Code (CBC), Chapter 49 of the
+         California Fire Code (CFC), and the Minimum Fire Safe Regulations in the Public
+         Resources Code Section 429 (14 CCR 1270 et seq.). These codes establish and/or
+         strengthen development standards that govern residential development within a
+         VHFHSZ and Wildland-Urban Interface Fire Areas. Both CBC Chapter 7A and CFC
+         Chapter 49 require compliance with the requirements for defensible space and building
+         in wildfire prone areas of Government Code sections 51175-51189.
+
+         HCD observes that the City’s General Plan Land Use, Housing, and Circulation
+         Elements raise no concerns about housing in the VHFHSZ and propose no housing
+         restrictions or access concerns with regard to fire safety. The City’s Safety Element is
+
+1
+    City of Rancho Palos Verdes, Agenda Report, September 1, 2020 (Case No. PLCA2020-0001), p. 5.
+2 Office of the State Fire Marshal, Fire Hazard Severity Zones, available at
+
+https://osfm.fire.ca.gov/divisions/community-wildfire-preparedness-and-mitigation/wildfire-
+preparedness/fire-hazard-severity-zones/.
+         Ken Rukavina, Director of Community Development
+         Page 4
+
+
+
+         likewise silent. Furthermore, the City has placed no similar restrictions on the
+         construction or expansion of any other residential structures in the VHFHSZ, such as
+         single-family homes. Aside from the VHFHSZ maps, the City cites no evidence that its
+         infrastructure is insufficient to handle ADUs or that two distinct means of vehicular
+         access are necessary in every case where an ADU is added in a VHFHSZ. For
+         instance, it appears that neither the Los Angeles County Fire Department nor Cal Fire
+         recommended that ADUs be limited in this manner, despite the City’s efforts to consult
+         with them on access and restrictions. 3 Finally, HCD is unaware of any traffic or other
+         studies that indicate that the City’s infrastructure is inadequate to support the
+         development of ADUs in the VHFHSZ or that evacuation would be impacted by ADUs in
+         any material way.
+
+         In addition, on page 7 of its June 18, 2021, letter, the City states, “Development of
+         ADUs and JADUs will have cumulative impacts over time if most homes in a community
+         add on one ADU that exceeds lot coverage and one JADU and eliminate all off-street
+         parking.” However, the City provides no evidence to support its assumption that “most”
+         homes will do these things. The City goes on to state, “As the ADUs, housing density,
+         and population increase (potentially more than doubling the population), neighborhoods
+         will become even more congested with vehicles parked on both sides of the streets.”
+         Again, the City provides no evidence to support its assumption that the city will
+         experience such a significant population increase as a result of ADU construction.
+
+         In sum, the City can limit where ADUs may be located based on “the impact of
+         accessory dwelling units on traffic flow and public safety.” (Gov. Code § 65852.2, subd.
+         (a)(1)(A).) The City cited fire safety as the purported basis for the restrictions set forth in
+         Municipal Code section 17.10.020.C, but the City does not provide adequate supporting
+         documentation to demonstrate that ADUs in these areas would in fact impact public
+         safety, or that adopting these expansive restrictions would mitigate these potential
+         issues. For these reasons, as currently applied, Municipal Code section 17.10.020.C
+         violates Government Code section 65852.2, subdivision (a). To bring its ADU ordinance
+         into compliance, the City must either remove these restrictions or provide additional
+         evidence that demonstrates that ADUs would impact public safety if allowed to be built
+         in the VHFHSZ without going through the CUP process.
+
+         The City must remove the prohibition and CUP requirement for subdivision (e)
+         ADUs
+
+         Even if the City could justify such a “public safety” restriction on ADUs under
+         Government Code section 65852.2, subdivision (a), whereby a “local agency may, by
+         ordinance, provide for the creation of accessory dwelling units,” such a restriction is not
+         available for ADUs that fall under subdivision (e). ADUs described in subdivision (e) fall
+         into four categories, and ADUs within those four categories must be allowed in any
+         residential or mixed-use zone and are not subject to any local development standards
+         other than those specifically listed in subdivision (e). These ADUs tend to be smaller,
+
+
+3
+    City of Rancho Palos Verdes, Agenda Report, September 1, 2020 (Case No. PLCA2020-0001), p. 6.
+Ken Rukavina, Director of Community Development
+Page 5
+
+
+
+may be within an existing structure, and may have to meet other specified criteria such
+as minimum setback requirements.
+
+The City must make other amendments to bring its ADU ordinance into
+compliance with State ADU Law
+
+As noted above, the City must either amend the Ordinance or adopt findings to justify
+additional requirements related to ADUs developed in the VHFHSZ under the provisions
+of Government Code section 65852.2, subdivision (a). It must also amend its ordinance
+to ensure that ADUs meeting the requirements of an ADU found in Government Code
+section 65852.2, subdivision (e), are exempt from these and any other additional local
+development standards.
+
+In addition, with respect to the following concerns identified in HCD’s May 21, 2021,
+letter, the City appeared to concede in its June 18, 2021, letter that the City’s ordinance
+is inconsistent with State ADU Law and agreed to explore potential amendments to its
+ordinance:
+
+   •   “Section 17.10.020 should be revised to clarify that an ADU ‘within an existing
+       space’ may be a unit that is located within a proposed or existing primary
+       dwelling.” (City of Rancho Palos Verdes letter to HCD, dated June 18, 2021 (City
+       Letter), p. 4, quoting HCD and indicating a textual revision will be explored.)
+
+   •   “Section 17.10.20.B should be revised to make clear that ADUs are allowed on
+       all lots with a proposed or existing single family or multifamily structure, and that
+       [Junior Accessory Dwelling Units (JADUs)] are allowed only where there is a
+       proposed or existing single-family unit on the lot. Section 17.10.040.E.3 should
+       also be revised to make clear that JADUs are only allowed in a proposed or
+       existing single-family dwelling.” (City Letter, p. 4, quoting HCD and indicating a
+       textual revision will be explored.)
+
+   •   “The language in Section 17.10.030.A requiring JADUs to comply with ADU
+       standards ‘in addition’ to JADU standards should also be removed, as it is overly
+       broad and confusing.” (City Letter, p. 4, quoting HCD and indicating a textual
+       revision will be explored.)
+
+   •   “… parking for ADUs may be provided as tandem parking spots or in a driveway.
+       There can be no ‘required garage space’ as stated in Section 17.10.20.B.4.” (City
+       Letter, pp. 4-5, quoting HCD and indicating a textual revision will be explored.)
+
+   •   “Section 17.10.20.B.6.c and e should be revised to include the phrase ‘where
+       feasible’ at the beginning of the first sentence . . . . JADUs are exempt from local
+       design and development standards, and thus these privacy standards would not
+       apply to JADUs under any condition.” The ‘lighting requirements’ under Section
+       17.10.020.B.6.g should also be elucidated and required only ‘where feasible’.”
+       (City Letter, p. 5, quoting HCD and indicating a textual revision will be explored.)
+Ken Rukavina, Director of Community Development
+Page 6
+
+
+
+   •   “State Fair Housing Law prevents local jurisdictions from limiting the number of
+       bedrooms in a residence.... Section 17.10.020.B.8 therefore needs to be
+       removed.” (City Letter, p. 6, quoting HCD and indicating a textual revision will be
+       explored.)
+
+   •   “Section 17.10.020.B.14 of this ordinance will need to be revised to require 4-foot
+       rear and side yard setbacks instead of five (5)-foot side and rear yard setbacks.
+       Section 17.10.020.C.4 should be revised in the same manner.” (City Letter, p. 6,
+       quoting HCD and indicating a textual revision will be explored.) Please note that
+       any “mitigation measures” in VHFHSZs would still have to comply with State
+       ADU Law. This essentially means that no additional fire safety standards can be
+       required of a new ADU that would not be required for a primary dwelling being
+       built on the site. In other words, ADU development must not be limited any more
+       than any other type of residential development.
+
+   •   “Section 17.10.020.D.3 of this ordinance [pertaining to replacement parking
+       provisions] should thus be removed. The same is true for 17.10.020.C.5.” (City
+       Letter, p. 8, quoting HCD and indicating a textual revision will be explored.)
+
+   •   “JADUs can be created in an attached garage. This should be elucidated in
+       Section 17.10.030.A.4 of this ordinance.” (City Letter, p. 8, quoting HCD and
+       indicating a textual revision will be explored.)
+
+Additionally, HCD requests further information on Section 17.10.050.A.3 related to
+revocation of ADU Permits. (City Letter, p. 9.)
+
+Conclusion
+
+Given the deficiencies described above and in HCD’s May 21, 2021, letter, the City’s
+ADU ordinance is inconsistent with State ADU Law. HCD hopes that the City finds the
+additional technical assistance provided in this letter useful and looks forward to
+receiving the City’s plan of action to bring its ordinance into compliance pursuant to
+Government Code section 65852.2, subdivision (h)(2)(B), by September 28, 2022.
+
+Should the City decide not to take steps to modify its ordinance in the manner outlined
+in this letter, it should be aware of the impacts that would flow from an ADU ordinance
+that does not comply with State ADU Law.
+
+First, Government Code section 65852.2, subdivision (a)(4), states that if “a local
+agency has an existing accessory dwelling unit ordinance that fails to meet the
+requirements of this subdivision, that ordinance shall be null and void and that agency
+shall thereafter apply the standards established in this subdivision for the approval of
+accessory dwelling units, unless and until the agency adopts an ordinance that complies
+with this section.” Pursuant to Government Code section 65852.2, subdivision (h)(1),
+HCD previously issued its findings as to whether the ADU ordinance complies with
+State ADU Law. If HCD finds the City fails to meet the requirements of Government
+Code section 65852.2, subdivision (h)(2)(B), the City should consider its ordinance null
+Ken Rukavina, Director of Community Development
+Page 7
+
+
+
+and void from the date HCD issues its formal notice of violation pursuant to Government
+Code section 65852.2, subdivision (h)(3)(A) until such time as HCD finds the City has
+adopted an ordinance that complies with this section.
+
+Second, Government Code section 65852.2, subdivision (h)(3)(A), authorizes HCD to
+notify the California Office of the Attorney General that the City is in violation of this
+state law. As noted above, HCD will not take action authorized pursuant to subdivision
+(h) before allowing the City an opportunity to respond to this letter and attempt to revise
+its ordinance to bring it into compliance.
+
+Third, the City would not be able to rely on ADUs to meet its Regional Housing Needs
+Allocation (RHNA). The City has been assigned a RHNA from the Southern California
+Association of Governments in the amount of 638 units, of which 253 must be
+affordable to very low-income households, 139 to low-income households, 125 to
+moderate-income households, and 122 to above moderate-income households.
+Pursuant to the adopted housing element received for HCD review on August 15, 2022,
+the City is projecting construction of 40 ADUs to meet its RHNA. Government Code
+section 65852.2, subdivision (m), allows a city to rely on the potential for ADUs in its
+housing element site analysis only where the local ordinance complies with this section
+and is authorized by HCD. Thus, until the City has a compliant ADU ordinance, it must
+look elsewhere for appropriate sites to meet its RHNA.
+
+HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please feel free to contact Reid Miller, of our staff, at Reid.Miller@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

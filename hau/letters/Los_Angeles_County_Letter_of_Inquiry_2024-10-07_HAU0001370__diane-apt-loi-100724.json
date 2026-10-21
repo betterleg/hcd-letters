@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017771",
+  "case_number": "HAU0001370",
+  "letter_date": "2024-10-07",
+  "jurisdiction": "Los Angeles County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/prsv/diane-apt-loi-100724.pdf",
+  "hcd_letter": "Los Angeles County Letter of Inquiry 10/07/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/prsv/diane-apt-loi-100724.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 171210,
+  "text_chars": 4521,
+  "text_empty": false
+}

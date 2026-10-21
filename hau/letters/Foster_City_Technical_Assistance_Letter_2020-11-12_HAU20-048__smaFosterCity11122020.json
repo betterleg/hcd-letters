@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010665",
+  "case_number": "HAU20-048",
+  "letter_date": "2020-11-12",
+  "jurisdiction": "Foster City",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65589.5(j)(4) | 65915(b)(1) | 65915(c)(3) | 65915(c)(3)(A)(i) | 65915(d)(2) | 65915(k)(1)",
+  "n_statutes": "6",
+  "keywords": "Affordability Calculation | Cannot require Rezone | Incentives and Concessions vs. Waivers | Maximum Allowable Density | Total vs. Overall | replacement units",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/smaFosterCity11122020.pdf",
+  "hcd_letter": "Foster City Technical Assistance Letter 11/12/2020",
+  "housing_law": "Density Bonus Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/smaFosterCity11122020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189261,
+  "text_chars": 10426,
+  "text_empty": false
+}

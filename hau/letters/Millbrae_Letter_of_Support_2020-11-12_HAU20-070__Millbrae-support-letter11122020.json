@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010669",
+  "case_number": "HAU20-070",
+  "letter_date": "2020-11-12",
+  "jurisdiction": "Millbrae",
+  "letter_type": "Letter of Support",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65915",
+  "n_statutes": "1",
+  "keywords": "Planned Development Rezone",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/Millbrae-support-letter11122020.pdf",
+  "hcd_letter": "Millbrae Letter of Support 11/12/2020",
+  "housing_law": "Density Bonus Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/Millbrae-support-letter11122020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 245988,
+  "text_chars": 19453,
+  "text_empty": false
+}

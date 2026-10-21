@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010685",
+  "case_number": "HAU21-063",
+  "letter_date": "2021-12-08",
+  "jurisdiction": "Eureka",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "54220 | 65583.3 | 65589.5 | 65863",
+  "n_statutes": "4",
+  "keywords": "Housing Element Amendment",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/humEureka-TA-120821.pdf",
+  "hcd_letter": "Eureka Technical Assistance Letter 12/08/2021",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/humEureka-TA-120821.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 228888,
+  "text_chars": 14706,
+  "text_empty": false
+}

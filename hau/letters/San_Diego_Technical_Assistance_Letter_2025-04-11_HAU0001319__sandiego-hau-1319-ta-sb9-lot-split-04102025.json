@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020273",
+  "case_number": "HAU0001319",
+  "letter_date": "2025-04-11",
+  "jurisdiction": "San Diego",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "66411.7(b)(3)",
+  "n_statutes": "1",
+  "keywords": "Off-site improvements",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sandiego-hau-1319-ta-sb9-lot-split-04102025.pdf",
+  "hcd_letter": "San Diego Technical Assistance Letter 04/11/2025",
+  "housing_law": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sandiego-hau-1319-ta-sb9-lot-split-04102025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 247983,
+  "text_chars": 7395,
+  "text_empty": false
+}

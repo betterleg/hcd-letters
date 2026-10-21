@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010713",
+  "case_number": "HAU22-114",
+  "letter_date": "2022-06-23",
+  "jurisdiction": "Claremont",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65008 | 65583(a)(3) | 65589.5 | 65589.5(a)(2)(K) | 65589.5(a)(2)(L) | 65589.5(d) | 65589.5(h)(6)(A)",
+  "n_statutes": "7",
+  "keywords": "731 Harrison Ave Housing Project",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanClaremont-SUP-TA-062322.pdf",
+  "hcd_letter": "Claremont Technical Assistance Letter 06/23/2022",
+  "housing_law": "Housing Accountability Act, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanClaremont-SUP-TA-062322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182495,
+  "text_chars": 7579,
+  "text_empty": false
+}

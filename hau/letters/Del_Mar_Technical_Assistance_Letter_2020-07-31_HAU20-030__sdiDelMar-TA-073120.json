@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010660",
+  "case_number": "HAU20-030",
+  "letter_date": "2020-07-31",
+  "jurisdiction": "Del Mar",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law | No Net Loss",
+  "statutes": "65584.09 | 65863",
+  "n_statutes": "2",
+  "keywords": "AB 1233 | No net loss | RHNA | RHNA shortfall | adequate sites | housing element rezone",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiDelMar-TA-073120.pdf",
+  "hcd_letter": "Del Mar Technical Assistance Letter 07/31/2020",
+  "housing_law": "Housing Element Law, No Net Loss",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiDelMar-TA-073120.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193416,
+  "text_chars": 7454,
+  "text_empty": false
+}

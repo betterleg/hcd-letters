@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017616",
+  "case_number": "HAU0001242",
+  "letter_date": "2024-10-09",
+  "jurisdiction": "Eureka",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585(a)(5) | 65585(b)(1) | 65585(f) | 65585(g) | 65585(h) | 65589.5(o) | 65863.2 | 65915 | 65941.1",
+  "n_statutes": "9",
+  "keywords": "Housing Element Amendment",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/eureka-ta-he-compliance-100924.pdf",
+  "hcd_letter": "Eureka Technical Assistance Letter 10/09/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/eureka-ta-he-compliance-100924.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 147887,
+  "text_chars": 8049,
+  "text_empty": false
+}

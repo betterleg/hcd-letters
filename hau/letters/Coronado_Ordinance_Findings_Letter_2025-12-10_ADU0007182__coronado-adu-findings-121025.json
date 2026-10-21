@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023150",
+  "case_number": "ADU0007182",
+  "letter_date": "2025-12-10",
+  "jurisdiction": "Coronado",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "Coronado",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/coronado-adu-findings-121025.pdf",
+  "hcd_letter": "Coronado Ordinance Findings Letter 12/10/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/coronado-adu-findings-121025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 291274,
+  "text_chars": 48357,
+  "text_empty": false
+}

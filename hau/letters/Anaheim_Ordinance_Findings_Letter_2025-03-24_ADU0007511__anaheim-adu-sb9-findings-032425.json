@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0024250",
+  "case_number": "ADU0007511",
+  "letter_date": "2025-03-24",
+  "jurisdiction": "Anaheim",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law | Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "65852.21 | 66311 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66329",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/anaheim-adu-sb9-findings-032425.pdf",
+  "hcd_letter": "Anaheim Ordinance Findings Letter 03/24/2025",
+  "housing_law": "Accessory Dwelling Unit Law, Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/anaheim-adu-sb9-findings-032425.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 207620,
+  "text_chars": 24849,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0017917",
+      "case_number": "HAU0001133",
+      "letter_date": "2025-03-24",
+      "jurisdiction": "Anaheim",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+      "statutes": "66411.7",
+      "n_statutes": "1",
+      "keywords": "ADU | number of units | ordinance review | public hearing",
+      "n_keywords": "4",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/anaheim-adu-sb9-findings-032425.pdf",
+      "hcd_letter": "Anaheim Technical Assistance Letter 03/24/2025",
+      "housing_law": "Duplexes and Urban Lot Splits (SB 9 of 2021)"
+    }
+  ]
+}

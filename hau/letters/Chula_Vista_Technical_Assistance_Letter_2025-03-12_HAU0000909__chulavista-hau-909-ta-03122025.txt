@@ -1,0 +1,468 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 12, 2025
+
+
+         Brian Warwick
+         Housing Manager
+         City of Chula Vista
+         276 4th Ave
+         Chula Vista, CA 91910
+
+         Dear Brian Warwick:
+
+         RE: `
+             1405 First Avenue, Chula Vista – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request from the applicant regarding whether existing units can be used in State Density
+         Bonus Law (SDBL) calculations for projects that have already built the maximum total
+         units allowed by the site’s zoning. “Total units” refers to the number of units before any
+         bonus units are added. In other words, the only new construction would be bonus units
+         achieved through use of the SDBL.
+
+         HCD understands that the project proposed at 1405 First Avenue (Project) has an existing
+         12 units on site. The site is zoned R-3 Residential and allows for a maximum base density
+         of 12 units. The Project proposes to deed restrict two out of the 12 units (17 percent) for
+         very low-income (VLI). A 50-percent density bonus is achieved, facilitating the construction
+         of six new market-rate bonus units. The existing units would not be physically altered.
+
+         Question: Can a project already at maximum density qualify for bonus units under
+         the SDBL by deed restricting existing units?
+
+         Currently, the SDBL does not explicitly consider whether existing units should be counted
+         for purposes of determining a project’s “total units.” 1 The law neatly addresses the
+         development of vacant sites and those that include the demolition of housing, 2 but does not
+         provide guidance on the treatment of project sites that contain, and will continue to contain,
+         existing housing units. Given the absence of statutory clarity, HCD provided prior guidance
+         that this determination depends on the degree of involvement of the existing units in the
+         new project proposal. 3
+
+1 Gov. Code, § 65915, subd. (o)(8).
+2 Gov. Code, § 65915, subd. (c)(3).
+3 HCD Technical Assistance Letter to the City of El Cajon, February 16, 2024, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-cajon-hau484-ta-
+02162024.pdf.
+      Brian Warwick, Housing Manager, City of Chula Vista
+      Page 2
+
+
+
+      HCD previously described the concept of “independent” and “dependent” projects under
+      the SDBL. A dependent project refers to a scenario where any of the existing units are
+      being physically modified or deed restricted as part of the proposal. For dependent
+      projects, all the existing units are considered a part of the “total units” of the project.
+      Independent projects, in contrast, are projects where the existing units are not being
+      modified physically or legally as part of the proposed housing development project.
+
+      This concept extends to all projects that physically modify or deed restrict existing units,
+      even when no new units are being proposed as part of the “total unit” count. Since the
+      Project at hand deed restricts existing units, all existing units would count toward density
+      bonus calculations. Therefore, it is possible to have the newly constructed units only be
+      bonus units achieved through the SDBL.
+
+      HCD encourages the City to consider the scenario where instead of the existing proposal,
+      the applicant proposes to demolish all existing units and start from scratch. In this
+      scenario, the project would be permitted 12 total units and six bonus units, where two of
+      the total units are deed restricted to VLI. The result is the same number of units as the
+      Project, but with the additional impacts associated with demolition. These impacts include
+      displacement of tenants, increased time and cost of development, and increased
+      greenhouse gas emissions. This concept is therefore consistent with the SDBL’s goal of
+      being liberally in favor of producing the maximum number of total housing units. 4 An
+      opposing view results in either no additional units (including deed restricted units) or the
+      demolition scenario outlined above, each of which are contrary to the SDBL’s stated
+      objective.
+
+      HCD would also like to address the concerns of City staff in their letter to HCD
+      (Attachment) about potential displacement of tenants under the proposal. HCD is aware of
+      the important impacts of displacement and would like to reiterate the guidance provided in
+      the technical assistance letter to El Cajon. 5 To alleviate concerns of displacement, HCD
+      explained that by floating the deed restrictions, the newer units can serve as affordable
+      units as needed and existing units can serve as affordable units as they turn over. This
+      provides flexibility to reduce displacement as tenants move or graduate to different income
+      levels. HCD understands deed restrictions do not typically specify which individual units
+      are restricted; instead, they indicate the number of units by bedroom count and
+      affordability level for the entire development. Property managers must be able to
+      demonstrate that a tenant of the specific income level is always occupying an appropriate
+      affordable unit somewhere within the development, but it is not required that it always be
+      satisfied by the same units. Overall, this more permissive approach of allowing existing
+      units to be deed restricted for the purposes of State Density Bonus projects may result in
+      more overall deed restricted units, while the concept of floating units will alleviate
+      displacement concerns.
+
+4 Gov. Code, § 65915, subd. (r).
+5 HCD Technical Assistance Letter to the City of El Cajon, February 16, 2024, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-cajon-hau484-ta-
+02162024.pdf.
+Brian Warwick, Housing Manager, City of Chula Vista
+Page 3
+
+
+
+Compliance with Existing Housing Element Programs
+
+The approach described in this letter reinforces the City’s existing Housing Element goals
+to preserve units and reduce governmental constraints and costs for projects proposing
+affordable units, while maintaining compliance with state law. In particular, the approach
+supports the following programs:
+
+Chula Vista Housing Element Program 3.5: “The City will identify and evaluate constraints
+to affordable housing development and propose specific methods and strategies to
+address and remove the identified regulatory constraints to facilitate production of
+affordable housing.” The City’s current policy, if implemented, would represent a
+government restraint as it would require the needless demolition and reconstruction of
+existing units – ultimately resulting in a dramatic increase in the per-unit construction cost
+of the Project.
+
+Chula Vista Housing Element Program 3.6: “The City is required to apply current state law
+regardless of when the local amendments are adopted…. The City will continue to review
+and approve requests under State Density Bonus law (including requests for incentives,
+concessions, waivers, and parking reductions) so that projects that qualify are not
+prevented from developing at the densities to which they are entitled....” The Project is
+entitled to 18 units under the SDBL (12 base units, plus six bonus units). Implementing the
+SDBL in accordance with the technical assistance provided in this letter facilitates the
+development of the site at the density to which it is entitled.
+
+Conclusion
+
+HCD acknowledges the challenges inherent in applying the SDBL in the context of infill
+projects that seek retain existing housing units and appreciates the City’s concerns and
+feedback. It is HCD’s hope that the technical assistance provided in this letter will clarify
+the options available under the SDBL and assist the City as it applies the SDBL as a tool
+to achieve its affordable and market rate housing production goals and to balance the
+needs of current low-income residents.
+
+If you have any questions regarding the content of this letter or would like additional
+technical assistance, please contact Bentley Regehr at bentley.regehr@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief
+
+Attachment: City’s letter to HCD
+                      Housing & Homeless Services
+
+June 5, 2024
+
+Attn: Shannan West, Housing Accountability Unit Chief
+Department of Housing and Community Development
+Division of Housing Policy Development
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+
+RE:      1405 FIRST AVENUE DENSITY BONUS
+
+Dear Ms. West:
+
+The City of Chula Vista (“City") is providing this letter for consideration by HCD during its
+preparation of a letter of technical assistance regarding a proposed density bonus application for
+a project (the “Project”) to be constructed on the property located at 1405 First Avenue in Chula
+Vista (the “Property”).
+
+The City supports the efforts of the Housing Accountability Unit (“HAU”) of the California
+Department of Housing and Community Development (“HCD”) to ensure that cities throughout
+California follow state law and do their part to build housing for people at all income levels. The
+City has consistently built more housing per capita than any other city in the San Diego region, as
+shown in the attached chart. Three years into our current Housing Element cycle, we have issued
+permits for more than 80% of our above-moderate Regional Housing Needs Allocation (“RHNA”)
+target, and we are excited to have more than two hundred units of deeply affordable housing
+currently under construction or presently being considered for City funding. We are committed
+to the hard work of refining our zoning, permitting, and review processes to facilitate even more
+housing development, and regularly consult with the developer community on key policy
+questions. On May 21, 2024, the City Council passed a comprehensive housing package that
+included several actions intended to facilitate housing development, including an inclusionary
+housing update, an update to our local density bonus ordinance, and an administrative
+exemption of parkland fees for affordable projects.
+
+A number of recent developments in Chula Vista have proceeded with the assistance of State
+Density Bonus Law as codified in California Government Code Section 65915 et seq. (“SDBL”).
+The City has applied SDBL without controversy in its review and approval of these projects, and
+City staff has continued to closely track updates to SDBL and other key state housing legislation.
+For this reason, we are concerned about what appears to be an overreaching and incorrect
+interpretation by HCD of SDBL with regards to the Project.
+
+
+
+
+      276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                    Housing & Homeless Services
+
+Proposed Project
+
+The Project currently has an existing 12-unit building on the Property, which is located in a zone
+where the maximum number of units allowed by zoning is 12. The Project’s developers submitted
+a pre-application in February 2024 to build six additional units of housing on the site with the use
+of SDBL, restricting two of the six new units to Very Low-Income households. After reviewing the
+submittal, City staff informed the developer that the project is not eligible to receive a density
+bonus, since the Property has no remaining zoning capacity to meet the minimum threshold for
+SDBL. City staff met with the developer on April 22, 2024, and provided a more in-depth
+explanation of its reasoning behind the decision. Staff also provided information about possible
+alternate pathways to developing additional units on the site, such as utilizing Accessory Dwelling
+Unit (“ADU”) laws.
+
+The developer submitted a request for technical assistance to HCD with regards to the Project,
+and the City subsequently arranged a meeting with Bentley Regehr, Senior Housing Policy
+Analyst, on Thursday, May 30, 2024. In our meeting, City staff were surprised to learn that a letter
+of technical assistance was being drafted that would potentially endorse a novel interpretation
+of SDBL in order to allow additional units at the Project site. Mr. Regehr indicated that the
+developers could trigger access to a density bonus through a modification to the existing Project
+by performing rehabilitation on the original building or even simply deed-restricting existing units
+in the original building, even though the Project is at the maximum zoning capacity.
+
+SDBL Housing Development Definition
+California Government Code Section 65915(i) defines a “Housing Development” under SDBL as
+follows [emphasis added]:
+
+       “Housing development”, as used in this section, means a development project for
+       five or more residential units, including mixed-use developments. For the purposes
+       of this section, “housing development” also includes a subdivision or common
+       interest development, as defined in Section 4100 of the Civil Code, approved by a
+       city, county, or city and county and consists of residential units or unimproved
+       residential lots and either a project to substantially rehabilitate and convert an
+       existing commercial building to residential use or the substantial rehabilitation of
+       an existing multifamily dwelling, as defined in subdivision (d) of Section 65863.4,
+       where the result of the rehabilitation would be a net increase in available
+       residential units. For the purpose of calculating a density bonus, the residential
+       units shall be on contiguous sites that are the subject of one development
+       application, but do not have to be based upon individual subdivision maps or
+       parcels. The density bonus shall be permitted in geographic areas of the housing
+       development other than the areas where the units for the lower income
+       households are located.
+
+
+    276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                    Housing & Homeless Services
+
+The Project as proposed does not satisfy the criteria for a Housing Development as defined
+above. SDBL is very clear that the density bonus applies specifically to the Housing Development
+which is being applied for.
+
+The developer has represented to the City that the Project will not involve rehabilitation of the
+existing 12-unit multifamily building on the Property. Therefore, in accordance with the plain
+language of SDBL, the Housing Development the City is allowed to consider is specifically limited
+by the SDBL to the proposed 6-unit Project the owner desires to construct on a portion of the
+Property, which is separate and apart from the existing 12-unit multifamily building.
+
+As previously stated, the property’s zoning allows a maximum of 12 units on the Property. Since
+the SDBL compels the City to consider the Housing Development only (i.e., the proposed 6-unit
+Project, rather than the Property in its entirety) the Property would need to have unused
+available density in order to utilize the SDBL. Because the Property does not have unused zoning
+capacity, the Project does not meet the definition of a Housing Development.
+
+Prior HCD Technical Assistance
+On November 12, 2020, HCD provided a letter of technical assistance to the City of Foster City
+(attached). In that letter, HCD states that, “State Density Bonus Law applies to new units being
+constructed, including any replacement units” and “State Density Bonus Law applies to the
+construction of the new units (as referenced in Question #3), and not the retained units.” It goes
+on to state that such retained units “are not considered new construction and therefore ought
+not be part of the calculation for affordability requirements.” This letter demonstrates a common
+understanding that SDBL applies only to new units being constructed and excludes existing units.
+
+During the City’s May 30, 2024 meeting with HCD, Mr. Regehr referenced a letter of technical
+assistance provided to the City of El Cajon on February 16, 2023, as a basis for a potential
+interpretation of SDBL with regards to the Project. We believe the project under consideration in
+El Cajon does not provide a relevant factual basis for the Project submitted to the City of Chula
+Vista. The letter refers to “projects that do not exhaust the maximum allowable residential
+density or base density nor request a density bonus.” This is not the case for the Property, which
+does indeed exhaust the base density.
+
+Further, we believe that the letter to El Cajon stretches the applicability of SDBL far beyond the
+intent of the legislature. El Cajon’s technical assistance letter sets forth new definitions,
+“dependent” and “independent” projects, that do not exist within the text of the statute and
+have no basis in case law. The El Cajon letter sketches out a scenario in which the existing project
+can be incorporated into the Housing Development by deed-restricting existing units. This is an
+unprecedented interpretation of SDBL; deed-restricting existing units is an entirely different
+action than rehabilitating existing units for the purposes of creating a net increase in the number
+of units. There is nothing in SDBL to support HCD’s position that restriction of existing units in a
+
+
+    276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                    Housing & Homeless Services
+
+separate physical building would cause those existing units to become a “dependent” part of the
+housing development.
+
+The letter goes even further by suggesting that if some portion of existing units are deed-
+restricted or rehabilitated, all existing units could be counted towards the Base Density of a
+Housing Development. This is a convoluted line of reasoning, which may be why the letter
+incorrectly calculates the total units as defined within SDBL. Because HCD deems the El Cajon
+project a “Dependent Project”, it states that the “‘total units’ would include both the existing and
+proposed units (i.e., ten units).” This calculation includes the density bonus units, which should
+be excluded from the total unit count under SDBL. Even according to the internal logic of the
+letter, the project as approved would consist of eight units and two bonus units.
+
+Policy Considerations
+In addition to the City’s position regarding the Project’s eligibility under SDBL, the proposed
+interpretation of SDBL would raise numerous difficult administrative and policy questions about
+the interaction between SDBL, equity, and tenant protections.
+
+The prospect of using SDBL to deed-restrict existing units presents a host of unresolved policy
+questions with respect to existing tenants:
+       o Can occupied units be deed-restricted, or would they remain unrestricted until
+          turnover?
+       o If occupied, would the existing tenants need to be notified and provide their consent
+          to a deed restriction?
+       o On what basis would the existing units be selected for deed-restriction?
+       o What happens if existing tenants do not consent to the deed restriction, or do not
+          meet the eligibility requirements? Would the unit be restricted against the tenant’s
+          wishes, and the tenant be evicted?
+       o The City’s action to deed restrict existing units may constitute a displacement via
+          government action that may trigger extensive relocation costs, affordable housing
+          waitlist priority, and other complex systems for tenant protections.
+
+The use of existing units to meet affordability requirements without any rehabilitation also raises
+concerns about long-term maintenance of deed restricted units and equity between affordable
+(old) and market rate (new) units.
+
+In addition to statewide rent control under The Tenant Protection Act of 2019 (California Civil
+Code Section 1946.2) (“Tenant Protection Act”), many jurisdictions in California have long-
+established local rent control programs. Deed-restricting a unit as affordable would eliminate
+rent control provisions under the Tenant Protection Act as well as under most local ordinances.
+This process of converting rent-controlled housing to deed-restricted affordable housing would
+essentially switch the units from one housing affordability program to another. This would be
+highly controversial among housing advocates and create a number of concerns:
+
+    276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                    Housing & Homeless Services
+
+       o Rent control programs often have more robust tenant protections, such as just cause
+         provisions, than restrictive covenants.
+       o Rent control programs have a more established institutional framework for
+         petitioning the City to adjudicate tenant/landlord disputes.
+       o Tenants’ rights attorneys and organizations are generally more versed in rent control
+         than in affordability covenants and have an established framework for providing
+         review and counsel services to tenants.
+       o Units may often have lower rent through an applicable rent control program than via
+         the applicable limit under SDBL. This holds especially true for longtime tenants, which
+         are often senior citizens on fixed incomes and other residents vulnerable to
+         displacement.
+       o Rents under SDBL can potentially increase faster than through rent control. Some
+         jurisdictions limit rent increases to as low as 60% of the Consumer Price Index (“CPI”),
+         whereas rents under SDBL are tied to area median income. In rapidly gentrifying
+         regions, median incomes can increase much faster than CPI.
+       o Rent control offers greater security of tenure than SDBL restrictions. Tenants
+         occupying deed-restricted units may face eviction if their income increases beyond
+         the applicable maximum for the unit, whereas rent-controlled tenants have no
+         income requirements.
+       o SDBL imposes compliance requirements upon tenants that are not required under
+         rent control. Tenants who do not regularly disclose their income and assets risk
+         eviction, and tenants must also accommodate regular unit inspections by the City or
+         regulatory jurisdiction. Tenants may find these compliance requirements intrusive
+         and unwelcome.
+       o In the experience of City staff, tenants tend to have a greater degree of trust and
+         knowledge about rent control programs than SDBL agreements and may prefer to
+         remain under rent control for this reason.
+
+Tenant advocacy and legal aid organizations such as the Alliance of Californians for Community
+Empowerment (ACCE Action) and Housing and Economic Rights Advocates (HERA) have been
+vocal about their desire to prevent conversion of rent-controlled units to deed-restricted
+affordable units. In 2021, the City of Oakland proposed to carry out a transaction that would have
+converted rent-controlled units to deed-restricted low-income units; as this Oaklandside article
+reports, the proposed transaction ran into significant community opposition and was ultimately
+cancelled. Many of the concerns cited above were raised by tenant advocates while the
+transaction was being considered.
+
+The City of Chula Vista, along with many other jurisdictions, has in recent years adopted tenant
+protections for no-fault terminations of tenancy. Deed-restricting existing units could
+unintentionally accelerate no-fault terminations of tenancy, contrary to the intentions of these
+laws.
+
+
+    276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                     Housing & Homeless Services
+
+The City contacted El Cajon staff regarding how it was administering deed restrictions for existing
+units on its proposed project. El Cajon staff responded that they had not yet determined how to
+proceed, nor has the developer provided a path to mitigating impacts on existing tenants. Clearly,
+many open questions remain on how such a deed-restriction program would be administered.
+Without guidance from the State, it is likely that conversions of existing units would be enacted
+inconsistently across jurisdictions. Yet administrative regulations for conversion of existing units
+to deed-restricted affordable units are not contemplated by SDBL, and it is beyond the purview
+of HCD to adopt such regulations.
+
+HCD’s Purview
+The California legislature has not delegated rulemaking authority to HCD under the California
+Government Code. HCD nevertheless appears to be asserting rulemaking authority by defining
+terms and establishing a regulatory framework not contemplated in SDBL.
+
+During the May 30, 2024 meeting with HCD, Mr. Regehr affirmed that the department is weighing
+policy concerns and wishes to protect existing tenants as it prepares its letter of technical
+assistance. While well-intentioned, this evaluation of policy considerations further indicates that
+HCD may be overstepping its role as a neutral administrator of law as adopted by duly elected
+officials.
+
+SDBL is now amended almost annually by our State legislature. The legislature could at any point
+enact legislation to redefine a Housing Development to include existing units. If HCD believes that
+this would be good policy, the appropriate course of action would be to advocate for such an
+amendment. It is inappropriate for HCD to instead use its leverage as a State department to
+pressure Chula Vista into accepting a tenuous and controversial interpretation of SDBL.
+
+Conclusion
+HCD’s potential interpretation of SDBL is not consistent with the Project scope that was
+submitted to the City; has never been applied to any other density bonus project in California; is
+not authorized under SDBL; and raises numerous difficult questions about how it would be
+administered without displacing tenants. City staff, its in-house counsel, and outside counsel are
+concerned about the myriad unintended consequences that may result from a technical memo
+that promotes an untested and experimental interpretation of SDBL for not only our City, but for
+jurisdictions throughout California. If the HAU follows through in issuing guidance that we believe
+is inconsistent with the text of SDBL, the City will explore all legal remedies to ensure an equitable
+solution.
+
+We thank you for your consideration of the City’s feedback into this matter, and for your ongoing
+efforts to keep cities accountable to State law. We respectfully request to be included in any
+additional conversations prior to the issuance of a technical assistance letter on this Project.
+Should you have any questions in the meantime, please do not hesitate to contact me at
+mkachadoorian@chulavistaca.gov.
+
+    276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                      Housing & Homeless Services
+
+
+Sincerely,
+
+
+Maria Kachadoorian
+City Manager
+City of Chula Vista
+
+Enclosures:      Technical Assistance Letter to El Cajon
+                 Technical Assistance Letter to Foster City
+                 Housing Permits Issued Per Capita, 2021-2023 (San Diego Region)
+
+cc:              Tiffany Allen, Assistant City Manager
+                 Courtney Chase, Deputy City Manager
+                 Stacey Kurz, Director of Housing and Homeless Services
+                 Brian Warwick, Housing Manager
+                 Chris Stanley, Senior Planner
+                 Laura C. Black, Director of Development Services
+                 Megan McClurg, Assistant City Attorney
+                 Bentley Regehr, Senior Housing Policy Analyst, HCD
+
+
+
+
+      276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing
+                Housing & Homeless Services
+
+                                    Attachment A
+     Housing Permits Issued Per 100,000 Residents, 2018-2022 (San Diego region)
+
+
+
+
+276 FOURTH AVENUE • CHULA VISTA • CALIFORNIA 91910 • (619) 691-5047 • chulavistaca.gov/housing

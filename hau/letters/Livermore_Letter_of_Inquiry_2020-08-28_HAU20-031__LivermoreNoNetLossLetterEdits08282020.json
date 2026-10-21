@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010727",
+  "case_number": "HAU20-031",
+  "letter_date": "2020-08-28",
+  "jurisdiction": "Livermore",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/LivermoreNoNetLossLetterEdits08282020.pdf",
+  "hcd_letter": "Livermore Letter of Inquiry 08/28/2020",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/LivermoreNoNetLossLetterEdits08282020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 145034,
+  "text_chars": 6250,
+  "text_empty": false
+}

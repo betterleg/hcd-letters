@@ -1,0 +1,277 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 29, 2023
+
+
+         Robert Zadnik, City Manager
+         City of Belvedere
+         450 San Rafael Avenue
+         Belvedere, CA 94920
+
+         Dear Robert Zadnik:
+
+         RE: Mallard Pointe Project – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) is aware that
+         the City of Belvedere (City) is reviewing an application for a 40-unit housing development
+         project located at 1-22 Mallard Road (Project). The application was submitted by
+         Thomas Dorfman Partners (Applicant). The purpose of this letter is to 1. Request that the
+         City schedule a public hearing for review of the Project, and 2. Provide technical
+         assistance regarding implementation of State Density Bonus Law (SDBL) (Gov. Code, §
+         65915), Permit Streamlining Act (PSA) (Chapter 4.5, Gov. Code, §§ 65920-65964.5), the
+         Housing Accountability Act (HAA) (Gov. Code, § 65589.5), and State Housing Element
+         Law (Gov. Code, § 65580-65589.11).
+
+         Background
+
+         HCD understands that the Project proposes to replace 22 existing units consisting of 9
+         duplexes and 1 fourplex with 40 new units including 6 single-family homes, 10 duplexes,
+         1 accessory dwelling unit (ADU), and 23 multi-family residential units in an apartment
+         building. The proposed apartment building includes one very low-income unit and three
+         low-income units. The application includes requests for development standard waivers
+         and incentives/concessions pursuant to SDBL. Additionally, the Project site has a
+         General Plan land use designation of Medium Density Multi-Family Residential (MFR)
+         and a zoning designation of R-2, Duplex Residential Zone.
+
+         On June 18, 2021, the Applicant submitted a preliminary application pursuant to
+         Government Code section 65941.1. The Applicant resubmitted the preliminary application
+         with additional information requested by the City and vested on August 6, 2021. On
+         January 26, 2022, within the 180-day timeframe outlined in statute (Gov. Code, §
+         65941.1, subd. (d)), the Applicant submitted a full application. The City determined the full
+         application to be incomplete, and the Applicant submitted a revised application that was
+         deemed complete by the City on June 23, 2022. As required by the HAA, the City issued
+         a written notification of inconsistency for the Project within 30 days of the application
+         being deemed complete (Gov. Code, § 65589.5, subd. (j)(2)).
+Robert Zadnik, City Manager
+Page 2
+
+
+
+
+To date, HCD has had two calls with the City to discuss the Project on February 2, 2023,
+and June 23, 2023. Conversations with the City have not resulted in a credible
+explanation of the delay in scheduling a public hearing given the Project application was
+deemed complete over a year ago. It appears that there are still several items cited in the
+inconsistency letter that remain unresolved. HCD also received the City’s Draft 6th Cycle
+Housing Element on January 31, 2023 and HCD issued a letter on May 1, 2023
+identifying revisions that will be necessary to comply with State Housing Element Law. 1
+The Project site (Site 04B) has been identified in the Draft 6th Cycle Housing Element as
+part of the City’s site inventory as a potential project to meet the City’s Regional Housing
+Needs Allocation (RHNA). 2
+
+HCD provides the following technical assistance based on its understanding of the
+project components that require resolution in order for a public hearing to be scheduled
+including:
+
+       •   Permissibility of multi-family residential uses, including apartments, in the R-2
+           zone.
+       •   Concession request to allow an additional multi-family residential use in the
+           R-2 Zone.
+               a. Excessive Justification
+       •   Permit Streamlining Act deadlines including CEQA determinations.
+               a. CEQA Memo
+       •   Identification of the Project site in the City’s Draft 6th Cycle Housing Element
+           Sites Inventory.
+
+Permissibility of Apartments in the City’s R-2 Zone
+
+The City’s written inconsistency findings noted the Project’s inconsistency with the
+zoning code – specifically that apartment homes are a prohibited use in the R-2 zone
+pursuant to BMC 19.28.030. HCD has reviewed the City’s General Plan, including the
+Land Use Element and Housing Element, as well at the Zoning Code (Title 19 of
+Belvedere’s Municipal Code) and has determined there appears to be an inconsistency
+in land use in relation to this project. The Project vested on August 6, 2021. Therefore,
+per Government Code section 65589.5, subdivision (o)(1), the Project is subject to the
+ordinances, policies, and standards adopted and in effect when the preliminary
+application was submitted, which includes the 5th Cycle Housing Element. It appears the
+5th Cycle Housing Element and Zoning Code are inconsistent because the 5th Cycle
+
+1 Please see California Housing and Community Development Department, “City of
+
+Belvedere’s 6th Cycle (2023-2031)” letter dated May 1, 2023 for HCD’s full review of the
+City’s Draft Housing Element.
+2 City of Belvedere, 6th Cycle Housing Element Update (2023-2031), Public Draft,
+
+October 17, 2022, pg. D-15.
+Robert Zadnik, City Manager
+Page 3
+
+
+
+Housing Element permits multi-family uses, including apartments, in the R-2 zone while
+the Zoning Code prohibits the use of apartments in this zone.
+
+Although the Land Use Element of the General Plan does not define multi-family or the
+uses permitted under the MFR land use designation, the proposed Project’s apartment
+building is consistent with the definition of multi-family in the 5th Cycle Housing Element.
+The City’s 5th Cycle Housing Element defines the R-2 zone as a “Two-Family (Duplex)
+Residential Zoning District” and the R-3 and R-3C zones as “Multi-Family Residential
+Zoning Districts.”3 The 5th Cycle Housing Element also includes a section on multi-
+family rental housing which states, “Multi-family housing includes duplexes, apartments,
+condominiums, or townhomes. As of 2014, multi-family housing units constituted
+approximately 16 percent of Belvedere’s housing stock. The Zoning Ordinance provides
+for multi-family developments by-right in the R-2 and R-3 Zoning Districts, and
+conditionally in the C-1 Zoning District as part of a mixed use building.” 4 Table 36 in the
+5th Cycle Housing Element also outlines housing types by residential zoning districts.
+The table lists multi-family and duplexes as separate housing types that are both
+permitted in the R-2 zone. 5 This language indicates that both duplexes and apartments
+are included in the definition of multi-family housing and permitted in the R-2 zone.
+However, the Project site’s R-2 zoning designation prohibits the use of apartments
+which is inconsistent with the permitted uses in the 5th Cycle Housing Element. 6
+
+Please be aware the HAA provides that if the zoning standards and criteria are
+inconsistent with applicable, objective general plan standards, but the development
+project is consistent with the applicable objective general plan standards for the site,
+then the housing development project cannot be found inconsistent with the standards
+and criteria of the zoning. (Gov. Code, § 65589.5, subd. (j)(4)).
+
+State Density Bonus Law (SDBL) Concession Request
+
+Due to the inconsistency between the zoning code and general plan (see analysis,
+above), a concession is not necessary to allow for the use of apartments on the Project
+site. Therefore, the Applicant should not request a concession for this purpose nor
+should the City anticipate such a request.
+
+
+3 City of Belvedere, Housing Element Update 2015-2023, pg. 46.
+4 City of Belvedere, Housing Element Update 2015-2023, pg. 61.
+5 “Table 36: Housing Types by Residential Zoning Districts,” City of Belvedere, Housing
+
+Element Update 2015-2023, pg. 59.
+6 Note that the Draft 6th Cycle Housing Element only lists duplexes as a permitted use
+
+in the R-2 zone. However, the Project vested as of July 18, 2021 pursuant to
+Government code section 65941.1 and so the 5th Cycle Housing Element is used for
+the purposes of determining any land use inconsistencies.
+Robert Zadnik, City Manager
+Page 4
+
+
+
+Permit Streamlining Act Deadlines
+
+CEQA Determinations
+Under Public Resources Code 21080.1 and 21080.2, “a lead agency shall be
+responsible for determining whether an environmental impact report, a negative
+declaration, or a mitigated negative declaration shall be required for any project which is
+subject to this division” and must make this determination within 30 days of a project
+application being deemed complete. These provisions are critical to meeting the Permit
+Streamlining Act requirement set in Government Code section 65950, subdivision (a)
+which require that a “a public agency that is the lead agency for a development project
+shall approve or disapprove the project” within the timelines listed for the applicable
+CEQA determination.
+CEQA Investigation Memo
+HCD understands that the City has not determined the appropriate CEQA treatment for
+the Project at this time. The Applicant has indicated that based on their assessment, the
+Project should qualify for a Class 32 “Infill” Categorical Exemption under CEQA
+Guideline Section 15332. It appears the City has requested additional environmental
+technical studies throughout the City’s review of the Project. HCD also understands that
+the City has contracted with an outside consultant, Ascent, to conduct a peer review of
+the technical studies and prepare a “CEQA Investigation Memo” (CEQA memo) to
+assist the City with determining whether the Project qualifies for a CEQA exemption or if
+different CEQA treatment is needed. It is HCD’s understanding that once the CEQA
+memo is completed, the City will schedule a public hearing with the Planning
+Commission to assess the appropriate CEQA treatment for the Project.
+While HCD understands the City is still exploring the appropriate CEQA treatment for
+the Project, please note that these provisions are intended to generally facilitate the
+timely processing of housing development applications. HCD is concerned that the
+extensive peer review of the technical studies and delay in the completion of the CEQA
+memo may be creating a constraint to the processing of the Project application, making
+it increasingly difficult to achieve the development of the site as identified in the City’s
+Draft 6th Cycle Housing Element.
+Separately, please note that HCD issued its review of the City’s Draft 6th Cycle Housing
+Element in a letter dated May 1, 2023. The letter discusses the need for more detail on
+the City’s permitting and processing procedures “including timing, typical approval
+findings, and typical number of hearings.” 7
+6th Cycle Housing Element Sites Inventory Feasibility
+
+
+7 California Housing and Community Development Department, “City of Belvedere’s 6th
+
+Cycle (2023-2031)” letter dated May 1, 2023, pg. 8.
+Robert Zadnik, City Manager
+Page 5
+
+
+
+
+HCD received the City’s Draft 6th Cycle Housing Element on January 31, 2023 and
+issued a letter on May 1, 2023 identifying revisions that will be necessary to comply with
+State Housing Element Law. The City’s Draft Housing Element dated October 17, 2022,
+shows the Project site listed under section “D.3 Sites Inventory” which identifies sites
+that are available and suitable for residential development from 2023-2031 in order to
+accommodate Belvedere’s RHNA. The entry in the Draft 6th Cycle Housing Element’s
+Site Inventory identifies the Project site as “Site 4B” and describes it as being able to
+accommodate the General Plan density of 5-20 dwelling units per acre, which would
+allow for 52 units on the site. It also notes 40 units total as the minimum number of
+housing units on site and references the Project application as under review. 8 At 40
+units, the proposed Project’s density is less than the maximum allowable residential
+density of the site. The presence of this Project in the City’s 6th Cycle Draft Housing
+Element, and its consistency with the applicable General Plan Land Use Designation
+density ranges, suggests that the City is prepared to permit the Project at the density
+proposed.
+
+HCD’s Draft 6th Cycle Housing Element Review letter states that the City’s HAA
+consistency review determined that the Project is inconsistent with the zoning code
+because the R-2 zone prohibits apartments. However, HCD’s comments note “Not only
+is this inconsistent with the General Plan, but also is inconsistent with the density and
+capacity estimates cited on page D-14. The element should clarify what types of
+housing is allowed in the R-2 zone and include a program to correct any inconsistency
+with the land use and housing element of the General Plan.” Additionally, the letter
+notes that in relation to the City’s progress in meeting the RHNA “The element should
+also discuss the progress of the application currently [under] review on Site 04B on
+Mallard Road (P. D-14).” 9
+
+Conclusion
+
+HCD requests a response from the City regarding the points addressed in this letter
+within 30 days of the date of this letter. As the City is aware, the State of California
+remains in a housing crisis and the provision of much-needed housing, especially
+affordable housing, continues to be a priority of the highest order. The approval of this
+project would help meet this challenge and meaningfully advance the City in its goal to
+achieve its 6th cycle RHNA targets. HCD strongly urges the City to schedule a public
+hearing for review of the Project.
+
+
+
+
+8 City of Belvedere, 6th Cycle Housing Element Update (2023-2031), Public Draft,
+
+October 17, 2022, pgs. D-15; D-33.
+9 California Housing and Community Development Department, “City of Belvedere’s 6th
+
+Cycle (2023-2031)” letter dated May 1, 2023, pg. 3; 8.
+Robert Zadnik, City Manager
+Page 6
+
+
+
+HCD reminds the City that HCD has enforcement authority over the HAA, SDBL, State
+Housing Element Law, among other state housing laws. Accordingly, HCD may review
+local government actions and inactions to determine consistency with these laws. If
+HCD finds that a local government’s actions do not comply with state law, HCD may
+notify the California Office of the Attorney General that the local government is in
+violation of state law. (Gov. Code, § 65585, subd. (j).) HCD recognizes the challenge of
+interpreting ever-changing housing and land use laws and appreciates the opportunity
+to provide technical assistance. If you have questions or need information, please
+contact Deepeaka Dhaliwal of our staff at Deepeaka.Dhaliwal@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief
+
+cc: Rebecca Markwick, Director of Planning & Building, City of Belvedere
+    Tricia Stevens, Contract Planner

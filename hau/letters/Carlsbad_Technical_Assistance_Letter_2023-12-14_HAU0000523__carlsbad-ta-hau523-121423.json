@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0013026",
+  "case_number": "HAU0000523",
+  "letter_date": "2023-12-14",
+  "jurisdiction": "Carlsbad",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(c)(3)",
+  "n_statutes": "1",
+  "keywords": "demolished | replacement unit | replacement units",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/carlsbad-ta-hau523-121423.pdf",
+  "hcd_letter": "Carlsbad Technical Assistance Letter 12/14/2023",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/carlsbad-ta-hau523-121423.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 188372,
+  "text_chars": 6528,
+  "text_empty": false
+}

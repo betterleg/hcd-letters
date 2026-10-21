@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022116",
+  "case_number": "HAU0002344",
+  "letter_date": "2025-10-01",
+  "jurisdiction": "Newport Beach",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Element Law",
+  "statutes": "65583.2(h) | 65583.2(h)(1) | 65915(e)(1) | 65915(f)(5)",
+  "n_statutes": "4",
+  "keywords": "Discretionary Review | design review | discretion | public hearing | use by right | waiver",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/newport-beach-hau-2344-ta-100125.pdf",
+  "hcd_letter": "Newport Beach Technical Assistance Letter 10/01/2025",
+  "housing_law": "Density Bonus Law, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/newport-beach-hau-2344-ta-100125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 203139,
+  "text_chars": 8715,
+  "text_empty": false
+}

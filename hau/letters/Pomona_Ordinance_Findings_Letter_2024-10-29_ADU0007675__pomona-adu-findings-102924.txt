@@ -1,0 +1,258 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 29, 2024
+
+
+
+         Anita Gutierrez, Development Services Director
+         Planning Department
+         City of Pomona
+         505 S. Garey Ave.
+         Pomona, CA 91769
+
+         Dear Anita Gutierrez:
+
+         RE: Review of Pomona’s Accessory Dwelling Unit (ADU) Ordinance under State
+            ADU Law (Gov. Code, § 66310 - 66342)
+
+         Please Note: As of March 25, 2024, with the Chaptering of Senate Bill (SB) 477
+         (Chapter 7, Statutes of 2024), the sections of Government Code relevant to State
+         Accessory Dwelling Unit (ADU) and Junior Accessory Dwelling Unit (JADU) Law have
+         been re-numbered (Enclosure 1).
+
+         Thank you for submitting the City of Pomona (City) ADU Ordinance No. 4324
+         (Ordinance), adopted December 19, 2022, to the California Department of Housing and
+         Community Development (HCD). HCD has reviewed the Ordinance and submits these
+         written findings pursuant to Government Code section 66326, subdivision (a). HCD
+         finds that the Ordinance does not comply with State ADU and JADU Laws in the
+         manner noted below. Under section 66326, subdivision (b)(1), the City has up to 30
+         days to respond to these findings. Accordingly, the City must provide a written response
+         to these findings no later than November 27, 2024.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance fails to comply with State ADU Law as follows:
+
+              1. Urgency Ordinance – The Ordinance was adopted as an Urgency Ordinance.
+                 Please note that Attorney General Rob Bonta issued a memo on the use of
+                 Urgency Ordinances as they pertain to housing development issues such as
+                 ADUs, admonishing local governments that urgency ordinances are strictly
+                 limited to emergency or exigent circumstances. This memo has been included
+                 as an attachment and HCD encourages the City to review it to maintain
+                 consistency with state law.
+Anita Gutierrez, Development Services Director
+Page 2
+
+
+
+   2. Statutory Numbering - The Ordinance contains several references to code
+      sections that were deleted by SB 477, effective March 25, 2024. These include
+      Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+      these sections were relocated to Government Code, Title 7, Division 1, Chapter
+      13 (sections 66310-66342, see Enclosure). The City must amend the
+      Ordinance to refer to the correct code sections.
+
+   3. Section .5809-26 C.12 – “Primary Dwelling” Definition – The Ordinance defines
+      “Primary Dwelling” as “any legally established, single-unit dwelling, existing or
+      proposed, located on the same lot as an ADU or JADU.” This definition
+      therefore excludes multifamily primary dwellings.
+
+      Government Code section 66313, subdivision (a) defines “Accessory Dwelling
+      Unit” as “an attached or a detached residential dwelling unit that provides
+      complete independent living facilities for one or more persons and is located on
+      a lot with a proposed or existing primary residence. It shall include permanent
+      provisions for living, sleeping, eating, cooking, and sanitation on the same
+      parcel as the single-family or multifamily dwelling is or will be situated.”
+      Subdivision (a)(1) begins all of State ADU Law with a reference to “provide for
+      the creation of accessory dwelling units in areas zoned to allow single-family or
+      multifamily dwelling residential use…” Later, section 66314, subdivision
+      (d)(2) allows such ADUs anywhere “The lot is zoned to allow single-family or
+      multifamily dwelling residential use and includes a proposed or existing
+      dwelling.” The Ordinance must be amended to include multi-family dwellings.
+
+      Immediately subsequent to that statement is subdivision (d)(3) which broadly
+      describes where and how a unit may be sited on the lot: “The accessory
+      dwelling unit is either attached to, or located within, the proposed or existing
+      primary dwelling, including attached garages, storage areas or similar uses, or
+      an accessory structure or detached from the proposed or existing primary
+      dwelling and located on the same lot as the proposed or existing primary
+      dwelling, including detached garages.” There is no condition in this section
+      regarding the “primary dwelling” format that would limit it to either a single-
+      family or multifamily dwelling.
+
+      To understand the meaning of 'primary' in primary dwelling, we can refer to the
+      constituent parts of the phrase. “Dwelling” has the same meaning as California
+      Residential Code Definition: "Any building that contains one or two dwelling
+      units used, intended, or designed to be built, used, rented, leased, let or hired
+      out to be occupied, or that are occupied for living purposes." “Primary” has the
+      plain meaning, according to Webster's dictionary, as "principal', meaning first,
+      or 'original', or 'earlier in time'. “Primary dwelling”, then, is the “principal ‘building
+      that is used for living purposes’”.
+Anita Gutierrez, Development Services Director
+Page 3
+
+
+      All ADUs must be accessory to another residence, and as ADUs are permitted
+      with both single-family and multi-family dwellings the term “primary dwelling”
+      refers to both these categories simultaneously. This is in contrast to other parts
+      of State ADU Law, such as section 66323, subdivisions (a)(1) and (a)(2) which
+      specifically refer to “single-family dwelling” and subdivisions (a)(3) and (a)(4)
+      which specifically refer to “multifamily dwellings”.
+
+      The City’s definition is inconsistent with State ADU Law and creates several
+      internal inconsistencies and gaps within Ordinance 4324. For example,
+      subdivision (C)(5) defines an Accessory Structure as being “accessory to and
+      incidental to that of the Primary Dwelling Unit”, thereby excluding from this
+      definition any structure that is “accessory to and incidental” to a multifamily unit.
+      As another example, subdivision (F)(14)(a) governs Certificates of Occupancy
+      only for ADUs created with “Primary Dwelling Units”.
+
+      Therefore, the City must amend the definition of “Primary Dwelling Unit” to
+      include both single-family dwellings and multifamily dwellings and must review
+      every reference to “Primary Dwelling Units” within the Ordinance to reflect State
+      ADU Law.
+
+   4. Section .5809-26 D.1.b – Unit Allowance – The Ordinance permits, “One
+      detached, new construction ADU on a lot with a proposed or existing Primary
+      Dwelling Unit (in addition to any JADU that might otherwise be established on
+      the lot under subsection (D)(l)(a) "Interior ADU on Single-unit Lot” above)…”
+      This implies that single-family lots may only have a maximum of one ADU and
+      one JADU.
+
+      Government Code section 66323, subdivision (a), states, “Notwithstanding
+      Sections 66314 to 66322, inclusive, a local agency shall ministerially approve
+      an application for a building permit within a residential or mixed-use zone to
+      create any of the following: (1) One accessory dwelling unit and one junior
+      accessory dwelling unit per lot with a proposed or existing single-family
+      dwelling…(A) The accessory dwelling unit or junior accessory dwelling unit is
+      within the proposed space of a single family dwelling or existing space of a
+      single-family dwelling or accessory structure.” Paragraph (2) permits “[o]ne
+      detached, new construction, accessory dwelling unit that does not exceed four-
+      foot side and rear yard setbacks.” The use of the term “any” followed by an
+      enumeration of by-right ADU types permitted means that any of these ADU
+      types can be combined on a lot zoned for single family dwellings.
+
+      This permits a homeowner, who meets specified requirements, to create one
+      converted ADU; one detached, new construction ADU; and one JADU. Thus, if
+      the local agency approves an ADU that is created from existing (or proposed)
+      space, and the owner subsequently applies for a detached ADU (or vice versa)
+      that meets the size and setbacks pursuant to the subdivision, the local agency
+      Anita Gutierrez, Development Services Director
+      Page 4
+
+
+             cannot deny the application, nor deny a permit for a JADU under this section.
+             Therefore, the City must amend the Ordinance to provide for all ADU
+             combinations described in Government Code section 66323.
+
+          5. Section .5809-26 E.4 – JADU Rental Terms – The Ordinance states, “No ADU
+             or JADU may be rented for a term that is shorter than 30 days.” Government
+             Code section 66333 does not require rental term minimums for JADUs and
+             therefore such a requirement would be in violation of State JADU Law. The City
+             must amend the Ordinance accordingly.
+
+          6. Section .5809-26 E.7 – Owner Occupancy – The Ordinance states, “Unless
+             applicable law requires otherwise, all ADUs that are created on or after
+             January 1, 2025 are subject to an Owner-occupancy requirement.” However,
+             Government Code section 66315 states "Section 66314 establishes the
+             maximum standards that a local agency shall use to evaluate a proposed
+             accessory dwelling unit on a lot that includes a proposed or existing single-
+             family dwelling. No additional standards, other than those provided in Section
+             66314, shall be used or imposed, including an owner-occupant
+             requirement…" Therefore, the City must remove this section from the
+             Ordinance.
+
+          7. Section .5809-26 E.8 – Deed Restriction – The Ordinance states, “Prior to the
+             issuance of a certificate of occupancy for an ADU or JADU, a deed restriction
+             must be recorded against the title of the property in the County Recorder’s
+             office….” However, Government Code section 66315 states "Section 66314
+             establishes the maximum standards that a local agency shall use to evaluate a
+             proposed accessory dwelling unit on a lot that includes a proposed or existing
+             single-family dwelling. No additional standards, other than those provided in
+             Section 66314, shall be used or imposed, including an owner-occupant
+             requirement…" Therefore, the City must amend the Ordinance to comply with
+             State ADU Law.
+
+      Please note that the City has two options in response to this letter. 1 The City can either
+      amend the Ordinance to comply with State ADU Law 2 or adopt the Ordinance without
+      changes and include findings in its resolution adopting the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings. 3 If the City fails to take either course of action and bring the Ordinance
+      into compliance with State ADU Law, HCD must notify the City and may notify the
+      California Office of the Attorney General that the City is in violation of State ADU Law. 4
+
+
+1 Gov. Code, § 66326, subd. (c)(1).
+2 Gov. Code, § 66326, subd. (b)(2)(A).
+3 Gov. Code, § 66326, subd. (b)(2)(B).
+4 Gov. Code, § 66326, subd. (c)(1).
+Anita Gutierrez, Development Services Director
+Page 5
+
+
+
+HCD appreciates the City efforts provided in the preparation and adoption of the
+Ordinance and welcomes the opportunity to assisting the City in fully complying with
+State ADU Law. Please feel free to contact Mike Van Gorder at
+Mikevangorder@hcd.ca.gov if you have any questions.
+
+Sincerely,
+
+
+
+
+Jamie Candelaria
+Senior Housing Accountability Unit Manager
+Housing Policy Development Division
+                  State ADU/JADU Law Statutory Conversion Table
+
+
+
+New Government Code Sections            Previous Government Code Sections
+                        Article 1. General Provisions
+66310                                   65852.150 (a)
+66311                                   65852.150 (b)
+66312                                   65852.150 (c)
+66313                                   General Definition Section
+                                        65852.2 (j)
+                                        65852.22 (j)
+               Article 2. Accessory Dwelling Unit Approvals
+66314                                   65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5)
+66315                                   65852.2 (a)(8)
+66316                                   65852.2 (a)(6)
+66317                                   65852.2 (a)(3), (a)(7)
+66318                                   65852.2 (a)(9), 65852.2 (a)(2)
+66319                                   65852.2 (a)(10)
+66320                                   65852.2 (b)
+66321                                   65852.2 (c)
+66322                                   65852.2 (d)
+66323                                   65852.2 (e)
+66324                                   65852.2 (f)
+66325                                   65852.2 (g)
+66326                                   65852.2 (h)
+66327                                   65852.2 (i)
+66328                                   65852.2 (k)
+66329                                   65852.2 (l)
+66330                                   65852.2 (m)
+66331                                   65852.2 (n)
+66332                                   65852.23.
+                Article 3. Junior Accessory Dwelling Units
+66333                                   65852.22 (a)
+66334                                   65852.22 (b)
+66335                                   65852.22 (c)
+66336                                   65852.22 (d)
+66337                                   65852.22 (e)
+66338                                   65852.22 (f)-(g)
+66339                                   65852.22 (h)
+                 Article 4. Accessory Dwelling Unit Sales
+66340                                   65852.26 (b)
+66341                                   65852.26 (a)
+66342                                   65852.2 (a)(10)

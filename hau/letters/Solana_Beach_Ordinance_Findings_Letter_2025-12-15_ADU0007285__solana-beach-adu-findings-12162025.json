@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024086",
+  "case_number": "ADU0007285",
+  "letter_date": "2025-12-15",
+  "jurisdiction": "Solana Beach",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Development Standards | Existing Multifamily | Front Setbacks | Sprinklers | Unit Allowance | Visibility | parking",
+  "n_keywords": "7",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/solana-beach-adu-findings-12162025.pdf",
+  "hcd_letter": "Solana Beach Ordinance Findings Letter 12/15/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/solana-beach-adu-findings-12162025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 229254,
+  "text_chars": 11144,
+  "text_empty": false
+}

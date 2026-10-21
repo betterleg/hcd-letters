@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0019540",
+  "case_number": "HAU0001671",
+  "letter_date": "2025-02-21",
+  "jurisdiction": "Thousand Oaks",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/prsv/childrens-aid-guild-house-pnl-loi-022125.pdf",
+  "hcd_letter": "Thousand Oaks Letter of Inquiry 02/21/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/prsv/childrens-aid-guild-house-pnl-loi-022125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 190397,
+  "text_chars": 6144,
+  "text_empty": false
+}

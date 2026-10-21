@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010670",
+  "case_number": "HAU20-073",
+  "letter_date": "2020-12-22",
+  "jurisdiction": "Monterey County",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/monMontereyCounty-TA-122220.pdf",
+  "hcd_letter": "Monterey County Technical Assistance Letter 12/22/2020",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/monMontereyCounty-TA-122220.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225792,
+  "text_chars": 7453,
+  "text_empty": false
+}

@@ -1,0 +1,176 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400, Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+        April 1, 2025
+
+
+        Jeff Murphy, Community Development Director
+        City of Carlsbad
+        1635 Faraday Ave.
+        Carlsbad, CA 92008
+
+        Dear Jeff Murphy:
+
+        RE: City of Carlsbad, Housing Element Sites Zoned to Permit Residential
+            Use By-Right and the State Density Bonus Law – Letter of Technical
+            Assistance
+
+        The purpose of this letter is for the Department of Housing and Community
+        Development (HCD) to provide technical assistance to the City of Carlsbad (City)
+        regarding implementation of by-right processing on sites rezoned to accommodate
+        lower-income units under Housing Element Law 1 when the State Density Bonus Law
+        (SDBL) 2 is applied. This letter seeks 1) to explain how projects that utilize this by-right
+        permitting process can also utilize the SDBL and 2) to clarify the definition of “lower
+        income households” as used in Government Code section 65583.2.
+
+        Background
+
+        Housing Element Law requires local governments to rezone certain sites used to meet
+        the lower-income regional housing needs allocation (RHNA) to allow residential
+        development by-right where at least 20 percent of the project is affordable to lower-
+        income households. HCD understands that the City’s certified housing element includes
+        a rezone program needed to identify adequate sites to accommodate the City’s RHNA
+        for lower-income households and that the rezoned cites must allow multifamily housing
+        as a use by-right at specified densities and affordability levels per Government Code
+        section 65583.2. HCD also understands that the City rezoned several sites to meet this
+        requirement, as explained by City staff during a February 4, 2025 meeting with HCD.
+        Approached by interested applicants, the City is now seeking assistance on how to
+        implement this provision of Housing Element Law.
+
+
+
+
+1 Gov. Code, § 65583.2, subd. (h).
+2 Gov. Code, § 65915.
+Jeff Murphy, Community Development Director
+Page 2
+
+
+
+
+Analysis
+
+The questions submitted by the City are as follows:
+
+   1. Is the 20-percent affordability requirement specified in Government Code
+      section 65583.2, subdivision (h), applied to the overall number of units
+      proposed in the housing development, including any bonus units granted
+      via the SDBL?
+
+The answer is “yes.” The 20-percent calculation is based upon the overall number of
+units in the development including bonus units provided via a density bonus.
+Government Code section 65583.2, subdivision (h)(1), states that rezoned sites “shall
+be zoned to permit owner-occupied and rental multifamily residential use by right for
+developments in which at least 20 percent of the units are affordable to lower income
+households.” In determining eligibility for by-right processing, the provision simply uses
+the phrase “20 percent of the units.”
+
+Meanwhile, the SDBL calculates eligibility for density bonuses and concessions and
+incentives with the phrase “total units,” which excludes density bonus units and is
+defined only for the purpose of the SDBL. 3 Notably, the phrase “the units” in Housing
+Element Law does not specify that “the units” used to calculate eligibility excludes units
+granted through a density bonus, while other streamlining laws do. 4 Finally, HCD has
+previously clarified that the 20-percent calculation for by-right processing on rezoned
+sites includes units provided by a density bonus. 5
+
+   2. Is a housing development project still eligible for ministerial processing as
+      a “use by right” under Government Code section 65583.2, subdivision (h),
+      if the project utilizes Government Code section 65915 resulting in a project
+      density that is greater than the maximum density allowed under the city’s
+      rezoning designation, and analyzed in the associated environmental
+      document?
+
+
+
+3 Gov. Code, § 65915, subd. (o)(9)(A).
+4 The Streamlined Ministerial Approval Process statute uses the phrase “percent of the
+
+total number of units, before calculating any density bonus,” when calculating eligibility
+(Gov. Code, § 65913.4, subd. (a)(4)(B)); The Affordable Housing and High Roads Jobs
+Act calculates eligibility excluding density bonus units by defining the “base units” as the
+“total units” as used in SDBL (Gov. Code, § 65912.101, subd. (a)).
+5 See HCD’s 2020 Housing Element Site Inventory Guidebook, pg. 38: “This 20 percent
+
+calculation is based upon the total number of units in the development including
+additional units provided by a density bonus.” The Guidebook can be accessed on
+HCD’s website: https://www.hcd.ca.gov/community-development/housing-
+element/docs/sites_inventory_memo_final06102020.pdf.
+Jeff Murphy, Community Development Director
+Page 3
+
+
+
+The answer is “yes.” A housing development project is still eligible for by-right
+processing pursuant to Government Code section 65583.2, subdivision (h), if the project
+utilizes SDBL, resulting in an overall project unit count that exceeds densities
+contemplated by applicable planning documents (including the zoning code and land
+use element of the general plan) and associated environmental documents.
+
+Government Code section 65583.2, subdivision (h)(1), states that rezoned sites “shall
+be zoned to permit owner-occupied and rental multifamily residential use by right for
+developments in which at least 20 percent of the units are affordable to lower income
+households during the planning period.” “Use by right” means that “the local
+government’s review of the owner-occupied or multifamily residential use may not
+require… discretionary local government review or approval that would constitute a
+‘project’ for purposes of Division 13 (commencing with Section 21000) of the Public
+Resources Code” (California Environmental Quality Act “CEQA”). 6
+
+Once the site is rezoned pursuant to Government Code section 65583.2, subdivision
+(h), an applicant may submit a project that both meets the 20 percent requirement for
+by-right processing and utilizes the SDBL. The SDBL states that the granting of a
+density bonus 7 or concession or incentive shall not be interpreted, in and of itself, to
+require discretionary approval. 8 Therefore, where an application for a housing
+development project that receives a by-right approval process that involves no
+discretionary review, the granting of a density bonus or concession or incentive
+pursuant to SDBL cannot trigger discretionary review and cause the application to
+constitute a “project” under CEQA.
+
+   3. Is the term “lower income households” as used in Government Code
+      section 65583.2, subdivision (h), restricted to the low-, very low-, or
+      extremely low-income categories?
+
+The term “lower income households” includes all income levels that do not exceed the
+limits set for lower-income households; this includes low-, very low-, and extremely low-
+income categories. For the purposes of Government Code section 65583.2, subdivision
+(f), "[l]ower incomes” is defined by Section 50079.5 of the Health and Safety Code,
+which in turn states that “lower income households” means “persons and families whose
+income does not exceed the qualifying limits for lower income families” as published by
+HCD in the California Code of Regulations. (emphasis added). This limit is set at 80
+percent of the area median income, adjusted for family size and other adjustment
+factors. 9
+
+
+
+
+6 Gov. Code, § 65583.2, subd. (h)(2)(i).
+7 Gov. Code, § 65915, subd. (f)(5).
+8 Gov. Code, § 65915, subd. (j).
+9 25 C.C.R. §§ 6928, 6932.
+Jeff Murphy, Community Development Director
+Page 4
+
+
+
+
+Conclusion
+
+HCD reminds the City of its obligations to uphold Housing Element Law as well as the
+State Density Bonus Law. HCD remains committed to supporting the City in facilitating
+housing at all income levels and hopes the City finds this clarification helpful. If you
+have questions or need additional information, please contact Brandon Yung at
+brandon.yung@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

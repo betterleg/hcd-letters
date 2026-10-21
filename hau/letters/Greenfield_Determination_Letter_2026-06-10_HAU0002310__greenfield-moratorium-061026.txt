@@ -1,0 +1,312 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 10, 2026
+
+
+         Jamie Tugal
+         Public Works Director
+         City of Greenfield
+         Via: jtugel@ci.greenfield.ca.us
+         599 El Camino Real
+         P.O. Box 127
+         Greenfield, CA 93927
+
+         Dear Jamie Tugal:
+
+         RE: City of Greenfield Approval Proposed Building Moratorium
+
+         The purpose of this letter is to provide a determination to the City of Greenfield (City)
+         regarding its request for the California Department of Housing and Community
+         Development (HCD) to approve the adoption of Ordinance No. 575, a moratorium
+         (Moratorium) on the issuance of entitlements for projects that require a new wastewater
+         connection or increased wastewater flow to the City’s wastewater treatment plant. Under
+         the Housing Crisis Act, the City is required to submit the Moratorium to HCD for approval. 1
+         HCD hereby notifies the City that it is approving the proposed building moratorium due to
+         an imminent threat to health and safety. The approval will run through June 30, 2030,
+         which doubles as the deadline provided by Central Coast Regional Water Quality Control
+         Board (“Water Board”) to have a new operational facility. Approval is conditioned on the
+         City taking the following actions: (1) provide annual status reports by the end of each year,
+         (2) create and maintain a list of priority projects within 30 days of receipt of this letter, (3)
+         update its Housing Element to memorialize these obligations and the current threat to
+         health and safety, and (4) commit to rolling over any unaccommodated portion of the City’s
+         6th Cycle Regional Housing Needs Allocation (RHNA) from the 6th Cycle to the 7th Cycle
+         should the wastewater treatment plant project not be completed within the scheduled
+         timeframe.
+
+         Background
+
+         The City’s wastewater treatment plant was constructed in 1978 and has undergone
+         several upgrades and expansions since then, with the last upgrade occurring in 2002. The
+         2002 upgrade allowed for up to 1.5 million gallons per day (MGD).
+
+
+1 Gov. Code, § 66300, subd. (b)(1)(B)(ii).
+      Jamie Tugal, Public Works Director
+      Page 2
+
+
+      In October 2024, the Water Board reduced the permitted flow from 1.5 MGD to 1.2 MGD
+      due to the facility’s inability to handle higher flows during flood events, as evidenced by a
+      significant levee break in May 2018 2 and multiple spills in October 2024. 3 Since 2021, the
+      City has been pursuing funding for a comprehensive upgrade that would increase the
+      plant’s capacity to 2.0 MGD. The California State Water Resources Control Board Division
+      of Financial Assistance (DFA) denied the City’s most recent request for funding in October
+      2024, noting that due to limited available grant/principal forgiveness funding, the request
+      application would not be placed in the DFA’s fundable list.
+
+      The City has explored alternative methods, including the use of septic systems, but none
+      of the alternatives were proven to be viable. As provided by City staff, ubiquitous
+      implementation of septic systems for new development faces several regulatory hurdles
+      and, more importantly, is not environmentally suitable due to Greenfield’s status as a
+      terminal basin with high percolation rates. 4 The Water Board has also indicated to HCD
+      that it agrees with the City’s conclusion on the unsuitability of septic. Therefore, a building
+      moratorium is needed until a new treatment facility can be constructed.
+
+      Local Moratorium Regulations Under the Housing Crisis Act (HCA)
+
+      Pursuant to Government Code section 66300, subdivision (b)(1)(B)(ii), an affected city
+      cannot enforce a moratorium that would limit housing development until it has submitted
+      the ordinance to and received approval from HCD. To impose a moratorium or similar
+      restriction on housing development, a city must demonstrate “an imminent threat to the
+      health and safety of persons residing in, or within the immediate vicinity of, the area
+      subject to the moratorium.”5
+
+      As evidenced by wastewater spills in 2018 and 2024, there is a clear and increasingly
+      severe threat to health and safety if the current plant continues to take on more
+      connections, which provides adequate justification for the Moratorium. However, to help
+      keep the City on track to meet its commitment to provide housing during its 6th Cycle
+      period (2023-2031), HCD requires the City to meet the following as conditions of approval
+      for the Moratorium:
+
+
+
+
+2 Record of May 2018 spill:
+
+https://www.waterboards.ca.gov/centralcoast/board_decisions/adopted_orders/2021/r3-2021-0104-
+stipulated-aclo-greenfield.pdf [waterboards.ca.gov].
+3 Record of October 2024 spills:
+
+https://documents.geotracker.waterboards.ca.gov/regulators/deliverable_documents/4627378165/202
+5_Jan_NOV_Spill_final_signed.pdf [documents.geotracker.waterboards.ca.gov].
+4 Attachment 1: City explanation of challenges associated with implementation of septic.
+5 Gov. Code, § 66300, subd. (b)(1)(B)(i).
+      Jamie Tugal, Public Works Director
+      Page 3
+
+
+
+      Condition 1: Annual Status Reports
+
+      The City is required to submit an annual status report to HCD summarizing the progress
+      made toward a new facility by the end of each calendar year. The status reports must
+      reference the recommended milestones provided by the Water Board: 6
+
+      •   Immediate: Demonstrate that the City can secure supplemental funding for the entire
+          project. If Greenfield cannot get on the Department of Finance fundable list, provide a
+          contingency plan for how it will fund upgrades to the wastewater plant.
+      •   June 1, 2026: Implement actions to reduce inflow and infiltration, including upgrades to
+          inadequate manhole covers and plans to upgrade the Tyler lift station.
+      •   June 30, 2026: Finalize a funding agreement.
+      •   September 30, 2026: Award a construction contract for the installation of the new
+          wastewater treatment plant and related facilities.
+      •   March 30, 2027: Begin construction of the new plant.
+      •   March 30, 2029: Conduct a demonstration period to test the new system.
+      •   June 30, 2030: Complete construction and startup of Phase I of the new plant.
+
+      Condition 2: Creation of a Housing Project and Connection Priority List
+
+      The City must, within 30 days of this letter, create and maintain a running list of affected
+      housing projects and a connection priority list based on the prioritization methodology
+      provided below. The list must disclose the following information for each project:
+
+          •   Project Address
+          •   Number of Residential Units (Affordable)
+          •   Number of Residential Units (Market Rate)
+          •   Entitlement Status, with dates (Pending or Entitled)
+          •   Applicant Name and Contact Information
+          •   Connection Priority Rank
+
+      Housing projects must be prioritized for wastewater connections per the following
+      methodology:
+
+          1. 100 percent affordable projects,
+          2. Mixed-income residential projects containing the highest total number/percentages
+             of affordable units,
+          3. Residential projects,
+          4. Nonresidential developments.
+
+
+
+6 Water Board Time Schedule Order, available at:
+
+https://www.waterboards.ca.gov/centralcoast/board_decisions/adopted_orders/2025/r3-2025-
+0018.pdf.
+      Jamie Tugal, Public Works Director
+      Page 4
+
+
+      Additional positive consideration should be given to projects located on sites in the City’s
+      Housing Element sites inventory. For example, the pending application for the 34-unit
+      project located at 296 Apple Avenue should be given priority upon the availability of
+      wastewater capacity since it is 100 percent affordable and is included in the City’s
+      inventory.
+
+      The City must transmit an up-to-date version of the Housing Project and Connection
+      Priority List to HCD with its annual status report. It is HCD’s expectation that as the
+      improvements to the wastewater treatment plant are completed and capacity is increased,
+      the City will offer connections to the entitled residential projects consistent with their
+      connection priority rank.
+
+      Condition 3: Housing Element Revision
+
+      Currently, the City’s Housing Element, which was adopted in 2023, states that “[the City’s]
+      6th Cycle RHNA of 730 new housing units can be accommodated with the available
+      capacity.”7 In other words, the City’s Housing Element contradicts the reality that there is
+      insufficient wastewater treatment capacity. The City must revise its Housing Element to
+      explain the current threat to health and safety and the existence and necessity of the
+      Moratorium within the next three months. The revision should memorialize the conditions
+      discussed above, including the commitment to providing annual status reports on progress
+      made toward a new facility and a prioritization list for affordable projects. The revision
+      should also emphasize that the Moratorium takes place at the entitlement stage, allowing
+      projects the opportunity to obtain planning approvals during the period.
+
+      Condition 4: Rolling Over RHNA Obligation
+
+      Pursuant to Government Code section 65584.09, if a city or county in the prior planning
+      period fails to make adequate sites available to accommodate its RHNA, the jurisdiction is
+      required, within the first year of the new housing element planning period, to zone or
+      rezone adequate sites to accommodate the unaccommodated portion of the RHNA from
+      the prior cycle. The City’s proposed moratorium creates a situation in which a significant
+      number of its identified inventory sites will be unavailable for development during the
+      majority of its 6th Cycle Housing Element period. Therefore, if construction of the sewer
+      plant extends beyond the expected completion date, the portion of the City’s RHNA that
+      remains unaccommodated due to the lack of available infrastructure must be carried over
+      into the 7th Cycle.
+
+
+
+
+7 City of Greenfield 2023-2031 Housing Element, available at:
+
+https://ci.greenfield.ca.us/DocumentCenter/View/5009/Housing-Element-2023-2031---Including-
+Appendices.
+Jamie Tugal, Public Works Director
+Page 5
+
+
+
+Conclusion
+
+HCD approves the Moratorium, subject to the conditions described above. HCD requests
+confirmation from the City by July 10, 2026, that it plans to fulfill these conditions and that
+it understands HCD may revoke its approval of the Moratorium if the City fails to satisfy the
+conditions on the required timelines. Please note, per the City’s ordinance, the City should
+provide appropriate sewer hookup to projects that have already submitted for building
+permits as of the date of this approval.
+
+If you have any questions regarding the content of this letter or would like additional
+technical assistance, please contact Bentley Regehr at bentley.regehr@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Housing Accountability Unit Chief
+
+cc: Kathy Truong-Krebs, Central Coast Water Board,
+Kathy.Truong-Krebs@Waterboards.ca.gov
+
+Attachment 1: City explanation of challenges associated with implementation of septic.
+                                                 City of Greenfield
+                                                      PO Box 127 / 599 El Camino Real
+                                                          Greenfield, CA 93927
+                                                       831-674-5591  831-674-3149
+                                                         www.ci.greenfield.ca.us
+
+
+April 6, 2026
+
+
+SUBJECT: Why Temporary Septic Treatment is Not a Viable Alternative to a Temporary
+         Building Moratorium
+In considering the inevitable need for a temporary building moratorium, and following many internal
+conversations between City Departments as well as developers and relevant agencies regarding alternative
+interim wastewater treatment solutions, the following is a summation of the City determination that
+temporary on-site wastewater systems (OWTS) is not a viable option for any new development.
+The process to overcome the substantial legal and environmental guardrails established to restrict, limit or
+prohibit septic systems within an urbanized City setting like the City of Greenfield, while likely not
+impossible, has many costly and time-consuming tasks. These are formidable and expected to be
+unsuccessful or incomplete before the new wastewater treatment plant is built. These obstacles include:
+Agency Review and Permitting Required:
+    1. A revision to the City Ordinance prohibiting OWTS would be required. (Ref. City of Greenfield
+       Municipal Code §13.28.05, 07, 08, 13 - Sewer Service/Septic Related.)
+    2. A CEQA Review would be required. The change of the ordinance would trigger a City-wide analysis
+       which would need to consider the City and County zoning Code, Municipal General Plans, County
+       minimum lot size for septic (1 acre), with appropriate set-backs and conditions, examining and
+       mitigating individual projects and cumulative impacts of potential multiple projects. CEQA requires
+       an initial study, preparation and public review and formal adoption/approval of an appropriate
+       environmental document by the jurisdictional agency.
+    3. County Environmental Health Services would need to review and approve an exception to the
+       County Municipal Code and issue an approval and permit. (Ref. Monterey County Municipal Code
+       §15.20.050 - Connection to Public Sewers Required.)
+    4. Review and approval by the Local Arroyo Seco Groundwater Sustainability Agency. The
+       Sustainability Agency is the steward of groundwater resources, both in water quality and basin
+       capacity. Septic systems are counter to agency policies and goals. (Ref. Arroyo Seco Area
+       Groundwater Sustainability Plan
+       https://www.greenfieldca.gov/DocumentCenter/View/1908/Arroyo_Seco_GSP_2020-05-
+       18_202005201839465156 )
+    5. The State Plumbing Code (T2022 California Plumbing Code, California Code of Regulations Title
+       24, Part 5) which is a part of the State Building Code (California Code of Regulations Title 24 ) has
+       been adopted by the City. The City can add more stringent requirements but cannot reduce the
+       State code requirements. The State Plumbing Code requires sanitary sewer connection vs. septic
+       when a sewer is available within 200 feet (ref. Sec. 713.0 Sewer Required). Our adopted building
+       code includes this State requirement as well as the Sate Building Code in General. The Building
+       Official would need to craft an approval process to address the Building Code prohibition to septic
+       in the City. approve and condition a temporary system
+    6. Technical Challenges. Greenfield is one of only a handful of “terminal Basin” cities in California,
+       with high percolation rates unsuitable for septic Leach Field Development. Advanced Treatment
+       Septic Treatment OWSTs still would not overcome the requirement for competent effluent
+       percolation. Import of approved soils in development of a leach field, if approved by all Agency
+       Review and Permitting, would be very expensive in design and construction.
+
+
+                                               Page 1 of 2
+Scheduling Considerations for Implementation:
+    1. Anticipated timeframe for implementing all of the above (including interagency coordination) is
+       expected to be 1-2 years or more if not contested by the various permitting agencies or citizens and
+       environmental groups.
+Practical Cost Considerations for Developer:
+    1. The first Developer, or group of developers submitting Planning Review Applications would pay all
+       costs associated with administrative and permit development and processing of the above
+       (including all Staff and consultant time). As mentioned, these substantial legal and environmental
+       guardrails were established over decades to restrict, limit or prohibit septic systems within an
+       urbanized City setting like the City of Greenfield.
+    2. Added cost of land restrictions for OWTS: Besides the current impactful land requirements for 100-
+       year storm retention basins, septic would also require dedicated land set-aside for septic tanks and
+       redundant leach fields. Included in these land requirements are mandatory set-backs from property
+       lines and structures. Additionally, when the septic system and/or leach field is/are eventually
+       abandoned (as the new sewer plant comes on-line), several issues (conducting comprehensive site
+       assessment, researching legal requirements, proper decommissioning of septic tank, implementing
+       safety measures, exploring engineering solutions, etc.) would have to be addressed before
+       (assuming it is even possible) the former septic site could be considered to be repurposed.
+    3. In addition to these requirements, the developer would still be required to construct a lateral
+       connection to the sewer main, which would be blocked until the moratorium is lifted. All OWTS
+       facilities would then be required to be abandoned per County Environmental Health requirements or
+       removed.
+
+
+
+
+                                               Page 2 of 2

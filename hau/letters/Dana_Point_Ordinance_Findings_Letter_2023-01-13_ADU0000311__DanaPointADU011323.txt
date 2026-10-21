@@ -1,0 +1,519 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 13, 2023
+
+
+
+         Belinda Deines, Principal Planner
+         Community Development Department
+         City of Dana Point
+         33282 Golden Lantern
+         Dana Point, CA 92629
+
+         Dear Belinda Deines:
+
+         RE: Review of the City of Dana Point’s Accessory Dwelling Unit (ADU) Ordinance
+            under ADU Law (Gov. Code, § 65852.2)
+         Thank you for submitting the City of Dana Point’s (City) accessory dwelling unit (ADU)
+         Ordinance No. 21-06 (Ordinance) adopted August 23, 2021, to the California
+         Department of Housing and Community Development (HCD). HCD has reviewed the
+         Ordinance and submits these written findings pursuant to Government Code section
+         65852.2, subdivision (h). HCD finds that the Ordinance does not comply with section
+         65852.2 in the manner noted below. Under that statute, the City has up to 30 days to
+         respond to these findings. Accordingly, the City must provide a written response to
+         these findings no later than February 13, 2023.
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law in the following respects:
+             •    Section 9.07.210(C)(1) – Standards for ADUs – The Ordinance states,
+                  “Any construction, establishment, alteration, enlargement, or modification
+                  of an Accessory Dwelling Unit shall comply with the requirements of this
+                  Section, the underlying development standards in the zoning district in
+                  which the lot is located, as well as any applicable overlay district...” ADU
+                  development standards may be imposed by the local agency with an
+                  adopted ADU ordinance. These standards within an underlying zone may
+                  apply when noted in the adopted ADU ordinance, but shall not be more
+                  restrictive than those contained in state statute. (Gov. Code, § 65852.2,
+                  subs. (a)(8)) Furthermore, local development standards provided by the
+                  Ordinance pursuant to Government Code section 65852.2, subdivisions (a)
+                  through (d), cannot preclude the approval of ADUs created under subdivision
+                  (e). Therefore, the City must amend this section of the Ordinance to clarify that
+                  state statute prevails in cases of a conflict between local zoning and overlay
+                  districts and State ADU Law.
+City of Dana Point
+Page 2
+
+
+
+   •   Section 9.07.210(D)(4)(a) – Permit Revocation – The Ordinance states that
+       “Subject to Government Code section 65852.2 (n), an Accessory Dwelling
+       Permit may be revoked if the Accessory Dwelling Unit violates one or more
+       requirements of this section or any other applicable portions of the Dana Point
+       Municipal Code.” This provision raises concerns as it is unclear to its exact
+       meaning and under what circumstances it would apply. Assuming building
+       permits are issued following review and approval, it remains unclear what
+       circumstances would allow for revocation. The City should remove the phrase
+       “or any other applicable portions of the Dana Point Municipal code”, or in the
+       alternative, specify the “applicable portions,” and amend that the application of
+       Municipal Code is subject to conformity with State ADU Law.
+
+   •   Section 9.07.210(E)(1 ) – Number of ADUs Allowed per Site – “An applicant
+       may construct one (1) attached ADU or one (1) attached JADU per lot….” This
+       reference is outdated. Current Government Code section 65852.2, subdivision
+       (e)(1)(A), provides for “One accessory dwelling unit and one junior accessory
+       dwelling unit per lot” (emphasis added). Therefore, the City must change “or” to
+       “and.” Additionally, Government Code section 65852.2, subdivision (e)(1)
+       states that a local agency shall ministerially approve an application to create
+       any of the following ADUs listed from subdivision (e)(1)(A) through (D). The
+       City must amend its ordinance to also allow for a combination of subdivision
+       (e)(1)(A) and (B) or (e)(1)(C) and (D).
+
+       The Ordinance also incorrectly references “attached” ADUs or Junior ADUs
+       (JADUs) as subject to mandatory approval pursuant to Government Code
+       section 65852.2, subdivision (e). However, subdivision (e) only addresses
+       ADUs and JADUs that are created within the proposed or existing space of a
+       primary dwelling, or ADUs created within and accessory structure (i.e.,
+       conversions), and newly created detached ADUs. Subdivision (e) does not
+       address “attached ADUs.” Therefore, the City must remove the reference to
+       “attached ADUs” from Section 9.07.210 (E) of the Ordinance.
+
+   •   Section 9.07.210(E)(1)(a) – Accessory Structures and JADUs – The
+       Ordinance states that “The ADU or JADU must be wholly contained within
+       the proposed space of a propose single family dwelling, or within the
+       existing space of an existing single-family dwelling or an existing
+       accessory structure.” However, Government Code section 65852.2
+       (e)(1)(A)(iv) additionally requires that JADUs comply with section
+       65852.22. Section 65852.22, subdivision (a)(4) requires that JADUs be
+       constructed “within the walls of the proposed or existing single-family
+       residence. For the purposes of this paragraph, enclosed uses within the
+       residence, such as attached garages, are considered part of the proposed
+       or existing single-family residence.” Therefore, JADUs may be constructed
+       in an attached garage. Note that JADUs may not be created in any other
+City of Dana Point
+Page 3
+
+
+
+       accessory structure or detached garage. The City must amend the
+       Ordinance to allow JADUs to be created only within the single-family
+       dwelling or attached garage, while ADUs may be created within a primary
+       dwelling or within an accessory structure.
+
+   •   Sections 9.07.210(E)(1)(f), 9.07.210(E)(2)(e), 9.07.210(F)(2),
+       9.07.210(F)(3) – Deed Restriction – The Ordinance currently prohibits the
+       separate sale of an ADU. However, Government Code section 65852.26
+       creates a narrow exception to allow separate conveyance of an ADU to a
+       qualified buyer if the property was built or developed by a qualified
+       nonprofit corporation, among other things. The City must amend the
+       Ordinance to add the exception.
+
+   •   Sections 9.07.210(E)(1)(h) and (E)(3)(g) – Maximum Size of an Attached ADU –The
+       Ordinance states “The total floor area of an attached ADU shall be limited to 50% of
+       living area of the primary dwelling.” It later requires that “the total floor area of [a
+       converted ADU in a multifamily building] be limited to 50% of the average living
+       area of existing Multi-Family dwelling units.” As stated above “attached ADUs” are
+       not subject to mandatory approval pursuant to Subdivision (e) and must be
+       removed from Section 9.07.210 (E). However, Government Code section 65852.2,
+       subdivision (c)(2)(C), which would apply to “attached ADUs”, prohibits “Any
+       requirement for a zoning clearance or separate zoning review or any other
+       minimum or maximum size for an accessory dwelling unit, size based upon a
+       percentage of the proposed or existing primary dwelling, or limits on lot coverage,
+       floor area ratio, open space, front setbacks, and minimum lot size, for either
+       attached or detached dwellings that does not permit at least an 800 square foot
+       accessory dwelling unit with four-foot side and rear yard setbacks to be
+       constructed in compliance with all other local development standards.” Therefore,
+       the City must add language to clearly state that an attached ADU may not be
+       required to be smaller than 800 square feet.
+
+       Furthermore, the conversion of non-livable space within multifamily
+       dwellings shall allow for at least one ADU and up to 25 percent of the
+       existing multifamily dwelling units per Government Code section 65852.2,
+       subdivision (e)(1)(C). Therefore, the 50 percent coverage area
+       requirement of the Section 9.07.210 (E)(3)(g) must be amended to avoid
+       conflict with the provision found in subdivision (e)(1)(C).
+
+   •   Sections 9.07.210(E)(1)(i) and 9.07.210(F)(6) – Maximum Height –The
+       Ordinance states “The maximum height for a JADU or ADU attached to a
+       primary dwelling shall be the height of the underlying zoning district.” ADU
+       statute restricts local agencies from requiring the height of attached and
+       detached ADUs, to be less than either 16, 18, or 25 feet pursuant to
+       Government Code section 65852.2, subdivisions (c)(2)(D) and (e)(1)(B)(ii).
+City of Dana Point
+Page 4
+
+
+
+       Where the height limitations in an underlying zoning district would restrict
+       the maximum height to less than state requirements, the Ordinance must
+       be amended to allow for the minimum height requirements in State ADU
+       Law. Additionally, please note that the creation of ADUs or JADUs from
+       proposed or existing space within the primary residence and the creation
+       of ADUs from accessory structures are not subject to additional height
+       limitations.
+
+   •   Section 9.07.210(E)(1)(g) and Section 9.07.215(D)(4)(j) – Fire Walls –The
+       Ordinance states “ADUs… attached to the primary dwelling shall contain a
+       fire wall sufficient for fire retention." Fire walls are required in several
+       sections including but not limited to sections 9.07.210(E)(3)(b),
+       9.07.210(E)(3)(f), 9.07.210(F)(9)(d), and 9.07.215(D)(4)(j). The additional
+       requirement for attached ADUs may exceed those imposed by the City on
+       other residential development, and thus, the Ordinance may be in violation
+       of Government Code section 65852.2, subdivision (a)(8), which states that
+       “no additional standards, other than those provided in this subdivision,
+       shall be used or imposed.” For HCD to determine compliance with State
+       ADU Law, please provide a) whether every wall attached to a residential
+       building required to be a fire wall, and b) whether fire walls are required
+       between a single-family home and an attached garage. Please include any
+       citations or references to supporting statute, regulation or ordinance
+       citation.
+
+   •   Sections 9.07.210(E)(2)(g), 9.07.210(E)(4)(f) and 9.07.210(F)(7) –
+       Separation from Other Structures – The Ordinance states that “The
+       detached ADU shall maintain a ten (10) foot separation from the primary
+       dwelling and any accessory structure(s) located on the property.”
+       However, Government Code section 65852.2, subdivisions (e)(1)(B) and
+       (D) require that a local agency shall ministerially approve an application
+       for detached ADUs. Therefore a 10-foot separation requirement cannot
+       preclude an ADU created under these subdivisions and the City must
+       amend the Ordinance to either remove this requirement or impose 10-foot
+       separation only when feasible to allow for an 800 square foot detached
+       ADU.
+
+   •   Sections 9.07.210(E)(1)(j), 9.07.210(E)(2)(h), 9.07.210(E)(3)(h),
+       9.07.210(E)(4)(g), 9.07.210(F)(9)(k), 9.07.215(D)(4)(g) – Homeowner’s
+       Association Approval –The Ordinance states that ADUs and JADUs
+       “…shall be approved by the applicant's homeowner's association, if
+       applicable, prior to an application being submitted to the City.” It also
+       requires “written evidence of the HOA’s approval.” However, Government
+       Code section 65852.2, subdivision (a)(6) states that a “a local agency
+       shall provide an approval process that includes only ministerial provisions
+City of Dana Point
+Page 5
+
+
+
+       for the approval of accessory dwelling units and shall not include any
+       discretionary processes, provisions, or requirements for those units,
+       except as otherwise provided in this subdivision.” Therefore, the City
+       cannot add an additional requirement for a Homeowner Association approval
+       and must remove this section.
+
+   •   Section 9.07.210(E)(3) – Attached Multifamily ADU Allowance – The Ordinance
+       states that “An applicant shall be allowed to construct one (1) attached ADU
+       within each multi-family dwelling structure.” As mentioned above “attached”
+       ADUs are not found in Government Code section 65852.2, subdivision (e).
+       Subdivision (e)(1)(C) allows for ADUs to be built within portions of an existing
+       multifamily dwellings that are not used as livable space these are conversion
+       units. Government Code section 65852.2, subdivision (e)(1)(C)(ii) requires that
+       “A local agency shall allow at least one [conversion] accessory dwelling unit
+       within an existing multifamily dwelling and shall allow up to 25 percent of the
+       existing multifamily dwelling units.” Therefore, the allowance for only one unit
+       violates state statute. Although Ordinance Section 9.07.210 (E)(3)(e) allows for
+       up to 25 percent of existing multifamily dwellings, the approval is subject to
+       additional development standards pursuant to Section 9.07.210 (H) process.
+       This additional approval requirement violates the ministerial approval
+       requirement pursuant to Government Code section 65852.2 (e)(1). The City
+       must update this section with the language in subdivision (e)(1)(C)(ii) that
+       permits “at least one” and “up to 25 percent of existing” units when ADUs are
+       created out of converted space in a multifamily dwelling and remove section
+       (E)(3)(e).
+
+   •   Section 9.07.210(E)(3)(d) and (E)(4)(c) – Certificate of Occupancy – The
+       Ordinance requires that, “A certificate of occupancy had been issued for
+       the multi-family dwelling on or before January 1, 2020.” This section limits
+       the construction of ADUs to multi-family dwellings that have been issued a
+       certificate of occupancy on or before January 1, 2020. Government Code
+       section 65852.2 (e)(1)(C) and (D) provides for the ministerial approval of
+       ADU applications in multifamily dwelling structures that meet the
+       requirements and conditions set forth in these subdivisions. A certificate of
+       occupancy is not a requirement or condition for the ministerial approval for
+       ADUs pursuant to this subdivision. Therefore, the City must remove this
+       section.
+
+   •   Section 9.07.210(F)(1)(a) and (F)(1)(c) – Local Restrictions – The
+       Ordinance states “Due to the public safety concerns associated with
+       water, erosion, and flood hazards, as well as the proliferation of existing
+       non-conforming structures within the City’s Flood Plain Overlay Districts,
+       no attached or detached ADU shall be located in the City’s Flood Plain
+City of Dana Point
+Page 6
+
+
+
+       Overlay District without obtaining a Site Development Permit pursuant to
+       Section 9.07.210(H).”
+
+       It later states “Due to public safety concerns with hillside stability, small, narrow
+       steep lots, drainage, and related traffic flow conditions, no attached or detached
+       ADUs shall be constructed on any lot which contains a hillside condition, which
+       shall mean a lot with a topographic slope percentage, as defined in Section 9.
+       75.190 of this Dana Point Zoning Code, either front to rear or side to side, of
+       twenty (20) percent or greater, calculated in accordance with Section 9.05.11
+       0(a)(4)(A), without obtaining a Site Development Permit pursuant to Section
+       9.07.210(H).”
+
+       The Ordinance does not indicate how ADUs impact public safety concerns
+       associated with water, erosion, flood hazards, slope, or traffic safety, nor
+       the proliferation of existing nonconforming structures. State Law requires
+       local agencies to “Designate areas within the jurisdiction of the local
+       agency where accessory dwelling units may be permitted. The designation
+       of areas may be based on the adequacy of water and sewer services and
+       the impact of accessory dwelling units on traffic flow and public safety.”
+       (Gov. Code, § 65852.2, subd. (a)(1)(A)). But the City has not established the
+       impact of ADUs to public safety in the Flood Plain Overlay District or on lots
+       with Hillside Conditions. Additionally, the Site Development Permit process is a
+       discretionary process that violates Government Code section 65852.2,
+       subdivision (a)(6) that requires “a local agency shall provide an approval
+       process that includes only ministerial provisions for the approval of accessory
+       dwelling units and shall not include any discretionary processes, provisions, or
+       requirements for those units, except as otherwise provided in this subdivision.”
+       Therefore, the City must remove this section of the Ordinance to comply with
+       State ADU Law.
+   •   Section 9.07.210(F)(1)(d) – Existing Non-Conforming Structure or Use – The
+       Ordinance states “No attached or detached ADU shall be constructed on any
+       lot which has an existing development constructed upon it, which is non-
+       conforming with respect to the City's current use or development standards
+       without obtaining a Site Development Permit pursuant to Section 9.07.210(H).”
+       However, Government Code section 65852.2, subdivision (d)(2) states that ”the
+       local agency shall not deny an application for a permit to create an accessory
+       dwelling unit due to the correction of nonconforming zoning conditions, building
+       code violations, or unpermitted structures that do not present a threat to public
+       health and safety and are not affected by the construction of the accessory
+       dwelling unit.” Therefore, the City must remove this section to comply with
+       State ADU Law.
+   •   Section 9.07.210(F)(1)(e) – Location Restriction, Fire – “No attached or
+       detached ADU shall be constructed on any lot located within the City's Fire
+City of Dana Point
+Page 7
+
+
+
+       Ember Zone without obtaining a Site Development Permit pursuant to Section
+       9.07.210(H)…” The Site Development Permit process is discretionary in
+       violation of Government Code section 65852.2, subdivision (a)(6) that
+       requires “a local agency shall provide an approval process that includes only
+       ministerial provisions for the approval of accessory dwelling units and shall
+       not include any discretionary processes, provisions, or requirements for those
+       units, except as otherwise provided in this subdivision.” The City of Dana
+       Point, in conjunction with the Orange County Fire Authority, and the State of
+       California Office of the State Fire Marshal has adopted the current version of
+       the Very High Fire Hazard Severity Zone (VHFHSZ), Ember Zone 1 and
+       Ember Zone 2 Fire Areas.
+
+       However, while CalFire maps establish the Very High Fire Hazard Severity
+       Zones that impact building design standards (such as required building
+       materials), these zones do not limit the locations where ADUs may be
+       permitted. The Very High Fire Hazard Severity Zone map of Dana Point
+       provided on the Cal Fire website states, "The California Building Commission
+       adopted California Building Code Chapter 7A requiring new buildings in
+       VHFHSZs to use ignition resistance of buildings, especially from firebrands.
+       The updated very high fire hazard severity zones will be used by building
+       officials for new building materials in the Local Responsibility Area. The
+       updated zones will also be used to identify property whose owner must
+       comply with natural hazards disclosure requirements at time of property sale
+       and 100- foot defensible space clearance." (Emphasis added.) These building
+       standards and requirements do not prohibit the siting of ADUs. Therefore, the
+       City must remove this discretionary permit process for ADU applications
+       within the Fire Ember Zone.
+
+   •   Section 9.07.210(F)(5) – Required Setbacks: The Ordinance states that all
+       ADUs “must also strictly comply with the front yard setback requirement of the
+       underlying zoning district….” However, Government Code section 65852.2,
+       subdivision (c)(1)(C) states that a local agency may not impose “Any
+       requirement for...front setbacks that would not permit at least an 800 square
+       foot accessory dwelling unit with four-foot side and rear yard setbacks to be
+       constructed in compliance with all other local development standards.”.
+       Therefore, ADUs may be located partially or entirely in the front setback. The
+       City must amend the Ordinance to comply with State ADU Law.
+
+   •   Section 9.07.210(F)(8)(d) – Limitation on the Number of Bedrooms – The
+       Ordinance states, “An ADU shall contain no more than two bedrooms.”
+       Limiting the number of bedrooms within an ADU may constrain housing choice
+       and result in discriminatory effects on families with children, people with
+       disabilities, and other protected groups in violation of state and federal fair
+       housing laws, including but not limited to Government Code section 65008,
+City of Dana Point
+Page 8
+
+
+
+       subdivisions (a)(1)(A) and (b)(1)(B)(i). Therefore, the City should remove this
+       section.
+
+   •   Section 9.07.210(F)(9)(f) – Additional Conditions – The Ordinance states that
+       “Any attached or detached ADU shall be architecturally consistent with the
+       primary residential or multi-family dwelling. In addition, all ADUs shall be
+       designed and sited to: (i) be similar to the primary dwelling with respect to
+       architectural style, roof pitch, color, and materials” However, “architecturally
+       consistent” and “similar” may be subjective in application, and therefore may
+       violate Government Code section 65852.2, subdivision (a)(6), that requires
+       ministerial approval and prohibits discretionary processes. Subdivision
+       (a)(1)(B)(i) allows the City to impose objective standards on dwelling units and
+       pursuant to subdivision (j)(7), objective standards mean “standards that involve
+       no personal or subjective judgment by a public official and are uniformly
+       verifiable by reference to an external and uniform benchmark or criterion
+       available and knowable by both the development applicant or proponent and
+       the public official prior to submittal.” Therefore, the City must amend or clarify
+       the Ordinance to comply with State ADU Law.
+
+       Section 9.07.210(F)(9)(g) – Solar Panels – The Ordinance states that “Solar
+       panels shall be required for any attached or detached ADU.” Be advised that
+       newly constructed, non-manufactured, detached ADUs may be subject to the
+       California Energy Code requirement (excluding manufactured homes) to
+       provide solar systems. Per the California Energy Commission (CEC), the solar
+       systems can be installed on the ADU or on the primary dwelling unit. ADUs that
+       are constructed within existing space, or as an addition to existing homes,
+       including detached additions where an existing detached building is converted
+       from non-residential to residential space, are not subject to the Energy Code
+       requirement to provide solar systems. (ADU July 2022 Handbook, page 23.)
+       The City should ensure that its solar requirements comply with the California
+       Energy Code.
+
+   •   Section 9.07.210(F)(9)(h) – Historic Register – The Ordinance states that an
+       ADU shall not cause a “substantial adverse change on any real property that is
+       listed in the National Register of Historic Places, and/or California Register of
+       Historic Places, and/or the City of Dana Point Historic Architectural Resources
+       Inventory.” This is not consistent with State ADU Law. Under Government
+       Code section 65852.2 subdivision (a)(1)(B)(i), an ordinance may “impose
+       standards on accessory dwelling units … that prevent adverse impacts on any
+       real property that is listed in the California Register of Historic Resources.”
+       Locally registered resources that are not also state listed would not fall within
+       this provision. The Ordinance should be revised to limit sites to those allowed
+       by State ADU Law.
+City of Dana Point
+Page 9
+
+
+
+   •   Section 9.07.210(F)(9)(j) – Placement Limitations – The Ordinance requires
+       “detached ADUs to be located only in the rear ½ of the parcel and attached
+       ADUs to be located only in the rear ½ of the primary dwelling.” However,
+       Government Code section 65852.2, subdivision (c)(2)(C), prohibits “any other
+       minimum or maximum size for an accessory dwelling unit, size based upon a
+       percentage of the proposed or existing primary dwelling, or limits on lot
+       coverage, floor area ratio, open space, front setbacks, and minimum lot size,
+       for either attached or detached dwellings that does not permit at least an 800
+       square foot accessory dwelling unit with four-foot side and rear yard setbacks
+       to be constructed in compliance with all other local development standards.”
+       Because the subdivision prohibits restrictions on front setback requirements,
+       detached and attached ADUs may also be placed in the front of the parcel and
+       front half of the primary dwelling. Therefore, the City must remove this
+       limitation.
+
+   •   Section 9.07.210 (H) – Nonministerial Process – The Ordinance has
+       numerous references to Section 9.07.210(H) as a discretionary process to
+       be used in the event of an ADU application exceeds standards in the
+       Ordinance: Section 9.07.210 subdivision (H) describes a “discretionary
+       Site Development Permit in accordance with Dana Point Zoning Code
+       Chapter 9.71.” Unless these Site Development Permits are required by the
+       City’s Local Coastal Plan (LCP), this violates Government Code section
+       65852.2, subdivision (a)(6) which requires that “a local agency shall
+       provide an approval process that includes only ministerial provisions for
+       the approval of accessory dwelling units and shall not include any
+       discretionary processes, provisions, or requirements for those units,
+       except as otherwise provided in this subdivision. Therefore, the City
+       should either clarify any applicable LCP requirements or remove all
+       references to Section 9.07.210(H) for any ADU built in accordance with
+       Government Code section 65852.2, subdivision (a) or (e).
+
+   •   Section 9.07.215(C)(2) – Application Processing – “An application for a
+       JADU Permit will be deemed complete once all information required by the
+       application form has been submitted to the Community Development
+       Department, including all required fees, and all changes required to
+       building permit plans submitted to the Community Development
+       Department have been made to the satisfaction of the Director.” However,
+       the “satisfaction of the Director” is discretionary and subjective.
+       Government Code section 65852.22, subdivision (c)(1) states “an
+       application for a permit pursuant to this section shall, notwithstanding
+       Section 65901 or 65906 or any local ordinance regulating the issuance of
+       variances or special use permits, be considered ministerially, without
+       discretionary review or a hearing.” Therefore, the City must remove the
+       referenced phrase.
+City of Dana Point
+Page 10
+
+
+
+   •   Section 9.07.215(C)(3)(b) – Application Approval – The Ordinance
+       states the application shall be approved “if the proposed Junior
+       Accessory Dwelling Unit complies with the requirements of this section
+       and the underlying development standards in the zoning district as well as
+       any applicable overlay district in which the lot is located. It is difficult to
+       determine what underlying development standards in the zoning district or
+       other applicable overlay district requirements would apply to
+       improvements located entirely within an existing or proposed structure.
+       Standards within an underlying zone may apply when noted in the adopted
+       ADU ordinance but cannot be more restrictive than those contained in
+       state statute. The City should clarify underlying development standards in
+       the zoning district, as well as any applicable overlay district in which the
+       lot is located, will apply if they are not more restrictive than those
+       contained in state statute.
+
+   •   Section 9.07.215(D)(4)(c) – Nonconforming Dwelling – “No JADU shall
+       be constructed in any dwelling that is non-conforming with respect to
+       structure or use.” However, Government Code section 65852.22 (d) states
+       that “a local agency shall not deny an application for a permit to create a junior
+       accessory dwelling unit pursuant to this section due to the correction of
+       nonconforming zoning conditions, building code violations, or unpermitted
+       structures that do not present a threat to public health and safety and that are
+       not affected by the construction of the junior accessory dwelling unit.”
+       Therefore, the City must remove this section of the Ordinance.
+
+   •   Section 9.07.215(D)(6) – Associated Permits – “If an application for a
+       JADU triggers the requirement for a discretionary or ministerial permit
+       other than a JADU Permit and/or a building permit (including but not
+       limited to a Site Development Permit, Coastal Development Permit and/or
+       Conditional Use Permit), those associated permits must be applied for and
+       approved prior to application for a JADU Permit. The process for obtaining
+       the associated permit(s) shall be as set forth in Title 9 of the Dana Point
+       Zoning Code.” However, JADUs must be approved ministerially, without
+       discretionary review or a hearing, per Government Code section 65852.2,
+       subdivision (a)(3). An application for a permit pursuant to this section
+       shall, notwithstanding Section 65901 or 65906 or any local ordinance
+       regulating the issuance of variances or special use permits, be considered
+       ministerially, without discretionary review or a hearing.” (Gov. Code, §
+       65852.2, subd. (a)(3) and Gov. Code, § 65852.22, subd, (c)). Therefore, the
+       City cannot require the pre-application and approval of these associated
+       permits, as a condition for accepting an application for a JADU permit. It is
+       also unclear how a JADU located entirely within a single-family dwelling
+       would trigger a discretionary permit. The City must remove this section of
+       the Ordinance.
+City of Dana Point
+Page 11
+
+
+
+
+In response to the findings in this letter, and pursuant to Government Code section
+65852.2, subdivision (h)(2)(B), the City must either amend the Ordinance to comply with
+State ADU Law or adopt the Ordinance without changes. Should the City choose to
+adopt the Ordinance without the changes specified by HCD, the City must include
+findings in its resolution that explain the reasons the City finds that the Ordinance
+complies with State ADU Law despite the findings made by HCD. Accordingly, the City’s
+response should provide a plan and timeline to bring the Ordinance into compliance.
+
+Please note that, pursuant to Government Code section 65852.2, subdivision (h)(3)(A),
+if the City fails to take either course of action and bring the Ordinance into compliance
+with State ADU Law, HCD may notify the City and the California Office of the Attorney
+General that the City is in violation of State ADU Law.
+
+HCD appreciates the City’s efforts provided in the preparation and adoption of the
+Ordinance and welcomes the opportunity to assist the City in fully complying with State
+ADU Law. Please feel free to contact Mike Van Gorder of our staff, at (916) 776-7541 or
+at mike.vangorder@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

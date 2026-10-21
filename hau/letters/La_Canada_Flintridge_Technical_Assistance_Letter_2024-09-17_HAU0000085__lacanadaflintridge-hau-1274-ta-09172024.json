@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0025810",
+  "case_number": "HAU0000085",
+  "letter_date": "2024-09-17",
+  "jurisdiction": "La Canada Flintridge",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act | Portions of the Permit Streamlining Act",
+  "statutes": "65943",
+  "n_statutes": "1",
+  "keywords": "housing accountability act",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/lacanadaflintridge-hau-1274-ta-09172024.pdf",
+  "hcd_letter": "La Canada Flintridge Technical Assistance Letter 09/17/2024",
+  "housing_law": "Housing Accountability Act, Portions of the Permit Streamlining Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/lacanadaflintridge-hau-1274-ta-09172024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 177195,
+  "text_chars": 6134,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0017397",
+      "case_number": "HAU0001274",
+      "letter_date": "2024-09-17",
+      "jurisdiction": "La Canada Flintridge",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Accountability Act | Portions of the Permit Streamlining Act",
+      "statutes": "65583(a)(5) | 65589.5 | 65589.5(h)(2)(B) | 65589.5(o)",
+      "n_statutes": "4",
+      "keywords": "fees | permit processing fees | preliminary application vesting",
+      "n_keywords": "3",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/lacanadaflintridge-hau-1274-ta-09172024.pdf",
+      "hcd_letter": "La Canada Flintridge Technical Assistance Letter 09/17/2024",
+      "housing_law": "Housing Accountability Act, Portions of the Permit Streamlining Act"
+    }
+  ]
+}

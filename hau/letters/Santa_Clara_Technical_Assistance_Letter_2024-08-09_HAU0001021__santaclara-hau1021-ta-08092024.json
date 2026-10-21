@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0016476",
+  "case_number": "HAU0001021",
+  "letter_date": "2024-08-09",
+  "jurisdiction": "Santa Clara",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65580 | 65589.5(d) | 65589.5(d)(5) | 65589.5(h)(3) | 65589.5(o)(1) | 65863(b)(1) | 65863(g)(2)(a) | 65915(d)(2) | 65915(k) | 65941.1 | 66300(b)(1)",
+  "n_statutes": "11",
+  "keywords": "Builder's Remedy | housing crisis act no net loss | incentives and concessions",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santaclara-hau1021-ta-08092024.pdf",
+  "hcd_letter": "Santa Clara Technical Assistance Letter 08/09/2024",
+  "housing_law": "Housing Accountability Act, Density Bonus Law, Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santaclara-hau1021-ta-08092024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 160232,
+  "text_chars": 10376,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024330",
+  "case_number": "ADU0007582",
+  "letter_date": "2023-04-27",
+  "jurisdiction": "Fountain Valley",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/fountain-valley-adu-findings-120624.pdf",
+  "hcd_letter": "Fountain Valley Ordinance Findings Letter 04/27/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/fountain-valley-adu-findings-120624.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 205743,
+  "text_chars": 7865,
+  "text_empty": false
+}

@@ -1,0 +1,380 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 28, 2024
+
+
+         Ashley Atkinson, Director of Asset Management
+         Los Angeles Housing Department
+         1910 Sunset Boulevard, Suite 300
+         Los Angeles, CA 90023
+
+         Dear Ashley Atkinson:
+
+         RE: City of Los Angeles – 5135 North Riverton Avenue Replacement Units vs.
+             Right of First Refusal – Letter of Technical Assistance
+
+         This letter provides technical assistance regarding so-called replacement units versus
+         the right of first refusal under the Housing Crisis Act (HCA). The California Department
+         of Housing and Community Development (HCD) received a technical assistance
+         request seeking clarification on whether comparable units for the purposes of right of
+         first refusal under the HCA must be deed-restricted like replacement units under the
+         HCA. This letter also further expands upon a technical assistance (TA) letter HCD
+         issued on this topic to the City of Encinitas in 2022. 1
+
+         Summary of Request
+
+         HCD understands that the Project proposes to construct 22 residential units at 5315-
+         5321 North Riverton Avenue in the City of Los Angeles (City). The site contains an
+         existing duplex that is proposed to be demolished. The site is also identified in the City’s
+         6th Cycle Housing Element Sites Inventory. The City confirmed the site is eligible for Tier
+         3 Transit Oriented Communities (TOC) incentives and is proposing on-site affordable
+         units in exchange for density increases under this local program.
+
+         HCD understands that the first step for a proposed TOC project is to determine the
+         number of affordable units that will be provided in exchange for TOC incentives. To
+         meet the local TOC program’s affordability requirements, the Applicant proposes to
+         provide two extremely low-income (ELI) units to receive Tier 2 incentives.
+
+
+
+1
+ HCD, Letter of Technical Assistance Regarding Replacement Units and Right of First
+Refusal Laws, September 21, 2022,
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/encinitas-
+TA-092122.pdf.
+Ashley Atkinson, Director of Asset Management
+Page 2
+
+
+Once the TOC eligibility and tier with required affordable units is selected, HCD
+understands that the next step is to determine the number of existing protected units that
+must be replaced and tenants that must be offered right of first refusal per the HCA. The
+two existing units in the duplex are considered protected units and lower-income
+households, as defined in statute. Specifically, there is one very low-income (VLI) unit and
+one ELI unit 2 on the site currently based on the incomes of the tenants. Therefore, the
+proposed Project must provide replacement units and right of first refusal to the tenants of
+both units to meet these state law requirements under the HCA. The two ELI units proposed
+for Tier 2 TOC incentives are required to be deed-restricted per the TOC program and
+would therefore also meet HCA replacement requirements for protected units. To fulfill the
+right-of-first-refusal requirement to provide the tenant of the VLI unit with a comparable unit,
+HCD understands that the Applicant proposes to make an additional unit affordable at the
+VLI income level – but to not deed restrict it. HCD understands the Applicant offered a
+potential solution that the VLI unit would return to market-rate should the VLI tenant choose
+not to move into the unit rather than deed-restricting the unit for 55 years. It appears the
+City is unsupportive of this approach and instead is requiring that the VLI unit intended to
+fulfill the right-of-first-refusal requirements be deed restricted for 55-years.
+
+Because the question at hand pertains to an overlap between the affordable units required
+to qualify for the City’s TOC program, replacement of protected units as required under the
+HCA, and right of first refusal under the HCA, these components are discussed in separate
+sections below. 3
+
+City of Los Angeles Transited Oriented Communities (TOC) Program
+
+The TOC program first took effect in 2016 with the passage of Measure JJJ. This program
+incentivizes the construction of on-site affordable housing near public transit in exchange for
+incentives such as increased density and reduced parking. Measure JJJ added Section
+12.22.A.31 to the Los Angeles Municipal Code (LAMC). The City also adopted TOC
+Guidelines which outline the eligibility requirements and incentives of the TOC program. 4
+
+
+
+2
+  Affordability level of ELI unit determined by applying the “rebuttable presumption” per
+Gov. Code, § 65915, subd. (c)(3)(B)(i).
+3
+  If the income levels of the two tenants of the existing units happened to ELI, there
+would be no issue with the 2 ELI units proposed for TOC Tier 2 incentives also serving
+as the replacement units and the right of first refusal comparable units. Additionally,
+HCD understands that per LAHD’s memo, the City does not require the Applicant to
+select any particular mix of affordable units to comply with the TOC Program and the
+Applicant could potentially select to provide 2 VLI units and 1 ELI units to meet Tier 2
+TOC requirements, which would also meet replacement and right-of-first-refusal
+requirements.
+4
+  The City’s TOC program is independent from the City’s local State Density Bonus Law
+implementation ordinance (LAMC 12.22, 12.24, 14.00, and 19.01). The City’s TOC
+program does not implement the State Density Bonus Law (Gov. Code, § 65915 et
+seq.).
+Ashley Atkinson, Director of Asset Management
+Page 3
+
+
+HCD understands that the TOC program is an optional incentive program for
+developers, but it is not mandatory.
+
+The TOC program is based on a tiered system. Generally, there are four tiers that outline
+the percentages of affordable units that are required to receive the incentives. While
+certain sites may be designated as eligible for a higher tier of incentives, applicants can
+choose to do a lower tier TOC project. While the Project site at issue here is eligible for a
+Tier 3 TOC project, the applicant has selected to do a Tier 2 TOC project. To receive
+Tier 2 incentives, the Project must provide either 9 percent ELI, or 12 percent VLI, or
+21 percent lower-income units. The Applicant has selected to provided 9 percent ELI
+units (2 ELI units) to receive Tier 2 TOC incentives.
+
+Affordable units that are provided to qualify for the TOC program must be located on-
+site and be deed-restricted for 55 years. 5 The two proposed ELI units will meet these
+requirements.
+
+HCA Replacement Requirements
+
+The TOC Guidelines incorporate by reference the replacement requirements of the
+HCA. It specifies that that HCA replacement units count toward the affordable units
+required to qualify for TOC incentives. 6 The Project site contains two existing units that
+are considered subject to the City’s Rent Stabilization Ordinance (RSO). Those units
+are therefore considered protected units and must be replaced under the HCA. One unit
+is occupied by a VLI tenant. The income-level for the second unit is unknown but is
+considered ELI under the rebuttable presumption provision in the State Density Bonus
+Law. 7
+
+The Project was approved with conditions at the Director’s level by the Department of
+City Planning on August 24, 2023. 8 However, the conditions of approval incorrectly
+stated that replacement units were not required per the HCA and a letter of correction
+was issued on December 1, 2023. 9 Based on the Letter of Correction and the
+Replacement Unit Determination (RUD) form issued by the Los Angeles Housing
+Department (LAHD), it is the City’s position that one VLI replacement unit and one ELI
+replacement unit must be provided.
+
+
+5
+  Transit Oriented Communities Affordable Housing Incentive Program Guidelines (TOC
+Guidelines), pg. 14.
+6
+  Transit Oriented Communities Affordable Housing Incentive Program Guidelines (TOC
+Guidelines), pg. 7.
+7
+  The definition of “replace” under the HCA (Gov. Code, § 66300, subd. (i)(1)) refers to
+definition in SDBL (Gov. Code, § 65915, subd. (c)(3)(B)).
+8
+  DIR-2023-3561-TOC-VHCA, Director’s Determination, Transit Oriented Communities
+Affordable Housing Incentive Program, August 24, 2023.
+9
+  DIR-2023-3561-TOC-VHCA, Letter of Correction, December 1, 2023.
+Ashley Atkinson, Director of Asset Management
+Page 4
+
+
+HCD understands that at the time of Project approval and based on the RUD, the
+Applicant and City mutually understood that the two ELI units proposed for the Tier 2
+TOC incentives would also serve as the two replacement units required per the HCA.
+This is because statute permits a more deeply affordable unit to be substituted for a less
+deeply affordably unit 10. Because both TOC units and replacement units under the HCA
+are required to be deed-restricted, the 2 ELI units would satisfy the requirements for
+both of these components.
+
+HCA Right of First Refusal Requirements
+
+As stated above, the RUD issued by LAHD appears to state that only the two existing
+RSO units are considered existing protected units that need to be replaced and deed-
+restricted to comply with the HCA. However, HCD understands that LAHD has
+determined an additional very low-income unit would need to be provided and deed-
+restricted to meet the right-of-first-refusal requirements under the HCA. While this does
+not appear to be reflected in the RUD, it is stated in the memo LAHD sent to HCD. The
+memo states:
+
+      Therefore, to satisfy the HCA replacement requirements, Housing Element law,
+      and the TOC program requirements for Tier 2 incentives, the Project must
+      include two ELI units and one VLI unit, which all must be deed restricted.
+      Additionally, this unit mix will accommodate the existing VLI occupant’s right to
+      return to a VLI unit. Otherwise, the existing occupant will not be eligible to occupy
+      one of the ELI units provided as a condition of the Tier 2 incentives. 11
+
+For right of refusal requirements, the HCA states:
+
+      The developer agrees to provide both of the following to the existing occupants of
+      any protected units that are lower income households:
+
+      (A) Relocation benefits that are equivalent to the relocation benefits required to
+          be paid by public entities pursuant to Chapter 16 (commencing with Section
+          7260) of Division 7 of Title 1 and any implementing regulations.
+
+      (B) A right of first refusal for a comparable unit available in the new housing
+          development, or in any required replacement units associated with a new
+
+
+
+
+10
+   Gov. Code, § 65915, subd. (c)(3)(B)(i)-(ii). SDBL provides an option to provide
+greater affordability with the replacement unit(s). See Encinitas TA letter for further
+information.
+11
+   LAHD Memo to HCD, 5315 North Riverton Avenue – Replacement Units Inquiry, pg.
+3.
+Ashley Atkinson, Director of Asset Management
+Page 5
+
+
+          development that is not a housing development, affordable to the household
+          at an affordable rent or an affordable housing cost. …. 12
+
+While statute requires the developer to provide right of first refusal to existing occupants
+of any protected units that are lower-income households, it does not state that
+comparable units must be deed-restricted in the same manner as protected units for
+replacement purposes under the HCA.
+
+Encinitas Technical Assistance Letter
+
+This same technical assistance was provided in the HCD Encinitas TA letter which
+states:
+
+       The goal of replacement unit requirements is to ensure a proposed housing
+       development project does not result in a reduction to the number of housing units
+       available, including the number of affordable housing units. The goal of the Right
+       of First Refusal requirement is to provide housing opportunities to the households
+       who are being displaced due to the housing development project. In short,
+       replacement requirements address housing units while the Right of First Refusal
+       addresses people. … It is important to note that the term the HCA uses in its
+       Right of First Refusal requirement is “comparable unit,” not “replacement unit.”
+       While replacement units must be deed-restricted, there is no such requirement
+       for comparable units to be deed-restricted. 13
+
+HCD also acknowledges that the Encinitas letter listed a variety of options presented by
+the developer and City specifically for the housing project addressed in the letter. Some
+of those options would require a voluntary agreement between the City and the
+developer. HCD understands the City has reviewed this letter and prefers to select one
+of the options that would include deed-restriction of a comparable unit. These options
+were presented to demonstrate that there are multiple options available that would not
+violate state law, including more conservative options that would involve deed-
+restriction, and would satisfy both replacement and right of first refusal requirements
+under the HCA. However, deed-restriction of units for the purposes of right of first
+refusal is not required to comply with the HCA and therefore something to which the
+Applicant would need to voluntarily agree.
+
+
+
+
+12
+   Gov. Code, § 66300.6, subd. (b)(4).
+13
+   HCD, Letter of Technical Assistance Regarding Replacement Units and Right of First
+Refusal Laws, September 21, 2022,
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/encinitas-
+TA-092122.pdf, pgs. 2-3.
+Ashley Atkinson, Director of Asset Management
+Page 6
+
+
+Local Provisions More Protective of Lower-Income Households – Government
+Code section 66300.6(c)
+
+While the provisions regarding right of first refusal do not state that deed-restriction of
+these units is required, the HCA does allow locally adopted ordinances that are more
+protective of lower-income households to supersede these requirements. The statute
+states:
+
+       This section shall not supersede any objective provision of a locally adopted
+       ordinance that places restrictions on the demolition of residential dwelling units or
+       the subdivision of residential rental units that are more protective of lower-income
+       households, requires the provision of a greater number of units affordable to
+       lower-income households, or that requires greater relocation assistance to
+       displaced households. 14
+
+For the City to impose deed-restriction upon comparable units for the purposes of right
+of first refusal, it may do so through the adoption of a local ordinance that meets the
+requirements listed in this statute. HCD inquired with LAHD as to whether the City
+currently has such an ordinance in place. LAHD referred HCD to pages 7 and 14 of the
+City’s TOC Guidelines and the TOC ordinance (LAMC 12.22.A.31(b)(1)).
+
+The replacement section of the TOC guidelines states:
+
+       Housing Replacement. A Housing Development must meet any applicable
+       housing replacement requirements of California Government Code Section
+       65915(c)(3), as verified by the Department of Housing and Community
+       Investment (HCIDLA) prior to the issuance of any building permit. Replacement
+       housing units required per this section may also count towards other On-Site
+       Restricted Affordable Units requirements. 15
+
+The covenant section of the TOC guidelines states that “a covenant acceptable to the
+Department of Housing and Community Investment (HCIDLA) shall be recorded with
+the Los Angeles County Recorder, guaranteeing that the affordability criteria will be
+observed for at least 55 years….” 16
+
+These policies do not explicitly address the process of right of first refusal, comparable
+units, or state that deed-restriction of units is required for compliance with right-of-first-
+refusal requirements. These policies only appear to address replacement units, which
+are different from right of first refusal as further discussed in the Encinitas TA letter.
+
+
+14
+   Gov. Code, § 66300.6, subd. (c).
+15
+    Transit Oriented Communities Affordable Housing Incentive Program Guidelines
+(TOC Guidelines), pg. 7.
+16
+   Transit Oriented Communities Affordable Housing Incentive Program Guidelines
+(TOC Guidelines), pg. 14.
+Ashley Atkinson, Director of Asset Management
+Page 7
+
+
+Additionally, the covenant section of the TOC guidelines does not address covenants
+for right of first refusal. As such, HCD finds these policies insufficient for the purposes of
+Government Code section 66300.6, subdivision (c). Therefore, while a more
+conservative option to deed-restrict the comparable unit could be mutually selected by
+the developer and City for the subject property, the City cannot enforce the deed-
+restriction of an additional unit as mandatory for compliance with HCA right-of-first-
+refusal requirements based on Government Code section 66330.6, subdivision
+(b)(4)(B), which states that the developer must provide “[a] right of first refusal for a
+comparable unit available in the new housing development, or in any required
+replacement units associated with a new development that is not a housing
+development, affordable to the household at an affordable rent or an affordable housing
+cost. ….”. While HCD acknowledges that the HCA does require that the developer
+provide right of first refusal to existing occupants of any protected units that are lower-
+income households, the statute does not use the term “deed-restricted” and does not
+state that comparable units must be deed-restricted in the same manner as protected
+units for replacement purposes under the HCA. Therefore, the City also cannot delay
+the processing of this Project on this basis.
+
+Additionally, HCD understands that LAHD oversees replacement and right of first
+refusal for all housing development projects city-wide beyond TOC projects. The City
+also cannot enforce the requirement of deed-restriction for right of first refusal for other
+city-wide projects unless an objective provision of a locally adopted ordinance includes
+this requirement per the HCA. 17
+
+HCD acknowledges the importance of tenant protections and affordable housing and
+reminds the City that it can require deed-restriction of units for right of first refusal so
+long as it qualifies as an objective provision of a locally adopted ordinance per
+Government Code section 66300.6, subdivision (c).
+
+Conclusion
+
+HCD looks forward to assisting the City in its compliance with State housing laws and
+reminds the City that HCD has enforcement authority over the HCA among other state
+housing laws. (Gov. Code, § 65585, subd. (j).) Accordingly, HCD may review local
+government actions and inactions to determine consistency with these laws. If HCD
+finds that a city’s actions do not comply with state law, HCD may notify the California
+Office of the Attorney General that the local government is in violation of state law. (Id.)
+
+
+
+
+17
+     See Gov. Code, § 66300.6, subd. (c).
+Ashley Atkinson, Director of Asset Management
+Page 8
+
+
+If you have questions or need additional information, please contact Deepeaka Dhaliwal,
+of our staff, at Deepeaka.Dhaliwal@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief
+
+cc: Marites Cunanan, Senior Management Analyst II
+    Eric Claros, Director of Housing
+    Elaine Zhong, Deputy City Attorney

@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0027041",
+  "case_number": "ADU0009002",
+  "letter_date": "2026-08-28",
+  "jurisdiction": "San Bruno",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66326",
+  "n_statutes": "11",
+  "keywords": "Unit combination | group R occupancy change | parking | size.",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-bruno-adu-ta-100825.pdf",
+  "hcd_letter": "San Bruno Ordinance Findings Letter 08/28/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-bruno-adu-ta-100825.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193701,
+  "text_chars": 9837,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0022262",
+      "case_number": "ADU0006767",
+      "letter_date": "2025-10-08",
+      "jurisdiction": "San Bruno",
+      "letter_type": "Technical Assistance Letter - Repeal Request",
+      "housing_laws": "Accessory Dwelling Unit Law",
+      "statutes": "66316",
+      "n_statutes": "1",
+      "keywords": "ADU Ordinance",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-bruno-adu-ta-100825.pdf",
+      "hcd_letter": "San Bruno Technical Assistance Letter - Repeal Request 10/08/2025",
+      "housing_law": "Accessory Dwelling Unit Law"
+    }
+  ]
+}

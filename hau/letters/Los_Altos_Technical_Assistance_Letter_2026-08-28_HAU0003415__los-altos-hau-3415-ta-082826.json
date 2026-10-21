@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026435",
+  "case_number": "HAU0003415",
+  "letter_date": "2026-08-28",
+  "jurisdiction": "Los Altos",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65009.1(a) | 65580 | 65585(b)(1) | 65585(b)(3) | 65585(d) | 65585(f) | 65585(g) | 65585(h) | 65585(i) | 65585(j)(1) | 65589.5(d)(5)",
+  "n_statutes": "11",
+  "keywords": "Builder's Remedy | governmental constraint | prohousing | voter approval",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-altos-hau-3415-ta-082826.pdf",
+  "hcd_letter": "Los Altos Technical Assistance Letter 08/28/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-altos-hau-3415-ta-082826.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 207166,
+  "text_chars": 8146,
+  "text_empty": false
+}

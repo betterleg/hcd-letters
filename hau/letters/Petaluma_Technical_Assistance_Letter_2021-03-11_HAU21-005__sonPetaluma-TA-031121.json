@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010674",
+  "case_number": "HAU21-005",
+  "letter_date": "2021-03-11",
+  "jurisdiction": "Petaluma",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300",
+  "n_statutes": "1",
+  "keywords": "Climate Emergency | housing crisis act | regional housing need",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sonPetaluma-TA-031121.pdf",
+  "hcd_letter": "Petaluma Technical Assistance Letter 03/11/2021",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sonPetaluma-TA-031121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183335,
+  "text_chars": 5253,
+  "text_empty": false
+}

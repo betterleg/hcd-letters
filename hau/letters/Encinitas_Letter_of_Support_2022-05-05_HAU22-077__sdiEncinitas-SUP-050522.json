@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010748",
+  "case_number": "HAU22-077",
+  "letter_date": "2022-05-05",
+  "jurisdiction": "Encinitas",
+  "letter_type": "Letter of Support",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585(i)(1)(B)",
+  "n_statutes": "1",
+  "keywords": "Letter of Support",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiEncinitas-SUP-050522.pdf",
+  "hcd_letter": "Encinitas Letter of Support 05/05/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiEncinitas-SUP-050522.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 178679,
+  "text_chars": 2868,
+  "text_empty": false
+}

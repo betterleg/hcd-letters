@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0027122",
+  "case_number": "ADU0009056",
+  "letter_date": "2026-09-08",
+  "jurisdiction": "Rancho Palos Verdes",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66326",
+  "n_statutes": "11",
+  "keywords": "architectural standards | local development standards.",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/RanchoPalosVerdesADU-TA082922.pdf",
+  "hcd_letter": "Rancho Palos Verdes Ordinance Findings Letter 09/08/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/RanchoPalosVerdesADU-TA082922.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 216919,
+  "text_chars": 20365,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0024598",
+      "case_number": "ADU0007689",
+      "letter_date": "2022-08-29",
+      "jurisdiction": "Rancho Palos Verdes",
+      "letter_type": "Ordinance Findings Letter",
+      "housing_laws": "Accessory Dwelling Unit Law",
+      "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+      "n_statutes": "12",
+      "keywords": "ADU Ordinance",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/RanchoPalosVerdesADU-TA082922.pdf",
+      "hcd_letter": "Rancho Palos Verdes Ordinance Findings Letter 08/29/2022",
+      "housing_law": "Accessory Dwelling Unit Law"
+    }
+  ]
+}

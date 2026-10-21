@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021035",
+  "case_number": "HAU0002848",
+  "letter_date": "2025-03-17",
+  "jurisdiction": "San Clemente",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "San Clemente Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-clemente-he-rezone-loi-031727.pdf",
+  "hcd_letter": "San Clemente Letter of Inquiry 03/17/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-clemente-he-rezone-loi-031727.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 157679,
+  "text_chars": 4535,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010711",
+  "case_number": "HAU22-077",
+  "letter_date": "2022-04-04",
+  "jurisdiction": "Encinitas",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Affirmatively Further Fair Housing",
+  "statutes": "8899.50",
+  "n_statutes": "1",
+  "keywords": "affirmatively furthering fair housing",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiEncinitas-TA-040422.pdf",
+  "hcd_letter": "Encinitas Technical Assistance Letter 04/04/2022",
+  "housing_law": "Affirmatively Further Fair Housing",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiEncinitas-TA-040422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 213427,
+  "text_chars": 3315,
+  "text_empty": false
+}

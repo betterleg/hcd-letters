@@ -1,0 +1,312 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 21, 2022
+
+
+
+         Jonathan Lait, Director
+         Planning and Development Services
+         City of Palo Alto
+         250 Hamilton Avenue, 5th Floor
+         Palo Alto, CA 94301
+
+         Dear Jonathan Lait:
+
+         RE: City of Palo Alto Accessory Dwelling Unit (ADU) Ordinance – Letter of
+             Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) thanks the
+         City of Palo Alto (City) for submitting accessory dwelling unit (ADU) Ordinance Number
+         5507 (Ordinance) and for its response to HCD’s December 23, 2021, written findings of
+         non-compliance. HCD appreciates the time and effort the City took in crafting its
+         February 3, 2022, response, and for the conversation between City staff and HCD
+         Analyst Lauren Lajoie on February 2, 2022. Nevertheless, HCD has concerns with the
+         City’s response as it fails to address identified inconsistencies between the City’s ADU
+         ordinance and State ADU Law, as outlined in this letter.
+
+         HCD requests that the City respond to this letter no later than January 20, 2023, with a
+         detailed plan of action and timeline, to bring its Ordinance into compliance pursuant to
+         Government Code section 65852.2, subdivision (h)(2)(B).
+
+         Background and Summary of Issues
+         In its December 23, 2021, findings, HCD detailed where it found the Ordinance violates
+         Government Code section 65852.2. In its February 3, 2022, letter, the City responded
+         point by point to the findings as they were presented in the HCD letter. While the
+         responses indicate a willingness to come into compliance with state law, HCD remains
+         concerned that the proposed changes to the City’s Ordinance are insufficient. This letter
+         will address HCD’s findings for which the City’s response and/or commitment to correct
+         was not satisfactory and where HCD still considers an inconsistency between the
+         Ordinance and State ADU Law.
+
+         1) HCD’s Original Finding
+            Daylight Plane - Section 18.09.040(b): Table 2 states that "daylight plane" acts as a
+            limit on the height of ADUs. In many instances, this may not be a problem; however,
+            daylight plane concerns cannot be used to unduly limit the height of an ADU. ADUs
+Jonathan Lait, Director of Planning and Development Services
+Page 2
+
+
+
+   are permitted up to 16 feet high. (Gov. Code, § 65852.2, subds. (c)(2)(C),
+   (e)(1)(B)(ii).) Therefore, in considering restrictions that the City is imposing on ADUs
+   for daylight planes, the ordinance should note the 16-foot height allowable for ADUs.
+   This Table must be amended to clarify this point.
+
+   Palo Alto’s Response
+   “Please note that the City’s daylight plane regulations do not apply to subdivision (e)
+   ADUs, which are governed by PAMC Section 18.09.030. The City will add a
+   clarifying sentence at the top of Section 18.09.040 explaining that none of the
+   regulations in PAMC 18.09.040 apply to subdivision (e) ADUs. In addition, the City
+   will add a clarifying statement that the regulations in PAMC 18.09.040 are not
+   intended to limit the conversion of existing structures to ADUs or JADUs. For all
+   other ADUs; however, the City has requested clarity on HCD’s position on daylight
+   plane on numerous occasions, most recently by email dated August 8, 2021. Please
+   see this email, which is attached, for an explanation of the City’s position. The City
+   looks forward to continued discussion of this topic.”
+
+   HCD’s Follow-up Response
+   On February 23, 2022, HCD received a copy of an email from Assistant City
+   Attorney (ACA) Albert Yang dated August 30, 2021. ACA Yang sought clarification
+   on behalf of the City on whether local government could enforce a development
+   standard that would require that any portion of an ADU fall below 16 feet in height.
+   The email states: ”Subdivision (c)(2)(C) provides that a local agency may not
+   establish “[1] any other minimum or maximum size for an accessory dwelling unit, [2]
+   size based upon a percentage of the proposed or existing primary dwelling, or [3]
+   limits on lot coverage, [4] floor area ratio, [5] open space, and [6] minimum lot size [.
+   . .] that does not permit at least an 800 square foot accessory dwelling unit that is at
+   least 16 feet in height with four-foot side and rear yard setbacks to be constructed in
+   compliance with all other local development standards.” ACA Yang argues that the
+   law is very specific regarding the development standards addressed and it (the
+   subdivision) specifically recognizes that the list does not encompass all development
+   standards. ACA Yang states, “The specific development standards addressed in
+   subdivision (c)(2)(C) do not include daylight plane standards.” ACA Yang impliedly
+   concludes that because the development standards, which ACA Yang numbered
+   from [1] through [6], do not list daylight plane standards, the City may impose
+   daylight plane standards over the minimum 16-foot height requirement.
+
+   However, the City incorrectly cited subdivision (c)(2)(C) above; thereby, creating a
+   list of “development standards” from portions of (c)(2)(A) and (c)(2)(B)(i) and (ii) and
+   conflated these with “other local development standards” found in subdivision
+   (c)(2)(C). Accurately cited, subdivision (c)(2)(C) states:
+
+      (C) Any other minimum or maximum size for an accessory dwelling unit, size based
+      upon a percentage of the proposed or existing primary dwelling, or limits on lot
+Jonathan Lait, Director of Planning and Development Services
+Page 3
+
+
+
+      coverage, floor area ratio, open space, and minimum lot size, for either attached or
+      detached dwellings that does not permit at least an 800 square foot accessory dwelling
+      unit that is at least 16 feet in height with four-foot side and rear yard setbacks to be
+      constructed in compliance with all other local development standards.
+
+   State ADU Law authorizes a local agency to establish the minimum and maximum
+   size requirements for ADUs in subdivision (c)(1), but any such size requirement
+   must allow for a minimum height of 16 feet while being constructed in compliance
+   with all other local development standards. This height requirement is meant to be in
+   harmony with local development standards. Because the subdivision has set the
+   minimum height, authorized by statute, local design standards set in the ordinance
+   cannot invalidate this provision, pursuant to Government Code section 65852.2
+   (a)(5). Therefore, the minimum height of all proposed ADUs is 16 feet and
+   cannot be limited by Daylight Plane restrictions. Table 2 must be amended to
+   clarify this point. Please note that SB 897 (2022), effective January 1, 2023, amends
+   this subdivision, and adds provisions regarding the minimum height for detached
+   and attached ADUs.
+
+2) HCD’s Original Finding
+   Floor Area & JADUs - Section 18.09.040(b): Development standards can account for
+   ADUs in their measurement of the floor area restrictions or ratio (FAR). But these
+   standards may not account for or consider JADUs. A JADU may not be included in
+   this calculation, because a JADU is a unit that is contained entirely within a single-
+   family residence. (Gov. Code § 65852.22, subd. (h)(1).) Footnote 4 of Table 2
+   impermissibly includes JADUs as part of the FAR calculations. This footnote must be
+   amended to clarify this point.
+   Palo Alto’s Response
+   “Footnote 4 of Table 2 provides additional FAR on a site for ADUs and JADUs. This
+   is an incentive to promote production of such units without limiting the development
+   potential of a primary unit. Because a JADU is contained entirely within the space of
+   a single-family residence, it would normally be included in the floor area of the
+   primary unit. Footnote 4 provides an opportunity for a property owner to exempt all
+   JADU square footage from the calculation of floor area for the primary unit. The
+   removal of JADUs from footnote 4 would only serve to restrict the development of
+   JADUs. The City will attempt to clarify the language of this footnote.”
+
+   HCD’s Follow-up Response
+   HCD supports the City’s attempt to add clarifying language. Converting an area
+   within an existing home should not be counted. To clarify footnote 4 in Table 2, the
+   City could include, for example, "This provision applies to JADUs in proposed
+   single-family dwellings, or remodels that increase the square footage of a single-
+   family dwelling.”
+Jonathan Lait, Director of Planning and Development Services
+Page 4
+
+
+
+3) HCD’s Original Finding
+   Noise-Producing Equipment - Section 18.09.040(h): Local agencies may impose
+   development standards on ADUs; however, these standards shall not exceed state
+   standards. Section 18.09.040(h) states that noise-producing equipment “shall be
+   located outside of the setbacks.” This section must be revised to only refer to ADUs
+   since setbacks are not required for JADUs. In addition, this setback for noise-
+   producing equipment for ADUs must be revised to make clear that this setback
+   requirement will not impede the minimum state standards of four-foot setbacks.
+   (Gov. Code, § 65852.2, subd. (c)(2)(C)).
+   Palo Alto’s Response
+   “As noted above, the City will add a clarifying statement that the regulations in
+   PAMC 18.09.040 are not intended to limit the conversion of existing structures to
+   ADUs or JADUs. For new construction; however, the City permits JADUs to build at
+   a lesser setback than a single-family home normally would. Therefore, the removal
+   of JADUs from this section will only serve to restrict the development of JADUs.
+   “Additionally, the City’s ordinance states that noise producing equipment needs to be
+   placed outside the setback for an ADU or JADU. This means that the noise
+   producing equipment itself cannot be placed closer than four feet to a property line
+   for either type of structure; not that the ADU or JADU cannot be placed at those
+   locations. This is consistent with the state setback requirements for an ADU.”
+   HCD’s Follow-up Response
+   JADUs are entirely within the walls of a proposed or existing single-family dwelling
+   and as such not subject to any setback requirements. Therefore, the City should
+   remove the reference to JADU from Section 18.09.040(h). The City writes, “For new
+   construction; however, the City permits JADUs to be built at a lesser setback than a
+   single-family home normally would.” Please clarify this statement for us. HCD
+   applauds the City’s intention to promote JADUs by relaxing setback requirements.
+   However, since setbacks do not apply to JADUs, the City would have to relax the
+   setback requirements for the primary single-family dwelling to achieve the desired
+   effect.
+
+4) HCD’s Original Finding
+   Corner Lots - Section 18.09.040(j) Design: This section states, “Except on corner
+   lots, the unit shall not have an entranceway facing the same lot line (property line) as
+   the entranceway to the main dwelling unit unless the entranceway to the accessory
+   unit is located in the rear half of the lot. Exterior staircases to second floor units shall
+   be located towards the interior side or rear yard of the property.” These standards
+   appear to apply only to the creation of ADUs and may unduly restrict the placement
+   of an ADU on some lots. Local development standards provided by ordinance
+   pursuant to subdivisions (a) through (d) of Government Code section 65852.2 do not
+   apply to ADUs created under subdivision (e). Please consider eliminating this
+   restriction or modifying it such that it applies “when feasible.”
+Jonathan Lait, Director of Planning and Development Services
+Page 5
+
+
+
+
+   Palo Alto’s Response
+   “As noted above, the City will add a clarifying sentence at the top of Section
+   18.09.040 explaining that none of the regulations in PAMC 18.09.040 apply to
+   subdivision (e) ADUs. The City will clarify this is not applicable for subsection (e)
+   ADUs. We are not aware of any evidence that this simple design requirement
+   creates an excessive constraint on ADU production and that has not been our
+   experience.”
+
+   HCD’s Follow-Up Response
+   Requirements such as stipulating the facing of entranceways or the location of
+   stairways may unduly restrict the creation of ADUs on some lots. Statute for both
+   ADUs (Gov. Code, § 65852.2, subd. (e)(1)(A)(ii)) and JADUs (Gov. Code, §
+   65852.22, subd. (a)(5)) require independent entry into the unit, and a constraint on
+   the location of an entry door may prohibit the creation of an additional housing unit.
+   In addition, this requirement could add significant expense if entry doors must be
+   installed in an exterior wall instead of utilizing an existing doorway facing the same
+   direction as the entryway to the primary dwelling. The City must either eliminate this
+   restriction or modify it such that it applies “when feasible.”
+
+5) HCD’s Original Finding
+   Parking - Section 18.09.040(k)(iv) Parking: The ordinance indicates if covered
+   parking for a unit is provided in any district, the maximum size of the covered parking
+   area for the accessory dwelling unit is 220 square feet. Further, under this section,
+   the space for the covered parking count towards the total floor area for the site and
+   the ADU if attached to the unit. Covered parking should not count towards the total
+   floor area of the site as if it would unduly limit the allowable size of an ADU
+   established by state law, nor should it directly count toward the area available for the
+   ADU. Although standards within an underlying zone may apply when noted in the
+   adopted ADU ordinance, they may not be more restrictive than those contained in
+   state statute. (See, e.g., Gov. Code, § 65852.2, subs. (a)(1)(B), (a)(1)(D)(vii),
+   (a)(1)(D)(x), (c), and (e).) The portion of this section stating “unit unless attached to
+   the unit” should be deleted, or the section should otherwise be modified to comply
+   with state law.
+
+   Palo Alto’s Response
+   “As noted above, the City will add a clarifying sentence at the top of Section
+   18.09.040 explaining that none of the regulations in PAMC 18.09.040 apply to
+   subdivision (e) ADUs.
+
+   “Currently, all covered parking in the single-family zones counts towards floor area
+   for the site and dwelling unit. The City does not understand how this creates a
+   standard that is more restrictive than that contained in state statute; none of the
+   subsections cited in your letter speak to whether a garage for an ADU must be
+Jonathan Lait, Director of Planning and Development Services
+Page 6
+
+
+
+   exempted from the unit size for the ADU. Moreover, this provision does not create a
+   constraint on ADU production, as a property owner may always choose to provide a
+   detached garage, uncovered parking, or no parking at all for the ADU.
+
+   “The City has concerns that allowing attached garages onto these structures will
+   incentivize individuals to illegally expand the unit into the garage, which would both
+   exceed the City's ordinance, contain unpermitted construction, and potentially place
+   the health and safety of the occupants at risk.”
+
+   HCD’s Follow-up Response
+   Covered parking does not count towards the total floor area of the ADU. An ADU is
+   defined in Government Code section 65852.2, subdivision (j)(1), as “complete
+   independent living facilities,” and subdivision (j)(4) further specifies that the living
+   area for the ADU “does not include a garage...” Thus, a covered parking space or
+   garage, whether or not attached to a unit, would be considered “non-livable” space.
+   Therefore, as stated in our original finding, covered parking should not count
+   towards the total floor area of the site as it would unduly limit the allowable size of an
+   ADU established by state law. Similarly, it should not directly count toward the area
+   available for the ADU, as this could also restrict the size of the ADU. The addition of
+   garage space to the ADUs livable space would violate ADU size requirements found
+   in Government Code section 65852.2, subdivisions (a)(1)(D)(iv) and (v), and (c).
+
+   While the City raises concerns of potential illegal expansion, the City may not adopt
+   an ordinance that would violate State ADU Law. The City may rely on its
+   enforcement of codes and standards to mitigate its concerns. The City should
+   remove the portion of this section stating “unless attached to the unit” or otherwise
+   modify the section to comply with State ADU Law.
+
+Conclusion
+
+Given the deficiencies described above and in HCD’s December 23, 2021, letter, the
+City’s Ordinance is inconsistent with State ADU Law. HCD requests that the City
+respond to this letter no later than January 20, 2023, with a detailed plan of action and
+timeline, to bring its Ordinance into compliance pursuant to Government Code section
+65852.2, subdivision (h)(2)(B). Specifically, to bring its ADU ordinance into compliance,
+the City must either amend the Ordinance according to HCD’s findings to comply with
+State ADU Law (Gov. Code, § 65852.2, subd. (h)(2)(B)(i)) or readopt the Ordinance
+without changes. Should the City choose to readopt the Ordinance without the changes
+specified by HCD, the City must include findings in its resolution that explain the
+reasons the City finds that the Ordinance complies with State ADU Law despite the
+findings made by HCD. (Gov. Code, § 65852.2, subd. (h)(2)(B)(ii), (h)(3)(A).)
+Jonathan Lait, Director of Planning and Development Services
+Page 7
+
+
+
+HCD will review and consider any plan of action and timeline received from the City
+before January 20, 2023, in advance of taking further action authorized by Government
+Code section 65852.2.
+
+HCD appreciates the City’s efforts provided in the preparation and adoption of the
+Ordinance and welcomes the opportunity to assist the City in fully complying with State
+ADU Law. Please feel free to contact Mike Van Gorder, of our staff, at (916) 776-7541
+or at mike.vangorder@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

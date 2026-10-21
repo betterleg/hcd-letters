@@ -1,0 +1,171 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 12, 2022
+
+
+         David Reyes
+         City of Pasadena
+         Director of Planning and Community Development
+         100 North Garfield Avenue
+         Pasadena, CA 91101
+
+         Dear David Reyes:
+
+         RE: City of Pasadena – Housing Crisis Act, Letter of Inquiry
+
+         The purpose of this letter is to inquire into the City of Pasadena’s (City) recent
+         amendments to its Lincoln Avenue Specific Plan (LASP) and the consistency of that
+         action with the Housing Crisis Act of 2019 (Gov. Code, § 66300). The California
+         Department of Housing and Community Development (HCD) received a complaint in
+         the fall of 2021 in which concerns were raised that certain proposed actions, particularly
+         those involving amendments to the General Plan related to the LASP, may violate state
+         law. HCD staff subsequently reviewed publicly available materials (e.g., City staff
+         reports, resolutions, etc.) and met with both the complainant and City staff. However,
+         neither the written materials reviewed by HCD nor the content of the conversations held
+         between HCD and City staff articulate in sufficient detail the consistency of the City’s
+         actions with state law. This letter identifies three specific City actions associated with
+         the LASP update and poses questions intended to illuminate the City’s process.
+
+         Housing Crisis Act of 2019 - Reductions in Intensity (Gov. Code, § 66300)
+
+         The Housing Crisis Act of 2019 (HCA) limits the ability of a local agency to reduce
+         residential densities in one geographical area (i.e., “to downzone”) without concurrently
+         increasing residential densities elsewhere (i.e., “to upzone”). (Gov. Code, § 66300,
+         subd. (b)(1)(A).) This provision is intended to ensure that no overall net loss of
+         development capacity will occur during the housing crisis. Additionally, this same
+         provision limits the ability of a local agency to add or modify development standards
+         (e.g., building heights, setbacks, etc.) where doing so would have the practical effect of
+         reducing residential development capacity. Specifically, the law provides the following:
+
+                  Changing the general plan land use designation, specific plan land use
+                  designation, or zoning of a parcel or parcels of property to a less intensive use or
+                  reducing the intensity of land use within an existing general plan land use
+David Reyes, Director of Planning and Community Development
+Page 2
+
+
+
+      designation, specific plan land use designation, or zoning district in effect at the
+      time of the proposed change, below what was allowed under the land use
+      designation or zoning ordinances of the affected county or affected city, as
+      applicable, as in effect on January 1, 2018, except as otherwise provided in
+      clause (ii) of subparagraph (B) or subdivision (i). For purposes of this
+      subparagraph, “reducing the intensity of land use” includes, but is not limited to,
+      reductions to height, density, or floor area ratio, new or increased open space or
+      lot size requirements, new or increased setback requirements, minimum frontage
+      requirements, or maximum lot coverage limitations, or any other action that
+      would individually or cumulatively reduce the site’s residential development
+      capacity.
+
+(Gov. Code, § 66300, subd. (b)(1)(A).)
+
+Topic 1: Change in Land Use Designation from Medium Mixed Use to Low Mixed Use
+
+Conversations between HCD and City staff have centered on the increase in residential
+density associated with the upzoning of this portion of the LASP from LASP-CL (Limited
+Commercial) to LA-MU-N (Mixed-Use) in the area between the 1-210 Freeway and Pepper
+Street on the westside of Lincoln Avenue. This change has resulted in an increase in
+residential density from 16 dwelling units per acre to 32 dwelling units per acre. However, the
+underlying General Plan Land Use Designation was changed from Medium Mixed Use to Low
+Mixed Use. This represents a reduction in both the maximum allowable floor area ratios (FAR)
+and residential densities from 0-2.25 FAR and 0-87 du/ac to 0-1.0 FAR and 32 du/ac. HCD
+understands and recognizes that the density and intensity standards contained in the Specific
+Plan (and as integrated into the Zoning Code) are those to which future development must
+conform, but a question remains as to how this reduction in General Plan density and intensity
+comports with the HCA.
+
+Please explain why the City believes that this change in General Plan Land Use Designation is
+consistent with and does not violate the HCA.
+
+Topic 2: Modifications to Development Standards
+
+As shown in Attachment B (Comparison Table of Current and Recommended Standards) to
+the November 15, 2021 City Council Agenda Report, several modifications to the development
+standards of the LA-MU-N Zone district were adopted. Some changes represent an increase in
+the intensity of development, such as increases in FAR and reductions in off-street parking
+requirements. Other changes appear to have resulted in a reduction in the intensity of the
+residential uses. In particular, the following examples are concerning:
+      Street Setbacks. Street setbacks have increased from 1.5-5 feet to 5-10 feet.
+David Reyes, Director of Planning and Community Development
+Page 3
+
+
+
+       Rear Setbacks. Rear setbacks are smaller for ground floor residential uses than for
+       ground floor commercial uses. Given that LA-MU-N is a mixed-use zone located
+       adjacent to a commercial corridor, it seems probable that vertical mixed-use
+       developments will be proposed. If this were to occur, it appears that residential
+       upper floors will be constrained by the smaller footprint of the commercial ground
+       floor.
+       Open Space. Open space requirements increased from 150 square feet per unit to
+       200-275 square feet per unit depending on the number of bedrooms.
+
+As described above, new development standards that would have the practical effect of
+reducing residential development capacity may violate the HCA. (Gov. Code, § 66300,
+subd. (b)(1)(A).) Please explain the methodology used by the City to verify that these
+and other changes are consistent with and do not violate the HCA.
+
+Housing Crisis Act of 2019 - Development Caps (Gov. Code, § 66300)
+
+The HCA contains provisions that limit the ability of a local agency to impose a cap on
+the number of residential units that can be built in a certain area or within a certain time
+frame. Specifically, the law prevents a local agency from establishing or implementing a
+policy that does any of the following:
+
+       (i) Limits the number of land use approvals or permits necessary for the approval and
+       construction of housing that will be issued or allocated within all or a portion of the
+       affected county or affected city, as applicable.
+       (ii) Acts as a cap on the number of housing units that can be approved or constructed
+       either annually or for some other time period.
+       (iii) Limits the population of the affected county or affected city, as applicable.
+
+(Gov. Code, § 66300, subd. (b)(1)(D).)
+
+Topic 3: Development Cap Program
+
+Since at least 2004, the City appears to have maintained a Development Cap program
+associated with each of the eight specific plan areas. Each specific plan area is limited to a
+maximum number of residential units that can be approved. Notably, these development caps
+do not apply to deed-restricted affordable units except for the Fair Oaks/Orange Grove Specific
+Plan.
+
+Please explain why the City believes that its Development Cap program does not violate the
+HCA’s limits on implementing development caps. Is the City currently implementing and
+enforcing its Development Cap program?
+David Reyes, Director of Planning and Community Development
+Page 4
+
+
+
+Conclusion
+
+HCD looks forward to hearing from the City and assisting the City in its compliance
+with the State’s housing laws. HCD would like to remind the City that with the passing
+of AB 215 (Chapter 342, Statutes of 2021), HCD gained enforcement authority over
+the Housing Crisis Act of 2019. Accordingly, HCD may review local government
+actions and inactions to determine consistency with that state law. If HCD finds that a
+city’s actions do not substantially comply with state law, HCD may notify the California
+Office of the Attorney General that the local government is in violation of state law.
+(Gov. Code, § 65585, subd. (j).)
+
+Thank you for your prompt attention to this matter. If you have questions or need
+additional information, please contact Brian Heaton, of our staff, at
+Brian.Heaton@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

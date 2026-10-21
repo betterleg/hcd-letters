@@ -1,0 +1,188 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 2, 2026
+
+
+
+         Brian K. Lee
+         Director of Community Development
+         City of Covina
+         125 E. College Street
+         Covina, CA 91723
+
+         Dear Brian Lee:
+
+         RE: Review of City of Covina’s Accessory Dwelling Unit (ADU) Ordinance under
+             State ADU Law (Gov. Code, §§ 66310–66342)
+
+         Thank you for submitting the City of Covina (City) ADU Ordinance No.25-15
+         (Ordinance), adopted December 2, 2025, to the California Department of Housing and
+         Community Development (HCD). The Ordinance was received on February 2, 2026.
+         HCD has reviewed the Ordinance and submits these written findings pursuant to
+         Government Code section 66326, subdivision (a). HCD finds that the Ordinance fails to
+         comply with State ADU Laws in the manner noted below. Pursuant to Government
+         Code section 66326, subdivision (b)(1), the City has up to 30 days to respond to these
+         findings. Accordingly, the City must provide a written response to these findings no later
+         than July 2, 2026, with a plan to either amend the current ordinance or adopt a
+         resolution with findings. 1 Responses should be submitted formally on agency letterhead.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law as follows:
+
+            1. Please note, there is recent legislation that amended State ADU Law. Language
+               relevant to these changes should be incorporated into the Ordinance as it is
+               updated. The bills referenced below are relevant to State ADU Law:
+
+                       •    Assembly Bill (AB) 130—Effective June 30, 2025
+                       •    AB 462—Effective October 10, 2025
+                       •    AB 1154—Effective January 1, 2026
+                       •    Senate Bill (SB) 9—Effective January 1, 2026
+                       •    SB 543—Effective January 1, 2026
+
+            2. Section 17.69.030 C. – Application Process – The Ordinance states, “The lot shall
+               contain an existing primary unit at the time an application for the ADU or JADU
+
+1 Gov. Code, § 66326, subd. (b)(2)(B).
+Brian Lee, Director of Community Development
+Page 2
+
+
+            shall be submitted, concurrently for the development of the primary unit.” This
+            appears to be a typo. ADUs and JADUs are permitted on a lot with an existing or
+            proposed primary unit. 2 The City must amend the Ordinance to properly account
+            for both scenarios. HCD recommends the City perform additional copyediting, as
+            several other seeming grammatical or typographical errors were found throughout
+            the Ordinance.
+
+         3. Section 17.69.040 A.1. and A2. – Unit Combination – The Ordinance states, “…an
+            ADU allowed under this subparagraph may be combined with a JADU per CMC
+            17.69.050,” and in the following paragraph regarding detached ADUs, “An ADU
+            allowed under this subparagraph may be combined with a JADU per CMC
+            17.69.050.” This appears to entitle an applicant to either a conversion ADU with a
+            JADU or a detached ADU with a JADU. However, Government Code section
+            66323, subdivision (a) states, “Notwithstanding Sections 66314 to 66322,
+            inclusive, a local agency shall ministerially approve an application for a building
+            permit within a residential or mixed-use zone to create any of the following units,
+            or any combination of the following units [emphasis added]:”. Because State
+            ADU Law requires any combination of the relevant unit types, the City must
+            affirmatively provide for all possible combinations of ADUs. This requirement also
+            applies to those ADUs in Sections A.3. and A.4. Therefore, the City must amend
+            the Ordinance to clarify that ADUs built pursuant to CMC § 17.69.040, A.1 and
+            A.2 may be combined, in addition to allowing such ADUs to be combined with a
+            JADU. The City should also clarify that ADUs provided for by § 17.69.040, A.3
+            and A.4 may also be combined.
+
+         4. Section 17.69.050 A. – Number of Units Allowed – The Ordinance states that,
+            “...no more than one ADU and one JADU shall be permitted on any one lot.” The
+            City may impose objective standards on units created pursuant to Government
+            Code section 66314, including numerical limits on those units. 3 However, the City
+            must also allow the full allotment of units permitted by Government Code section
+            66323. The City must amend the Ordinance to clarify that the numerical limit in
+            Section 17.69.050 A. only restricts units created under that section, and does not
+            prevent units created pursuant to Section 17.69.040.
+
+         5. Section 17.69.050 G. – Existing Guest Houses – The Ordinance states that, “A
+            parcel with an existing guest house may not also have an ADU; however, a guest
+            house may be converted to an ADU subject to the provisions of this chapter.” The
+            City’s municipal code (Section 17.04.291) states a guest house “Means living
+            quarters within a detached accessory building located on the same premises with
+            the main building, for use by temporary guests of the occupant of the premises,
+            such quarters having no kitchen facilities and not rented or otherwise used as a
+            separate dwelling unit. A guest house shall be deemed to be an accessory
+            building and subject to all the standards related to accessory buildings.” However,
+
+2 Gov. Code § 66314, subd. (d)(2).
+3 Gov. Code § 66314, subd. (b)(1).
+Brian Lee, Director of Community Development
+Page 3
+
+
+            Government Code section 66314 requires approval of at least one ADU,
+            notwithstanding any other applicable units that may be built on the lot. Therefore,
+            the City must allow at least one ADU under section 66314 regardless of the
+            existence of a guest house. Therefore, the City must remove the provision
+            disallowing ADUs on lots with existing guest houses.
+
+         6. Section 17.69.050 I.4. – Setbacks for two-story ADUs – The Ordinance states,
+            “Side yard and rear yard setbacks of no more than 4 feet from the side and rear
+            lot lines shall be required for an attached or detached ADU, with the exception of
+            two-story ADUs, for which the underlying development standards shall apply.”
+            However, Government Code section 66314, subdivision (d)(7) states that, “…a
+            setback of no more than four feet from the side and rear lot lines shall be required
+            for an accessory dwelling unit that is not converted from an existing structure or a
+            new structure constructed in the same location and to the same dimensions as an
+            existing structure.” State ADU Law does not provide alternative setback
+            requirements for ADUs built to two stories. Setbacks above the first floor, often
+            referred to as “stepbacks,” must not exceed the maximum allowable side and rear
+            setbacks of four feet in State ADU Law. The City must remove this additional
+            setback requirement for ADUs that are two stories.
+
+         7. Section 17.69.050 P.1. – Design Standards – The Ordinance states, “The colors,
+            exterior finishes, and roof pitch of the ADU shall be the same or be similar to the
+            primary dwelling.” However, Government Code section 66314, subdivision (b)(1),
+            allows local jurisdictions to apply only “objective standards on accessory dwelling
+            units.” Objective standards “involve no personal or subjective judgment by a
+            public official and are uniformly verifiable by reference to an external and uniform
+            benchmark or criterion available and knowable by both the development applicant
+            or proponent and the public official prior to submittal.” 4 Terms such as “or similar
+            to” are subjective. The City must eliminate all subjective language and ensure that
+            only objective standards are applied to ADUs developed pursuant to Government
+            Code section 66314. The City should also ensure that the only standards applied
+            to ADUs development pursuant Government Code section 66323 are standards
+            explicitly set forth in that section.
+
+         8. Section 17.69.060 B.2. – JADUs in Garages – The Ordinance states, “A JADU
+            shall be constructed within the walls of the proposed or existing single-family
+            residence.” However, Government Code section 66333, subdivision (d) expands
+            on this allowance to state, “For purposes of this subdivision, enclosed uses within
+            the residence, such as attached garages, are considered a part of the proposed
+            or existing single-family residence.” Therefore, the City must amend the
+            Ordinance to include attached garages as part of the proposed or existing single-
+            family residence.
+
+
+
+4 Gov. Code, § 66313, subd. (i).
+Brian Lee, Director of Community Development
+Page 4
+
+
+      The City has two options in response to this letter. 5 The City can either 1) amend the
+      Ordinance to comply with State ADU Law 6 or 2) adopt the Ordinance without changes
+      and include findings in a resolution accompanying the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings. 7 If the City fails to take either course of action, or if HCD finds that the
+      newly adopted Ordinance remains out of compliance with State ADU Law despite the
+      City’s findings and explanations, HCD must notify the City and may notify the California
+      Office of the Attorney General that the City is in violation of State ADU Law. 8
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact Michael McLaughlin at Michael.McLaughlin@hcd.ca.gov if
+      you have any questions or wish to discuss any of HCD’s findings.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Accountability Unit
+
+
+
+
+5 Gov. Code, § 66326, subd. (b)(2).
+6 Gov. Code, § 66326, subd. (b)(2)(A).
+7 Gov. Code, § 66326, subd. (b)(2)(B).
+8 Gov. Code, § 66326, subd. (c)(1).

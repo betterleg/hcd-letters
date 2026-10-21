@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017119",
+  "case_number": "HAU0002985",
+  "letter_date": "2024-08-14",
+  "jurisdiction": "Loomis",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Loomis Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/loomis-he-rezone-loi-081424.pdf",
+  "hcd_letter": "Loomis Letter of Inquiry 08/14/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/loomis-he-rezone-loi-081424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 162067,
+  "text_chars": 4304,
+  "text_empty": false
+}

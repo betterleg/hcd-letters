@@ -1,0 +1,173 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         April 26, 2024
+
+
+
+         Tennis Wick, Director
+         Permit Sonoma
+         2550 Ventura Avenue
+         Santa Rosa, CA 95403
+
+         Dear Tennis Wick:
+
+         RE: Sonoma County Sonoma Developmental Center – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from Bridget McDonald of Remy Moose Manley, LLP
+         on behalf of Eldridge Renewal, LLC (ER) on January 30, 2024, regarding the application
+         of the State Density Bonus Law (SDBL) (Gov. Code, § 65915), the Housing
+         Accountability Act (HAA) (Gov. Code, § 65589.5), and Sonoma County’s own Affordable
+         Housing Program for Residential Development (Chapter 26, Article 89 of the Sonoma
+         County Code of Ordinances). The purpose of this letter is to provide technical
+         assistance for the benefit of both Sonoma County (County) and ER regarding eligibility
+         of a project to change affordability levels and build more units than would otherwise be
+         allowed by the County’s development standards.
+
+         Background
+
+         HCD understands that the proposed project is located at the site of the former Sonoma
+         Developmental Center (SDC) (15000 Arnold Drive in Eldridge) for people with
+         developmental disabilities. The land is currently owned by the California Department of
+         General Services, which selected ER in April 2023 to purchase, design, and redevelop
+         the 180-acre Core Campus according to the County’s Sonoma Developmental Center
+         Specific Plan (Specific Plan) adopted in December 2022. On August 22, 2023, ER
+         submitted a preliminary application to vest rights for the project under the HAA. At the
+         time, Sonoma County did not have a substantially compliant adopted housing element;
+         HCD found the County’s adopted housing element in substantial compliance on
+         October 26, 2023.
+
+         At the time of the preliminary application submittal on August 22, 2023, the project
+         would provide 620 base units, of which 15 percent would be affordable to very low-
+         income households to qualify for a 50-percent state density bonus (310 units), which
+       Tennis Wick, Director
+       Page 2
+
+
+       would increase the overall unit count to 930 units. Using the SDBL, the project also
+       sought one concession and three waivers to the Specific Plan’s standards. Following
+       the initial submittal of the full application, the five percent of the total units (31 units) that
+       were originally intended to be affordable to moderate-income households were changed
+       to be affordable to lower-income households so that the project would meet the
+       minimum 20-percent lower-income unit threshold pursuant to Government Code section
+       65589.5, subdivision (d)(5) (i.e., the “Builder’s Remedy”). ER requests technical
+       assistance regarding the following five questions:
+
+       Question 1: Does changing project affordability levels without changing unit
+       counts require resubmittal of a preliminary application?
+
+       No, affordability levels can be revised without losing the vesting rights gained via the
+       submittal of a preliminary application. Housing development projects lose vesting rights if
+       “the number of residential units or square footage of construction changes by 20 percent
+       or more,” exclusive of any increase resulting from an SDBL provision. 1 In this case,
+       neither the number of residential units nor the square footage of construction has
+       changed by at least 20 percent; rather, only the level of affordability of some of the units
+       has changed.
+
+       Question 2: Can the project concurrently use the SDBL and the Builder’s
+       Remedy?
+
+       Yes, the project can use both, provided it meets the affordability requirements of both.
+       The provisions of the SDBL and the Builder’s Remedy are not meant to be mutually
+       exclusive. The SDBL is meant to incentivize the production of affordable housing by
+       exchanging bonus units for more affordability, reducing cost barriers to providing
+       affordable housing, and providing relief from development standards that preclude
+       development at allowed densities. The Builder’s Remedy limits the ability of a local
+       government to deny a housing development project when it does not have a compliant
+       housing element.
+
+       Because the project proposes that 15 percent of the base units be affordable to very
+       low-income households, it is eligible for a 50-percent density bonus, three concessions,
+       and the necessary number of waivers. 2
+
+
+
+
+1 Gov. Code, § 65941.1, subd. (c).
+2 Gov. Code, § 65915, subds. (f)(2), (d)(2)(C), and (e)(1).
+      Tennis Wick, Director
+      Page 3
+
+
+      Question 3: Is the Builder’s Remedy’s 20-percent affordability requirement
+      applied to the number of base units or to the combined base and bonus units?
+
+      The 20-percent affordability requirement is applied to the overall number of units in the
+      project, including both base units and bonus units added pursuant to the SDBL.
+      “Housing for very low, low-, or moderate-income households” that is eligible for the
+      Builder’s Remedy is defined as a project where “at least 20 percent of the total units
+      shall be sold or rented to lower income households” (emphasis added) or 100 percent of
+      the units are affordable to moderate-income or middle-income households. 3 The use of
+      “total” means that 20 percent of the overall unit count, inclusive of density bonus units,
+      must be affordable to lower-income households. Although the SDBL defines “total units”
+      as excluding SDBL density bonus units, 4 that definition is limited to the SDBL and does
+      not carry over to the HAA.
+
+      Question 4: Does a local inclusionary zoning requirement that a minimum
+      percentage of a project’s units be affordable apply to density bonus units?
+
+      HCD declines to provide an interpretation on this topic at this time.
+
+      Question 5: Can a project use an SDBL concession to modify a local inclusionary
+      zoning tenancy-based requirement?
+
+      Yes, a concession can be used to modify certain provisions of an inclusionary
+      ordinance. In addition to requiring that a minimum percentage of units in a project are
+      provided as deed-restricted affordable units, inclusionary ordinances sometimes contain
+      other requirements and development standards, such as dispersal requirements, design
+      comparability requirements, mandated proportions of affordability, 5 or (as seen in the
+      subject project) a requirement that a proportion of the affordable units be provided for-
+      sale. An SDBL concession can be used to modify a development standard or zoning
+      code requirement if doing so would result in a construction or operational cost reduction
+      in providing affordable housing (i.e., improve the economic feasibility of the project). 6
+
+      Therefore, the County must consider the applicant’s request to provide the affordable
+      units in the form of rental housing instead of for homeownership and evaluate whether
+      this concession results in identifiable, financially sufficient, and actual cost reductions as
+      required by the SDBL. In order for the County to deny the requested concession, it must
+      make at least one of the three statutorily defined findings of denial. 7
+
+3 Gov. Code, § 65589.5, subd. (h)(3).
+4 Gov. Code, § 65915, subd. (o)(8).
+5 See letter of technical assistance to the City of West Hollywood on September 2, 2022:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/West-Hollywood-TA-
+090222.pdf
+6 Gov. Code, § 65915, subd. (d)(1)(A).
+7 Gov. Code, § 65915, subd. (d)(1).
+Tennis Wick, Director
+Page 4
+
+
+
+Conclusion
+
+HCD has provided an analysis of the relationship between SDBL, the Builder’s Remedy
+of the HAA, and the County Affordable Housing Program for Residential Development in
+the context of the Sonoma Developmental Center. HCD would also like to remind the
+County that HCD has statutory authority to enforce the SDBL and the HAA, among
+other state housing laws. Accordingly, HCD may review local government actions and
+inactions to determine consistency with these laws. If HCD finds that a local
+government’s actions do not comply with state law, HCD may notify the California Office
+of the Attorney General that the local government is in violation of state law (Gov. Code,
+§ 65585, subd. (j)). HCD remains committed to supporting the County in facilitating
+housing and hopes it finds this clarification helpful. If you have questions or need
+additional information, please contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

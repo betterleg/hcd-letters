@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027076",
+  "case_number": "HAU0003372",
+  "letter_date": "2026-08-31",
+  "jurisdiction": "Chino",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "21080.66 | 65589.5 | 65589.5(d)(2) | 65589.5(h)(2) | 65589.5(j)(1) | 65589.5(j)(3) | 65589.5(k)(1)(A)(i) | 65589.5(k)(1)(A)(ii) | 65589.5(k)(1)(B) | 65915(d)(1) | 65915(d)(1)(B)",
+  "n_statutes": "11",
+  "keywords": "Concession",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/chino-hau-3372-ta-083126.pdf",
+  "hcd_letter": "Chino Technical Assistance Letter 08/31/2026",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/chino-hau-3372-ta-083126.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 197578,
+  "text_chars": 13930,
+  "text_empty": false
+}

@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0020378",
+  "case_number": "HAU21-089",
+  "letter_date": "2021-11-22",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65580 | 65583(a)(5) | 65589.5(j)",
+  "n_statutes": "3",
+  "keywords": "5 Hearing Rule | EIR certification | housing element constraints analysis | housing element programs",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sfrSanFrancisco-LOI-TA-112221.pdf",
+  "hcd_letter": "San Francisco Letter of Inquiry 11/22/2021",
+  "housing_law": "Housing Accountability Act, Housing Element Law, Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sfrSanFrancisco-LOI-TA-112221.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 312469,
+  "text_chars": 14430,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0010689",
+      "case_number": "HAU21-071",
+      "letter_date": "2021-11-22",
+      "jurisdiction": "San Francisco",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Accountability Act | Housing Element Law",
+      "statutes": "65588 | 65589.5",
+      "n_statutes": "2",
+      "keywords": "housing element law",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sfrSanFrancisco-LOI-TA-112221.pdf",
+      "hcd_letter": "San Francisco Technical Assistance Letter 11/22/2021",
+      "housing_law": "Housing Element Law, Housing Accountability Act"
+    }
+  ]
+}

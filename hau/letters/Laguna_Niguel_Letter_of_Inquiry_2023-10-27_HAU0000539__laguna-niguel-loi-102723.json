@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0012429",
+  "case_number": "HAU0000539",
+  "letter_date": "2023-10-27",
+  "jurisdiction": "Laguna Niguel",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "noncompliance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/laguna-niguel-loi-102723.pdf",
+  "hcd_letter": "Laguna Niguel Letter of Inquiry 10/27/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/laguna-niguel-loi-102723.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189448,
+  "text_chars": 6696,
+  "text_empty": false
+}

@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0025093",
+  "case_number": "HAU0002535",
+  "letter_date": "2026-03-04",
+  "jurisdiction": "Fountain Valley",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Affirmatively Further Fair Housing | Anti-Discrimination in Land Use Law",
+  "statutes": "12927(c)(1) | 12955(l) | 65008 | 65008(b) | 65008(d)(2)(A) | 65583(a) | 65583(b) | 65583(c) | 8899.50 | 8899.50(a) | 8899.50(b) | 8899.50(c)",
+  "n_statutes": "12",
+  "keywords": "Unlicensed Group Homes | conditional use permit | criminal history | good neighbor policy | grandfathering | group homes | house manager | integral facilities | reasonable accommodations | recovery program | separation requirement | single housekeeping unit | spacing requirement",
+  "n_keywords": "13",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fountain-valley-hau-ta-030326.pdf",
+  "hcd_letter": "Fountain Valley Technical Assistance Letter 03/04/2026",
+  "housing_law": "Affirmatively Further Fair Housing, Anti-Discrimination in Land Use Law, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fountain-valley-hau-ta-030326.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 270979,
+  "text_chars": 42552,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0025092",
+      "case_number": "HAU0002292",
+      "letter_date": "2026-03-04",
+      "jurisdiction": "Fountain Valley",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Affirmatively Further Fair Housing | Anti-Discrimination in Land Use Law",
+      "statutes": "12927(c)(1) | 12955(l) | 65008 | 65008(b) | 65008(d)(2)(A) | 65583(a) | 65583(b) | 65583(c) | 8899.50 | 8899.50(a) | 8899.50(b) | 8899.50(c)",
+      "n_statutes": "12",
+      "keywords": "Unlicensed Group Homes | conditional use permit | criminal history | good neighbor policy | grandfathering | group homes | house manager | integral facilities | reasonable accommodations | recovery program | separation requirement | single housekeeping unit | spacing requirement",
+      "n_keywords": "13",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fountain-valley-hau-ta-030326.pdf",
+      "hcd_letter": "Fountain Valley Technical Assistance Letter 03/04/2026",
+      "housing_law": "Affirmatively Further Fair Housing, Anti-Discrimination in Land Use Law, Housing Element Law"
+    }
+  ]
+}

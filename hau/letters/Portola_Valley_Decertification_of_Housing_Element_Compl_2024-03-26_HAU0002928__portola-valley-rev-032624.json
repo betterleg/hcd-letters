@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0017055",
+  "case_number": "HAU0002928",
+  "letter_date": "2024-03-26",
+  "jurisdiction": "Portola Valley",
+  "letter_type": "Decertification of Housing Element Compliance",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Portola Valley Decertification Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/portola-valley-rev-032624.pdf",
+  "hcd_letter": "Portola Valley Decertification of Housing Element Compliance 03/26/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/portola-valley-rev-032624.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 152400,
+  "text_chars": 2838,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0015438",
+      "case_number": "HAU0000716",
+      "letter_date": "2024-03-26",
+      "jurisdiction": "Portola Valley",
+      "letter_type": "Decertification of Housing Element Compliance",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65588 | 65589.5",
+      "n_statutes": "2",
+      "keywords": "housing element law",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/portola-valley-rev-032624.pdf",
+      "hcd_letter": "Portola Valley Decertification of Housing Element Compliance 03/26/2024",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

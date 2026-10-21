@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026454",
+  "case_number": "ADU0008754",
+  "letter_date": "2026-07-14",
+  "jurisdiction": "Los Altos Hills",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/los-altos-hills-adu-findings-071426.pdf",
+  "hcd_letter": "Los Altos Hills Ordinance Findings Letter 07/14/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/los-altos-hills-adu-findings-071426.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 230224,
+  "text_chars": 6206,
+  "text_empty": false
+}

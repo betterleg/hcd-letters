@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018323",
+  "case_number": "HAU0000485",
+  "letter_date": "2024-03-28",
+  "jurisdiction": "Los Angeles",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Minimum Parking Requirements (AB 2097 of 2022)",
+  "statutes": "21155(b)",
+  "n_statutes": "1",
+  "keywords": "major transit stop",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/losangeles-hau485-ta-03292024.pdf",
+  "hcd_letter": "Los Angeles Technical Assistance Letter 03/28/2024",
+  "housing_law": "Minimum Parking Requirements (AB 2097 of 2022)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/losangeles-hau485-ta-03292024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 206169,
+  "text_chars": 10097,
+  "text_empty": false
+}

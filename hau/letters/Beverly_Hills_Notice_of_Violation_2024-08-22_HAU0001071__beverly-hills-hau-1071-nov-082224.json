@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0016761",
+  "case_number": "HAU0001071",
+  "letter_date": "2024-08-22",
+  "jurisdiction": "Beverly Hills",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "63300 | 65588 | 65589.5",
+  "n_statutes": "3",
+  "keywords": "housing element law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/beverly-hills-hau-1071-nov-082224.pdf",
+  "hcd_letter": "Beverly Hills Notice of Violation 08/22/2024",
+  "housing_law": "Housing Element Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/beverly-hills-hau-1071-nov-082224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 300504,
+  "text_chars": 21308,
+  "text_empty": false
+}

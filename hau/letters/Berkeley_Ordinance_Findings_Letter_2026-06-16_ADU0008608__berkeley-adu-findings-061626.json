@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026184",
+  "case_number": "ADU0008608",
+  "letter_date": "2026-06-16",
+  "jurisdiction": "Berkeley",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/berkeley-adu-findings-061626.pdf",
+  "hcd_letter": "Berkeley Ordinance Findings Letter 06/16/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/berkeley-adu-findings-061626.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 229593,
+  "text_chars": 9215,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020909",
+  "case_number": "HAU0001414",
+  "letter_date": "2025-05-21",
+  "jurisdiction": "Bellflower",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "65852.21(a)",
+  "n_statutes": "1",
+  "keywords": "single-family",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/bellflower-hau-1414-ta-052125.pdf",
+  "hcd_letter": "Bellflower Technical Assistance Letter 05/21/2025",
+  "housing_law": "Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/bellflower-hau-1414-ta-052125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191991,
+  "text_chars": 7924,
+  "text_empty": false
+}

@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0017089",
+  "case_number": "HAU0002935",
+  "letter_date": "2024-05-24",
+  "jurisdiction": "Saint Helena",
+  "letter_type": "Recertification of Housing Element Compliance",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Saint Helena Recertification Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/st-helena-successful-completion-of-revocation-052424.pdf",
+  "hcd_letter": "Saint Helena Recertification of Housing Element Compliance 05/24/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/st-helena-successful-completion-of-revocation-052424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182923,
+  "text_chars": 2600,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0015606",
+      "case_number": "HAU0000712",
+      "letter_date": "2024-05-24",
+      "jurisdiction": "Saint Helena",
+      "letter_type": "Recertification of Housing Element Compliance",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65588 | 65589.5",
+      "n_statutes": "2",
+      "keywords": "housing element law",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/st-helena-successful-completion-of-revocation-052424.pdf",
+      "hcd_letter": "Saint Helena Recertification of Housing Element Compliance 05/24/2024",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

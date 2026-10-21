@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024921",
+  "case_number": "ADU0007833",
+  "letter_date": "2021-01-05",
+  "jurisdiction": "Azusa",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "17620 | 65852.150 | 65852.22",
+  "n_statutes": "3",
+  "keywords": "ADU | school district fees",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/azusa-unified-school-district-adu-ta-010521.pdf",
+  "hcd_letter": "Azusa Technical Assistance Letter 01/05/2021",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/azusa-unified-school-district-adu-ta-010521.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156338,
+  "text_chars": 8342,
+  "text_empty": false
+}

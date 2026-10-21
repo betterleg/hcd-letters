@@ -1,0 +1,320 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY              GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400 Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 13, 2024
+
+
+
+         Salvador Lopez, Jr.
+         Interim Assistant Planning Director
+         City of Malibu
+         23825 Stuart Ranch Road
+         Malibu, California 90265-4861
+
+         Dear Salvador Lopez, Jr:
+
+         RE: Review of Malibu’s Accessory Dwelling Unit (ADU) Ordinance under State
+            ADU Law (Gov. Code, §§ 66313 - 66342)
+
+          Please Note: As of March 25, 2024, with the Chaptering of Senate Bill (SB) 477
+          (Chapter 7, Statutes of 2024), the sections of Government Code relevant to State ADU
+          and junior accessory dwelling unit (JADU) Law have been re-numbered (Enclosure 1).
+
+         Thank you for submitting the City of Malibu (City) ADU Ordinance No. 511 (Ordinance),
+         adopted January 8, 2024, to the California Department of Housing and Community
+         Development (HCD). The Ordinance was received on February 1, 2024. HCD has
+         reviewed the Ordinance and submits these written findings pursuant to Government
+         Code section 66326, subdivision (a). HCD finds that the Ordinance does not comply
+         with State ADU and junior accessory dwelling unit (JADU) Laws in the manner noted
+         below. Pursuant to Government Code section 66326, subdivision (b)(1), the City has up
+         to 30 days to respond to these findings. Accordingly, the City must provide a written
+         response to these findings no later than December 13, 2024.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law in the following respects:
+
+         1. Statutory Numbering – The Ordinance contains several references to code
+            sections that were deleted by SB 477, effective March 25, 2024. These include
+            Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+            these sections were relocated to Government Code, Title 7, Division 1, Chapter
+            13 (sections 66310-66342, see Enclosure). The City must amend the Ordinance
+            to refer to the correct code sections.
+
+         2. Section 17.44.050(C) – Ingress and Egress – The Ordinance states, “Areas with
+            Adequate Ingress and Egress. Since the entire City is located within [sic] a
+            designated “Very High Fire Hazard Severity Zone,” (VHFHSZ) consistent with Los
+Salvador Lopez Jr., Interim Assistant Planning Director
+Page 2
+
+
+   Angeles County Fire Department requirements to ensure adequate ingress and
+   egress for fire safety, a minimum street width of 20 feet shall be required. ADUs are
+   not allowed on parcels that do not have ingress and egress to a street at least 20
+   feet in width.”
+
+   However, Government Code section 66314, subdivision (a) states that an ordinance
+   shall “Designate areas within the jurisdiction of the local agency where accessory
+   dwelling units may be permitted. The designation of areas may be based… on the
+   adequacy of water and sewer services and the impact of accessory dwelling units on
+   traffic flow and public safety.” The ordinance does not designate the specific areas
+   where ADUs are prohibited in accordance with Government Code section 66314,
+   subdivision (a). Additionally, Government Code section 66315 states, “Section
+   66314 establishes the maximum standards that a local agency shall use to evaluate
+   a proposed accessory dwelling unit on a lot that includes a proposed or existing
+   single-family dwelling. No additional standards, other than those provided in Section
+   66314, shall be used or imposed…” The City of Malibu’s adopted Fire Code is the
+   2022 California Fire Code (CFC), not The Los Angeles County Fire Code, as
+   mentioned. These additional standards on single-family ADU development imposed
+   by other policies or regulations are not compliant with State ADU Law.
+
+   Further, while the California Department of Forestry and Fire Protection (CALFIRE)
+   maps establish the VHFHSZ boundaries, the purpose of these maps is not to limit
+   the locations where ADUs or other dwellings may be permitted. Rather, the
+   CALFIRE maps identify areas in which hazard mitigating building design standards
+   will apply. The City may not restrict ADUs pursuant to Government Code section
+   66314 et seq. while simultaneously allowing, through its building and zoning codes,
+   other new residential development, and therefore, the City must remove this
+   requirement.
+
+   Section 17.44.050(D) – Multifamily ADUs – The Ordinance states, “New attached
+   ADUs are not allowed” on multifamily lots. However, Government Code section
+   66314, subdivision (d)(3) states “A local agency may, by ordinance, provide for the
+   creation of accessory dwelling units in areas zoned to allow single-family or
+   multifamily dwelling residential use. The ordinance shall… Require the accessory
+   dwelling units to comply with all of the following:
+
+   The accessory dwelling unit is either attached to, or located within, the proposed or
+   existing primary dwelling, including attached garages, storage areas or similar
+   uses, or an accessory structure or detached from the proposed or existing primary
+   dwelling and located on the same lot as the proposed or existing primary dwelling,
+   including detached garages.”
+
+   ADUs may be attached, converted from existing space, or detached from both
+   single-family and multifamily dwellings. Prohibiting the construction of ADUs
+Salvador Lopez Jr., Interim Assistant Planning Director
+Page 3
+
+
+   attached to multifamily dwellings would not be compliant with State ADU Law.
+   Therefore, the City must remove this provision.
+
+3. Section 17.44.060 – Approvals – The Ordinance states, “Because the City of Malibu
+   lies entirely within the Coastal Zone, every ADU application in the City is subject to
+   an analysis for compliance with the Local Coastal Program (LCP) and Coastal Act
+   before it is reviewed for compliance with this Chapter. If an application for an ADU is
+   not subject to the LCP, then this Chapter governs.” While it is true that Government
+   Code section 66329 states that State ADU Law shall not be “…construed to
+   supersede or in any way alter or lessen the effect or application of the California
+   Coastal Act of 1976…” the City must review all ADU applications for any provisions
+   or attributes which are not addressed within the LCP in compliance with State ADU
+   Law. Only applying the provisions of the LCP to ADU applications is not in
+   compliance with State ADU Law. Therefore, the City must amend this section to
+   clarify that the provisions within State ADU Law are applicable to an application
+   wherever those provisions are not directly in conflict with the provisions of an
+   approved LCP.
+
+4. Section 17.44.070 (B)(2) – Action on Application – The Ordinance states, “When an
+   application to create an ADU or JADU is submitted with a permit application to
+   create a new single-family or multifamily dwelling on the lot, the city may delay
+   acting on the permit application for the ADU or JADU until the city acts on the permit
+   application to create the new single-family or multifamily dwelling…” However,
+   Government Code section 66317, subdivision (a) states, “If the permit application to
+   create or serve an accessory dwelling unit or a junior accessory dwelling unit is
+   submitted with a permit application to create a new single-family or multifamily
+   dwelling on the lot, the permitting agency may delay approving or denying the permit
+   application for the accessory dwelling unit or the junior accessory dwelling unit until
+   the permitting agency approves or denies the permit application to create the new
+   single-family or multifamily dwelling, but the application to create or serve the
+   accessory dwelling unit or junior accessory dwelling unit shall be considered without
+   discretionary review or hearing.” As of January 1, 2023, this provision was amended
+   to clarify that a local agency must “approve or deny” an application within the 60-day
+   timeframe, rather than simply “act” on it. Therefore, the City should amend this
+   section to reflect the requirement to “approve or deny” an application in accordance
+   with State ADU Law.
+
+5. Section 17.44.080 (F)(1) – Separate Sale – The Ordinance states, “Except as
+   otherwise provided in Government Code Section 65852,26, the ADU or JADU may
+   not be sold separately from the primary dwelling.” However, Government Code
+   section 66341, (formerly Government Code section 65852.26), does not include any
+   provisions for the separate sale of JADUs. JADUs may not be sold separately from
+   the primary structure under State ADU Law. Therefore, the City should clarify that
+   there are no circumstances within State ADU Law which allow for the separate sale
+   of a JADU.
+Salvador Lopez Jr., Interim Assistant Planning Director
+Page 4
+
+
+6. Section 17.44.080 (F)(2), (4), (5), and (7) – Deed Restrictions – The Ordinance
+   states, “Prior to issuance of a building permit for an ADU or JADU, a deed restriction
+   must be recorded against the title of the property…” and lists several restrictions
+   which are not in compliance with State ADU Law. Those not in compliance include:
+   “2. The ADU or JADU must remain an ADU unless City approval is obtained to
+   convert the structure to a different accessory structure.
+   4. The ADU or JADU is restricted to the approved size.
+   5. The JADU must be reconverted to be part of the primary residence if the owner
+   does not reside on the property.
+   7. The deed restriction may be removed if the owner eliminates the ADU or JADU,
+   as evidenced by, for example, removal of the kitchen facilities. To remove the deed
+   restriction, an owner may make a written request of the Director, providing evidence
+   that the ADU or JADU has in fact been eliminated. The Director may then determine
+   whether the evidence supports the claim that the ADU or JADU has been eliminated.
+   Appeal may be taken from the Director’s determination consistent with other
+   provisions of this Code. If the ADU or JADU is not entirely physically removed but is
+   only eliminated by virtue of having a necessary component of an ADU or JADU
+   removed, the remaining structure and improvements must otherwise comply with
+   applicable provisions of this Code.”
+
+   However, no deed restrictions, other than for those items explicitly mentioned within
+   Articles 2, 3, and 4 of Chapter 13, Division 1, Title 7 of the Government Code may
+   be applied to ADUs or JADUs. Government Code section 66333, subdivision (b),
+   removes the owner-occupancy requirement for JADUs when the owner is a
+   governmental agency, land trust, or housing organization. JADU deed restrictions
+   may include a maximum size of 500 square feet for a JADU, among other
+   restrictions on attributes which conform to article 3, pursuant to Government Code
+   section 66333, subdivision (c). Therefore, the City must remove these excessive
+   deed restriction requirements.
+
+7. Section 17.44.080 (I) – Height – The Ordinance states, “No ADU subject to this
+   Chapter may exceed 16 feet in height above grade, as measured from existing or
+   finished legal grade, whichever results in the lower building height…” However,
+   section 202 of the 2022 California Building Code (CBC) defines ‘Height, Building’ as
+   “The vertical distance from grade plane to the average height of the highest roof
+   surface.” Additionally, the City of Malibu Municipal Code does not amend this
+   definition pursuant to section 1.8.6 of the CBC and may not erroneously apply it
+   exclusively to the construction of ADUs. Therefore, the City must amend this section
+   to reflect a definition of “height” that is consistent with the CBC.
+
+8. Section 17.44.090 (A)(1) – Ceiling Height – The Ordinance states, “The maximum
+   square footage shall include interior and exterior walls, finished and unfinished
+   basements, mezzanines, storage space, and any space with a height clearance
+Salvador Lopez Jr., Interim Assistant Planning Director
+Page 5
+
+
+   (floor to ceiling height dimension) above six feet.” However, section 1208.2 of the
+   CBC states “Occupiable spaces, habitable spaces and corridors shall have a ceiling
+   height of not less than 7 feet 6 inches above the finished floor. Bathrooms, toilet
+   rooms, kitchens, storage rooms and laundry rooms shall have a ceiling height of not
+   less than 7 feet above the finished floor.”
+
+   Additionally, Section R305.1 of the 2022 California Residential Code (CRC), which
+   applies to one- and two-family dwellings, states, “Habitable space, hallways and
+   portions of basements containing these spaces shall have a ceiling height of not less
+   than 7 feet. Bathrooms, toilet rooms and laundry rooms shall have a ceiling height of
+   not less than 6 feet 8 inches.” The City of Malibu Municipal Code does not include
+   amendments to these provisions pursuant to section 1.8.6 of the CBC and may not
+   erroneously apply it exclusively to the construction of ADUs. Therefore, the City
+   must amend this section to reflect a size calculation that is consistent with the
+   CBC/CRC.
+
+9. Section 17.44.090 (A)(2), (A)(3) – Size, Attached – The Ordinance states, “An ADU
+   that is attached to the primary dwelling is limited to 50 percent of the existing primary
+   dwelling …. Application of other development standards in this Section 17.44.090
+   might further the [sic] limit the size of the ADU, but no application of an FAR, front-
+   setback, lot-coverage, or open-space requirement may require the ADU to be less
+   than 800 square feet.” However, Government Code section 66321, subdivision (b)(3)
+   states, “a local agency shall not establish by ordinance… Any requirement for a
+   zoning clearance or separate zoning review or any other minimum or maximum size
+   for an accessory dwelling unit, size based upon a percentage of the proposed or
+   existing primary dwelling, or limits on lot coverage, floor area ratio, open space, front
+   setbacks, and minimum lot size, for either attached or detached dwellings that does
+   not permit at least an 800 square foot accessory dwelling unit with four-foot side and
+   rear yard setbacks to be constructed in compliance with all other local development
+   standards.” An attached ADU may be 800 square feet in size regardless of the size
+   of the primary unit, as long as it remains compliant with other objective development
+   standards other than those listed. Restricting the size of attached ADUs to less than
+   800 square feet directly conflicts with Government Code section 66321, subdivision
+   (b)(3). Therefore, the City must amend this section to reflect the 800 square foot
+   exemption.
+
+10. Section 17.44.090 (D)(2) – Parking Exceptions – The Ordinance states, “No parking
+    under subsection (E)(1)[sic] above is required in the following situations…” However,
+    there is no subsection (E)(1) to reference. The general parking standards appear to
+    be subsection (D)(1). Therefore, the City should amend this section to correct the
+    reference.
+      Salvador Lopez Jr., Interim Assistant Planning Director
+      Page 6
+
+
+      Please note that the City has two options in response to this letter. 1 The City can either
+      amend the Ordinance to comply with State ADU Law 2 or adopt the Ordinance without
+      changes and include findings in its resolution adopting the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings. 3 If the City fails to take either course of action and bring the Ordinance
+      into compliance with State ADU Law, HCD must notify the City and may notify the
+      California Office of the Attorney General that the City is in violation of State ADU Law. 4
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU and JADU
+      Law. Please feel free to contact Tyler Galli, of our staff, at (916) 776-7613 or at
+      Tyler.Galli@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Senior Housing Accountability Manager
+      Housing Policy Development Division
+
+      Enclosure
+
+
+
+
+1 Gov. Code, § 66326, subd. (c)(1).
+2 Gov. Code, § 66326, subd. (b)(2)(A).
+3 Gov. Code, § 66326, subd. (b)(2)(B).
+4 Gov. Code, § 66326, subd. (c)(1).
+                  State ADU/JADU Law Statutory Conversion Table
+
+
+
+New Government Code Sections            Previous Government Code Sections
+                        Article 1. General Provisions
+66310                                   65852.150 (a)
+66311                                   65852.150 (b)
+66312                                   65852.150 (c)
+66313                                   General Definition Section
+                                        65852.2 (j)
+                                        65852.22 (j)
+               Article 2. Accessory Dwelling Unit Approvals
+66314                                   65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5)
+66315                                   65852.2 (a)(8)
+66316                                   65852.2 (a)(6)
+66317                                   65852.2 (a)(3), (a)(7)
+66318                                   65852.2 (a)(9), 65852.2 (a)(2)
+66319                                   65852.2 (a)(10)
+66320                                   65852.2 (b)
+66321                                   65852.2 (c)
+66322                                   65852.2 (d)
+66323                                   65852.2 (e)
+66324                                   65852.2 (f)
+66325                                   65852.2 (g)
+66326                                   65852.2 (h)
+66327                                   65852.2 (i)
+66328                                   65852.2 (k)
+66329                                   65852.2 (l)
+66330                                   65852.2 (m)
+66331                                   65852.2 (n)
+66332                                   65852.23.
+                Article 3. Junior Accessory Dwelling Units
+66333                                   65852.22 (a)
+66334                                   65852.22 (b)
+66335                                   65852.22 (c)
+66336                                   65852.22 (d)
+66337                                   65852.22 (e)
+66338                                   65852.22 (f)-(g)
+66339                                   65852.22 (h)
+                 Article 4. Accessory Dwelling Unit Sales
+66340                                   65852.26 (b)
+66341                                   65852.26 (a)
+66342                                   65852.2 (a)(10)

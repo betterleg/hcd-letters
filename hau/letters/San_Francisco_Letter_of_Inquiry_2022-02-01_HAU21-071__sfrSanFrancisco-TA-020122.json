@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0010728",
+  "case_number": "HAU21-071",
+  "letter_date": "2022-02-01",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sfrSanFrancisco-TA-020122.pdf",
+  "hcd_letter": "San Francisco Letter of Inquiry 02/01/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sfrSanFrancisco-TA-020122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 152915,
+  "text_chars": 4667,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0010693",
+      "case_number": "HAU21-089",
+      "letter_date": "2022-02-01",
+      "jurisdiction": "San Francisco",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65583(a)(5)",
+      "n_statutes": "1",
+      "keywords": "Housing element policies | housing element constraints analysis | programs | review processes",
+      "n_keywords": "4",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sfrSanFrancisco-TA-020122.pdf",
+      "hcd_letter": "San Francisco Technical Assistance Letter 02/01/2022",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

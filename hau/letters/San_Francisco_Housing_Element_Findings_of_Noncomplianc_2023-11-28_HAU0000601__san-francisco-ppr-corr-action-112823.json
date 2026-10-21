@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0012782",
+  "case_number": "HAU0000601",
+  "letter_date": "2023-11-28",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Housing Element Findings of Noncompliance/ Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-ppr-corr-action-112823.pdf",
+  "hcd_letter": "San Francisco Housing Element Findings of Noncompliance/ Corrective Action 11/28/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-ppr-corr-action-112823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 208582,
+  "text_chars": 10620,
+  "text_empty": false
+}

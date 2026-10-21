@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024246",
+  "case_number": "ADU0007508",
+  "letter_date": "2024-06-25",
+  "jurisdiction": "Aliso Viejo",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/aliso-viejo-adu-findings-062524.pdf",
+  "hcd_letter": "Aliso Viejo Ordinance Findings Letter 06/25/2024",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/aliso-viejo-adu-findings-062524.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 282044,
+  "text_chars": 39494,
+  "text_empty": false
+}

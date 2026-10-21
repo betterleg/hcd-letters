@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022442",
+  "case_number": "ADU0006828",
+  "letter_date": "2025-10-14",
+  "jurisdiction": "San Clemente",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "Architectural Review | Deed Restriction | Parking Requirements | Unit Allowance | Unpermitted Units | owner occupancy",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-clemente-adu-findings-101425.pdf",
+  "hcd_letter": "San Clemente Ordinance Findings Letter 10/14/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-clemente-adu-findings-101425.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 154138,
+  "text_chars": 12503,
+  "text_empty": false
+}

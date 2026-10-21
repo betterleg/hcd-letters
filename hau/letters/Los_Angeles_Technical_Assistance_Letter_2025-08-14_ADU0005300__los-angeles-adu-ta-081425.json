@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024053",
+  "case_number": "ADU0005300",
+  "letter_date": "2025-08-14",
+  "jurisdiction": "Los Angeles",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/los-angeles-adu-ta-081425.pdf",
+  "hcd_letter": "Los Angeles Technical Assistance Letter 08/14/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/los-angeles-adu-ta-081425.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 204253,
+  "text_chars": 8625,
+  "text_empty": false
+}

@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0022279",
+  "case_number": "ADU0006785",
+  "letter_date": "2025-10-08",
+  "jurisdiction": "Moorpark",
+  "letter_type": "Technical Assistance Letter - Repeal Request",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66316",
+  "n_statutes": "1",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/hemet-adu-ta-100825.pdf",
+  "hcd_letter": "Moorpark Technical Assistance Letter - Repeal Request 10/08/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/hemet-adu-ta-100825.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 198351,
+  "text_chars": 9885,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0022278",
+      "case_number": "ADU0006784",
+      "letter_date": "2025-10-08",
+      "jurisdiction": "Hemet",
+      "letter_type": "Technical Assistance Letter - Repeal Request",
+      "housing_laws": "Accessory Dwelling Unit Law",
+      "statutes": "66316",
+      "n_statutes": "1",
+      "keywords": "",
+      "n_keywords": "0",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/hemet-adu-ta-100825.pdf",
+      "hcd_letter": "Hemet Technical Assistance Letter - Repeal Request 10/08/2025",
+      "housing_law": "Accessory Dwelling Unit Law"
+    }
+  ]
+}

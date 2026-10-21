@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0025654",
+  "case_number": "HAU0000178",
+  "letter_date": "2023-01-12",
+  "jurisdiction": "Fillmore",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "By-Right Supportive Housing Provisions | Housing Accountability Act",
+  "statutes": "65589.5 | 65650-65656",
+  "n_statutes": "2",
+  "keywords": "SB 35 | fillmore | housing accountability act",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/FillmoreNOPV012223.pdf",
+  "hcd_letter": "Fillmore Notice of Potential Violation 01/12/2023",
+  "housing_law": "Housing Accountability Act, By-Right Supportive Housing Provisions, Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/FillmoreNOPV012223.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 192865,
+  "text_chars": 11839,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0010737",
+      "case_number": "HAU22-051",
+      "letter_date": "2023-01-12",
+      "jurisdiction": "Fillmore",
+      "letter_type": "Notice of Potential Violation",
+      "housing_laws": "By-Right Supportive Housing Provisions | Housing Accountability Act",
+      "statutes": "65589.5(f)(1) | 65650-65656",
+      "n_statutes": "2",
+      "keywords": "Consistency Review | application completeness | by-right supportive housing | objective standards",
+      "n_keywords": "4",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/FillmoreNOPV012223.pdf",
+      "hcd_letter": "Fillmore Notice of Potential Violation 01/12/2023",
+      "housing_law": "By-Right Supportive Housing Provisions, Housing Accountability Act"
+    }
+  ]
+}

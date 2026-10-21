@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0016480",
+  "case_number": "HAU0000719",
+  "letter_date": "2024-03-19",
+  "jurisdiction": "San Jose",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "Housing Accountability Act | Portions of the Permit Streamlining Act",
+  "statutes": "65580 | 65585(i) | 65585(j) | 65589.5(d) | 65589.5(d)(5) | 65589.5(e) | 65589.5(h)(3) | 65589.5(h)(5) | 65589.5(h)(6) | 65589.5(o)(1) | 65941.1",
+  "n_statutes": "11",
+  "keywords": "builders remedy | vesting preliminary application",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-jose-hau-719-nopv-031924.pdf",
+  "hcd_letter": "San Jose Notice of Potential Violation 03/19/2024",
+  "housing_law": "Housing Accountability Act, Portions of the Permit Streamlining Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-jose-hau-719-nopv-031924.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 700876,
+  "text_chars": 27343,
+  "text_empty": false
+}

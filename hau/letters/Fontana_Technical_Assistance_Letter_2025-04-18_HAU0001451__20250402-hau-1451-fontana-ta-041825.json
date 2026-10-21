@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020410",
+  "case_number": "HAU0001451",
+  "letter_date": "2025-04-18",
+  "jurisdiction": "Fontana",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300",
+  "n_statutes": "1",
+  "keywords": "No net loss",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/20250402-hau-1451-fontana-ta-041825.pdf",
+  "hcd_letter": "Fontana Technical Assistance Letter 04/18/2025",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/20250402-hau-1451-fontana-ta-041825.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 214280,
+  "text_chars": 9564,
+  "text_empty": false
+}

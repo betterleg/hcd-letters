@@ -1,0 +1,385 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 10, 2025
+
+
+
+         Jason Crawford, Director of Community Development
+         Planning Department
+         City of Santa Clarita
+         23920 Valencia Blvd.
+         Santa Clarita, CA 91355
+
+         Dear Jason Crawford:
+
+         RE: Review of Santa Clarita’s Accessory Dwelling Unit (ADU) Ordinance under
+            State ADU Law (Gov. Code, §§ 66310 - 66342) and SB9 Ordinance under State
+            SB9 Law (Gov. Code, §§ 65852.21, 66411.7)
+
+         Thank you for submitting the City of Santa Clarita (City) ADU Ordinance (Ordinance)
+         No. 25-1 and the SB 9 Ordinance No. 22-2, adopted May 27, 2025, to the California
+         Department of Housing and Community Development (HCD). HCD has reviewed the
+         Ordinance consistency with State ADU Law and Senate Bill (SB) 9 Law. The
+         Department submits these written findings pursuant to Government Code section
+         66326, subdivision (a) and Government Code section 65585, subdivision (j).
+
+         HCD finds that the Ordinance fails to comply with State ADU Law and SB 9 in the
+         manner noted below. Pursuant to state law, the City has up to 30 days to respond to
+         these findings. Accordingly, the City must provide a written response to these findings
+         no later than January 9, 2025.
+
+         SB9 Findings
+
+            1. Section 17.57.025 B. – Single SB9 Development – The Ordinance states, “For
+               purposes of [SB9 Unit Approvals] a two (2) unit residential development
+               contains two (2) residential units if the development proposes two (2) new units
+               or if it proposes to add one (1) new unit to one (1) existing unit.”
+                 This suggests that only the second primary dwelling constructed on a lot would
+                 be considered an SB9 unit and thus eligible for review under SB 9. However,
+                 Government Code section 65852.21, subdivision (a) states that, “A proposed
+                 housing development containing no more than two residential units within a
+                 single-family residential zone shall be considered ministerially, if the proposed
+                 housing development meets all of the following requirements...”. Therefore, SB 9
+                 is applicable in a scenario where construction results in either one or two primary
+Jason Crawford, Director of Community Development
+Page 2
+
+
+     dwelling units on a lot. Both the first and the second primary dwelling unit
+     constructed on a lot are eligible for SB 9. The Ordinance must be modified to
+     clarify that both first and second primary dwelling units, or up to two primary
+     dwelling units, are eligible for SB 9 processes and applicable development
+     standards.
+  2. Section 17.57.025 B.1 – 25% Existing Walls – The Ordinance states, “No more
+     than twenty-five percent (25%) of the existing exterior structural walls shall be
+     demolished to create the two (2) unit residential development…” This
+     requirement reflects outdated SB9 Law; with the adoption of SB 450 (Chapter
+     286, Statutes of 2024) the 25% demolition restriction has been removed. The
+     City must remove this stipulation from the Ordinance to become consistent with
+     SB 9.
+
+  3. Section 17.57.025 B.1, B.2 and 16.28.050 C - Maximum Size – The Ordinance
+     restricts duplex units and units on split lots to 800 square feet. However,
+     Government Code section 65852.21, subdivision (b)(3) states “A local agency
+     shall not impose objective zoning standards, objective subdivision standards,
+     and objective design standards that do not apply uniformly to development
+     within the underlying zone.” There does not appear to be a size restriction on
+     residential development in the underlying zone, and therefore the size restriction
+     for SB 9 units must be removed.
+
+  4. Section 17.57.025 B.4. – ADUs and Duplexes – The Ordinance states, “Neither
+     Accessory Dwelling Units nor junior accessory dwelling units shall be permitted
+     on a parcel if a two (2) unit development is proposed or has been approved.”
+     However, Government Code section 65852.21, subdivision (b)(3) states, “A
+     local agency shall not impose objective zoning standards, objective subdivision
+     standards, and objective design standards that do not apply uniformly to
+     development within the underlying zone.” A restriction on ADUs specific to
+     duplexes created under SB9 is inconsistent with this section and is a reduction
+     in the intensity of land use per Government Code section 66300, subdivision
+     (b)(1)(A). The City must remove this section.
+
+  5. Section 17.57.025 D.4 and 16.28.050 L. – Height – The Ordinance restricts SB
+     9 units to, “no more than one (1) story and shall not exceed sixteen (16) feet in
+     height… a second unit shall not be constructed as a second story on top of an
+     existing unit.” However, the underlying height allowance is two stories and 35
+     feet [per 17.57.020 (C).] Therefore, this section is inconsistent with Government
+     Code section 65852.21, subdivision (b)(3) and section 66300, subdivision
+     (b)(1)(A) and must be removed from the Ordinance.
+
+  6. Section 17.57.025 D.8. – Owner Occupancy – The Ordinance states, “one (1) of
+     the dwellings on the lot must be the bona fide principal residence of at least one
+     (1) legal owner of the lot containing the dwelling, as evidenced at the time of
+     approval of the two (2) unit residential development… prior to issuance of a
+Jason Crawford, Director of Community Development
+Page 3
+
+
+     building permit, the applicant shall provide evidence that… a covenant has been
+     recorded…” However, Government Code section 65852.21, subdivision (b)(3)
+     states, “A local agency shall not impose objective zoning standards, objective
+     subdivision standards, and objective design standards that do not apply
+     uniformly to development within the underlying zone.” Owner occupancy does
+     not appear to be required in the underlying residential zoning, and therefore, the
+     City must remove this section.
+
+  7. Section 17.57.025 D.17. – Affordability Requirement – The Ordinance states, “At
+     least one (1) unit in a two (2) unit residential development shall be income
+     restricted for a period of fifty-five (55) years to provide for lower income
+     households…” As income restriction does not appear to be required in the
+     underlying residential zoning, the requirement is inconsistent with Government
+     Code section 65852.21, subdivision (b)(3) and City must remove this section.
+
+  8. Section 17.57.025 H. – Deed Restriction/Covenant – The Ordinance requires
+     that, “…the property owner shall record a two (2) unit residential development
+     covenant with the County Recorder’s Office…” However, Government Code
+     section 65852.21, subdivision (b)(3) states, “A local agency shall not impose
+     objective zoning standards, objective subdivision standards, and objective
+     design standards that do not apply uniformly to development within the zone a
+     requirement that would constrain future unit development.” Therefore, deed
+     restrictions and affordability covenants are inconsistent with SB 9 and must be
+     removed from the Ordinance.
+
+  9. Section 17.57.025 E. – Objective Design Standards – The Ordinance states,
+     “Any construction of a two (2) unit residential development shall comply with the
+     adopted two (2) unit residential development design standards.” This appears
+     to refer to Section 17.57.020 and thereby applies underlying zoning standards.
+     However, the underlying zoning standards contain subjective standards (e.g.
+     Section 17.57.020 F, “shall reflect the character of surrounding homes”) which
+     are inconsistent with the objective standards required by Government Code
+     section 65852.21, subdivision (b)(1) and (j)(2). The City must amend the
+     Ordinance to require only objective standards in the consideration of an SB 9
+     application.
+
+  10. Multiple Sections – Underlying Zoning Standard Inquiries – The Ordinance
+      applies the standards below to SB 9 unit development. However, Government
+      Code 65852.21 states that, “A local agency shall not impose objective zoning
+      standards, objective subdivision standards, and objective design standards that
+      do not apply uniformly to development within the underlying zone.” These
+      standards do not appear to apply to the underlying zone and therefore must be
+      removed from the Ordinance:
+Jason Crawford, Director of Community Development
+Page 4
+
+
+          i. Section 17.57.025 C.5. – Fire Hazard Restrictions – “Where a lot or any
+             portion thereof is located in a high fire hazard severity zone, as defined
+             by the Los Angeles County Fire Department, a two (2) unit residential
+             development shall be prohibited on the lot unless it either fronts a
+             highway and vehicles enter directly from the highway (as defined in
+             Table C-2 of the General Plan Circulation Element), or it has two (2)
+             means of direct vehicular access to a highway that meet the following
+             requirements.”
+         ii. Section 17.57.025 D.5. – Outdoor Space – “A minimum of six hundred
+             fifty (650) square feet of outdoor yard space shall be provided for each
+             unit in a two (2) unit residential development. Land required for front
+             yard setbacks, or occupied by buildings, driveways, or parking spaces
+             may not be counted in satisfying this outdoor space requirement.”
+         iii. Section 17.57.025 D.12. – Sprinklers – “Two (2) unit residential
+              developments shall be required to provide fire sprinklers.”
+         iv. Section 17.57.025 D.13. – Trash Collection – “Each unit in a two (2) unit
+             residential development shall be required to provide space for three (3)
+             ninety (90) gallon trash carts. Trash carts must be stored out of public
+             view from the street and may not be located within the required front
+             yard setback.”
+
+
+ADU Findings
+
+
+  1. Statutory Numbering - The Ordinance contains several references to code
+     sections that were deleted by SB 477, effective March 25, 2024. These include
+     Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+     these sections were relocated to Government Code, Title 7, Division 1, Chapter
+     13 (sections 66310-66342, see Enclosure). The City must amend the Ordinance
+     to refer to the correct Government Code sections.
+
+  2. New ADU Legislation – Please note there is recent ADU Legislation that has
+     passed. The City County should review the changes made to State ADU Law,
+     as a result of this legislation. Assembly and Senate Bills (AB and SB) recently
+     passed affecting State ADU Law include:
+           •   SB 9 (Chapter 510 Statutes of 2025)
+           •   SB 543 (Chapter 520, Statutes of 2025)
+           •   AB 130 (Chapter 22, Statutes of 2025)
+           •   AB 462 (Chapter 491, Statutes of 2025)
+           •   AB 1154 (Chapter 507, Statutes of 2025)
+Jason Crawford, Director of Community Development
+Page 5
+
+
+  3. Section 17.57.040 L.2.a.iii. – “Legally Built” – The Ordinance requires no
+     maximum size for converted units created in a “legally built accessory structure”.
+     However, Government Code section 66323, subdivision (c) states, "A local
+     agency shall not require, as a condition for ministerial approval of a permit
+     application for the creation of an accessory dwelling unit or a junior accessory
+     dwelling unit, the correction of nonconforming zoning conditions." Therefore,
+     units created in structures that the City does not consider "legally built accessory
+     structures" may not be precluded by a maximum size requirement. The City
+     must amend the Ordinance to exempt all conversions from size requirements.
+
+  4. Section 17.57.040 L.2.c. – Setbacks – The Ordinance states “All other setbacks
+     shall be subject to the underlying zoning. ADUs shall comply with corner and
+     reverse corner setbacks unless it can be demonstrated that a four (4) foot
+     setback does not create a safety hazard.” There are two issues with this section.
+     Government Code section 66321, subdivision (b)(3) prohibits “Any requirement
+     for a zoning clearance or separate zoning review [for] front setbacks… for
+     either attached or detached dwellings that does not permit at least an 800
+     square foot accessory dwelling unit with four-foot side and rear yard setbacks to
+     be constructed in compliance with all other local development standards.” The
+     City must include an exception to front setbacks for units 800 square feet or
+     smaller.
+
+     Additionally, Government Code section 66314, subdivision (a)(7) states, “No
+     setback shall be required for an existing living area or accessory structure or a
+     structure constructed in the same location and to the same dimensions as an
+     existing structure that is converted to an accessory dwelling unit or to a portion
+     of an accessory dwelling unit, and a setback of no more than four feet from the
+     side and rear lot lines shall be required for an accessory dwelling unit that is not
+     converted from an existing structure or a new structure constructed in the same
+     location and to the same dimensions as an existing structure.” These
+     development standards reference only side and rear setbacks; the terms “corner
+     setback” and “reverse corner setback” do not appear in State ADU Law and
+     these terms may not be applied as a development standard. The City must
+     remove these terms from the Ordinance.
+
+  5. Section 17.57.040 L.2.f. – Parking Exception – The Ordinance creates parking
+     exceptions but omits reference to the conditions described in Government Code
+     section 66332, subdivision (a)(6): “[A local agency shall not impose any parking
+     standards for an ADU . . .] When a permit application for an accessory dwelling
+     unit is submitted with a permit application to create a new single-family dwelling
+     or a new multifamily dwelling on the same lot, provided that the accessory
+     dwelling unit or the parcel satisfies any other criteria listed in this subdivision.”
+     The City must add this exception to become consistent with State ADU Law.
+Jason Crawford, Director of Community Development
+Page 6
+
+
+  6. Section 17.57.040 L.2.f.ii. – JADUs and Replacement Parking – The Municipal
+     Code states “replacement parking is required for the primary unit where a junior
+     accessory dwelling unit is constructed in an attached garage.” However,
+     Government Code section 66334 states “A junior accessory dwelling unit
+     ordinance adopted pursuant to Section 66333 shall not require additional
+     parking as a condition to grant a permit.” Therefore, the City must remove this
+     parking requirement.
+
+  7. Section 17.57.040 L.2.g. – Subjective Language – The Ordinance states
+     “Architecture of the accessory dwelling unit shall be compatible with that of the
+     primary dwelling unit…” However, Government Code section 66314, subdivision
+     (b) requires “objective standards on accessory dwelling units”, which are defined
+     in section 66313, subdivision (i) as “standards that involve no personal or
+     subjective judgment by a public official and are uniformly verifiable by reference
+     to an external and uniform benchmark or criterion available and knowable by
+     both the development applicant or proponent and the public official prior to
+     submittal.” The term “compatible” is subjective, which is inconsistent with State
+     ADU Law. The City must only include subjective standards in this section.
+
+  8. Section 17.57.040 L.2.l. – Sprinklers – The Ordinance states that ADUs “shall
+     not be required to provide fire sprinklers if fire sprinklers are not required for the
+     primary residence.” Government Code section 66314, subdivision (d)(12)
+     expands on this to state “The construction of an accessory dwelling unit shall
+     not trigger a requirement for fire sprinklers to be installed in the existing primary
+     dwelling.” The City must add language to provide for this requirement.
+
+  9. Section 17.57.040 L.2.n.i. – Owner Occupancy – The Ordinance states “Any
+     accessory dwelling unit, for which an application is submitted on January 1, 2025, or
+     later, shall be required to be on a lot that is owner-occupied.” However, the owner
+     occupancy allowance that would have become permissible on January 1, 2025, was
+     removed from State ADU Law with the adoption of AB 976 (Chapter 751, Statutes of
+     2023). Current Government Code section 66315 states “Section 66314 establishes
+     the maximum standards that a local agency shall use to evaluate a proposed
+     accessory dwelling unit on a lot that includes a proposed or existing single-family
+     dwelling. No additional standards, other than those provided in Section 66314, shall
+     be used or imposed, including an owner-occupant requirement, except that a local
+     agency may require that the property may be used for rentals of terms 30 days or
+     longer.” Therefore, the City must amend the Ordinance to remove references to
+     owner occupancy.
+
+   10. Section 17.57.040 L.2.t. – Exempt Unit Height – The Ordinance exempts local
+       development standards from precluding a unit “up to eight hundred (800)
+       square feet that is up to sixteen (16) feet in height.” However, current
+       Government Code section 66321, subdivision (b)(3), as referenced above,
+       does not address height. Therefore, height allowances for attached ADUs must
+Jason Crawford, Director of Community Development
+Page 7
+
+
+      be the lesser of 25 feet or the height of the primary dwelling, as stated in
+      Government Code section 66321, subdivision (b)(4). The City must amend the
+      Ordinance to provide for the height allowances provided in Government Code
+      section 66321, subdivision (b)(4).
+
+   11. Section 17.57.40 L.3.b.ii. – Unit Mixture – The Ordinance states “Detached
+       accessory dwelling units are not permitted on a lot that includes one (1) or
+       more attached accessory dwelling units.”
+
+      However, Government Code section 66323, subdivision (a), states,
+      “Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall
+      ministerially approve an application for a building permit within a residential or
+      mixed-use to create any of the following: (1) One accessory dwelling unit and
+      one junior accessory dwelling unit per lot with a proposed or existing single-
+      family dwelling…(A) The accessory dwelling unit or junior accessory dwelling
+      unit is within the proposed space of a single family dwelling or existing space of
+      a single-family dwelling or accessory structure.” Paragraph (2) permits “[o]ne
+      detached, new construction, accessory dwelling unit that does not exceed four-
+      foot side and rear yard setbacks.” The use of the term “any” followed by a list of
+      permitted ADU types indicates that any of these ADU types can be combined
+      on a lot zoned for single family dwellings.
+
+      This permits a homeowner to create one converted ADU; one detached, new
+      construction ADU; and one JADU. Thus, if the local agency approves an ADU
+      that is created from existing (or proposed) space, and the owner subsequently
+      applies for a detached ADU (or vice versa) that meets the size and setback
+      requirements of this section, the local agency cannot deny the application, nor
+      deny a permit for a JADU under this subdivision. This section also requires the
+      ministerial approval of detached ADUs in combination with units created in
+      portions of multifamily primary dwellings that are not used as habitable space.
+
+      Additionally, limiting the number of units to one type described in section 66323
+      would impermissibly constrain an application for a unit subject to section 66323
+      if a unit subject to section 66314 already exists on the lot. For example, if a new
+      construction detached unit with a size of 1,000 square feet is approved under
+      section 66314, this provision in the Ordinance would preclude the subsequent
+      ministerial approval of a new construction 800 square foot detached unit
+      subject to section 66323, subdivision (a)(2). Therefore, the City must amend
+      the Ordinance to allow both for all ADU combinations described in section
+      66323 and for at least one unit subject to section 66314 to be combined, in any
+      order, with any unit subject to Government Code section 66323.
+
+   12. Section 17.57.040 L.3.c. – Zoning Nonconformity – The Ordinance states,
+       “Multiple detached dwelling units (e.g., detached condominiums) on a lot shall
+       be treated as single-family residences for purposes of ADUs and shall be
+      Jason Crawford, Director of Community Development
+      Page 8
+
+
+             permitted one (1) ADU per lot, as described in this subsection (L)(3). Lots with
+             multiple detached single-family dwellings are not eligible to have JADUs.
+             ”However, multiple single family dwellings on a single lot are considered a
+             zoning nonconformity for the purposes of State ADU Law. Government Code
+             section 66322, section (b) states “The local agency shall not deny an
+             application for a permit to create an accessory dwelling unit due to the
+             correction of nonconforming zoning conditions, building code violations, or
+             unpermitted structures that do not present a threat to public health and safety
+             and are not affected by the construction of the accessory dwelling unit.” As
+             section 66323 describes categories of state-mandated units as being created
+             with either “single family primary dwellings” or “multifamily primary dwellings”, a
+             lot with multiple single family dwellings would be eligible for one converted
+             ADU, one new construction detached ADU up to 800 square feet, and one
+             JADU per lot. The City must amend the Ordinance to remove this restriction.
+
+      The City has two options in response to this letter. 1 The City can either amend the
+      Ordinance to comply with State ADU Law2 or adopt the Ordinance without changes
+      and include findings in its resolution adopting the Ordinance that explain the reasons
+      the City believes that the Ordinance complies with State ADU Law despite HCD’s
+      findings. 3 If the City fails to take either course of action and bring the Ordinance into
+      compliance with State ADU Law, HCD must notify the City and may notify the
+      California Office of the Attorney General that the City is in violation of State ADU
+      Law. 4
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law. Please feel
+      free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you have any questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Accountability Unit
+
+
+
+
+1 Gov. Code, § 66326, subd. (c)(1).
+2 Gov. Code, § 66326, subd. (b)(2)(A).
+3 Gov. Code, § 66326, subd. (b)(2)(B).
+4 Gov. Code, § 66326, subd. (c)(1).

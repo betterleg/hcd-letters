@@ -1,0 +1,142 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         May 30, 2024
+
+
+
+         Eric Marlatt, Assistant Director
+         Planning and Community Development
+         City of Santa Cruz
+         809 Center Street
+         Santa Cruz, CA 95060
+
+         Dear Eric Marlatt:
+
+         RE: Application of State Density Bonus Law to 900 High Street Mixed-Income
+             Housing Project – Letter of Technical Assistance
+
+         The California Department Housing and Community Development (HCD) is aware that
+         the City of Santa Cruz (City) is reviewing a development application for a project located
+         at 900 High Street (Project). HCD received a request for technical assistance regarding
+         implementation of the State Density Bonus Law (SDBL) (Gov. Code, § 65915 et seq.).
+         The Project proposes to construct a mixed-income, 40-unit rental housing development
+         and requests two density bonuses – an initial density bonus pursuant to Government
+         Code section 65915, subdivision (f) and an additional density bonus pursuant to
+         subdivision (v). The purpose of this letter is to memorialize the technical assistance
+         provided in correspondence between HCD and the City on January 31, 2024, regarding
+         the application of an “additional” density bonus pursuant to subdivision (v) of
+         Government Code section 65915.
+
+         The Additional Density Bonus under Subdivision (v)
+
+         A housing development project initially qualifies under the SDBL by providing a
+         minimum percentage of affordable units. 1 The law provides seven ways to qualify under
+         subdivision (b) of the SDBL, three of which unlock the potential to seek an additional
+         density pursuant to subdivision (v). They are (1) projects providing at least ten percent
+         of the total units for rent or sale to lower-income households, (2) projects providing at
+         least five percent of the total units for rent or sale to very low-income households, or (3)
+         projects providing at least ten percent of the total units for sale to moderate-income
+         households. 2 Note that “total units” 3 is the number of units in the project excluding
+
+
+1 Gov. Code, § 65915, subd. (b).
+2 Gov. Code, § 65915, subd. (v).
+3 Gov. Code, § 65915, subd. (o)(8).
+      Eric Marlatt, Assistant Director
+      Page 2
+
+
+      bonus units and is distinct from base density. 4 The amount of density bonus to which an
+      applicant is entitled is determined based on the tables contained in subdivision (f).
+      Projects providing lower-income, very low-income, or moderate-income units that
+      maximize the allowable percentage for the initial density bonus are eligible to seek an
+      additional density bonus pursuant to subdivision (v). For example, a project that
+      provides 15 percent of its total units for very low-income households is entitled to a 50
+      percent initial density bonus and would be considered to have “maxed out,” its highest
+      potential initial density bonus. 5 Such a project would be eligible to seek an additional
+      density bonus.
+
+      Additional density bonuses were made possible by Assembly Bill (AB) 1287 (Chapter
+      755, Statutes of 2023) which went into effect on January 1, 2024. It amended the SDBL
+      by requiring a local jurisdiction to grant an additional density bonus as specified in
+      Government Code section 65915, subdivision (v). A local jurisdiction must grant the
+      additional density bonus if the project includes additional for-rent or for-sale housing
+      units that are affordable to very low-income or moderate-income households (emphasis
+      added) 6. Unlike subdivision (b), which requires moderate income units to be for-sale
+      only, subdivision (v) allows moderate-income units to be for-rent or for-sale.
+      Additionally, if a project proposes to provide for-sale moderate-income units to earn the
+      initial density bonus, all units in the development must be for-sale, including the units
+      from an additional density bonus. 7
+
+      How to Calculate the Initial Density Bonus with the Additional Density Bonus
+
+      The initial density bonus provided in Government Code section 65915, subdivisions (b)
+      and (f), is independent of and is calculated separately from the additional density bonus
+      under subdivision (v).
+
+      Consider the following hypothetical of a project proposed on a site with a base density
+      of 100 units for which the applicant intends to fully utilize all the available density. The
+      applicant also seeks the maximum density bonuses, both initial and additional.
+
+
+
+
+4 Gov. Code, § 65915, subd. (o)(6).
+5 Gov. Code, § 65915, subd. (f)(2).
+6 Gov. Code, § 65915, subd. (v)(1).
+7 Gov. Code, § 65915, subd. (b)(1)(D).
+Eric Marlatt, Assistant Director
+Page 3
+
+
+
+
+                    “Total         Affordable           Bonus Units
+                    Units”         Units
+ Initial            100            15 VLI               50
+ Density                           (15% of 100          (50% of 100
+ Bonus                             units)               units) per
+                                                        subdivision (f)(2)
+ Additional         100            15 MI                50
+ Density                           (15% of 100          (50% of 100
+ Bonus                             units)               units) per
+                                                        subdivision (v)(2)
+ Overall            100            30                   100 bonus units
+ Project                           (15 VLI + 15
+                                   MI)
+
+Because it provides 15 percent of its total units to very low-income households, the
+hypothetical project qualifies to seek an additional bonus under subdivision (v)(1)(B).
+The hypothetical project earns the additional bonus by providing an additional 15
+percent of its total units as moderate-income units. In summary, this hypothetical project
+would contain 30 affordable units and 170 market rate units providing an overall sum of
+200 units.
+
+Conclusion
+
+HCD appreciates the opportunity to provide technical assistance to implement the new
+provisions of the SDBL. Because the Project “maxes out” the initial density bonus by
+providing 17 percent to very low-income households, the applicant is entitled to an
+additional density bonus pursuant to subdivision (v). Moderate-income units that are
+deed restricted as part of the additional density bonus may be for-rent or for-sale. HCD
+hopes the City finds the technical assistance provided in this letter helpful as the City
+applies the SDBL as a tool to achieve its affordable and market-rate housing production
+needs. If you have questions or need additional information, please contact Jessica
+Evans, at jessica.evans@hcd.ca.gov with any questions.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

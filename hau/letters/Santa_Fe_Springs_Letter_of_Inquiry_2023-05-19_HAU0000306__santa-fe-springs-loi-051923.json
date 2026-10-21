@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011504",
+  "case_number": "HAU0000306",
+  "letter_date": "2023-05-19",
+  "jurisdiction": "Santa Fe Springs",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santa-fe-springs-loi-051923.pdf",
+  "hcd_letter": "Santa Fe Springs Letter of Inquiry 05/19/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santa-fe-springs-loi-051923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189052,
+  "text_chars": 6614,
+  "text_empty": false
+}

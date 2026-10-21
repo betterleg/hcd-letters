@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026063",
+  "case_number": "HAU0000964",
+  "letter_date": "2026-05-28",
+  "jurisdiction": "Maricopa",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588(e)(3)",
+  "n_statutes": "1",
+  "keywords": "NOV",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/maricopa-he-noncompliant-nov-052826.pdf",
+  "hcd_letter": "Maricopa Notice of Violation 05/28/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/maricopa-he-noncompliant-nov-052826.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 223686,
+  "text_chars": 11219,
+  "text_empty": false
+}

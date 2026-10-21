@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010731",
+  "case_number": "HAU21-098",
+  "letter_date": "2022-01-21",
+  "jurisdiction": "Santa Cruz County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/scrSantaCruzCounty-LOI-012122.pdf",
+  "hcd_letter": "Santa Cruz County Letter of Inquiry 01/21/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/scrSantaCruzCounty-LOI-012122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 228068,
+  "text_chars": 10131,
+  "text_empty": false
+}

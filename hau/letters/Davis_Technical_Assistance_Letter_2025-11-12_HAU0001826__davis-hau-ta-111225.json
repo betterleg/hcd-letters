@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022755",
+  "case_number": "HAU0001826",
+  "letter_date": "2025-11-12",
+  "jurisdiction": "Davis",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Middle Class Housing Act (SB 6 of 2022)",
+  "statutes": "65852.24",
+  "n_statutes": "1",
+  "keywords": "SB 6",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/davis-hau-ta-111225.pdf",
+  "hcd_letter": "Davis Technical Assistance Letter 11/12/2025",
+  "housing_law": "Middle Class Housing Act (SB 6 of 2022)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/davis-hau-ta-111225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186314,
+  "text_chars": 4507,
+  "text_empty": false
+}

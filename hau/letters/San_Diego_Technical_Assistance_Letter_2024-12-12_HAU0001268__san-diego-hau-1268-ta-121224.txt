@@ -1,0 +1,240 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400, Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+        December 12, 2024
+
+
+        Elyse Lowe, Development Services Department Director
+        City of San Diego
+        202 C St.
+        San Diego, CA 92101
+
+        Dear Elyse Lowe:
+
+        RE: 970 Turquoise Street Project, San Diego – Letter of Technical Assistance
+
+        The California Department of Housing and Community Development (HCD) received a
+        request for technical assistance regarding the application of the State Density Bonus
+        Law (SDBL)1 to the development project proposed at 970 Turquoise Street (Project).
+        This letter provides technical assistance for the City of San Diego (City) and the Project
+        applicant regarding the use of incentives and waivers under the SDBL.
+
+        Project Description and Background
+
+        HCD understands that the Project would comprise 74 dwelling units, of which five would
+        be deed-restricted affordable to very low-income (VLI) households and another five
+        would be deed-restricted affordable to moderate-income (MI) households, plus 139
+        visitor accommodation units, which are a commercial use under the City’s Municipal
+        Code. 2
+
+        The Project’s base density allows for 31 units. The Project is eligible for a 50-percent
+        bonus (16 additional units) for the VLI units3 and an additional 50-percent bonus (16
+        additional units) for MI units 4 under the SDBL. The Project is also eligible for an 11-unit
+        bonus under the City’s three-bedroom bonus provisions.
+
+        In addition, the Project is eligible for three incentives or concessions for providing the
+        VLI units5 and is also eligible for waivers or reductions of development standards which
+        would have the effect of physically precluding the construction of the Project resulting
+        from the use of those concessions or incentives. 6
+
+1 Gov. Code, § 65915.
+2 San Diego Municipal Code, § 131.0112, subd. (a)(6)(K), available at
+
+https://docs.sandiego.gov/municode/MuniCodeChapter13/Ch13Art01Division01.pdf.
+3 Gov. Code, § 65915, subd. (f)(2).
+4 Gov. Code, § 65915, subd. (v)(2).
+5 Gov. Code, § 65915, subd. (d)(2)(C).
+6 Gov. Code, § 65915, subd. (e)(1).
+Elyse Lowe, Development Services Department Director
+Page 2
+
+
+
+
+      The Project applicant proposes to use an incentive to receive an additional 2.31 Floor
+      Area Ratio (FAR) for the commercial component. The applicant further requests a
+      waiver of the zoned 60-foot height limit and the 30-foot height limit under the City’s
+      Proposition D, for a proposed height of 240 feet, since those height limits would
+      physically preclude construction of the Project with the additional 2.31 FAR.
+
+      The City has requested technical assistance on the following questions:
+
+      Question #1: The City understands that incentives and waivers may be provided
+      for non-residential uses. Given that the waivers for height and FAR are
+      predominantly for the non-residential use, does HCD have guidance as to what
+      factors the City may evaluate and to what extent can those waivers and
+      incentives be used to increase the non-residential use component?
+
+      The SDBL states that a city shall grant a requested concession or incentive unless the
+      city makes one of three findings, one of which is particularly relevant here. 7 That finding
+      is that the incentive or concession does not “result in identifiable and actual cost
+      reductions… to provide for affordable housing costs, as defined in Section 50052.5 of
+      the Health and Safety Code, or for rents for the targeted units to be set as specified in
+      subdivision (c).” 8 (Emphasis added.) Section 50052.5 of the Health and Safety Code
+      defines “affordable housing cost” for owner-occupied housing for extremely low-income
+      (ELI), VLI, low-income (LI) and MI households. Moreover, SDBL requires that “rents for
+      the lower-income density bonus units shall be set at an affordable rent, as defined in
+      Section 50053 of the Health and Safety Code.” 9
+
+      In other words, the incentive or concession must not just reduce costs (i.e., support the
+      economic feasibility of the Project); that reduction in cost must be for the purposes of
+      providing affordable housing for lower-income or moderate-income households.
+
+      The statute does not provide precise direction regarding how to determine whether the
+      benefit of a requested incentive or concession has the requisite nexus to the provision
+      of affordable housing. However, the Legislature’s intent language provides helpful
+      direction in implementing the SDBL provisions regarding waivers and incentives. The
+      statute reads:
+
+             “In enacting this chapter it is the intent of the Legislature that the density bonus
+             or other incentives offered by the city, county, or city and county pursuant to this
+             chapter shall contribute significantly to the economic feasibility of lower income
+             housing in proposed housing developments.”10 (Emphasis added.)
+
+
+      7 Gov. Code, § 65915, subd. (d)(1).
+      8 Gov. Code, § 65915, subd. (d)(1)(A).
+      9 Gov. Code, § 65915, subd. (c)(1)(B)(i).
+      10 Gov. Code, § 65917.
+Elyse Lowe, Development Services Department Director
+Page 3
+
+
+
+      Again, the Legislature has made it clear that the purpose of incentives is to support the
+      economic feasibility of lower-income housing specifically. The statute further reads:
+
+             “The Legislature finds and declares that the intent behind the Density Bonus Law
+             is to allow public entities to reduce or even eliminate subsidies for a particular
+             project by allowing a developer to include more total units in a project than would
+             otherwise be allowed by the local zoning ordinance in exchange for affordable
+             units. It further reaffirms that the intent is to cover at least some of the financing
+             gap of affordable housing with regulatory incentives, rather than additional public
+             subsidy.”11 (Emphasis added.)
+
+      The City could conclude that the requested incentive in this case directly facilitates the
+      affordable housing, in which case the SDBL compels the City to approve the requested
+      incentive and associated waiver. On the other hand, the City might conclude that the
+      Project does not need the requested incentive to cover the cost of “provid[ing] for
+      affordable housing costs.” 12 If the City so concludes, the SDBL places the burden of
+      proof on the City to deny the requested incentive and associated waiver by making a
+      written finding, based on substantial evidence, that the incentive does not result in
+      identifiable and actual cost reductions to provide for affordable housing. 13
+
+      Question #2: What guidance does HCD have for cities to define what is an
+      amenity eligible for density bonus and waivers compared to what is an entirely
+      new project component?
+
+      “Amenity” is not a term used in the SDBL. The concept of an amenity has been
+      discussed in appellate court decisions, most notably in the context of courtyards. 14 A
+      visitor accommodation use is not an amenity but rather a separate land use in a mixed-
+      use project. Mixed-use projects are eligible for SDBL incentives, concessions, and
+      waivers, consistent with the information provided in response to Question #1 above.
+
+      Question #3: When evaluating a mixed-use project, is there a minimum amount of
+      residential component to justify that the project is in fact a housing
+      development? Are there any parameters that would prevent the applicant from
+      providing 1 percent of the square footage for housing and 99 percent of the
+      square footage for any non-residential use of its choice?
+
+
+
+
+      11 Gov. Code, § 65915, subd. (u)(1).
+      12 Gov. Code, § 65915, subd. (d)(1)(A).
+      13 Gov. Code, § 65915, subds. (d)(1)(A), (d)(4).
+      14 See, for example, Wollmer v. City of Berkeley, 179 Cal.App.4th 933 (2009) [102
+
+      Cal.Rptr.3d 19] and Bankers Hill 150 v. City of San Diego, 74 Cal.App.5th 755 (2022)
+      [289 Cal.Rptr.3d 268].
+Elyse Lowe, Development Services Department Director
+Page 4
+
+
+
+
+      The SDBL statute does not include a definition of “mixed-use developments” and does
+      not explicitly require a minimum residential component (other than the minimum
+      required five residential units). 15 However, an SDBL project would be subject to a
+      jurisdiction’s zoning requirements unless it were eligible for a concession, incentive, or
+      waiver. For this Project, the amount of non-residential use would naturally be limited by
+      the City’s zoning requirements (including FAR and height limits) unless the Project uses
+      a concession, incentive, or waiver to increase those limits. As discussed in the response
+      to Question #1 above, the value of the concessions, incentives, or waivers must directly
+      facilitate the proposed quantity and depth of affordability of the affordable units. A
+      project whose floor area is 99 percent commercial and 1 percent residential would likely
+      be outside of these parameters and the concessions, incentives, or waivers needed to
+      achieve that ratio would likely not be required under the SDBL.
+
+      Finally, the SDBL statute reads, “This chapter shall be interpreted liberally in favor of
+      producing the maximum number of total housing units.” 16 While the SDBL contains no
+      explicit requirement for a minimum percentage of residential floor area in a mixed-use
+      development, 17 an interpretation that a project with the minimum of five residential units
+      is essentially entitled to a theoretically infinite amount of non-residential floor area could
+      result in an absurd outcome that does not further the fundamental purpose of the SDBL.
+
+      Question #4: If visitor accommodation uses operate as a residential use with
+      long-term stays, can visitor accommodations and vacation rentals count towards
+      density bonus? If so, should the units be reported as permitted units on a
+      Housing Element Annual Progress Report for purposes of tracking RHNA
+      progress?
+
+      The answer is “no.” The visitor accommodation use is deemed a commercial use in the
+      City’s municipal code. In addition, the Project has already maximized the number of
+      housing units allowed on the site on top of the 31 units allowed under the base density.
+      There would be no legal way for the visitor accommodation units to be added to the
+      project as housing units. Accordingly, the visitor accommodation units are considered
+      commercial uses, not housing units, and cannot be counted for the purposes of the
+      SDBL, nor can they be reported as housing units on an Annual Progress Report.
+
+
+      15 Gov. Code, § 65915, subd. (i).
+      16 Gov. Code, § 65915, subd. (r).
+      17 In contrast, the Housing Accountability Act provides that, to qualify as a “housing
+
+      development project,” a mixed-use project must have “at least two-thirds of the square
+      footage designated for residential use.” (Gov. Code, § 65589.5, subd. (h)(2)(B).) Note
+      that this definition is used in nearly every one of California’s housing laws, including but
+      not limited to the Streamlined Ministerial Approval Process (Gov. Code, § 65913.4
+      (m)(7)), the Housing Crisis Act of 2019 (Gov. Code, § 66300, subd. (a)(6)), the Permit
+      Streamlining Act (Gov. Code, § 65940, subd. (d)), and the Affordable Housing and High
+      Road Jobs Act (Gov. Code, § 65912.101, subd. (e)).
+Elyse Lowe, Development Services Department Director
+Page 5
+
+
+
+      Question #5: If visitor accommodation uses operate as a residential use with
+      long-term stays, are there additional provisions of state law that would allow the
+      City to require a deed-restriction for affordable housing?
+
+      As discussed in the response to Question #4 above, the visitor accommodation units
+      are considered commercial uses, not housing units. Therefore, the visitor
+      accommodation units cannot serve as deed-restricted affordable housing units.
+
+      Conclusion
+
+      The SDBL permits the City to approve the requested incentive and associated waiver or
+      to deny the requested incentive and associated waiver by making a written finding,
+      based on substantial evidence, that the incentive does not result in identifiable and
+      actual cost reductions to provide for affordable housing. In addition, the proposed visitor
+      accommodation units must be considered a commercial use, not a residential use.
+
+      HCD appreciates the opportunity to provide technical assistance on this matter. If you
+      have any questions regarding the content of this letter or would like additional technical
+      assistance, please contact Stephanie Reyes at Stephanie.Reyes@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief

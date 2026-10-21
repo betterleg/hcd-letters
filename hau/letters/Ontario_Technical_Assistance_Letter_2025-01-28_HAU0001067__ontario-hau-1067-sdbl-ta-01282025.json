@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0019201",
+  "case_number": "HAU0001067",
+  "letter_date": "2025-01-28",
+  "jurisdiction": "Ontario",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Element Law",
+  "statutes": "65585(j) | 65915(b)(1)(C)",
+  "n_statutes": "2",
+  "keywords": "Discretionary Review | density bonus",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/ontario-hau-1067-sdbl-ta-01282025.pdf",
+  "hcd_letter": "Ontario Technical Assistance Letter 01/28/2025",
+  "housing_law": "Density Bonus Law, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/ontario-hau-1067-sdbl-ta-01282025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 213548,
+  "text_chars": 8730,
+  "text_empty": false
+}
