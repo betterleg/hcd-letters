@@ -41,7 +41,7 @@ jobs:
       - name: Compare with last run
         id: compare
         run: |
-          python3 scripts/compare_runs.py "$RUNNER_TEMP/previous.csv" hau/hau_letters.csv hau/CHANGES.md | tee "$RUNNER_TEMP/compare.txt"
+          python3 scripts/compare_runs.py "$RUNNER_TEMP/previous.csv" hau/hau_letters.csv hau/CHANGES.md hau "$RUNNER_TEMP/issue.md" | tee "$RUNNER_TEMP/compare.txt"
           tail -1 "$RUNNER_TEMP/compare.txt" | tr ' ' '\n' >> "$GITHUB_OUTPUT"
 
       - name: Download new letters as text
@@ -68,10 +68,10 @@ jobs:
           fi
 
       - name: Open an issue for new letters
-        if: env.OPEN_ISSUE == 'true' && (steps.compare.outputs.new != '0' || steps.compare.outputs.newly_posted != '0')
+        if: env.OPEN_ISSUE == 'true' && steps.compare.outputs.first_run != 'true' && (steps.compare.outputs.new != '0' || steps.compare.outputs.newly_posted != '0')
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh issue create \
             --title "HAU letters $(date -u +%F): ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted" \
-            --body-file hau/CHANGES.md
+            --body-file "$RUNNER_TEMP/issue.md"

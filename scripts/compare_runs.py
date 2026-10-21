@@ -1,7 +1,11 @@
 """
 Compare this run's hau_letters.csv with the previous one and stop if something looks wrong.
 
-    python3 scripts/compare_runs.py PREVIOUS.csv CURRENT.csv REPORT.md [hau|he]
+    python3 scripts/compare_runs.py PREVIOUS.csv CURRENT.csv REPORT.md [hau|he] [ISSUE.md]
+
+ISSUE.md is a shortened copy for the GitHub issue (at most 100 rows per section and under
+GitHub's 65,536-character limit). On the first run (no PREVIOUS.csv) it prints first_run=true
+and the workflow skips the issue.
 
 hau (default): HAU letters table (hau_letters.csv), keyed by task.
 he: housing element review letters table (letters.csv), keyed by the letter's PDF link, or by
@@ -52,7 +56,12 @@ def row_md(r):
     return f"| {r.get('letter_date','')} | {esc(r.get('jurisdiction'))} | {esc(r.get('letter_type'))} | {esc(laws)} | {link} |"
 
 
-def main(prev_path, cur_path, out_path):
+ISSUE_MAX_ROWS = 100       # rows per section in the issue body
+ISSUE_MAX_CHARS = 60000    # GitHub refuses issue bodies over 65,536 characters
+
+
+def main(prev_path, cur_path, out_path, issue_path=None):
+    first_run = load(prev_path) is None
     prev, cur = load(prev_path), load(cur_path)
     if cur is None:
         sys.exit(f"{cur_path} is missing or empty")
@@ -74,17 +83,30 @@ def main(prev_path, cur_path, out_path):
     lines = [f"# {title}: changes since last run", "",
              f"{n_rows:,} letters on the dashboard ({len(new)} new, {len(posted)} newly posted as PDF, {len(removed)} no longer listed).", ""]
     head = ["| Letter date | Jurisdiction | Letter type | " + ("Cycle" if PROFILE == "he" else "Housing law") + " | Copy |", "|---|---|---|---|---|"]
-    if new:
-        lines += ["## New letters", ""] + head + [row_md(r) for r in sorted(new, key=key, reverse=True)] + [""]
-    if posted:
-        lines += ["## PDF now available", ""] + head + [row_md(r) for r in sorted(posted, key=key, reverse=True)] + [""]
-    if removed:
-        lines += ["## No longer on the dashboard", ""] + head + [row_md(r) for r in sorted(removed, key=key, reverse=True)] + [""]
+    sections = [("New letters", new), ("PDF now available", posted), ("No longer on the dashboard", removed)]
+    if first_run:
+        lines += ["First run: every letter counts as new, so no issue is opened. Later runs list only what changed.", ""]
+    issue = list(lines)
+    for name, rs in sections:
+        if not rs:
+            continue
+        body = [row_md(r) for r in sorted(rs, key=key, reverse=True)]
+        lines += [f"## {name}", ""] + head + body + [""]
+        shown = body[:ISSUE_MAX_ROWS]
+        issue += [f"## {name}", ""] + head + shown
+        if len(body) > len(shown):
+            issue.append(f"\n…and {len(body) - len(shown):,} more; see CHANGES.md in the repo for the full list.")
+        issue.append("")
     Path(out_path).write_text("\n".join(lines), encoding="utf-8")
-    print(f"new={len(new)} newly_posted={len(posted)} removed={len(removed)}")
+    if issue_path:
+        text = "\n".join(issue)
+        if len(text) > ISSUE_MAX_CHARS:
+            text = text[:ISSUE_MAX_CHARS].rsplit("\n", 1)[0] + "\n\n…cut short; see CHANGES.md in the repo for the full list."
+        Path(issue_path).write_text(text, encoding="utf-8")
+    print(f"new={len(new)} newly_posted={len(posted)} removed={len(removed)} first_run={'true' if first_run else 'false'}")
 
 
 if __name__ == "__main__":
     if len(sys.argv) > 4:
         PROFILE = sys.argv[4]
-    main(*sys.argv[1:4])
+    main(*sys.argv[1:4], sys.argv[5] if len(sys.argv) > 5 else None)
