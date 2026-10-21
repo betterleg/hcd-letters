@@ -29,7 +29,7 @@ def main(root):
         idx = {r["task"]: r for r in csv.DictReader(open(p, encoding="utf-8"))}
     by_year = defaultdict(list)
     for r in letters:
-        by_year[(r.get("letter_date") or "undated")[:4]].append(r)
+        by_year[(r.get("letter_date") or "")[:4] or "undated"].append(r)
     (root / "index").mkdir(exist_ok=True)
     for year, rows in by_year.items():
         out = [f"# HAU letters, {year}", "", f"{len(rows)} letters. [All years](../LETTERS.md)", "",
