@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,376 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,324 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,377 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,324 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -9,7 +9,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Year | Letters |
 |---|---|
 | [undated](index/undated.md) | 3 |
-| [2026](index/2026.md) | 258 |
+| [2026](index/2026.md) | 259 |
 | [2025](index/2025.md) | 461 |
 | [2024](index/2024.md) | 281 |
 | [2023](index/2023.md) | 188 |
@@ -28,7 +28,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Ordinance Findings Letter | 233 |
 | Technical Assistance Letter - Repeal Request | 211 |
 | Notice of Violation | 79 |
-| Housing Element Findings of Noncompliance/ Corrective Action | 45 |
+| Housing Element Findings of Noncompliance/ Corrective Action | 46 |
 | Notice of Potential Violation | 27 |
 | Successful Completion of Corrective Action | 24 |
 | Letter of Support | 20 |
@@ -43,7 +43,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Housing law | Letters |
 |---|---|
-| Housing Element Law | 600 |
+| Housing Element Law | 601 |
 | Accessory Dwelling Unit Law | 487 |
 | Density Bonus Law | 103 |
 | Housing Accountability Act | 100 |
@@ -90,7 +90,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | 66327 | 53 |
 | 66326 | 31 |
 | 65583.2 | 30 |
+| 65585(j) | 26 |
 | 8899.50 | 25 |
-| 65585(j) | 25 |
 | 65580-65589.11 | 24 |
 | 65580 | 23 |
