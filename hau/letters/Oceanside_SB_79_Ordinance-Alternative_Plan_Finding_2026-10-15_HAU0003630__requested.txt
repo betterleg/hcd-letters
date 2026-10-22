@@ -1,0 +1,374 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+          October 15, 2026
+
+
+          Dane Thompson, Senior Planner
+          City of Oceanside
+          Planning Division
+          300 N. Coast Hwy
+          Oceanside, CA 92054
+
+          Dear Dane Thompson:
+
+          RE: City of Oceanside – Enacted Senate Bill 79 Transit-Oriented Development
+               Ordinance Findings Letter
+
+          Thank you for submitting the City of Oceanside’s (City) enacted Senate Bill (SB) 79
+          Ordinance and supporting documents, adopted under Uncodified Ordinance
+          No. 26-0R0414-1 (Ordinance) to:
+
+               •    Adopt and implement SB 79 per Government Code section 65912.160,
+                    subdivision (c)(1); and
+               •    Exempt sites per Government Code section 65912.160, subdivision (e)(1); and
+               •    Temporarily exclude certain sites per Government Code section 65912.161,
+                    subdivisions (b)(1)(A), (b)(1)(B)(ii), and (b)(1)(F).
+
+          This letter consists of the California Department of Housing and Community
+          Development’s (HCD) findings per Government Code section 65912.160, subdivision
+          (d)(3)(A) that the Ordinance is not in substantial compliance with SB 79 as of the
+          date of this letter. The standards and provisions of Government Code section
+          65912.157 apply in the City unless and until the City adopts and enacts an amended
+          Ordinance and zoning map to comply with HCD's findings. 1
+
+          Findings
+
+          HCD reviewed the documents submitted by the City (see Attachment A – Table 1)2 and
+          finds that revisions will be necessary to substantially comply with the requirements of
+          SB 79. Specifically:
+
+
+1 Gov. Code, § 65912.161, subds. (b)(1) and (b)(2).
+
+2 Please note that HCD also considered comments from Californians for Homeownership and
+
+California Housing Defense Fund.
+       Dane Thompson, Senior Planner
+       Page 2
+
+
+       1. SB 79 Applicability Map. TOD Zone Map. The San Diego Association of
+          Governments (SANDAG) SB 79 map differs from the City’s SB 79 Applicability Map
+          for the Oceanside Transit Center and the Coast Highway Sprinter Stations. In
+          addition, the City’s SB 79 map is missing pedestrian access points for the El Camino
+          Real Station, Rancho Del Oro Station, and College Boulevard Station. The City must
+          modify its SB 79 map and capacity calculations to be at least as inclusive as
+          SANDAG’s map.
+
+           HCD understands that SANDAG had not published a map or provided the map to
+           staff at the time the City’s Ordinance was drafted and the City prepared its map
+           based on anticipated eligible TOD zones. As the City is aware, SANDAG
+           subsequently published its TOD map pursuant to Government Code section
+           65912.160, subdivision (f), which shall have “a rebuttal presumption of validity for
+           use by project applicants and local governments.”
+
+       2. SB 79 Applicability Map. Excluded – Zoning. Under the “Excluded – Zoning”
+          mapping layer, the City’s online Draft SB 79 Applicability Map identifies sites that are
+          not covered under Section 65912.157 because they are “Not Residential,
+          Commercial, or Mixed-Use”. 3 The data table associated with the map layer indicates
+          the zoning districts for each of the sites the City considers ineligible due to the
+          allowed uses. Government Code section 65912.157, subdivision (a) states
+          (emphasis added): “A housing development project shall be an allowed use as a
+          transit-oriented housing development on any site zoned for residential, mixed, or
+          commercial development within one-half or one-quarter mile of a transit-oriented
+          development stop….” HCD previously issued technical assistance explaining that
+          “zoned for” means principally or conditionally permitted land use within a zone. 4
+
+           However, according to the City’s Zoning Ordinance, 5 several of the zones identified
+           principally or conditionally permit residential, mixed, or commercial development and
+           therefore are eligible for SB 79, including:
+
+           •   Commercial Professional District (CP): Section 1120 (Land Use Regulations)
+               principally or conditionally permits residential and commercial uses, including, but
+               not limited to, single-family homes, banks and savings and loans, and business
+               and professional offices.
+           •   Downtown District (D): Section 1220 (Land Use Regulations by Subdistrict)
+               principally or conditionally permits residential and or commercial uses for every
+               subdistrict except Subdistrict 15. Allowed uses vary across the subdistricts, but
+
+3 Available at:
+
+https://www.arcgis.com/apps/mapviewer/index.html?webmap=b618e34844614cec9e342a19021e1ca6.
+4 HCD TA Letter to the City of Los Angeles, dated June 22, 2026. Available at:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-angeles-sb-79-ta-
+hau-2738-062226.pdf.
+5 Available at: https://www.ci.oceanside.ca.us/government/development-services/planning/codes-
+
+regulations-maps/zoning-ordinance.
+      Dane Thompson, Senior Planner
+      Page 3
+
+
+              commonly allowed uses include, but are not limited to, multifamily, mixed uses,
+              animal grooming, banks and savings and loans, and full service restaurants.
+          •   General Industrial District (IG): Section 1320 (Land Use Regulations)
+              principally or conditionally permits commercial uses, including, but not limited to,
+              animal grooming, building materials and services, commercial recreation and
+              entertainment, home improvement, maintenance and repair services, marine
+              sales and services, and travel services.
+          •   Light Industrial Zone (Coastal) (M-1/CZ): Section 1330C (Land Use
+              Regulations) principally or conditionally permits commercial uses, including, but
+              not limited to, bakeries, mini/storage/self-storage facilities, and motor vehicle
+              rental/sales.
+          •   Limited Industrial District (IL): Section 1320 (Land Use Regulations) principally
+              or conditionally permits commercial uses, including but not limited to, animal
+              grooming, banks and savings and loans, building materials and services, home
+              improvement, maintenance and repair services, marine sales and service, travel
+              services, and hotels, motels and timeshares.
+          •   Open Space Districts (OS): Section 1520 (Land Use Regulations) principally
+              permits single-family residential use.
+          •   Public and Semipublic (Inland) (PS): Section 1620 (Land Use Regulations)
+              conditionally permits commercial uses, including commercial recreation and
+              entertainment and hotels, motels and timeshares.
+          •   Residential Estate District (RE): Section 1040 (Land Use Regulations)
+              principally permits residential use.
+          •   Visitor-Commercial (Coastal) (VC/CZ): Section 1130C (Land Use Regulations)
+              principally or conditionally permits commercial uses, including, but not limited to,
+              bar and cocktail lounges, boat sales, supplies & service, commercial fishing,
+              diving and sportfishing - supplies and service, liquor store, recreational
+              equipment rental and sales, restaurants, and restaurants, cafés and snack bars.
+
+          In addition, HCD understands the City also excluded certain sites in a Planned
+          Development District (PD); however, HCD was unable to verify the land use
+          regulations for sites zoned PD in the City’s Zoning Ordinance.
+
+          The parcel land areas must be included in the City’s SB 79 capacity
+          calculations to determine whether a site is eligible for temporary exclusion
+          pursuant to Government Code section 65912.161, subdivision (b).
+
+      3. SB 79 Applicability Map. Excluded - Wetland Buffer and Habitat Preserve. The
+         City’s online Draft SB 79 Applicability Map identifies sites that are not covered under
+         Section 65912.157 because they are considered “habitat preserve” or “wetland
+         buffer”. Based on the City’s Council Staff Report, HCD understands that the City
+         considers sites within a habitat preserve, or within 100 feet of an identified wetland,
+         as identified in the City’s Vital and Sustainable Resources Element of the general
+         plan, ineligible for SB 79. 6 The Staff report states that these sites are, “effectively
+
+6 City of Oceanside, City Council. Staff Report, dated June 3, 2026. File Number 26-1529. Pg. 4.
+       Dane Thompson, Senior Planner
+       Page 4
+
+
+              undevelopable given that a project on such a site would likely be ineligible for
+              ministerial approval under SB 79 and would be subject to a discretionary review with
+              environmental consideration that conflicts with multiple state and local development
+              restrictions.” 7
+
+              However, Government Code section 65912.157 does not provide exemptions for
+              sites identified as wetlands or habitat preserves, nor does the statute require
+              ministerial approval of SB 79 projects. 8
+
+              As in Finding 2, such excluded parcel land areas must be included in the City’s
+              SB 79 capacity calculations to determine whether a site is eligible for temporary
+              exclusion pursuant to Government Code section 65912.161, subdivision (b).
+
+       4. SB 79 Applicability Map. Excluded Sites – Rent Control. The City’s online Draft
+          SB 79 Applicability Map identifies sites that are not covered under Section
+          65912.157 because they are “[e]xcluded per GOV § 65912.157(h)(1)”. However,
+          HCD previously issued technical assistance explaining that, for calculating the
+          overall SB 79 capacity, sites may not be excluded pursuant to Government Code
+          section 65912.157, subdivision (h). 9 The statute does not state that such sites may
+          be excluded from the SB 79 capacity calculations, only that SB 79 developments
+          that require demolition of such units, or where such units were demolished, may not
+          be located on them (emphasis added).
+
+              As in Findings 2 and 3, such excluded parcel land areas must be included in the City’s
+              SB 79 capacity calculations to determine whether a site is eligible for temporary
+              exclusion pursuant to Government Code section 65912.161, subdivision (b).
+
+       5. Ordinance Section 3. Exempt Sites – Path of Travel. The City’s online Draft
+          SB 79 Applicability Map and Section 3 of its Ordinance exempts all sites which have
+          a walking path of more than one mile to a TOD stop pursuant to Government Code
+          section 65912.161, subdivision (e)(1). The Ordinance defines a walking path as, “a
+          publicly accessible, continuous, and unobstructed path of travel with continuous
+          paved or improved sidewalk from the closest point of the affected parcel to the
+          pedestrian access point of the transit oriented development stop….”
+
+
+
+7 Id. Pg 5.
+
+8 Under Government Code section 65912.159, an SB 79 project “shall be eligible for streamlined
+
+ministerial approval pursuant to Section 65913.4,” which does include limitations on wetlands and
+habitat for protected species, among other requirements. However, Government Code section
+65912.159, subdivision (b) makes it clear that the use of section 65913.4 is optional, at the discretion
+of the project proponent.
+9 HCD TA Letter to the City of Los Angeles, dated June 22, 2026. Available at:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-angeles-sb-79-ta-
+hau-2738-062226.pdf.
+      Dane Thompson, Senior Planner
+      Page 5
+
+
+          Government Code section 65912.160, subdivision (e)(1) states (emphasis added),
+          “The ordinance may designate areas within one-half mile of a transit-oriented
+          development stop as exempt from the provisions of this chapter if: The local
+          government makes findings supported by substantial evidence that there exists no
+          walking path of less than one mile from that location to the transit-oriented
+          development stop.”
+
+          While the City provided a map identifying the sites exempted under subdivision
+          (e)(1), HCD did not receive additional documentation providing evidence that the
+          sites identified do not have a walking path of less than one mile from the site to the
+          transit-oriented development stop.
+
+          Furthermore, sidewalks are not the only form of “walking path.” For example, a
+          pedestrian safety resource from the Federal Highway Administration describe
+          sidewalks and walkways as, “‘pedestrian lanes’ that provide people with space to
+          travel within the public right-of-way that is separated from roadway vehicles,” and
+          notes that, “[w]hile sidewalks are typically made of concrete, less expensive
+          walkways may be constructed of asphalt, crushed stone, or other materials if they
+          are properly maintained and accessible (firm, stable, and slip-resistant).” 10
+
+          Another example from the California Transportation Department Traffic Operations
+          Manual glossary similarly defines a ‘walkway’ as a, "[p]assage or path for walking
+          such as a sidewalk or pedestrian path,” and defines a ‘pedestrian path’ as a "[p]aved
+          walkway along the side of the street that is specifically designed for walking. It is a
+          facility that is physically separated from the roadway and intended for pedestrian
+          use.” 11
+
+          As a result, HCD is unable to confirm whether the identified sites satisfy the criteria
+          of Government Code Section 65912.160, subdivision (e)(1). The City must provide
+          evidence that the method used to determine which sites have no walking path
+          considers all walking paths, and not merely sidewalks.
+
+      6. Ordinance Section 4.1. Deferred Sites – Sufficient Local Capacity. Pursuant to
+         Government Code section 65912.161, subdivision (b)(1)(A), the City’s online Draft
+         SB 79 Applicability Map and Section 4.1 of the Ordinance temporarily excludes from
+         SB 79 all sites within a TOD zone that permit a density and residential floor area
+         ratio at 50 percent of the standards specified by Government Code Section
+         65912.157, subdivision (a).
+
+
+10 US Department of Transportation, Federal Highway Administration, Pedestrian Safety Guide and
+
+Countermeasure Selection System (PEDDSAFE), “Sidewalks, Walkways and Paved Shoulders”,
+dated August, 2013. Available at:
+http://www.pedbikesafe.org/PEDSAFE/countermeasures_detail.cfm?CM_NUM=1
+11 California Department of Transportation, Traffic Operations Manual, “Glossary”. Available at:
+
+https://dot.ca.gov/programs/traffic-operations/traffic-ops-manual/glossary
+      Dane Thompson, Senior Planner
+      Page 6
+
+
+          However, based on the City’s submitted documents and the density and floor area
+          ratio standards in the City’s Zoning Ordinance, HCD is unable to confirm that the
+          zoning of the identified sites permits the density and residential floor ratio required
+          by Government Code section 65912.161, subdivision (b)(1)(A). On July 30, 2026,
+          HCD requested a more detailed spreadsheet identifying the sites, either by parcel or
+          by zoning district, to verify that this criterion was met, but has not received the
+          additional information as of the date of this letter.
+
+      7. Ordinance Section 4.2. Deferred Sites – Low Resource Area With 40 Percent
+         Capacity. The City’s online Draft SB 79 Applicability Map and Section 4.2 of the
+         Ordinance temporarily exclude sites within the Oceanside Transit Center TOD zone,
+         pursuant to Government Code section 65912.161, subdivision (b)(1)(B)(ii). This
+         provision establishes that a city may, by ordinance, exclude sites in a TOD zone that
+         is primarily comprised of a low-resource area and allows at least 40 percent of the
+         aggregate density allowed under Section 65912.157, subdivision (a).
+
+          However, based on the City’s submitted documents, and related to Findings 2
+          through 4 above, HCD understands the City did not assess the densities as
+          specified in Section 65912.157, subdivision (a). This issue applies to sites in several
+          zones that principally or conditionally permit residential or commercial development,
+          within a wetland buffer or a designated habitat preserve, or that contain more than
+          two units subject to rent or price control. Therefore, HCD is unable to determine
+          whether the sites would meet the criteria required by Government Code section
+          65912.161, subdivision (b)(1)(B)(ii).
+
+      Conclusion and Next Steps
+
+      The City has until Monday, December 14, 2026 (60 days from this letter), to respond to
+      these written findings. 12 Pursuant to Government Code section 65912.160, subdivision
+      (d)(5), the City must consider the findings provided here and must either amend the
+      ordinance to comply with HCD’s findings or enact the ordinance without changes. If the
+      City chooses to enact the ordinance without changes, it must include findings in its
+      resolution adopting the ordinance that explain the reasons the City believes the
+      ordinance complies with Government Code section 65912.160 despite the findings
+      provided by HCD. 13
+
+      Please note, per Government Code section 65912.161, subdivision (b)(2), the City’s
+      public zoning map must be updated to reflect any amendments to the sites or transit-
+      oriented development zones that are and are not covered by Section 65912.157.
+
+
+
+
+12 Gov. Code, § 65912.160, subd. (d)(4).
+
+13 Gov. Code, § 65912.160, subd. (d)(5)(B).
+Dane Thompson, Senior Planner
+Page 7
+
+
+
+HCD appreciates the cooperation of the City of Oceanside staff during the course of
+this review. If you have any questions or need additional information, please contact
+Auzzie Sheard at auzzie.sheard@hcd.ca.gov. HCD is committed to assisting the City
+in addressing all statutory requirements of SB 79.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Assistant Deputy Director, Housing Accountability
+Housing Policy Development
+
+
+Enclosure
+Attachment A – Table 1 City of Oceanside Submittal Documents
+                                    ATTACHMENT A
+
+Table 1 City of Oceanside Submittal Documents
+     Filename                Document Description                         Received Date
+ 1                           A map of sites within TOD zones that             7/20/26
+     Sites Located within
+                             allow residential, commercial, or mixed-
+     TOD Zones.pdf
+                             use development
+ 2                           A map of sites exempted from SB 79               7/20/26
+     Sites Exceeding One-    pursuant to Government Code section
+     Mile Walking Path.pdf   65912.160, subdivision (e)(1)
+ 3                             A map of sites temporarily excluded from       7/20/26
+     Sites with Sufficient
+                               SB 79 pursuant to Government Code
+     Local Capacity.pdf
+                               section 65912.161, subdivision (b)(1)(A)
+ 4                             A map of sites temporarily excluded from       7/20/26
+     Sites with Sufficient
+                               SB 79 pursuant to Government Code
+     Local Capacity in Low-
+                               section 65912.161, subdivision
+     Resource Areas.pdf
+                               (b)(1)(B)(ii)
+ 5   Sites with a Locally      A map of sites temporarily excluded from       7/20/26
+     Designated Historic       SB 79 pursuant to Government Code
+     Resource.pdf              section 65912.161, subdivision (b)(1)(F)
+ 6                             Uncodified Ordinance deferring                 7/20/26
+     26-OR0414-1 Ordinance
+                               implementation and exempting certain
+     Deferring
+                               sites from the ‘Abundant and Affordable
+     Implementation.pdf
+                               Homes Near Transit Act’ (SB79)
+ 7   Staff Report.pdf          A summary of SB 79 and the Ordinance           7/20/26
+ 8                             Map of the sites that are exempted or          7/20/26
+     Draft SB 79 Applicability
+                               temporarily excluded from SB 79 by the
+     Map
+                               Ordinance

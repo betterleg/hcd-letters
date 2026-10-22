@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,376 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,320 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,376 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,324 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -8,7 +8,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Year | Letters |
 |---|---|
-| [unda](index/unda.md) | 3 |
+| [undated](index/undated.md) | 3 |
 | [2026](index/2026.md) | 258 |
 | [2025](index/2025.md) | 461 |
 | [2024](index/2024.md) | 281 |

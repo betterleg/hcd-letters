@@ -1,0 +1,10 @@
+{
+  "requested_pdf": "requested/Beverly-Hills-SB-79-Review-050826 (1).pdf",
+  "pdf_sha256": "62b60a8cebb0c30163ec18fa4b91c8b86036eba8211787e0ea0118ba999655f0",
+  "text_method": "pdf_text",
+  "text_chars": 9421,
+  "text_empty": false,
+  "fetched_from": "requested_from_hcd",
+  "match": "no_match",
+  "match_note": "no dashboard row for a jurisdiction named in it within 3 days of 2026-05-08"
+}
