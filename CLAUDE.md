@@ -57,7 +57,7 @@ The workflows fail on purpose if the letter count drops more than 5% or by more 
 
 - **Never commit** raw `*_raw.json`, `*_captures.json` or `site/data/` (all in `.gitignore`). Do commit `letters/`, the CSVs and the `*.md` indexes.
 - **Don't edit data by hand** in `hau/letters`, `he_letters/letters` or the CSVs. Change the scripts and let the Action regenerate.
-- **The Actions also push to `main`.** Pull before committing; this repo uses `pull.rebase true`.
+- **The Actions also push to `main`.** Pull before committing; this repo uses `pull.rebase true`. The workflows commit through `scripts/commit_and_push.sh`: when another job pushed to the same files meanwhile, it keeps this run's version of the conflicting files and re-runs the rebuild steps, so indexes come out right.
 - **Issue bodies are capped:** 100 rows per section and under 65,536 characters. First runs skip the issue.
 - **Preview the site:** `python3 scripts/build_site_data.py && python3 -m http.server -d site 8000`.
   - Site code is vanilla JS with d3 7.9.0 from cdnjs. Fonts are Newsreader, Public Sans and IBM Plex Mono. Colors are CSS tokens with light and dark themes.

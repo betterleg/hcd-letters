@@ -49,13 +49,7 @@ jobs:
 
       - name: Commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add -A requested hau he_letters
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -q -m "Requested letters: text and matches updated ($(date -u +%F))"
-            git pull --rebase -q
-            git push
-          fi
+          bash scripts/commit_and_push.sh \
+            "Requested letters: text and matches updated ($(date -u +%F))" \
+            "python3 scripts/requested_letters.py && cd he_letters && python3 parse_letters.py . letters_parsed.json && python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv && cd .. && python3 scripts/build_index.py hau && python3 scripts/build_he_index.py he_letters" \
+            requested hau he_letters

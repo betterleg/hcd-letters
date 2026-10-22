@@ -59,16 +59,10 @@ jobs:
 
       - name: Commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add -A hau requested
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -q -m "HAU letters: ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted ($(date -u +%F))"
-            git pull --rebase -q
-            git push
-          fi
+          bash scripts/commit_and_push.sh \
+            "HAU letters: ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted ($(date -u +%F))" \
+            "python3 scripts/requested_letters.py --only hau && python3 scripts/build_index.py hau" \
+            hau requested
 
       - name: Open an issue for new letters
         if: env.OPEN_ISSUE == 'true' && steps.compare.outputs.first_run != 'true' && (steps.compare.outputs.new != '0' || steps.compare.outputs.newly_posted != '0')
