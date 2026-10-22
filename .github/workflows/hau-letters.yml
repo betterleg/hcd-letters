@@ -29,8 +29,8 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Install pdftotext
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Install pdftotext and OCR
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr
 
       - name: Keep last run's table for comparison
         run: cp hau/hau_letters.csv "$RUNNER_TEMP/previous.csv" 2>/dev/null || touch "$RUNNER_TEMP/previous.csv"
@@ -48,6 +48,9 @@ jobs:
         working-directory: hau
         run: python3 extract_letters.py
 
+      - name: Add letters requested from HCD (requested/ folder)
+        run: python3 scripts/requested_letters.py --only hau
+
       - name: Build indexes
         run: python3 scripts/build_index.py hau
 
@@ -58,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add -A hau
+          git add -A hau requested
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

@@ -38,7 +38,8 @@ def main(root):
             i = idx.get(r["task"], {})
             tf = i.get("text_file", "")
             text = f"[text](../{quote(tf)})" if tf else {"contact_hcd": "not public", "failed": "PDF missing"}.get(i.get("status", ""), "")
-            pdf = f"[PDF]({r['letter_url']})" if (r.get("letter_url") or "").startswith("http") else "Contact HCD"
+            pdf = (f"[PDF]({r['letter_url']})" if (r.get("letter_url") or "").startswith("http")
+                   else f"[PDF](../../{quote(i['local_pdf'])}) (requested)" if i.get("local_pdf") else "Contact HCD")
             st = r.get("statutes", "")
             st = st if len(st) <= 80 else st[:77] + "…"
             out.append(f"| {r.get('letter_date','')} | {esc(r.get('jurisdiction'))} | {esc(r.get('letter_type'))} | "

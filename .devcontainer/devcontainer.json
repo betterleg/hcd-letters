@@ -1,5 +1,5 @@
 {
   "name": "HCD letters",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "postCreateCommand": "sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils"
+  "postCreateCommand": "sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr"
 }

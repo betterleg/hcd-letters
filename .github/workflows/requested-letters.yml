@@ -1,0 +1,61 @@
+name: Requested letters
+
+# Runs when you add or change PDFs in requested/ (letters obtained from HCD by request).
+# Extracts their text (OCR for scans), matches them to the dashboards, updates both
+# letters_index.csv files, the review-letter findings and the indexes, and commits.
+# The weekly jobs re-apply requested/ after every dashboard pull, so nothing here is lost.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "requested/**/*.pdf"
+      - "requested/**/*.PDF"
+      - "requested/manifest.csv"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: requested-letters
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Install pdftotext and OCR
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr
+
+      - name: Match PDFs and save their text
+        run: python3 scripts/requested_letters.py
+
+      - name: Review-letter findings and submittal dates
+        working-directory: he_letters
+        run: |
+          python3 parse_letters.py . letters_parsed.json
+          python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv
+
+      - name: Build indexes
+        run: |
+          python3 scripts/build_index.py hau
+          python3 scripts/build_he_index.py he_letters
+
+      - name: Summary
+        run: cat requested/README.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A requested hau he_letters
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -q -m "Requested letters: text and matches updated ($(date -u +%F))"
+            git pull --rebase -q
+            git push
+          fi

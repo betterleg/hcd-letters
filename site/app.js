@@ -22,8 +22,10 @@
     return n;
   };
   const link = (href, text) => (href ? el('a', { href, target: '_blank', rel: 'noopener' }, text) : null);
-  const readCell = (r) => el('td', { class: 'read' }, link(r.text && gh(r.text), 'Text'), link(r.pdf, 'PDF'),
-    r.hePdf ? link(r.hePdf, 'Element') : null, !r.text && !r.pdf ? el('span', { class: 'src' }, r.contact ? 'Request from HCD' : 'No copy') : null);
+  const readCell = (r) => el('td', { class: 'read' }, link(r.text && gh(r.text), 'Text'), link(r.pdf || (r.req && gh(r.req)), 'PDF'),
+    r.hePdf ? link(r.hePdf, 'Element') : null,
+    r.req ? el('span', { class: 'src', title: 'Not posted by HCD; obtained by request and kept in this repo' }, 'Requested') : null,
+    !r.text && !r.pdf && !r.req ? el('span', { class: 'src' }, r.contact ? 'Request from HCD' : 'No copy') : null);
   const pill = (s) => {
     const k = /enforcement|out/i.test(s) ? 'out' : /review/i.test(s) ? 'rev' : /^in$/i.test(s) ? 'in' : 'na';
     return el('span', { class: `pill ${k}` }, s || 'Not listed');
@@ -48,16 +50,16 @@
     const [hau, he, comp, meta] = await Promise.all(['hau', 'he', 'compliance', 'meta'].map(get));
     if (meta?.repo) REPO = meta.repo;
     const H = (hau?.rows || []).map((r) => {
-      const [date, jur, type, laws, statutes, keywords, pdf, text, cs, task] = r;
+      const [date, jur, type, laws, statutes, keywords, pdf, text, cs, task, req] = r;
       const t = hau.dict.type[type];
       return { src: 'HAU', date, year: date.slice(0, 4), jur: hau.dict.jur[jur], key: hau.jurKey[jur], type: t, group: hau.typeGroup[t],
         laws: laws.map((i) => hau.dict.law[i]), statutes: statutes.map((i) => hau.dict.statute[i]),
-        keywords: keywords.map((i) => hau.dict.keyword[i]), pdf, text, cs, task, contact: !pdf };
+        keywords: keywords.map((i) => hau.dict.keyword[i]), pdf, text, cs, task, req, contact: !pdf && !req };
     });
     const E = (he?.rows || []).map((r) => {
-      const [date, jur, county, type, cycle, finding, submittal, days, pdf, text, hePdf, heType, contact] = r;
+      const [date, jur, county, type, cycle, finding, submittal, days, pdf, text, hePdf, heType, contact, req] = r;
       return { src: 'HE', date, year: date.slice(0, 4), jur: he.dict.jur[jur], key: he.jurKey[jur], county: he.dict.county[county],
-        type: he.dict.type[type], cycle, finding, submittal, days, pdf, text, hePdf, heType: he.dict.heType[heType], contact: contact === 'contact' };
+        type: he.dict.type[type], cycle, finding, submittal, days, pdf, text, hePdf, heType: he.dict.heType[heType], req, contact: contact === 'contact' };
     });
     const C = (comp?.rows || []).map(([county, jurisdiction, cycle, recordType, reviewStatus, received, reviewed, status, key]) =>
       ({ county, jur: jurisdiction, cycle, recordType, reviewStatus, received, reviewed, status, key }));
@@ -139,7 +141,8 @@
     const kpi = (label, value, sub, alert) => el('div', { class: `kpi${alert ? ' alert' : ''}` }, el('span', { class: 'label' }, label), el('span', { class: 'value' }, value), el('span', { class: 'sub' }, sub));
     $('#kpis').replaceChildren(
       kpi('HAU letters', fmt(H.length), `${fmt(recent90)} in the last 90 days`),
-      kpi('Housing element review letters', fmt(E.length), `${fmt(E.filter((r) => r.text).length)} with full text`),
+      kpi('Housing element review letters', fmt(E.length), `${fmt(E.filter((r) => r.text).length)} with full text`
+        + (H.concat(E).some((r) => r.req) ? `; ${fmt(H.concat(E).filter((r) => r.req).length)} letters requested from HCD` : '')),
       kpi('Out of compliance now', fmt(outNow.length), `of ${fmt(C.length)} jurisdictions on HCD's report`, true),
       kpi('Median review time', recentDays.length ? `${d3.median(recentDays)} days` : '—', 'submittal to HCD letter, last 12 months'),
     );

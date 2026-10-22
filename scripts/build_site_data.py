@@ -6,6 +6,7 @@ Build the JSON the web page reads, from the CSVs both jobs keep in this repo.
 Inputs (whatever exists; a missing file just leaves that part of the page empty):
   hau/hau_letters.csv, hau/letters_index.csv
   he_letters/letters_analysis.csv, he_letters/letters_index.csv, he_letters/compliance.csv
+  (letters_index.csv rows with local_pdf are letters requested from HCD; see scripts/requested_letters.py)
 Outputs:
   site/data/hau.json         one row per HAU letter
   site/data/he.json          one row per housing element review letter
@@ -77,7 +78,9 @@ def type_group(t):
 
 def build_hau():
     rows = read("hau/hau_letters.csv")
-    text = {r["task"]: r.get("text_file", "") for r in read("hau/letters_index.csv") if r.get("status", "").startswith("downloaded")}
+    idx = read("hau/letters_index.csv")
+    text = {r["task"]: r.get("text_file", "") for r in idx if r.get("status", "").startswith("downloaded")}
+    req = {r["task"]: r["local_pdf"] for r in idx if r.get("local_pdf")}  # PDFs requested from HCD, in requested/
     D = {k: Dict() for k in ("jur", "type", "law", "statute", "keyword")}
     out = []
     for r in rows:
@@ -86,11 +89,11 @@ def build_hau():
             r.get("letter_date", ""), D["jur"](r.get("jurisdiction")), D["type"](r.get("letter_type")),
             [D["law"](x) for x in split(r.get("housing_laws"))], [D["statute"](x) for x in split(r.get("statutes"))],
             [D["keyword"](x) for x in split(r.get("keywords"))], r.get("letter_url", "") if (r.get("letter_url") or "").startswith("http") else "",
-            ("hau/" + tf) if tf else "", r.get("case_number", ""), r["task"],
+            ("hau/" + tf) if tf else "", r.get("case_number", ""), r["task"], req.get(r["task"], ""),
         ])
     groups = {t: type_group(t) for t in D["type"].values}
     return {
-        "cols": ["date", "jur", "type", "laws", "statutes", "keywords", "pdf", "text", "case", "task"],
+        "cols": ["date", "jur", "type", "laws", "statutes", "keywords", "pdf", "text", "case", "task", "req"],
         "dict": {k: d.values for k, d in D.items()}, "typeGroup": groups,
         "jurKey": [jkey(j) for j in D["jur"].values], "rows": out,
     }
@@ -98,25 +101,30 @@ def build_hau():
 
 def build_he():
     rows = read("he_letters/letters_analysis.csv")
-    text = {}
+    text, req = {}, {}
     for r in read("he_letters/letters_index.csv"):
         if r.get("status", "").startswith("downloaded"):
             text[(r["jurisdiction"], r["reviewed"], r["weblink"])] = r.get("text_file", "")
+        if r.get("local_pdf"):  # requested from HCD: no public link, so key on jurisdiction + date + type
+            req[(r["jurisdiction"], r["reviewed"], r["type"])] = (r.get("text_file", ""), r["local_pdf"])
     D = {k: Dict() for k in ("jur", "county", "type", "heType")}
     out = []
     for r in rows:
         pdf = r.get("pdf_url", "") if (r.get("pdf_url") or "").startswith("http") else ""
         tf = text.get((r["jurisdiction"], r["letter_date"], pdf), "") if pdf else ""
+        rq = "" if pdf else req.get((r["jurisdiction"], r["letter_date"], r.get("type", "")), ("", ""))
+        if rq:
+            tf, rq = rq
         days = r.get("review_days", "")
         out.append([
             r.get("letter_date", ""), D["jur"](r.get("jurisdiction")), D["county"](r.get("county")), D["type"](r.get("type")),
             r.get("cycle", ""), r.get("finding", "") if r.get("finding") in ("In", "Out") else "",
             r.get("submittal_date", ""), int(days) if days.lstrip("-").isdigit() else None, pdf,
             ("he_letters/" + tf) if tf else "", r.get("he_pdf_url", ""), D["heType"](r.get("he_type")),
-            "contact" if r.get("status") == "contact_hcd" else "",
+            "contact" if r.get("status") == "contact_hcd" and not rq else "", rq,
         ])
     return {
-        "cols": ["date", "jur", "county", "type", "cycle", "finding", "submittal", "days", "pdf", "text", "hePdf", "heType", "contact"],
+        "cols": ["date", "jur", "county", "type", "cycle", "finding", "submittal", "days", "pdf", "text", "hePdf", "heType", "contact", "req"],
         "dict": {k: d.values for k, d in D.items()}, "jurKey": [jkey(j) for j in D["jur"].values], "rows": out,
     }
 

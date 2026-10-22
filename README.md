@@ -31,6 +31,17 @@ The **Website** workflow rebuilds the page after each Monday data job, so it sta
 
 To preview it in a codespace: `python3 scripts/build_site_data.py && python3 -m http.server -d site 8000`, then open port 8000 from the Ports tab.
 
+## Letters requested from HCD (`requested/`)
+
+Letters the dashboards list as "Contact HCD for a copy" can be added once you have them. Upload the PDFs into `requested/` (on GitHub: **Add file** → **Upload files**; subfolders are fine) and commit. The **Requested letters** workflow then:
+
+1. extracts each PDF's text, using OCR for scans;
+2. matches it to its dashboard row: HAU letters by task number (`CSTASK…`) or case number, any letter by jurisdiction + letter date;
+3. saves the text with the public letters (`hau/letters/`, `he_letters/letters/`, file names ending `__requested`) and marks that row in `letters_index.csv` as downloaded, `fetched_from` = `requested_from_hcd`;
+4. updates the findings, indexes and website, where these letters show a **Requested** tag and a PDF link into this repo.
+
+`requested/README.md` lists every PDF and what it matched, with a **To check** list for any the matcher couldn't place. Fix those in `requested/manifest.csv` (instructions at the bottom of that README). The weekly jobs re-apply the folder after every dashboard pull, so a letter HCD lists later is picked up then. This also covers the five review letters missing from HCD's site (`TODO.md` #4). The repo is public, so anything in `requested/` is public.
+
 ## Where to start reading
 
 - `hau/LETTERS.md`: HAU letters by year, letter type, housing law and most-cited statute.
@@ -48,7 +59,7 @@ To search the text, use GitHub's search box with "In this repository", e.g. `659
 |---|---|
 | `hau_letters.csv` | One row per letter: task, case number, date, jurisdiction, letter type, housing laws, statutes, keywords, PDF link. |
 | `hau_statutes.csv`, `hau_keywords.csv`, `hau_laws.csv` | One row per letter–tag pair, joined on `task`. |
-| `letters_index.csv` | Each letter's download status. |
+| `letters_index.csv` | Each letter's download status; `local_pdf` points to a PDF in `requested/` for letters requested from HCD. |
 
 **`he_letters/`**
 
@@ -122,7 +133,7 @@ cd he_letters && bash run_all.sh && python3 extract_letters.py --cycle 6 --count
 
 ## Notes
 
-- **HAU letters:** "Contact HCD for a copy" letters have no public PDF; you can request them from HAUportal@hcd.ca.gov. Surplus Land Act and Affordable Housing Preservation Law letters aren't on this dashboard.
+- **HAU letters:** "Contact HCD for a copy" letters have no public PDF; you can request them from HAUportal@hcd.ca.gov and add them to `requested/`. Surplus Land Act and Affordable Housing Preservation Law letters aren't on this dashboard.
 - **Housing element review letters, broken links:** about 5% of the dashboard's PDF links are broken. The downloader retries the same file name in two HCD website folders and applies `url_overrides.csv`, which together recovered 98 of 102 broken links in October 2026.
 - **Housing element review letters, "Contact HCD":** 3,434 of these letters, mostly before 2019, are listed as "Contact HCD" with no public copy.
 - **Cost:** GitHub Actions is free and unlimited for public repos. A private repo uses your account's monthly Actions minutes; two weekly runs of a few minutes each use very little.
