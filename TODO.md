@@ -58,6 +58,7 @@ The rules-based analysis files findings by requirement and topic but can't say *
 
 ## Done
 
+- 2026-10-23: **Analysis** workflow (manual) to rebuild citations, standard language and requirements without a dashboard pull; analysis steps in the weekly jobs can no longer block saving new letters; numpy installed from Ubuntu packages.
 - 2026-10-23: Search and the letter reader work on older iPhones (iOS before 16.4): removed a JavaScript feature those versions of Safari can't read.
 - 2026-10-22: **#9 Language tab** (standard paragraphs with use by year, each wording with changes marked, the letters using it, recurring headings). **#11 plain letter-kind labels** (compliance as its own field). **#12 Requirements tab and charts** (reviews to compliance, kinds of letters by round, requirements / issues / commitments by round with staying power, last hurdles, programs in compliance letters; cycle and county controls) and **sortable, filterable tables with CSV download on every tab**, with sort and filters kept in the page address. **#16 (text part) letter reader**: every "Read" link opens the letter on the site, with find-in-letter, search words highlighted, HCD's standard sentences dimmed, and a shareable link.
 - 2026-10-22: Dropped: request the five missing review letters from HCD (was #4).

@@ -5,7 +5,7 @@ name: Website
 # One-time setup: Settings -> Pages -> Build and deployment -> Source: GitHub Actions.
 on:
   workflow_run:
-    workflows: ["HAU letters", "Housing element review letters", "Requested letters"]
+    workflows: ["HAU letters", "Housing element review letters", "Requested letters", "Analysis"]
     types: [completed]
   push:
     branches: [main]

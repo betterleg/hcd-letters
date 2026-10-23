@@ -1,0 +1,52 @@
+name: Analysis
+
+# Re-runs the letter analysis from the text already in the repo, without pulling the dashboards:
+# statute citations, standard language (PATTERNS.md, patterns.json) and the requirements analysis
+# (REQUIREMENTS.md, letter_outcomes.csv, programs.csv). Run it by hand after changing an analysis
+# script; the weekly jobs run the same steps. The Website workflow rebuilds after it.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: analysis
+  cancel-in-progress: false
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Install numpy
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq python3-numpy
+
+      - name: Citations
+        run: |
+          python3 scripts/parse_citations.py hau
+          python3 scripts/parse_citations.py he
+
+      - name: Standard language
+        run: |
+          python3 scripts/letter_patterns.py he
+          python3 scripts/letter_patterns.py hau
+
+      - name: Requirements
+        run: python3 scripts/letter_requirements.py
+
+      - name: Keywords
+        run: python3 scripts/clean_keywords.py
+
+      - name: Summary
+        run: |
+          head -40 he_letters/REQUIREMENTS.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          bash scripts/commit_and_push.sh \
+            "Analysis: citations, standard language, requirements ($(date -u +%F))" \
+            "python3 scripts/parse_citations.py hau && python3 scripts/parse_citations.py he && python3 scripts/letter_patterns.py he && python3 scripts/letter_patterns.py hau && python3 scripts/letter_requirements.py && python3 scripts/clean_keywords.py" \
+            hau he_letters

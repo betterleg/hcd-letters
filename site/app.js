@@ -560,7 +560,7 @@
   // ---------- Requirements ----------
   DRAW.requirements = async () => {
     const R = await getJSON('requirements');
-    if (!R) { $('#rq-facts').textContent = 'The requirements data is built by the weekly review-letter job; it is not available yet.'; return; }
+    if (!R) { $('#rq-facts').textContent = 'No requirements data yet. Run the "Analysis" workflow on GitHub (Actions tab), or wait for the next weekly review-letter run.'; return; }
     const D = R.dict;
     const ALL = R.rows.map((r) => ({ jur: D.jur[r[0]], county: D.county[r[1]], date: r[2], type: D.type[r[3]], cycle: r[4], round: r[5],
       compliance: D.compliance[r[6]], kind: D.kind[r[7]], reqs: r[8].map((i) => D.req[i]), issues: r[9].map((i) => D.issue[i]).filter((x) => x !== '(no topic label)'),
@@ -684,7 +684,7 @@
       $('#lg-detail').hidden = true;
       const pat = LG?.sources?.[src]?.patterns;
       if (!pat) {
-        $('#lg-table').replaceChildren(el('p', { class: 'empty' }, 'Built by the weekly job for these letters; not available yet.'));
+        $('#lg-table').replaceChildren(el('p', { class: 'empty' }, 'No standard-language data for these letters yet. Run the "Analysis" workflow on GitHub (Actions tab), or wait for the next weekly run.'));
         $('#lg-heads').replaceChildren();
         return;
       }

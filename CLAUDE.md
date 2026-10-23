@@ -12,6 +12,7 @@ This repo holds weekly scrapes of three of HCD's Power BI dashboards, the full t
 | `he_letters/` | Housing Element Download Tool: review letters (page 2), housing element documents (page 1), and the Review and Compliance Report. | `.github/workflows/he-letters.yml` (Mon 15:53 UTC) |
 | `site/` | HCD Letter Tracker website on GitHub Pages (betterleg.github.io/hcd-letters) | `.github/workflows/pages.yml` (after each data job) |
 | `requested/` | PDFs Matt obtained from HCD by request ("Contact HCD" letters), plus `manifest.csv` (match per PDF) and a generated `README.md` | `.github/workflows/requested-letters.yml` (on push to `requested/`); also re-applied by both weekly jobs |
+| (analysis) | Citations, standard language, requirements, rebuilt from text in the repo | `.github/workflows/analysis.yml` (manual) |
 | `scripts/` | Run comparison and issue body (`compare_runs.py`), Markdown indexes (`build_index.py`, `build_he_index.py`), citations (`parse_citations.py`), keyword grouping (`clean_keywords.py`), requested letters, site data (`build_site_data.py`) and search index (`build_search_index.py`), safe push (`commit_and_push.sh`) | used by the workflows |
 
 `TODO.md` is the backlog. Update it when items ship: move them to **Done** with the date.

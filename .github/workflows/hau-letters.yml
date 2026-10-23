@@ -30,7 +30,7 @@ jobs:
           node-version: "22"
 
       - name: Install pdftotext and OCR
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr && pip install -q numpy
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr python3-numpy
 
       - name: Keep last run's table for comparison
         run: cp hau/hau_letters.csv "$RUNNER_TEMP/previous.csv" 2>/dev/null || touch "$RUNNER_TEMP/previous.csv"
@@ -54,9 +54,12 @@ jobs:
       - name: Build indexes
         run: |
           python3 scripts/parse_citations.py hau
-          python3 scripts/letter_patterns.py hau
           python3 scripts/clean_keywords.py
           python3 scripts/build_index.py hau
+
+      - name: Standard language analysis
+        continue-on-error: true   # never block saving new letters
+        run: python3 scripts/letter_patterns.py hau
 
       - name: Summary
         run: cat hau/CHANGES.md >> "$GITHUB_STEP_SUMMARY"

@@ -30,7 +30,7 @@ jobs:
           node-version: "22"
 
       - name: Install pdftotext and OCR
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr && pip install -q numpy
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr python3-numpy
 
       - name: Keep last run's table for comparison
         run: cp he_letters/letters.csv "$RUNNER_TEMP/previous.csv" 2>/dev/null || touch "$RUNNER_TEMP/previous.csv"
@@ -60,9 +60,13 @@ jobs:
       - name: Build indexes
         run: |
           python3 scripts/parse_citations.py he
+          python3 scripts/build_he_index.py he_letters
+
+      - name: Standard language and requirements analysis
+        continue-on-error: true   # never block saving new letters
+        run: |
           python3 scripts/letter_patterns.py he
           python3 scripts/letter_requirements.py
-          python3 scripts/build_he_index.py he_letters
 
       - name: Summary
         run: cat he_letters/CHANGES.md >> "$GITHUB_STEP_SUMMARY"

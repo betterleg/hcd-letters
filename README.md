@@ -107,6 +107,10 @@ To search the text, use the website's Search tab, or GitHub's search box with "I
 
 To change a schedule, edit the `cron:` line in `.github/workflows/hau-letters.yml` or `he-letters.yml`. The time is in UTC.
 
+## Re-running the analysis
+
+**Actions** → **Analysis** → **Run workflow** rebuilds the citations, standard-language and requirements files from the letter text already in the repo (no dashboard pull, a few minutes), then the website. Use it after changing an analysis script, or to fill the Requirements and Language tabs the first time.
+
 ## Notifications
 
 - **New letters:** each job opens an issue listing them, and GitHub emails you if you're watching the repo. To turn the issues off, set `OPEN_ISSUE: "false"` in that workflow.
