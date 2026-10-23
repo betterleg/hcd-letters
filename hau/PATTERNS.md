@@ -1,0 +1,484 @@
+# Standard language in HCD's HAU letters
+
+From 1,257 letters with text and 18,997 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+
+## Recurring headings
+
+| Heading | Letters |
+|---|---|
+| Statutory Numbering - The Ordinance contains several … | 34 |
+
+## Recurring paragraphs
+
+### Group 1: 338 letters (27%), 2022–2026
+
+> State housing laws are effective only with the cooperation of local governments. HCD understands that local governments may encounter staffing and resource constraints in their efforts to gain compliance. However, housing elements, and the timely implementation thereof, are essential to developing a blueprint for growth and are a vital tool to address California’s prolonged housing crisis. To meet the 6th cycle update requirements for a substantially compliant housing element, the <JTYPE> must consider HCD’s written findings from previous drafts, make a draft housing element available for public comment, adopt the housing element, and submit it to HCD for review and certification before it can be considered compliant. <N>
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 68 | 2025–2025 |
+| 2 | 53 | 2023–2024 |
+| 3 | 32 | 2024–2024 |
+| 4 | 24 | 2024–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> ~~Housing~~ **HCD recognizes that, ultimately, state housing laws are effective only with the cooperation of local governments and understands staffing and resource constraints that may hinder efforts to gain compliance. However, housing** elements are essential to developing … that fail to comply with **State** Housing Element Law. **To meet the 6th cycle update requirements, the <JTYPE> must submit a draft housing element to HCD for review, consider HCD’s written findings, adopt the housing element, and submit it to HCD for review and determination of substantial compliance. (Gov. Code, § 65585.)**
+
+### Group 2: 205 letters (16%), 2021–2026
+
+> HCD appreciates the <JTYPE> efforts in the preparation and adoption of the Ordinance and welcomes the opportunity to assist the <JTYPE> in fully complying with State ADU Law. Please feel free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you have any questions or wish to discuss any of HCD’s findings.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 35 | 2021–2024 |
+| 2 | 28 | 2023–2026 |
+| 3 | 9 | 2026–2026 |
+| 4 | 9 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> HCD appreciates the <JTYPE> efforts … with State ADU Law. Please **feel free to** contact Mike Van ~~Gorder, of our staff, at (<N>) <N>-<N> or~~ **Gorder** at mike.vangorder@hcd.ca.gov if you have any ~~questions or would like HCD’s technical assistance in these matters.~~ **questions.**
+
+### Group 3: 196 letters (16%), 2021–2026
+
+> Thank you for submitting the <JTYPE> of <JUR> (<JTYPE>) ADU Ordinance No. <N> (Ordinance), adopted <DATE>, to the California Department of Housing and Community Development (HCD). HCD has reviewed the Ordinance and submits these written findings pursuant to Government Code section 66326, subdivision (a). HCD finds that the Ordinance fails to comply with State ADU Laws in the manner noted below. Pursuant to Government Code section 66326, subdivision (b)(<N>), the <JTYPE> has up to <N> days to respond to these findings. Accordingly, the <JTYPE> must provide a written response to these findings no later than <DATE>, with a plan to either amend the current ordinance or adopt a resolution with findings. <N> Responses should be submitted formally on agency letterhead.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 69 | 2022–2026 |
+| 2 | 25 | 2025–2026 |
+| 3 | 18 | 2022–2024 |
+| 4 | 13 | 2022–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Thank you for submitting the … these findings no later than ~~<DATE>.~~ **<DATE>, with a plan to either amend the current ordinance or adopt a resolution with findings. <N> Responses should be submitted formally on agency letterhead.**
+
+### Group 4: 194 letters (15%), 2025–2026
+
+> HCD requests a response by <DATE> with either (<N>) a description of how the ADU ordinance continues to comply with State ADU Law despite the changes to the law, or (<N>) a plan and timeline to either repeal the current ordinance or adopt an amended, compliant ordinance and submit it to HCD for review.
+
+### Group 5: 193 letters (15%), 2025–2026
+
+> The most recent ADU ordinance on file for the <JTYPE> of <JUR> with the California Department of Housing and Community Development (HCD) is from 2023. Given the numerous changes to State ADU Law since the adoption of the ordinance, the ordinance may be outdated and out of compliance with State ADU Law. If HCD’s records are incorrect, and a new ordinance has been adopted, please submit it to the ADU Portal for HCD’s review.
+
+### Group 6: 193 letters (15%), 2025–2026
+
+> Below are the changes to State ADU Law that have occurred in recent years and may warrant an update to the <JTYPE> of <JUR> ADU ordinance:
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 126 | 2025–2026 |
+| 2 | 36 | 2025–2025 |
+| 3 | 20 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Below are the changes to … an update to the <JTYPE> ~~of <JUR>~~ ADU ordinance:
+
+### Group 7: 193 letters (15%), 2025–2026
+
+> met, including that the primary dwelling was substantially damaged or destroyed by an event referenced in the state of emergency proclamation (Gov. Code, § 66328). • Creates an exception to areas that fall under the California Coastal Act by requiring a local government or the Coastal Commission, as specified, to either approve or deny a coastal development permit application for an ADU within <N> days of receiving a completed application (Gov. Code, § 66329, subd. (a).) • Specifies that no reimbursement is required for school service charges, fees, or assessments sufficient to pay for the program or level of service within the meaning of Government Code section <N> (Gov. Code, § 66329). • Specifies that reasonable restrictions in covenants, restrictions, and conditions, as described in the Civil Code, shall not include any fees or other financial requirements (Civil Code, § <N>, subd. (b)). Changes to ADU Law in <N>: • SB <N> (Chapter <N> Statutes of <N>) made changes to the numbering of the sections of the Government Code for State ADU and JADU Laws. • Prohibits a local agency from denying a permit for an unpermitted ADU or JADU that was constructed before <DATE>, for building code violations, unless the local agency makes a finding that correcting the violation is necessary to comply with conditions that would otherwise deem a building substandard (Gov. Code, § 66332, subds. (a)-(c)). • Defines “livable space” as a space in a dwelling intended for human habitation, as the term appears in Government Code sections 66313, subdivision (e), and 66323, subdivision (a)(<N>)(A). • Provides that uncovered, off-street parking spaces demolished in conjunction with the construction of an ADU do not need to be replaced (Gov. Code, § 66314, subd. (d)(<N>)). • Changes the allowable number of detached ADUs on a lot with an existing multifamily dwelling to eight detached ADUs, provided that the number of ADUs does not exceed the number of existing units on the lot (Gov. Code, § 66323, subd. (a)(<N>)(A)(ii)). • Prohibits a local agency from imposing any objective development standards on 66323 Units that are not authorized by the provisions of Government Code section 66323, subdivision (a) (Gov. Code, § 66323, subd. (b)). Changes to ADU Law in <N>: • Sunsets a former prohibition on a local agency imposing an owner occupancy requirement on any ADU and instead prohibits a local agency from requiring owner occupancy for an ADU (Gov. Code, § 66315).
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 65 | 2025–2026 |
+| 2 | 54 | 2025–2026 |
+| 3 | 37 | 2026–2026 |
+| 4 | 37 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Changes to ADU Law in … Code, § 66314, subd. (d)(<N>)). **• Changes the allowable number of detached ADUs on a lot with an existing multifamily dwelling to eight detached ADUs, provided that the number of ADUs does not exceed the number of existing units on the lot (Gov. Code, § 66323, subd. (a)(<N>)(A)(ii)). • Prohibits a local agency from imposing any objective development standards on 66323 Units that are not authorized by the provisions of Government Code section 66323, subdivision (a) (Gov. Code, § 66323, subd. (b)).**
+
+### Group 8: 193 letters (15%), 2025–2026
+
+> If an existing ADU ordinance fails to meet the requirements of State ADU Law, the ordinance is “null and void” and the local jurisdiction must apply the standards set forth in State ADU Law until it adopts an ordinance that complies with state law (Gov. Code, § 66316). HCD recommends that a local jurisdiction with a noncompliant ADU ordinance repeal the ordinance to provide clarity for ADU applicants who may otherwise rely on the outdated ordinance.
+
+### Group 9: 184 letters (15%), 2021–2026
+
+> Consequences apply if the <JTYPE> does not have a housing element in substantial compliance with Housing Element Law. First, noncompliance results in ineligibility or delay in receiving state funds that require a compliant housing element as a prerequisite, including, but not limited to, the following:
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 46 | 2022–2025 |
+| 2 | 37 | 2023–2023 |
+| 3 | 24 | 2024–2025 |
+| 4 | 19 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Various consequences may apply if … Housing Element Law. First, noncompliance ~~will~~ result in ineligibility or delay … not limited to, the following:
+
+### Group 10: 178 letters (14%), 2021–2026
+
+> • Permanent Local Housing Allocation Program • Local Housing Trust Fund Program • Infill Infrastructure Grant Program • Senate Bill <N> Caltrans Sustainable Communities Grants • Affordable Housing and Sustainable Communities Program
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 117 | 2021–2025 |
+| 2 | 58 | 2024–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> • Permanent Local Housing Allocation … Infill Infrastructure Grant Program • ~~SB~~ **Senate Bill** <N> Caltrans Sustainable Communities Grants • Affordable Housing and Sustainable Communities Program
+
+### Group 11: 170 letters (14%), 2021–2026
+
+> The Ordinance addresses many statutory requirements; however, HCD finds that the Ordinance does not comply with State ADU Law as follows:
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 89 | 2022–2026 |
+| 2 | 71 | 2024–2026 |
+| 3 | 7 | 2021–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> The Ordinance addresses many statutory … comply with State ADU Law ~~in the following respects:~~ **as follows:**
+
+### Group 12: 169 letters (13%), 2021–2025
+
+> Second, jurisdictions that do not meet their housing element requirements may face additional financial and legal ramifications. HCD may notify the California Office of the Attorney General, which may bring suit for violations of Housing Element Law. <N> Further, state law provides for court-imposed penalties for persistent noncompliance, including financial penalties. For example, Government Code section 65585, subdivision (l)(<N>), establishes a minimum fine of $<N> per month, up to $<N> per month. If a jurisdiction remains noncompliant, a court can multiply those penalties by a factor of six. Other potential ramifications could include the loss of local land use authority to a court- appointed agent. <N>
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 100 | 2022–2025 |
+| 2 | 27 | 2021–2023 |
+| 3 | 14 | 2025–2025 |
+| 4 | 14 | 2024–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Second, jurisdictions that do not … bring suit for violations of **State** Housing Element Law. Further, ~~state law~~ **statute** provides for court-imposed penalties for persistent noncompliance, including financial penalties. ~~For example,~~ Government Code section 65585, subdivision … per month. If a jurisdiction ~~remains~~ **continues to remain** noncompliant, a court can multiply ~~those~~ **the** penalties ~~by~~ **up to** a factor of six. Other … land use authority to a ~~court- appointed~~ **court-appointed** agent.
+
+### Group 13: 156 letters (12%), 2025–2026
+
+> Updates to the ADU Handbook (<N>) • Clarifies that ADU Law prohibits deed restrictions on ADUs. A deed restriction would be an “additional standard” and thus cannot be imposed on ADUs (Gov. Code, § 66315). • Clarifies that homeowners’ associations (HOAs), as a third party, cannot influence the approval of an application to create an ADU. Third party reviews by an HOA or their representatives or agents would violate State ADU Law. (Gov. Code, § 66315.) No other local ordinances, policies, or regulations may be applied in the approval or denial of an ADU or junior ADU (JADU) permit application (Gov. Code, § 66317, subd. (c)). • Clarifies that a local agency may not require parking as a condition to permitting a JADU, even when the JADU is converted from an attached garage (Gov. Code, § 66334, subd. (a)).
+
+### Group 14: 155 letters (12%), 2025–2026
+
+> Changes to ADU Law in <N>: • Sunsets a former prohibition on a local agency imposing an owner occupancy requirement on any ADU and instead prohibits a local agency from requiring owner occupancy for an ADU (Gov. Code, § 66315). • Allows a local agency to adopt a local ordinance to allow the separate conveyance of the primary dwelling unit and ADU(s) as condominiums, subject to certain conditions (Gov. Code, §§ 66340-66342).
+
+### Group 15: 151 letters (12%), 2021–2025
+
+> <N> For purposes of the Housing Accountability Act, housing for very low-, low-, or moderate-income households is defined as having at least <N> percent of units set aside for low-income residents or <N> percent of units set aside for middle-income residents. (Gov. Code § 65589.5, subd. (h)(<N>).)
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 102 | 2022–2025 |
+| 2 | 12 | 2022–2024 |
+| 3 | 10 | 2024–2025 |
+| 4 | 8 | 2024–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> ~~<N> For purposes of the Housing Accountability Act, housing for very low-, low-, or moderate-income~~ households is defined as having … Code § 65589.5, subd. (h)(<N>).)
+
+### Group 16: 150 letters (12%), 2021–2025
+
+> In addition to these legal remedies available in the courts, under the Housing Accountability Act, jurisdictions without a substantially compliant housing element cannot rely on inconsistency with zoning and general plan standards as a basis for denial of a housing project for very low-, low-, or moderate-income households. <N>
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 67 | 2022–2025 |
+| 2 | 46 | 2023–2025 |
+| 3 | 20 | 2021–2022 |
+| 4 | 7 | 2023–2023 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> In addition to these legal … courts, under the Housing Accountability ~~Act (Gov. Code, § 65589.5, subd. (d)),~~ **Act,** jurisdictions without a substantially compliant … for very low-, low-, or ~~moderate- income~~ **moderate-income** households. <N>
+
+### Group 17: 147 letters (12%), 2023–2026
+
+> Various consequences may apply if the <JTYPE> does not have a housing element in compliance with Housing Element Law, including ineligibility or delay in receiving certain state funds, referral to the California Office of the Attorney General, court-imposed financial penalties, the loss of local land use authority to a court-appointed agent, and the application of the “builder’s remedy.” <N>
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 112 | 2024–2026 |
+| 2 | 18 | 2023–2025 |
+| 3 | 6 | 2024–2025 |
+| 4 | 6 | 2024–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Various consequences may apply if … housing element in compliance with **State** Housing Element Law, including ineligibility … application of the “builder’s remedy.” ~~<N>~~ **(Gov. Code, §§ 65585, subds. (j), (l)(<N>), (i), 65589.5, subd. (d)(<N>).)**
+
+### Group 18: 147 letters (12%), 2023–2025
+
+> HCD looks forward to receiving your written response to this inquiry. If you have any questions or would like to discuss the content of this letter, please contact Reid Miller, Housing Policy Specialist, at Reid.Miller@hcd.ca.gov.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 71 | 2025–2025 |
+| 2 | 30 | 2024–2024 |
+| 3 | 16 | 2023–2024 |
+| 4 | 6 | 2025–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> HCD looks forward to receiving … this letter, please contact Reid ~~Miller, Housing Policy Specialist,~~ **Miller of our staff** at Reid.Miller@hcd.ca.gov.
+
+### Group 19: 140 letters (11%), 2025–2026
+
+> • Revises the definition of a “junior accessory dwelling unit” to require the size of a JADU to be no more than <N> square feet of interior livable space (Gov. Code, § 66313, subd. (d)). • Revises the limitations on impact fees to, instead, prohibit impact fees upon the development of an ADU that has <N> square feet of interior livable space or less or a JADU that has <N> square feet of interior livable space or less, and to require that any impact fee on an ADU that has more than <N> square feet of interior livable space be charged proportionately in relation to the square footage of the primary dwelling unit (Gov. Code, § 66311.5, subds. (a) – (d)). • Requires a permitting agency to determine whether an application for an ADU or JADU is complete and provide written notice of the determination not later than <N> business days after the permitting agency received the application (Gov. Code, § 66317, subd. (a)(<N>)(A)). • Requires the permitting agency to provide the applicant with a list of incomplete items and a description of how the application can be made complete in the written notice, and authorizes the applicant to cure and address the application, as specified, if it is determined that an application is incomplete (Gov. Code, § 66317, subd. (a)(<N>)(B)). • Requires the permitting agency to provide a process for the applicant to appeal a denied application, as provided, and requires the permitting agency to provide a final written determination by not later than <N> business days after receipt of the written appeal if a permit application is determined to be incomplete or is denied (Gov. Code, § 66317, subd. (d)(<N>)). • Specifies that an ADU or JADU that contains less than <N> square feet of interior livable space does not increase assessable space. • Revises size limitations to be based on the square footage of interior living space of the ADU (Gov. Code, § 66321, subds. (b)(<N>)(A), (b)(<N>)(B), and (b)(<N>)). • Specifies the number of allowable ADUs per lot with a proposed or existing single-family dwelling (Gov. Code, § 66323, subd. (a). • Clarifies that fire sprinklers are not required for a JADU if the primary residence does not have fire sprinklers and that the addition of a JADU cannot trigger the requirement for fire sprinklers (Gov. Code, § 66323, subd. (d)). • Adds section 66333.5, which specifies that if a local agency fails to submit an adopted JADU ordinance to HCD within the <N>-day timeline or fails to respond to HCD’s findings regarding their ordinance within the <N>-day timeline, that ordinance is null and void and the local agency must only apply State ADU Law when processing applications for ADUs. • Requires a local agency to issue a certificate of occupancy for an ADU constructed in a county that is subject to a proclamation of a state of emergency made by the Governor on or after <DATE>, even if the primary dwelling has not yet been issued a certificate of occupancy, if certain requirements are
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 103 | 2025–2026 |
+| 2 | 37 | 2026–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> ~~Changes to ADU Law in <N>: • Specifies that if a JADU has shared sanitation facilities with the primary structure, owner-occupancy will be required. If the JADU does not have shared sanitation facilities, owner-occupancy will not be required (Gov. Code, § 66333, subd. (b)). • Requires rental terms for JADUs for terms longer than <N> days (Gov. Code, § 66333, subd. (g)). • Specifies that if a local agency fails to submit an adopted ADU ordinance to HCD within the <N>-day timeline or fails to respond to HCD’s findings regarding their ordinance within the <N>-day timeline, that ordinance is null and void and the local agency must only apply State ADU Law when permitting ADUs (Gov. Code, § 66326, subd. (d)).~~ • Revises the definition of … made complete in the written ~~notice~~ **notice,** and authorizes the applicant to … subds. (b)(<N>)(A), (b)(<N>)(B), and (b)(<N>)). **• Specifies the number of allowable ADUs per lot with a proposed or existing single-family dwelling (Gov. Code, § 66323, subd. (a). • Clarifies that fire sprinklers are not required for a JADU if the primary residence does not have fire sprinklers and that the addition of a JADU cannot trigger the requirement for fire sprinklers (Gov. Code, § 66323, subd. (d)). • Adds section 66333.5, which specifies that if a local agency fails to submit an adopted JADU ordinance to HCD within the <N>-day timeline or fails to respond to HCD’s findings regarding their ordinance within the <N>-day timeline, that ordinance is null and void and the local agency must only apply State ADU Law when processing applications for ADUs. • Requires a local agency to issue a certificate of occupancy for an ADU constructed in a county that is subject to a proclamation of a state of emergency made by the Governor on or after <DATE>, even if the primary dwelling has not yet been issued a certificate of occupancy, if certain requirements are**
+
+### Group 20: 140 letters (11%), 2023–2026
+
+> Government Code section 65585, subdivision (i), grants HCD authority to review any action or failure to act by a local government that it determines is inconsistent with an adopted housing element or Housing Element Law. This includes failure to implement program actions included in the housing element. Failure to implement rezone actions in Program <N> by the statutory deadline means the <JTYPE> housing element will no longer substantially comply with Housing Element Law, and HCD may revoke its finding of substantial compliance.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 60 | 2024–2025 |
+| 2 | 23 | 2023–2025 |
+| 3 | 7 | 2024–2025 |
+| 4 | 6 | 2024–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Government Code section 65585, subdivision … to implement rezone actions in ~~Program~~ **Programs <N> and** <N> by the statutory deadline means the <JTYPE> housing element will no ~~longer substantially comply with Housing Element Law, and HCD may revoke its finding of substantial compliance.~~
+
+### Group 21: 139 letters (11%), 2023–2026
+
+> HCD will consider any written response before taking further action authorized by Government Code section 65585, subdivision (i), including issuance of a Corrective Action Letter and revocation of HCD’s finding of housing element compliance.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 71 | 2025–2025 |
+| 2 | 39 | 2024–2025 |
+| 3 | 13 | 2025–2026 |
+| 4 | 13 | 2023–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> HCD will consider any written … a Corrective Action Letter and ~~revocation~~ **removal** of HCD’s finding of housing element compliance.
+
+### Group 22: 129 letters (10%), 2022–2025
+
+> HCD will consider any written response before taking further action authorized by Government Code section 65585, subdivision (j), including referral to the California Office of the Attorney General.
+
+### Group 23: 127 letters (10%), 2022–2026
+
+> <N> Gov. Code, § 66326, subd. (c)(<N>). <N> Gov. Code, § 66326, subd. (b)(<N>)(A). <N> Gov. Code, § 66326, subd. (b)(<N>)(B). <N> Gov. Code, § 66326, subd. (c)(<N>).
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 55 | 2024–2026 |
+| 2 | 30 | 2024–2026 |
+| 3 | 20 | 2022–2025 |
+| 4 | 8 | 2026–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> <N> Gov. Code, § 66326, … Code, § 66326, subd. (b)(<N>)(B). ~~<N> Gov. Code, § 66326, subd. (c)(<N>).~~
+
+### Group 24: 124 letters (10%), 2022–2026
+
+> The <JTYPE> has two options in response to this letter. <N> The <JTYPE> can either amend the Ordinance to comply with State ADU Law <N> or adopt the Ordinance without changes and include findings in its resolution accompanying the Ordinance that explain the reasons the <JTYPE> believes that the Ordinance complies with State ADU Law despite HCD’s findings. <N> If the <JTYPE> fails to take either course of action and bring the Ordinance into compliance with State ADU Law, HCD must notify the <JTYPE> and may notify the California Office of the Attorney General that the <JTYPE> is in violation of State ADU Law. <N>
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 72 | 2023–2026 |
+| 2 | 22 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> The <JTYPE> has two options … <N> The <JTYPE> can either **<N>)** amend the Ordinance to comply with State ADU Law <N> or **<N>)** adopt the Ordinance without changes and include findings in its resolution ~~adopting~~ **accompanying** the Ordinance that explain the … to take either course of ~~action and bring~~ **action, or if HCD finds that** the **newly adopted** Ordinance ~~into~~ **remains out of** compliance with State ADU ~~Law,~~ **Law despite the <JTYPE> findings and explanations,** HCD must notify the <JTYPE> … of State ADU Law. <N>
+
+### Group 25: 121 letters (10%), 2024–2026
+
+> The purpose of this letter is to inquire about the status of the <JTYPE> of <JUR> (<JTYPE>) 6th Cycle Housing Element implementation program related to sites to accommodate the Regional Housing Needs Allocation (RHNA) pursuant to Government Code section 65585, subdivision (i). The California Department of Housing and Community Development (HCD) sent the <JTYPE> a letter on <DATE>, finding the <JTYPE> housing element in substantial compliance with Housing Element Law. <N> This was based on, among other reasons, the <JTYPE> commitment to complete Program <N> (Housing Sites Inventory) to allow by-right processing of sites identified in previous housing elements pursuant to Government Code section 65583.2, subdivision (c).
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 12 | 2025–2025 |
+| 2 | 5 | 2025–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> The purpose of this letter … (<JTYPE>) 6th Cycle Housing Element ~~Implementation Programs~~ **implementation program related to sites to accommodate the Regional Housing Needs Allocation (RHNA)** pursuant to Government Code section … the <JTYPE> a letter on ~~<DATE>~~ **<DATE>,** finding the <JTYPE> housing element … among other reasons, the <JTYPE> ~~responsibility~~ **commitment** to complete ~~Programs according~~ **Program <N> (Housing Sites)** to ~~timeline commitments.~~ **rezone adequate sites to satisfy its RHNA shortfall.**
+
+### Group 26: 119 letters (9%), 2025–2026
+
+> Changes to ADU Law in <N>: • Requires that an application for the creation of an ADU or JADU is deemed approved (not just subject to ministerial approval) if the local agency has not approved or denied the completed application within <N> days (Gov. Code, § 66317, subd. (a)). • Requires ministerial approval of an application for a building permit within a residential or mixed-use zone to create one ADU and one JADU per lot (not one or the other), within the proposed or existing single-family dwelling, if certain conditions are met (Gov. Code, § 66323, subd. (a)(<N>)(A)). • Allows for rental or leasing of a separate interest ADU or JADU in a common interest development, notwithstanding governing documents that otherwise appear to prohibit renting or leasing of a unit, and without regard to the date of the governing documents (Civ. Code, §§ <N> subd. (a); <N> subd. (a)). • Allows a homeowner to create “any of the following”: one converted or attached ADU; one detached, new construction ADU; and one JADU (Gov. Code, § 66323, subds. (a)(<N>)-(<N>)). More information can be found in HCD’s <N> ADU Handbook.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 66 | 2025–2026 |
+| 2 | 53 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> ~~Changes to ADU Law in <N>: • Requires that an application for the creation of an ADU or JADU is deemed approved (not just subject to ministerial approval) if the local agency has not approved or denied the completed application within <N> days (Gov. Code, § 66317, subd. (a)).~~ • Requires ministerial approval of … in HCD’s <N> ADU Handbook.
+
+### Group 27: 119 letters (9%), 2025–2026
+
+> Changes to ADU Law in <N>: • Prohibits a local agency from including requirements on minimum lot size in development standards for ADUs (Gov. Code, § 66314, subd. (b)(<N>)). • Allows a local agency to designate areas where ADUs may be located based on the adequacy of water and sewer services, as well as on impacts on traffic flow and public safety (Gov. Code, § 66314, subd. (a)). • Eliminates all owner occupancy requirements by a local agency for ADUs approved between <DATE>, and <DATE> (Gov. Code, § 66315). • Prohibits a local agency from establishing a maximum size of an ADU of less than <N> square feet, or <N> square feet if the ADU contains more than one bedroom and requires approval of a permit to build an ADU of up to <N> square feet (Gov. Code, § 66321, subds. (b)(<N>), (b)(<N>)). • Prohibits a local agency from requiring replacement of off-street parking spaces for ADUs created through the conversion of a garage, carport, or covered parking structure (Gov. Code, § 66314, subd. (d)(<N>)). • Reduces the maximum ADU and JADU application review time from <N> days to <N> days (Gov. Code, §§ 66317, subd. (a); 66335, subd. (<N>)). • Clarifies that “public transit” includes various means of transportation that charge set fees, run on fixed routes, and are available to the public (Gov. Code, § 66313, subd. (m)). • Adds impact fee exemptions and limitations based on the size of the ADU. ADUs up to <N> square feet are exempt from impact fees, and ADUs that are <N> square feet or larger may be charged impact fees but those fees must be proportional in size (by square foot) to fees charged for the primary dwelling unit (Gov. Code, § 66324, subd. (c)(<N>)). • Defines of an “accessory structure” to mean a structure that is accessory and incidental to a dwelling on the same lot (Gov. Code, § 66313, subd. (b)). • Permits JADUs even where a local agency has not adopted an ordinance expressly authorizing them (Gov. Code, § 66320). • Allows for a permitted JADU to be constructed within the walls of the proposed or existing single-family residence and eliminates the required inclusion of an existing bedroom and an interior entry into the single-family residence (Gov. Code, § 66333, subd. (d)). • Requires, upon application and approval, a local agency to delay enforcement against a qualifying substandard ADU for five years to allow the owner to correct the violation, so long as the violation is not a health and safety issue, as determined by the enforcement agency (Gov. Code, § 66331; HSC, § <N>).
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 66 | 2025–2026 |
+| 2 | 53 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Changes to ADU Law in <N>: • Prohibits ~~a~~ local ~~agency~~ **agencies** from including requirements on minimum … 66314, subd. (b)(<N>)). • Allows ~~a~~ local ~~agency~~ **agencies** to designate areas where ADUs … all owner occupancy requirements by ~~a~~ local ~~agency~~ **agencies** for ADUs approved between <DATE>, … larger may be charged impact ~~fees~~ **fees,** but those fees must be … Code, § 66313, subd. (b)). ~~• Permits JADUs even where a local agency has not adopted an ordinance expressly authorizing them (Gov. Code, § 66320). • Allows for a permitted JADU to be constructed within the walls of the proposed or existing single-family residence and eliminates the required inclusion of an existing bedroom and an interior entry into the single-family residence (Gov. Code, § 66333, subd. (d)). • Requires, upon application and approval, a local agency to delay enforcement against a qualifying substandard ADU for five years to allow the owner to correct the violation, so long as the violation is not a health and safety issue, as determined by the enforcement agency (Gov. Code, § 66331; HSC, § <N>).~~
+
+### Group 28: 119 letters (9%), 2022–2025
+
+> Please be aware, pursuant to Government Code section 65588, subdivision (e)(<N>)(C)(iii), a local government that fails to adopt a compliant housing element within one year from the statutory deadline cannot be found in compliance until any rezones necessary to accommodate a shortfall of sites pursuant to Government Code sections 65583, subdivision (c)(<N>)(A), and 65583.2, subdivision (c), are completed.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 37 | 2023–2023 |
+| 2 | 18 | 2024–2025 |
+| 3 | 17 | 2023–2024 |
+| 4 | 16 | 2024–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Please ~~note,~~ **be aware,** pursuant to ~~Assembly Bill <N> (Chapter <N> Statutes of <N>),~~ **Government Code section 65588, subdivision (e)(<N>)(C)(iii),** a ~~jurisdiction~~ **local government** that fails to adopt a … accommodate a shortfall of sites **pursuant to Government Code sections 65583, subdivision (c)(<N>)(A), and 65583.2, subdivision (c),** are completed. ~~(Gov. Code, § 65583, subd. (c)(<N>)(A), Gov. Code, § 65583.2, subd. (c).)~~
+
+### Group 29: 118 letters (9%), 2025–2026
+
+> Changes to ADU Law in <N>: • Allows a local agency to permit the separate conveyance of ADUs from the primary dwelling under Government Code section 66341 in certain circumstances.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 65 | 2025–2026 |
+| 2 | 53 | 2025–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Changes to ADU Law in <N>: • Allows ~~a~~ local ~~agency~~ **agencies** to permit the separate conveyance … section 66341 in certain circumstances.
+
+### Group 30: 107 letters (9%), 2022–2026
+
+> If you have any questions or would like to discuss the content of this letter, please contact Mary Milner of our staff at mary.milner@hcd.ca.gov.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 54 | 2022–2025 |
+| 2 | 20 | 2024–2025 |
+| 3 | 6 | 2026–2026 |
+| 4 | 6 | 2022–2023 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> If you have any questions … of this letter, please contact ~~Kevin Hefner~~ **Mary Milner** of our staff at ~~Kevin.Hefner@hcd.ca.gov.~~ **mary.milner@hcd.ca.gov.**
+
+### Group 31: 104 letters (8%), 2022–2026
+
+> The 6th cycle planning period for the <JTYPE> of <JUR> is <DATE>, through <DATE>. The <JTYPE> failed to adopt a compliant housing element by its 6th cycle due date of <DATE>, pursuant to Government Code section 65588. HCD records are as follows:
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 57 | 2023–2024 |
+| 2 | 20 | 2025–2026 |
+| 3 | 8 | 2023–2023 |
+| 4 | 7 | 2022–2023 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> The 6th cycle planning period for the <JTYPE> ~~of <JUR>~~ is <DATE>, through <DATE>. The … 6th cycle due date of ~~<DATE>, pursuant to Government Code section 65588.~~ **<DATE>.** HCD records are as follows:
+
+### Group 32: 103 letters (8%), 2025–2026
+
+> • Specifies the number of allowable ADUs per lot with a proposed or existing single-family dwelling (Gov. Code, § 66323, subd. (a). • Clarifies that fire sprinklers are not required for a JADU if the primary residence does not have fire sprinklers and that the addition of a JADU cannot trigger the requirement for fire sprinklers (Gov. Code, § 66323, subd. (d)). • Adds section 66333.5, which specifies that if a local agency fails to submit an adopted JADU ordinance to HCD within the <N>-day timeline or fails to respond to HCD’s findings regarding their ordinance within the <N>-day timeline, that ordinance is null and void and the local agency must only apply State ADU Law when processing applications for ADUs. • Requires a local agency to issue a certificate of occupancy for an ADU constructed in a county that is subject to a proclamation of a state of emergency made by the Governor on or after <DATE>, even if the primary dwelling has not yet been issued a certificate of occupancy, if certain requirements are met, including that the primary dwelling was substantially damaged or destroyed by an event referenced in the state of emergency proclamation (Gov. Code, § 66328). • Creates an exception to areas that fall under the California Coastal Act by requiring a local government or the Coastal Commission, as specified, to either approve or deny a coastal development permit application for an ADU within <N> days of receiving a completed application (Gov. Code, § 66329, subd. (a).) • Specifies that no reimbursement is required for school service charges, fees, or assessments sufficient to pay for the program or level of service within the meaning of Government Code section <N> (Gov. Code, § 66329). • Specifies that reasonable restrictions in covenants, restrictions, and conditions, as described in the Civil Code, shall not include any fees or other financial requirements (Civil Code, § <N>, subd. (b)).
+
+### Group 33: 102 letters (8%), 2025–2026
+
+> • Provides that uncovered, off-street parking spaces demolished in conjunction with the construction of an ADU do not need to be replaced (Gov. Code, § 66314, subd. (d)(<N>)). • Changes the allowable number of detached ADUs on a lot with an existing multifamily dwelling to eight detached ADUs, provided that the number of ADUs does not exceed the number of existing units on the lot (Gov. Code, § 66323, subd. (a)(<N>)(A)(ii)). • Prohibits a local agency from imposing any objective development standards on 66323 Units that are not authorized by the provisions of Government Code section 66323, subdivision (a) (Gov. Code, § 66323, subd. (b)).
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 65 | 2025–2026 |
+| 2 | 36 | 2026–2026 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> **• Provides that uncovered, off-street parking spaces demolished in conjunction with the construction of an ADU do not need to be replaced (Gov. Code, § 66314, subd. (d)(<N>)).** • Changes the allowable number … Code, § 66323, subd. (b)).
+
+### Group 34: 83 letters (7%), 2022–2026
+
+> However, Government Code section 66323, subdivision (a), states, "Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall ministerially approve an application for a building permit within a residential or mixed-use zone to create any of the following: (<N>) One accessory dwelling unit and one junior accessory dwelling unit per lot with a proposed or existing single-family dwelling…(A) The accessory dwelling unit or junior accessory dwelling unit is within the proposed space of a single family dwelling or existing space of a single-family dwelling or accessory structure." Paragraph (<N>) permits "[o]ne detached, new construction, accessory dwelling unit that does not exceed four-foot side and rear yard setbacks." The use of the term "any" followed by a list of permitted ADU types indicates that any of these ADU types can be combined on a lot zoned for single-family dwellings.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 9 | 2024–2026 |
+| 2 | 9 | 2025–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> **However,** Government Code section 66323, subdivision (a), states, ~~“Notwithstanding~~ **"Notwithstanding** Sections 66314 to 66322, inclusive, … a single-family dwelling or accessory ~~structure.”~~ **structure."** Paragraph (<N>) permits ~~“[o]ne~~ **"[o]ne** detached, new construction, accessory dwelling … four-foot side and rear yard ~~setbacks.”~~ **setbacks."** The use of the term ~~“any”~~ **"any"** followed by ~~an enumeration~~ **a list** of ~~by right~~ **permitted** ADU types ~~permitted indicate~~ **indicates** that any of these ADU … on a lot zoned for ~~single family~~ **single-family** dwellings.
+
+### Group 35: 74 letters (6%), 2022–2025
+
+> • On <DATE>, the <JTYPE> submitted a draft housing element to HCD for review. • On <DATE>, HCD issued a findings letter to the <JTYPE> noting multiple revisions necessary for the housing element to be compliant with State Housing Element Law. • On <DATE>, the <JTYPE> submitted an element adopted on <DATE>, to HCD for review. • On <DATE>, HCD issued a second findings letter to the <JTYPE> noting revisions were still necessary for the housing element to be compliant with State Housing Element Law.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 42 | 2022–2024 |
+| 2 | 6 | 2022–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> • On <DATE>, the <JTYPE> … with State Housing Element Law. ~~• On <DATE>, the <JTYPE> submitted an element adopted on <DATE>, to HCD for review. • On <DATE>, HCD issued a second findings letter to the <JTYPE> noting revisions were still necessary for the housing element to be compliant with State Housing Element Law.~~
+
+### Group 36: 69 letters (5%), 2023–2026
+
+> 1. Statutory Numbering - The Ordinance contains several references to code sections that were deleted by SB <N> effective <DATE>. These include Government Code sections 65852.2, 65852.22 and 65852.26. The contents of these sections were relocated to Government Code, Title <N> Division <N> Chapter <N> (sections 66310-66342, see Enclosure). The <JTYPE> must amend the Ordinance to refer to the correct code sections.
+
+### Group 37: 68 letters (5%), 2025–2025
+
+> To ensure the <JTYPE> continues to meet the 6th cycle update requirements for a substantially compliant housing element, HCD requests that the <JTYPE> provide an update on the status and timeline of implementation of Program <N> by <DATE> and submit any adopted rezones and accompanying resolutions to HCD for review.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 25 | 2025–2025 |
+| 2 | 13 | 2025–2025 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> To ensure the <JTYPE> continues … and timeline of implementation of ~~Program~~ **Programs <N> and** <N> by <DATE> and submit … resolutions to HCD for review.
+
+### Group 38: 66 letters (5%), 2025–2026
+
+> • Makes covenants, conditions, and restrictions that either effectively prohibit or unreasonably restrict the construction or use of an ADU or JADU on a lot zoned for single-family residential use void and unenforceable (Civ. Code, § <N>)).
+
+### Group 39: 66 letters (5%), 2022–2024
+
+> In response to the findings in this letter, and pursuant to Government Code section 65852.2, subdivision (h)(<N>)(B), the <JTYPE> must either amend the Ordinance to comply with State ADU Law or adopt the Ordinance without changes. Should the <JTYPE> choose to adopt the Ordinance without the changes specified by HCD, the <JTYPE> must include findings in its resolution that explain the reasons the <JTYPE> finds that the Ordinance complies with State ADU Law despite the findings made by HCD. Accordingly, the <JTYPE> response should provide a plan and timeline to bring the Ordinance into compliance.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 47 | 2022–2024 |
+| 2 | 9 | 2024–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> In response to the findings … pursuant to Government Code section ~~65852.2,~~ **66326,** subdivision ~~(h)(<N>)(B),~~ **(b)(<N>),** the <JTYPE> must either amend … bring the Ordinance into compliance.
+
+### Group 40: 66 letters (5%), 2022–2024
+
+> Please note that, pursuant to Government Code section 65852.2, subdivision (h)(<N>)(A), if the <JTYPE> fails to take either course of action and bring the Ordinance into compliance with State ADU Law, HCD may notify the <JTYPE> and the California Office of the Attorney General that the <JTYPE> is in violation of State ADU Law.
+
+| Variant | Letters | Years |
+|---|---|---|
+| 1 | 52 | 2022–2024 |
+| 2 | 9 | 2024–2024 |
+
+How variant 2 differs from variant 1 (~~removed~~, **added**):
+
+> Please note that, pursuant to Government Code section ~~65852.2,~~ **66326,** subdivision ~~(h)(<N>)(A),~~ **(c)(<N>),** if the <JTYPE> fails to … violation of State ADU Law.
