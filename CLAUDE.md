@@ -12,7 +12,7 @@ This repo holds weekly scrapes of three of HCD's Power BI dashboards, the full t
 | `he_letters/` | Housing Element Download Tool: review letters (page 2), housing element documents (page 1), and the Review and Compliance Report. | `.github/workflows/he-letters.yml` (Mon 15:53 UTC) |
 | `site/` | HCD Letter Tracker website on GitHub Pages (betterleg.github.io/hcd-letters) | `.github/workflows/pages.yml` (after each data job) |
 | `requested/` | PDFs Matt obtained from HCD by request ("Contact HCD" letters), plus `manifest.csv` (match per PDF) and a generated `README.md` | `.github/workflows/requested-letters.yml` (on push to `requested/`); also re-applied by both weekly jobs |
-| `scripts/` | Run comparison and issue body (`compare_runs.py`), Markdown indexes (`build_index.py`, `build_he_index.py`), site data (`build_site_data.py`) | used by the workflows |
+| `scripts/` | Run comparison and issue body (`compare_runs.py`), Markdown indexes (`build_index.py`, `build_he_index.py`), citations (`parse_citations.py`), keyword grouping (`clean_keywords.py`), requested letters, site data (`build_site_data.py`) and search index (`build_search_index.py`), safe push (`commit_and_push.sh`) | used by the workflows |
 
 `TODO.md` is the backlog. Update it when items ship: move them to **Done** with the date.
 
@@ -43,6 +43,10 @@ This repo holds weekly scrapes of three of HCD's Power BI dashboards, the full t
   - `manual`, `not_on_dashboard` and `ignore` manifest rows are never changed by the script. Unmatched text goes to `requested/text/`.
   - Matched rows get `status=downloaded`, `fetched_from=requested_from_hcd`, `text_file`, and `local_pdf` (repo path). The site and index builders key these on jurisdiction + date + type (review letters) or task (HAU), since they have no public URL.
 
+- **`scripts/parse_citations.py hau|he`** writes `citations.csv` and `CITATIONS.md` in each folder from the letter text (format `65915(o)(8)`, other codes prefixed `HSC 17021.5`). Runs after the text download in both weekly jobs and in Requested letters. Bare "section 65583.2" gets `code_inferred=true` (the letter's own explicit code for that section if any, else HSC for 17000s/50000–53999, else GOV). Test cases are in the module docstring; on 2,043 review letters about 99% of 6xxxx section numbers in the text are captured.
+- **`scripts/clean_keywords.py`** writes `hau/keyword_map.csv` (raw keyword → grouped). Rows with `rule=manual` are Matt's and are never overwritten. Raw tags in `hau_letters.csv` stay as HCD wrote them.
+- **Search** (`scripts/build_search_index.py`, Website job only): unigram + bigram inverted index in 512 fnv1a-hashed shards under `site/search/`. The tokenizer and hash in `site/app.js` (`toks`, `fnv1a`) must match the Python. Snippets fetch letter text from raw.githubusercontent.com, so the repo must stay public for snippets to work.
+
 ## Baseline numbers (Oct 2026), for sanity-checking runs
 
 - **HAU:** 1,376 letters, 1,320 with text, 55 Contact HCD.
@@ -59,11 +63,11 @@ The workflows fail on purpose if the letter count drops more than 5% or by more 
 - **Don't edit data by hand** in `hau/letters`, `he_letters/letters` or the CSVs. Change the scripts and let the Action regenerate.
 - **The Actions also push to `main`.** Pull before committing; this repo uses `pull.rebase true`. The workflows commit through `scripts/commit_and_push.sh`: when another job pushed to the same files meanwhile, it keeps this run's version of the conflicting files and re-runs the rebuild steps, so indexes come out right.
 - **Issue bodies are capped:** 100 rows per section and under 65,536 characters. First runs skip the issue.
-- **Preview the site:** `python3 scripts/build_site_data.py && python3 -m http.server -d site 8000`.
+- **Preview the site:** `python3 scripts/build_site_data.py && python3 scripts/build_search_index.py && python3 -m http.server -d site 8000`.
   - Site code is vanilla JS with d3 7.9.0 from cdnjs. Fonts are Newsreader, Public Sans and IBM Plex Mono. Colors are CSS tokens with light and dark themes.
 - **Network:** HCD sites, Power BI, `hcdpowerbi.blob.core.windows.net` and the `wabi-…usgovcloudapi.net` API must be reachable. Ascent's Claude cloud workspace blocks them; GitHub Actions and Codespaces do not.
 
 ## Related
 
-- Matt's Housing Laws Navigator (a claude.ai artifact of California housing statutes) is the likely target for statute links in TODO item #1.
+- Matt's Housing Laws Navigator (a claude.ai artifact of California housing statutes) is the likely target for statute links (TODO #6).
 - The earlier one-off toolkits (`hcd_pipeline`, `hcd_letters_pipeline`, `hcd_hau_pipeline`) are superseded by this repo.

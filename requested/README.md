@@ -2,25 +2,12 @@
 
 PDFs of letters that HCD's dashboards list as "Contact HCD for a copy", obtained by request. Each weekly job (and any push to this folder) extracts their text, matches them to the dashboard and adds them to the indexes and the website, marked *requested from HCD*. Instructions are at the bottom of this page.
 
-**5 PDFs**: 4 matched to a dashboard letter, 1 to check. Updated 2026-10-22.
-
-## Need a look
-
-Fix these in [`manifest.csv`](manifest.csv) (see below).
-
-| File | Status | What the script found |
-|---|---|---|
-| [Beverly-Hills-SB-79-Review-050826 (1).pdf](Beverly-Hills-SB-79-Review-050826%20%281%29.pdf) | no_match | no dashboard row for a jurisdiction named in it within 3 days of 2026-05-08 |
+**0 PDFs**: 0 matched to a dashboard letter, 0 to check. Updated 2026-10-22.
 
 ## All requested letters
 
 | File | Source | Jurisdiction | Letter date | Type / task | Match | Text |
 |---|---|---|---|---|---|---|
-| [oceanside-hau-3630-sb-79-out-101526.pdf](oceanside-hau-3630-sb-79-out-101526.pdf) | HAU | Oceanside | 2026-10-15 | CSTASK0027553 | auto | [text](../hau/letters/Oceanside_SB_79_Ordinance-Alternative_Plan_Finding_2026-10-15_HAU0003630__requested.txt) |
-| [palo alto-hau-3614-sb-79-in-101326 (1).pdf](palo%20alto-hau-3614-sb-79-in-101326%20%281%29.pdf) | HAU | Palo Alto | 2026-10-13 | CSTASK0027530 | auto | [text](../hau/letters/Palo_Alto_SB_79_Ordinance-Alternative_Plan_Finding_2026-10-13_HAU0003614__requested.txt) |
-| [culver-city-sb79-101226.pdf](culver-city-sb79-101226.pdf) | HAU | Culver City | 2026-10-12 | CSTASK0027480 | auto | [text](../hau/letters/Culver_City_SB_79_Ordinance-Alternative_Plan_Finding_2026-10-12_HAU0003603__requested.txt) |
-| [Pasadena-3572-sb-79-out-092526.pdf](Pasadena-3572-sb-79-out-092526.pdf) | HAU | Pasadena | 2026-09-25 | CSTASK0027329 | auto | [text](../hau/letters/Pasadena_SB_79_Ordinance-Alternative_Plan_Finding_2026-09-25_HAU0003572__requested.txt) |
-| [Beverly-Hills-SB-79-Review-050826 (1).pdf](Beverly-Hills-SB-79-Review-050826%20%281%29.pdf) |  |  |  |  | no_match | [text](text/Beverly-Hills-SB-79-Review-050826%20%281%29.txt) |
 
 ## How to add letters
 

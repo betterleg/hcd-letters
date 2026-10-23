@@ -9,7 +9,7 @@ on:
     types: [completed]
   push:
     branches: [main]
-    paths: ["site/**", "scripts/build_site_data.py", ".github/workflows/pages.yml"]
+    paths: ["site/**", "scripts/build_site_data.py", "scripts/build_search_index.py", ".github/workflows/pages.yml"]
   workflow_dispatch: {}
 
 permissions:
@@ -29,7 +29,9 @@ jobs:
         with:
           ref: main   # after a data job, use the commit it just pushed
       - name: Build site data
-        run: python3 scripts/build_site_data.py
+        run: |
+          python3 scripts/build_site_data.py
+          python3 scripts/build_search_index.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -52,7 +52,10 @@ jobs:
         run: python3 scripts/requested_letters.py --only hau
 
       - name: Build indexes
-        run: python3 scripts/build_index.py hau
+        run: |
+          python3 scripts/parse_citations.py hau
+          python3 scripts/clean_keywords.py
+          python3 scripts/build_index.py hau
 
       - name: Summary
         run: cat hau/CHANGES.md >> "$GITHUB_STEP_SUMMARY"
@@ -61,7 +64,7 @@ jobs:
         run: |
           bash scripts/commit_and_push.sh \
             "HAU letters: ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted ($(date -u +%F))" \
-            "python3 scripts/requested_letters.py --only hau && python3 scripts/build_index.py hau" \
+            "python3 scripts/requested_letters.py --only hau && python3 scripts/parse_citations.py hau && python3 scripts/clean_keywords.py && python3 scripts/build_index.py hau" \
             hau requested
 
       - name: Open an issue for new letters

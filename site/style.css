@@ -126,3 +126,32 @@ table.t { width: 100%; border-collapse: collapse; font-size: 13px; }
   .panel:not([hidden]) { animation: fade .25s ease-out; }
   @keyframes fade { from { opacity: .4; } to { opacity: 1; } }
 }
+
+/* Search */
+.tabs { align-items: center; }
+.qs { margin-left: auto; padding: 4px 0 4px 12px; flex: 0 0 auto; }
+.qs input { width: 13rem; }
+.sform { display: grid; gap: 12px 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); align-items: end; }
+.sform .wide { grid-column: 1 / -1; }
+.sform input[type="search"], .sform input[type="date"], .sform select { width: 100%; }
+input[type="date"] { font: inherit; font-size: 14px; color: var(--ink); background: var(--paper); border: 1px solid var(--rule); border-radius: var(--r); padding: 5px 8px; min-width: 0; }
+.sform .wide input { font-size: 16px; padding: 9px 10px; }
+.check { display: inline-flex; gap: 8px; align-items: center; font-size: 13px; color: var(--ink-2); }
+.sform-btns { display: flex; gap: 16px; align-items: center; }
+.btn { font: inherit; font-size: 14px; font-weight: 600; border: 1px solid var(--accent); background: var(--accent); color: var(--panel); border-radius: var(--r); padding: 7px 16px; cursor: pointer; text-decoration: none; display: inline-block; }
+.btn.ghost { background: transparent; color: var(--accent); font-weight: 500; }
+.btn:disabled { opacity: .5; cursor: default; }
+#sr-more { justify-self: start; }
+.results tr.snip td { border-top: 0; padding-top: 0; color: var(--ink-2); font-size: 12.5px; line-height: 1.45; }
+.results tr.hit td { border-bottom: 0; }
+mark { background: color-mix(in srgb, var(--amber) 32%, transparent); color: inherit; border-radius: 2px; padding: 0 1px; }
+.codes { display: flex; flex-wrap: wrap; gap: 2px 8px; }
+.tips { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; max-width: 90ch; }
+.busy { color: var(--ink-2); font-size: 13px; }
+@media (max-width: 720px) {
+  .qs { display: none; }
+}
+@media (max-width: 560px) {
+  .results td.read a, .results td.read .src { display: block; margin: 0 0 2px; }
+  .results td, .results th { padding-inline: 5px; }
+}

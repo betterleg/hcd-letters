@@ -11,6 +11,7 @@ Outputs:
   site/data/hau.json         one row per HAU letter
   site/data/he.json          one row per housing element review letter
   site/data/compliance.json  current status per jurisdiction (Review and Compliance Report)
+  site/data/citations.json   the citation strings that rows' "cites" lists point to (from */citations.csv)
   site/data/meta.json        build time, repo name, counts
 Rows are arrays with value dictionaries to keep the files small; app.js unpacks them.
 """
@@ -63,6 +64,32 @@ def split(v):
     return [x.strip() for x in (v or "").split(" | ") if x.strip()]
 
 
+CITE = Dict()  # normalized statute citations shared by both letter sets (scripts/parse_citations.py)
+
+
+def load_cites():
+    """text path (as used in the site, e.g. he_letters/letters/x.txt) -> [citation index, ...]"""
+    out = {}
+    for folder in ("hau", "he_letters"):
+        for r in read(f"{folder}/citations.csv"):
+            out.setdefault(f"{folder}/{r['text_file']}", []).append(CITE(r["normalized"]))
+    return out
+
+
+def keyword_cleaner():
+    """raw HCD keyword -> [grouped keywords], from hau/keyword_map.csv (scripts/clean_keywords.py)."""
+    rows = read("hau/keyword_map.csv")
+    if rows:
+        return {r["raw"]: [x for x in r["clean"].split(" | ") if x] for r in rows}
+    try:
+        import sys
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import clean_keywords
+        return clean_keywords.build(clean_keywords.raw_counts_from(ROOT / "hau" / "hau_letters.csv"), {})
+    except Exception:  # noqa: BLE001
+        return {}
+
+
 def type_group(t):
     t = (t or "").lower()
     if "technical assistance" in t:
@@ -76,8 +103,10 @@ def type_group(t):
     return "Other"
 
 
-def build_hau():
+def build_hau(cites):
     rows = read("hau/hau_letters.csv")
+    kw = keyword_cleaner()
+    variants = {}
     idx = read("hau/letters_index.csv")
     text = {r["task"]: r.get("text_file", "") for r in idx if r.get("status", "").startswith("downloaded")}
     req = {r["task"]: r["local_pdf"] for r in idx if r.get("local_pdf")}  # PDFs requested from HCD, in requested/
@@ -88,18 +117,25 @@ def build_hau():
         out.append([
             r.get("letter_date", ""), D["jur"](r.get("jurisdiction")), D["type"](r.get("letter_type")),
             [D["law"](x) for x in split(r.get("housing_laws"))], [D["statute"](x) for x in split(r.get("statutes"))],
-            [D["keyword"](x) for x in split(r.get("keywords"))], r.get("letter_url", "") if (r.get("letter_url") or "").startswith("http") else "",
+            sorted({D["keyword"](c) for x in split(r.get("keywords")) for c in kw.get(x, [x])}),
+            r.get("letter_url", "") if (r.get("letter_url") or "").startswith("http") else "",
             ("hau/" + tf) if tf else "", r.get("case_number", ""), r["task"], req.get(r["task"], ""),
+            cites.get("hau/" + tf, []) if tf else [],
         ])
+        for x in split(r.get("keywords")):
+            for c in kw.get(x, [x]):
+                if c != x:
+                    variants.setdefault(c, set()).add(x)
     groups = {t: type_group(t) for t in D["type"].values}
     return {
-        "cols": ["date", "jur", "type", "laws", "statutes", "keywords", "pdf", "text", "case", "task", "req"],
+        "cols": ["date", "jur", "type", "laws", "statutes", "keywords", "pdf", "text", "case", "task", "req", "cites"],
         "dict": {k: d.values for k, d in D.items()}, "typeGroup": groups,
+        "keywordVariants": {k: sorted(v) for k, v in variants.items()},
         "jurKey": [jkey(j) for j in D["jur"].values], "rows": out,
     }
 
 
-def build_he():
+def build_he(cites):
     rows = read("he_letters/letters_analysis.csv")
     text, req = {}, {}
     for r in read("he_letters/letters_index.csv"):
@@ -122,9 +158,10 @@ def build_he():
             r.get("submittal_date", ""), int(days) if days.lstrip("-").isdigit() else None, pdf,
             ("he_letters/" + tf) if tf else "", r.get("he_pdf_url", ""), D["heType"](r.get("he_type")),
             "contact" if r.get("status") == "contact_hcd" and not rq else "", rq,
+            cites.get("he_letters/" + tf, []) if tf else [],
         ])
     return {
-        "cols": ["date", "jur", "county", "type", "cycle", "finding", "submittal", "days", "pdf", "text", "hePdf", "heType", "contact", "req"],
+        "cols": ["date", "jur", "county", "type", "cycle", "finding", "submittal", "days", "pdf", "text", "hePdf", "heType", "contact", "req", "cites"],
         "dict": {k: d.values for k, d in D.items()}, "jurKey": [jkey(j) for j in D["jur"].values], "rows": out,
     }
 
@@ -141,13 +178,15 @@ def build_compliance():
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    hau, he, comp = build_hau(), build_he(), build_compliance()
+    cites = load_cites()
+    hau, he, comp = build_hau(cites), build_he(cites), build_compliance()
+    cit = {"dict": CITE.values}
     meta = {
         "built": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "repo": os.environ.get("GITHUB_REPOSITORY", "betterleg/hcd-letters"),
         "counts": {"hau": len(hau["rows"]), "he": len(he["rows"]), "compliance": len(comp["rows"])},
     }
-    for name, obj in (("hau", hau), ("he", he), ("compliance", comp), ("meta", meta)):
+    for name, obj in (("hau", hau), ("he", he), ("compliance", comp), ("citations", cit), ("meta", meta)):
         p = OUT / f"{name}.json"
         p.write_text(json.dumps(obj, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
         print(f"  {p.relative_to(ROOT)}: {p.stat().st_size / 1024:,.0f} KB")

@@ -22,10 +22,12 @@
   </div>
   <nav class="wrap tabs" role="tablist" aria-label="Sections">
     <a role="tab" href="#overview" data-tab="overview">Overview</a>
+    <a role="tab" href="#search" data-tab="search">Search</a>
     <a role="tab" href="#trends" data-tab="trends">Trends</a>
     <a role="tab" href="#statutes" data-tab="statutes">Statutes &amp; keywords</a>
     <a role="tab" href="#compliance" data-tab="compliance">Compliance</a>
     <a role="tab" href="#place" data-tab="place">Jurisdiction lookup</a>
+    <form class="qs" id="qs" role="search"><input type="search" id="qs-q" placeholder="Search letters" aria-label="Search letter text"></form>
   </nav>
 </header>
 
@@ -43,6 +45,44 @@
         <div class="chart" id="ov-chart"></div>
       </article>
     </div>
+  </section>
+
+  <!-- SEARCH -->
+  <section id="search" class="panel" role="tabpanel" hidden>
+    <article class="card">
+      <header><h2>Search the letters</h2><p class="note">Full text of every HAU and housing element review letter with a public or requested copy, plus the statute citations found in them and HCD's tags. Combine any of the boxes; all must match.</p></header>
+      <form id="sr-form" class="sform">
+        <label class="ctl wide">Words or "exact phrase" <input type="search" id="sr-q" name="q" placeholder='e.g. "sites inventory" parking -ADU' autocomplete="off"></label>
+        <label class="ctl">Code section <input type="search" id="sr-code" name="code" placeholder="e.g. 65915(o) or HSC 17021.5" autocomplete="off"></label>
+        <label class="ctl">City or county <input type="search" id="sr-jur" name="jur" list="sr-jurs" placeholder="e.g. Oceanside or San Diego County" autocomplete="off"><datalist id="sr-jurs"></datalist></label>
+        <label class="ctl">Source <select id="sr-src" name="src"><option value="">Both</option><option value="HAU">HAU letters</option><option value="HE">Housing element review letters</option></select></label>
+        <label class="ctl">Letter type <select id="sr-type" name="type"><option value="">Any</option></select></label>
+        <label class="ctl">Housing law (HAU) <select id="sr-law" name="law"><option value="">Any</option></select></label>
+        <label class="ctl">Keyword (HAU) <select id="sr-kw" name="keyword"><option value="">Any</option></select></label>
+        <label class="ctl">Cycle (review) <select id="sr-cycle" name="cycle"><option value="">Any</option><option value="7">7th</option><option value="6">6th</option><option value="5">5th</option><option value="4">4th</option></select></label>
+        <label class="ctl">Finding (review) <select id="sr-finding" name="finding"><option value="">Any</option><option>Out</option><option>In</option></select></label>
+        <label class="ctl">From <input type="date" id="sr-from" name="from"></label>
+        <label class="ctl">To <input type="date" id="sr-to" name="to"></label>
+        <label class="ctl">Sort <select id="sr-sort" name="sort"><option value="">Best match</option><option value="new">Newest first</option><option value="old">Oldest first</option></select></label>
+        <label class="check"><input type="checkbox" id="sr-text" name="text" value="1"> Only letters with text</label>
+        <div class="sform-btns"><button type="submit" class="btn">Search</button><button type="button" class="link" id="sr-clear">Clear</button></div>
+      </form>
+    </article>
+    <article class="card" id="sr-out" hidden>
+      <header class="row"><div><h2 id="sr-count"></h2><p class="note" id="sr-note"></p></div><button type="button" class="btn ghost" id="sr-csv">Download CSV</button></header>
+      <div class="tablebox tall"><table class="t results" id="sr-table"><thead><tr><th>Date</th><th>Jurisdiction</th><th>Letter</th><th class="hide-sm">Code sections</th><th>Read</th></tr></thead><tbody></tbody></table></div>
+      <button type="button" class="btn ghost" id="sr-more" hidden>Show more</button>
+    </article>
+    <article class="card" id="sr-help">
+      <header><h2>Tips</h2></header>
+      <ul class="note tips">
+        <li><b>Words</b> must all appear in the letter. Put a phrase in quotes for exact wording, and put a minus sign before a word to exclude it.</li>
+        <li><b>Code sections</b> match at the depth you type: <span class="code">65915</span> finds every subdivision of § 65915, <span class="code">65915(o)</span> finds (o) and everything under it. Letters match on citations found in the text and on HCD's statutory tags. Prefix other codes: <span class="code">HSC</span>, <span class="code">PRC</span>, <span class="code">CIV</span>, <span class="code">WIC</span>.</li>
+        <li><b>County names</b> find every jurisdiction in that county, e.g. <button type="button" class="link" data-search="jur=Riverside County">Riverside County</button>.</li>
+        <li>Try <button type="button" class="link" data-search='q="no net loss"&src=HAU'>"no net loss" in HAU letters</button>, <button type="button" class="link" data-search="code=65583.2(c)&cycle=6&finding=Out">§ 65583.2(c) in 6th-cycle "out" letters</button> or <button type="button" class="link" data-search='q="builder&#39;s remedy"'>"builder's remedy"</button>.</li>
+        <li>Every search has its own address, so you can bookmark or share it.</li>
+      </ul>
+    </article>
   </section>
 
   <!-- TRENDS -->
@@ -73,21 +113,27 @@
   <section id="statutes" class="panel" role="tabpanel" hidden>
     <article class="card">
       <header class="row">
-        <div><h2 id="st-title">Most-cited statutes</h2><p class="note">From the Statutory Reference and Keyword tags HCD assigns to each HAU letter. Click a row for its letters.</p></div>
+        <div><h2 id="st-title">Most-cited statutes</h2><p class="note" id="st-note"></p></div>
         <div class="ctl-group">
-          <div class="seg" role="group" aria-label="Tag type">
-            <button type="button" data-kind="statutes" aria-pressed="true">Statutes</button>
+          <div class="seg" role="group" aria-label="What to rank">
+            <button type="button" data-kind="statutes" aria-pressed="true">HCD statute tags</button>
+            <button type="button" data-kind="cites" aria-pressed="false">Cited in letters</button>
             <button type="button" data-kind="keywords" aria-pressed="false">Keywords</button>
           </div>
-          <input type="search" id="st-q" placeholder="Filter, e.g. 65915 or parking" aria-label="Filter tags">
+          <input type="search" id="st-q" placeholder="Filter, e.g. 65915 or parking" aria-label="Filter">
         </div>
       </header>
+      <div class="ctl-group">
+        <label class="ctl" id="st-src-l">Letters <select id="st-src"><option value="">Both sources</option><option value="HAU">HAU letters</option><option value="HE">Housing element review letters</option></select></label>
+        <label class="ctl" id="st-depth-l">Depth <select id="st-depth"><option value="0">Section</option><option value="1">Subdivision</option><option value="9">Full citation</option></select></label>
+        <label class="check" id="st-adu-l"><input type="checkbox" id="st-adu"> Group ADU Law (§§ 66310–66342) into one row</label>
+      </div>
       <div class="tablebox tall"><table class="t" id="st-table"><thead><tr><th>Tag</th><th class="num">Letters</th><th class="num">Last 12 mo.</th><th>By year</th><th>First</th><th>Latest</th></tr></thead><tbody></tbody></table></div>
     </article>
     <article class="card" id="st-detail" hidden>
-      <header class="row"><div><h2 id="st-d-title"></h2><p class="note" id="st-d-note"></p></div><button type="button" class="link" id="st-d-close">Close</button></header>
+      <header class="row"><div><h2 id="st-d-title"></h2><p class="note" id="st-d-note"></p></div><div class="ctl-group"><a class="btn ghost" id="st-d-search" href="#search">Search these letters</a><button type="button" class="link" id="st-d-close">Close</button></div></header>
       <div class="chart" id="st-d-chart"></div>
-      <div class="tablebox"><table class="t" id="st-d-table"><thead><tr><th>Date</th><th>Jurisdiction</th><th>Letter type</th><th>Read</th></tr></thead><tbody></tbody></table></div>
+      <div class="tablebox"><table class="t" id="st-d-table"><thead><tr><th>Date</th><th>Jurisdiction</th><th>Letter</th><th>Read</th></tr></thead><tbody></tbody></table></div>
     </article>
   </section>
 

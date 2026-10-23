@@ -17,19 +17,20 @@ Each job does the following:
 
 ## Website: HCD Letter Tracker
 
-`site/` is a public web page built from this repo's data and published on GitHub Pages at **https://<your-user>.github.io/hcd-letters/** (for this repo, https://betterleg.github.io/hcd-letters/). It has five tabs:
+`site/` is a public web page built from this repo's data and published on GitHub Pages at **https://<your-user>.github.io/hcd-letters/** (for this repo, https://betterleg.github.io/hcd-letters/). It has six tabs:
 
 - **Overview:** totals, the latest letters, and HAU letters by quarter.
+- **Search:** one search across both letter sets. Search by words or an "exact phrase" in the letter text, a code section at any depth (`65915` finds every subdivision, `65915(o)` only (o) and below, `66310-66342` a range, `HSC 17021.5` other codes), a city or county (a county name finds every jurisdiction in it), and filters for source, letter type, housing law, keyword, cycle, finding and dates. Results show a highlighted snippet, can be downloaded as CSV, and every search has its own shareable address. The masthead box searches from any tab.
 - **Trends:** HAU letters per quarter by letter type, filterable by housing law; housing element review letters per quarter by finding, filterable by cycle; and a table of housing laws by year.
-- **Statutes & keywords:** the most-cited statutory references and keywords, with a sparkline for each. Click one to see its letters by year and the full list.
+- **Statutes & keywords:** three rankings, each with a sparkline and a click-through to the letters: HCD's statute tags on HAU letters; **citations found in the letter text** of both sets, at section, subdivision or full depth; and HCD's keywords with spelling variants grouped. A checkbox groups the ADU Law sections (66310–66342) into one row.
 - **Compliance:** current status counts from HCD's Review and Compliance Report, 6th-cycle findings by year, days from submittal to letter against the 60- and 90-day review periods, and the jurisdictions out of compliance today.
 - **Jurisdiction lookup:** every HAU and review letter for a city or county, with links to the text in this repo and to HCD's PDFs.
 
-The **Website** workflow rebuilds the page after each Monday data job, so it stays current on its own. `scripts/build_site_data.py` turns the CSVs into `site/data/*.json` at build time; those files are not committed.
+The **Website** workflow rebuilds the page after each Monday data job, so it stays current on its own. `scripts/build_site_data.py` turns the CSVs into `site/data/*.json`, and `scripts/build_search_index.py` builds the search index in `site/search/`, at build time; neither is committed. The search runs entirely in the browser (no outside service): the index is split into 512 small files, so a search downloads only the pieces for its own words, and snippets load each letter's text from this repo.
 
 **One-time setup:** go to **Settings** → **Pages** → **Build and deployment** → **Source** and choose **GitHub Actions**. Then go to **Actions** → **Website** → **Run workflow**. The page goes live in a minute or two. (GitHub Pages on a private repo needs a paid GitHub plan; on a public repo it's free.)
 
-To preview it in a codespace: `python3 scripts/build_site_data.py && python3 -m http.server -d site 8000`, then open port 8000 from the Ports tab.
+To preview it in a codespace: `python3 scripts/build_site_data.py && python3 scripts/build_search_index.py && python3 -m http.server -d site 8000`, then open port 8000 from the Ports tab.
 
 ## Letters requested from HCD (`requested/`)
 
@@ -49,7 +50,9 @@ Letters the dashboards list as "Contact HCD for a copy" can be added once you ha
 - `*/index/<year>.md`: every letter that year, with links to its text in this repo, HCD's PDF and, for review letters, the housing element it reviewed.
 - `*/CHANGES.md`: what changed in the latest run.
 
-To search the text, use GitHub's search box with "In this repository", e.g. `65915(v) path:hau/letters` or `"sites inventory" path:he_letters/letters`.
+- `*/CITATIONS.md`: the most-cited sections, subdivisions and full citations found in the letter text; for HAU letters, how well they agree with HCD's own tags.
+
+To search the text, use the website's Search tab, or GitHub's search box with "In this repository", e.g. `65915(v) path:hau/letters` or `"sites inventory" path:he_letters/letters`.
 
 ### Data files
 
@@ -59,6 +62,8 @@ To search the text, use GitHub's search box with "In this repository", e.g. `659
 |---|---|
 | `hau_letters.csv` | One row per letter: task, case number, date, jurisdiction, letter type, housing laws, statutes, keywords, PDF link. |
 | `hau_statutes.csv`, `hau_keywords.csv`, `hau_laws.csv` | One row per letter–tag pair, joined on `task`. |
+| `citations.csv` | Statute citations found in each letter's text (also in `he_letters/`; see below). |
+| `keyword_map.csv` | HCD's raw keywords and the grouped keyword each one counts under on the website. Edit a row's `clean` and set `rule` to `manual` to change a grouping. |
 | `letters_index.csv` | Each letter's download status; `local_pdf` points to a PDF in `requested/` for letters requested from HCD. |
 
 **`he_letters/`**
@@ -70,6 +75,9 @@ To search the text, use GitHub's search box with "In this repository", e.g. `659
 | `housing_elements.csv` | Every housing element document on the Download Tool. |
 | `compliance.csv` | Each jurisdiction's current compliance status, from the Review and Compliance Report. |
 | `url_overrides.csv` | Corrected links for broken dashboard links; add rows as you find them. |
+| `citations.csv` | Statute citations found in each letter's text. |
+
+**Citation format** (`citations.csv`, both folders): one row per letter and citation, written the same way everywhere so it can be grouped or linked to a code-section tool. `Gov. Code, § 65915, subd. (o)(8)` becomes `65915(o)(8)`; other codes get a prefix (`HSC 17021.5`, `PRC`, `CIV`, `CCP`, `WIC`…). Columns: `normalized`, `level_section` (65915), `level_subdivision` (65915(o)), `count` (mentions in that letter), `in_footnote`, `code_inferred` (true when the letter gave only "section 65583.2"), `raw` (as written) and a `snippet`. The parser handles "§§", lists, "subd./subdivision", "paragraph (2) of subdivision (c) of section…", ranges, "et seq." and "Id."/"Ibid."
 
 ## Set it up (one time, about 15 minutes)
 

@@ -41,6 +41,8 @@ jobs:
 
       - name: Build indexes
         run: |
+          python3 scripts/parse_citations.py hau
+          python3 scripts/parse_citations.py he
           python3 scripts/build_index.py hau
           python3 scripts/build_he_index.py he_letters
 
@@ -51,5 +53,5 @@ jobs:
         run: |
           bash scripts/commit_and_push.sh \
             "Requested letters: text and matches updated ($(date -u +%F))" \
-            "python3 scripts/requested_letters.py && cd he_letters && python3 parse_letters.py . letters_parsed.json && python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv && cd .. && python3 scripts/build_index.py hau && python3 scripts/build_he_index.py he_letters" \
+            "python3 scripts/requested_letters.py && cd he_letters && python3 parse_letters.py . letters_parsed.json && python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv && cd .. && python3 scripts/parse_citations.py hau && python3 scripts/parse_citations.py he && python3 scripts/build_index.py hau && python3 scripts/build_he_index.py he_letters" \
             requested hau he_letters
