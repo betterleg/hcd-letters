@@ -98,7 +98,7 @@ table.t { width: 100%; border-collapse: collapse; font-size: 13px; }
 .t .num { text-align: right; }
 .t tr.click { cursor: pointer; }
 .t tr.click:hover td, .t tr.sel td { background: var(--accent-soft); }
-.t td.read a { margin-right: 8px; white-space: nowrap; }
+.t td.read a, .t td.read button { margin-right: 8px; white-space: nowrap; }
 .code { font-family: var(--f-mono); font-size: 12.5px; }
 .src { font-size: 11px; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-2); white-space: nowrap; }
 .pill { display: inline-block; padding: 0 8px; border-radius: 999px; font-size: 12px; border: 1px solid currentColor; white-space: nowrap; }
@@ -144,7 +144,7 @@ input[type="date"] { font: inherit; font-size: 14px; color: var(--ink); backgrou
 #sr-more { justify-self: start; }
 .results tr.snip td { border-top: 0; padding-top: 0; color: var(--ink-2); font-size: 12.5px; line-height: 1.45; }
 .results tr.hit td { border-bottom: 0; }
-mark { background: color-mix(in srgb, var(--amber) 32%, transparent); color: inherit; border-radius: 2px; padding: 0 1px; }
+mark { background: rgb(224 174 74 / .35); background: color-mix(in srgb, var(--amber) 32%, transparent); color: inherit; border-radius: 2px; padding: 0 1px; }
 .codes { display: flex; flex-wrap: wrap; gap: 2px 8px; }
 .tips { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; max-width: 90ch; }
 .busy { color: var(--ink-2); font-size: 13px; }
@@ -155,3 +155,39 @@ mark { background: color-mix(in srgb, var(--amber) 32%, transparent); color: inh
   .results td.read a, .results td.read .src { display: block; margin: 0 0 2px; }
   .results td, .results th { padding-inline: 5px; }
 }
+
+/* Data tables: toolbar, sortable headers, show more */
+.dt { display: grid; gap: 8px; min-width: 0; }
+.dt-bar { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: end; }
+.dt-bar input[type="search"] { width: min(100%, 16rem); }
+.dt-bar .grow { flex: 1 1 auto; }
+.dt-count { font-size: 12px; color: var(--ink-2); }
+.t th.sortable { cursor: pointer; user-select: none; }
+.t th.sortable:hover { color: var(--accent); }
+.t th.sortable::after { content: ""; display: inline-block; width: 1em; color: var(--muted); }
+.t th.sortable[aria-sort="ascending"]::after { content: " ▲"; color: var(--accent); }
+.t th.sortable[aria-sort="descending"]::after { content: " ▼"; color: var(--accent); }
+.t td.heat { text-align: right; font-size: 12px; }
+.btn.sm { padding: 2px 8px; font-size: 13px; }
+.facts.big { font-size: 14px; }
+
+/* Language */
+.quote { margin: 0; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--paper); font-size: 14px; line-height: 1.55; max-height: 16rem; overflow: auto; }
+.variant { border-top: 1px solid var(--rule); padding-top: 8px; display: grid; gap: 4px; font-size: 13px; }
+.variant .vh { color: var(--ink-2); font-size: 12px; }
+del.dd { background: rgb(180 65 45 / .18); background: color-mix(in srgb, var(--out) 18%, transparent); text-decoration: line-through; }
+ins.di { background: rgb(47 122 74 / .22); background: color-mix(in srgb, var(--in) 22%, transparent); text-decoration: none; }
+
+/* Reader */
+dialog#reader { width: min(980px, calc(100vw - 24px)); height: min(92vh, 1100px); padding: 0; border: 1px solid var(--rule); border-radius: var(--r); background: var(--panel); color: var(--ink); }
+dialog#reader[open] { display: grid; grid-template-rows: auto auto 1fr; }
+dialog#reader::backdrop { background: rgb(0 0 0 / .45); }
+.rd-head { display: flex; gap: 12px; justify-content: space-between; align-items: start; padding: 14px 18px 6px; }
+.rd-tools { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; padding: 6px 18px 10px; border-bottom: 1px solid var(--rule); }
+.rd-tools input[type="search"] { width: min(100%, 16rem); }
+.rd-links { margin-left: auto; display: flex; gap: 12px; font-size: 13px; }
+.rd-body { overflow: auto; padding: 16px 18px 40px; font-size: 15px; line-height: 1.6; }
+.rd-body p { margin: 0 0 0.9em; max-width: 78ch; }
+.rd-body.dim .std { color: var(--muted); }
+.rd-body mark.cur { outline: 2px solid var(--amber); }
+.rd-body .label { font-weight: 600; }

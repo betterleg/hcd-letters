@@ -47,6 +47,12 @@ This repo holds weekly scrapes of three of HCD's Power BI dashboards, the full t
 - **`scripts/clean_keywords.py`** writes `hau/keyword_map.csv` (raw keyword → grouped). Rows with `rule=manual` are Matt's and are never overwritten. Raw tags in `hau_letters.csv` stay as HCD wrote them.
 - **Search** (`scripts/build_search_index.py`, Website job only): unigram + bigram inverted index in 512 fnv1a-hashed shards under `site/search/`. The tokenizer and hash in `site/app.js` (`toks`, `fnv1a`) must match the Python. Snippets fetch letter text from raw.githubusercontent.com, so the repo must stay public for snippets to work.
 
+- **`scripts/letter_patterns.py hau|he`** (weekly; needs numpy) writes `PATTERNS.md` and `patterns.csv`: recurring headings and near-duplicate paragraph groups (MinHash on 5-word shingles, Jaccard 0.5; variants at 0.85) after replacing names, dates and numbers with placeholders. On the Oct 2026 review letters: 92 paragraph groups in 25+ letters, about 75 seconds.
+
+- **`scripts/letter_requirements.py`** (review letters, weekly, after `letter_patterns.py`) splits each 6th-cycle letter at HCD's quoted requirements (quotes ending "(Gov. Code, § 65583, subd. (x)(n).)"; quotes without a cite are recognized from openings learned from cited ones), files each paragraph under that requirement, and tags it with HCD's topic label ("Realistic Capacity:", normalized via `TOPIC_SYNONYMS`). Round = order among the jurisdiction's 6th-cycle reviews. "Specific" counts ignore sentences that appear in 25+ letters. Writes `REQUIREMENTS.md`, `requirements.csv`, `letter_outcomes.csv`, `programs.csv`. Oct 2026: 29,051 findings from 2,012 letters. Careful: `65583.2` must not match as `65583` (see `RX_REQ_END`).
+
+- **Website tabs added Oct 2026:** Requirements (`site/data/requirements.json` from `he_letters/letter_outcomes.csv` + `programs.csv`), Language (`site/data/language.json` from `*/patterns.json` + hashes of standard sentences; `sentence_key()` in `build_site_data.py` must match `sentenceKey()` in `app.js`), and the letter reader (`openReader()`). All tables use `dataTable()` in `app.js` (sort, filter, CSV, state in the page address via `params()`/`setParams()`).
+
 ## Baseline numbers (Oct 2026), for sanity-checking runs
 
 - **HAU:** 1,376 letters, 1,320 with text, 55 Contact HCD.
@@ -69,5 +75,5 @@ The workflows fail on purpose if the letter count drops more than 5% or by more 
 
 ## Related
 
-- Matt's Housing Laws Navigator (a claude.ai artifact of California housing statutes) is the likely target for statute links (TODO #6).
+- Matt's Housing Laws Navigator (a claude.ai artifact of California housing statutes) is the likely target for statute links (TODO: Merge migration, Phase 1).
 - The earlier one-off toolkits (`hcd_pipeline`, `hcd_letters_pipeline`, `hcd_hau_pipeline`) are superseded by this repo.

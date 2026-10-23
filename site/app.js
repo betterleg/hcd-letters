@@ -6,6 +6,8 @@
   const pct = d3.format('.0%');
   const parse = d3.utcParse('%Y-%m-%d');
   const fdate = (s) => (s ? d3.utcFormat('%b %-d, %Y')(parse(s)) : '—');
+  // build time is UTC; show the California calendar date
+  const caDate = (iso) => new Date(iso).toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles', month: 'short', day: 'numeric', year: 'numeric' });
   const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
   const STATEWIDE = new Set(['generalapplicability', 'na', '']);
   let REPO = 'betterleg/hcd-letters';
@@ -23,7 +25,7 @@
     return n;
   };
   const link = (href, text) => (href ? el('a', { href, target: '_blank', rel: 'noopener' }, text) : null);
-  const readCell = (r) => el('td', { class: 'read' }, link(r.text && gh(r.text), 'Text'), link(r.pdf || (r.req && gh(r.req)), 'PDF'),
+  const readCell = (r) => el('td', { class: 'read' }, r.text ? el('button', { type: 'button', class: 'link', 'data-read': r.text }, 'Read') : null, link(r.pdf || (r.req && gh(r.req)), 'PDF'),
     r.hePdf ? link(r.hePdf, 'Element') : null,
     r.req ? el('span', { class: 'src', title: 'Not posted by HCD; obtained by request and kept in this repo' }, 'Requested') : null,
     !r.text && !r.pdf && !r.req ? el('span', { class: 'src' }, r.contact ? 'Request from HCD' : 'No copy') : null);
@@ -117,6 +119,119 @@
     return svg.node();
   }
 
+
+  /** Horizontal bars: items [{label, value, title?}] */
+  function hbars(node, items, { fmtv = fmt, color = css('--accent'), max, onClick } = {}) {
+    node.replaceChildren();
+    const W = Math.max(300, node.clientWidth), rowH = 22, m = { t: 4, r: 44, b: 4, l: Math.min(260, W * 0.48) };
+    const H = m.t + m.b + items.length * rowH;
+    const x = d3.scaleLinear([0, max ?? (d3.max(items, (d) => d.value) || 1)], [m.l, W - m.r]);
+    const svg = d3.select(node).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img');
+    const g = svg.selectAll('g').data(items).join('g').attr('transform', (_, i) => `translate(0,${m.t + i * rowH})`)
+      .style('cursor', onClick ? 'pointer' : null).on('click', (_, d) => onClick?.(d));
+    g.append('text').attr('x', m.l - 6).attr('y', rowH / 2).attr('dy', '0.35em').attr('text-anchor', 'end')
+      .text((d) => (d.label.length > 44 ? `${d.label.slice(0, 42)}…` : d.label)).append('title').text((d) => d.title || d.label);
+    g.append('rect').attr('x', m.l).attr('y', 4).attr('height', rowH - 8).attr('rx', 2).attr('width', (d) => Math.max(0, x(d.value) - m.l)).attr('fill', color);
+    g.append('text').attr('x', (d) => x(d.value) + 4).attr('y', rowH / 2).attr('dy', '0.35em').text((d) => fmtv(d.value));
+    return svg;
+  }
+
+  // ---------- page-address state (per tab), so views can be shared ----------
+  const params = () => new URLSearchParams((location.hash.split('?')[1]) || '');
+  function setParams(obj) {
+    const [tab] = (location.hash.slice(1) || 'overview').split('?');
+    const p = params();
+    for (const [k, v] of Object.entries(obj)) { if (v == null || v === '') p.delete(k); else p.set(k, v); }
+    const qs = p.toString();
+    history.replaceState(null, '', `#${tab}${qs ? `?${qs}` : ''}`);
+  }
+
+  /**
+   * Sortable, filterable table with CSV download and "show more".
+   * columns: [{ key, label, value: r => sortable value, render?: r => Node|string, num?, cls?, filter?: 'select', csv?: r => string, hideSm? }]
+   */
+  function dataTable(host, { id, columns, rows, sort, pageSize = 100, onRow, csvName, empty = 'Nothing to show.' }) {
+    const P = params();
+    const st = { q: P.get(`${id}.q`) || '', sort: P.get(`${id}.s`) || sort || '', f: {}, shown: pageSize };
+    for (const c of columns) if (c.filter) st.f[c.key] = P.get(`${id}.f.${c.key}`) || '';
+    const val = (c, r) => (c.value ? c.value(r) : r[c.key]);
+    const txt = (c, r) => (c.csv ? c.csv(r) : String(val(c, r) ?? ''));
+    const bar = el('div', { class: 'dt-bar' });
+    const q = el('input', { type: 'search', placeholder: 'Filter rows', 'aria-label': 'Filter rows', value: st.q });
+    bar.append(el('label', { class: 'ctl' }, 'Filter', q));
+    const sels = {};
+    for (const c of columns.filter((c) => c.filter)) {
+      const vals = [...new Set(rows.flatMap((r) => { const v = val(c, r); return Array.isArray(v) ? v : [v]; }).filter((v) => v !== '' && v != null).map(String))]
+        .sort((a, b) => (c.num ? a - b : a.localeCompare(b)));
+      const s = el('select', {}, el('option', { value: '' }, 'All'), ...vals.map((v) => el('option', { value: v }, v)));
+      s.value = st.f[c.key];
+      sels[c.key] = s;
+      bar.append(el('label', { class: 'ctl' }, c.label, s));
+    }
+    const count = el('span', { class: 'dt-count grow' });
+    const dl = el('button', { type: 'button', class: 'btn ghost sm' }, 'Download CSV');
+    bar.append(count, dl);
+    const thead = el('tr', {}, ...columns.map((c) => el('th', { class: `sortable${c.num ? ' num' : ''}${c.hideSm ? ' hide-sm' : ''}`, 'data-k': c.key, tabindex: '0' }, c.label)));
+    const tbody = el('tbody');
+    const more = el('button', { type: 'button', class: 'btn ghost sm', hidden: true });
+    const table = el('table', { class: 't' }, el('thead', {}, thead), tbody);
+    host.replaceChildren(el('div', { class: 'dt' }, bar, el('div', { class: 'tablebox tall' }, table), more));
+    let view = [];
+    const save = () => setParams({ [`${id}.q`]: st.q, [`${id}.s`]: st.sort, ...Object.fromEntries(Object.entries(st.f).map(([k, v]) => [`${id}.f.${k}`, v])) });
+    function compute() {
+      const needle = st.q.toLowerCase();
+      view = rows.filter((r) => (!needle || columns.some((c) => txt(c, r).toLowerCase().includes(needle)))
+        && Object.entries(st.f).every(([k, v]) => { if (!v) return true; const c = columns.find((x) => x.key === k); const x = val(c, r); return Array.isArray(x) ? x.map(String).includes(v) : String(x) === v; }));
+      if (st.sort) {
+        const desc = st.sort.endsWith('-'), k = st.sort.replace(/[-+]$/, ''), c = columns.find((x) => x.key === k);
+        if (c) view.sort((a, b) => { const x = val(c, a), y = val(c, b); const r = typeof x === 'number' && typeof y === 'number' ? x - y : String(x ?? '').localeCompare(String(y ?? ''), undefined, { numeric: true }); return desc ? -r : r; });
+      }
+      for (const th of thead.children) {
+        const k = th.dataset.k;
+        th.setAttribute('aria-sort', st.sort.replace(/[-+]$/, '') === k ? (st.sort.endsWith('-') ? 'descending' : 'ascending') : 'none');
+      }
+      draw(true);
+    }
+    function draw(reset) {
+      if (reset) { tbody.replaceChildren(); st.drawn = 0; }
+      const end = Math.min(view.length, reset ? st.shown : st.drawn + pageSize);
+      for (let i = st.drawn; i < end; i++) {
+        const r = view[i];
+        const tr = el('tr', { class: onRow ? 'click' : null, tabindex: onRow ? '0' : null },
+          ...columns.map((c) => { const v = c.render ? c.render(r) : val(c, r); const td = el('td', { class: [c.num ? 'num' : '', c.cls || '', c.hideSm ? 'hide-sm' : ''].join(' ').trim() || null }); td.append(v instanceof Node ? v : document.createTextNode(c.num && typeof v === 'number' ? fmt(v) : String(v ?? ''))); return td; }));
+        if (onRow) {
+          tr.addEventListener('click', (e) => { if (!e.target.closest('a,button')) onRow(r, tr); });
+          tr.addEventListener('keydown', (e) => { if (e.key === 'Enter') onRow(r, tr); });
+        }
+        tbody.append(tr);
+      }
+      st.drawn = end;
+      if (!view.length) tbody.append(el('tr', {}, el('td', { colspan: String(columns.length), class: 'empty' }, empty)));
+      count.textContent = `${fmt(view.length)} of ${fmt(rows.length)} rows`;
+      more.hidden = st.drawn >= view.length;
+      more.textContent = `Show more (${fmt(view.length - st.drawn)} left)`;
+    }
+    q.addEventListener('input', () => { st.q = q.value.trim(); save(); compute(); });
+    for (const [k, s] of Object.entries(sels)) s.addEventListener('change', () => { st.f[k] = s.value; save(); compute(); });
+    thead.addEventListener('click', (e) => {
+      const th = e.target.closest('th'); if (!th) return;
+      const k = th.dataset.k, c = columns.find((x) => x.key === k);
+      const cur = st.sort.replace(/[-+]$/, '');
+      st.sort = cur === k ? (st.sort.endsWith('-') ? `${k}+` : `${k}-`) : `${k}${c.num ? '-' : '+'}`;
+      save(); compute();
+    });
+    thead.addEventListener('keydown', (e) => { if (e.key === 'Enter') e.target.click(); });
+    more.onclick = () => draw(false);
+    dl.onclick = () => {
+      const qv = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;
+      const lines = [columns.map((c) => qv(c.label)).join(',')].concat(view.map((r) => columns.map((c) => qv(txt(c, r))).join(',')));
+      const a = el('a', { href: URL.createObjectURL(new Blob([lines.join('\n')], { type: 'text/csv' })), download: `${csvName || id}.csv` });
+      document.body.append(a); a.click(); a.remove();
+    };
+    compute();
+    return { refresh(newRows) { rows = newRows; compute(); } };
+  }
+
   // ---------- tabs ----------
   const drawn = {};
   function show(hash) {
@@ -152,13 +267,13 @@
       kpi('Out of compliance now', fmt(outNow.length), `of ${fmt(C.length)} jurisdictions on HCD's report`, true),
       kpi('Median review time', recentDays.length ? `${d3.median(recentDays)} days` : '—', 'submittal to HCD letter, last 12 months'),
     );
-    const latest = H.concat(E).filter((r) => r.date).sort((a, b) => b.date.localeCompare(a.date)).slice(0, 25);
-    $('#latest tbody').replaceChildren(...latest.map((r) => el('tr', {},
-      el('td', { class: 'd' }, fdate(r.date)),
-      el('td', {}, el('button', { type: 'button', class: 'link', 'data-go': r.jur }, STATEWIDE.has(r.key) ? 'Statewide' : r.jur)),
-      el('td', {}, r.src === 'HAU' ? r.type : `${r.type}${r.finding ? ` · ${r.finding}` : ''}`),
-      el('td', {}, el('span', { class: 'src' }, r.src === 'HAU' ? 'HAU' : 'HE review')),
-      readCell(r))));
+    const latest = H.concat(E).filter((r) => r.date).sort((a, b) => b.date.localeCompare(a.date)).slice(0, 200);
+    dataTable($('#latest'), { id: 'lt', rows: latest, sort: 'date-', pageSize: 25, csvName: 'hcd-latest-letters',
+      columns: [{ key: 'date', label: 'Date', render: (r) => fdate(r.date), csv: (r) => r.date, cls: 'd' },
+        { key: 'jur', label: 'Jurisdiction', render: (r) => el('button', { type: 'button', class: 'link', 'data-go': r.jur }, STATEWIDE.has(r.key) ? 'Statewide' : r.jur) },
+        { key: 'what', label: 'Letter', value: (r) => (r.src === 'HAU' ? r.type : `${r.type}${r.finding ? ` · ${r.finding}` : ''}`) },
+        { key: 'src', label: 'Source', filter: 'select', value: (r) => (r.src === 'HAU' ? 'HAU' : 'HE review'), render: (r) => el('span', { class: 'src' }, r.src === 'HAU' ? 'HAU' : 'HE review') },
+        { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (r) => tdContent(readCell(r)), csv: (r) => r.pdf || '' }] });
     const qs = quarters(2019, lastQ().slice(0, 4)).filter((q) => q <= lastQ());
     const cnt = d3.rollup(H, (v) => v.length, (r) => quarter(r.date), (r) => r.group);
     const colors = groupColors();
@@ -244,7 +359,7 @@
       return src === 'HAU' ? DATA.H : src === 'HE' ? DATA.E : DATA.A;
     };
     const table = () => {
-      const q = $('#st-q').value.trim().toLowerCase();
+      const q = '';
       $('#st-src-l').hidden = $('#st-depth-l').hidden = kind !== 'cites';
       $('#st-adu-l').hidden = kind === 'keywords';
       $('#st-note').textContent = NOTES[kind];
@@ -257,22 +372,16 @@
         first: d3.min(rs, (r) => r.date), last: d3.max(rs, (r) => r.date), byYear: years.map((y) => rs.filter((r) => r.year === y).length) }));
       if (q) rows = rows.filter((r) => r.tag.toLowerCase().includes(q) || (KW_VARIANTS[r.tag] || []).some((v) => v.toLowerCase().includes(q)));
       rows.sort((a, b) => b.n - a.n || a.tag.localeCompare(b.tag));
-      const total = rows.length;
-      rows = rows.slice(0, 200);
       const smax = d3.max(rows, (r) => d3.max(r.byYear));
-      $('#st-title').textContent = { statutes: 'Most-cited statutes, HCD tags', cites: 'Statutes cited in the letters', keywords: 'Most-used keywords' }[kind]
-        + (total > rows.length ? ` (top ${rows.length} of ${fmt(total)})` : '');
-      $('#st-table tbody').replaceChildren(...rows.map((r) => {
-        const vars = KW_VARIANTS[r.tag];
-        const tr = el('tr', { class: `click${picked === r.tag ? ' sel' : ''}`, tabindex: '0' },
-          el('td', { class: kind === 'keywords' ? '' : 'code', title: vars ? `Groups: ${vars.join('; ')}` : null }, r.tag),
-          el('td', { class: 'num' }, fmt(r.n)), el('td', { class: 'num' }, r.recent ? fmt(r.recent) : ''),
-          el('td', { title: `${years[0]}–${years.at(-1)}` }, sparkline(r.byYear, smax)), el('td', {}, r.first?.slice(0, 4) || ''), el('td', {}, fdate(r.last)));
-        const open = () => { picked = r.tag; detail(r); table(); };
-        tr.addEventListener('click', open);
-        tr.addEventListener('keydown', (e) => { if (e.key === 'Enter') open(); });
-        return tr;
-      }));
+      $('#st-title').textContent = { statutes: 'Most-cited statutes, HCD tags', cites: 'Statutes cited in the letters', keywords: 'Most-used keywords' }[kind];
+      dataTable($('#st-table'), { id: `st${kind}`, rows, sort: 'n-', pageSize: 100, csvName: `hcd-${kind}`,
+        columns: [{ key: 'tag', label: kind === 'keywords' ? 'Keyword' : 'Statute', cls: kind === 'keywords' ? '' : 'code',
+          render: (r) => (KW_VARIANTS[r.tag] ? el('span', { title: `Groups: ${KW_VARIANTS[r.tag].join('; ')}` }, r.tag) : r.tag) },
+          { key: 'n', label: 'Letters', num: true }, { key: 'recent', label: 'Last 12 mo.', num: true },
+          { key: 'spark', label: 'By year', value: (r) => r.n, render: (r) => sparkline(r.byYear, smax), csv: (r) => r.byYear.join(' '), hideSm: true },
+          { key: 'first', label: 'First', value: (r) => r.first || '', render: (r) => r.first?.slice(0, 4) || '' },
+          { key: 'last', label: 'Latest', value: (r) => r.last || '', render: (r) => fdate(r.last), cls: 'd' }],
+        onRow: (r) => { picked = r.tag; detail(r); } });
     };
     const detail = (r) => {
       $('#st-detail').hidden = false;
@@ -289,18 +398,20 @@
       const keys = GROUPS.concat(nHe ? ['Housing element review'] : []);
       const cnt = d3.rollup(r.rs, (v) => v.length, (x) => x.year, (x) => x.group);
       stackedBars($('#st-d-chart'), { cats: years, keys, colors: groupColors(), value: (y, k) => cnt.get(y)?.get(k) || 0, label: `Letters citing ${r.tag} per year` });
-      $('#st-d-table tbody').replaceChildren(...[...r.rs].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 500).map((x) => el('tr', {},
-        el('td', { class: 'd' }, fdate(x.date)), el('td', {}, el('button', { type: 'button', class: 'link', 'data-go': x.jur }, STATEWIDE.has(x.key) ? 'Statewide' : x.jur)),
-        el('td', {}, x.src === 'HAU' ? x.type : `Review · ${x.type}${x.finding ? ` · ${x.finding}` : ''}`), readCell(x))));
+      dataTable($('#st-d-table'), { id: 'std', rows: r.rs, sort: 'date-', csvName: 'hcd-letters',
+        columns: [{ key: 'date', label: 'Date', render: (x) => fdate(x.date), csv: (x) => x.date, cls: 'd' },
+          { key: 'jur', label: 'Jurisdiction', render: (x) => el('button', { type: 'button', class: 'link', 'data-go': x.jur }, STATEWIDE.has(x.key) ? 'Statewide' : x.jur) },
+          { key: 'src', label: 'Source', filter: 'select', value: (x) => (x.src === 'HAU' ? 'HAU' : 'HE review') },
+          { key: 'what', label: 'Letter', value: (x) => (x.src === 'HAU' ? x.type : `${x.type}${x.finding ? ` · ${x.finding}` : ''}`) },
+          { key: 'year', label: 'Year', filter: 'select', hideSm: true },
+          { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (x) => tdContent(readCell(x)), csv: (x) => x.pdf || '' }] });
       $('#st-detail').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     };
     $$('#statutes .seg button').forEach((b) => { b.onclick = () => {
       kind = b.dataset.kind; picked = null; $('#st-detail').hidden = true;
       $$('#statutes .seg button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
-      $('#st-q').placeholder = kind === 'keywords' ? 'Filter, e.g. parking or density' : 'Filter, e.g. 65915 or 66300';
       table();
     }; });
-    $('#st-q').oninput = table;
     for (const id of ['#st-src', '#st-depth', '#st-adu']) $(id).onchange = () => { picked = null; $('#st-detail').hidden = true; table(); };
     $('#st-d-close').onclick = () => { picked = null; $('#st-detail').hidden = true; table(); };
     table();
@@ -347,10 +458,14 @@
     $('#co-type').onchange = drawDays;
     drawDays();
 
-    const out = C.filter((c) => /out/i.test(c.status)).sort((a, b) => a.county.localeCompare(b.county) || a.jur.localeCompare(b.jur));
-    $('#co-out tbody').replaceChildren(...out.map((c) => el('tr', {},
-      el('td', {}, el('button', { type: 'button', class: 'link', 'data-go': c.jur }, c.jur)), el('td', {}, c.county), el('td', {}, c.cycle),
-      el('td', {}, pill(c.status)), el('td', {}, `${c.recordType} (${c.reviewStatus})`), el('td', {}, fdate(c.received)), el('td', {}, fdate(c.reviewed)))));
+    const out = C.filter((c) => /out/i.test(c.status));
+    dataTable($('#co-out'), { id: 'co', rows: out, sort: 'county+', csvName: 'hcd-out-of-compliance',
+      columns: [{ key: 'jur', label: 'Jurisdiction', render: (c) => el('button', { type: 'button', class: 'link', 'data-go': c.jur }, c.jur) },
+        { key: 'county', label: 'County', filter: 'select' }, { key: 'cycle', label: 'Cycle', filter: 'select' },
+        { key: 'status', label: 'Status', filter: 'select', render: (c) => pill(c.status) },
+        { key: 'latest', label: 'Latest submittal', value: (c) => `${c.recordType} (${c.reviewStatus})`, hideSm: true },
+        { key: 'received', label: 'Received', render: (c) => fdate(c.received), csv: (c) => c.received, cls: 'd' },
+        { key: 'reviewed', label: 'Reviewed', render: (c) => fdate(c.reviewed), csv: (c) => c.reviewed, cls: 'd' }] });
   };
 
   // Jurisdiction lookup
@@ -391,15 +506,18 @@
       c ? el('span', {}, `${c.cycle}: `, el('b', {}, `${c.recordType}, ${c.reviewStatus}`), c.reviewed ? ` (reviewed ${fdate(c.reviewed)})` : '') : null,
       el('span', {}, el('b', {}, fmt(hau.length)), ' HAU letters'),
       el('span', {}, el('b', {}, fmt(he.length)), ' review letters', findings.length ? ` (${findings.filter((r) => r.finding === 'Out').length} out, ${findings.filter((r) => r.finding === 'In').length} in)` : ''));
-    const tbody = el('tbody', {}, ...all.map((r) => el('tr', {},
-      el('td', { class: 'd' }, fdate(r.date)), el('td', {}, el('span', { class: 'src' }, r.src === 'HAU' ? 'HAU' : 'HE review')),
-      el('td', {}, r.type),
-      el('td', { class: 'hide-sm' }, r.src === 'HAU' ? [r.laws.join('; '), r.statutes.length ? ` · ${r.statutes.slice(0, 6).join(', ')}${r.statutes.length > 6 ? '…' : ''}` : ''].join('')
-        : [r.cycle ? `Cycle ${r.cycle}` : '', r.finding ? ` · ${r.finding}` : '', r.days != null ? ` · ${r.days} days` : ''].join('')),
-      readCell(r))));
-    const table = el('div', { class: 'tablebox tall' }, el('table', { class: 't' },
-      el('thead', {}, el('tr', {}, el('th', {}, 'Date'), el('th', {}, 'Source'), el('th', {}, 'Letter'), el('th', { class: 'hide-sm' }, 'Details'), el('th', {}, 'Read'))), tbody));
-    $('#pl-body').replaceChildren(head, facts, all.length ? table : el('p', { class: 'empty' }, 'No letters on file.'));
+    const host = el('div');
+    $('#pl-body').replaceChildren(head, facts, all.length ? host : el('p', { class: 'empty' }, 'No letters on file.'));
+    if (all.length) {
+      dataTable(host, { id: 'pl', rows: all, sort: 'date-', csvName: `hcd-letters-${name}`,
+        columns: [{ key: 'date', label: 'Date', render: (r) => fdate(r.date), csv: (r) => r.date, cls: 'd' },
+          { key: 'src', label: 'Source', filter: 'select', value: (r) => (r.src === 'HAU' ? 'HAU' : 'HE review'), render: (r) => el('span', { class: 'src' }, r.src === 'HAU' ? 'HAU' : 'HE review') },
+          { key: 'type', label: 'Letter', filter: 'select' },
+          { key: 'cycle', label: 'Cycle', filter: 'select', value: (r) => r.cycle || '' },
+          { key: 'details', label: 'Details', hideSm: true, value: (r) => (r.src === 'HAU' ? [r.laws.join('; '), r.statutes.length ? ` · ${r.statutes.slice(0, 6).join(', ')}${r.statutes.length > 6 ? '…' : ''}` : ''].join('')
+            : [r.finding ? r.finding : '', r.days != null ? ` · ${r.days} days` : ''].join('')) },
+          { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (r) => tdContent(readCell(r)), csv: (r) => r.pdf || '' }] });
+    }
   }
   function goPlace(name) {
     location.hash = '#place';
@@ -407,6 +525,285 @@
     $('#pl-q').value = name;
     $('#pl-q').dispatchEvent(new Event('change'));
   }
+
+  // ---------- shared: letter text, JSON on demand ----------
+  const TEXTS = new Map();
+  const fetchText = (path) => {
+    if (!TEXTS.has(path)) {
+      TEXTS.set(path, fetch(`https://raw.githubusercontent.com/${REPO}/main/${path.split('/').map(encodeURIComponent).join('/')}`)
+        .then((r) => (r.ok ? r.text() : '')).catch(() => ''));
+    }
+    return TEXTS.get(path);
+  };
+  const JSONS = new Map();
+  const getJSON = (n) => { if (!JSONS.has(n)) JSONS.set(n, fetch(`data/${n}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null)); return JSONS.get(n); };
+  let BY_TEXT = null;
+  const rowByText = (path) => {
+    if (!BY_TEXT) { BY_TEXT = new Map(); for (const r of DATA.A) if (r.text && !BY_TEXT.has(r.text)) BY_TEXT.set(r.text, r); }
+    return BY_TEXT.get(path);
+  };
+  const ROUNDS = ['1st', '2nd', '3rd', '4th+'];
+  const roundOf = (n) => ROUNDS[Math.min(n, 4) - 1];
+  const letterCols = (extra = []) => [
+    { key: 'date', label: 'Date', render: (r) => fdate(r.date), csv: (r) => r.date, cls: 'd' },
+    { key: 'jur', label: 'Jurisdiction', render: (r) => el('button', { type: 'button', class: 'link', 'data-go': r.jur }, r.jur) },
+    { key: 'county', label: 'County', filter: 'select', hideSm: true },
+    ...extra,
+    { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (r) => tdContent(readCell(rowByText(r.text) || { text: r.text })), csv: (r) => (r.text ? gh(r.text) : '') },
+  ];
+  const tdContent = (td) => { const f = document.createDocumentFragment(); f.append(...td.childNodes); return f; };
+  // Whole-word matching and sentence splitting WITHOUT regex lookbehind: Safari before iOS 16.4 can't parse lookbehind groups.
+  const termRx = (pats, flags) => new RegExp(`(^|[^a-z0-9])(${pats.join('|')})(?![a-z0-9])`, flags);
+  const hits = (rx, s) => { const out = []; rx.lastIndex = 0; let m; while ((m = rx.exec(s))) { out.push({ index: m.index + m[1].length, text: m[2] }); if (!m[0].length) rx.lastIndex++; } return out; };
+  const splitSentences = (p) => p.replace(/([.;:])\s+(?=[A-Z(•])/g, '$1\u0000').split('\u0000');  // same as the Python split in build_site_data.py
+
+  // ---------- Requirements ----------
+  DRAW.requirements = async () => {
+    const R = await getJSON('requirements');
+    if (!R) { $('#rq-facts').textContent = 'The requirements data is built by the weekly review-letter job; it is not available yet.'; return; }
+    const D = R.dict;
+    const ALL = R.rows.map((r) => ({ jur: D.jur[r[0]], county: D.county[r[1]], date: r[2], type: D.type[r[3]], cycle: r[4], round: r[5],
+      compliance: D.compliance[r[6]], kind: D.kind[r[7]], reqs: r[8].map((i) => D.req[i]), issues: r[9].map((i) => D.issue[i]).filter((x) => x !== '(no topic label)'),
+      commits: r[10].map((i) => D.commit[i]), text: D.text[r[11]], words: r[12] }));
+    const PROGS = R.programs.map((p) => ({ jur: D.jur[p[0]], date: p[1], cycle: p[2], program: D.program[p[3]], category: D.category[p[4]], text: D.text[p[5]] }));
+    const label = { reqs: (k) => `${R.reqLabels[k] || k} (${k})`, issues: (k) => k, commits: (k) => k };
+    const P = params();
+    let view = P.get('view') || 'reqs';
+    $('#rq-cycle').value = P.get('cycle') || '6,7';
+    const cs = $('#rq-county');
+    if (cs.options.length < 2) cs.append(...[...new Set(ALL.map((r) => r.county).filter(Boolean))].sort().map((c) => el('option', { value: c }, c)));
+    cs.value = P.get('county') || '';
+    const KIND = (r) => (r.compliance === 'In compliance'
+      ? (r.kind.startsWith('Draft meets') ? 'Draft meets requirements' : r.kind.startsWith('Adopted') || r.kind.startsWith('Rezoning completed') ? 'In compliance, adopted' : 'Other, in compliance')
+      : r.compliance === 'Out of compliance'
+        ? (r.kind === 'Revisions needed' ? 'Revisions needed' : r.kind.startsWith('Meets requirements') || r.kind.startsWith('Rezoning ordinance') ? 'Meets law, rezoning not done' : 'Other, out of compliance')
+        : 'No finding');
+    const KKEYS = ['Revisions needed', 'Meets law, rezoning not done', 'Other, out of compliance', 'Draft meets requirements', 'In compliance, adopted', 'Other, in compliance', 'No finding'];
+    const kcol = () => ({ 'Revisions needed': css('--out'), 'Meets law, rezoning not done': css('--amber'), 'Other, out of compliance': css('--s5'),
+      'Draft meets requirements': css('--s4'), 'In compliance, adopted': css('--in'), 'Other, in compliance': css('--s1'), 'No finding': css('--rule') });
+
+    function render() {
+      const cyc = new Set($('#rq-cycle').value.split(',')), county = cs.value;
+      setParams({ cycle: $('#rq-cycle').value === '6,7' ? '' : $('#rq-cycle').value, county, view: view === 'reqs' ? '' : view });
+      const L = ALL.filter((r) => cyc.has(r.cycle) && (!county || r.county === county));
+      const full = L.filter((r) => r.kind === 'Revisions needed');
+      // first In per jurisdiction and cycle
+      const byJ = d3.group(L, (r) => `${r.jur}|${r.cycle}`);
+      const firstIn = new Map();
+      for (const [k, rs] of byJ) { const ins = rs.filter((r) => r.compliance === 'In compliance').map((r) => r.round); firstIn.set(k, ins.length ? d3.min(ins) : null); }
+      const reached = [...firstIn.values()].filter((v) => v);
+      const cycTxt = [...cyc].map((c) => `${c}th`).join(' and ');
+      $('#rq-facts').replaceChildren(
+        el('span', {}, el('b', {}, fmt(L.length)), ` letters with text, ${cycTxt} cycle${cyc.size > 1 ? 's' : ''}${county ? `, ${county} County` : ''}`),
+        el('span', {}, el('b', {}, fmt(byJ.size)), ' jurisdiction-cycles'),
+        el('span', {}, el('b', {}, fmt(reached.length)), ' reached compliance'),
+        reached.length ? el('span', {}, 'median ', el('b', {}, d3.median(reached)), ' reviews to get there') : null,
+        el('span', {}, el('b', {}, fmt(full.length)), ' "revisions needed" letters'));
+
+      const rc = d3.rollup(reached, (v) => v.length, (v) => (v >= 6 ? '6+' : String(v)));
+      const cats = ['1', '2', '3', '4', '5', '6+'];
+      stackedBars($('#rq-reach'), { cats, keys: ['Jurisdictions'], colors: { Jurisdictions: css('--accent') }, value: (c) => rc.get(c) || 0, label: 'Reviews to compliance', height: 220 });
+      const kc = d3.rollup(L, (v) => v.length, (r) => roundOf(r.round), KIND);
+      const kk = KKEYS.filter((k) => L.some((r) => KIND(r) === k));
+      legend($('#rq-kinds-legend'), kk.map((k) => [k, kcol()[k]]));
+      stackedBars($('#rq-kinds'), { cats: ROUNDS, keys: kk, colors: kcol(), value: (b, k) => kc.get(b)?.get(k) || 0, percent: true, totals: true, label: 'Kinds of letters by round', height: 240 });
+
+      // table by view
+      const nB = d3.rollup(full, (v) => v.length, (r) => roundOf(r.round));
+      const cnt = new Map();
+      for (const r of full) for (const k of r[view]) {
+        if (!cnt.has(k)) cnt.set(k, { key: k, n: 0, b: Object.fromEntries(ROUNDS.map((x) => [x, 0])), letters: [] });
+        const c = cnt.get(k); c.n++; c.b[roundOf(r.round)]++; c.letters.push(r);
+      }
+      const rows = [...cnt.values()].map((c) => {
+        const sh = Object.fromEntries(ROUNDS.map((b) => [b, nB.get(b) ? c.b[b] / nB.get(b) : 0]));
+        const lateN = (nB.get('3rd') || 0) + (nB.get('4th+') || 0);
+        const late = lateN ? (c.b['3rd'] + c.b['4th+']) / lateN : 0;
+        return { ...c, label: label[view](c.key), share: c.n / Math.max(1, full.length), sh, stay: sh['1st'] ? late / sh['1st'] : null };
+      });
+      const shade = d3.scaleSequential([0, 1], d3.interpolateRgb(css('--panel'), css('--accent')));
+      const heat = (v) => { const td = el('span', {}, v ? pct(v) : ''); return td; };
+      const TITLES = { reqs: 'Requirements HCD finds unmet, by round', issues: 'Issues HCD raises, by round', commits: 'Program commitments HCD asks for, by round' };
+      $('#rq-t-title').textContent = TITLES[view];
+      $('#rq-t-note').textContent = `Share of "revisions needed" letters in each round (${ROUNDS.map((b) => `${b}: ${fmt(nB.get(b) || 0)}`).join(', ')}) where HCD wrote about it. `
+        + 'Staying power: share in 3rd-and-later letters ÷ share in 1st letters; near 1 or above means it keeps coming back. Click a row for the letters.';
+      $$('#requirements .seg button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
+      const heatCol = (b) => ({ key: b, label: b, num: true, value: (r) => r.sh[b], render: (r) => heat(r.sh[b]), csv: (r) => r.sh[b].toFixed(3) });
+      dataTable($('#rq-table'), { id: 'rq', sort: 'n-', csvName: `hcd-${view}-by-round`, rows,
+        columns: [{ key: 'label', label: view === 'reqs' ? 'Requirement' : view === 'issues' ? 'Issue' : 'Commitment' },
+          { key: 'n', label: 'Letters', num: true }, ...ROUNDS.map(heatCol),
+          { key: 'stay', label: 'Staying power', num: true, value: (r) => r.stay ?? -1, render: (r) => (r.stay == null ? '' : r.stay.toFixed(2)), csv: (r) => (r.stay == null ? '' : r.stay.toFixed(2)) }],
+        onRow: (r) => detail(r.label, r.letters, `${fmt(r.n)} "revisions needed" letters in which HCD wrote about this.`) });
+      // shade heat cells after render
+      requestAnimationFrame(() => $$('#rq-table td.num').forEach((td) => { const m = /^(\d+)%$/.exec(td.textContent); if (m) { td.style.background = shade(+m[1] / 100); if (+m[1] > 55) td.style.color = css('--panel'); } }));
+
+      // last hurdles
+      const lasts = [];
+      for (const [k, rs] of byJ) {
+        const fi = firstIn.get(k);
+        const prior = rs.filter((r) => r.kind === 'Revisions needed' && fi && r.round < fi);
+        if (prior.length) lasts.push(prior.reduce((a, b) => (b.round > a.round ? b : a)));
+      }
+      const lc = d3.rollups(lasts.flatMap((r) => r[view]), (v) => v.length, (d) => d).sort((a, b) => b[1] - a[1]).slice(0, 14);
+      hbars($('#rq-last'), lc.map(([k, n]) => ({ label: label[view](k), value: n / Math.max(1, lasts.length), key: k })), { fmtv: pct, max: 1,
+        onClick: (d) => detail(d.label, lasts.filter((r) => r[view].includes(d.key)), 'Last "revisions needed" letter before compliance.') });
+
+      const PR = PROGS.filter((p) => cyc.has(p.cycle) && (!county || (ALL.find((r) => r.text === p.text)?.county === county)));
+      const pc = d3.rollups(PR, (v) => v.length, (p) => p.category).sort((a, b) => b[1] - a[1]);
+      hbars($('#rq-prog'), pc.map(([k, n]) => ({ label: k, value: n })), { color: css('--in') });
+      const names = d3.rollups(PR, (v) => ({ n: new Set(v.map((p) => p.text)).size, category: v[0].category, cycles: [...new Set(v.map((p) => p.cycle))].sort().join(', '), letters: v }),
+        (p) => p.program.toLowerCase().replace(/\s+/g, ' ').trim()).map(([name, o]) => ({ name: o.letters[0].program, ...o }));
+      dataTable($('#rq-prog-table'), { id: 'rqp', sort: 'n-', csvName: 'hcd-programs-in-compliance-letters', rows: names,
+        columns: [{ key: 'name', label: 'Program' }, { key: 'category', label: 'Category', filter: 'select' }, { key: 'n', label: 'Letters', num: true }, { key: 'cycles', label: 'Cycles', hideSm: true }],
+        onRow: (r) => detail(`Program: ${r.name}`, r.letters.map((p) => ALL.find((x) => x.text === p.text) || p), 'Letters finding compliance that name this program.') });
+    }
+    function detail(title, letters, note) {
+      $('#rq-detail').hidden = false;
+      $('#rq-d-title').textContent = title;
+      $('#rq-d-note').textContent = note;
+      dataTable($('#rq-d-table'), { id: 'rqd', sort: 'date-', csvName: 'hcd-letters', rows: letters,
+        columns: letterCols([{ key: 'cycle', label: 'Cycle', filter: 'select' }, { key: 'round', label: 'Round', num: true, filter: 'select' },
+          { key: 'kind', label: 'Letter', value: (r) => r.kind || '', filter: 'select' }]) });
+      $('#rq-detail').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+    $('#rq-cycle').onchange = render;
+    cs.onchange = render;
+    $$('#requirements .seg button').forEach((b) => { b.onclick = () => { view = b.dataset.view; render(); }; });
+    $('#rq-d-close').onclick = () => { $('#rq-detail').hidden = true; };
+    render();
+  };
+
+  // ---------- Language ----------
+  DRAW.language = async () => {
+    const LG = await getJSON('language');
+    let src = params().get('src') || 'HE';
+    const pretty = (t) => t.replace(/<JUR>/g, '[jurisdiction]').replace(/<JTYPE>/g, '[City/County]').replace(/<DATE>/g, '[date]').replace(/<N>/g, '[#]');
+    function render() {
+      setParams({ src: src === 'HE' ? '' : src });
+      $$('#language .seg button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.src === src)));
+      $('#lg-detail').hidden = true;
+      const pat = LG?.sources?.[src]?.patterns;
+      if (!pat) {
+        $('#lg-table').replaceChildren(el('p', { class: 'empty' }, 'Built by the weekly job for these letters; not available yet.'));
+        $('#lg-heads').replaceChildren();
+        return;
+      }
+      const years = [...new Set(pat.groups.flatMap((g) => Object.keys(g.byYear)))].sort();
+      const smax = d3.max(pat.groups, (g) => d3.max(Object.values(g.byYear)));
+      const rows = pat.groups.map((g) => {
+        const ys = Object.keys(g.byYear).sort();
+        return { ...g, text: pretty(g.example), first: ys[0] || '', last: ys[ys.length - 1] || '', nvar: g.variants.length, out: g.outShare };
+      });
+      dataTable($('#lg-table'), { id: 'lg', sort: 'letters-', csvName: `hcd-standard-paragraphs-${src}`, rows, pageSize: 50,
+        columns: [{ key: 'text', label: 'Paragraph', render: (r) => (r.text.length > 240 ? `${r.text.slice(0, 238)}…` : r.text) },
+          { key: 'letters', label: 'Letters', num: true },
+          { key: 'share', label: 'Share', num: true, value: (r) => r.letters / pat.total, render: (r) => pct(r.letters / pat.total), csv: (r) => (r.letters / pat.total).toFixed(3) },
+          { key: 'first', label: 'Years', value: (r) => r.first, render: (r) => `${r.first}–${r.last}`, csv: (r) => `${r.first}-${r.last}`, cls: 'd' },
+          { key: 'spark', label: 'By year', value: (r) => r.letters, render: (r) => sparkline(years.map((y) => r.byYear[y] || 0), smax), csv: (r) => years.map((y) => r.byYear[y] || 0).join(' '), hideSm: true },
+          { key: 'nvar', label: 'Variants', num: true, hideSm: true },
+          ...(src === 'HE' ? [{ key: 'out', label: 'Out share', num: true, value: (r) => r.out ?? -1, render: (r) => (r.out == null ? '' : pct(r.out)), csv: (r) => r.out ?? '' }] : [])],
+        onRow: (r) => detail(r, pat, years) });
+      dataTable($('#lg-heads'), { id: 'lgh', sort: 'n-', csvName: `hcd-headings-${src}`, pageSize: 30,
+        rows: pat.headings.map(([h, n]) => ({ h: pretty(h), n })), columns: [{ key: 'h', label: 'Heading' }, { key: 'n', label: 'Letters', num: true }] });
+    }
+    function detail(g, pat, years) {
+      $('#lg-detail').hidden = false;
+      $('#lg-d-title').textContent = `Standard paragraph: ${fmt(g.letters)} letters, ${g.first}–${g.last}`;
+      $('#lg-d-note').textContent = g.out == null ? '' : `${pct(g.out)} of the letters using it find the element out of compliance.`;
+      $('#lg-d-text').textContent = g.text;
+      const vs = (g.variants.length ? g.variants : [{ letters: g.letters, byYear: g.byYear, example: g.example, diff: [] }]).slice(0, 5);
+      const keys = vs.map((_, i) => `Wording ${i + 1}`);
+      const colors = Object.fromEntries(keys.map((k, i) => [k, css(`--s${(i % 5) + 1}`)]));
+      const other = Object.fromEntries(years.map((y) => [y, Math.max(0, (g.byYear[y] || 0) - d3.sum(vs, (v) => v.byYear[y] || 0))]));
+      const allKeys = keys.concat(d3.sum(Object.values(other)) ? ['Other wordings'] : []);
+      colors['Other wordings'] = css('--rule');
+      legend($('#lg-d-legend'), allKeys.map((k) => [k, colors[k]]));
+      stackedBars($('#lg-d-chart'), { cats: years, keys: allKeys, colors, value: (y, k) => (k === 'Other wordings' ? other[y] : vs[keys.indexOf(k)].byYear[y] || 0), label: 'Letters per year by wording', height: 220 });
+      $('#lg-d-variants').replaceChildren(el('h3', { class: 'sub' }, 'Wordings'), ...vs.map((v, i) => {
+        const ys = Object.keys(v.byYear).sort();
+        const body = i === 0 || !v.diff.length ? el('div', {}, pretty(v.example))
+          : el('div', {}, ...v.diff.map(([op, t]) => (op === '=' ? `${pretty(t.length > 220 ? `${t.slice(0, 100)} … ${t.slice(-100)}` : t)} ` : el(op === '-' ? 'del' : 'ins', { class: op === '-' ? 'dd' : 'di' }, `${pretty(t)} `))));
+        return el('div', { class: 'variant' }, el('div', { class: 'vh' }, `Wording ${i + 1}: ${fmt(v.letters)} letters, ${ys[0]}–${ys[ys.length - 1]}${i ? ' — changes from wording 1 marked' : ''}`), body);
+      }));
+      const letters = g.members.map((m) => pat.letters[m]).map((t) => { const r = rowByText(t); return r ? { ...r, text: t } : { text: t, date: '', jur: '' }; });
+      const host = el('div');
+      $('#lg-d-letters').replaceChildren(el('h3', { class: 'sub' }, 'Letters that use it'), host);
+      dataTable(host, { id: 'lgd', sort: 'date-', csvName: 'hcd-letters-using-paragraph', rows: letters, pageSize: 50,
+        columns: letterCols([{ key: 'type', label: 'Letter', value: (r) => r.type || '', filter: 'select' },
+          { key: 'finding', label: 'Finding', value: (r) => r.finding || '', filter: 'select' }]) });
+      $('#lg-detail').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+    $$('#language .seg button').forEach((b) => { b.onclick = () => { src = b.dataset.src; render(); }; });
+    $('#lg-d-close').onclick = () => { $('#lg-detail').hidden = true; };
+    render();
+  };
+
+  // ---------- Reader ----------
+  const sentenceKey = (s, names) => {   // must match sentence_key() in scripts/build_site_data.py
+    let k = s.toLowerCase();
+    for (const n0 of names) { const n = (n0 || '').toLowerCase().replace(' county', '').trim(); if (n.length > 2) k = k.split(n).join(' '); }
+    k = k.replace(/\b(city|county|town)('s|’s)?\b/g, ' ').replace(/[\d,]+(\.\d+)?/g, '#').replace(/[^a-z#]+/g, ' ').trim();
+    return k.length > 30 ? k : null;
+  };
+  const READER = { marks: [], cur: -1, path: '' };
+  async function openReader(path, { find = '' } = {}) {
+    const dlg = $('#reader');
+    const r = rowByText(path) || { text: path };
+    READER.path = path;
+    $('#rd-title').textContent = r.jur ? `${STATEWIDE.has(r.key) ? 'Statewide' : r.jur}${r.county ? `, ${r.county} County` : ''}` : path.split('/').pop();
+    $('#rd-sub').textContent = [r.date ? fdate(r.date) : '', r.src === 'HAU' ? `HAU · ${r.type}` : r.type ? `Review · ${r.type}${r.cycle ? ` · cycle ${r.cycle}` : ''}${r.finding ? ` · ${r.finding}` : ''}` : '', r.req ? 'Requested from HCD' : ''].filter(Boolean).join(' · ');
+    $('#rd-links').replaceChildren(...[link(r.pdf || (r.req && gh(r.req)), 'PDF'), r.hePdf ? link(r.hePdf, 'Element reviewed') : null, link(gh(path), 'Text on GitHub')].filter(Boolean));
+    $('#rd-body').replaceChildren(el('p', { class: 'busy' }, 'Loading…'));
+    if (!dlg.open) { if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', ''); }
+    setParams({ read: path });
+    const [text, lg] = await Promise.all([fetchText(path), getJSON('language')]);
+    if (READER.path !== path) return;
+    const std = new Set(lg?.sources?.[path.startsWith('hau/') ? 'HAU' : 'HE']?.standard || []);
+    const names = [r.jur, r.county].filter(Boolean);
+    READER.paras = (text || '').split(/\n\s*\n/).map((p) => p.replace(/\s+/g, ' ').trim()).filter(Boolean)
+      .filter((p) => !/^Page \d+$/.test(p))
+      .map((p) => splitSentences(p).map((sx) => { const k = sentenceKey(sx, names); return { s: sx, std: !!(k && std.has(fnv1a(k).toString(16))) }; }));
+    if (!text) { $('#rd-body').replaceChildren(el('p', { class: 'busy' }, 'The text could not be loaded.')); return; }
+    $('#rd-find').value = find;
+    drawReader();
+  }
+  function drawReader() {
+    const q = $('#rd-find').value.trim();
+    const terms = parseQuery(q);
+    const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const pats = [...terms.phrases.map((p) => p.map(esc).join("[^a-z0-9.']+")), ...terms.words.map(esc)];
+    const rx = pats.length ? termRx(pats, 'gi') : null;
+    const body = $('#rd-body');
+    body.classList.toggle('dim', $('#rd-dim').checked);
+    body.replaceChildren(...READER.paras.map((ss) => el('p', {}, ...ss.flatMap((x, i) => {
+      const span = el('span', { class: x.std ? 'std' : null });
+      const lab = i === 0 ? /^([A-Z][A-Za-z0-9’'&/(),\- ]{2,80}?):\s/.exec(x.s) : null;
+      let s = x.s;
+      if (lab) { span.append(el('span', { class: 'label' }, `${lab[1]}: `)); s = s.slice(lab[0].length); }
+      if (rx) { let last = 0; for (const h of hits(rx, s)) { span.append(s.slice(last, h.index), el('mark', {}, h.text)); last = h.index + h.text.length; } span.append(s.slice(last)); } else span.append(s);
+      return [span, ' '];
+    }))));
+    READER.marks = $$('mark', body);
+    READER.cur = READER.marks.length ? 0 : -1;
+    $('#rd-count').textContent = q ? `${fmt(READER.marks.length)} match${READER.marks.length === 1 ? '' : 'es'}` : '';
+    gotoMark(0);
+  }
+  function gotoMark(d) {
+    if (!READER.marks.length) return;
+    READER.marks[READER.cur]?.classList.remove('cur');
+    READER.cur = (READER.cur + d + READER.marks.length) % READER.marks.length;
+    const m = READER.marks[READER.cur];
+    m.classList.add('cur');
+    m.scrollIntoView({ block: 'center' });
+    $('#rd-count').textContent = `${READER.cur + 1} of ${fmt(READER.marks.length)}`;
+  }
+  $('#rd-find').addEventListener('input', () => { clearTimeout(READER.t); READER.t = setTimeout(drawReader, 200); });
+  $('#rd-find').addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); gotoMark(e.shiftKey ? -1 : 1); } });
+  $('#rd-next').onclick = () => gotoMark(1);
+  $('#rd-prev').onclick = () => gotoMark(-1);
+  $('#rd-dim').onchange = () => $('#rd-body').classList.toggle('dim', $('#rd-dim').checked);
+  $('#rd-close').onclick = () => { const d = $('#reader'); if (d.close) d.close(); else { d.removeAttribute('open'); READER.path = ''; setParams({ read: '' }); } };
+  $('#reader').addEventListener('close', () => { READER.path = ''; setParams({ read: '' }); });
 
   // ---------- search ----------
   /* Full-text index: site/search/ (scripts/build_search_index.py). Tokenizer and hash must match it. */
@@ -509,14 +906,7 @@
     const field = { q: '#sr-q', code: '#sr-code', jur: '#sr-jur', src: '#sr-src', type: '#sr-type', law: '#sr-law', keyword: '#sr-kw',
       cycle: '#sr-cycle', finding: '#sr-finding', from: '#sr-from', to: '#sr-to', sort: '#sr-sort', text: '#sr-text' };
     let results = [], shown = 0, lastHash = '', runId = 0, current = {};
-    const TEXT = new Map();
-    const getText = (path) => {
-      if (!TEXT.has(path)) {
-        TEXT.set(path, fetch(`https://raw.githubusercontent.com/${REPO}/main/${path.split('/').map(encodeURIComponent).join('/')}`)
-          .then((r) => (r.ok ? r.text() : '')).catch(() => ''));
-      }
-      return TEXT.get(path);
-    };
+    const getText = fetchText;
     const read = () => Object.fromEntries(F.map((k) => {
       const n = $(field[k]);
       return [k, n.type === 'checkbox' ? (n.checked ? '1' : '') : n.value.trim()];
@@ -618,10 +1008,10 @@
       const secs = codes.map((c) => c.replace(/ \(tag\)$/, '').replace(/^[A-Z]+ /, '').match(/^[\d.]+/)?.[0]).filter(Boolean);
       pats.push(...[...new Set(secs)].map(esc));
       if (!pats.length) return [flat.slice(0, 200) + '…'];
-      const rx = new RegExp(`(?<![a-z0-9])(${pats.join('|')})(?![a-z0-9])`, 'gi');
+      const rx = termRx(pats, 'gi');
       // center on the first exact phrase if there is one, else the first match of anything
-      const lead = phrases.length ? new RegExp(`(?<![a-z0-9])(${pats[0]})(?![a-z0-9])`, 'i').exec(flat) : null;
-      const first = lead || rx.exec(flat);
+      const lead = phrases.length ? hits(termRx([pats[0]], 'gi'), flat)[0] : null;
+      const first = lead || hits(rx, flat)[0];
       const at = first ? first.index : 0;
       let a = Math.max(0, at - 120), b = Math.min(flat.length, at + 160);
       while (a > 0 && flat[a] !== ' ') a--;
@@ -629,8 +1019,7 @@
       const part = flat.slice(a, b);
       const nodes = [a > 0 ? '…' : ''];
       let last = 0;
-      rx.lastIndex = 0;
-      for (const m of part.matchAll(rx)) { nodes.push(part.slice(last, m.index), el('mark', {}, m[0])); last = m.index + m[0].length; }
+      for (const h of hits(rx, part)) { nodes.push(part.slice(last, h.index), el('mark', {}, h.text)); last = h.index + h.text.length; }
       nodes.push(part.slice(last), b < flat.length ? '…' : '');
       return nodes;
     }
@@ -674,6 +1063,8 @@
   document.addEventListener('click', (e) => {
     const b = e.target.closest('[data-go]');
     if (b) { e.preventDefault(); goPlace(b.dataset.go); }
+    const rb = e.target.closest('[data-read]');
+    if (rb) { e.preventDefault(); openReader(rb.dataset.read, { find: rb.closest('#search') ? ($('#sr-q').value || '') : '' }); return; }
     const sb = e.target.closest('[data-search]');
     if (sb) { e.preventDefault(); location.hash = `#search?${sb.dataset.search}`; }
   });
@@ -698,7 +1089,9 @@
   load().then((d) => {
     DATA = d;
     $('#repo-link').href = `https://github.com/${REPO}`;
-    $('#stamp').textContent = d.meta ? `Updated ${fdate(d.meta.built.slice(0, 10))} · ${fmt(d.H.length)} HAU and ${fmt(d.E.length)} review letters` : 'Data not built yet';
+    $('#stamp').textContent = d.meta ? `Updated ${caDate(d.meta.built)} · ${fmt(d.H.length)} HAU and ${fmt(d.E.length)} review letters` : 'Data not built yet';
     show(location.hash.slice(1) || 'overview');
+    const rd = params().get('read');
+    if (rd) openReader(rd);
   }).catch((err) => { $('#stamp').textContent = `Could not load data: ${err.message}`; });
 })();

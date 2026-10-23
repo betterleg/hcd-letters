@@ -23,6 +23,8 @@
   <nav class="wrap tabs" role="tablist" aria-label="Sections">
     <a role="tab" href="#overview" data-tab="overview">Overview</a>
     <a role="tab" href="#search" data-tab="search">Search</a>
+    <a role="tab" href="#requirements" data-tab="requirements">Requirements</a>
+    <a role="tab" href="#language" data-tab="language">Language</a>
     <a role="tab" href="#trends" data-tab="trends">Trends</a>
     <a role="tab" href="#statutes" data-tab="statutes">Statutes &amp; keywords</a>
     <a role="tab" href="#compliance" data-tab="compliance">Compliance</a>
@@ -37,8 +39,8 @@
     <div class="kpis" id="kpis"></div>
     <div class="grid2">
       <article class="card">
-        <header><h2>Latest letters</h2><p class="note">The 25 most recent letters from both sources.</p></header>
-        <div class="tablebox"><table class="t" id="latest"><thead><tr><th>Date</th><th>Jurisdiction</th><th>Letter</th><th>Source</th><th>Read</th></tr></thead><tbody></tbody></table></div>
+        <header><h2>Latest letters</h2><p class="note">The 200 most recent letters from both sources. Click a column to sort.</p></header>
+        <div id="latest"></div>
       </article>
       <article class="card">
         <header><h2>HAU letters by quarter</h2><p class="note">Technical assistance, enforcement and ordinance review letters. <a href="#trends">More in Trends</a>.</p></header>
@@ -85,6 +87,86 @@
     </article>
   </section>
 
+  <!-- REQUIREMENTS -->
+  <section id="requirements" class="panel" role="tabpanel" hidden>
+    <article class="card">
+      <header class="row">
+        <div><h2>What HCD requires</h2><p class="note">Housing element review letters, read finding by finding. Each finding is filed under the statutory requirement HCD quotes above it (Gov. Code § 65583 or § 65588) and tagged with HCD's topic label. <em>Round</em> is the letter's place among a jurisdiction's reviews in that cycle. Counts leave out HCD's standard sentences, so they reflect what HCD wrote for each place.</p></div>
+        <div class="ctl-group">
+          <label class="ctl">Cycle <select id="rq-cycle"><option value="6,7">6th and 7th</option><option value="6">6th only</option><option value="7">7th only</option></select></label>
+          <label class="ctl">County <select id="rq-county"><option value="">All counties</option></select></label>
+        </div>
+      </header>
+      <p class="facts" id="rq-facts"></p>
+    </article>
+    <div class="grid2">
+      <article class="card">
+        <header><h2>Reviews it took to reach compliance</h2><p class="note">Jurisdictions by the review on which HCD first found the element in compliance.</p></header>
+        <div class="chart" id="rq-reach"></div>
+      </article>
+      <article class="card">
+        <header><h2>What each round of review brings</h2><p class="note">Share of letters in each round, by HCD's finding and the kind of letter.</p></header>
+        <div class="legend" id="rq-kinds-legend"></div>
+        <div class="chart" id="rq-kinds"></div>
+      </article>
+    </div>
+    <article class="card">
+      <header class="row">
+        <div><h2 id="rq-t-title">Requirements HCD finds unmet, by round</h2><p class="note" id="rq-t-note"></p></div>
+        <div class="seg" role="group" aria-label="What to rank">
+          <button type="button" data-view="reqs" aria-pressed="true">Requirements</button>
+          <button type="button" data-view="issues" aria-pressed="false">Issues</button>
+          <button type="button" data-view="commits" aria-pressed="false">Program commitments</button>
+        </div>
+      </header>
+      <div id="rq-table"></div>
+    </article>
+    <article class="card" id="rq-detail" hidden>
+      <header class="row"><div><h2 id="rq-d-title"></h2><p class="note" id="rq-d-note"></p></div><button type="button" class="link" id="rq-d-close">Close</button></header>
+      <div id="rq-d-table"></div>
+    </article>
+    <div class="grid2">
+      <article class="card">
+        <header><h2>The last hurdles before compliance</h2><p class="note">What HCD still raised in the last "revisions needed" letter before a jurisdiction's first letter finding compliance.</p></header>
+        <div class="chart" id="rq-last"></div>
+      </article>
+      <article class="card">
+        <header><h2>Programs HCD names when it finds compliance</h2><p class="note">Programs the jurisdiction "must continue timely and effective implementation" of, grouped by words in the program name.</p></header>
+        <div class="chart" id="rq-prog"></div>
+      </article>
+    </div>
+    <article class="card">
+      <header><h2>Program names in compliance letters</h2><p class="note">Every program HCD listed. Click a row for its letters.</p></header>
+      <div id="rq-prog-table"></div>
+    </article>
+  </section>
+
+  <!-- LANGUAGE -->
+  <section id="language" class="panel" role="tabpanel" hidden>
+    <article class="card">
+      <header class="row">
+        <div><h2>HCD's standard language</h2><p class="note">Paragraphs HCD reuses across letters, with names, dates and numbers set aside so letters to different places compare. A paragraph's <em>variants</em> are its distinct wordings. Click a row to see how the wording changed and which letters use it. Open any letter with <b>Read</b> to see HCD's standard sentences dimmed and its own findings in full.</p></div>
+        <div class="seg" role="group" aria-label="Letters">
+          <button type="button" data-src="HE" aria-pressed="true">Review letters</button>
+          <button type="button" data-src="HAU" aria-pressed="false">HAU letters</button>
+        </div>
+      </header>
+      <div id="lg-table"></div>
+    </article>
+    <article class="card" id="lg-detail" hidden>
+      <header class="row"><div><h2 id="lg-d-title"></h2><p class="note" id="lg-d-note"></p></div><button type="button" class="link" id="lg-d-close">Close</button></header>
+      <blockquote class="quote" id="lg-d-text"></blockquote>
+      <div class="legend" id="lg-d-legend"></div>
+      <div class="chart" id="lg-d-chart"></div>
+      <div id="lg-d-variants"></div>
+      <div id="lg-d-letters"></div>
+    </article>
+    <article class="card">
+      <header><h2>Recurring headings</h2><p class="note">Most are the statute HCD quotes before each finding.</p></header>
+      <div id="lg-heads"></div>
+    </article>
+  </section>
+
   <!-- TRENDS -->
   <section id="trends" class="panel" role="tabpanel" hidden>
     <article class="card">
@@ -120,7 +202,6 @@
             <button type="button" data-kind="cites" aria-pressed="false">Cited in letters</button>
             <button type="button" data-kind="keywords" aria-pressed="false">Keywords</button>
           </div>
-          <input type="search" id="st-q" placeholder="Filter, e.g. 65915 or parking" aria-label="Filter">
         </div>
       </header>
       <div class="ctl-group">
@@ -128,12 +209,12 @@
         <label class="ctl" id="st-depth-l">Depth <select id="st-depth"><option value="0">Section</option><option value="1">Subdivision</option><option value="9">Full citation</option></select></label>
         <label class="check" id="st-adu-l"><input type="checkbox" id="st-adu"> Group ADU Law (§§ 66310–66342) into one row</label>
       </div>
-      <div class="tablebox tall"><table class="t" id="st-table"><thead><tr><th>Tag</th><th class="num">Letters</th><th class="num">Last 12 mo.</th><th>By year</th><th>First</th><th>Latest</th></tr></thead><tbody></tbody></table></div>
+      <div id="st-table"></div>
     </article>
     <article class="card" id="st-detail" hidden>
       <header class="row"><div><h2 id="st-d-title"></h2><p class="note" id="st-d-note"></p></div><div class="ctl-group"><a class="btn ghost" id="st-d-search" href="#search">Search these letters</a><button type="button" class="link" id="st-d-close">Close</button></div></header>
       <div class="chart" id="st-d-chart"></div>
-      <div class="tablebox"><table class="t" id="st-d-table"><thead><tr><th>Date</th><th>Jurisdiction</th><th>Letter</th><th>Read</th></tr></thead><tbody></tbody></table></div>
+      <div id="st-d-table"></div>
     </article>
   </section>
 
@@ -157,7 +238,7 @@
     </div>
     <article class="card">
       <header><h2>Jurisdictions not in compliance today</h2><p class="note">From HCD's Housing Element Review and Compliance Report. Click a name to see its letters.</p></header>
-      <div class="tablebox"><table class="t" id="co-out"><thead><tr><th>Jurisdiction</th><th>County</th><th>Cycle</th><th>Status</th><th>Latest submittal</th><th>Received</th><th>Reviewed</th></tr></thead><tbody></tbody></table></div>
+      <div id="co-out"></div>
     </article>
   </section>
 
@@ -181,6 +262,21 @@
 </footer>
 
 <div class="tip" id="tip" hidden></div>
+<dialog id="reader" aria-labelledby="rd-title">
+  <header class="rd-head">
+    <div><h2 id="rd-title"></h2><p class="note" id="rd-sub"></p></div>
+    <button type="button" class="link" id="rd-close">Close</button>
+  </header>
+  <div class="rd-tools">
+    <input type="search" id="rd-find" placeholder="Find in this letter" aria-label="Find in this letter">
+    <span class="busy" id="rd-count"></span>
+    <button type="button" class="btn ghost sm" id="rd-prev" aria-label="Previous match">↑</button>
+    <button type="button" class="btn ghost sm" id="rd-next" aria-label="Next match">↓</button>
+    <label class="check"><input type="checkbox" id="rd-dim" checked> Dim HCD's standard sentences</label>
+    <span class="rd-links" id="rd-links"></span>
+  </div>
+  <div class="rd-body" id="rd-body"></div>
+</dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="app.js"></script>
 </body>

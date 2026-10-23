@@ -17,14 +17,18 @@ Each job does the following:
 
 ## Website: HCD Letter Tracker
 
-`site/` is a public web page built from this repo's data and published on GitHub Pages at **https://<your-user>.github.io/hcd-letters/** (for this repo, https://betterleg.github.io/hcd-letters/). It has six tabs:
+`site/` is a public web page built from this repo's data and published on GitHub Pages at **https://<your-user>.github.io/hcd-letters/** (for this repo, https://betterleg.github.io/hcd-letters/). It has eight tabs:
 
 - **Overview:** totals, the latest letters, and HAU letters by quarter.
 - **Search:** one search across both letter sets. Search by words or an "exact phrase" in the letter text, a code section at any depth (`65915` finds every subdivision, `65915(o)` only (o) and below, `66310-66342` a range, `HSC 17021.5` other codes), a city or county (a county name finds every jurisdiction in it), and filters for source, letter type, housing law, keyword, cycle, finding and dates. Results show a highlighted snippet, can be downloaded as CSV, and every search has its own shareable address. The masthead box searches from any tab.
+- **Requirements:** what HCD requires in housing element review letters (6th and 7th cycles, each or together, by county): how many reviews it took to reach compliance, what kind of letter each round brings, the requirements, issues and program commitments HCD raises in each round and which keep coming back, the last hurdles before compliance, and the programs HCD names when it finds compliance. Click any row for its letters.
+- **Language:** HCD's standard paragraphs, how many letters use each, how the wording changed over time (changes marked), and which letters use each wording; plus recurring headings.
 - **Trends:** HAU letters per quarter by letter type, filterable by housing law; housing element review letters per quarter by finding, filterable by cycle; and a table of housing laws by year.
 - **Statutes & keywords:** three rankings, each with a sparkline and a click-through to the letters: HCD's statute tags on HAU letters; **citations found in the letter text** of both sets, at section, subdivision or full depth; and HCD's keywords with spelling variants grouped. A checkbox groups the ADU Law sections (66310–66342) into one row.
 - **Compliance:** current status counts from HCD's Review and Compliance Report, 6th-cycle findings by year, days from submittal to letter against the 60- and 90-day review periods, and the jurisdictions out of compliance today.
 - **Jurisdiction lookup:** every HAU and review letter for a city or county, with links to the text in this repo and to HCD's PDFs.
+
+Every table can be sorted by clicking a column, filtered, and downloaded as CSV; the page address keeps the sort and filters, so a view can be shared. **Read** opens a letter's text on the site, with a find box, the search words highlighted, and HCD's standard sentences dimmed so its findings for that place stand out; the reader has its own shareable address too.
 
 The **Website** workflow rebuilds the page after each Monday data job, so it stays current on its own. `scripts/build_site_data.py` turns the CSVs into `site/data/*.json`, and `scripts/build_search_index.py` builds the search index in `site/search/`, at build time; neither is committed. The search runs entirely in the browser (no outside service): the index is split into 512 small files, so a search downloads only the pieces for its own words, and snippets load each letter's text from this repo.
 
@@ -50,6 +54,8 @@ Letters the dashboards list as "Contact HCD for a copy" can be added once you ha
 - `*/index/<year>.md`: every letter that year, with links to its text in this repo, HCD's PDF and, for review letters, the housing element it reviewed.
 - `*/CHANGES.md`: what changed in the latest run.
 
+- `he_letters/REQUIREMENTS.md`: what HCD requires, from the 6th-cycle review letters: each finding filed under the statutory requirement it answers (Gov. Code § 65583 subdivisions), what HCD raises on 1st, 2nd, 3rd and later reviews, the issues that keep coming back, the last hurdles before compliance, the program commitments HCD asks for, and the programs it names in compliance letters. Data in `requirements.csv`, `letter_outcomes.csv` and `programs.csv`.
+- `*/PATTERNS.md`: HCD's standard language: recurring section headings, boilerplate paragraphs, how many letters use each, and how the wording has changed.
 - `*/CITATIONS.md`: the most-cited sections, subdivisions and full citations found in the letter text; for HAU letters, how well they agree with HCD's own tags.
 
 To search the text, use the website's Search tab, or GitHub's search box with "In this repository", e.g. `65915(v) path:hau/letters` or `"sites inventory" path:he_letters/letters`.
