@@ -2,5 +2,6 @@ file,source,task,jurisdiction,letter_date,type,match,note
 Beverly-Hills-SB-79-Review-050826 (1).pdf,,,,,,no_match,no dashboard row for a jurisdiction named in it within 3 days of 2026-05-08
 Pasadena-3572-sb-79-out-092526.pdf,hau,CSTASK0027329,Pasadena,2026-09-25,,auto,jurisdiction + date (same day)
 culver-city-sb79-101226.pdf,hau,CSTASK0027480,Culver City,2026-10-12,,auto,jurisdiction + date (same day)
+del-mar-rezone-corr-action-101626.pdf,hau,CSTASK0027591,Del Mar,2026-10-16,,auto,jurisdiction + date (same day)
 oceanside-hau-3630-sb-79-out-101526.pdf,hau,CSTASK0027553,Oceanside,2026-10-15,,auto,jurisdiction + date (same day)
 palo alto-hau-3614-sb-79-in-101326 (1).pdf,hau,CSTASK0027530,Palo Alto,2026-10-13,,auto,jurisdiction + date (same day)

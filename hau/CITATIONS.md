@@ -1,25 +1,25 @@
 # Statute citations in the letters (HAU)
 
-Parsed from the letter text by `scripts/parse_citations.py`: 20,696 letter–citation rows from 1,324 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
+Parsed from the letter text by `scripts/parse_citations.py`: 20,705 letter–citation rows from 1,325 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
 
 Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `HSC 17021.5`.
 
 ## Check against HCD's Statutory Reference tags
 
-Of 5,180 section tags HCD gave the 1,291 tagged letters with text, the parser found **47%** in the letter text. It also found 7,174 cited sections HCD didn't tag (HCD tags the main statutes, not every section a letter cites).
+Of 5,182 section tags HCD gave the 1,292 tagged letters with text, the parser found **47%** in the letter text. It also found 7,175 cited sections HCD didn't tag (HCD tags the main statutes, not every section a letter cites).
 
 ## Most-cited sections
 
 | Citation | Letters |
 |---|---|
-| `65585` | 671 |
+| `65585` | 672 |
 | `65589.5` | 519 |
 | `65580` | 439 |
 | `66323` | 349 |
 | `66314` | 347 |
-| `65583` | 314 |
+| `65583` | 315 |
 | `66321` | 313 |
-| `65583.2` | 307 |
+| `65583.2` | 308 |
 | `66326` | 302 |
 | `66333` | 297 |
 | `66317` | 291 |
@@ -45,8 +45,8 @@ Of 5,180 section tags HCD gave the 1,291 tagged letters with text, the parser fo
 | `66335` | 134 |
 | `66331` | 126 |
 | `CIV 4751` | 125 |
-| `66320` | 124 |
 | `17980.12` | 124 |
+| `66320` | 124 |
 | `CIV 4741` | 121 |
 | `CIV 4740` | 121 |
 | `65852.26` | 119 |
@@ -57,10 +57,10 @@ Of 5,180 section tags HCD gave the 1,291 tagged letters with text, the parser fo
 
 | Citation | Letters |
 |---|---|
-| `65585(j)` | 614 |
+| `65585(j)` | 615 |
 | `65589.5(d)` | 443 |
 | `65585(l)` | 382 |
-| `65585(i)` | 358 |
+| `65585(i)` | 359 |
 | `66323(a)` | 325 |
 | `66321(b)` | 311 |
 | `66314(d)` | 296 |
@@ -85,17 +85,17 @@ Of 5,180 section tags HCD gave the 1,291 tagged letters with text, the parser fo
 | `66333(g)` | 144 |
 | `66314(a)` | 143 |
 | `66329(a)` | 142 |
+| `CIV 714.3(b)` | 141 |
 | `66326(d)` | 141 |
 | `66311.5(a)` | 141 |
-| `CIV 714.3(b)` | 141 |
 | `66326(a)` | 138 |
 | `66324(c)` | 127 |
 | `66313(b)` | 125 |
-| `65585(b)` | 124 |
+| `65585(b)` | 125 |
 | `66313(m)` | 123 |
-| `66335(2)` | 121 |
-| `CIV 4740(a)` | 121 |
 | `CIV 4741(a)` | 121 |
+| `CIV 4740(a)` | 121 |
+| `66335(2)` | 121 |
 | `65852.2(e)` | 93 |
 
 ## Most-cited full citations
@@ -116,18 +116,18 @@ Of 5,180 section tags HCD gave the 1,291 tagged letters with text, the parser fo
 | `66326(b)(2)(A)` | 144 |
 | `66326(b)(2)(B)` | 143 |
 | `66317(a)(2)(B)` | 143 |
-| `66317(d)(1)` | 142 |
 | `66321(b)(2)(A)` | 142 |
 | `65589.5(d)(5)` | 142 |
+| `66317(d)(1)` | 142 |
 | `66321(b)(2)(B)` | 141 |
 | `66321(b)(2)` | 135 |
-| `66323(a)(1)(A)` | 133 |
 | `66326(b)(1)` | 133 |
-| `66324(c)(1)` | 125 |
+| `66323(a)(1)(A)` | 133 |
 | `65583(c)(1)(A)` | 125 |
-| `65585(i)(1)(A)` | 101 |
+| `66324(c)(1)` | 125 |
+| `65585(i)(1)(A)` | 102 |
 | `65588(e)(4)(C)(iii)` | 81 |
-| `65585(i)(1)` | 75 |
+| `65585(i)(1)` | 76 |
 | `65588(e)(3)` | 73 |
 | `65852.2(h)(2)(B)` | 62 |
 | `65852.2(h)(3)(A)` | 62 |
@@ -136,9 +136,9 @@ Of 5,180 section tags HCD gave the 1,291 tagged letters with text, the parser fo
 | `65589.5(f)(6)` | 49 |
 | `65852.2(e)(1)` | 45 |
 | `65852.2(c)(2)(C)` | 45 |
-| `66323(a)(4)` | 44 |
 | `65588(e)(4)(C)` | 44 |
+| `66323(a)(4)` | 44 |
 | `66314(d)(12)` | 40 |
 | `66323(a)(3)` | 40 |
-| `65852.2(e)(1)(A)` | 38 |
-| `65585(l)(3)(B)` | 38 |
+| `65588(e)(4)(C)(i)` | 38 |
+| `65585(l)(2)` | 38 |
