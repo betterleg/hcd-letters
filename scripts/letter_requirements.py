@@ -287,6 +287,9 @@ def compliance_programs(text):
 
 
 def main():
+    if not ((HE / "letters_analysis.csv").exists() and (HE / "letters_index.csv").exists()):
+        print("he_letters/letters_analysis.csv or letters_index.csv not found yet (run the review-letter job first); skipping.")
+        return
     analysis = list(csv.DictReader(open(HE / "letters_analysis.csv", encoding="utf-8")))
     index = list(csv.DictReader(open(HE / "letters_index.csv", encoding="utf-8")))
     text_of = {(r["jurisdiction"], r["reviewed"], r["type"]): r["text_file"] for r in index

@@ -57,6 +57,7 @@ The rules-based analysis files findings by requirement and topic but can't say *
 
 ## Done
 
+- 2026-11-01: Fresh-repo fixes: workflows and scripts skip cleanly before any letters are downloaded; runners pinned to Ubuntu 24.04; `setup-python` v6; privacy-check terms match whole words only.
 - 2026-11-01: **#18 Fresh repo:** old repo and its history deleted; rebuilt from the current code with one clean first commit. Letter text and data are re-downloaded by the first workflow runs; requested PDFs re-uploaded to `requested/`.
 - 2026-10-25: **Privacy:** personal details removed from the repo's files; commits use the GitHub no-reply address; `.env` and key files ignored; `scripts/check_public.py` blocks secrets and `PRIVATE_TERMS` before every commit (hook and Actions) and every deploy.
 - 2026-10-24: **#17 Search tab navigation fixed.** Clicking a tab (or Back/Forward) always shows it; returning to Search keeps your results; returning to Requirements, Language and other tabs restores their filters in the address. New `tests/nav_test.py` clicks through every tab on desktop and phone sizes, and the Website workflow runs it before each deploy.

@@ -23,14 +23,14 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # pinned; ubuntu-latest is moving to Ubuntu 26
     env:
       PRIVATE_TERMS: ${{ secrets.PRIVATE_TERMS }}   # optional secret: personal terms that must never be published
     steps:
       - uses: actions/checkout@v5
         with:
           ref: main   # after a data job, use the commit it just pushed
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Build site data
@@ -50,7 +50,7 @@ jobs:
           path: site
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # pinned; ubuntu-latest is moving to Ubuntu 26
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

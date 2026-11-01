@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # pinned; ubuntu-latest is moving to Ubuntu 26
     timeout-minutes: 120
     env:
       PRIVATE_TERMS: ${{ secrets.PRIVATE_TERMS }}   # optional secret: personal terms that must never be published

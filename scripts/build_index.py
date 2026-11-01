@@ -22,6 +22,9 @@ def esc(s):
 
 def main(root):
     root = Path(root)
+    if not (root / "hau_letters.csv").exists():
+        print(f"{root}/hau_letters.csv not found yet; skipping indexes.")
+        return
     letters = list(csv.DictReader(open(root / "hau_letters.csv", encoding="utf-8")))
     idx = {}
     p = root / "letters_index.csv"

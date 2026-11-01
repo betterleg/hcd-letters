@@ -66,9 +66,10 @@ def main():
                 problems.append(f"{f}:{line}: looks like a {what}")
         low = text.lower()
         for t in terms:
-            i = low.find(t)
-            if i >= 0:
-                problems.append(f"{f}:{low.count(chr(10), 0, i) + 1}: contains a term from PRIVATE_TERMS")
+            # whole words only, so a short term does not match inside longer words
+            m = re.search(r"(?<![a-z0-9])" + re.escape(t) + r"(?![a-z0-9])", low)
+            if m:
+                problems.append(f"{f}:{low.count(chr(10), 0, m.start()) + 1}: contains a term from PRIVATE_TERMS")
     if problems:
         print("Privacy check failed. Nothing was committed or deployed.\n  " + "\n  ".join(problems))
         sys.exit(1)

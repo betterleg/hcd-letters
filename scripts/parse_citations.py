@@ -264,6 +264,9 @@ def plausible(c):
 def main(which):
     cfg = CFG[which]
     d = cfg["dir"]
+    if not (d / "letters_index.csv").exists():
+        print(f"{d.name}/letters_index.csv not found yet (no letters downloaded); skipping citations.")
+        return
     idx = list(csv.DictReader(open(d / "letters_index.csv", encoding="utf-8")))
     rows_out = []
     stats = Counter()

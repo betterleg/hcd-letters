@@ -181,6 +181,9 @@ def diff_ops(a, b):
 def main(which):
     cfg = CFG[which]
     d = cfg["dir"]
+    if not (d / "letters_index.csv").exists():
+        print(f"{d.name}/letters_index.csv not found yet (no letters downloaded); skipping.")
+        return
     idx = [r for r in csv.DictReader(open(d / "letters_index.csv", encoding="utf-8"))
            if r.get("status", "").startswith("downloaded") and r.get("text_file")]
     finding = {}
