@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010848",
+  "case_number": "HAU22-238",
+  "letter_date": "2023-01-09",
+  "jurisdiction": "Huntington Beach",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65589.5(d)(5)",
+  "n_statutes": "1",
+  "keywords": "Buena Vista Gardens Apartments Association v. City of San Diego | Builder's Remedy | California Renters Legal Advocacy & Education Fund v. City of San Mateo | City of Coronado v. San Diego Association of Governments | City of Irvine v. Southern California Assn. of Governments | Ruegg & Ellsworth v. City of Berkeley",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/HuntingtonBeachNOPV010923.pdf",
+  "hcd_letter": "Huntington Beach Notice of Potential Violation 01/09/2023",
+  "housing_law": "Housing Accountability Act, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/HuntingtonBeachNOPV010923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 214673,
+  "text_chars": 5702,
+  "text_empty": false
+}

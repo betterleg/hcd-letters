@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024327",
+  "case_number": "HAU0002763",
+  "letter_date": "2026-02-02",
+  "jurisdiction": "La Canada Flintridge",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65589.5 | 65589.5(a)(3) | 65589.5(h)(9) | 65589.5(j)(1) | 65589.5(j)(1)(A)",
+  "n_statutes": "5",
+  "keywords": "HAA | NOPV | la canada flintridge | pipeline site | planning commission",
+  "n_keywords": "5",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-canada-4600-ocean-view-nopv-hau-2763-020226.pdf",
+  "hcd_letter": "La Canada Flintridge Notice of Potential Violation 02/02/2026",
+  "housing_law": "Housing Accountability Act, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-canada-4600-ocean-view-nopv-hau-2763-020226.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227535,
+  "text_chars": 12815,
+  "text_empty": false
+}

@@ -1,0 +1,193 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 19, 2025
+
+
+         John Calise, Assistant Superintendent, Facilities Division
+         Berkeley Unified School District
+         2515 Ninth Street
+         Berkeley, CA 94710
+
+         Dear John Calise:
+
+         RE: Berkeley Unified School District Housing Accountability Act Fee Vesting –
+             Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding Berkeley Unified School District’s (District)
+         development impact fee as it relates to the Housing Accountability Act (HAA). 1 Among
+         other provisions, the HAA limits the ability of local governments to revise fees on a
+         project to a higher amount following the submission of a preliminary application
+         pursuant to Government Code section 65941.1. The purpose of this letter is to provide
+         technical assistance to the District on whether it can impose a higher fee on a specific
+         development project subsequent to the vesting of the Project’s preliminary application
+         and applicable fees on that date.
+
+         Background
+
+         HCD understands that the project applicant (Applicant) filed a preliminary application for
+         a 207-unit housing development project at 1598 University Avenue on May 5, 2023
+         (Project). At the time, the District’s impact fee for residential development was $3.48 per
+         square foot. Following the City of Berkeley’s approval of the Project on September 23,
+         2023, the District adopted a new residential development impact fee of $5.17 per
+         square foot on June 12, 2024, 2 which it subsequently charged the Applicant on
+         December 6, 2024. Although the Applicant paid the higher fee amount, it contested the
+         higher fee through the notice of protest process, claiming that the submission of the
+         preliminary application should have locked in the fee at $3.48 per square foot. The
+         District rejected the Applicant’s appeal on January 17, 2025, arguing that the impact fee
+         qualified for the HAA’s exemption to fee vesting because the fee was based on a
+
+1 Gov. Code, § 65589.5.
+2 Berkeley Unified School District Board of Education Resolution No. 24-045, June 12, 2024,
+
+https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36030527&AID=818075&MID=3080
+8, page 1; Berkeley Unified School District Board of Education June 12, 2024 Official Minutes,
+https://www.berkeleyschools.net/wp-content/uploads/2025/04/Board-Minutes-06.12.2024-.docx-3.pdf,
+page 5.
+      John Calise, Assistant Superintendent, Facilities Division
+      Page 2
+
+
+
+      statewide cost index 3 and was necessary to mitigate impacts under the California
+      Environmental Quality Act (CEQA). 4 The Applicant has filed a request with HCD for
+      technical assistance.
+
+      HAA Annual Fee Cost Index Exemption
+
+      Government Code section 65589.5, subdivision (o) requires that housing development
+      projects that have submitted a valid preliminary application be subject only to the
+      ordinances, policies, and standards in place when the preliminary application was
+      submitted. This includes fees, charges, and exactions. Subdivision (o)(2)(A) exempts
+      fee increases “resulting from an automatic annual adjustment based on an
+      independently published cost index that is referenced in the ordinance or resolution
+      establishing the fee.” In other words, the exemption applies when the following three
+      criteria are met:
+
+          1. The fee increase must be an automatic annual adjustment.
+          2. The automatic annual adjustment must be based on a current independently
+             published cost index.
+          3. The automatic annual adjustment must be established through an ordinance or
+             resolution.
+
+      While the District’s impact fee may satisfy the second and third criteria as it is
+      presumably based on an independently published cost index established through
+      resolution, the fee does not result from an automatic annual adjustment. School district
+      fees in California are regulated by the State Allocation Board. Every two years, the
+      Board adjusts the maximum fee per square foot of floor area that can be charged in the
+      state. 5 In fact, the District’s resolution indicates that the District affirmatively adopted the
+      increased fee of $5.17 and did not rely on an automatic annual adjustment. 6 Therefore,
+      the District’s impact fee does not qualify for the exemption from the statutory
+      requirement that the Project is subject only to the fees, charges, and exactions in effect
+      at the time of the preliminary application’s submission. Therefore, the District is not
+      authorized to impose a higher fee on the Project under this HAA exemption.
+
+
+
+
+3 Gov. Code, § 65589.5, subd. (o)(2)(A).
+4 Gov. Code, § 65589.5, subds. (o)(2)(C), (o)(6).
+5 Gov. Code, § 65995, subd. (b)(3).
+6 Berkeley Unified School District Board of Education Resolution No. 24-045, June 12, 2024,
+
+https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36030527&AID=818075&MID=3080
+8, page 1.
+      John Calise, Assistant Superintendent, Facilities Division
+      Page 3
+
+
+
+
+      HAA Project-Specific CEQA Exemption
+
+      A housing development project may be subject to ordinances, policies, and standards
+      adopted after the preliminary application was submitted pursuant to Government Code
+      section 65941.1 if subjecting the project to an ordinance, policy, standard, or any other
+      measure, beyond those in effect when a preliminary application was submitted is
+      necessary to avoid or substantially lessen an impact of the project under CEQA. 7
+
+      However, the purpose of the District’s fee increase is not to avoid or lessen the impact
+      of housing projects under CEQA. In fact, neither the District Board’s resolution adopting
+      the fee increase nor the fee justification report for the increase reference CEQA
+      impacts.
+
+      In addition, a local agency may require mitigation measures to lessen the impacts of a
+      housing development project under CEQA. 8 However, on the date of the Applicant’s
+      submittal (May 5, 2023), the District fee was $3.48 per square foot, applicable to all
+      development projects. Likewise, the fee increase is applicable to all development
+      projects. The exemption under the HAA, on the other hand, pertains to project-specific
+      impacts. Therefore, the Applicant is entitled to the fee in effect at the time of its
+      preliminary application submittal.
+
+      In response to the Applicant’s appeal, the District argues that the fee qualifies for the
+      exemption because it is the exclusive method of mitigating impacts under CEQA, and
+      that facility expansion due to increased enrollment caused by new development was
+      identified in the City of Berkeley’s housing element draft environmental impact report
+      (DEIR) as a potential impact that would be mitigated by impact fees. Further, the District
+      cites Government Code section 65996 as the legal basis for its subsequent imposition
+      of a higher fee on the Project and its denial of the Applicant’s appeal of the same.
+
+      However, Government Code section 65996, subdivision (a) itself provides for the
+      “exclusive methods of considering and mitigating impacts on school facilities that occur
+      or might occur as a result of any legislative or adjudicative act, or both, by any state or
+      local agency involving, but not limited to, the planning, use, or development of real
+      property or any change of governmental organization or reorganization….” The methods
+      provided in subdivision (a) allow school fees to fund construction and reconstruction of
+      school facilities, 9 as well as empower local agencies to condition residential
+      development approvals on land dedication or in-lieu fees as a means of providing
+      interim facilities to relieve overcrowding. 10 However, the District has asserted that the
+
+
+7 Gov. Code, § 65589.5, subd. (o)(2)(C).
+8 Gov. Code, § 65589.5, subd. (o)(6).
+9 Ed. Code, § 17620.
+10 Gov. Code, § 65974.
+John Calise, Assistant Superintendent, Facilities Division
+Page 4
+
+
+
+increased fee is to mitigate impacts under CEQA (which it had not previously identified),
+not for the purposes described in subdivision (a).
+
+In addition, subdivision (d) expressly notes that “[n]othing in this chapter shall be
+interpreted to limit or prohibit the ability of a local agency to utilize other methods to
+provide school facilities if these methods are not levied or imposed in connection
+with, or made a condition of, a legislative or adjudicative act, or both, involving,
+but not limited to, the planning, use, or development of real property ....”
+(Emphasis added.) In other words, local agencies may use other means to provide
+school facilities as long as they do not involve development review. Here; however, the
+District is proposing to levy a fee in connection with an act involving the development of
+real property.
+
+Conclusion
+
+The District is not authorized to impose a higher fee on the Project after the Project has
+vested. The District’s reliance on a CEQA exemption to impose an additional $1.69 per
+square foot on the Applicant’s Project approximately one year after the Applicant’s
+submission of its preliminary application has no legal basis. The fee is not charged to
+mitigate specific impacts that arise from the Project. Therefore, the District is not
+authorized to impose a higher fee on the Project under this HAA exemption.
+
+HCD remains committed to supporting local governments in facilitating housing at all
+income levels and hopes the District finds this clarification instructive. If you have
+questions or need additional information, please contact David Ying at
+david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

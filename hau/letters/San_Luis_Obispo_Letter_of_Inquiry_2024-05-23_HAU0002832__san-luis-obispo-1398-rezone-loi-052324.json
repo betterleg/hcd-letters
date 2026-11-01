@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017170",
+  "case_number": "HAU0002832",
+  "letter_date": "2024-05-23",
+  "jurisdiction": "San Luis Obispo",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "San Luis Obispo LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-luis-obispo-1398-rezone-loi-052324.pdf",
+  "hcd_letter": "San Luis Obispo Letter of Inquiry 05/23/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-luis-obispo-1398-rezone-loi-052324.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 165119,
+  "text_chars": 3614,
+  "text_empty": false
+}

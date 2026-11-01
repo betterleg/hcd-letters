@@ -1,0 +1,504 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 27, 2023
+
+
+
+         Ben Moody, Director of Public Works and Development Services
+         Development Services Department
+         City of Yuba City
+         1201 Civic Center Boulevard
+         Yuba City, CA 95993
+
+         Dear Ben Moody:
+
+         RE: Review of Yuba City’s Accessory Dwelling Unit (ADU) Ordinance under State
+            ADU Law (Gov. Code, § 65852.2)
+
+         Thank you for submitting the City of Yuba City accessory dwelling unit (ADU) Ordinance
+         No. 006-22 (Ordinance), adopted March 15, 2022, to the California Department of Housing
+         and Community Development (HCD). The Ordinance was received on August 22, 2023.
+         HCD has reviewed the Ordinance and submits these written findings pursuant to
+         Government Code section 65852.2, subdivision (h). HCD finds that the Ordinance does
+         not comply with section 65852.2 in the manner noted below. Under that statute, the City
+         has up to 30 days to respond to these findings. Accordingly, the City must provide a
+         written response to these findings no later than January 27, 2023.
+
+         The Ordinance contains provisions to implement Senate Bill (SB) 9 (Chapter 162,
+         Statutes of 2021). The Ordinance’s SB 9 provisions are not a part of this review except
+         to the extent that they may affect ADUs or junior accessory dwelling units (JADUs).
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law in the following respects:
+
+         •      Section 8-5.5004.(c) – Review Process – The Ordinance states, “Applications for
+                accessory dwelling units and junior accessory dwelling units pursuant to this
+                section shall be processed ministerially, without discretionary review or a hearing,
+                through the zoning clearance process within sixty (60) days from the date the City
+                receives a complete application if there is an existing single-family or multifamily
+                dwelling on the lot” (emphasis added). However, Government Code section
+                65852.2, subdivision (a)(3)(A) states, “The permitting agency shall either approve
+                or deny the application to create or serve an accessory dwelling unit or a junior
+                accessory dwelling unit within 60 days from the date the permitting agency
+                receives a completed application if there is an existing single-family or multifamily
+                dwelling on the lot.” (Emphasis added). Government Code section 65852.2,
+Ben Moody, Director of Public Works, and Development Services
+Page 2
+
+
+    subdivision (a)(3)(B), states, “If a permitting agency denies an application for an
+    accessory dwelling unit or junior accessory dwelling unit pursuant to subparagraph
+    (A), the permitting agency shall, within the time period described in subparagraph
+    (A), return in writing a full set of comments to the applicant with a list of items that
+    are defective or deficient and a description of how the application can be remedied
+    by the applicant.” The ADU review process must lead to one of two outcomes:
+    approval or denial of the application. Therefore, the City must amend the
+    Ordinance to require that an ADU application be approved or denied within 60
+    days, and a denial be accompanied by a full set of comments and a description of
+    how the application can be remedied.
+
+•   Section 8-5.5004.(e)(1)(A) – ADU Location – The Ordinance states, “An accessory
+    dwelling unit shall be located within a proposed or existing single-family dwelling,
+    or an existing multifamily dwelling, including attached garages, storage areas or
+    similar uses, or an accessory structure: or shall be detached from, but located on
+    the same lot as, a proposed or existing single-family dwelling, or an existing
+    multifamily dwelling: or shall be attached to a proposed or existing single-family
+    dwelling.” (Emphasis added). The Ordinance limits the creation of ADUs to existing
+    multifamily dwellings. However, Government Code section 65852.2, subdivision
+    (a)(1)(D)(ii), states that an ADU may be created where “The lot is zoned to allow
+    single-family or multifamily dwelling residential use and includes a proposed or
+    existing dwelling.” The Ordinance section does not include “or proposed” with
+    multifamily dwelling. Government Code section 65852.2, subdivision (e)(1)(D),
+    states a local agency shall ministerially approve “Not more than two accessory
+    dwelling units that are located on a lot that has an existing or proposed multifamily
+    dwelling, but are detached from that multifamily dwelling.” An ADU subject to local
+    development standards under subdivision (a) may be built on a property with either
+    an existing or a proposed multifamily dwelling, not just an existing multifamily
+    dwelling. Detached multifamily statewide exemption ADUs reviewed under
+    subdivision (e)(1)(D) must be allowed on a lot with either an existing or a proposed
+    multifamily dwelling, not just an existing multifamily dwelling. Therefore, the City
+    must amend the Ordinance to allow ADUs on properties with an existing or
+    proposed multifamily dwelling for ADUs reviewed under subdivision (a) or
+    subdivision (e)(1)(D).
+
+•   Section 8-5.5004.(e)(1)(B) – Multifamily ADU Locations – The Ordinance states, “An
+    accessory dwelling unit located within a multifamily dwelling structure may only be
+    located within a portion of the structure not used as livable space, including, but not
+    limited to, a storage room, boiler room, passageway, attic, basement, or garage,
+    provided that each unit shall comply with state building standards for dwellings.”
+    However, Government Code section 65852.2, subdivision (e)(1)(D), quoted in the
+    previous paragraph, allows for two detached multifamily ADUs. Since this paragraph
+    of the Ordinance provides for the allowable location of multifamily conversion ADUs,
+    confusion could be avoided by also describing the allowable location for multifamily
+    detached ADUs here, instead of in Section 8-5.5004.(e)(1)(A). Therefore, the City
+Ben Moody, Director of Public Works, and Development Services
+Page 3
+
+
+    should amend the Ordinance to describe the allowed locations for all kinds of
+    multifamily ADUs in this paragraph.
+
+•   Section 8-5.5004.(e)(1)(C) – JADU Location – The Ordinance states, “A junior
+    accessory dwelling unit shall be located entirely within a proposed or existing
+    single-family dwelling structure.” However, Government Code section 65852.22,
+    subdivision (a)(4), states a JADU ordinance shall: “Require a permitted junior
+    accessory dwelling unit to be constructed within the walls of the proposed or
+    existing single-family residence. For purposes of this paragraph, enclosed uses
+    within the residence, such as attached garages, are considered a part of the
+    proposed or existing single-family residence.” The Ordinance is silent on whether a
+    garage attached to a single-family residence is eligible for conversion to a JADU,
+    while State Law is clear that such a conversion is allowed. Therefore, the City must
+    amend the Ordinance to clarify that an attached garage is considered part of the
+    single-family residence and eligible for conversion to a JADU.
+
+    The Ordinance allows JADUs in the Multiple Family Residence District (see Table
+    8-5.702) and in the Two-Family Residence District (see Table 8-5.602). However,
+    Government Code section 65852.22, subdivision (a) states, “Notwithstanding
+    Section 65852.2, a local agency may, by ordinance, provide for the creation of
+    junior accessory dwelling units in single-family residential zones.” Therefore, the
+    City must amend the Ordinance to remove JADUs as a permitted use from the
+    Multiple Family Residence District and the Two-Family Residence District.
+
+•   Section 8-5.5004.(e)(2)(A) and (B) – ADUs Subject to Limited Standards – The
+    Ordinance states, “Up to one accessory dwelling unit and one junior accessory
+    dwelling unit are allowed on any lot with one or more existing or proposed single-
+    family residences.” The Ordinance also states, “One, but not both, of the following
+    options is permitted on a lot with an existing multifamily residence: (i) Up to two
+    detached accessory dwelling units; or (ii) Accessory dwelling units within the
+    multifamily dwelling as follows:” and goes on to describe an allowance for a
+    number of conversion ADUs equal to 25 percent of the number of existing units,
+    rounding decimals down, and with at least one such conversion ADU allowed
+    regardless of the calculation. However, Government Code section 65852.2,
+    subdivision (e)(1) states, “Notwithstanding subdivisions (a) to (d), inclusive, a local
+    agency shall ministerially approve an application for a building permit within a
+    residential or mixed-use zone to create any of the following: (A) One accessory
+    dwelling unit and one junior accessory dwelling unit per lot with a proposed or
+    existing single-family dwelling…(i) The accessory dwelling unit or junior accessory
+    dwelling unit is within the proposed space of a single-family dwelling or existing
+    space of a single-family dwelling or accessory structure.” Subparagraph (B)
+    permits “[o]ne detached, new construction, accessory dwelling unit that does not
+    exceed four-foot side and rear yard setbacks.”
+Ben Moody, Director of Public Works, and Development Services
+Page 4
+
+
+    The use of the term “any” followed by an enumeration of by right ADU types
+    permitted indicate that any of these ADU types can be combined on a lot zoned
+    for single family dwellings. This permits a homeowner, who meets specified
+    requirements, to create one converted ADU; one detached, new construction
+    ADU; and one JADU. Thus, if the local agency approves an ADU that is created
+    from existing (or proposed) space, and the owner subsequently applies for a
+    detached ADU (or vice versa) that meets the size and setbacks pursuant to the
+    subdivision, the local agency cannot deny the application, nor deny a permit for a
+    JADU under this section.
+
+    HCD notes that the Legislature, in creating the list, did not use “or” or “one of” to
+    indicate only one or another would be applicable to the exclusion of the other. This
+    subdivision applies equally to ADUs created pursuant to Government Code
+    section 65852.2, subdivisions (e)(1)(C) and (D), on lots with proposed or existing
+    multifamily dwellings. Limiting single-family lots to one ADU would prevent
+    property owners from creating ADUs by right under subdivision (e)(1). Limiting
+    multifamily lots to either two detached ADUs or conversion ADUs would prevent
+    property owners from creating ADUs by right under subdivision (e)(1). Therefore,
+    the City must amend the Ordinance to allow all the ADUs which are permissible
+    under Government Code section 65852.2, subdivision (e). The City should also
+    amend the Ordinance to clarify that a maximum of one JADU is allowed per single
+    family residence on a lot zoned for single-family residence.
+
+•   Section 8-5.5004.(e)(2)(C) – Number of ADUs Allowed on Property with both
+    Single-Family and Multifamily Homes – The Ordinance states, “If a lot has both
+    one or more existing or proposed single-family residences and an existing
+    multifamily residence, the owner of the lot may elect to develop the lot under either
+    subsection (e)(2)(A) or subsection (e)(2)(B), but not both. The owner's election
+    shall be noted on any development permit issued by the City and in the deed
+    restriction required by subsection (h), and all future development of accessory
+    dwelling units and junior accessory dwelling units on the lot shall be bound by such
+    election.” However, Government Code section 65852.2, subdivision (e)(1) states,
+    “Notwithstanding subdivisions (a) to (d), inclusive, a local agency shall ministerially
+    approve an application for a building permit within a residential or mixed-use zone
+    to create any of the following:” (emphasis added) and goes on to list the four types
+    of statewide exemption ADUs: single-family conversion, single-family detached,
+    multifamily conversion and multifamily detached.
+
+    A property with both single-family and multifamily primary dwellings, existing or
+    proposed, is treated as a multifamily property, and may use the ADU allowances
+    for properties with existing or proposed multifamily dwellings. Such properties are
+    not eligible for a JADU. The eligibility for statewide exemption ADUs is based on
+    the presence of existing or proposed dwellings and whether they are classified
+    single-family or multifamily (except for multifamily conversion ADUs under
+    Government Code section 65852.2 subdivision (e)(1)(C), which require an existing
+Ben Moody, Director of Public Works, and Development Services
+Page 5
+
+
+    multifamily dwelling). Therefore, the City must amend the Ordinance to remove the
+    requirement that a property owner choose to develop ADUs under subsection
+    (e)(2)(A) or (e)(2)(B) of the Ordinance, but not both, in cases where the property
+    has both a single-family residence and multifamily residences. The Ordinance
+    must reflect that the City will process such applications according to the ADU
+    allowances for multifamily properties.
+
+•   Section 8-5.5004.(e)(3)(A) – ADU Bathroom – The Ordinance states, “Accessory
+    dwelling units shall include complete independent living facilities for one or more
+    persons, including permanent provisions for living, sleeping. eating, cooking, and
+    sanitation, including a kitchen and bathroom. Notwithstanding the previous
+    sentence, an accessory dwelling unit located completely within an existing primary
+    dwelling, including an attached garage, is not required to have a bathroom if it
+    shares a full bathroom with the primary residence.” However, Government Code
+    section 65852.2, subdivision (j)(1) states, “‘Accessory dwelling unit’ means an
+    attached or a detached residential dwelling unit that provides complete
+    independent living facilities for one or more persons and is located on a lot with a
+    proposed or existing primary residence. It shall include permanent provisions for
+    living, sleeping, eating, cooking, and sanitation on the same parcel as the single-
+    family or multifamily dwelling is or will be situated.” ADUs are defined in a way that
+    requires a bathroom to be within the ADU. Since this part of the Ordinance only
+    pertains to ADUs, the City must amend the Ordinance to require an ADU to have
+    permanent sanitation facilities.
+
+•   Section 8-5.5004.(e)(3)(B) – JADU Bathroom – The Ordinance sates: “Junior
+    accessory dwelling units may include separate sanitation facilities or may share
+    sanitation facilities with the primary residence.” Government Code section 65852.22,
+    subdivision (a)(5)(B) states, “If a permitted junior accessory dwelling unit does not
+    include a separate bathroom, the permitted junior accessory dwelling unit shall
+    include a separate entrance from the main entrance to the structure, with an interior
+    entry to the main living area.” Therefore, when a JADU shares a bathroom with the
+    primary residence, it must have an interior entry to the primary residence. The City
+    must amend the Ordinance to require an interior entry to the primary residence when
+    a JADU shares a bathroom with the primary residence.
+
+•   Section 8-5.5004.(e)(5)(A) – Development Standards – The Ordinance states,
+    “Accessory dwelling units and junior accessory dwelling units shall comply with the
+    development standards in Table 8-5.5004(A).” However, Government Code
+    section 65852.2, subdivision (e) states, “Notwithstanding subdivisions (a) to (d),
+    inclusive, a local agency shall ministerially approve an application for a building
+    permit within a residential or mixed-use zone to create any of the following:” and
+    goes on to list the four types of statewide exemption ADUs. The development
+    standards listed in the table are not applicable to an ADU permitted under
+    subdivision (e). Such ADUs have their own development standards listed in the
+      Ben Moody, Director of Public Works, and Development Services
+      Page 6
+
+
+           subdivision. Therefore, the City must amend the Ordinance to note that ADUs
+           permitted under subdivision (e) are not subject to local development standards.
+
+      •    Table 8-5.5004(A) – Maximum Floor Area – The Ordinance lists a maximum ADU
+           floor area as follows: “Attached to or within Primary Dwelling: 50% of the floor area
+           of the existing or proposed primary dwelling structure[1] or 1,200 square feet,
+           whichever is less.” Government Code section 65852.2, subdivision (a)(1)(D)(iv)
+           states, “If there is an existing primary dwelling, the total floor area of an attached
+           accessory dwelling unit shall not exceed 50 percent of the existing primary
+           dwelling.” Pursuant to Government Code section 65852.2, subdivision (c)(2)(C),
+           any floor area ratio requirement may not preclude an 800 square foot attached
+           ADU. Therefore, the City must allow at least an 800 square foot attached ADU
+           even when the floor area ratio calculation may be less. Also, the terms “attached”
+           refers to an ADU formed through an addition, and “within” refers to a conversion
+           ADU formed through interior remodeling. The provision limiting an attached ADU
+           area to 50 percent of the area of an existing primary dwelling does not apply to a
+           conversion ADU, which is limited in size only by the size of the existing structure it
+           is converted from and the desires of the applicant 1. Therefore, the City must
+           amend the Ordinance to allow for at least an 800 square foot attached ADU and
+           clarify that the rule limiting an attached ADU to 50 percent of the floor area of
+           existing or proposed primary dwelling only applies if there is an existing primary
+           dwelling and does not apply to conversion ADUs formed entirely through interior
+           remodeling.
+
+      •    Table 8-5.5004(A), Footnote [2] – Setback Requirements for Conversion ADUs –
+           The Ordinance states, no setback is required for a conversion ADU or for an ADU
+           built in the same location and to the same dimensions as an existing structure,
+           provided that: “(i) the existing structure either is permitted or the owner can
+           demonstrate to the reasonable satisfaction of the City that the existing structure
+           was built prior to January 1, 1990.” However, Government Code section 65852.2,
+           subdivision (a)(1)(D)(vii) states, “No setback shall be required for an existing living
+           area or accessory structure or a structure constructed in the same location and to
+           the same dimensions as an existing structure that is converted to an accessory
+           dwelling unit or to a portion of an accessory dwelling unit.” Additionally,
+           Government Code section 65852.2, subdivision (d)(2) states, “The local agency
+           shall not deny an application for a permit to create an accessory dwelling unit due
+           to the correction of nonconforming zoning conditions, building code violations, or
+           unpermitted structures that do not present a threat to public health and safety and
+           are not affected by the construction of the accessory dwelling unit.”
+
+
+
+
+1 HCD (2022). “Accessory Dwelling Unit Handbook,” page 14.
+Ben Moody, Director of Public Works, and Development Services
+Page 7
+
+
+
+    The requirements in the Ordinance and State ADU Law are similar, except that the
+    Ordinance requires the existing structure to be permitted for the ADU to be exempt
+    from setback requirements, unless it was built prior to January 1, 1990, whereas
+    State ADU Law does not require the existing structure to be permitted for an ADU
+    to be exempt from setback requirements. A local agency may require an existing
+    structure that is converted to an ADU to be permitted for health and safety
+    reasons, but for purposes of determining an ADU’s exemption from setback
+    requirements, whether an existing structure is permitted or not is irrelevant.
+    Therefore, the City must amend the Ordinance so that an ADU converted from an
+    existing structure, or which replaces an existing structure in the same location, and
+    which is built to the same dimensions, is exempt from setback requirements. The
+    City should also remove the subjective process by which it exempts structures it
+    deems to be built before January 1, 1990, from certain requirements.
+
+•   Table 8-5.5004(A) – Height Limits – The Ordinance lists ADU height limits: “One-
+    Story ADU: Up to 16 feet from ground level. Second-Story ADU: An ADU may be
+    built on top of a one-story detached garage or other one-story detached structure
+    in the R-1, R-2, or R-3 zones, but may not exceed the maximum building height for
+    a primary residence allowed in the zone. For second story ADUs in the R-1 zone,
+    the second story (but not the first story of the structure must meet the setback
+    requirements in Section 8-5.503. Two-Story ADU: Not Permitted.” However,
+    Government Code section 65852.2, subdivision (c)(2)(D) states, a local agency
+    shall not establish by ordinance “Any height limitation that does not allow at least
+    the following, as applicable:” and then goes on to describe four types of ADUs,
+    each with its own standard for allowable height: i) a single-family detached ADU
+    (16 feet), ii) a detached ADU within one-half mile of a major transit stop or high
+    quality transit corridor (18 feet with up to two additional feet if needed to match roof
+    pitch), iii) a detached ADU on a site with a multifamily multistory dwelling (18 feet),
+    and iv) an attached ADU (the lesser of 25 feet or the height limit for the primary
+    structure).
+
+    The Ordinance’s height limit of 16 feet for any one-story ADU is more restrictive
+    than State ADU Law allows for some ADU types. The Ordinance references
+    external height limits for primary residences without specifically citing them. The
+    Ordinance’s prohibition on new construction two-story ADUs applies to an ADU
+    approved under Government Code section 65852.2, subdivision (a), but should not
+    apply to an ADU permitted under subdivision (e), which limits height, but not the
+    number of stories. Therefore, the Ordinance must be amended to address the
+    height provisions under Government Code section 65852.2, subdivision (c)(2)(D).
+    The City must also amend the Ordinance to clarify that a limit on the number of
+    stories is not applicable to an ADU permitted under Government Code section
+    65852.2, subdivision (e) (although height may still be regulated for such ADUs as
+    provided in State ADU Law).
+Ben Moody, Director of Public Works, and Development Services
+Page 8
+
+
+    As quoted in the previous paragraph, the Ordinance requires the second story of
+    an ADU to comply with the setback requirements in Yuba City Municipal Code
+    (YCMC) section 8-5.503. However, Government Code section 65852.2,
+    subdivision (a)(1)(D)(vii), quoted above, does not allow setback requirements
+    larger than four feet for ADUs. YCMC 8-5.503 contains side and rear yard setback
+    requirements larger than four feet. Therefore, the City must amend the Ordinance
+    to delete the requirement that a second story ADU must meet the setback
+    requirements in YCMC section 8-5.503.
+
+•   Section 8-5.5004.(e)(5)(B) – External Development Standards – The Ordinance
+    states, “Except as provided in Table 8-5.5004(A), accessory dwelling units and
+    junior accessory dwelling units shall comply with all building and development
+    standards applicable to the primary residence on the same lot, including maximum
+    lot coverage requirements, subject to subsection (e)(5)(C), below.” Government
+    Code section 65852.2, subdivision (a)(7) states, “No other local ordinance, policy,
+    or regulation shall be the basis for the delay or denial of a building permit or a use
+    permit under this subdivision.” Therefore, if where external development standards
+    may conflict with the City’s ADU Ordinance, the ADU Ordinance prevails.
+
+    Furthermore, Government Code section 65852.2, subdivision (a)(1)(B)(i) states, an
+    ADU ordinance shall “Impose objective standards on accessory dwelling units that
+    include, but are not limited to, parking, height, setback, landscape, architectural
+    review, maximum size of a unit, and standards that prevent adverse impacts on
+    any real property that is listed in the California Register of Historical Resources.”
+    An objective standard is defined in Government Code section 65852.2, subdivision
+    (j)(7) which states, “Objective standards” means standards that involve no personal
+    or subjective judgment by a public official and are uniformly verifiable by reference
+    to an external and uniform benchmark or criterion available and knowable by both
+    the development applicant or proponent and the public official prior to submittal.”
+    Therefore, the City must properly cite in the Ordinance the specific external
+    standards to which it refers the applicant to comply.
+
+•   Sections 8-5.5004.(e)(5)(C) & Table 8-5.5004(A) – Waiver of Development
+    Standards – In Section 8-5.5004.(e)(5)(C) the Ordinance states, “If the applicable
+    maximum lot coverage requirement, or a floor area ratio or open space requirement
+    (if any), or the 50% size ratio imposed in Table 8-5.5004(A), would prevent the
+    approval of an attached or detached accessory dwelling unit that is at least eight
+    hundred (800) square feet and 16 feet in height, then an applicant shall,
+    nonetheless, be permitted to construct an attached or detached accessory dwelling
+    unit that is up to eight hundred (800) square feet and 16 feet in height, provided that
+    the unit shall comply will all other development standards.” In Table 8-5.5004(A) the
+    Ordinance states, that front setback requirements are the “Same as required for
+    primary residence.” However, Government Code section 65852.2, subdivision
+    (c)(2)(C) states, a local agency shall not establish by ordinance: “Any requirement
+    for a zoning clearance or separate zoning review or any other minimum or
+Ben Moody, Director of Public Works, and Development Services
+Page 9
+
+
+    maximum size for an accessory dwelling unit, size based upon a percentage of the
+    proposed or existing primary dwelling, or limits on lot coverage, floor area ratio,
+    open space, front setbacks, and minimum lot size, for either attached or detached
+    dwellings that does not permit at least an 800 square foot accessory dwelling unit
+    with four-foot side and rear yard setbacks to be constructed in compliance with all
+    other local development standards.”
+
+    State ADU Law includes items that must be waived if they would prevent at least
+    an 800 square foot ADU from being built. The Ordinance includes most of the
+    same items that are relevant in the context of the City’s ADU regulations but does
+    not include front setbacks. The Ordinance seeks to limit ADU height to 16 feet
+    here, but as explained above, 16 feet is just one of four different height limits that
+    may be applicable depending on the type of ADU. Therefore, the City must amend
+    the Ordinance to state that front setbacks will also be waived if they would prevent
+    an ADU described in Government Code section 65852.2, subdivision (c)(2)(C)
+    from being built and to abide by the height limits described in Government Code
+    section 65852.2, subdivision (c)(2)(D).
+
+•   Section 8-5.5004.(e)(5)(C) – Fire Sprinklers – The Ordinance states, “Accessory
+    dwelling units shall not be required to provide fire sprinklers if they are not required
+    for the primary dwelling unit.” However, Government Code section 65852.2,
+    subdivision (a)(1)(D)(xii) states, “Accessory dwelling units shall not be required to
+    provide fire sprinklers if they are not required for the primary residence. The
+    construction of an accessory dwelling unit shall not trigger a requirement for fire
+    sprinklers to be installed in the existing primary dwelling.” The Ordinance section
+    on fire sprinklers is correct, but incomplete. Therefore, the City must amend the
+    Ordinance to also state that the construction of an ADU does not trigger a
+    requirement for fire sprinklers in the existing primary dwelling.
+
+•   Section 8-5.5004.(e)(5)(H) – Manufactured ADUs – The Ordinance states, “If a
+    manufactured home is used as an accessory dwelling unit, it shall comply with the
+    standards in Section 8-5.5002(a).” Section 8-5.5002(a)(4) states, “The mobile
+    home is covered with an exterior material compatible to residential structures in
+    the surrounding area.” Section 8-5.5002(a)(12) states, “The facade which fronts
+    on the street is designed with sufficient detail to make it visually compatible with
+    conventional residential structures in the area.” However, Government Code
+    section 65852.2, subdivision (a)(1)(B)(i) states, an ADU ordinance shall “Impose
+    objective standards on accessory dwelling units that include, but are not limited to,
+    parking, height, setback, landscape, architectural review, maximum size of a unit,
+    and standards that prevent adverse impacts on any real property that is listed in
+    the California Register of Historical Resources.” The Ordinance’s requirements
+    quoted above on “compatibility” of exterior materials and façade design are not
+    objective, because they could be interpreted differently by different people and are
+    thus not knowable in advance. ADUs must be reviewed according to objective
+    standards. Therefore, the City must amend the Ordinance to remove the
+Ben Moody, Director of Public Works, and Development Services
+Page 10
+
+
+     requirements for compatible materials and visual compatibility. The City may
+     amend the Ordinance to require a manufactured home use the same exterior
+     materials as the primary dwelling.
+
+•    Section 8-5.5004.(g)(3) – Parking Requirements, Exceptions – The Ordinance
+     states, “Notwithstanding subsection (g)(1), no additional parking is required for
+     accessory dwelling units in the following circumstances:” and lists five
+     circumstances, which correspond to the circumstances described in Government
+     Code section 65852.2, subdivision (d)(1)(A-E). However, Government Code
+     section 65852.2 was amended effective January 1, 2023 to add subdivision
+     (d)(1)(F), which states a local agency shall not impose parking standards on an
+     ADU: “When a permit application for an accessory dwelling unit is submitted with a
+     permit application to create a new single-family dwelling or a new multifamily
+     dwelling on the same lot, provided that the accessory dwelling unit or the parcel
+     satisfies any other criteria listed in this paragraph.” Therefore, the City must amend
+     the Ordinance to exempt an ADU from parking requirements when the permit
+     application for the ADU is submitted with a permit application to create a new
+     single-family or multifamily dwelling on the same lot.
+
+•    Section 8-5.5004.(h)(2)(A) – ADU Deed Restriction – The Ordinance states a deed
+     restriction shall be recorded for an ADU which shall include “A statement of the
+     election made under subsection (e)(2)(C), if any. If no election has been made,
+     then no deed restriction is required.” However, as discussed above under the
+     finding “Number of ADUs Allowed on Property with both Single-Family and
+     Multifamily Homes,” a property with both single-family and multifamily homes is
+     treated as a multifamily property for ADU purposes. That finding calls for the City to
+     amend the Ordinance to remove the election process described in subsection
+     (e)(2)(C). Therefore, the City must also amend the Ordinance to remove the
+     requirement that an ADU deed restriction reflect the election in subsection
+     (e)(2)(C).
+
+In response to the findings in this letter, and pursuant to Government Code section
+65852.2, subdivision (h)(2)(B), the City must either amend the Ordinance to comply with
+State ADU Law or adopt the Ordinance without changes. Should the City choose to
+adopt the Ordinance without the changes specified by HCD, the City must include
+findings in its resolution that explain the reasons the City finds that the Ordinance
+complies with State ADU Law despite the findings made by HCD. Accordingly, the City’s
+response should provide a plan and timeline to bring the Ordinance into compliance.
+
+Please note that, pursuant to Government Code section 65852.2, subdivision (h)(3)(A),
+if the City fails to take either course of action and bring the Ordinance into compliance
+with State ADU Law, HCD may notify the City and the California Office of the Attorney
+General that the City is in violation of State ADU Law.
+Ben Moody, Director of Public Works, and Development Services
+Page 11
+
+
+HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please feel free to contact David Barboza, of our staff, at (916) 907-3002 or at
+david.barboza@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Jamie Candelaria
+Senior Housing Accountability Manager
+Housing Policy Development Division

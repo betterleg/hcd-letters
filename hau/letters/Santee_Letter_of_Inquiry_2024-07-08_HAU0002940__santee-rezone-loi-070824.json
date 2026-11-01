@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017148",
+  "case_number": "HAU0002940",
+  "letter_date": "2024-07-08",
+  "jurisdiction": "Santee",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Santee LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santee-rezone-loi-070824.pdf",
+  "hcd_letter": "Santee Letter of Inquiry 07/08/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santee-rezone-loi-070824.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156412,
+  "text_chars": 4178,
+  "text_empty": false
+}

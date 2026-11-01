@@ -1,0 +1,151 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 27, 2026
+
+
+         Albert Yang, Assistant City Attorney
+         250 Hamilton Avenue
+         Palo Alto, CA 94305
+
+         Dear Albert Yang:
+
+         RE: City of Palo Alto – State Density Bonus Law – Letter of Technical
+         Assistance
+
+         The California Department of Housing and Community Development (HCD)
+         received a request for technical assistance from the City of Palo Alto (City)
+         regarding implementation of the State Density Bonus Law (SDBL) 1 in relation to
+         a project that is proposed at 531 Stanford Avenue (Project). This letter provides
+         technical assistance to the City regarding the implementation of the SDBL for this
+         specific project.
+
+         Project Description and Background
+
+         On December 11, 2025, the City submitted a request seeking HCD guidance
+         regarding the Project. HCD understands that the Project consists of a proposal to
+         construct a 22-unit single-family residential development using the SDBL.
+
+         The proposed project would provide 18 total units 2 of which five percent (one
+         very low-income unit) would be provided as an affordable unit. This would, from
+         the applicant’s perspective, entitle the Project to a 20 percent density bonus (four
+         bonus units). As envisioned by the applicant, this would result in a project with an
+         overall unit count of 22. However, the applicant does not seek to utilize the full
+         maximum allowable residential density permitted by the City’s zoning code (22
+         units) and instead has chosen a lower total units figure (18 units.) Despite not
+         “maxing out” the base density, the applicant nevertheless seeks to add bonus
+         units to the Project. This unconventional approach has prompted the City to ask
+         HCD the following question:
+
+
+
+
+1 Gov. Code, § 65915.
+2 Gov. Code, § 65915, subd. (o)(9)(A).
+Albert Yang, Assistant City Attorney
+Page 2
+
+
+
+
+Is the applicant of an SDBL project required to build to the maximum
+allowable residential density (i.e., base density) under the City’s zoning
+code in order to receive bonus units?
+
+The answer is “Yes.” The statute is clear that for an application to receive a “density
+bonus” the maximum allowable gross residential density must be achieved.
+
+Government Code Section 65915, subdivision (f) states:
+
+        “For the purposes of this chapter, “density bonus” means a density increase
+        over the otherwise maximum allowable gross residential density, as of the
+        date of application by the applicant to the city, county, or city and county, or, if
+        elected by the applicant, a lesser percentage of density increase, including, but
+        not limited to, no increase in density. The amount of density increase to which
+        the applicant is entitled shall vary according to the amount by which the
+        percentage of affordable housing units exceeds the percentage established in
+        subdivision (b).” [Emphasis added.]
+
+The term “density bonus” refers to the bonus units that a project can receive. The
+emphasized text above makes clear that those bonus units are an “increase over the
+otherwise maximum allowable gross residential density.” The statute does not say that
+an applicant is entitled to an “increase over the total units”. This would have different
+implications because “total units” 3 and “maximum allowable gross residential density”4
+have two distinct definitions.
+
+Government Code Section 65915, subdivision (o), section (6) states:
+
+        “Maximum allowable residential density” or “base density” means the greatest
+        number of units allowed under the zoning ordinance, specific plan, or land
+        use element of the general plan, or, if a range of density is permitted, means
+        the greatest number of units allowed by the specific zoning range, specific plan,
+        or land use element of the general plan applicable to the project.” [Emphasis
+        added.]
+
+The statute provides that the density bonus is allowed once the “greatest number
+of units allowed under the zoning ordinance, specific plan, or land use element of
+the general plan” 5 is achieved. The definition of “total units” is explicit in that it,
+“excludes a unit added by a density bonus awarded pursuant to this section or
+any local law granting a greater density bonus. 6”
+
+
+3 Id.
+4 Gov. Code, § 65915, subd. (o)(6)
+5 Id.
+6 Gov. Code, § 65915, subd. (o)(9)(A)
+Albert Yang, Assistant City Attorney
+Page 3
+
+
+
+Note that the SDBL allows for an applicant to elect “a lesser percentage of
+density increase, including, but not limited to, no increase in density.” 7 HCD has
+provided prior technical assistance making clear that even if an applicant does
+not request a density bonus (i.e. elects a zero-percent bonus), the project is still
+eligible for waivers and concessions. 8 The SDBL provides that an applicant need
+not request a density bonus for a project to enjoy the benefits and protections
+provided by the SDBL if the project meets the eligibility requirements described in
+Government Code section 65915, subdivision (b).
+
+Conclusion
+
+In sum, the Project as proposed does not qualify to receive bonus units but it
+does otherwise qualify for the benefits and protections of the SDBL (namely
+concessions and waivers of development standards) because it provides five
+percent of the total units as affordable housing. The Project proposes a density of
+18 units, which is below the City’s zoning code maximum of 22 units (based on
+the RM-30 Zone, which has a base density of 30 dwellings units per acre). If the
+Project wishes to receive the bonus units, the Project would need to achieve the
+maximum allowed density on the site, provide the necessary percentage(s) of
+affordable units, and apply the appropriate number of bonus units to the project.
+
+HCD appreciates the opportunity to provide technical assistance to the City as it
+implements the provisions of the SDBL. If you have any further questions or need
+additional information, please contact Xjvirr Thomas at
+Xjvirr.thomas@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Brian Heaton
+Section Chief – Land Use Policy
+Housing Accountability Unit
+
+
+
+
+7 Gov. Code, § 65915, subd. (f).
+8 See City of San Jose Letter of Technical Assistance, available at
+
+http://www.hcd.ca.gov/community-development/housing-element/docs/sclSanJose-TA-
+052022.pdf

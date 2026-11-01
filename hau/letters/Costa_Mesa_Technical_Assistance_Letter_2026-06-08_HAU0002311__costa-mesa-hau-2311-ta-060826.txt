@@ -1,0 +1,862 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 8, 2026
+
+
+         Carrie Tai, Economic and Development Services Director
+         City of Costa Mesa
+         77 Fair Drive
+         Costa Mesa, CA 92626
+
+         Dear Carrie Tai:
+
+         RE: City of Costa Mesa – Request for Reasonable Accommodation,
+             115 E. Wilson Street – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received an
+         inquiry regarding the City of Costa Mesa’s (City) denial of a May 2, 2025, application for
+         a reasonable accommodation for the sober living home operated by The Ohio House,
+         LLC (Ohio House) at 115 E. Wilson Street (the application or May 2025 reasonable
+         accommodation application). HCD understands that the denial has been appealed. This
+         letter notifies the City that the denial violates state law and that the City Council must
+         grant the appeal and approve the application.
+
+         Denying the application is part of Costa Mesa’s ongoing group home and reasonable
+         accommodation policies and practices that violate state fair housing and planning and
+         zoning laws (state housing laws), as HCD explained to the City in a November 29, 2023
+         technical assistance letter (November 2023 TA Letter). 1 That letter advised the City:
+
+                  “To comply with state law, the City must, among other things, immediately
+                  stop enforcing its group home ordinances, repeal them, and revise its
+                  reasonable accommodations policies. These actions are also necessary to
+                  timely and effectively implement the programs in the 6th cycle housing
+                  element that the City adopted on November 15, 2022, which are required
+                  for the City’s housing element to substantially comply with State Housing
+                  Element Law. These include Program 2J (Transitional and Supportive
+                  Housing), 2N (Reasonable Accommodation), Program 2O (Definition of
+                  Single Housekeeping Unit), Program 2P (Group Homes), and 4A (Fair
+                  Housing).”
+
+
+
+
+    1 Available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/costa-
+
+    mesa-group-home-ta-112923.pdf.
+   Carrie Tai, Economic and Development Services Director
+   Page 2
+
+
+   Definitions
+
+   Various laws use the term “group homes” to refer to different types of housing for
+   different populations. For the purposes of state housing laws, the following terms refer
+   to various types of residences in which unrelated persons share the residence:
+
+   •   Shared Living Residences—any housing shared by unrelated persons, including,
+       for example, communal homes, group homes, recovery residences, some
+       community care residential facilities, some supportive and transitional housing,
+       emergency shelters, boardinghouses, and dormitories.
+
+   •   Communal Homes—single residential units in which unrelated persons live
+       together in communal environments, including homes in which landlords’ charge rent
+       to occupants or in which a single operator is running more than one communal
+       home.
+
+   •   Group Homes—housing shared by unrelated persons with disabilities that provide
+       peer and other support for their residents’ disability-related needs and in which
+       residents share cooking, dining, and living areas, and may, in some group homes,
+       participate in cooking, housekeeping, and other communal living activities and that
+       do not provide services that require licenses under state law.
+
+   •   Recovery Residences or Sober Living Homes—group homes for persons recovering
+       from alcoholism or drug addiction in which the residents mutually support each other's
+       recovery and sobriety and that do not require state licenses because they do not provide
+       alcoholism or drug addiction recovery and treatment services. 2
+
+   •   Licensed Facilities—shared living residences that provide services that require
+       licenses under state law, including facilities that provide alcoholism or drug addiction
+       recovery and treatment services.
+
+   Statutory Background
+
+   Anti-Discrimination in Land Use (ALU) Law
+
+   ALU Law3 prohibits jurisdictions from engaging in discriminatory land use and planning
+   activities. Specifically, the law deems any action taken by a city to be null and void if it
+   denies an individual or group of individuals the enjoyment of residence, landownership,
+   tenancy, or any other land use in the state due to illegal discrimination. 4 ALU Law
+
+2 Individuals recovering from alcoholism or addiction are recognized as people with disabilities
+
+(see Gov. Code, § 12926, subd. (j)), and “sober living homes and other dwellings intended for
+occupancy by persons recovering from alcoholism and drug addiction are protected from illegal
+discrimination against the disabled.” SoCal Recovery, LLC v. City of Costa Mesa (9th Cir. 2023)
+56 F.4th 802, 814 (SoCal Recovery).
+3 Gov. Code, § 65008.
+4 Id. at subd. (a)(1).
+   Carrie Tai, Economic and Development Services Director
+   Page 3
+
+
+   prohibits discrimination based on any characteristic, including disabilities, protected by
+   other state or federal laws, while adding its own prohibitions of discrimination against
+   individuals or households who have very low, low, moderate, or middle incomes. 5 The
+   law further recites multiple categories of actions that are determined to be
+   discriminatory, including enactment or administration of ordinances that prohibit or
+   discriminate based on a protected characteristic 6 and imposition of requirements on a
+   residential use for persons with protected characteristics that are not generally imposed
+   upon other residential uses. 7 Failing to make reasonable accommodations to rules or
+   policies in order to allow persons with disabilities the opportunity to access housing is
+   also a form of unlawful discrimination. 8
+
+   Affirmatively Furthering Fair Housing (AFFH) Law
+
+   AFFH Law 9 requires all California public agencies, including cities, “to administer their
+   programs and activities relating to housing and community development in a manner to
+   affirmatively further fair housing, and take no action that is materially inconsistent with
+   [this] obligation . . . .” 10 AFFH means:
+
+           taking meaningful actions, in addition to combating discrimination, that overcome
+           patterns of segregation and foster inclusive communities free from barriers that
+           restrict access to opportunity based on protected characteristics. Specifically,
+           affirmatively furthering fair housing means taking meaningful actions that, taken
+           together, address significant disparities in housing needs and in access to
+           opportunity, replacing segregated living patterns with truly integrated and
+           balanced living patterns, transforming racially and ethnically concentrated areas
+           of poverty into areas of opportunity, and fostering and maintaining compliance
+           with civil rights and fair housing laws. 11
+
+   The “duty to affirmatively further fair housing extends to all of a public agency’s activities
+   and programs relating to housing and community development,” including making
+   reasonable accommodations in local zoning rules. 12
+
+   Housing Element Law
+
+   In addition to the general AFFH requirements in AFFH Law, Housing Element Law
+   includes more specific AFFH requirements for cities. Government Code section 65583
+
+5 Id. at subds. (a)(1)(A), (a)(1)(B)(3), (b)(1)(B)-(C), (b)(2)(B), (b)(3), and (d)(2)(A).
+6 Id. at subd. (b)(1)(B).
+7 Id. at subd. (d)(2)(A).
+8 See, e.g., § 12927, subd. (c)(1); Cal. Code Regs., tit. 2, § 12161, subd. (b)(8) (specifying as
+
+unlawful the refusal or failure “to make reasonable accommodations in public . . . land use
+practices”).
+9 Gov. Code, § 8899.50.
+10 Id. at subds. (a)(2)(B) and (b)(1), (2).
+11 Id. at subd. (a)(1).
+12 Id.
+   Carrie Tai, Economic and Development Services Director
+   Page 4
+
+
+   requires cities to thoroughly analyze fair housing issues related to housing for people
+   with disabilities and set forth a program of actions that protect and promote such
+   housing. Through their housing elements, cities must “remove governmental constraints
+   that hinder . . . meeting the need for housing for persons with disabilities,” which
+   requires “remov[ing] constraints to, and provid[ing] reasonable accommodations for
+   housing designed for, intended for occupancy by, or with supportive services for,
+   persons with disabilities.” 13 Section 65583 also requires cities to “promote and
+   affirmatively further fair housing opportunities and promote housing throughout the
+   community or communities all persons regardless of . . . disability” or “other protected
+   characteristics.”14 And cities’ housing elements must include a fair housing assessment
+   with specific goals, implementation strategies, and “metrics and milestones” for
+   evaluating results. 15 In complying with these AFFH duties, cities are required to analyze
+   data and set measurable objectives and milestones. 16
+
+   Fair Employment and Housing Act (FEHA)
+
+   FEHA and its implementing regulations similarly prohibit cities from discriminating based
+   on a protected characteristic in their land use practices, decisions, or policies, which
+   includes violations of reasonable accommodation duties. 17 Although the Civil Rights
+   Department (CRD) leads the enforcement of FEHA, the statute and its implementing
+   regulations are relevant to applying the ALU, AFFH, and Housing Element Laws here
+   because the fair housing provisions in all these laws are designed to be applied jointly
+   and consistently. 18
+
+   State Constitutional Protections for Shared Living Residences
+
+   Ordinance standards, policies, or regulations for group homes must also be viewed in
+   the context of the state Constitution’s protections for communal homes shared by
+   residents with or without disabilities. In City of Santa Barbara v. Adamson, the California
+   Supreme Court held that the right to privacy under Article, Section 1 of the California
+   Constitution prohibited a city from enforcing an ordinance that prevented more than five
+   persons unrelated by blood or marriage from occupying a house where the owner was
+
+
+
+
+13 Gov. Code, § 65583, subds. (a)(5)(A) and (c)(3).
+14 Id. at subd. (c)(5).
+15 Id. at subd. (c)(10)(A)(iv).
+16 See, e.g., Gov. Code, § 65583, subds. (a)(5), (a)(7), (b)(1) and (c)(10)(A)(ii); Cal. Code Regs.,
+
+tit. 2, § 12161, subd. (b)(8).
+17 See, e.g., Gov. Code, § 12955, subd. (l); Cal. Code Regs., tit. 2, §§ 12005, subd. (bb), 12161,
+
+subd. (b)(8).
+18 See, e.g., Martinez v. City of Clovis (2023) 90.Cal.App.5th 193, 268-269, 271, 279, 288-289
+
+(applying the FEHA concurrently with ALU, AFFH, and Housing Element Laws to an issue
+involving a local land use policy); Gov. Code, §§, 65008, subds. (a)(1)(A), (b)(1)(B)(i), (d)(1)(2)(A),
+65583, subd. (c)(5) (prohibiting discrimination against and applying AFFH duties to persons with
+characteristics protected by the FEHA).
+   Carrie Tai, Economic and Development Services Director
+   Page 5
+
+
+   renting out rooms for a group of unrelated adults to live together in a communal setting. 19
+   Applying Adamson, a state appellate court in City of Chula Vista v. Pagard invalidated for
+   the same reason a city’s permitting requirement and regulations (e.g., spacing
+   requirements, occupancy limits, parking, periodic inspections) for several communal
+   homes in single family zones that were run by the same operator. 20 These same
+   protections under the state Constitution apply to group homes, which are a form of
+   communal homes intended for occupancy by persons with disabilities. And this more
+   generally applicable constitutional doctrine informs and reinforces the specific
+   protections for group homes under the ALU Law, AFFH Law, and Housing Element Law.
+
+   Background
+
+   General Findings Regarding the City’s Group Home Policies and Practices
+
+   HCD has previously shared guidance and research materials with Costa Mesa relevant
+   to its unlawful group home and reasonable accommodation policies and practices. 21
+   HCD incorporates that guidance and research in this letter, while highlighting some
+   background findings particularly relevant to the May 2025 reasonable accommodation
+   application.
+
+   Sober living homes play a key role in substance abuse recovery 22 by providing “alcohol
+   and drug free living environments that offer peer support for recovery.” 23 According to
+   the United States Substance Abuse and Mental Health Services Administration
+   (SAMHSA), the community support that sober living homes provide “is a critical aspect
+   of achieving and maintaining recovery,” and thus, these homes “are uniquely qualified to
+   assist individuals in all phases of recovery, especially those in early recovery, by
+   furnishing social capital and recovery supports.” 24 This enables people recovering from
+   substance abuse disabilities to live in noninstitutional housing that facilitates their
+   integration into community life. 25
+
+19 City of Santa Barbara v. Adamson (1980) 27 Cal.3d 123, 127-128, 130, 134-135; see also City
+
+of Santa Barbara v. Adamson (1979) 90 Cal.App.3d 606, 153 Cal.Rptr. 507, 509 (confirming that
+Adamson was charging rent to her home's other occupants).
+20 City of Chula Vista v. Pagard (1981) 115 Cal.App.3d 785, 791, 793-780.
+21 See, e.g., Nov. 2023 TA Letter (citing earlier guidance documents and research materials, and
+
+providing guidance on specific Costa Mesa group home policies, including its reasonable
+accommodation policies).
+22 U.S. Dep’t of Health & Human Servs., Facing Addiction in America: The Surgeon General’s
+
+Report on Alcohol, Drugs, and Health (2016) at p. 4-4, available at: https://tinyurl.com/ssnem8v3.
+23 Polcin et al., What Did We Learn from Our Study on Sober Living Houses and Where Do We
+
+Go from Here? J. of Psychoactive Drugs (Dec. 2010) 42(4):425-433, at p. 2, available at:
+https://tinyurl.com/yzcxmb3r.
+24 Substance Abuse and Mental Health Servs. Admin., Recovery Housing: Best Practices and
+
+Suggested Guidelines (2018) at p. 3 (SAMHSA Best Practices), available at:
+https://tinyurl.com/mr4c4arz.
+25 Laurie C. Malkin, Troubles at the Doorstep: The Fair Housing Amendments Act of 1988 and
+
+Group Homes for Recovering Substance Abusers (1995) 144 U. Pa. L. Rev. 757, pp. 769, 772-73.
+   Carrie Tai, Economic and Development Services Director
+   Page 6
+
+
+
+   Starting in 2014, Costa Mesa initiated a series of amendments to its zoning code that
+   imposed new restrictions on group homes, with particularly strict restrictions on sober
+   living homes. The City has stated that the purpose of its 2015 Multiple Family Group
+   Home Ordinance, which applies to 115 E. Wilson Street, is to “limit the number and
+   concentration of group homes and sober living facilities in the Multiple Family
+   Residential zones.” 26
+
+   The City’s records show that it has implemented its goal, with severe consequences for
+   Costa Mesa’s group homes. Before adopting its group home ordinances, the City
+   estimated that there were 94 sober living homes in its residential zones. The City's
+   website currently counts only 16 approved group homes of any kind in its residential
+   neighborhoods, and reports that 83 group homes have closed. 27
+
+   The estimated 94 sober living homes in Costa Mesa before the City adopted its group
+   home ordinances represented less than one-quarter percent of the City’s 43,100 total
+   housing units and less than one-half percent of its 20,355 single family units. 28 The 16
+   remaining approved group homes represent under .04 percent and .08 percent of these
+   same respective housing units. This is consistent with research showing that sober
+   living homes are not highly concentrated in Orange County, relative to the rest of
+   California or the nation as a whole. 29 This is also consistent with the City’s group home
+   consultant stating that people leaving treatment programs in Costa Mesa are “hard-
+   pressed” to find sober living homes in the City and “many of them have to move” to
+   other cities. 30 Ohio House also submitted evidence to the City that if it is forced to close
+   115 E. Wilson Street, its residents would not only be displaced from housing that they
+   have chosen because it meets their disability-related needs, but also would be
+   displaced from Costa Mesa because there are not enough other sober living homes
+   available for them there. 31
+
+
+
+
+26 See 2015-2019 Costa Mesa Annual Reviews of General Plan, available at:
+
+https://www.costamesaca.gov/government/departments-and-divisions/economic-and-
+development-services/planning/general-plan/annual-progress-reports.
+27 This data is drawn from the City's website at
+
+https://www.costamesaca.gov/government/departments-and-divisions/economic-and-
+development-services/community-improvement-division/group-homes-sober-living-information,
+and is discussed in SoCal Recovery, supra, 56 F.4th at 806.
+28 Costa Mesa Adopted 6th Cycle Housing Element at pp. 2-29-2-30, available at:
+
+https://www.hcd.ca.gov/housing-open-data-tools/housing-element-download-tool.
+29 Mericle et al., Identifying the Availability of Recovery Housing in the U.S.: The NSTARR Project,
+
+Drug and Alcohol Dependence 230 (2022), at 6-8, figs. 1, 2, tbl. 1, available at:
+https://tinyurl.com/y48mpfze.
+30 May 2025 reasonable accommodation application at Ex. 17, p. 154.
+31 Id. at pp. 17-19; May 6, 2025 supplement (residents' statements)
+   Carrie Tai, Economic and Development Services Director
+   Page 7
+
+
+
+   Detailed studies filed in court cases involving the City’s group home policies have
+   shown the discriminatory effects of Costa Mesa’s group home and reasonable
+   accommodation policies and the City’s enforcement and application of them. 32 In the
+   records from these cases and the May 2025 reasonable accommodation application,
+   the City has not presented evidence that negates these studies’ findings. In fact, the
+   City’s group home consultant has acknowledged a significant adverse impact of the
+   City’s policies, stating that due to rising housing prices and rents in Costa Mesa, group
+   homes that were closed after the City amended its zoning code could not afford to
+   relocate within the City. 33
+
+   As the lead agency responsible for state housing policy, HCD must also consider the
+   broader impacts of Costa Mesa’s group home policies. Other local jurisdictions have
+   looked to Costa Mesa’s regulations as models to use in proposing or adopting their own
+   zoning code restrictions on group homes, including at least 11 other cities in Orange
+   County. Such widespread adoption and enforcement of policies like Costa Mesa’s
+   would drastically reduce and restrict housing opportunities for persons with disabilities in
+   California. This would contravene not only state housing laws but the policies underlying
+   them, which recognize that persons with disabilities lack sufficient housing opportunities
+   and require localities to remove constraints on and promote access to housing that
+   meets their needs. 34
+
+   History of 115 E. Wilson Street
+
+   Since 2012, Ohio House has been providing recovery residences for up to eight
+   residents in each of five adjacent single-family homes at 115 E. Wilson Street. Originally
+   developed as a common interest development, the property includes five 2,400-square
+   foot, two-story detached units, each with four bedrooms, three bathrooms, a backyard,
+   garage, and parking for four cars. The homes' entrances are in an alley behind a strip
+   mall, one of a series of commercial properties above a sunken freeway.
+
+
+32 See, e.g., Ann Moss Joyner, Disparate Effect Analysis: Costa Mesa California Group Homes
+
+Zoning Policies and Actions (Jul. 26, 2021) Docket Entry No. 147, Ex. 60, Insight Psychology and
+Addiction, Inc. v. City of Costa Mesa (C.D. Cal. 2025, No. 8:20CV00504) 801 F.Supp.3d 942;
+Expert Witness Report of Brian J. Connelly, The Ohio House, LLC v. City of Costa Mesa, 2022
+WL 17064032 (C.D. Cal. Feb. 14, 2022, No. 819CV01710).
+33 May 2025 reasonable accommodation application at Ex. 17, p. 156.
+34 See, e.g., § 65583, subds. (a)(5), (7)(A), (c)(3), (5), (10)(A)(5) (requiring localities to analyze the
+
+“special housing needs” of persons with disabilities, remove constraints on housing intended for
+them, and develop and implement programs and actions that will affirmatively promote more
+housing opportunities for them); see also Broadmoor San Clemente Homeowners Ass’n v.
+Nelson, (1994) 25 Cal.App.4th 1, 6, 9 (noting that the Legislature considered the history of
+localities using zoning laws to exclude group homes when amending the FEHA to prohibit local
+land use discrimination based on disabilities and finding that it is the policy of California and the
+nation to “encourage and support handicapped persons right to live in a group home in the
+community of their choice,” internal quotations and citation omitted) (“Broadmoor”).
+   Carrie Tai, Economic and Development Services Director
+   Page 8
+
+
+   In its 14 years of operation, Ohio House has not caused problems that disrupt or
+   fundamentally alter the community. Notably, the City has not contended that its denial of
+   the application was based on any actual threats to neighbors’ health and safety or
+   damage to their property. On the contrary, the residents’ statements confirm—and the
+   City does not dispute—that they are good neighbors. The City also does not dispute
+   that the five homes, which were permitted when the site became a shared interest
+   development, comply with the City’s objective standards for dwellings on this property.
+
+   Furthermore, Ohio House is not so fundamentally different from or incompatible with
+   other nearby properties that it would fundamentally alter the surrounding community.
+   This community is located in a medium density multi-family zone, within an area that the
+   City designates as commercial-residential. Across a narrow alley from 115 E. Wilson
+   Street, a long strip of commercial properties lines a freeway. These include, among
+   other things, strip malls, restaurants, motels, a hotel, a massage parlor, and a storage
+   facility. A four-building, 40-unit student housing complex that has housed 100 students
+   for many years sits across Wilson Street, with the university running this complex
+   recently selling it to a developer that could potentially build even denser housing there
+   under state housing laws. The neighborhood also has apartment buildings, including an
+   apartment complex on 115 E. Wilson Street’s block. 35
+
+   The City has sought to close 115 E. Wilson Street for many years, resulting in denial of
+   a conditional use permit application, denial of an earlier reasonable accommodation
+   request, and litigation between the City and Ohio House. A federal case, in which HCD
+   was not a party but in which the Attorney General filed an amicus brief on behalf of HCD
+   and CRD, resulted in a Ninth Circuit decision in the City’s favor in 2025, without fully
+   analyzing the relevant state laws. 36
+
+   On May 2, 2025, Ohio House and five of the current residents of 115 E. Wilson Street
+   submitted a new request for reasonable accommodation to the City. Presenting new
+   evidence for the City to consider, adding the five individual residents as applicants, and
+   citing state housing laws, the request sought a reasonable accommodation from the
+   strict application of the City’s definition of “single housekeeping unit” or, in the
+   alternative, relaxation of the required 650-foot separation between 115 E. Wilson Street
+   and a City-permitted sober living home located at 165 E. Wilson Street, approximately
+   550 feet away.
+
+   On July 2, 2025, the City denied the request for reasonable accommodation. The City's
+   Planning Commission upheld the denial on September 22, 2025. That denial has been
+   appealed.
+
+
+
+
+35 This information was readily available to the City in the applicants’ submissions and through
+
+online maps, Vanguard University’s websites, and local media articles.
+36 See The Ohio House, LLC v. City of Costa Mesa (9th Cir. 2025) 135 F.4th 645 (Ohio House).
+   Carrie Tai, Economic and Development Services Director
+   Page 9
+
+
+
+   Analysis
+
+   Reasonable Accommodation Should Not Have Been Necessary
+
+   The City violated state housing laws by requiring Ohio House and its residents to
+   request a reasonable accommodation instead of simply allowing 115 E. Wilson Street to
+   continue operating.
+
+   In the November 2023 TA Letter, HCD found that the City’s group home and reasonable
+   accommodations policies, and its enforcement and application of them, violated the
+   ALU, AFFH, and Housing Element Laws. These violations included the City failing to
+   treat group homes like Ohio House’s the same as other single family homes through,
+   among other things, the zoning code's overly restrictive definition of a single
+   housekeeping unit, its 650-foot separation requirement for group homes, and its lack of
+   grandfathering for group homes like Ohio House’s that already were in place before the
+   City amended its zoning code to impose restrictions on them. 37
+
+   Requiring and then denying Ohio House’s latest reasonable accommodation request,
+   instead of merely allowing it to continue operating, shows that the City’s violations are
+   ongoing and that it has not complied with HCD’s instructions to “immediately stop
+   enforcing its group home ordinances, repeal them, and revise its reasonable
+   accommodations policies” and “timely and effectively implement” the relevant housing
+   element programs listed in the November 2023 TA letter. 38
+
+   The City's Reasonable Accommodation Policies Violate State Housing Laws 39
+
+   As mentioned above, through their housing elements, cities must “remove governmental
+   constraints that hinder . . . meeting the need for housing for persons with disabilities,”
+   which requires “remov[ing] constraints to . . . housing designed for, intended for
+   occupancy by, or with supportive services for, persons with disabilities.” 40
+
+   Several provisions of the City’s reasonable accommodations policies create constraints
+   on housing for persons with disabilities that are contrary to the intent of Housing
+   Element Program 2N, which commits the City to revise its reasonable accommodation
+   procedure to, among other things “address potential constraints and establish potential
+   objective standards.” For example, one of the City’s required findings to approve a
+   reasonable accommodation request is that “[t]he requested accommodation is
+   consistent with surrounding uses in scale and intensity of use.”41
+
+37 See, e.g., November 2023 TA Letter at pp. 1, 5-10.
+38 Id. at pp. 1, 10.
+39 Both the reasonable accommodation policies in place at the time of the July 2, 2025 denial and
+
+the amended version adopted on April 7, 2026 by the City Council violate state law as described
+in this letter.
+40 Gov. Code, § 65583 subds. (a)(5)(A) and (c)(3).
+41 Costa Mesa Municipal Code (MC), § 13-200.62, subd. (f)(4).
+   Carrie Tai, Economic and Development Services Director
+   Page 10
+
+
+
+   Furthermore, other factors the policy allows the City to consider include “[w]hether the
+   requested accommodation would fundamentally alter the character of the
+   neighborhood,”42 “[w]hether the accommodation would result in a substantial increase in
+   traffic or insufficient parking,” 43 and “[w]hether granting the requested accommodation
+   would substantially undermine any express purpose of either the City’s general plan or
+   an applicable specific plan.”44 These provisions are subjective, potentially prejudicial,
+   and can serve as constraints, violating Housing Element Law.
+
+   Another required finding under the City’s policies is that “[t]he requested
+   accommodation will not . . . result in a direct threat to the health or safety of other
+   individuals or substantial physical damage to the property of others.”45 Similarly, the
+   provision regarding factors that shall be considered in determining whether to grant a
+   requested accommodation includes a note that “[t]he director may also consider
+   whether the requested accommodation would potentially have adverse external impacts
+   on properties in the vicinity.” 46 These provisions are not consistent with state
+   regulations, which allow a reasonable accommodation request to be denied if it “would
+   constitute a direct threat to the health or safety of others (i.e. a significant risk of bodily
+   harm) or would cause substantial physical damage to the property of others, and such
+   risks cannot be sufficiently mitigated or eliminated by another reasonable
+   accommodation . . . .” 47 Specifically, the City’s code allows reasonable
+   accommodations to be denied based on the subjective, and potentially prejudicial and
+   overly constraining “adverse external impacts” clause, and it does not provide for
+   consideration of whether risks can be “sufficiently mitigated or eliminated by another
+   reasonable accommodation.”
+
+   Several provisions of the City’s reasonable accommodation policies require
+   considerations beyond the individual request and the residence it involves, in violation
+   of state law. For example, “[i]n considering the financial or administrative burden on the
+   City, the director may consider, among other things, the extent to which the City would
+   have to dedicate resources, such as staff time and funds, to grant the request and other
+   requests like it” 48 (emphasis added). And “[i]f economic viability is raised by the
+   applicant as part of the applicant’s showing that the requested accommodation is
+   necessary, then a finding that the requested accommodation is necessary to make
+   facilities of a similar nature or operation economically viable in light of the particularities
+   of the relevant market and market participants generally, not just for that particular
+   applicant” 49 (emphasis added). However, each reasonable accommodation request
+
+
+
+42 MC, § 13-200.62, subd. (g)(1).
+43 MC, § 13-200.62, subd. (g)(2).
+44 MC, § 13-200.62, subd. (g)(3).
+45 MC, § 13-200.62, subd. (f)(5).
+46 MC, § 13-200.62, subd. (e)(2)(b).
+47 Cal. Code Regs, tit. 2, § 12179, subd. (b)(3).
+48 MC, § 13-200.62, subd. (e)(2)(a).
+49 MC, § 13-200.62, subd. (f)(6).
+   Carrie Tai, Economic and Development Services Director
+   Page 11
+
+
+   must be considered and evaluated on a fact-specific, case-by-case basis. 50 A
+   reasonable accommodation request may not be denied based on concerns that granting
+   it “might possibly become an undue burden if extended to multiple other
+   individuals . . . .” 51 And cities must also give “significant weight” to the right of disabled
+   persons to choose to live in a home that they have decided meets their needs. 52
+
+   In sum, Costa Mesa violated the ALU, AFFH, and Housing Element Laws by subjecting
+   the application to the City’s unlawful reasonable accommodation procedures.
+
+   Denying the Application Violated State Law
+
+   Even under the City’s own unlawful reasonable accommodation procedures, the City
+   failed to meet its burden of justifying its denial of the application.
+
+   The City justified its denial by asserting that (1) 115 E. Wilson Street does not meet the
+   City’s definition of a single housekeeping unit and therefore no accommodation can be
+   granted, and (2) it would be a fundamental alteration of the City’s zoning code to make
+   any accommodation to its rule requiring that sober living homes not be located within
+   650 feet of another sober living home or licensed recovery or treatment facility. 53
+
+   HCD has considered the City’s justifications in light of the record from the May 2025
+   reasonable accommodation application and the more general findings, guidance, and
+   research that HCD has shared with the City and incorporated and summarized in this
+
+50 For the applicable standards under state law, see, e.g., Cal. Code Regs., tit. 2, §§ 12161,
+
+12176-12181; Auburn Woods I Homeowners Assn. v. Fair Employment & Housing Com. (2004)
+121 Cal.App.4th 1578, 1593 (“Each [reasonable accommodation] inquiry is fact specific and
+requires a case-by-case determination.”); Cheng et al., Cal. Practice Guide: Cal. Fair Hous. &
+Public Accomm's (The Rutter Group 2025) §1:11, subds. (m), (n) (discussing cases showing that
+once an applicant meets its minimal burden of showing an accommodation seems reasonable on
+its face, the city bears the burden of justifying a denial that is based, as Costa Mesa's was, on an
+asserted fundamental alteration of a rule or program).
+51 Cal. Code Regs., tit. 2, section 12179, subd. (f).
+52 See, e.g., HCD Group Home Technical Advisory (Group Home TA) at p. 10, nn. 24-26
+
+(discussing rights of disabled persons to choose their housing and citing examples of relevant
+authorities), available at: https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+community/group-home-technical-advisory-2022.pdf; see also Cal. Code Regs. tit 2, §§ 12177,
+subd. (c), 12180, subd. (c)(6) (preferences of persons requesting housing accommodations must
+be given “significant weight” and cities must grant reasonable accommodations in how their
+zoning code applies to an applicant's home).
+53 Although the City did not specifically cite “fundamental alteration” of a City policy as the reason
+
+it denied an accommodation of its single housekeeping unit standard, that appears to be the basis
+of the City's decision. And the City did not rely on other permissible reasons for denying either of
+the reasonable accommodation requests here, such as that they would “impose an undue
+financial and administrative burden” on the city, pose “a direct threat to the health or safety of
+others,” or “cause substantial physical damage to the property of others.” Cal. Code Regs., tit. 2, §
+12179, subd. (b)(1)-(3).
+   Carrie Tai, Economic and Development Services Director
+   Page 12
+
+
+   letter. HCD finds that the City violated the ALU, AFFH, and Housing Element Laws by
+   applying unlawful standards, failing to engage in the case-specific, fact-based inquiry
+   required to justify denying the requested accommodations, and failing to consider its
+   AFFH duties, as described below.
+
+   Definition of Single Housekeeping Unit
+
+   The City asserts that because the homes at 115 E. Wilson Street do not meet the City’s
+   definition of single housekeeping units, no accommodation can be granted to that
+   definition’s application here.
+
+   But the City fails to consider that 115 E. Wilson Street is a type of communal home
+   protected by the California Constitution’s right to privacy, which prohibits cities from
+   imposing special restrictions on communal homes. 54 The communal living environment
+   at 115 E. Wilson Street is confirmed, for example, by the peer support that the residents
+   provide for each other’s sobriety, their sharing of cooking and living spaces, and the
+   group activities they participate in with each other, which include meals, social activities,
+   household meetings, chores, and service activities like cleaning up the adjacent alley. 55
+   At the very least, for the purposes of reasonable accommodation analysis, 115 E.
+   Wilson Street is not fundamentally different from the communal homes that the
+   California Constitution requires the City to treat as permissible uses in this zone.
+
+   The City further asserts that it cannot grant an accommodation to its definition of a
+   single housekeeping unit because Ohio House is a for profit business and sets rules for
+   the home (e.g., prohibition of using alcohol or nonprescription drugs, mandatory drug
+   testing, requirements to attend house meetings and contribute to chores, etc.). 56 But fair
+   housing laws have long prohibited cities from treating a group home differently from
+   other homes because it is run by a for-profit business. 57 In addition, the City fails to
+   consider that (1) Ohio House’s rules are consistent with nationally recognized best
+   practices for sober living homes and support its residents’ sobriety and recoveries; (2)
+   landlords renting single family homes or apartment units generally, if not always, set
+   rules for their tenants, including requiring approval for who lives there; and (3) there is
+   no evidence that the rules adversely affect the local community in any way, much less
+   fundamentally alter it—if anything, the rules address some of the City’s purported, and
+   even its unlawfully prejudicial, concerns about sober living homes. And the City ignores
+   that Ohio House’s residents freely and deliberately choose to live in a home with these
+   rules—when they move in and while they choose to continue living there—because they
+
+
+
+
+54 See supra at p. 4.
+55 See May 2025 reasonable accommodation application at pp. 22-24 & May 6, 2025 supplement
+
+(statements from the five resident applicants).
+56 See May 2025 reasonable accommodation application at Ex. 9 (Ohio House Admissions
+
+Agreement and Rules).
+57 Broadmoor, supra, 25 Cal.App.4th at 1, 8-9.
+   Carrie Tai, Economic and Development Services Director
+   Page 13
+
+
+   feel the rules support their sobriety, as shown by the statements that the five residents
+   submitted with the application. 58
+
+   The City contends that 115 E. Wilson Street’s residents are too transitory for the homes
+   at the property to be treated as single housekeeping units. But residents live there for
+   seven months on average, with some staying more than two years, and, as shown by
+   the five residents’ statements, they regard 115 E. Wilson Street as their home while
+   living there. This is more than sufficient for 115 E. Wilson Street to be protected as a
+   dwelling under fair housing laws. 59 And the City has not shown that 115 E. Wilson
+   Street is fundamentally more transitory than, for example, the student housing across
+   Wilson Street, the apartment complex on the same block, and the nearby motels and
+   hotel, or that the length of its residents’ stays fundamentally alters this community.
+
+   The City also cites the number of people living in the five homes at 115 E. Wilson Street
+   as a reason to deny an accommodation of its definition of a single housekeeping unit. 60
+   But occupancy limits are set by state law, which bars cities from setting stricter limits
+   unless they are supported by studies, which Costa Mesa has not made, demonstrating
+   that local climate, geology, or topography require stricter limits. 61 Based on the houses’
+   sizes at 115 E. Wilson Street and the number of bedrooms in each house, the
+   occupancy levels at 115 E. Wilson Street appear to be well within state occupancy
+   limits. 62 Therefore, the number of people currently living at the property is not a
+   reasonable basis to deny the requested accommodation.
+
+   In sum, it was both unlawful for the City to refuse to treat the homes at 115 E. Wilson
+   Street like other single housekeeping units and, at the very least, unreasonable for the
+   City to refuse to grant an accommodation of its definition of a single housekeeping unit
+   that would continue to allow sober living housing at this property.
+
+
+
+
+58 See, e.g., May 2025 reasonable accommodation application at Ex. 12 (SAMHSA Report
+
+discussing best practices for recovery residences) & May 6, 2025 supplement (residents'
+statements).
+59 See Lakeside Resort Enters., LP v. Board of Supervisors of Palmyra Twp. (3d Cir. 2006) 455
+
+F.3d 154, 156-160 (reviewing cases holding that group homes and licensed facilities that were
+designed for residents to stay in them for 30 days or longer were protected under the federal fair
+housing laws and holding that a drug and alcohol treatment facility where residents stayed on
+average for roughly two weeks was protected because many of the residents stayed significantly
+longer than that and treated the facility as their home during their stays); Cal. Code Regs., tit. 2, §
+12005, subd. o (including sober living homes as dwellings protected by the FEHA).
+60 The City does not cite the existence of five homes at 115 E. Wilson Street as a reason to deny
+
+an accommodation of its single housekeeping unit definition, likely because it is undisputed that
+the City had originally allowed the five homes to be developed at this property.
+61 Cal. Health & Saf. Code, §§ 17958, 17958.5, 17958.7.
+62 Group Home TA at p. 30 (discussing state occupancy limits).
+   Carrie Tai, Economic and Development Services Director
+   Page 14
+
+
+
+   650-foot Separation Requirement
+
+   For over a decade, 115 E. Wilson Street has been located 550 feet away from another
+   sober living home in this neighborhood. The City asserts that it would fundamentally
+   alter its zoning code to allow 115 E. Wilson Street a 100-foot accommodation from the
+   zoning code’s 650-foot separation rule. The City contends that anything less than a 650-
+   foot separation will fundamentally alter its zoning code by causing “overconcentration”
+   that will create “institutional” living settings for persons with disabilities. But the City has
+   not engaged in the case specific, fact-based inquiry required to justify denying the
+   requested accommodation for this reason. It has not produced any evidence, conducted
+   any research, or cited any studies showing that the 550-foot separation between these
+   two sober living homes is already causing or will cause “overconcentration” or
+   “institutional” living.
+
+   Instead, evidence readily available to the City shows that its concerns about
+   overconcentration and institutional living in these two sober living homes are unfounded.
+   From the broadest perspective, there are only 16 group homes currently permitted to
+   operate in this 16-square-mile city with a population of 112,780, that has 43,100 multi-
+   family housing units and 20,355 single family units. More specifically, there are no
+   reports of the residents from the two sober living homes regularly encountering each
+   other or being segregated together in any way that replicates the historic isolation and
+   segregation of institutions for persons with disabilities that state housing laws seek to
+   address. The City’s own consultant has not found evidence of institutional living at Ohio
+   House, which operates consistently with SAMHSA’s best practices and helps people in
+   recovery live in a residential, noninstitutional setting. The residents’ statements further
+   confirm that they are living in a home, not in an institution. 63
+
+   Other Evidence and Analysis That the City Did Not Consider
+
+   As discussed above, Ohio House has used 115 E. Wilson Street as sober living housing
+   for 14 years without disrupting or fundamentally altering the community. And this use is
+   not fundamentally inconsistent with “the nature of the particular zoning district, and with
+   nearby uses” as required by the City’s reasonable accommodation policies. 64 The City
+   failed to consider all this in denying the reasonable accommodation requests.
+
+
+
+
+63 May 2025 reasonable accommodation application & May 6, 2025, supplement (residents’
+
+statements). For guidance that was available to the City regarding the differences between
+residential uses like sober living homes and the more institutional settings of licensed facilities,
+see, for example, id. at June 2, 2025, second supplement, Nov. 2023 TA Letter at p. 2, and Group
+Home TA at pp. 5-6, supra at p. 2, and Group Home TA at pp. 5-6, 25-26.
+64 MC, § 13-200.62, subd. (e)(2)(b).
+   Carrie Tai, Economic and Development Services Director
+   Page 15
+
+
+
+   The City also did not consider that sober living is not a fundamentally inconsistent use
+   compared to other ways that Ohio House could use this property. For example,
+   Government Code section 65582, subdivision (o) defines transitional housing as rental
+   housing that requires the “termination of assistance . . . at a predetermined future point
+   in time that shall be no less than six months from the beginning of assistance.”
+   Government Code section 65583, subdivision (c)(3) requires cities to treat transitional
+   housing operating in single family dwelling like other single family dwellings in the same
+   zone. 65 The only difference between Ohio House and transitional housing is that Ohio
+   House does not limit the time that its residents may live there because this flexibility is
+   needed to support the residents’ sobriety and recoveries, as shown by the residents’
+   statements and the SAMHSA Best Practices. 66 Even considering this difference,
+   granting an accommodation to allow Ohio House to continue operating at this site would
+   not affect this neighborhood in fundamentally different ways than transitional housing
+   would.
+
+   Lastly, the City’s analysis and denial of the application shows that it did not consider
+   that AFFH laws require the City to remove constraints on housing for persons with
+   disabilities and promote this housing, did not conduct the required fact- and data-based
+   analysis of whether the City is meeting the housing needs of persons with disabilities,
+   and did not abide by its duties to implement metric-driven plans and actions to meet
+   those needs while “protecting existing residents from displacement.” 67
+
+   In sum, for each and all of the reasons discussed above, the City’s analysis and denial
+   of the requested accommodations violated ALU Law, AFFH Law, and Housing Element
+   Law.
+
+   Ohio House Court Decision
+
+   The City mistakenly relies on the Ninth Circuit’s decision in The Ohio House to justify its
+   denial of an accommodation. 68
+
+   The City contends because the Ninth Circuit rejected Ohio House’s earlier arguments
+   that the City’s reasonable accommodation rules discriminated on the basis of disability,
+   this justifies the City denying Ohio House’s and the five residents’ subsequent May
+   2025 reasonable accommodation application. The City’s reliance on Ohio House is
+   misplaced.
+
+   This is shown by the district court’s ruling in Insight Psychology and Addiction, Inc. v.
+   City of Costa Mesa (C.D. Cal. 2025) 801 F.Supp.3d 942 (Insight Psychology), which
+   was issued after the Ninth Circuit’s Ohio House decision.
+
+
+
+65 See also Group Home TA at pp. 20-22.
+66 See supra at n. 24.
+67 See, e.g., Gov. Code, § 65583, subds. (a)(5), (a)(7), (b)(1), and (c)(10)(A)(i)-(v).
+68 Ohio House, supra, 135 F.4th 645.
+   Carrie Tai, Economic and Development Services Director
+   Page 16
+
+
+   In Insight Psychology, the court rejected Costa Mesa’s argument that Ohio House
+   barred a group home plaintiff from bringing to trial its fair housing claims based on the
+   City’s group home and reasonable accommodation policies. This included rejecting
+   Costa Mesa’s more specific argument that the Ninth Circuit had barred further scrutiny
+   of Costa Mesa’s argument that any accommodation from the City’s 650-foot separation
+   rule would fundamentally alter its zoning code. In rejecting Costa Mesa’s arguments, the
+   district court found that in Ohio House, the Ninth Circuit (1) stated that reasonable
+   accommodation claims must be decided on a case by case basis and “‘will turn on the
+   facts of each case,’” (2) did not bar plaintiffs from litigating disputes based on new
+   evidence over whether granting an accommodation from the City’s group home rules
+   would fundamentally alter its zoning code, and (3) ruled that the terms of the City’s
+   reasonable accommodation ordinance complied with federal law but did not consider or
+   rule on whether they complied with state housing laws. 69
+
+   Costa Mesa should also consider the legal alert that HCD, CRD, and the Attorney
+   General’s Office issued on June 3, 2026, which discusses additional reasons why cities
+   should still follow HCD’s guidance on how state housing laws apply to local group home
+   regulations and reasonable accommodation requests after the Ohio House decision. 70
+
+   Conclusion
+
+   The City violated ALU Law, AFFH Law, and Housing Element Law by (1) requiring Ohio
+   House and the five other applicants to request a reasonable accommodation instead of
+   simply allowing 115 E. Wilson Street to continue operating, (2) imposing an unlawful
+   reasonable accommodations process on them, and (3) failing to comply with its
+   reasonable accommodations duties in analyzing and denying the application.
+
+   The City Council must grant the appeal and approve the reasonable accommodation
+   application.
+
+   HCD has enforcement authority over ALU Law, AFFH Law, and Housing Element Law.
+   Accordingly, HCD may review local government actions to determine consistency with
+   these laws. If HCD finds that a jurisdiction is in violation of state law, HCD may notify
+   the California Office of the Attorney General. 71
+
+
+
+
+69 Insight Psychology, supra, 801 F.Supp.3d at pp. 973-974, 980-981, citing and quoting Ohio
+
+House, supra, 135 F.4th at 678. See also Insight Psychology and Addiction, Inc. v. City of Costa
+Mesa (Aug. 11 2025) 2025 WL 3190819 at p. *3, fn.1. HCD has learned that shortly before the
+Insight Psychology trial, the City agreed to a settlement that, among other things, obliged it to
+amend its reasonable accommodation ordinance after consulting with disability rights advocates
+who participated in the case.
+70 Legal alert available at https://oag.ca.gov/system/files/attachments/press-
+
+docs/Legal%20Alert%20re%20Ohio%20House%20v.%20City%20of%20Costa%20Mesa%20-
+%20Final.pdf.
+71 Gov. Code, § 65585, subds. (i) and (j).
+Carrie Tai, Economic and Development Services Director
+Page 17
+
+
+If you have any questions regarding this letter or require additional technical assistance,
+please contact Stephanie Reyes at stephanie.reyes@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Housing Accountability Unit Chief

@@ -1,0 +1,197 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+         August 12, 2025
+
+
+         David Crompton, Chief of Planning
+         Town of Danville
+         500 La Gonda Way
+         Danville, CA 94526
+
+         Dear David Crompton:
+
+         RE: Town of Danville – 101-119 Town & Country Drive – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the Town of Danville (Town) regarding a proposed
+         housing development project to be located at 101-119 Town & Country Drive. The
+         purpose of this letter is to provide technical assistance to the Town regarding the State
+         Density Bonus Law (SDBL) and the calculation of base density and use of incentives
+         and concessions to permit mixed use in a multifamily zone.
+
+         Background
+
+         HCD understands that Blake Grigg Properties (Applicant) is seeking approval of a
+         200-unit multifamily development that includes 21 very low-income (VLI) units
+         (Project) on a parcel that is identified as a Housing Opportunity Site in the Town’s 6th
+         Cycle General Plan Housing Element. The Project contains a multifamily development
+         on the north side of the site and retains the existing retail commercial building and
+         associated surface parking on the south side of the site.
+
+         The existing parcel is 3.89 acres and zoned DBD 13 (Downtown Business District Area
+         13: Multifamily Residential-High Special), and the General Plan Land Use Designation
+         is DBD 13 (Multifamily Residential – High Density Special, Downtown Master Plan). In
+         addition, the entire downtown area has a base P-1 (Planned Unit District) zoning, which
+         includes some district-wide procedural and application submittal requirements but does
+         not include specific development standards. According to the Town, the DBD 13
+         zoning—which contains the specific land use and development standards—applies to
+         the site.
+
+         On February 7, 2023, the Town amended its 2030 General Plan Land Use Element and
+         Downtown Business District Zoning to comply with State Housing Element Law and
+         accommodate the Town’s regional housing need allocation (RHNA) for the 6th Cycle
+         planning period. The land use designation and zoning allow for multifamily residential
+David Crompton, Chief of Planning
+Page 2
+
+
+land use at a housing density range of 30 to 35 units per acre. Mixed-use residential
+and commercial uses are not permitted on the 3.89-acre site. 1
+
+It is HCD’s understanding that the Applicant is considering whether to subdivide the
+parcel.
+
+•   If subdividing. The 3.89-acre parcel would be subdivided into a 2.34-acre parcel and
+    a 1.55-acre parcel. The Project is proposed on the 2.34-acre parcel, and no
+    residential development would be proposed on the 1.55-acre parcel containing
+    commercial use, which would be legal but nonconforming. The Town does not have
+    a local Transfer of Development Rights (TDR) policy or other administrative
+    procedure in place that would explicitly allow the Applicant to transfer the residential
+    density from the 1.55-acre parcel to the 2.34-acre parcel.
+
+•   If not subdividing. The 3.89-acre parcel would remain intact, and the proposed
+    multifamily units, in conjunction with the existing commercial use, would be a
+    horizontal mixed-use development application.
+
+Can the Applicant request a concession to allow for mixed-use residential where
+the underlying zoning does not permit such use?
+
+Yes, the SDBL specifically defines a concession or incentive to include “[a]pproval of
+mixed-use zoning in conjunction with the housing project” if the commercial or other
+non-residential use will reduce the cost of the housing development and is “compatible
+with the housing project and the existing or planned development in the area where the
+proposed housing project will be located.” 2 A concession can be used to allow for
+mixed-use where the underlying zoning would otherwise not allow such use, unless the
+Town can make one of the three statutory findings of denial. 3 In other words, a
+concession could allow the existing commercial buildings and use to remain in
+conjunction with the proposed multifamily development as one housing development
+project application.
+
+How is the base density calculated for the purposes of the SDBL if the parcel is
+subdivided versus if the parcel is not subdivided?
+
+The SDBL defines a “housing development” to mean “a development project for five or
+more residential units, including mixed-use developments…and consists of residential
+units or unimproved residential lots…. For the purpose of calculating a density bonus,
+the residential units shall be on contiguous sites that are the subject of one
+development application, but do not have to be based upon individual subdivision maps
+or parcels.”4 (Emphasis added.)
+
+1 DMC § 32-45.21.2(b) Area 13: Multifamily Residential-High Special, Permitted Uses.
+
+Available at: https://codelibrary.amlegal.com/codes/danvilleca/latest/danville_ca/0-0-0-
+20033
+2 Gov. Code, § 65915, subd. (k)(2).
+3 Gov. Code, § 65915, subd. (d)(1).
+4 Gov. Code, § 65915, subd. (i).
+David Crompton, Chief of Planning
+Page 3
+
+
+
+Therefore, for purposes of applying the SDBL, the base density for the Project is
+calculated based on the site (or contiguous sites) that contains the residential use
+proposed as part of one development application.
+
+Base Density if Subdividing
+
+If the Applicant subdivides the parcel, the project application would contain a housing
+development on a 2.34-acre parcel and therefore the base density for the Project would
+be 89 units, or 35 units per acre density multiplied by 2.34 acres.
+
+•   Example A: If the Project includes 21 VLI units, the Applicant can apply a 50-percent
+    density bonus under Government Code section 65915, subdivision (f), as well as an
+    additional 27.5-percent density bonus under subdivision (v) to achieve an overall
+    yield of 158 units.
+
+•   Example B: If the Applicant wishes to apply only one 50-percent density bonus, the
+    number of VLI units may be reduced to 14 to achieve an overall yield of 134 units.
+    See Table 1 below for calculation details.
+
+Notably, a separate development application may propose additional multifamily units
+on the 1.55-acre commercial parcel, with a base density of 55 units, or 35 units per acre
+multiplied by 1.55 acres.
+
+Table 1 Example Density Bonus Overall Yield
+                                  Example A     Example B      Note
+ Base Density                     89 du         89 du          35 du/ac x 2.54 ac
+ Affordable (VLI)                 21 du         14 du
+ Density Bonus % 5                50%           50%            14 VLI du ÷ 89 base du
+ Additional Density Bonus % 6     27.5%         --             7 VLI du ÷ 89 base du
+                                                               Density Bonus %
+ Total Density Bonus              69 du         45 du
+                                                               x 89 base du
+                                                               89 base du + total
+ Overall Yield                    158 du        134 du
+                                                               density bonus du
+ ac = acres
+ du = dwelling units
+
+Base Density if Not Subdividing
+
+If the Applicant does not subdivide the parcel, the project application would contain a
+housing development on a 3.89-acre parcel. The base density would therefore be 137
+units, or 35 units per acre density multiplied by 3.89 acres. The project application
+would include existing commercial use and be considered mixed-use.
+
+
+
+5 Gov. Code, § 65915, subd. (f)(2).
+6 Gov. Code, § 65915, subd. (v)(2).
+David Crompton, Chief of Planning
+Page 4
+
+
+If the Project includes 21 VLI units, the Applicant can apply one 50-percent density
+bonus under Government Code section 65915, subdivision (f) to achieve an overall
+yield of 206 units, or 137 base units plus 69 density bonus units.
+
+If the Project maximizes its allowable density, either under the SDBL or specific
+provisions of the Town’s density bonus ordinance, the Town is not required to approve
+additional residential density on the 3.89-acre parcel at a later date. If a future housing
+development application results in the 3.89-acre site exceeding the maximum allowable
+density, a general plan and zoning amendment would be required, initiated by either the
+Town or an applicant.
+
+Conclusion
+
+For the purposes of the SDBL, the applicable base density for a project depends on the
+site area that contains the residential use proposed as part of one development project
+application. Therefore, the base density for the Project would be 89 units if the parcel is
+subdivided, or 137 units if the parcel is not subdivided. In addition, the SDBL places the
+burden of proof on the Town to deny a concession to allow for mixed-use zoning. 7
+
+If you have any questions or need additional information, please Contact Grace Wu at
+grace.wu@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability
+
+
+
+
+7 Gov. Code, § 65915, subd. (d)(4).

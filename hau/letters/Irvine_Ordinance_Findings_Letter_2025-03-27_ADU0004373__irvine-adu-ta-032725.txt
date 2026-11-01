@@ -1,0 +1,179 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 27, 2025
+
+
+
+         Stephanie Frady, Community Development Director
+         Community Development
+         City of Irvine
+         1 Civic Center Plaza
+         Irvine, CA 92606
+
+         Dear Stephanie Frady:
+
+         RE: City of Irvine Accessory Dwelling Unit (ADU) Ordinance – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) issued a
+         review of the City of Irvine’s (City) ADU Ordinance No.18-05 (Ordinance) on
+         January 7, 2025. HCD is aware that the City has not amended Ordinance No. 18-05
+         and that instead of amending, they intend to use State ADU Law. However, the City has
+         misapplied State ADU Law in the processing of ADU applications by requiring deed
+         restrictions and disallowing JADUs in townhomes. Additionally, the City has failed to
+         either adopt an amended ordinance that complies with State ADU Law or adopt the
+         Ordinance without changes and with a resolution that includes findings explaining why
+         the City believes the Ordinance complies with the law as required by Government Code
+         section 66326, subdivision (b)(2).
+
+         Background
+
+         HCD received a complaint stating that the City was requiring a deed restriction to
+         prohibit a separate sale of the ADU as part of a complete application for an ADU, and
+         that without such a deed restriction the application would not be accepted. HCD
+         provided technical assistance, citing Government Code section 66315, which states,
+         “No additional standards, other than those provided in Section 66314, shall be used or
+         imposed, including an owner-occupant requirement, except that a local agency may
+         require that the property may be used for rentals of terms 30 days or longer.” A deed
+         restriction is an “additional standard” and thus cannot be imposed.
+
+         On January 7, 2025, HCD sent the City findings resulting from its review of Ordinance
+         No. 18-05. Finding number 5 addressed this issue and made a citation to section
+         66315, quoted above. The City responded on February 6, 2025, with a letter stating, “As
+         confirmed by the City’s Chief of Planning and Policy via email to HCD staff on
+         December 2, 2024 (please refer to enclosure), the City is not enforcing Ordinance 18-05
+Stephanie Frady, Community Development Director
+Page 2
+
+
+and has not enforced Ordinance 18-05 since January 1, 2020. The City acknowledges
+that Ordinance No. 18-05 is null and void and is superseded by State Law. (Gov. Code
+§ 66325) At present, the City has no intention of formally repealing or amending
+Ordinance No. 18-05 and intends to continue to apply the provisions of State Law to
+ADU and JADU applications without regard to any provisions of Ordinance No. 18-05.”
+
+On February 14, 2025, HCD emailed City staff inquiring about an application submitted
+for 14792 Waverly Lane. The applicant was told she must submit a deed restriction
+before the City would approve her ADU application. The City has not replied to HCD.
+
+On February 18, 2025, City staff emailed the applicant, citing Government Code section
+66315 and stating:
+
+       “The covenant does not impose additional restrictions on maximum development
+       standards as noted above and is not in conflict with any state or local laws.
+       Pursuant to Section 65852.2(a)(10), the City has not adopted a separate
+       ordinance to allow the separate conveyance of the primary dwelling unit and
+       ADU. Therefore, pursuant to state ADU laws, the City is within our rights to
+       restrict the separate sale of ADUs. Irvine Zoning Ordinance Section 1-2-1 defines
+       housing less than 31 consecutive days as a boarding house, which is subject to
+       additional City regulation… the ADU application remains incomplete with
+       outstanding items to be addressed. While State law provides for a 60-day shot
+       clock for processing ADUs, that clock stops when the City provides plan check
+       comments and restarts when the applicant resubmits. The City will continue to
+       comply with State law regarding the plan check review, and requests that you
+       provide the required covenant to continue with your plan check review.”
+
+On February 14, 2025, HCD received another complaint regarding a JADU application
+for 112 Chantilly. It is the City’s position that the detached single-family home, located
+on its own lot, is part of a multifamily primary dwelling and would therefore be ineligible
+for a JADU. This was the subject of a protracted conversation HCD had with the City
+beginning in September 2022 wherein the City argued that a townhouse was a
+multifamily primary dwelling and therefore ineligible for an attached new construction
+ADU. City staff verbally indicated that they disagreed with HCD’s technical assistance;
+HCD was preparing a letter on the topic when the complainant chose to abandon their
+application. In both cases, a townhouse’s format was the basis of the City’s denial of, or
+refusal to accept, an application.
+
+Analysis
+
+The City claims that it is not enforcing Ordinance No. 18-05. However, the City
+continues to enforce requirements that HCD’s technical assistance and ADU Ordinance
+Findings Letter have both found to be inconsistent with State ADU Law, as addressed
+below.
+Stephanie Frady, Community Development Director
+Page 3
+
+
+Deed Restriction
+
+The City’s position on deed restrictions is erroneous. It claims that such a deed
+restriction requires only development standards that appear in Government Code
+section 66314 and that therefore it does not conflict with section 66315. However, a
+deed restriction is an additional standard that is not addressed in section 66315. That
+section’s phrase, “including an owner-occupant requirement,” clarifies that additional
+standards need not be specifically related to development to be prohibited under section
+66315. Given that the City uses this as grounds to delay an application under the
+premise that the application is “incomplete,” this requirement is also inconsistent with
+section 66317, subdivision (c): “No local ordinance, policy, or regulation, other than an
+accessory dwelling unit ordinance consistent with this article shall be the basis for the
+delay or denial of a building permit or a use permit under this section.”
+
+JADU in a Detached Townhouse on a Single-Family Lot
+
+The City is also incorrect about JADUs on lots with “townhouses,” a term of art that
+does not appear in State ADU Law. Government Code section 66333, subdivision (a)
+describes a limitation of one JADU “per residential lot zoned for single-family residences
+with a single-family residence built, or proposed to be built, on the lot.” While inclusion in
+an HOA or other elements might establish the primary dwelling as part of a planned
+community or “townhouse complex,” a detached townhouse on its own lot is a single-
+family primary dwelling and would therefore be eligible for a JADU.
+
+Local ADU Ordinance
+
+Government Code section 66326, subdivision (b)(2) requires local jurisdictions to either
+“(A) Amend the ordinance to comply with this article; [or] (B) Adopt the ordinance
+without changes. The local agency shall include findings in its resolution adopting the
+ordinance that explain the reasons the local agency believes that the ordinance
+complies with this article despite the findings of the department.” In addition, section
+66326, subdivision (c)(1) states, “If the local agency does not amend its ordinance in
+response to the department’s findings or does not adopt a resolution with findings
+explaining the reason the ordinance complies with this article and addressing the
+department’s findings, the department shall notify the local agency and may notify the
+Attorney General that the local agency is in violation of state law.” The City has taken
+neither step required by State ADU Law.
+      Stephanie Frady, Community Development Director
+      Page 4
+
+
+
+      Conclusion and Next Steps
+
+      The City has consistently dismissed HCD’s technical assistance as a disagreement over
+      interpretation, and the City’s misapplication of state law has resulted in the ongoing
+      complaints regarding issues raised in previous technical assistance provided by email
+      and the ADU Ordinance Findings Letter issued by HCD. HCD urges the City to take
+      steps to remedy the issues identified in this letter and, as a best practice and to promote
+      clarity, to repeal Ordinance No. 18-05.
+
+      Please be advised that HCD has enforcement authority over State ADU Law. 1
+      Accordingly, HCD may review local government actions and inactions to determine
+      consistency with State ADU Law. If HCD finds that a city’s actions do not comply with
+      State ADU Law, HCD may notify the California Office of the Attorney General that the
+      local government is in violation of state law. 2 HCD requests that the City respond by
+      April 28, 2025 with a plan and timeline to address the issues identified in this letter. If
+      you have any questions or would like to discuss the contents of this letter, please
+      contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+
+
+1 Gov. Code, §§ 65585, subd. (j)(15); 66326.
+2 Gov. Code, §§ 65585, subd. (j); 66326, subd. (c)(1).

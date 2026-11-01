@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010756",
+  "case_number": "HAU20-059",
+  "letter_date": "2021-07-28",
+  "jurisdiction": "Orange Cove",
+  "letter_type": "Decertification of Housing Element Compliance",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/freOrangeCove-DL-072821.pdf",
+  "hcd_letter": "Orange Cove Decertification of Housing Element Compliance 07/28/2021",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/freOrangeCove-DL-072821.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 167783,
+  "text_chars": 4340,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024959",
+  "case_number": "ADU0007820",
+  "letter_date": "2026-02-18",
+  "jurisdiction": "Vacaville",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Architectural requirements | Deed Restrictions | Front Setbacks | Historical Preservation | JADUs with Multifamily | Living Area | Sprinklers | Unit Allowance",
+  "n_keywords": "8",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/vacaville-adu-findings-021826.pdf",
+  "hcd_letter": "Vacaville Ordinance Findings Letter 02/18/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/vacaville-adu-findings-021826.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 200899,
+  "text_chars": 17637,
+  "text_empty": false
+}

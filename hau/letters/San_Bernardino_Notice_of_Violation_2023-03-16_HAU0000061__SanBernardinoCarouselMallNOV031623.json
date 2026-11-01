@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010969",
+  "case_number": "HAU0000061",
+  "letter_date": "2023-03-16",
+  "jurisdiction": "San Bernardino",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Other",
+  "statutes": "54221(b)(1) | 54222 | 54223(a) | 54230.5(b)(1) | 65585.1(a)",
+  "n_statutes": "5",
+  "keywords": "Correct or Cure | Disposition Approval | Failure to Prioritize Affordable Housing | Failure to Properly Notice | Surplus Land Act",
+  "n_keywords": "5",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/SanBernardinoCarouselMallNOV031623.pdf",
+  "hcd_letter": "San Bernardino Notice of Violation 03/16/2023",
+  "housing_law": "Other",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/SanBernardinoCarouselMallNOV031623.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225617,
+  "text_chars": 15258,
+  "text_empty": false
+}

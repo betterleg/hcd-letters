@@ -1,0 +1,1008 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+         June 22, 2026
+
+         Jenna Monterrosa, Principal City Planner
+         200 N. Spring St., Room 750
+         Los Angeles, CA
+
+         Dear Jenna Monterrosa:
+
+         RE: City of Los Angeles – Senate Bill 79 Ordinance to Exempt and Temporarily
+             Exclude Sites – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the City of Los Angeles (City) regarding the
+         proposed implementation of an ordinance to exempt and temporarily exclude certain
+         sites subject to Senate Bill (SB) 79 (Ordinance). This letter provides technical
+         assistance to the City on the implementation of the Ordinance, including clarification of
+         certain methodologies and procedures to facilitate the City’s ability to adopt and enact a
+         local Ordinance.
+
+         Background
+         SB 79 is codified in Government Code sections 65912.155 – 65912.162, and its
+         provisions and standards apply starting July 1, 2026 (see below “SB 79 Standards”), or
+         when a local SB 79 ordinance 1 or transit-oriented development (TOD) alternative plan is
+         adopted and enacted, 2 (see below “Local Government Options to Modify SB 79”)
+         whichever comes first.
+         On June 9, 2026, the City submitted a draft SB 79 ordinance that would:
+              •   Exempt sites where there is no walking path of less than one mile from the TOD
+                  stop, pursuant to Government Code section 65912.160, subdivision (e)(1);
+              •   Exempt sites within industrial employment hub areas, pursuant to Government
+                  Code section 65912.160, subdivision (e)(2); and
+              •   Temporarily exclude qualifying sites from the provisions of SB 79, pursuant to
+                  Government Code section 65912.161, subdivision (b).
+         HCD also understands that, at this time, the City is not pursuing enactment of a TOD
+         Alternative Plan pursuant to Government Code section 65912.161, subdivision (a), but
+         may opt to at a later date.
+
+
+
+         1 Gov. Code, §§ 65912.160, subd. (e); 65912.161, subd. (b)(1).
+         2 Gov. Code, § 65912.161, subd. (d).
+Jenna Monterrosa, Principal City Planner
+Page 2 of 21
+
+
+SB 79 Standards
+SB 79 establishes development standards for eligible TOD housing development
+projects near qualifying TOD stops, which vary by the type of TOD stop, distance from a
+TOD stop, and population within the city. 3 Qualifying projects located adjacent to a TOD
+stop are eligible for an adjacency intensifier to add an additional 40 units per acre of
+residential density, 20 feet of height, and 1.0 residential floor area ratio (FAR) beyond
+the lowest allowable maximums applicable to the parcel(s). 4
+Table 1. SB 79 Development Standards
+ Development                Adjacent: Within       Within 0.25-mile of      Between 0.25- and
+ Standard                     200 feet of a            TOD Stop              0.5-mile of TOD
+                           pedestrian access                                stop in city with at
+                                 point                                         least 35,000
+                                                                                 residents
+ Tier 1 – Heavy rail or very high frequency commuter rail
+ Max. Density                ≥ 160 units/acre        ≥ 120 units/acre         ≥ 100 units/acre
+ Max. Height                     ≥ 95 feet               ≥ 75 feet               ≥ 65 feet
+ Max. Residential FAR              ≥ 4.5                   ≥ 3.5                   ≥ 3.0
+ Tier 2 – Light rail, high frequency commuter rail, bus w/ dedicated lane (excluding Tier 1)
+ Max. Density                ≥ 140 units/acre        ≥ 100 units/acre         ≥ 80 units/acre
+ Max. Height                     ≥ 85 feet               ≥ 65 feet               ≥ 55 feet
+ Max. Residential FAR              ≥ 4.0                   ≥ 3.0                   ≥ 2.5
+Local jurisdictions may not apply lower height, density, or residential FAR limits than
+those set by SB 79 unless the local government adopts and enacts an ordinance or
+TOD alternative plan to modify the local application of SB 79.
+
+Local Government Options to Modify SB 79
+A local jurisdiction has the option, but is not required, to adopt a local ordinance or TOD
+alternative plan which allows the local jurisdiction to modify certain SB 79 applicable
+sites or development standards, provided the ordinance or plan meets the applicable
+statutory requirements.
+Table 2 below details the various options available to local governments to modify the
+provisions of SB 79 or Government Code section 65912.157. The statute does not limit
+which—nor how many—of these options a local government may choose.
+
+
+
+
+3 Gov. Code, § 65912.157, subd. (a).
+4 Gov. Code, § 65912.157, subd. (e).
+Jenna Monterrosa, Principal City Planner
+Page 3 of 21
+
+
+Table 2. Local Government Options to Modify SB 79
+      Statute Reference                               HCD Clarification
+ 1 The ordinance may designate areas within          Exempt from SB 79: Sites where there is
+   one-half mile of a transit-oriented               no walking path of less than one mile from
+   development stop as exempt from the               the TOD stop are exempt from SB 79 (“the
+   provisions of this chapter if:                    provisions of this chapter”).
+      (1) The local government makes
+          findings supported by substantial
+          evidence that there exists no
+          walking path of less than one mile
+          from that location to the transit-
+          oriented development stop.
+   - Government Code, 65912.160, subd. (e)
+   and (e)(1)
+ 2 The ordinance may designate areas within          Exempt from SB 79: Sites within a
+   one-half mile of a transit-oriented               qualifying industrial employment hub are
+   development stop as exempt from the               exempt from SB 79 (“the provisions of this
+   provisions of this chapter if:                    chapter”). To qualify as an industrial
+      (2) A local government with at least 15        employment hub:
+          transit-oriented development stops         • The jurisdiction must have at least 15
+          designates the area as an industrial          TOD stops, and
+          employment hub. An industrial              • The area must be contiguous and at
+          employment hub shall be a                     least 250 acres that was designated as
+          contiguous area of at least 250               employment lands area 5 in the
+          acres designated in the jurisdiction’s        jurisdiction’s general plan on or before
+          general plan on or before January 1,          January 1, 2025, and
+          2025, as an employment lands area;
+          the parcels within it shall be primarily   • The parcels must be primarily dedicated
+          dedicated to industrial use as                to industrial use as defined in section
+          defined in paragraph (3) of                   65912.121, subdivision (f)(3), and
+          subdivision (f) of Section 65912.121;      • Housing is not a principally or
+          and housing shall not be a permitted          conditionally permitted use on any of
+          use on any of the sites so excluded.          the sites so excluded. Any site that
+   - Government Code, 65912.160, subd. (e)              principally or conditionally permits
+   and (e)(2)                                           residential use remains subject to SB
+                                                        79.
+
+
+
+
+5 While the statute does not define “employment lands” area, HCD recommends local
+
+jurisdictions demonstrate how the general plan specifically designates a bounded,
+planned area that protects employment lands for job opportunities.
+Jenna Monterrosa, Principal City Planner
+Page 4 of 21
+
+
+ 3 Prior to one year following the adoption of      Temporarily excluded from section
+   the seventh revision of the housing              65912.157 until one year after 7th cycle:
+   element, Section 65912.157 shall not apply       Sites or TOD zones (depending on the
+   to any of the following for which the local      specific criteria) that meet at least one of
+   government has adopted an ordinance in           the criteria under Government Code
+   accordance with Section 65912.160                section 65912.161, subdivision (b)(1)(A)-(F)
+   indicating the site’s exclusion:                 may be temporarily excluded from the
+   - Government Code, 65912.161, subd.              provisions of section 65912.157 until one
+   (b)(1)                                           year after the adoption of the jurisdiction’s
+                                                    7th cycle Housing Element.
+ 4 Section 65912.157 shall not apply within a       Section 65912.157 not applicable until
+   jurisdiction that has a local transit-oriented   adoption of the next housing element:
+   alternative plan that has been approved by       Sites included in an HCD-approved TOD
+   the department as satisfying the                 Alternative Plan are not subject to
+   requirements of this section in effect. The      Government Code section 65912.157 until
+   department’s approval pursuant to this           the start of the jurisdiction’s next housing
+   section shall be valid through the               element cycle.
+   jurisdiction’s next amendment to the
+   housing element of its general plan.
+   - Government Code, 65912.161, subd. (d)
+
+Terms Used
+The following terms are used consistently in this letter:
+   •   “Aggregate density” – The greatest number of residential units allowed within a
+       TOD zone, pursuant to Government Code section 65912.157, subdivision (a). In
+       state housing law, the term “density” typically refers to the greatest number of
+       dwelling units allowed on a site and is generally determined using dwelling units
+       per acre. 6
+   •   “Capacity” – Consideration of both the greatest number of residential units
+       allowed and maximum allowable residential floor area as measured in net
+       habitable square footage. 7
+
+
+
+
+6 See, e.g., Gov. Code, § 65915, subd. (o)(6). State Density Bonus Law defines
+
+“maximum allowable residential density” or “base density” to mean “the greatest number
+of units allowed under the zoning ordinance, specific plan, or land use element of the
+general plan, or, if a range of density is permitted, means the greatest number of units
+allowed by the specific zoning range, specific plan, or land use element of the general
+plan applicable to the project. Density shall be determined using dwelling units per
+acre.”
+7 Gov. Code, § 65912.156, subds. (i), (l).
+Jenna Monterrosa, Principal City Planner
+Page 5 of 21
+
+
+   •   “Contiguous” – Parcels sharing a common boundary; can include an easement
+       or public right of way between parcels. 8
+   •   “Exempt sites” – Sites where there is no walking path of less than one mile
+       from the TOD stop or within an industrial employment hub that is permanently
+       exempted from Government Code section 65912.157 via a locally-enacted
+       ordinance pursuant to Government Code section 65912.160, subdivision (e).
+   •   “Site” or “Project site” – Parcel(s) containing the proposed housing
+       development project. 9
+   •   “Temporarily excluded site” – Parcel(s) identified under a temporary exclusion
+       ordinance to meet at least one of the criteria under Government Code section
+       65912.161, subdivision (b)(1)(A)-(F), and is therefore not subject to Government
+       Code section 65912.157 until one year following the adoption of the seventh
+       revision of the jurisdiction’s housing element.
+   •   “Temporary exclusion ordinance” – A locally enacted ordinance that
+       temporarily modifies the applicability of SB 79 on certain eligible parcels pursuant
+       to Government Code section 65912.161, subdivision (b).
+   •   “TOD alternative plan” – A locally enacted ordinance, zoning overlay, general
+       plan housing element, housing element program, or specific plan that
+       redistributes capacity pursuant to Government Code section 65912.161,
+       subdivision (a).
+The following terms refer to the varying capacity calculations that a local jurisdiction
+must make and demonstrate to exempt, temporarily exclude, or redistribute SB 79
+capacity via a local ordinance or TOD alternative plan:
+   •   “Overall SB 79 capacity” – The greatest number of residential units and
+       maximum allowable residential floor area under Government Code section
+       65912.157 if a jurisdiction does not enact an ordinance or TOD alternative plan to
+       make local modifications to the statute.
+   •   “Effective SB 79 capacity” – The greatest number of residential units and
+       maximum allowable residential floor area remaining when the capacity on
+       exempt sites is subtracted from the overall SB 79 capacity. If a local jurisdiction
+
+
+8 HCD has previously provided technical assistance that in the context of State Density
+
+Bonus Law, “contiguous” may include parcels that are separated by any width of public
+right of way or easements. See HCD Technical Assistance Letter to City of Los
+Angeles, February 9, 2024, available at:
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+community/HAU/losangeles-hau567-ta-02092024.pdf
+9 HCD SB 79 Advisory Clarifications on Definitions for Metropolitan Planning
+
+Organizations, dated March 20, 2026, clarifies the term “Project Site.” Available at:
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/sb-79-mpo-
+advisory.pdf
+Jenna Monterrosa, Principal City Planner
+Page 6 of 21
+
+
+       does not enact an ordinance to exempt sites, then effective SB 79 capacity would
+       be the same as overall SB 79 capacity.
+   •   “Residual SB 79 capacity” – The greatest number of residential units and
+       maximum allowable residential floor area remaining when the capacity on
+       temporarily excluded sites is subtracted from effective SB 79 capacity. If a local
+       jurisdiction does not enact an ordinance to temporarily exclude sites, then the
+       residual SB 79 capacity would be the same as effective SB 79 capacity.
+
+Analysis
+
+Areas Where SB 79 Applies
+
+1. What is the definition for “mixed” and “commercial” zoning? SB 79 provides
+   for housing as an allowed use on “any site zoned for residential, mixed, or
+   commercial development” under Government Code section 65912.157,
+   subdivision (a).
+While the statute does not explicitly define “mixed” or “commercial” uses, if the local
+zoning principally or conditionally permits residential, residential mixed use, or
+commercial land use on a parcel, then SB 79 applies. 10 Government Code section
+65912.155 “finds and declares [that] California faces a housing shortage both acute and
+chronic, particularly in areas with access to robust public transit infrastructure” 11 and
+“building more homes near transit access reduces housing and transportation
+costs….” 12
+Therefore, if a site is zoned for industrial use, but allows for commercial uses, then SB
+79 applies. This includes planned developments and public facility zones that principally
+or conditionally allow for uses serving the general public (e.g., retail, office, personal, or
+household service). The specific commercial uses allowed may vary by local
+jurisdiction, based on their local zoning definitions and regulations.
+
+2. Confirm whether a large parcel, where only a small portion of the parcel is
+   within the half-mile TOD zone and where significant portions of the parcel are
+   further than a half mile from the transit stop, are considered eligible for SB 79
+   provisions in their entirety.
+Yes, large parcels where only a portion of which are in a TOD zone are eligible for SB 79
+provisions in their entirety unless a development project subdivides the parcel. The
+
+
+
+10 HCD TA Letter to the City of Hayward, dated January 28, 2025, explains that “zoned
+
+for” means any zone that allows the residential development as a principally or
+conditionally permitted land use. Available at:
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/hayward-
+hau-1167-sb-684-1123-ta-01282025.pdf
+11 Gov. Code, § 65912.155, subd. (a).
+12 Gov. Code, § 65912.155, subd. (c).
+Jenna Monterrosa, Principal City Planner
+Page 7 of 21
+
+
+statute simply states that a housing development project shall be an allowed use on “any
+site zoned for residential, mixed, or commercial development within one-half or one-
+quarter mile of a transit-oriented development stop” 13 (emphasis added) and does not
+specify that the site (i.e., parcel or parcels) must be entirely or mostly within the TOD
+zone.
+
+3. Can an applicant for a housing development project in a qualifying TOD zone
+   choose to comply with local zoning requirements and procedures instead of
+   SB 79?
+Yes. An applicant for a housing development project is not required to utilize SB 79
+provisions and standards and may opt to utilize the local ordinances, policies, and
+standards adopted and in effect when the preliminary application or full application was
+submitted. For example, an applicant may propose the development of a single-family
+dwelling unit on a site within one-quarter mile of a Tier 2 TOD stop where the local
+zoning permits single-family use and densities of less than 30 units per acre.
+SB 79 merely makes certain housing development projects 14 an allowed use on a
+qualifying site near a TOD stop, 15 provided the project meets the statutory density and
+development standards, 16 affordability criteria, 17 and labor standards. 18
+
+Demolition and Anti-Displacement Protections
+Government Code section 65912.157, subdivision (h) states:
+       “A development proposed pursuant to this section shall not be located on either
+       of the following:
+       (1) A site containing more than two units where the development would require
+           the demolition of housing that is subject to any form of rent or price control
+           through a public entity’s valid exercise of its police power that has been
+           occupied by tenants within the past seven years.
+       (2) A site that was previously used for more than two units of housing that were
+          demolished within seven years before the development proponent submits an
+          application under this section and any of the units were subject to any form of
+          rent or price control through a public entity’s valid exercise of its police
+          power.”
+
+4. For calculating the overall SB 79 capacity, can sites with more than two units
+   that are subject to rent or price control be excluded?
+
+
+13 Gov. Code, § 65912.157, subd. (a).
+14 Gov. Code, § 65912.156, subd. (g).
+15 Gov. Code, § 65912.157, subds. (a)(3)-(6), (h).
+16 Gov. Code, § 65912.157, subds. (a)(1)-(2), (d), (e).
+17 Gov. Code, § 65912.157, subds. (c), (i).
+18 Gov. Code, § 65912.157, subd. (k).
+Jenna Monterrosa, Principal City Planner
+Page 8 of 21
+
+
+No. Government Code section 65912.157, subdivision (h), the source of language in
+question, does not state that such sites may be excluded from the overall SB 79
+capacity, only that SB 79 developments that require demolition of such units, or where
+such units were demolished, may not be located on them. Because both provisions
+include a seven-year lookback window, eligibility under SB 79 is dependent on the date
+a particular application is filed. Once seven years have passed, such developments
+would be eligible. Therefore, otherwise eligible sites with more than two units subject to
+local rent or price control must be included in the overall SB 79 capacity.
+
+Temporary Exclusion Ordinance
+Government Code section 65912.161, subdivision (b)(1) states:
+       “Prior to one year following the adoption of the seventh revision of the housing
+       element, Section 65912.157 shall not apply to any of the following for which the
+       local government has adopted an ordinance in accordance with Section
+       65912.160 indicating the site’s exclusion:”
+To temporarily exclude certain sites or TOD zones by enacting a local ordinance, a
+jurisdiction must demonstrate that the site or TOD zone meets at least one of the criteria
+listed in Government Code section 65912.161, subdivision (b)(1)(A)-(F). See Table 3
+below for further clarifications. SB 79 provisions and standards would not apply to
+temporarily excluded sites until one year after the adoption of the jurisdiction’s 7th cycle
+Housing Element.
+Table 3. SB 79 Temporary Exclusion Ordinance - Deferable Site Criteria (must
+meet at least one)
+              Statute Reference                               HCD Clarification
+ 1 A site that has been identified by the local     Site permits at least 50 percent of the
+   jurisdiction which permits density and           density (i.e., residential units) and
+   residential floor area ratio at no less than     residential floor area (i.e., residential
+   50 percent of the standards specified under      square footage) allowed under Section
+   subdivision (a) of Section 65912.157.            65912.157, subdivision (a) standards.
+   - Government Code, § 65912.161, subd.
+   (b)(1)(A)
+ 2 A site in a transit-oriented development      Site is in a TOD zone that meets both of
+   zone in which at least 33 percent of sites in the following criteria:
+   the relevant transit-oriented development     • At least 33 percent of the sites (i.e.,
+   zone have permitted density and residential       parcel count) in the TOD zone allow at
+   FAR no less than 50 percent of the                least 50 percent of the density (i.e.,
+   standards specified under subdivision (a) of      residential units) and residential FAR
+   Section 65912.157 and which includes sites        (i.e., residential square footage) allowed
+   with densities that cumulatively allow for at     under Section 65912.157, subdivision
+   least 75 percent of the aggregate density for     (a), and
+   the transit-oriented development zone
+                                                 • The TOD zone allows at least 75
+                                                     percent of the aggregate density (i.e.,
+Jenna Monterrosa, Principal City Planner
+Page 9 of 21
+
+
+              Statute Reference                             HCD Clarification
+    specified under subdivision (a) of Section        residential units) allowed under Section
+    65912.157.                                        65912.157, subdivision (a) for that TOD
+    - Government Code, § 65912.161, subd.             zone.
+    (b)(1)(B)(i)
+ 3 A site in a transit-oriented development        Site is in a TOD zone that meets both of
+   zone around a transit-oriented                  the following criteria:
+   development stop that is primarily              • The TOD zone is primarily a low-
+   comprised of a low-resource area which              resource area (i.e., land area), and
+   includes sites with densities that
+                                                   • The TOD zone allows at least 40
+   cumulatively allow for at least 40 percent of
+                                                       percent of the aggregate density (i.e.,
+   the aggregate density for the transit-
+                                                       residential units) allowed under Section
+   oriented development zone specified under
+                                                       65912.157, subdivision (a).
+   subdivision (a) of Section 65912.157.
+   - Government Code, § 65912.161, subd.
+   (b)(1)(B)(ii)
+ 4 A site in an area designated as low             Both of the following criteria are met:
+   resource on the most recently adopted           • Site is in a low-resource area, and
+   version of the opportunity area maps
+                                                   • Across all TOD zones in the
+   published by the California Tax Credit
+                                                       jurisdiction, the cumulative capacity
+   Allocation Committee and the department,
+                                                       (i.e., zoned maximum number of
+   and within a jurisdiction that cumulatively
+                                                       residential units and floor area square
+   allows for at least 50 percent of the total
+                                                       footage) is at least 50 percent of the
+   capacity for units and floor area as
+                                                       maximum effective SB 79 capacity
+   specified under Section 65912.157 across
+                                                       under Section 65912.157.
+   all transit-oriented development zones.
+                                                   Note that a jurisdiction utilizing this
+   - Government Code, § 65912.161, subd.
+                                                   temporary exemption criteria must account
+   (b)(1)(B)(iii)
+                                                   for the density and residential floor area
+                                                   allowed under Section 65912.157,
+                                                   subdivision (a) as well as the additional
+                                                   capacity provided for under Section
+                                                   65912.157, subdivision (e) (the adjacency
+                                                   intensifier).
+ 5 A site that is covered by a local transit-      Site is covered by an adopted TOD
+   oriented development alternative plan           alternative plan.
+   adopted by a local government.
+   - Government Code, § 65912.161, subd.
+   (b)(1)(C)
+Jenna Monterrosa, Principal City Planner
+Page 10 of 21
+
+
+ 6 Sites within a very high fire hazard severity    Site is in a very high fire hazard severity
+   zone, as determined by the Department of         zone:
+   Forestry and Fire Protection pursuant to         • As determined by the Department of
+   Section 51178, or within the state                  Forestry and Fire Protection pursuant to
+   responsibility area, as defined in Section          Government Code section 51178, or
+   4102 of the Public Resources Code.
+                                                    • Within the state responsibility area, as
+   - Government Code, § 65912.161, subd.               defined in Public Resources Code
+   (b)(1)(D)                                           section 4102.
+ 7 Sites that are vulnerable to one foot of sea     Site is vulnerable to one foot of sea level
+   level rise, as determined by the National        rise, as determined by any of the following:
+   Oceanic and Atmospheric Administration,          • National Oceanic and Atmospheric
+   the Ocean Protection Council, the United             Administration,
+   States Geological Survey, the University of
+                                                    • The Ocean Protection Council,
+   California, or a local government’s coastal
+   hazards vulnerability assessment.                • The United States Geological Survey,
+   - Government Code, § 65912.161, subd.            • The University of California, or
+   (b)(1)(E)                                        • A local government’s coastal hazards
+                                                        vulnerability assessment.
+ 8 Sites with a historic resource designated as Site contains a historic resource
+   of January 1, 2025, on a local register.     designated as of January 1, 2025, on a
+   - Government Code, § 65912.161, subd.        local register.
+   (b)(1)(F)
+
+
+
+5. When evaluating whether a site meets any of the criteria for temporary
+   exclusion via a temporary exclusion ordinance, should the City use the
+   effective SB 79 capacity or the residual SB 79 capacity?
+The City should use the effective SB 79 capacity (i.e., capacity after taking out exempt
+sites but not temporarily excluded sites) when doing this evaluation. The statute
+specifies that SB 79 provisions under section 65912.157 shall not apply to a site that
+meets “any” of the temporary exclusion site criteria, signifying that each site criterion
+listed under Government Code section 65912.161, subdivision (b)(1)(A) through (F)
+must be considered separately from the others. Moreover, the calculation would be
+unworkable if it used residual capacity, since the residual capacity is the result of
+subtracting the capacity of temporarily excluded sites.
+For example, if some sites in the jurisdiction are eligible for temporary exclusion due to
+location in a very high fire hazard severity zone per Government Code section
+65912.161, subdivision (b)(1)(D), the reduction in capacity resulting from these sites
+being temporarily excluded would not change the effective SB 79 density and residential
+floor area. Therefore, if the City seeks to temporarily exclude a site pursuant to
+Government Code section 65912.161, subdivision (b)(1)(A), that site must still permit at
+Jenna Monterrosa, Principal City Planner
+Page 11 of 21
+
+
+least 50 percent of the effective SB 79 density and residential floor area, including any
+capacity associated with temporarily excluded sites in very high hazard severity zones.
+
+6. When considering whether a TOD zone is primarily comprised of a low-
+   resource(s) area per Government Code section 65912.161, subdivision
+   (b)(1)(B)(ii), is the City required to consider the portion of land area that is
+   within another jurisdiction?
+While the TOD zone is defined as “the area within one-half mile of a TOD stop,”19 SB 79
+applies to a local government, and the temporarily excluded site itself must be within the
+local jurisdiction that is adopting a temporary exclusion ordinance. Therefore, the
+determination of whether a TOD zone is primarily comprised of low-resource areas does
+not need to include land area that is within another jurisdiction.
+
+7. If a temporarily excluded site is located in more than one TOD zone (i.e., within
+   one-half mile from multiple qualifying TOD stops), is the site also excluded
+   from any overlapping TOD zones?
+Yes, the temporary exclusion of SB 79 provisions applies to the “site,” 20 which would
+cover instances where the temporarily excluded site is within multiple overlapping TOD
+zones.
+Please note that, for sites located in both Tier 1 and Tier 2 TOD zones, the statute does
+not require that the criteria be met for both tiers in order to temporarily exclude the site.
+The statute simply specifies that SB 79 provisions under Section 65912.157 shall not
+apply to a site that meets “any” of the temporary exclusion site criteria. 21 Therefore, the
+City may temporarily exclude a site if it solely meets the lower Tier 2 TOD zone
+capacity.
+
+Industrial Employment Hubs and Low-Resource TOD Zones
+
+8. Will an industrial general plan land use designation and a land use element’s
+   reference to employment protection suffice to exempt an industrial
+   employment hub from SB 79 eligibility?
+To exempt an industrial employment hub, the City’s general plan as of January 1, 2025,
+must have identified a bounded area of at least 250 acres dedicated to promoting
+employment opportunities. 22 See also Row 2 of Table 2.
+
+9. To meet the minimum 250-acre requirement, can an industrial employment
+   hub include areas from more than one jurisdiction?
+
+
+
+
+19 Gov. Code, § 65912.156, subd. (m).
+20 Gov. Code, § 65912.161, subd. (b)(1).
+21 Id.
+22 Gov. Code, § 65912.160, subd. (e)(2).
+Jenna Monterrosa, Principal City Planner
+Page 12 of 21
+
+
+No. To meet the minimum 250 acres, the employment lands area must be as
+designated in “the jurisdiction’s” general plan, suggesting a singular general plan and
+not the combination of employment lands designations from multiple jurisdictions.
+
+10. What does the term “primarily” refer to under Government Code sections
+    65912.160, subdivision (e)(2) and 65912.161, subdivision (b)(1)(B)(ii)?
+For purposes of SB 79 implementation, “primarily” refers to a plurality (i.e., more than
+any other classification or designation) given that the contexts in which the term is used
+in the statute refer to more than two classifications or designations.
+The term “primarily” appears twice in SB 79, in the following contexts (emphasis added):
+   •   Exemption of Industrial Employment Hubs. Government Code section
+       65912.160, subdivision (e)(2) states: “A local government with at least 15 transit-
+       oriented development stops designates the area as an industrial employment
+       hub. An industrial employment hub shall be a contiguous area of at least 250
+       acres designated in the jurisdiction’s general plan on or before January 1, 2025,
+       as an employment lands area; the parcels within it shall be primarily dedicated to
+       industrial use as defined in paragraph (3) of subdivision (f) of Section 65912.121;
+       and housing shall not be a permitted use on any of the sites so excluded.”
+   •   Temporary exclusion of sites in low-resource TOD zones. Government Code
+       section 65912.161, subdivision (b)(1)(B)(ii) states: “A site in a transit-oriented
+       development zone around a transit-oriented development stop that is primarily
+       comprised of a low-resource area which includes sites with densities that
+       cumulatively allow for at least 40 percent of the aggregate density for the transit-
+       oriented development zone specified under subdivision (a) of Section
+       65912.157.”
+Regarding the exemption of industrial employment hubs, the term “primarily” refers to
+“parcels” within an industrial employment hub “area” so that the land area (typically
+calculated in acreage) dedicated to industrial use must exceed the land area dedicated
+to any other land use designations within the industrial employment hub. Other land use
+designations include, but may not be limited to, residential, mixed-use, commercial,
+open space, and public and institutional uses. 23
+
+
+Regarding the temporary exclusion of sites in primarily low-resource TOD zones, the
+term “primarily” specifies that the land area of the TOD zone is primarily designated as
+low resource on the most recently adopted version of the opportunity maps published by
+
+
+
+23 To demonstrate that an industrial employment hub is primarily dedicated to industrial
+
+use, HCD recommends jurisdictions include a summary table that bundles specific land
+use categories into the following broad classifications: Industrial, Residential, Mixed-Use
+Residential (including overlay zones that permit or conditionally permit residential),
+Commercial, Open Space, and Public and Institutional.
+Jenna Monterrosa, Principal City Planner
+Page 13 of 21
+
+
+the California Tax Credit Allocation Committee and HCD (i.e., more than moderate,
+high, or highest resource designations). 24
+
+TOD Alternative Plan
+Government Code section 65912.161, subdivisions (a) and (d) state:
+       “(a) For purposes of this section, ‘transit-oriented development alternative plan’
+       shall mean a plan adopted by the local agency via the adoption of the housing
+       element, a program to implement the housing element, the adoption of a specific
+       plan, a zoning overlay, or enactment of an ordinance; that brings the local
+       agency into compliance with this chapter and that incorporates all of the
+       following:”
+       “(d) Section 65912.157 shall not apply within a jurisdiction that has a local transit-
+       oriented alternative plan that has been approved by the department as satisfying
+       the requirements of this section in effect. The department’s approval pursuant to
+       this section shall be valid through the jurisdiction’s next amendment to the
+       housing element of its general plan.”
+A local government may adopt a TOD alternative plan in lieu of applying Government
+Code section 65912.157, but the TOD alternative plan must meet all statutory criteria for
+a TOD alternative plan (see Table 4 below). In other words, to meet the capacity criteria
+for a TOD alternative plan; a local government must first reference and analyze the
+units and residential floor areas provided for under section 65912.157, subdivisions
+(a)(3)-(6), (b), and (e). In addition, the capacity calculations shall include capacity,
+density, or floor area available under voluntary local housing incentive programs. 25
+An existing TOD ordinance, overlay zone, specific plan, or zoning incentive ordinance
+may also qualify as a TOD alternative plan if it meets all TOD alternative plan criteria, 26
+including review and approval by HCD. 27 Please note, HCD’s approval of a TOD
+alternative plan is valid only through the jurisdiction’s next housing element cycle, 28 thus
+requiring TOD alternative plans to be re-approved by HCD at the conclusion of each
+jurisdiction’s housing element cycle.
+
+
+
+
+24 Gov. Code, § 65912.156, subd. (j). The applicable maps can be found from the State
+
+Treasurer’s Office website here: https://www.treasurer.ca.gov/ctcac/opportunity.asp.
+25 Gov. Code, § 65912.161, subd. (a)(4).
+26 Gov. Code, § 65912.161, subd. (a)(5).
+27 Gov. Code, § 65912.161, subd. (d).
+28 Id. The date for the conclusion of a jurisdiction’s planning cycle is the due date for the
+
+next housing element revision which can be found at: https://www.hcd.ca.gov/housing-
+open-data-tools/housing-element-regional-housing-needs-determination-schedule.
+Jenna Monterrosa, Principal City Planner
+Page 14 of 21
+
+
+Table 4. TOD Alternative Plan - Redistribution of Capacity Criteria (Must meet all)
+                 Statute Reference                                HCD Clarification
+ 1 A local transit-oriented development              Across all TOD zones within the
+   alternative plan shall maintain at least the      jurisdiction: The net-zoned capacity (total
+   same total net-zoned capacity, in terms of        zoned residential units and residential floor
+   both total units and residential floor area, as   area minus existing residential units and
+   provided for in this chapter across all           residential floor area) must be the same or
+   transit-oriented development zones within         greater than the net residual SB 79
+   the jurisdiction.                                 capacity as provided for in the statute (total
+       (A) Net-zoned capacity in units shall be      residential units and residential floor area
+           measured by subtracting the current       allowed per Government Code 65912.157
+           number of units on the site from the      minus any exempt 29 and temporarily
+           number allowed by the applicable          excluded sites30 minus existing residential
+           development standards.                    units and residential floor area).
+       (B) Net-zoned capacity in floor area          For example (assuming no exemptions or
+           shall be measured by subtracting the      temporary exclusions apply): On a 0.5-acre
+           current developed floor area of the       (21,750 square feet) parcel located within
+           site from the amount allowed by the       200 feet of a Tier 1 TOD stop is an existing
+           applicable development standards.         multifamily residential building that contains
+   - Government Code, § 65912.161, subd.             25 units and 30,000 square feet of
+                                                     residential floor area.
+   (a)(1)
+                                                     • SB 79 density: 0.5-acre x 160 units/acre
+                                                         = 80 units
+                                                     • Net SB 79 density: 80 units – 25 units =
+                                                         55 units
+                                                     • SB 79 residential floor area: 21,780 sq.
+                                                         ft. x 4.5 FAR = 98,010 sq. ft.
+                                                     • Net SB 79 residential floor area: 98,010
+                                                         sq. ft. – 30,000 sq. ft. = 68,010 sq. ft.
+                                                     Therefore, the net-zoned capacity in the
+                                                     TOD alternative plan must allow at least 55
+                                                     units and 68,010 square feet of residential
+                                                     development.
+ 2 The plan shall not reduce the maximum             On each site: The zoned maximum density
+   allowed density for any individual site on        (i.e., greatest allowable number of
+   which the plan allows residential use by          residential units) in the TOD alternative plan
+   more than 50 percent below that permitted         cannot be less than 50 percent of the
+   under this chapter, except for sites meeting      maximum units allowed under SB 79, in
+   any of the following criteria:
+
+
+29 Gov. Code, § 65912.160, subd. (e).
+30 Gov. Code, § 65912.161, subd. (b).
+Jenna Monterrosa, Principal City Planner
+Page 15 of 21
+
+
+              Statute Reference                                  HCD Clarification
+    - Government Code, § 65912.161, subd.          either Tier 1 or Tier 2 TOD zones, with
+    (a)(2)                                         exceptions (see rows 5 through 8 below).
+ 3 The plan shall not reduce the capacity in       In each TOD zone: The zoned maximum
+   any transit-oriented development zone in        density (i.e., greatest number of residential
+   total units or residential floor area by more   units) and maximum allowable residential
+   than 50 percent.                                floor area in the TOD alternative plan
+   - Government Code, § 65912.161, subd.           cannot be less than 50 percent of the
+   (a)(3)                                          greatest number of units and maximum
+                                                   allowable residential floor area allowed
+                                                   under SB 79.
+ 4 A site’s maximum capacity counted toward        On each site: The TOD alternative plan
+   the plan shall not exceed 200 percent of the    may redistribute capacity from one site to
+   maximum density established under this          another, but the amount of density that a
+   chapter.                                        receiving “upzoned” site can count towards
+   - Government Code, § 65912.161, subd.           the plan is capped at 200 percent of the
+   (a)(4)                                          maximum density allowed under SB 79.
+ Sites that can be reduced by more than 50 percent of maximum density allowed under
+ SB 79. 31
+ 5 Sites within a very high fire hazard severity   Site Within Either a Tier 1 or Tier 2 TOD
+   zone, as determined by the Department of        Zone is in a very high fire hazard severity
+   Forestry and Fire Protection pursuant to        zone:
+   Section 51178, or within the state              • As determined by the Department of
+   responsibility area, as defined in Section         Forestry and Fire Protection pursuant to
+   4102 of the Public Resources Code.                 Government Code section 51178, or
+   - Government Code, § 65912.161, subd.           • Within the state responsibility area, as
+   (a)(2)(A)                                          defined in Public Resources Code
+                                                      section 4102.
+ 6 Sites that are vulnerable to one foot of sea    Site Within Either a Tier 1 or a Tier 2
+   level rise, as determined by the National       TOD Zone is vulnerable to one foot of sea
+   Oceanic and Atmospheric Administration,         level rise, as determined by any of the
+   the Ocean Protection Council, the United        following:
+   States Geological Survey, the University of     • National Oceanic and Atmospheric
+   California, or a local government’s coastal         Administration,
+   hazards vulnerability assessment.
+                                                   • The Ocean Protection Council,
+   - Government Code, § 65912.161, subd.
+   (a)(2)(B)                                       • The United States Geological Survey,
+                                                   • The University of California, or
+
+
+
+
+31 Gov. Code, § 65912.161, subd. (a)(2).
+Jenna Monterrosa, Principal City Planner
+Page 16 of 21
+
+
+                  Statute Reference                                 HCD Clarification
+                                                       •   A local government’s coastal hazards
+                                                           vulnerability assessment.
+ 7   Sites with a historic resource designated on      Site Within Either a Tier 1 or Tier 2 TOD
+     a local register, so long as sites excluded       Zone with a historic resource on a local
+     from the density requirements of this             register, if the cumulative land area of such
+     paragraph on that basis do not cumulatively       excluded sites does not exceed 10 percent
+     exceed 10 percent of the eligible area of         of the land area of the TOD zone in which
+     any transit-oriented development zone.            the site is located.
+     - Government Code, § 65912.161, subd.
+     (a)(2)(C)
+ 8   Sites within one-half mile of a Tier 2 transit-   All Other Sites Within a Tier 2 TOD Zone
+     oriented development stop shall not have a        Not Covered in Rows 5-7: Except that
+     density below 30 units per acre with a            those sites shall not have the maximum
+     residential floor area ratio of 1.0, except for   allowable density reduced below 30 units
+     sites specified in subparagraphs (A) to (C),      per acre or the maximum FAR reduced
+     and should be considered for attached             below 1.0. Such parcels should be
+     entry-level owner-occupied housing                considered for attached units serving first-
+     development opportunities.                        time homebuyers.
+     - Government Code, § 65912.161, subd.
+     (a)(2)(D)
+
+11. Can a TOD Alternative Plan redistribute residential density and floor area
+    between various qualifying TOD zones?
+Yes, provided that the local government demonstrates the zoning satisfies all the TOD
+alternative plan requirements under Government Code section 65912.161, subdivisions
+(a)(1)-(4), including, but not limited to, the zoned maximum density and residential floor
+area in each TOD zone is at least 50 percent of the maximum density and residential
+floor area allowed under SB 79. 32
+
+12. Does a TOD alternative plan need to offset the capacity of sites in the very
+    high fire hazard severity zone (VHFHSZ) that are eligible for specified density
+    reductions under Government Code section 65912.161(a)(2)(A)?
+Yes, the net zoned capacity in the TOD alternative plan must still maintain at least as
+many residential units and at least as much residential floor area across all TOD zones
+within the jurisdiction as net residual SB 79 capacity would have allowed, pursuant to
+Government Code section 65912.161, subdivision (a)(1).
+In addition, Government Code section 65912.161, subdivision (a)(4) states, in part:
+
+
+
+
+32 Gov. Code, § 65912.161, subd. (a)(3).
+Jenna Monterrosa, Principal City Planner
+Page 17 of 21
+
+
+       “Any site excluded from the minimum density requirements of subparagraphs (A)
+       to (C) of paragraph (2) shall not be counted toward the plan’s capacity.”
+Therefore, if the density on a site that qualifies for specified density reductions pursuant
+to Government Code section 65912.161, subdivisions (a)(2)(A)-(C) is reduced by more
+than 50 percent of the standards specified under Government Code 65912.157,
+subdivision (a), then the site shall not be counted towards the TOD alternative plan’s
+capacity. 33 “Any site excluded from the minimum density requirements” refers to the
+qualifying sites where the density may be reduced by more than 50 percent of effective
+SB 79 standards. “Shall not be counted towards the plan’s capacity” refers to the
+inability to count any remaining density on such sites towards meeting the TOD
+alternative plan capacity.
+Also note, Government Code section 65912.161, subdivision (a)(3) states that the “plan
+shall not reduce the capacity in any transit-oriented development zone in total units or
+residential floor area by more than 50 percent” and does not provide any exceptions for
+sites in a VHFHSZ.
+
+13. Can a local jurisdiction modify any project eligibility requirements as part of
+    its TOD alternative plan?
+A housing development project proposed pursuant to a TOD alternative plan is not
+subject to Government Code section 65912.157 and the project eligibility requirements
+therein. 34 Nevertheless, other state housing laws apply, including, but not limited to, the
+Housing Accountability Act (Gov. Code, § 65589.5), 35 State Density Bonus Law (Gov.
+Code, §§ 65915-65918), and the demolition and replacement provisions of the Housing
+Crisis Act (Gov. Code, § 66300.5-66300.6). In addition, local rules, regulations,
+requirements, and policies may apply, such as inclusionary zoning and local anti-
+displacement provisions.
+Please note, while the local ordinance may include objective development standards
+that do not match the development standards under Government Code section
+65912.157, the applicable local development standards, conditions, and policies applied
+to a project cannot physically preclude the densities and floor area provided for under
+the TOD alternative plan. 36 In addition, pursuant to the Housing Accountability Act,
+nothing in the local ordinance “shall limit a project’s eligibility for a density bonus,
+incentive, or concession, or waiver or reduction of development standards and parking
+ratios, pursuant to Section 65915.”37
+
+
+
+
+33 Gov. Code, § 65912.161, subd. (a)(4).
+34 Gov. Code, § 65912.161, subds. (b)(1)(C), (d).
+35 See also Gov. Code, § 65912.156, subd. (g).
+36 Gov. Code, § 65912.160, subd. (c)(1).
+37 Gov. Code, § 65589.5, subd. (f)(1).
+Jenna Monterrosa, Principal City Planner
+Page 18 of 21
+
+
+Ordinances to Exempt, Temporarily Exclude, and Redistribute Sites
+
+14. Should sites that are not eligible for SB 79 (e.g., zoned exclusively for
+    industrial use) be excluded from the overall SB 79 capacity?
+Yes, sites not eligible for SB 79 should be excluded from the overall SB 79 capacity
+because the sites where SB 79 does not apply are not subject to the density and
+development standards specified in Government Code section 65912.157. 38
+
+15. Can a jurisdiction adopt an ordinance to exempt and temporarily exclude a
+    subset of sites within a TOD zone per Government Code sections 65912.160,
+    subdivision (e) and 65912.161, subdivision (b), respectively, and redistribute
+    SB 79 capacity per Government Code section 65912.161, subdivision (a) for
+    the remaining non-exempt and non-temporarily excluded parcels in the TOD
+    zone?
+SB 79 does not preclude local jurisdictions from adopting and enacting:
+   •   An ordinance to exempt sites where there is no walking path of less than one
+       mile from the TOD stop, pursuant to Government Code section 65912.160,
+       subdivision (e)(1);
+   •   An ordinance to exempt sites within industrial employment hub areas, pursuant
+       to Government Code section 65912.160, subdivision (e)(2);
+   •   An ordinance to temporarily exclude certain qualifying sites from the provisions of
+       SB 79, pursuant to Government Code section 65912.161, subdivision (b);
+   •   A TOD alternative plan to redistribute net SB 79 capacity, pursuant to
+       Government Code section 65912.161, subdivision (a), or
+   •   An ordinance and TOD alternative plan that invokes all the above.
+As detailed in Table 2, if a local government exempts sites via enactment of an
+ordinance, 39 then a concurrently or subsequently adopted TOD alternative plan would
+not be required to redistribute the capacity of those exempted sites where SB 79 does
+not apply.
+Similarly, if a local government temporarily excludes sites from the provisions of
+Government Code section 65912.157, 40 then a concurrently or subsequently adopted
+TOD alternative plan would not be required to redistribute the capacity of those
+temporarily excluded sites where Government Code section 65912.157 does not apply.
+However, a valid TOD alternative plan must be amended in the 7th cycle Housing
+Element upon the “expiration” of the temporarily excluded sites.
+
+
+
+
+38 Gov. Code, § 65912.157, subd. (a).
+39 Gov. Code, § 65912.160, subd. (e).
+40 Gov. Code, § 65912.161, subd. (b)(1).
+Jenna Monterrosa, Principal City Planner
+Page 19 of 21
+
+
+16. If a temporary exclusion ordinance or a TOD alternative plan has been adopted
+    and approved by HCD, what happens when additional SB 79-eligible TOD
+    stops are added?
+If the MPO updates the applicable SB 79 map to include any additional TOD stops41
+beyond those that were in effect and considered by the local government when adopting
+a temporary exclusion ordinance or a TOD alternative plan, and the site(s) are not
+otherwise exempt from SB 79 under Government Code, 65912.160, subdivision (e),
+then the following apply:
+•   Temporary Exclusion Ordinance. Any site within a TOD zone that is newly eligible
+    for SB 79 due to a subsequently added TOD stop on the MPO map would not be
+    excluded from SB 79 until the local government amends and re-adopts an HCD-
+    approved temporary exclusion ordinance to account for newly eligible sites. For any
+    existing temporarily excluded sites identified in the temporary exclusion ordinance
+    adopted and enacted under Government Code section 65912.161, subdivision (b),
+    the sites would remain excluded from the provisions of SB 79 until one year
+    following the adoption of the 7th cycle housing element because the statute specifies
+    that “Section 65912.157 shall not apply to any of the following [temporarily excluded
+    sites] for which the local government has adopted an ordinance in accordance with
+    Section 65912.160 indicating the site’s exclusion.” 42
+•   TOD Alternative Plan. Per Government Code section 65912.161, subdivision (d),
+    “Section 65912.157 shall not apply within a jurisdiction that has a local transit-
+    oriented alternative plan that has been approved by the department as satisfying the
+    requirements of this section in effect.” Therefore, no new sites would qualify for SB
+    79 where a jurisdiction has adopted a TOD alternative plan that has been approved
+    by HCD. Note, however, that HCD’s approval of the TOD alternative plan is only
+    valid through the jurisdiction’s next amendment to the housing element 43 and any
+    subsequently adopted TOD alternative plan must consider the eligible TOD zones
+    and qualifying sites at the time of local adoption.
+
+17. Does the California Environmental Quality Act (CEQA) exemption specified in
+    Government Code section 65912.160, subdivision (c)(2) apply to any ordinance
+    that is adopted pursuant to Government Code section 65912.160 (including a
+    temporary exclusion ordinance and zoning ordinance as part of a TOD
+    alternative plan)?
+
+
+
+41 Government Code section 65912.156, subdivision (p) specifies that only Tier 1 TOD
+
+stops would be eligible to be added to a subsequently created MPO SB 79 map, and
+bus service stops remain ineligible for designation as a TOD stop in counties that qualify
+as an urban transit county after July 1, 2026. “Urban transit county” is as defined in
+Government Code section 65912.156, subdivision (q) to mean “a county with more than
+15 passenger rail stations.
+42 Gov. Code, § 65912.161, subd. (b)(1).
+43 Gov. Code, § 65912.161, subd. (d).
+Jenna Monterrosa, Principal City Planner
+Page 20 of 21
+
+
+Yes, any ordinance to enact the provisions of SB 79, including a temporary exclusion
+ordinance and a TOD alternative plan, is not a project under CEQA pursuant to
+Government Code section 65912.160, subdivision (c)(2).
+For more information regarding the procedures and implementation of CEQA, please
+see the guidelines and resources available at the Governor’s Office of Land Use and
+Climate Innovation: https://lci.ca.gov/ceqa/.
+
+HCD Review and Enforcement
+
+18. Is there a presumed compliance assumption upon adoption and submission
+    or is the compliance only provided upon receipt of a compliance letter from
+    HCD?
+A local jurisdiction’s SB 79 ordinance or TOD alternative plan takes effect upon
+enactment by the local legislative body; however, the ordinance or plan is considered
+substantially compliant with state law only upon issuance of HCD’s letter of written
+findings confirming substantial compliance.
+HCD has up to 90 days, with one optional 30-day extension, to determine whether the
+enacted SB 79 ordinance or TOD alternative plan substantially complies with SB 79. At
+the end of HCD’s review, the local jurisdiction will receive a letter in writing from HCD
+that determines whether the ordinance is substantially compliant with state law. If HCD
+does not provide written findings to the local government within the 90- to 120-day
+review period, then the ordinance is automatically deemed compliant for the limited
+purpose of assessing penalties. 44
+
+19. On what date does HCD’s review period begin following enactment of an SB 79
+    ordinance or TOD alternative plan? Does the ordinance or TOD alternative plan
+    have to be in effect?
+Per Government Code section 65912.160, subdivision (d)(2), an adopted ordinance
+must be submitted to HCD within 60 calendar days of enactment. HCD’s review begins
+on the date that the adopted and enacted ordinance is submitted by the local jurisdiction
+to HCD. 45
+The ordinance or TOD alternative plan does not have to be in effect when submitted to
+HCD for review; the local legislative body has the option to set an effective date of
+July 1, 2026, or later. SB 79 provisions and standards would apply on July 1, 2026, if a
+local ordinance or TOD alternative plan has not otherwise taken effect.
+
+20. If the City submits an ordinance or TOD alternative plan that is later found to
+    be out of compliance by HCD, does Government code section 65912.157 go
+    into effect immediately until amendments are made to satisfy HCD’s findings?
+
+
+
+44 Gov. Code, § 65912.160, subd. (d)(3).
+45 Gov. Code, § 65912.160, subd. (d)(2).
+Jenna Monterrosa, Principal City Planner
+Page 21 of 21
+
+
+After receiving a letter finding that an ordinance or TOD alternative plan does not
+comply with SB 79, the local jurisdiction must either amend the ordinance or provide
+findings that explain the reasons the local jurisdiction believes the ordinance or plan
+complies with the statute despite HCD’s findings within 60 days. 46 If the local jurisdiction
+fails to amend the ordinance in accordance with HCD’s findings or its findings fail to
+adequately explain why the ordinance complies, HCD will issue a Notice of Violation
+and may refer the matter to the California Office of the Attorney General for further
+enforcement. 47
+If HCD finds that an ordinance or TOD alternative plan does not comply with SB 79,
+HCD urges local jurisdictions to repeal or delay implementation of the ordinance or plan
+until it is compliant, and to instead apply Government Code section 65912.157. This will
+avoid confusion and the risk of unlawfully denying proposed SB 79 projects. Such
+denials could result in penalties pursuant to Government Code section 65912.157,
+subdivision (m).
+Please note, a qualifying housing project within a TOD zone that submits while a
+jurisdiction’s ordinance is found to be out of compliance must be afforded the full weight
+of the statute.
+
+Conclusion
+HCD appreciates the hard work involved in preparing a local SB 79 ordinance and is
+committed to assisting the City in addressing all statutory requirements to implement
+SB 79.
+As the State of California remains in a housing crisis and the provision of much-needed
+housing, especially affordable housing, continues to be a priority, HCD encourages the
+City to apply the provisions of SB 79 to the greatest extent possible to facilitate a higher
+capacity of residential development near transit. If you have any questions or need
+additional technical assistance, please contact Grace Wu at grace.wu@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Housing Accountability Unit Chief
+
+
+
+
+46 Gov. Code, § 65912.160, subds. (d)(4), (5).
+47 Gov. Code, § 65912.160, subd. (d)(6).

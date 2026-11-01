@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021058",
+  "case_number": "HAU0003027",
+  "letter_date": "2025-06-25",
+  "jurisdiction": "Mono County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Mono County HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mono-county-loi-060225.pdf",
+  "hcd_letter": "Mono County Letter of Inquiry 06/25/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mono-county-loi-060225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 164295,
+  "text_chars": 5039,
+  "text_empty": false
+}

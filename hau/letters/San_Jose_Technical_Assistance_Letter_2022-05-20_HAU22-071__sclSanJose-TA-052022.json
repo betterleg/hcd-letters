@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010709",
+  "case_number": "HAU22-071",
+  "letter_date": "2022-05-20",
+  "jurisdiction": "San Jose",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(b) | 65915(e)",
+  "n_statutes": "2",
+  "keywords": "facilitate | ground floor commercial | mixed use | no increase in density",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sclSanJose-TA-052022.pdf",
+  "hcd_letter": "San Jose Technical Assistance Letter 05/20/2022",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sclSanJose-TA-052022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 231829,
+  "text_chars": 6593,
+  "text_empty": false
+}

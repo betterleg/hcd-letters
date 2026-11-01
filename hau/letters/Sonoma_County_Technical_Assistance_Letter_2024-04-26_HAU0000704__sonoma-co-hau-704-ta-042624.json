@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018322",
+  "case_number": "HAU0000704",
+  "letter_date": "2024-04-26",
+  "jurisdiction": "Sonoma County",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65589.5(d)(5) | 65589.5(h)(3) | 65915(d) | 65915(e)(1) | 65915(f)(2) | 65915(o)(8)",
+  "n_statutes": "6",
+  "keywords": "Preliminary application | SDBL concession | base density | inclusionary zoning",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sonoma-co-hau-704-ta-042624.pdf",
+  "hcd_letter": "Sonoma County Technical Assistance Letter 04/26/2024",
+  "housing_law": "Housing Accountability Act, Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sonoma-co-hau-704-ta-042624.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 173630,
+  "text_chars": 9292,
+  "text_empty": false
+}

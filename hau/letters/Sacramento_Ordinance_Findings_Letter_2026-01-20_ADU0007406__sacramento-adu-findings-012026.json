@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024040",
+  "case_number": "ADU0007406",
+  "letter_date": "2026-01-20",
+  "jurisdiction": "Sacramento",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Front Setbacks | Multifamily unit allowance | Street side setbacks | Unit combination | owner occupancy",
+  "n_keywords": "5",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/sacramento-adu-findings-012026.pdf",
+  "hcd_letter": "Sacramento Ordinance Findings Letter 01/20/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/sacramento-adu-findings-012026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 222132,
+  "text_chars": 8515,
+  "text_empty": false
+}

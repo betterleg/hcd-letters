@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027530",
+  "case_number": "HAU0003614",
+  "letter_date": "2026-10-13",
+  "jurisdiction": "Palo Alto",
+  "letter_type": "SB 79 Ordinance/Alternative Plan Findings Letter",
+  "housing_laws": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "statutes": "65912.157(a) | 65912.160(c)(1) | 65912.160(d)(3)(A) | 65912.161(b)(1) | 65912.161(b)(1)(A) | 65912.161(b)(1)(F)",
+  "n_statutes": "6",
+  "keywords": "SB 79 Ordinance | historic resources",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/3a65337ffb485350dcacffa405efdc94",
+  "hcd_letter": "Palo Alto SB 79 Ordinance/Alternative Plan Findings Letter 10/13/2026",
+  "housing_law": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/3a65337ffb485350dcacffa405efdc94",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 220033,
+  "text_chars": 9244,
+  "text_empty": false
+}

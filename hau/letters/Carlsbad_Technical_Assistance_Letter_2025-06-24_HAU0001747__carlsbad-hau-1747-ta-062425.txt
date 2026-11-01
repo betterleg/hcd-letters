@@ -1,0 +1,184 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400, Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 24, 2025
+
+
+
+         Amanda Mills, Director of Housing and Homeless Services
+         City of Carlsbad
+         1635 Faraday Ave.
+         Carlsbad, CA 92008
+
+         Dear Amanda Mills:
+
+         RE: City of Carlsbad – Housing Crisis Act, Accessory Dwelling Unit Replacement
+             Units – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the application of the Housing Crisis Act
+         (HCA) of 2019 1 to a project located at 3408 Madison St./735 Chestnut Ave. The
+         purpose of this letter is to provide technical assistance (TA) to the City of Carlsbad
+         (City) to clarify that an accessory dwelling unit (ADU) cannot be used as a replacement
+         unit since the project is a for-sale development proposal. This letter also further
+         expands upon previous TA letters HCD issued on the topic of replacement units to the
+         City of San Jose in 2024 to provide guidance on the interaction between ADU Law and
+         the replacement requirement in the HCA. 2
+
+         Background
+
+         HCD understands that the City has received a development application for a residential
+         project that proposes demolishing a unit occupied by a lower-income household.
+         Because the unit proposed to be demolished is occupied by a lower-income household,
+         the unit meets the definition of a “protected” unit 3 and must be replaced by the applicant
+         pursuant to the HCA. 4 HCD understands that the proposed development will construct
+         nine new units across three parcels. Each parcel would be developed with a residential
+         structure containing three units: a primary single-family unit, an attached ADU, and an
+         attached junior accessory dwelling unit (JADU). HCD additionally understands that the
+
+
+1 Gov. Code, § 66300 et. seq.
+2 HCD, Letter of Technical Assistance Regarding ADU Replacement Units for the City of
+San Jose, October 16, 2024, available at
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sanjose-
+hau-1053-ta-10162024.pdf
+3 Gov. Code § 66300.5, subd. (h)(3).
+4 Gov. Code § 66300.6, subd. (b)(1)(A).
+Amanda Mills, Director of Housing and Homeless Services
+Page 2
+
+
+
+proposed development is a for-sale project, the proposed single-family homes would be
+sold to private individual owners, and that the applicant does not intend on holding the
+units for rent.
+
+Analysis
+
+The City submitted the following question to HCD:
+
+Can the project designate one of the ADUs as a rental, deed-restricted, low-
+income unit with a 55-year affordability covenant to satisfy the replacement
+requirement for protected units pursuant to the HCA and State Density Bonus
+Law (SDBL)?
+
+In summary, the answer is “no.” As explained in a previous TA letter provided to the City
+of San Jose by HCD, 5 replacement units must be for sale if the proposed development
+is a for-sale development. The HCA refers to the SDBL 6 to define how demolished
+protected units are to be replaced. The SDBL provides that if the proposed project
+consists of for-sale units, the units replaced shall also be provided as for-sale units. 7
+
+Additionally, an ADU cannot be used as a for-sale replacement unit since the City of
+Carlsbad has not adopted an ordinance pursuant to Government Code section 66342 to
+facilitate the separate sale or conveyance of an ADU to individual buyers. 8
+
+Finally, JADUs also cannot be used as a for-sale replacement unit, since ADU Law
+prohibits the conveyance of JADUs separate from the primary unit. 9 As explained in
+another TA letter from HCD to the City of San Jose, HCD does not recommend that
+JADUs be used as replacement units for the purpose of the HCA, even if the proposed
+development did not consist of for-sale units. 10
+
+
+
+
+5 HCD, Letter of Technical Assistance Regarding ADU Replacement Units for the City of
+
+San Jose, October 16, 2024, available at
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sanjose-
+hau-1053-ta-10162024.pdf
+6 Gov. Code, § 66300.5, subd. (i)(1).
+7 Gov. Code, § 65915, subd. (c)(3)(B)(ii)-(C)(i) (See final sentences).
+8 See HCD, Letter of Technical Assistance Regarding ADU Replacement Units for the
+
+City of San Jose, October 16, 2024, pg. 3.
+9 Gov. Code, § 66333, subd. (c)(1).
+10 HCD, Letter of Technical Assistance Regarding ADU Replacement Units for the City
+
+of San Jose, December 11, 2024, page 2, available at
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sanjose-
+hau1347-ta-jadu-replacement-12112024.pdf
+Amanda Mills, Director of Housing and Homeless Services
+Page 3
+
+
+
+
+Determining the tenure of the proposed development
+
+As previously discussed, the HCA’s replacement requirement changes depending on
+whether the proposed development is for-sale units. There is no limitation on the tenure
+status (for-sale or rental) of replacement units for a development of rental units.
+However, the SDBL provides that if the proposed development is for-sale, the units
+replaced shall also be provided as for-sale units. Government Code section 65915,
+subdivisions (c)(3)(B)(i) and (ii) state:
+
+      “If the proposed development is for-sale units, the units replaced shall be subject
+      to paragraph (2) [of subdivision (c)].
+
+Subdivision (c), paragraph (2)(A) states:
+
+      “An applicant shall agree to ensure ... that a for-sale unit ... meets one of the
+      following requirements:
+
+      (i) The unit is initially sold to and occupied by a person or family of very low, low,
+          or moderate income, as required, and it is offered at an affordable housing
+          cost ... and is subject to an equity sharing agreement.
+
+      (ii) If the unit is not purchase by an income-qualified person or family within 180
+           days after the issuance of the certificate of occupancy, the unit is purchased
+           by a qualified nonprofit housing corporation ....”
+
+HCD recognizes the nuance in determining whether a project consists of for-sale units
+for the purpose of the replacement requirement in the HCA and the SDBL. There is no
+single methodology generally available to determine whether a project is a for-sale
+development for the purpose of the HCA replacement requirement. However, a project
+does not need to have every unit be separately conveyed for the project to be a for-sale
+development. In the case of the subject proposed development, three lots – each with a
+primary unit, ADU, and JADU – are planned to be developed and sold to individual
+private property owners.
+
+HCD understands that the City considers the proposed project located at 3408 Madison
+St./735 Chestnut Ave a for-sale project. Submitted documents also support this
+conclusion. A site plan shared with HCD depicts the three parcels intended to be
+conveyed to three individual private owners as indicated by landscape maintenance and
+responsibility areas designated for each parcel’s property owner. Given the City’s
+understanding of the proposed development and application materials for the proposed
+development located at 3408 Madison St./735 Chestnut Ave, HCD concurs with the City
+that the proposed development is a for-sale project. Because the proposed
+development is a for-sale project, the replacement unit must be offered at an affordable
+sale price pursuant to Government Code section 65915, subdivision (c)(2).
+Amanda Mills, Director of Housing and Homeless Services
+Page 4
+
+
+
+Conclusion
+
+As discussed above, the replacement unit must not be a JADU or ADU, as the City
+does not have a separate conveyance ordinance for ADUs. Additionally, JADUs cannot
+be separately conveyed. Finally, HCD understands that the protected unit proposed to
+be demolished is a single-family home. Because of this, the replacement unit must meet
+the definition of “comparable unit” pursuant to Government Code section 66300.6,
+subdivision (b)(4)(C).
+
+HCD reminds the City of its obligations to uphold the replacement requirement for
+protected units in the HCA. HCD remains committed to supporting the City in facilitating
+housing at all income levels and hopes the City finds this clarification helpful. If you
+have questions or need additional information, please contact Brandon Yung at
+brandon.yung@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability

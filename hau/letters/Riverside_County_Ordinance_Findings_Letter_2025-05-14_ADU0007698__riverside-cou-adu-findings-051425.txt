@@ -1,0 +1,292 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         May 14, 2025
+
+
+
+         John Hildebrand, Director
+         Planning Department
+         County of Riverside
+         4080 Lemon St., 12th Floor,
+         Riverside, CA 92501
+
+         Dear John Hildebrand:
+
+         RE: Review of Riverside County’s Accessory Dwelling Unit (ADU) Ordinance
+            under State ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Thank you for submitting the County of Riverside (County) ADU Ordinance No. 348
+         (Ordinance), adopted April 28, 2023, to the California Department of Housing and
+         Community Development (HCD). The Ordinance was received on February 4, 2025.
+         HCD has reviewed the Ordinance and submits these written findings pursuant to
+         Government Code section 66326, subdivision (a). HCD finds that the Ordinance fails to
+         comply with State ADU Laws in the manner noted below. Pursuant to Government
+         Code section 66326, subdivision (b)(1), the County has up to 30 days to respond to
+         these findings. Accordingly, the County must provide a written response to these
+         findings no later than June 13, 2025.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law as follows:
+
+            1. Statutory Numbering - The Ordinance contains several references to code
+               sections that were deleted by SB 477, effective March 25, 2024. These include
+               Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+               these sections were relocated to Government Code, Title 7, Division 1, Chapter
+               13 (sections 66310-66342, see Enclosure). The County must amend the
+               Ordinance to refer to the correct Government Code sections.
+
+            2. Senate Bill (SB) 1211 (Chapter 296, § 3, Statutes of 2024) – As of January 1,
+               2025, the Legislature changed Government Code section 66323. Subdivision
+               (a)(4)(A)(ii) and (iii), now allows for the following:
+                       ο (ii) On a lot with an existing multifamily dwelling, not more than eight
+                         detached accessory dwelling units. However, the number of accessory
+      John Hildebrand, Director
+      Page 2
+
+
+                   dwelling units allowable pursuant to this clause shall not exceed the
+                   number of existing units on the lot.
+
+                ο (iii) On a lot with a proposed multifamily dwelling, not more than two
+                  detached accessory dwelling units.
+
+         3. Assembly Bill (AB) 2533 (Chapter 834, Statutes of 2024) - As of January 1, 2025,
+            there are changes to Government Code section 66332. Subdivisions (a) and (b)
+            were changed and subdivisions (d) – (f) were added. Changes include permitting
+            previously unpermitted ADUs, adding the same protections for JADUs, and
+            setting additional requirements for local agencies. The County should review
+            these new requirements and adjust any related ordinances to comply with State
+            ADU Law.
+
+         4. Section 19.801 – Applicability to Section 66323 ADUs – The Ordinance states
+            that, “This article shall not apply to [ADUs] and [JADUs] that meet the
+            requirements set forth in…” what is now Government Code section 66323. The
+            Ordinance further states that such ADUs “…shall be approved ministerially,
+            pursuant to the process and requirements set forth in that section.” While this
+            section appears to comply with State ADU Law, many of the County’s
+            requirements in the Ordinance nonetheless appear to apply to 66323 ADUs.
+            HCD notes that Sections Section 19.803 B 19.805 A.1., 19.807 B., 19.807 C.1.,
+            19.807 C.2, and 19.807 D.1. refer entirely or in part to 66323 ADUs and JADUs.
+            The County should ensure that the portions of its ordinance intended to apply to
+            66323 ADUs and JADUs are explicitly distinguished from the portions of its
+            ordinance covering ADUs not constructed under Section 66323.
+
+         5. Section 19.802 A.1. – ADU Definition – The Ordinance states that “additional
+            residential accommodations,” including an ADU, “…may be an efficiency unit as
+            defined in section 17958.1 of the Health and Safety Code.” However,
+            Government Code section 66313, subdivision (a), requires that an ADU also
+            include “A manufactured home, as defined in Section 18007 of the Health and
+            Safety Code.” The County’s Ordinance excludes reference to manufactured
+            homes. Therefore, the County must amend the Ordinance to provide for
+            manufactured homes to be used as ADUs. 1
+
+         6. Section 19.802 B.2. – Detached ADUs – The Ordinance states, in part, that a
+            detached ADU shall not be attached to the primary dwelling “or any other
+            structure.” However, Government Code section 66314, subdivision (d)(3) only
+            requires detached ADUs be “…detached from the proposed or existing primary
+            dwelling and located on the same lot as the proposed or existing primary
+            dwelling, including detached garages …” and not detached from other
+
+1 The County Code routinely refers to “additional residential accommodation” to include ADUs and
+
+JADUs.
+John Hildebrand, Director
+Page 3
+
+
+     structures. An ADU can be converted from a detached garage or attached to it,
+     horizontally or vertically. Therefore, the County must remove the phrase “or any
+     other structure” from the Ordinance.
+
+  7. Section 19.802 B.2. – Mobilehomes As ADUs – The Ordinance states that
+     “Except for Guest Quarters, a detached additional residential accommodation
+     may be a mobilehome or a manufactured home.” (Emphasis added). However,
+     Government Code section 66313, subdivision (a), defines an ADU as being a
+     manufactured home pursuant to Health and Safety Code section 18007, which
+     includes a variety of dwelling types. Mobilehomes were built before June 15,
+     1976, and manufactured homes are built after that date. The statute specifically
+     lists manufactured homes, but not mobilehomes, as an allowable ADU type.
+     Therefore, the County must remove mobilehomes as an allowable ADU type.
+
+  8. Section 19.803 A.1. – Site Condition Exemptions – The Ordinance states that
+     additional residential accommodations, including ADUs, “…shall not be permitted
+     on lots with a dwelling(s) that does not have all required building permits.”
+     However, Government Code section 66322, subdivision (b), states, “The local
+     agency shall not deny an application for a permit to create an accessory dwelling
+     unit due to the correction of nonconforming zoning conditions, building code
+     violations, or unpermitted structures that do not present a threat to public health
+     and safety and are not affected by the construction of the accessory dwelling unit.”
+     Therefore, the County must amend its ordinance to clarify that an ADU permit
+     may not be denied unless there is a threat to public health and safety and the
+     unpermitted structure is affected by the construction of the ADU.
+
+  9. Section 19.803 A.2. – Designated Areas – The Ordinance states that additional
+     residential accommodations, “…shall not be permitted on lots that are
+     constrained by water availability, water quality or sewage disposal or other
+     public health and safety concerns.” However, Government Code section 66314,
+     subdivision (a), requires local agencies to “Designate areas within the
+     jurisdiction of the local agency where accessory dwelling units may be
+     permitted. The designation of areas may be based on the adequacy of water
+     and sewer services and the impact of accessory dwelling units on traffic flow
+     and public safety.” The designation of areas must be objective and the impact of
+     ADU development substantiated with findings. Local development standards
+     provided by the Ordinance pursuant to Government Code section 66314 may
+     not preclude an ADU that complies with the requirements of Government Code
+     section 66323. Therefore, the County must properly designate areas as
+     indicated, provide findings for those designations, and must ensure it is clear
+     that the development of units described in Government code section 66323 are
+     not precluded in the designated areas.
+      John Hildebrand, Director
+      Page 4
+
+
+         10. Section 19.803 A.2. – Development Moratoriums – The Ordinance prohibits
+             ADUs in areas that, “include those areas where a development moratorium is
+             imposed.” Moratoria must be designated based on specific areas and pursuant
+             to Government Code section 66300, subdivision (b)(1)(B)(ii), affected agencies
+             cannot enforce a moratorium that would limit housing development until it has
+             submitted the ordinance to and received approval from HCD. Conditions for
+             imposing a moratorium, or similar restrictions on housing development, must
+             demonstrate “an imminent threat to the health and safety of persons residing in,
+             or within the immediate vicinity of, the area subject to the moratorium” 2. HCD
+             understands that there are currently no moratoria in place and the City is in the
+             process of revising its ordinance. HCD encourages the City to review the
+             Housing Accountability Act and ensure that its amended ordinance complies
+             with all applicable housing laws.
+
+        11. Section 19.804 C. – Application Processing – The Ordinance states that,
+            “Applications for an ADU or Junior ADU shall be acted upon within sixty (60)
+            days of the application being submitted to the County….” However, Government
+            Code section 66317 requires that a local agency approve or deny an ADU or
+            JADU application, within 60 days of receiving a completed application. The
+            County’s Ordinance is broader than State ADU Law allows in approving and
+            denying ADU and JADU applications and thus more restrictive. Therefore, the
+            County must amend the Ordinance to read “approve or deny” instead of “acted
+            upon”.
+
+        12. Section 19.807 C.2. – Front Setbacks – The Ordinance requires “Front
+            setbacks” pursuant to “the applicable zoning” for the lot. However, Government
+            Code sections 66321, subdivision (b)(3) and Government Code section 66323,
+            subdivision (a), require local agencies to approve ADUs regardless of front
+            setback requirements, when certain conditions are met. The Ordinance does not
+            make the required exceptions from front setback requirements. Therefore, the
+            City must amend the Ordinance to exempt ADUs meeting the criteria of sections
+            66321 and 66323 from front setback requirements.
+
+        13. Section 19.807 D.3. – JADU Floor Area – The Ordinance states, “The maximum
+            floor area shall not exceed fifty percent (50%) of the primary dwelling’s floor
+            area.” However, there are no such limitations on JADUs in State ADU Law. The
+            County’s limitation on floor area exceeds the standards applicable to JADUs and
+            must be removed from the Ordinance.
+
+        14. Section 19.807 E.2. – Height – The Ordinance incorrectly limits the height of
+            ADUs and JADUs to either one story or “no greater than sixteen (16) feet.”
+            However, Government Code section 66321, subdivision (b)(4), provide for
+            height maximums as follows:
+
+2 Gov. Cod, § 66300, subd. (b)(1)(B)(i).
+John Hildebrand, Director
+Page 5
+
+
+ 15. “(A) A height of 16 feet for a detached accessory dwelling unit on a lot with an
+     existing or proposed single family or multifamily dwelling unit. (B) A height of 18
+     feet for a detached accessory dwelling unit on a lot with an existing or proposed
+     single family or multifamily dwelling unit that is within one-half of one mile
+     walking distance of a major transit stop or a high-quality transit corridor, as
+     those terms are defined in Section 21155 of the Public Resources Code. A local
+     agency shall also allow an additional two feet in height to accommodate a roof
+     pitch on the accessory dwelling unit that is aligned with the roof pitch of the
+     primary dwelling unit. (C) A height of 18 feet for a detached accessory dwelling
+     unit on a lot with an existing or proposed multifamily, multistory dwelling. (D) A
+     height of 25 feet or the height limitation in the local zoning ordinance that applies
+     to the primary dwelling, whichever is lower, for an accessory dwelling unit that is
+     attached to a primary dwelling. This subparagraph shall not require a local
+     agency to allow an accessory dwelling unit to exceed two stories.”
+
+     The County’s Ordinance does not properly account for current State ADU Law
+     height limits. Therefore, the County must amend the Ordinance to comply with
+     the height requirements in Government Code section 66321, subdivision (b)(4).
+
+ 16. Section 19.807 F.2. – Parking – The Ordinances requires “one regular or
+     tandem parking space per unit” for interior ADUs “within a new structure.”
+     However, Government Code section 66322, subdivision (a)(3) states, “A local
+     agency shall not impose any parking standards for an accessory dwelling unit”
+     when the ADU is “part of the proposed or existing primary residence or an
+     accessory structure.” The County’s Ordinance incorrectly requires parking for an
+     ADU created from proposed or existing space. Therefore, the County must
+     remove the requirement for a parking space for ADUs created from proposed or
+     existing space from the Ordinance.
+
+ 17. Section 19.807 H. – Access – The Ordinance requires that “any additional
+     residential accommodation,” including ADUs, provide “All weather access for
+     emergency vehicles” if located more than one-hundred and fifty (150) feet from
+     a public right-of-way,” and “All access roads for emergency vehicles or
+     driveways” be at least 20 feet in width. HCD appreciates the County’s concerns
+     and recognizes the importance of fire safety. However, HCD is concerned that
+     the Ordinance’s requirements may be overly restrictive and contrary to
+     Government Code sections 66314 and 66315. The County should amend the
+     Ordinance to remove this restriction for ADUs.
+
+ 18. Section 19.808 A.1. – Owner Occupancy – The Ordinance states, “Property
+     owners shall not be required to occupy, or live within, the primary dwelling or
+     ADU located on the same lot, if the ADU is permitted between January 1, 2020,
+     and June 1, 2025.” However, AB 976 (Chapter 751, Statutes of 2023) amended
+     Government Code section 66315 to prohibit owner-occupancy requirements.
+     The section now states, “No additional standards, other than those provided in
+      John Hildebrand, Director
+      Page 6
+
+
+            Section 66314, shall be used or imposed, including an owner-occupant
+            requirement…” The County must remove the owner occupancy requirements
+            from the Ordinance.
+
+        19. Section 19.808 B. – Fire Sprinklers – The Ordinance correctly states that “ADUs
+            or Junior ADUs shall provide fire sprinklers only if the primary dwelling is
+            required to provide fire sprinklers.” However, Government Code sections 66314,
+            subdivision (d)(12) and 66323, subdivision (d), also provide that, “The
+            construction of an accessory dwelling unit shall not trigger a requirement for fire
+            sprinklers to be installed in the existing” primary dwelling. The County’s
+            Ordinance lacks this provision. Therefore, the County must amend the
+            Ordinance to clarify that an ADU cannot trigger a requirement for sprinklers to
+            be installed in the primary dwelling.
+
+   The County has two options in response to this letter. 3 The County can either amend the
+   Ordinance to comply with State ADU Law4 or adopt the Ordinance without changes and
+   include findings in a resolution accompanying the Ordinance that explain the reasons the
+   County believes that the Ordinance complies with State ADU Law despite HCD’s findings. 5
+   If the County fails to take either course of action to bring the Ordinance into compliance
+   with State ADU Law, HCD must notify the County and may notify the California Office of the
+   Attorney General that the County is in violation of State ADU Law. 6
+
+   HCD appreciates the County’s efforts in the preparation and adoption of the Ordinance and
+   welcomes the opportunity to assist the County in fully complying with State ADU Law.
+   Please feel free to contact Michael McLaughlin at Michael.McLaughlin@hcd.ca.gov if you
+   have any questions.
+
+   Sincerely,
+
+
+
+
+   Jamie Candelaria
+   Senior Housing Accountability Manager
+   Housing Policy Development Division
+
+
+
+
+3 Gov. Code, § 66326, subd. (c)(1).
+4 Gov. Code, § 66326, subd. (b)(2)(A).
+5 Gov. Code, § 66326, subd. (b)(2)(B).
+6 Gov. Code, § 66326, subd. (c)(1).

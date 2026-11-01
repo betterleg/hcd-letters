@@ -1,0 +1,614 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 24, 2025
+
+
+
+         Stewart Patri, Deputy Director of Administration
+         Planning and Development
+         County of Santa Clara
+         70 W. Hedding St., East Wing, 7th Floor
+         San Jose, CA 95110
+
+         Dear Stewart Patri:
+
+         RE: Review of Santa Clara County’s Accessory Dwelling Unit (ADU) and Senate
+            Bill (SB) 9 Ordinance under State Law (Gov. Code, §§ 66310 – 66342, 65852.21
+            and 66411.7)
+
+         Thank you for submitting the County of Santa Clara (County) ADU and SB 9 Ordinance
+         No. NS-1200.383 (Ordinance), adopted January 24, 2023, to the California Department
+         of Housing and Community Development (HCD). HCD has reviewed the Ordinance and
+         submits these written findings pursuant to Government Code section 66326, subdivision
+         (a) and Government Code section 65585, subdivision (j). HCD finds that the Ordinance
+         does not comply with State ADU and SB 9 Laws in the manner noted below. The
+         County has up to 30 days to respond to these findings. 1 Accordingly, the County must
+         provide a written response to these findings no later than July 23, 2025.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU and SB 9 Laws in the following respects:
+
+         ADU Findings (Gov. Code, §§ 66310 - 66342)
+
+              1. Statutory Numbering - The Ordinance contains several references to code
+                 sections that were deleted by SB 477, effective March 25, 2024. These include
+                 Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+                 these sections were relocated to Government Code, Title 7, Division 1, Chapter
+                 13 (sections 66310-66342, see Enclosure). The City must amend the Ordinance
+                 to refer to the correct code sections.
+
+              2. Section 4.10.015 B – Moveable Tiny Homes – The Ordinance states, “For the
+                 purposes of this section, one movable tiny home per lot is allowed in lieu of one
+                 standard ADU.” While moveable tiny homes are an innovative type of living
+                 quarters, they may not meet the statutory definition of an ADU. Pursuant to
+                 Government Code section 66314, subdivision (d)(8), ADUs must comply with
+                 “[l]ocal building code requirements that apply to detached dwellings.”
+
+1 Gov. Code § 66326, subd. (b)(1)
+Stewart Patri, Deputy Director of Administration
+Page 2
+
+
+      Government Code section 66313, subdivision (a), defines an ADU to mean “an
+      attached or a detached residential dwelling unit that provides complete
+      independent living facilities for one or more persons...It shall include permanent
+      provisions for living, sleeping, eating, cooking, and sanitation on the same
+      parcel as the single-family or multifamily dwelling is or will be situated. An
+      accessory dwelling unit also includes the following: (1) An efficiency unit. (2) A
+      manufactured home, as defined in Section 18007 of the Health and Safety
+      Code.” While some tiny homes may be considered ADUs, moveable tiny
+      homes may be more akin to recreational vehicles, as defined in the California
+      Health and Safety Code section 18010, than ADUs.
+
+      Additionally, this implies that the presence of a movable tiny home may
+      preclude the ministerial approval of an ADU. However, Government Code
+      section 66315 states, “No additional standards, other than those provided in
+      Section 66314, shall be used or imposed, including an owner-occupant
+      requirement, except that a local agency may require that the property may be
+      used for rentals of terms 30 days or longer.” Furthermore, units subject to
+      section 66323 may not be precluded by local development standards. The City
+      must amend the Ordinance to clarify that moveable tiny homes are not ADUs
+      and that ADUs may not be precluded by the presence of “moveable tiny
+      homes”.
+
+   3. Section 4.10.015 B.1, D.7 – Unit Allowance – The Ordinance states, that “Only
+      one accessory dwelling unit and one junior accessory dwelling unit are allowed
+      per legal lot,” for single family primary dwellings and later states “For properties
+      with a multifamily dwelling, no more than two detached accessory dwelling
+      units may be located on the same property.”
+
+      However, Government Code section 66323, subdivision (a), states,
+      "Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall
+      ministerially approve an application for a building permit within a residential or
+      mixed-use zone to create any of the following: (1) One accessory dwelling unit
+      and one junior accessory dwelling unit per lot with a proposed or existing
+      single-family dwelling…(A) The accessory dwelling unit or junior accessory
+      dwelling unit is within the proposed space of a single family dwelling or existing
+      space of a single-family dwelling or accessory structure." Paragraph (2) permits
+      "[o]ne detached, new construction, accessory dwelling unit that does not
+      exceed four-foot side and rear yard setbacks." The use of the term "any"
+      followed by a list of permitted ADU types indicates that any of these ADU types
+      can be combined on a lot zoned for single-family dwellings.
+
+      This permits a homeowner to create one converted ADU; one detached, new
+      construction ADU; and one junior accessory dwelling unit (JADU). Thus, if the
+      local agency approves an ADU that is created from existing (or proposed)
+      space, and the owner subsequently applies for a detached ADU (or vice versa)
+      that meets the size and setback requirements of this section, the local agency
+      cannot deny the application, nor deny a permit for a JADU under this section.
+Stewart Patri, Deputy Director of Administration
+Page 3
+
+
+      This section also requires the ministerial approval of detached ADUs in
+      combination with units created in portions of multifamily primary dwellings that
+      are not used as habitable space. Therefore, the County must amend the
+      Ordinance to provide for all ADU combinations described in Government Code
+      section 66323.
+
+   4. Section 4.10.015 B.2 – Denial – The Ordinance states that ADU applications
+      shall be “…either approved or disapproved within 60 days after the County
+      receives a complete application.” However, Government Code section 66317,
+      subdivision (b) expands on this to state, “If a permitting agency denies an
+      application for an accessory dwelling unit or junior accessory dwelling unit
+      pursuant to subdivision (a), the permitting agency shall, within the time period
+      described in subdivision (a), return in writing a full set of comments to the
+      applicant with a list of items that are defective or deficient and a description of
+      how the application can be remedied by the applicant.” The County must
+      amend the Ordinance to provide for the timely return of written comments upon
+      denial of an application.
+
+   5. Section 4.10.015 B.3 – Separate Sale – The Ordinance states, “No standard
+      ADU or junior ADU may he sold separately from the primary residence or the
+      real property upon which the primary residence is located. This provision does
+      not apply to property built or developed by a qualified nonprofit corporation
+      described in Government Code Section 65852.26.” Please note that
+      Government Code section 66342 gives local jurisdictions the additional option
+      of adopting an Ordinance to govern the separate sale of ADUs, beyond what
+      section 66341 requires.
+
+   6. Section 4.10.015 C.3, D.3 – Height – The Ordinance states that ADUs “Shall
+      not exceed sixteen (16) feet in height if the dwelling unit does not comply with
+      the setback limitations for a single-family residence, prescribed by the
+      applicable zoning district….” However, Government Code section 66321,
+      subdivision (b)(4) requires height allowances of 16, 18, 20 or 25 depending on
+      the circumstances. The County must amend the Ordinance to allow State-
+      mandated height maximums.
+
+   7. Section 4.10.015 D.1, D.6 – Size Maximums – The Ordinance states that
+      detached ADUs "Shall have a maximum floor area not exceeding 1,200 square
+      feet.” It later states, “The cumulative square footage of both accessory dwelling
+      units shall not exceed 1,700 square feet.” However, local development
+      standards may not preclude a converted unit created subject to Government
+      Code section 66323, subdivision (a)(1) regardless of size. The County must
+      amend the Ordinance to incorporate this exception.
+
+   8. Section 4.10.015 D.3 – Subjective Standard – The Ordinance states that
+      “Detached accessory dwelling units exceeding sixteen (16) feet in height shall
+      incorporate a hip, gable, or other similar styled roof design.” However,
+      Government Code section 66314, subdivision (b) requires local Ordinances to
+      Stewart Patri, Deputy Director of Administration
+      Page 4
+
+
+             “Impose objective standards on accessory dwelling units”. The term “similar
+             styled roof design” is not objective and is therefore inconsistent with State ADU
+             Law. The County must amend the Ordinance to remove the subjective
+             language.
+
+         9. Section 4.10.015 I. 3. – Parking Exceptions – The Ordinance provides parking
+            exceptions that match the conditions for Government Code section 66322,
+            subdivisions (a) through (e) but omits reference to the conditions described in
+            subdivision (f): “When a permit application for an accessory dwelling unit is
+            submitted with a permit application to create a new single-family dwelling or a
+            new multifamily dwelling on the same lot, provided that the accessory dwelling
+            unit or the parcel satisfies any other criteria listed in this subdivision.” The
+            County must amend the Ordinance to add the relevant language.
+
+      SB 9 Findings (Gov. Code, §§ 65852.21; 66411.7)
+
+         1. Section 2.10.030 – Definition of an Urban Primary Unit – The County Code
+            defines an Urban Primary Unit (UPU) as, “A second residential dwelling unit,
+            limited to 1,600 square feet, that provides independent living facilities and is
+            located on a legal parcel that is wholly within the boundaries of an urbanized
+            area or urban cluster, as designated by the United States Census Bureau when
+            the application is approved, and is located in a single-family residential zone.
+            This use classification also applies to a second dwelling unit on any eligible lot
+            that resulted from an urban lot split, as described in section C12-44, on or after
+            January 1, 2022. The dwelling unit may exist as a separate structure or within a
+            common structure. An Urban Primary Unit is not an ADU or Junior ADU. This
+            use classification is intended to implement Government Code Sections
+            65852.21 and 66411.7, as amended from time to time…”. The UPU definition
+            suggests that only the second primary dwelling constructed on a lot would be
+            considered an UPU and thus eligible for review under SB 9. However, SB 9
+            provides that, “A proposed housing development containing no more than two
+            residential units within a single-family residential zone shall be considered
+            ministerially, if the proposed housing development meets all of the following
+            requirements...”. 2 Therefore, SB 9 is applicable in a scenario where construction
+            results in either one or two primary dwelling units on a lot. Both the first and the
+            second primary dwelling unit constructed on a lot is eligible for SB 9 . The County
+            Code must be modified to clarify that both first and second primary dwelling units
+            are eligible for SB 9 processes and applicable development standards.
+
+         2. Sections 2.20.020 and 2.20.030 – Site Eligibility/Single-Family Zones – The
+            County Code states that an Urban Primary Unit is allowed within the Rural
+            Residential (RR), the R1 (One Family Residence), R1E (One Family Residence-
+            Estate), RHS (Urban Hillside Residential), and R1S (Low-Density Campus
+            Residential) zones. 3 The County Code, however, does not include the A
+
+2 Gov. Code § 65852.21, subd. (a).
+3 County of Santa Clara Ordinance Code § 2.30.
+      Stewart Patri, Deputy Director of Administration
+      Page 5
+
+
+             (Exclusive Agriculture), AR (Agricultural Ranchlands) or HS (Hillside) zones
+             among the eligible zones. 4 The County Code also does not appear to specify
+             which zones are eligible for Urban Lot Splits. SB 9 provides that, “two residential
+             units within a single-family residential zone shall be considered ministerially.” 5
+             Additionally, the law further provides that, “…a local agency shall ministerially
+             approve…an urban lot split…if the parcel is located within a single-family
+             residential zone.” 6 Table 2.20-1 (Residential Uses in Rural Base Districts) of the
+             County Code states that single-family residences are permitted by right in the A,
+             AR and HS Zones and multi-family uses are not permitted in these zones.
+             Therefore, these zones should be considered single-family for purposes of SB 9
+             because they allow single family residences by right and do not allow multi-family
+             uses. The County must modify the Ordinance to include these zones among the
+             SB 9 eligible areas.
+
+         3. Sections 4.10.387 and C.12-44 – Limitations on Location-Fire Hazard Zones –
+            The County Code contains site exclusions applicable to urban lot splits and
+            urban primary unit development. The Code states, “The parcel is not in a high or
+            very high fire hazard severity zone as determined by the California Department
+            of Forestry and Fire Protection unless the parcel will comply with fire hazard
+            mitigation measures adopted pursuant to existing building standards or state
+            fire mitigation measures applicable to the development.” Under SB 9, recently
+            amended by Senate Bill 450, the applicable exclusion language now states,
+            “Within a very high fire hazard severity zone, as determined by the Department of
+            Forestry and Fire Protection pursuant to Section 51178, or within a high or very
+            high fire hazard severity zone as indicated on maps adopted by the Department
+            of Forestry and Fire Protection pursuant to Section 4202 of the Public Resources
+            Code. This subparagraph does not apply to sites excluded from the specified
+            hazard zones by a local agency, pursuant to subdivision (b) of Section 51179, or
+            sites that have adopted fire hazard mitigation measures pursuant to existing
+            building standards or state fire mitigation measures applicable to the
+            development.” The County should review the fire exclusion language in the
+            County Code to confirm it complies with the recently amended SB 9 exclusion
+            pursuant to SB 450.
+
+         4. Limitations on Location – Earthquake Fault Zones – State law provides that an
+            SB 9 development shall not be located, “Within a delineated earthquake fault
+            zone as determined by the State Geologist in any official maps published by the
+            State Geologist, unless the development complies with applicable seismic
+            protection building code standards adopted by the California Building Standards
+            Commission under the California Building Standards Law (Part 2.5 (commencing
+            with Section 18901) of Division 13 of the Health and Safety Code), and by any
+            local building department under Chapter 12.2 (commencing with Section 8875) of
+
+
+
+4 County of Santa Clara Ordinance Code § 2.20.
+5 Gov. Code § 65852.21, subd. (a)
+6 Gov. Code § 66411.7, subd. (a)
+      Stewart Patri, Deputy Director of Administration
+      Page 6
+
+
+             Division 1 of Title 2.”7 The County Code does not contain this language and must
+             be amended to include it.
+
+         5. Limitations on Location – Floodways – State law provides that an SB 9
+            development shall not be located, “Within a regulatory floodway as determined
+            by the Federal Emergency Management Agency in any official maps published
+            by the Federal Emergency Management Agency, unless the development has
+            received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of
+            the Code of Federal Regulations. If a development proponent is able to satisfy all
+            applicable federal qualifying criteria in order to provide that the site satisfies this
+            subparagraph and is otherwise eligible for streamlined approval under this
+            section, a local government shall not deny the application on the basis that the
+            development proponent did not comply with any additional permit requirement,
+            standard, or action adopted by that local government that is applicable to that
+            site.” 8 The County Code does not contain this exclusion and must be amended to
+            include it.
+
+         6. Section 4.10.387 C.2. – Urban Primary Unit Development Standards – The
+            County Code states that, for an Urban Primary Unit, “The first unit developed on
+            a parcel shall comply with all setbacks applicable to a single-family residence
+            use classification in the underlying zoning district, with the exception of an
+            existing dwelling unit legally constructed prior to January 1, 2022, or a
+            conversion as stated in § 4.10.387(D).” However, SB 9 states that for new
+            construction of an SB 9 unit, “…a local agency may require a setback of up to
+            four feet from the side and rear lot lines.” SB 9 also states that for existing or
+            reconstructed structures, “…no setback shall be required for an existing structure
+            or a structure constructed in the same location and to the same dimensions as
+            an existing structure…” 9 Additionally, as discussed in comment No. 1, SB 9
+            standards are applicable to both the first primary dwelling unit as well as the
+            second primary dwelling unit constructed on a lot. Therefore, any unit
+            constructed pursuant to SB 9 shall be eligible for the maximum four-foot setback
+            standard specified. Additionally, any existing structure is eligible for the SB 9
+            setback allowances as specified. Therefore, the County Code setback
+            requirements for UPUs must be amended to reflect statutory allowances under
+            SB 9.
+
+
+
+
+7 Gov. Code § 65913.4, subd. (a)(6)(F)
+8 Gov. Code § 65913.4, subd. (a)(6)(H)
+9 Gov. Code §§ 65852.21, subd. (b)(2)(B) and 66411.7, subd. (c)(3)
+        Stewart Patri, Deputy Director of Administration
+        Page 7
+
+
+           7. Section 4.10.387 E. – Parking – The County Code states that for an Urban
+              Primary Unit, “One off-street parking space is required for an Urban Primary
+              Unit.” However, SB 9 states that when considering an application that will result
+              in two residential units, “…a local agency may require…Off-street parking of up to
+              one space per unit…”. 10 SB 9 also states, “A housing development contains two
+              residential units if the development proposes no more than two new units or if it
+              proposes to add one new unit to one existing unit.” 11 Therefore, if a second
+              primary dwelling is added to a site with an existing primary dwelling, a maximum
+              of two parking spaces can be required for the two units. The County must modify
+              the code to clarify that when a second primary dwelling is added to a site, a
+              maximum of two parking spaces can be required on the site 12, one for each
+              primary dwelling.
+
+           8. Section 4.10.387– General Provisions and Development Standards – The
+               County Code contains requirements related to maximum unit size 13 for an Urban
+               Primary Unit and providing public notice to owners within 300 feet. 14 However,
+               SB 9 specifies that, “A local agency shall not impose objective zoning standards,
+               objective subdivision standards, and objective design standards that do not apply
+               uniformly to development within the underlying zone…”. 15 Individual development
+               standards applied to SB 9 units cannot be more restrictive than those applied to
+               non-SB 9 units in the same zone. The County Code appears to apply more
+               restrictive development standards to SB 9 units that are not applied to non-SB 9
+               primary dwelling units in the same zone. The County must review and amend the
+               code as needed to ensure all development standards and requirements applied
+               to SB 9 units are not more restrictive than those applied in the underlying zone to
+               non-SB 9 primary dwellings.
+
+           9. Section 4.10.387 A. – Accessory Dwelling Unit Allowances – The County Code
+              states, “Eligible parcels that have not been subdivided under an urban lot split,
+              as described in section C12-44, may contain no more than one single-family
+              residence, one ADU, one Junior ADU, and one Urban Primary Unit.” However,
+              Government Code 66310 et seq. allows multiple combinations of accessory
+              dwelling units (ADU) and/or a junior accessory dwelling unit (JADU). County
+              Code must be modified to remove the limitation on ADUs and JADUs to allow
+              for all unit combinations permitted under ADU law while still specifying a
+              maximum of four units if at least one SB 9 unit is created.
+
+
+
+
+10 Gov. Code § 65852.21, subd. (c)(1)
+11 Gov. Code § 65852.21, subd. (j)(1)
+12   Gov. Code 65852.21, subd. (c)(1)
+13 County of Santa Clara Ordinance Code § 4.10.387(C)(3).
+14 County of Santa Clara Ordinance Code § 4.10.387(B)(8).
+15 Gov. Code § 65852.21, subd. (b)(3).
+      Stewart Patri, Deputy Director of Administration
+      Page 8
+
+
+          10. Section 4.10.387 B. 5. – Onsite Wastewater Treatment System (OWTS) – The
+              County Code states, “Urban Primary Units are subject to all other applicable
+              requirements of the Ordinance Code, including, but not limited to, requirements
+              applicable to on-site wastewater treatment systems or sewer connections,
+              water supply, height limitations, and other objective standards in the Zoning
+              Ordinance.” SB 9 states, “a local agency may impose objective zoning
+              standards, objective subdivision standards, and objective design review
+              standards…” 16. Therefore, the County must review all underlying requirements
+              referenced in this section to ensure all standards are objective and include
+              exceptions in the code for any subjective standards to clarify that they do not
+              apply to SB 9 units. Additionally, County Code Section 4.10.387(B)(5) should be
+              amended to clarify that it refers only to other applicable objective requirements.
+
+          11. Section 4.10.387 B. 6. and C12-44 b. 8. – Findings for Denial – The County Code
+              states, “Notwithstanding any other provision in this Section, a proposed Urban
+              Primary Unit application may be denied if the Building Official makes a written
+              finding, based on a preponderance of the evidence, that a proposed project
+              would have a specific, adverse impact on public health and safety or the
+              physical environment, and there is no feasible method to satisfactorily mitigate
+              or avoid the specific, adverse impact. A "specific, adverse impact" means a
+              significant, quantifiable, direct, and unavoidable impact, based on objective,
+              identified written public health or safety standards, policies, or conditions as
+              they existed on the date the application was deemed complete.” County Code
+              Section C12-44(b)(8) contains similar Finding for Denial Language. However, the
+              SB 9 findings for denial 17 were amended on January 1, 2025, by SB 450. This
+              amendment removed the language “…or the physical environment and...”,
+              Therefore, both sections of the County Code must be amended to reflect the
+              revised language.
+
+          12. Section 4.10.387 B. 7. – Rental Term – The County Code states, “Urban Primary
+              Units shall not be rented for terms shorter than 180 days. Future property owners
+              shall be informed of this restriction through a recorded deed notice approved by
+              the County.” SB 9 states, “A local agency shall require that a rental of any unit
+              created pursuant to this section be for a term longer than 30 days.” 18 It also
+              states that a local agency shall not impose objective standards that do not apply
+              uniformly to development within the underlying zone unless they are more
+              permissive than applicable standards in the underlying zone. 19 As the County
+              Code does not appear to have a 180 day minimum rental term requirement in the
+              underlying zone, it cannot be required for SB 9 units because it is more restrictive
+              than the 30 days specified in state law. The County Code must be amended to
+              reflect the minimum day 30 rental term but cannot require a longer term unless it
+              is a requirement of the underlying zone.
+
+16 Gov. Code § 65852.21, subd. (b)(1).
+17 Gov. Code §§ 65852.21, subd. (d); 66411.7, subd. (d).
+18 Gov. Code § 65852.21, subd. (e).
+19 Gov. Code § 65852.21, subd. (b)(3).
+      Stewart Patri, Deputy Director of Administration
+      Page 9
+
+
+          13. Section 4.10.387 B. and C12-44 b. 2. – Historic Resource Site Exclusion – The
+              County Code states, “Parcels located in a -h combining district are not eligible for
+              an Urban Primary Unit.” 20 County Code further states, “The "-h" combining
+              zoning district is intended to provide for the preservation of historic sites, historic
+              structures, buildings of architectural significance, and other natural and human-
+              made heritage resources which are included in the National Register of Historic
+              Places, or which are otherwise designated as a registered cultural heritage
+              resource (see Section 1.30.030: Definitions of Terms).” 21 Additionally, it should
+              be noted that the County Code refers to the term “registered cultural heritage
+              resource” but does not contain a definition. The County Code does define the
+              potentially related term “registered historic cultural resource”. To determine
+              eligibility for a historic site, SB 9 states the parcel may not be located, “within a
+              historic district or property included on the State Historic Resources Inventory, as
+              defined in Section 5020.1 of the Public Resources Code, or within a site that is
+              designated or listed as a city or county landmark or historic property or district
+              pursuant to a city or county ordinance.”22 The County must modify the County
+              Code historic exclusion language to clarify the definition of a “registered cultural
+              heritage resource” and ensure that the historic exclusion does not exceed that
+              contained within SB 9.
+
+          14. Section C12-44 b. 3. – Urban Lot Splits – The County Code states, “Ministerial
+              parcel map applications to establish an urban lot split shall be reviewed by all
+              applicable County departments and other public agencies for conformance with
+              applicable standards, including but not limited to the Subdivision Map Act,
+              Government Code § 66410 et seq., without public hearing or discretionary
+              review.” Under SB 9, “…a local agency may impose objective zoning standards,
+              objective subdivision standards, and objective design review standards that are
+              related to the design or to improvements of a parcel…”. Therefore, the County
+              must review all underlying requirements referenced in this section to ensure all
+              standards are objective and include exceptions in the code for any subjective
+              standards to clarify that they do not apply to urban lot splits. Additionally, County
+              Code Section C12-44(b)(3) must be amended to clarify that it refers to
+              “…applicable objective standards…” (emphasis added).
+
+          15. Section C12-44 b. 4. – Easements for Urban Lot Splits – The County Code
+              states, “No off-site improvements or right-of-way dedications shall be required for
+              an urban lot split. Easements granting access to the public right-of-way or for
+              public utilities and services may be required (emphasis added).” However, SB 9
+              states, “a local agency may require any of the following conditions when
+              considering an application for a parcel map for an urban lot split:
+
+
+
+
+20 County of Santa Clara Ordinance Code §§ 4.10.387, subd.(b)(2)(f); § C12-44, subd. (b)(2)(f).
+21 County of Santa Clara Ordinance Code § 3.50.010.
+22 Gov. Code § 65852.21, subd. (a)(5) and 66411.7, subd. (a)(3)(E).
+      Stewart Patri, Deputy Director of Administration
+      Page 10
+
+
+             Easements required for the provision of public services and facilities”. 23 While an
+             easement can be required to provide right-of-way access to either of the lots
+             created by an urban lot split, an easement benefiting any other parcel(s) cannot
+             be required, except “to provide public services and facilities”. The County Code
+             provision, “Easements granting access to the public right-of-way…may be
+             required”, exceeds what is allowed under SB 9 and must be modified or clarified
+             so that it refers only to granting access to one of the new parcels in an urban lot
+             split.
+
+          16. Section C12-44 b. 7. – Water Availability – The County Code states, “Each
+              resulting parcel shall demonstrate adequate access to a potable water
+              supply…Shared wells between dwelling units on different parcels are allowed…”.
+              However, Government Code 66411.7(c) states that, “…a local agency may
+              impose objective zoning standards, objective subdivision standards, and
+              objective design review standards that are related to the design or to
+              improvements of a parcel…”. State law further states, “Objective zoning
+              standards,” “objective subdivision standards,” and “objective design review
+              standards” mean standards that involve no personal or subjective judgment by a
+              public official and are uniformly verifiable by reference to an external and uniform
+              benchmark or criterion available and knowable by both the development
+              applicant or proponent and the public official prior to submittal. The County
+              Code’s use of the language “demonstrate adequate access” is subjective and not
+              knowable prior to submittal. This County Code language must be modified to be
+              objective or refer to objective requirements contained in other County Code
+              sections or documents. Alternatively, if this terminology is already codified in an
+              objective manner, the County may modify the code to cite to that County Code
+              reference.
+
+          17. Section C12-44 b. 7. – Onsite Wastewater Treatment Systems – The County
+              Code states, “Each resulting parcel shall demonstrate…connection to sanitary
+              sewer or determination of septic feasibility meeting all requirements of Sections
+              B11-60 through B11-95 of this Code…Shared onsite wastewater treatment
+              systems (OWTS) serving multiple dwelling units on the same parcel are allowed,
+              but OWTS are not allowed to serve multiple parcels.” (Emphasis added.)
+              However, SB 9 states, “...a local agency may impose objective zoning standards,
+              objective subdivision standards, and objective design review standards that are
+              related to the design or to improvements of a parcel…” 24 Therefore, the County
+              must review all underlying requirements referenced in this section to ensure all
+              standards are objective and include exceptions in the code for any subjective
+              standards to clarify that they do not apply to SB 9 urban lot splits.
+
+
+
+
+23 Gov. Code § 66411.7, subd. (e)(1).
+24 Gov. Code § 66411.7, subd. (c)(1).
+      Stewart Patri, Deputy Director of Administration
+      Page 11
+
+
+          18. Section C12-44 b. 11. – Public Notice for Urban Lot Splits – The County Code
+              states, “Whenever a Tentative Map application for an Urban Lot Split is received
+              by the County, notice of the project including a general description and the
+              location of the development shall be provided to the owners of property within
+              300 feet of the exterior boundaries of the property involved in the application.
+              Such notice shall be mailed to the last known name and address of such owners
+              as shown upon the records of the County Assessor.” However, under SB 9, “…a
+              local agency may impose objective zoning standards, objective subdivision
+              standards, and objective design review standards that are related to the design
+              or to improvements of a parcel…”. 25 An informational public notice requirement is
+              not related to the design or improvement of a parcel. The County Code must be
+              modified to remove this requirement.
+
+          19. Section C12-51. – Effective Time of Filing – The County Code states, “The
+              effective time of filing a tentative map shall be construed to be the time at which
+              the Planning Office formally determines the application is complete by written
+              notification to the applicant. Prior to the formal completeness determination, the
+              map received shall be examined to determine if it is complete, in full compliance
+              with this chapter, as to form and content. If the tentative map application is
+              incomplete, the Planning Office shall notify the applicant in writing within 30
+              calendar days from the day the application was originally submitted as to those
+              parts which are incomplete and what must be done to complete the
+              application.” 26 However, SB 9 states, “(B) An application for an urban lot split
+              shall be considered and approved or denied within 60 days from the date the
+              local agency receives a completed application. If the local agency has not
+              approved or denied the completed application within 60 days, the application
+              shall be deemed approved.” SB 9 further states, “(C) If a permitting agency
+              denies an application for an urban lot split pursuant to subparagraph (B), the
+              permitting agency shall, within the time period described in subparagraph (B),
+              return in writing a full set of comments to the applicant with a list of items that
+              are defective or deficient and a description of how the application can be
+              remedied by the applicant.” County Code must be clarified to include this
+              specific timeline and procedure for SB 9 urban lot split applications.
+
+          20. Offsite Improvements – SB 9 states, “…a local agency shall not impose
+              regulations that require dedications of rights-of-way or the construction of offsite
+              improvements for the parcels being created as a condition of issuing a parcel
+              map for an urban lot split pursuant to this section.” Pursuant to SB 9, a local
+              agency cannot require the construction of offsite improvements prior to approving
+              or recording a parcel map for an urban lot split. Additionally, for an urban lot
+              split, a local agency cannot require a condition of approval for offsite
+              improvements to be constructed at a later date after map approval. HCD has
+              received complaints suggesting that the County is not complying with this
+
+
+
+25 Gov. Code § 66411.7, subd. (c)(1).
+26 County of Santa Clara Ordinance Code § C12-51.
+      Stewart Patri, Deputy Director of Administration
+      Page 12
+
+
+             requirement. The County Code must be amended to make clear that offsite
+             improvements will not be required for an urban lot split application.
+
+      Conclusion
+
+      ADU Regulations
+
+      The County has two options in response to the ADU component of this letter. 27 The
+      County can either amend the Ordinance to comply with State ADU Law, 28 or adopt the
+      Ordinance without changes and include findings in its resolution adopting the Ordinance
+      that explain the reasons the County believes that the Ordinance complies with State
+      ADU Law despite HCD’s findings. 29 If the County fails to take either course of action
+      and bring the Ordinance into compliance with State ADU Law, HCD must notify the
+      County and may notify the California Office of the Attorney General that the County is in
+      violation of State ADU Law. 30
+
+      SB 9 Regulations
+
+      HCD looks forward to assisting the City in its compliance with state housing laws and
+      reminds the City that HCD has enforcement authority over SB 9, among other state
+      housing laws. Accordingly, HCD may review local government actions and inactions to
+      determine consistency with these laws. If HCD finds that a city’s actions do not comply
+      with state law, HCD may notify the California Office of the Attorney General that the
+      local government is in violation of state law. 31
+
+      HCD appreciates the County’s efforts in the preparation and adoption of the Ordinance
+      and welcomes the opportunity to assist the County in fully complying with State ADU
+      and SB 9 Laws. Please contact Mike Van Gorder, of our staff, at
+      Mike.VanGorder@hcd.ca.gov if you have any questions or would like HCD’s technical
+      assistance in ADU matters. For SB 9 specific questions, please contact Mindy Wilcox,
+      of our staff, at mindy.wilcox@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Policy Development Division
+
+
+
+27 Gov. Code, § 66326, subd. (c)(1).
+28 Gov. Code, § 66326, subd. (b)(2)(A).
+29 Gov. Code, § 66326, subd. (b)(2)(B).
+
+30 Gov. Code, § 66326, subd. (c)(1).
+31 Gov. Code, § 65585, subd. (j).

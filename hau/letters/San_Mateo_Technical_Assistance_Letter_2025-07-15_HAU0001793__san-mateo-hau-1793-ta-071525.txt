@@ -1,0 +1,252 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 15, 2025
+
+
+         Zachary Dahl, Director of Community Development
+         City of San Mateo
+         330 West 20th Avenue
+         San Mateo, CA 94403
+
+         Dear Zachary Dahl:
+
+         RE: City of San Mateo, Relocation and Right of First Refusal – Letter of Technical
+             Assistance
+
+         The purpose of this letter is for the California Department of Housing and Community
+         Development (HCD) to provide technical assistance to the City of San Mateo (City)
+         regarding implementation of the relocation and right of first refusal requirements in the
+         Housing Crisis Act’s (HCA) provisions regarding demolition of housing units. 1
+
+         Background
+
+         The HCA’s provisions regarding demolition of housing units include the following two
+         types of requirements regarding protected units:
+            1. Replacement of protected units. 2
+            2. Requirements for benefits that must be provided to any existing occupants of any
+                protected units that are lower-income households, specifically, relocation benefits
+                and a right of first refusal for a comparable unit affordable to the household. 3
+
+         Protected units include:
+            1. Units that are or were subject to a recorded covenant, ordinance, or law that
+               restricts rents to levels affordable to persons and families of lower or very low
+               income within the past five years,
+            2. Units that are or were subject to any form of rent or price control within the past
+               five years,
+            3. Units that are or were rented by lower- or very low-income households within the
+               past five years, and
+
+
+
+1 Gov. Code, §§ 66300.5, 66300.6.
+2 Gov. Code, § 66300.6, subd. (b)(1).
+3 Gov. Code, § 66300.6, subd. (b)(4).
+      Zachary Dahl
+      Page 2
+
+
+          4. Units that were withdrawn from rent or lease in accordance with the Ellis Act
+             within the past ten years. 4
+
+      The City reached out to HCD to request technical assistance with two questions:
+
+      Question 1: What documentation should the City require from project applicants
+      regarding the income of existing occupants?
+
+      The statute does not include specific documentation requirements. However, a common
+      practice 5 is for jurisdictions to require both of the following types of documentation from
+      applicants:
+         1. A signed affidavit from the applicant stating whether there are any protected units
+             on the project site and of what type, and affirming that any lower-income
+             residents of those protected units have been offered the required benefits.
+         2. Signed affidavits from each tenant, including their household size and income.
+
+      HCD recommends the City consider the following principles when designing any tenant-
+      facing documentation to make it more likely that tenants will provide the needed
+      information:
+          • Clearly explain at the beginning of the form that tenants may be entitled to certain
+             benefits.
+          • Put the forms on City letterhead.
+          • Include the name and phone number of a contact at the City who the tenant can
+             call with any questions.
+          • Include options for language access for households for whom English is not their
+             primary language.
+          • Allow tenants who are not lower-income households to simply affirm that they are
+             not lower-income (rather than requiring them to provide income information).
+
+      Question 2: What action should the City take if the applicant states that they are
+      unable to obtain income information for existing occupants?
+
+      The replacement unit requirements of the HCA provide direction for how the number of
+      required replacement units should be calculated if tenant incomes are unknown. 6
+      Specifically, if incomes are unknown, “it shall be rebuttably presumed that lower income
+      renter households occupied these units in the same proportion of lower income renter
+      households to all renter households within the jurisdiction, as determined by the most
+
+
+
+4 Gov. Code, § 66300.5, subd. (h).
+5 See for example the City of Carlsbad’s forms for applicants (P-38) and tenants (P-38B), available at
+
+https://www.carlsbadca.gov/departments/community-development/permit-center/applications-and-
+forms/planning-submittals-forms, and the City of San Francisco’s forms, available at
+https://sfplanning.org/resource/unit-replacement-and-relocation-affidavit-sb-330.
+6 Gov. Code, §§ 66300.5, subd. (i)(1); 65915, subd. (c)(3)(B).
+      Zachary Dahl
+      Page 3
+
+
+      recently available data from the United States Department of Housing and Urban
+      Development’s Comprehensive Housing Affordability Strategy database.” 7
+
+      However, while the rebuttable presumption approach is useful in the context of
+      replacement of protected units, it is unhelpful in the context of determining the incomes
+      of existing occupants who may represent lower-income households and be eligible for
+      relocation and right of first refusal benefits. By definition, those benefits are only
+      provided to households that meet the specified income criteria.
+
+      Unfortunately, the statute does not provide direction for what action a local government
+      should take regarding those benefits if the applicant states that they are unable to
+      obtain income information for existing occupants. In such a scenario, HCD encourages
+      the City to consider the following strategies:
+
+          A. Adopt an ordinance that would create a local procedure to address this
+             situation.
+
+      The HCA authorizes local governments to do so, stating, “This section shall not
+      supersede any objective provision of a locally adopted ordinance that places restrictions
+      on the demolition of residential dwelling units or the subdivision of residential rental
+      units that are more protective of lower income households, requires the provision of a
+      greater number of units affordable to lower income households, or that requires greater
+      relocation assistance to displaced households.” 8
+
+      This provision gives jurisdictions the flexibility to adopt ordinances that include more
+      specific provisions regarding obtaining income information for existing occupants, if
+      those provisions are more protective of lower-income households than state law.
+
+          B. Allow applicants to collect income information later in the approval
+             process.
+
+      The City noted that some applicants state that they have difficulty reaching out to
+      existing occupants because they do not yet own the property, and the current property
+      owner would not provide the applicant with access to the property.
+
+      The HCA states that “an affected city… shall not approve a development project that will
+      require the demolition of occupied or vacant protected units… unless all of the following
+      requirements are satisfied: …
+         (4) The developer agrees to provide both of the following to the existing occupants of
+         any protected units that are lower income households:
+             (A) Relocation benefits…
+             (B) A right of first refusal for a comparable unit…” 9
+
+7 Gov. Code, § 65915, subd. (c)(3)(B)(i).
+8 Gov. Code, § 66300.6, subd. (c).
+9 Gov. Code, § 66300.6, subd. (b).
+       Zachary Dahl
+       Page 4
+
+
+
+       Technically, at the time of approval, the applicant must only “agree to provide” the
+       required benefits; the benefits do not actually need to be provided at that time. This
+       gives jurisdictions some flexibility regarding when in the development process the
+       applicant must provide income information for existing occupants.
+
+       For example, the City could adopt a policy of addressing relocation benefits as a
+       condition of approval (for example, including a condition of approval that the applicant
+       must provide the required relocation benefits before a demolition permit is issued) rather
+       than requiring the applicant to provide relocation benefits before the land use
+       entitlement is issued. Doing so would give the applicant more time to obtain the
+       information, which would reduce permit processing times.
+
+       HCD understands that current occupants are sometimes hesitant to work with
+       applicants, causing the applicants to need to make multiple attempts over a series of
+       weeks or months to obtain the necessary information. However, the City may not, under
+       any circumstances, pursue an approach that would deny the affected persons the
+       relocation benefits to which they are entitled.
+
+          C. Require evidence of due diligence by the applicant in collecting income
+             information.
+
+       The HCA requires applicants to provide “relocation benefits that are equivalent to the
+       relocation benefits required to be paid by public entities pursuant to Chapter 16
+       (commencing with Section 7260) of Division 7 of Title 1 and any implementing
+       regulations.” 10 Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 is
+       known as the Relocation Assistance Act.
+
+       The HCA only requires applicants to provide equivalent relocation benefits to those
+       required to be paid under the Relocation Assistance Act (i.e., the applicant is not
+       required to comply with all provisions of the Act and its implementing regulations).
+       However, the implementing regulations for the Relocation Assistance Act contain a
+       helpful list of best practices regarding due diligence with respect to outreach to existing
+       occupants, including:
+          1. Conducting personal interviews and maintaining personal contacts with
+              occupants of the property 11;
+          2. Utilizing meetings, newsletters, and other mechanisms, including local media
+              available to all persons, for keeping occupants of the property informed 12; and
+          3. Arranging to have the material either hand-delivered to each occupant of the
+              property with a request for a written receipt, or sent by certified mail, return
+              receipt requested. 13
+
+10 Gov. Code, § 66300.6, subd. (b)(4)(A).
+11 Cal. Code Regs., tit. 25, § 6046, subd. (a)(2).
+12 Cal. Code Regs., tit. 25, § 6046, subd. (a)(3).
+13 Cal. Code Regs., tit. 25, § 6046, subd. (c).
+      Zachary Dahl
+      Page 5
+
+
+
+            D. Require a signed affidavit from the applicant.
+
+      As part of the signed affidavit from the applicant discussed above under Question 1, the
+      City could allow the applicant to confirm that they were unable to obtain income
+      information for some or all existing occupants even after significant due diligence.
+
+            E. Assist the applicant with outreach to existing occupants.
+
+      Finally, if an applicant states that they are unable to obtain tenant incomes, the City has
+      the option to assist with outreach to existing occupants. This service could be performed
+      by qualified City staff or contracted professionals with experience working with lower-
+      income communities, including those that include racial or ethnic minorities, people with
+      limited English language proficiency, and/or persons with disabilities. Doing so may also
+      constitute an action by the City to Affirmatively Further Fair Housing (AFFH) and may
+      help the City implement its Fair Housing Action Plan (Housing Element section 6.3.2 14).
+
+      Conclusion
+
+      HCD commends the City’s desire to fully comply with the HCA’s provisions regarding
+      the demolition of housing units and hopes this technical assistance is helpful. If you
+      have any questions regarding the content of this letter or need additional technical
+      assistance, please contact Stephanie Reyes at Stephanie.Reyes@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+      cc:      Sung Kwon, Deputy Director
+               Steve Golden, Principal Planner
+               Rachel Horst, Housing & Neighborhood Services Manager
+               Van Diggans, Housing Specialist
+
+
+
+
+14 San Mateo Housing Element 2023-2031, available at
+
+https://www.cityofsanmateo.org/4478/Housing-Element-2023-2031.

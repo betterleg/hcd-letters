@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0011412",
+  "case_number": "HAU0000289",
+  "letter_date": "2023-05-19",
+  "jurisdiction": "Hermosa Beach",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/glendora-loi-051923.pdf",
+  "hcd_letter": "Hermosa Beach Letter of Inquiry 05/19/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/glendora-loi-051923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189514,
+  "text_chars": 6860,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0011408",
+      "case_number": "HAU0000287",
+      "letter_date": "2023-05-19",
+      "jurisdiction": "Glendora",
+      "letter_type": "Letter of Inquiry",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65585",
+      "n_statutes": "1",
+      "keywords": "housing element",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/glendora-loi-051923.pdf",
+      "hcd_letter": "Glendora Letter of Inquiry 05/19/2023",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

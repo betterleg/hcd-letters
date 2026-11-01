@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024813",
+  "case_number": "ADU0007769",
+  "letter_date": "2025-06-24",
+  "jurisdiction": "Santa Clara County",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law | Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "65852.21 | 66311 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66329",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance | lot splits",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/santa-clara-cou-adu-sb-9-findings-062425.pdf",
+  "hcd_letter": "Santa Clara County Ordinance Findings Letter 06/24/2025",
+  "housing_law": "Accessory Dwelling Unit Law, Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/santa-clara-cou-adu-sb-9-findings-062425.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 243805,
+  "text_chars": 40386,
+  "text_empty": false
+}

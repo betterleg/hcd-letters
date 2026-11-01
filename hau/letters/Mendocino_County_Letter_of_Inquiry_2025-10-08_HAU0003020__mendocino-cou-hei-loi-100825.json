@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022242",
+  "case_number": "HAU0003020",
+  "letter_date": "2025-10-08",
+  "jurisdiction": "Mendocino County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65583.2",
+  "n_statutes": "1",
+  "keywords": "Mendocino County HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mendocino-cou-hei-loi-100825.pdf",
+  "hcd_letter": "Mendocino County Letter of Inquiry 10/08/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mendocino-cou-hei-loi-100825.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 174500,
+  "text_chars": 7431,
+  "text_empty": false
+}

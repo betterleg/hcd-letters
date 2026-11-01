@@ -1,0 +1,176 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 16, 2024
+
+
+         Nora Frimann, City Attorney
+         City of San Jose
+         Office of the City Attorney
+         200 E Santa Clara Street, 16 th floor
+         San Jose, CA 95113
+
+         Dear Nora Frimann:
+
+         RE: City of San Jose Housing Crisis Act ADU Replacement Units – Letter of
+             Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the application of the Housing Crisis Act of
+         2019 (HCA) 1 to projects containing accessory dwelling units (ADUs). The HCA requires
+         that projects demolishing protected housing units replace them with an equivalent
+         number of housing units affordable to households at specified income levels. The
+         purpose of this letter is to provide technical assistance to the City of San Jose (City) on
+         whether the HCA requires that replacement units be rented or sold, depending on
+         project characteristics.
+
+         Background
+
+         HCD understands the City has received development applications for projects that
+         propose to demolish HCA-protected rental units and replace them with rental ADUs or
+         junior ADUs (JADUs) located on parcels with for-sale primary units. To illustrate, the
+         City provided the example of a project that intended to demolish 30 vacant rental units,
+         of which 17 have been determined to be protected units, 2 to be redeveloped with 40 for-
+         sale townhomes with 17 replacement rental ADUs. The City wishes to understand if
+         “replace” in the context of the HCA requires that the 17 replacement ADUs be offered
+         for rent and occupied by lower-income households.
+
+         Housing Crisis Act Replacement Unit Status and ADUs
+
+1 Gov. Code, § 66300 et seq.
+2 These units were determined to be protected units by applying the “rebuttable presumption”
+
+contained in Gov. Code § 65915, subd. (c)(3)(B), which provides that where the income data of
+former residents is not available, the affordability data of the U. S. Department of Housing and
+Community Development’s Comprehensive Housing Affordable Strategy database (CHAS) is to be
+used.
+       Nora Frimann, City Attorney
+       Page 2
+
+
+
+
+       The HCA refers to the State Density Bonus Law (SDBL) 3 to define how demolished
+       protected units are to be replaced. The SDBL in turn states that “[i]f the replacement
+       units will be rental dwelling units, these units shall be subject to a recorded affordability
+       restriction for at least 55 years. If the proposed development is for-sale units, the units
+       replaced shall be subject to paragraph (2),” where paragraph (2) deals with the sale of
+       affordable units. 4 This raises the following two questions as posed by the City:
+
+       Question #1: Do the HCA and the SDBL require replacement units to be either for-
+       sale or rental in different circumstances?
+
+       In neither the HCA nor the SDBL does the status of the demolished units as rental or
+       for-sale determine the status of the replacement units. In requiring that developers
+       provide the existing residents of protected units a right of first refusal to a comparable
+       unit in the new development, the HCA requires that the comparable unit be “affordable
+       to the household at an affordable rent or an affordable housing cost….” 5 Similarly, the
+       SDBL in two locations states that the replacement units be “made available at
+       affordable rent or affordable housing cost to, and occupied by,” persons and families in
+       specified income levels. 6 Neither clause states that a rental unit must be replaced by a
+       rental unit or that a for-sale unit must be replaced by a for-sale unit, only that
+       replacement units can generally be for rent or for sale.
+
+       However, the status of the replacement units is determined by the status of the new
+       development, independent of the status of the demolished units. The SDBL provides
+       that if the proposed development is for-sale units, the units replaced shall also be
+       provided as for-sale units. 7 Note that the same limitation is not provided for a
+       development of rental units. It stands to reason that in writing the SDBL in this manner,
+       the Legislature had the opportunity to match requirements for for-sale and rental units
+       but did not do so. Therefore, it is permissible for replacement units in rental
+       developments to be either rentals or for-sale.
+
+       Question #2: If ADUs are used as for-sale replacement units, how do the
+       requirements of the SDBL interact with the requirements of the ADU Law?
+
+       Government Code section 65915, subdivision (c)(2) (in the SDBL) governs the sale of
+       affordable units, both as units eligible for a density bonus and as replacement units for
+       demolished protected units. The subdivision requires that for-sale affordable units be
+       sold either to a qualified household or a qualified nonprofit housing corporation (as
+
+3 Gov. Code, § 65915.
+4 Gov. Code, § 65915, subd. (c)(3)(B)(ii)-(C)(i) (See final sentences).
+5 Gov. Code, § 66300.6, subd. (b)(4)(B).
+6 Gov. Code, § 65915, subd. (c)(3)(B)(ii)-(C)(i).
+7 Gov. Code, § 65915, subd. (c)(3)(B)(ii)-(C)(i) (See final sentences).
+      Nora Frimann, City Attorney
+      Page 3
+
+
+
+      defined) and that the approving local government enforce an equity sharing agreement
+      unless it would conflict with the requirements of another public funding source or law.
+      Although the SDBL does not reference ADUs directly, it likewise does not expressly
+      narrow the definition of unit to exclude ADUs.
+
+      Government Code section 66341 (in ADU Law 8) requires local governments to allow the
+      sale or separate conveyance of an ADU if the primary unit or ADU was built by a
+      defined qualified nonprofit corporation as a tenancy in common, while section 66342
+      allows local governments to adopt an optional ordinance to allow the sale or separate
+      conveyance of an ADU to individual buyers as condominiums. In other words, if a local
+      government has not adopted an ADU ordinance per section 66342, an ADU would not
+      be able to be used as a for-sale replacement unit unless built by a qualified nonprofit
+      corporation as a tenancy in common.
+
+      However, because San Jose has adopted an ordinance allowing sale or separate
+      conveyance of ADUs, it would be possible to use a deed-restricted for-sale ADU as a
+      replacement unit provided it was either sold to a qualified buyer or non-profit corporation
+      pursuant to section 66341 or conveyed as a condominium pursuant to section 66342,
+      and provided the ADU was subject to a City-enforced equity sharing agreement
+      pursuant to the SDBL. 9
+
+      Regardless of whether the local government has a section 66342 ADU ordinance in
+      effect, it is essential that applicants seeking to use an ADU as a replacement unit
+      ensure that those units remain occupied and affordable. Local monitoring and
+      enforcement of ADU affordability poses a distinct challenge for a local government.
+      HCDs reminds both applicants and local governments of the importance of managing
+      affordable ADUs to ensure their intended purpose of creating much-needed affordable
+      housing. ADUs intended to serve as replacement units must fulfill the requirements of
+      both the ADU Law and the SDBL to be used as HCA replacement units. While HCD is
+      not currently aware of conflicts between these laws, in the event of an unforeseen
+      conflict between state housing law provisions, primary units are to be used to fulfill the
+      requirements of replacement units.
+
+
+
+
+8 Gov. Code, § 66310 et. seq.
+9 Although local governments cannot impose deed restrictions on ADUs, developers can deed-restrict
+
+ADUs to enable their use as replacement units.
+Nora Frimann, City Attorney
+Page 4
+
+
+
+
+Conclusion
+
+In summary, HCD finds the following regarding the proposed example project:
+
+   •   Because the applicant intends to build a for-sale development, all replacement
+       units must be provided as for-sale units.
+   •   Because the City has adopted an ordinance to allow the sale of ADUs to
+       individual buyers, an applicant in San Jose may fulfill replacement unit
+       requirements by providing for-sale affordable ADUs in one of the manners
+       described above.
+
+HCD remains committed to supporting the City of San Jose in facilitating housing at all
+income levels and hopes the City finds this clarification helpful. If you have questions or
+need additional information, please contact David Ying at David.Ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

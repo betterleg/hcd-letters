@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0013924",
+  "case_number": "HAU0000412",
+  "letter_date": "2024-02-05",
+  "jurisdiction": "Cotati",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(f)(5)",
+  "n_statutes": "1",
+  "keywords": "density bonus",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/cotati-hau412-ta-02052024.pdf",
+  "hcd_letter": "Cotati Technical Assistance Letter 02/05/2024",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/cotati-hau412-ta-02052024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 163174,
+  "text_chars": 4932,
+  "text_empty": false
+}

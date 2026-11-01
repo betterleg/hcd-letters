@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024900",
+  "case_number": "HAU0002378",
+  "letter_date": "2026-02-18",
+  "jurisdiction": "Alhambra",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "65915(c)(3)(B)(ii) | 66300.6(b)(1)(B)",
+  "n_statutes": "2",
+  "keywords": "CHAS database | ELI category | rebuttable presumption | replacement | single replacement unit",
+  "n_keywords": "5",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/alhambra-ta-2378-1-21-021826.pdf",
+  "hcd_letter": "Alhambra Technical Assistance Letter 02/18/2026",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/alhambra-ta-2378-1-21-021826.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 205653,
+  "text_chars": 7826,
+  "text_empty": false
+}

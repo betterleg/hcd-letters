@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024810",
+  "case_number": "ADU0007766",
+  "letter_date": "2023-06-15",
+  "jurisdiction": "San Pablo",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-pablo-adu-061523.pdf",
+  "hcd_letter": "San Pablo Ordinance Findings Letter 06/15/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-pablo-adu-061523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 176591,
+  "text_chars": 8595,
+  "text_empty": false
+}

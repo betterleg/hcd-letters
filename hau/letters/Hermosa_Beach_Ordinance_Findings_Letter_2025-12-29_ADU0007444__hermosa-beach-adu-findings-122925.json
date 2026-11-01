@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024121",
+  "case_number": "ADU0007444",
+  "letter_date": "2025-12-29",
+  "jurisdiction": "Hermosa Beach",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Architectural requirements | Size exception | Unit Allowances",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/hermosa-beach-adu-findings-122925.pdf",
+  "hcd_letter": "Hermosa Beach Ordinance Findings Letter 12/29/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/hermosa-beach-adu-findings-122925.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 224585,
+  "text_chars": 9031,
+  "text_empty": false
+}

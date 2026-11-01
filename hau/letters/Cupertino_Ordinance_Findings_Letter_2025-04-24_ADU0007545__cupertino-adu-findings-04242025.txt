@@ -1,0 +1,216 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         April 24, 2025
+
+
+
+         Benjamin Fu, Director
+         Community Development Department
+         City of Cupertino
+         10300 Torre Avenue
+         Cupertino, CA 95014
+
+         Dear Benjamin Fu:
+
+         RE: Review of Cupertino’s Accessory Dwelling Unit (ADU) Ordinance under State
+            ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Thank you for submitting the City of Cupertino ADU Ordinance No. 23-2254 (Ordinance),
+         adopted February 23, 2024, to the California Department of Housing and Community
+         Development (HCD). The Ordinance was received on February 29, 2024. HCD has
+         reviewed the Ordinance and submits these written findings pursuant to Government
+         Code section 66326, subdivision (a). HCD finds that the Ordinance fails to comply with
+         State ADU Laws in the manner noted below. Pursuant to Government Code section
+         66326, subdivision (b)(1), the City has up to 30 days to respond to these findings.
+         Accordingly, the City must provide a written response to these findings no later than
+         May 24, 2025.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law as follows:
+
+            1. Senate Bill (SB) 1211 (Chapter 296, § 3, Statutes of 2024) – As of January 1, 2025,
+               the Legislature changed Government Code section 66323. Subdivision (a)(4)(A)(ii)
+               and (iii), now allows for the following:
+                       ο (ii) On a lot with an existing multifamily dwelling, not more than eight
+                         detached ADUs. However, the number of ADUs allowable pursuant to this
+                         clause shall not exceed the number of existing units on the lot.
+
+                       ο (iii) On a lot with a proposed multifamily dwelling, not more than two
+                         detached ADUs.
+            2. Assembly Bill (AB) 2533 (Chapter 834, Statutes of 2024) - As of January 1, 2025,
+               there are changes to Government Code section 66332. Subdivisions (a) and (b)
+               were changed and subdivisions (d) – (f) were added. Changes include permitting
+               previously unpermitted ADUs, adding the same protections for JADUs, and
+               setting additional requirements for local agencies. The County should review
+         Benjamin Fu, Director
+         Page 2
+
+
+               these new requirements and adjust the Ordinance to comply with State ADU
+               Law.
+
+            3. Statutory Numbering - The Ordinance contains several references to code
+               sections that were deleted by SB 477, effective March 25, 2024. These include
+               Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+               these sections were relocated to Government Code, Title 7, Division 1, Chapter
+               13 (sections 66310-66342, see Enclosure). The County must amend the
+               Ordinance to refer to the correct Government Code sections.
+
+            4. Sections 19.112.020 2. and 19.112.020 5. – Compliance with Underlying Zoning
+               – The Ordinance states that all ADUs in Cupertino must comply with “…site
+               development regulations and guideline [sic] specified in those zoning districts for
+               dwelling units….” However, State ADU Law requires (1) objective development
+               standards, and (2) exempts ADUs created per Government Code section 66323
+               from underlying site development regulations and zoning development and
+               design standards. Government Code section 66314, subdivision (b), requires
+               local ADU ordinances to impose objective standards, defined in part as only
+               those requirements that are “…knowable by both the development applicant or
+               proponent and the public official prior to submittal.” 1 The Ordinance does not
+               refer to the specific regulations or guidelines that must be complied with. Only
+               objective standards may be applied, and those objective standards authorized
+               by section 66314 are not applicable to units described in Government Code
+               section 66323. 2 Therefore, the City must amend the Ordinance to refer to the
+               applicable objective underlying regulations, guidelines or policies for an ADU
+               permit and must account for the exemptions for 66323 units.
+
+            5. Section 19.112.030A.2 – Number of Units – The Ordinance states a “maximum
+               [of] two ADUs per duplex lot.” However, lots that contain two or more existing or
+               proposed attached primary dwellings on the same lot, such as duplexes, are
+               multifamily dwellings. Under State ADU Law, a lot with a proposed or existing
+               duplex not created through the provisions of Government Code section
+               65852.21, may create up to (1) eight detached ADUs, and (2) at least one ADU
+               converted from non-livable space that meets “state building standards for
+               dwellings.” 3 The Ordinance as written limits the number of ADUs that can be
+               created on lots with existing or proposed duplexes. Therefore, the City must
+               amend the Ordinance to provide for the appropriate number of ADUs allowable
+               on a lot with proposed or existing multifamily dwelling structures.
+
+
+            6. Section 19.112.030 B. 4. – Maximum Size, Detached Multifamily ADUs – The
+               Ordinance indicates the maximum size of a detached ADU on a lot with a
+
+1 Gov. Code, § 66313, subd. (i).
+2 Gov. Code, § 66323, subd. (b).
+3
+    Gov. Code, § 66323, subds. (a)(3)(A) and (a)(4)(A).
+      Benjamin Fu, Director
+      Page 3
+
+
+            proposed or existing multifamily dwelling is limited to “1,200 s.f.”. However,
+            Government Code section 66323, subdivision (b) states, “A local agency shall
+            not impose any objective development or design standard that is not authorized
+            by this section upon any accessory dwelling unit that meets the requirements of
+            any of paragraphs (1) to (4), inclusive, of subdivision (a).” Therefore, the
+            maximum sizes stated in this section may not apply to any unit created subject
+            to Government Code section 66323, subdivision (a)(4). The City must amend
+            the ordinance to remove the restriction on maximum size for detached ADUs on
+            lots with existing or proposed multifamily dwellings.
+
+         7. Section 19.112.040 F.1. – Parking – The Ordinance does not provide for all of
+            the exemptions to parking requirements pursuant to Government Code section
+            66322, subdivisions (a)(1) through (a)(6): “(,,,(6) When a permit application for
+            an accessory dwelling unit is submitted with a permit application to create
+            a new single-family dwelling or a new multifamily dwelling on the same lot,
+            provided that the accessory dwelling unit or the parcel satisfies any other
+            criteria listed in this subdivision.” (Emphasis added.) Therefore, the City must
+            amend the Ordinance to add the exemption in Government Code section 66323,
+            subdivision (6).
+
+         8. Section 19.112.040 I. – Structure Design – The Ordinance states that structure
+            design “Should be compatible with the architectural style and materials of the
+            principal structure.” However, Government Code section 66314, subdivision
+            (b)(1), allows local jurisdictions to only “[i]mpose objective standards on
+            accessory dwelling units….” (Emphasis added.) Government Code section
+            66313, subdivision (h), defines “objective standards” as “standards that involve
+            no personal or subjective judgment by a public official and are uniformly
+            verifiable by reference to an external and uniform benchmark or criterion
+            available and knowable by both the development applicant or proponent and the
+            public official prior to submittal.” The Ordinance's requirement that an ADU
+            "should be compatible..." is subjective and therefore may not be imposed. The
+            City must amend this section to include only objective standards.
+
+      The City has two options in response to this letter. 4 The City can either amend the
+      Ordinance to comply with State ADU Law5 or adopt the Ordinance without changes and
+      include findings in its resolution adopting the Ordinance that explain the reasons the
+      City believes that the Ordinance complies with State ADU Law despite HCD’s findings. 6
+      If the City fails to take either course of action and bring the Ordinance into compliance
+      with State ADU Law, HCD must notify the City and may notify the California Office of
+      the Attorney General that the City is in violation of State ADU Law. 7
+
+
+4 Gov. Code, § 66326, subd. (c)(1).
+5 Gov. Code, § 66326, subd. (b)(2)(A).
+6 Gov. Code, § 66326, subd. (b)(2)(B).
+7 Gov. Code, § 66326, subd. (c)(1).
+Benjamin Fu, Director
+Page 4
+
+
+
+HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please feel free to contact Michael McLaughlin at Michael.McLaughlin@hcd.ca.gov if
+you have any questions.
+
+Sincerely,
+
+
+
+
+Jamie Candelaria
+Senior Housing Accountability Manager
+Housing Policy Development Division
+                  State ADU/JADU Law Statutory Conversion Table
+
+
+
+New Government Code Sections            Previous Government Code Sections
+                        Article 1. General Provisions
+66310                                   65852.150 (a)
+66311                                   65852.150 (b)
+66312                                   65852.150 (c)
+66313                                   General Definition Section
+                                        65852.2 (j)
+                                        65852.22 (j)
+               Article 2. Accessory Dwelling Unit Approvals
+66314                                   65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5)
+66315                                   65852.2 (a)(8)
+66316                                   65852.2 (a)(6)
+66317                                   65852.2 (a)(3), (a)(7)
+66318                                   65852.2 (a)(9), 65852.2 (a)(2)
+66319                                   65852.2 (a)(10)
+66320                                   65852.2 (b)
+66321                                   65852.2 (c)
+66322                                   65852.2 (d)
+66323                                   65852.2 (e)
+66324                                   65852.2 (f)
+66325                                   65852.2 (g)
+66326                                   65852.2 (h)
+66327                                   65852.2 (i)
+66328                                   65852.2 (k)
+66329                                   65852.2 (l)
+66330                                   65852.2 (m)
+66331                                   65852.2 (n)
+66332                                   65852.23.
+                Article 3. Junior Accessory Dwelling Units
+66333                                   65852.22 (a)
+66334                                   65852.22 (b)
+66335                                   65852.22 (c)
+66336                                   65852.22 (d)
+66337                                   65852.22 (e)
+66338                                   65852.22 (f)-(g)
+66339                                   65852.22 (h)
+                 Article 4. Accessory Dwelling Unit Sales
+66340                                   65852.26 (b)
+66341                                   65852.26 (a)
+66342                                   65852.2 (a)(10)

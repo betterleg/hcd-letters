@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021620",
+  "case_number": "HAU0001892",
+  "letter_date": "2025-08-15",
+  "jurisdiction": "Lafayette",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(d)(1) | 65915(u)(2)",
+  "n_statutes": "2",
+  "keywords": "Concession",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/lafayette-hau-1892-ta-081525.pdf",
+  "hcd_letter": "Lafayette Technical Assistance Letter 08/15/2025",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/lafayette-hau-1892-ta-081525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 202352,
+  "text_chars": 9254,
+  "text_empty": false
+}

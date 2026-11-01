@@ -1,0 +1,317 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         April 29, 2022
+
+
+         Scott Reimers
+         City of Temple City
+         Community Development Director
+         9701 Las Tunas Drive
+         Temple City, CA 91780
+
+         Dear Scott Reimers:
+         RE: City of Temple City – Housing Crisis Act, Letter of Technical Assistance
+         The purpose of this letter is to provide technical assistance to the City of Temple City
+         (City) regarding the relationship between its recently adopted Senate Bill (SB) 9
+         implementation ordinance (Ordinance Nos. 21-1058 U, 21-1059) (“Ordinance”) and the
+         Housing Crisis Act of 2019 (Gov. Code, § 66300), among other relevant state housing
+         laws. The California Department of Housing and Community Development (HCD)
+         received a complaint in which concerns were raised that certain provisions of the
+         Ordinance may violate state law. HCD subsequently reviewed the adopted ordinance
+         and other publicly available materials. This letter identifies several concerning
+         provisions of the Ordinance and describes the ways in which these provisions likely
+         violate the Housing Crisis Act of 2019 (HCA).
+         This letter also identifies provisions of the Ordinance that raise concerns under other
+         housing laws, such as State Housing Element Law (Gov. Code, § 65580 et seq.),
+         Accessory Dwelling Unit (ADU) Law (Gov. Code, § 65852.2), Affirmatively Furthering
+         Fair Housing (AFFH) (Gov. Code, § 8899.50), and Anti-Discrimination in Land Use Law
+         (Gov. Code, § 65008). These additional concerns are addressed briefly in anticipation of
+         the forthcoming 6th Cycle Temple City Housing Element review letter.
+         Housing Crisis Act of 2019 (Gov. Code, § 66300)
+         The HCA limits the ability of a local agency to reduce the intensity of land use anywhere
+         where housing is an allowable use without concurrently increasing the intensity of land
+         use elsewhere to compensate for the loss of residential development capacity. The
+         HCA defines reductions in the intensity of land use to include the addition or
+         modification of development standards. Specifically, the law provides the following:
+                  Changing the general plan land use designation, specific plan land use
+                  designation, or zoning of a parcel or parcels of property to a less intensive use or
+                  reducing the intensity of land use within an existing general plan land use
+                  designation, specific plan land use designation, or zoning district in effect at the
+      Scott Reimers, Community Development Director
+      Page 2
+
+
+
+             time of the proposed change, below what was allowed under the land use
+             designation or zoning ordinances of the affected county or affected city, as
+             applicable, as in effect on January 1, 2018, except as otherwise provided in
+             clause (ii) of subparagraph (B) or subdivision (i). For purposes of this
+             subparagraph, “reducing the intensity of land use” includes, but is not limited to,
+             reductions to height, density, or floor area ratio, new or increased open space or
+             lot size requirements, new or increased setback requirements, minimum frontage
+             requirements, or maximum lot coverage limitations, or any other action that
+             would individually or cumulatively reduce the site’s residential development
+             capacity.
+      (Gov. Code, § 66300, subd. (b)(1)(A).) In addition, the HCA is to be broadly construed
+      to maximize the development of housing.
+      HCD’s analysis of the adopted Ordinance involved identifying new or modified development
+      standards, comparing those development standards against the development standards
+      applicable to the R-1 Zone District and in effect on January 1, 2018 1, and noting instances
+      that suggested a reduction in residential development capacity. In reviewing materials from
+      the October 5, 2021; November 9, 2021; December 7, 2021; and January 4, 2022,
+      Planning Commission and City Council meetings, it appears that the potential impacts of
+      the HCA on the Ordinance were not discussed. For this reason, HCD assumes that no
+      HCA analysis was undertaken and no concurrent and compensatory increase in the
+      intensity of land use pursuant to subdivision (i) of Government Code section 66300
+      occurred.
+      Development Standard 1: Maximum Unit Size of 800 Square Feet: 2:The Ordinance creates
+      new maximum size standards for residential development that appear to reduce the intensity of
+      land use. The Ordinance limits the maximum size of a dwelling built under SB 9 to 800 square
+      feet (TCMC 9-1T-21.A.4.c). The development standards of the R-1 Zone District currently
+      impose no equivalent limitation on the absolute maximum size of dwellings. Rather, the R-1
+      Zone District regulates the size of dwellings by a combination of maximum floor area ratios and
+      maximum floor areas, which vary depending on lot area, depth, and whether the dwelling is
+      one or two stories in height. It is beyond the scope of this letter to comprehensively describe
+      the intricacies of these development standards; however, by examining the maximum lot
+      coverage standard, it is possible to see how the new standard represents a reduction in
+      residential development capacity. This section examines only the maximum lot coverage
+      standard in order to provide a comparison; other development standards could also serve for
+      this purpose.
+
+
+1
+  For the purposes of this analysis, HCD assumes that the relevant current development standards
+were in effect on January 1, 2018.
+2
+  While it is beyond the scope of this letter to address potential violations of SB 9 itself, Government
+Code section 65852.21, subdivision (b)(2)(A), seems to contemplate units that are “at least 800
+square feet in floor area,” not limited to a maximum of 800 square feet, as required by the Ordinance.
+Scott Reimers, Community Development Director
+Page 3
+
+
+
+Table 9-1G-3 (R-1 Zone District Residential Development Standards) provides that the
+maximum lot coverage shall be calculated according to the following formula: (.275 x lot area)
++ 1,125 square feet. The resulting figure represents the maximum amount of ground level
+residential floor area that a development can have. Lots with existing development (e.g., a
+single-family home) can receive additional floor area by constructing additions or by
+constructing new structures until the maximum lot coverage limit is reached. Vacant lots are
+subject to the same maximum lot coverage limit as already developed lots. HCD is particularly
+concerned by scenarios under which the Ordinance will prevent a property owner from
+developing its lot to the extent permitted under the previously existing development standards.
+
+For example, a typical 7,200 square-foot lot in the R-1 zone is generally able to be developed
+with a house approximately 3,000 square feet in size. Were the same size lot developed with
+“urban dwellings” pursuant to the City’s SB 9 implementation Ordinance, the size of each home
+would be limited to 800 square feet. This represents a reduction in floor area of approximately
+75 percent if one urban dwelling were constructed and approximately 50 percent if two urban
+dwellings were constructed. As demonstrated here, the Ordinance’s 800 square-foot maximum
+unit size reduces the site’s residential development capacity dramatically in certain instances.
+One potential remedy to this situation would be to impose the same suite of floor area-related
+development standards to lots with SB 9 units as to lots with one single-family dwelling.
+
+Development Standard 2: Height Limit: The Ordinance limits the maximum height of a new
+attached or detached dwelling built under SB 9 to one story and 18 feet (TCMC 9-1T-21.A.4.f).
+The development standards of the R-1 Zone District currently limit building heights depending
+on the lot characteristics. Lots wider than 75 feet allow one-story or two-story dwellings up to
+32 feet in height. Lots narrower than 75 feet allow one-story or two-story dwellings up to 28
+feet in height. On flag lots, uniquely shaped lots, or lots with less than 35 feet of street
+frontage, the building height is limited to one story and 18 feet. The Ordinance would impose
+the smallest, one-story, and 18-foot height limitation on all units built under SB 9 regardless of
+the size or other characteristics of the lot. This limitation, to the extent it prevents development
+of equivalent floor area compared to that allowed under the existing development standards as
+described above, reduces the intensity of land use and represents a reduction in residential
+development capacity.
+
+Development Standard 3: Courtyards: The Ordinance requires that all new detached
+dwellings built under SB 9 provide an open space courtyard with a minimum area of 1,000
+square feet or ten percent of the lot area and with a minimum width and depth of 20 feet,
+whichever is larger (TCMC 9-1T-21.A.6.m). The development standards of the R-1 Zone
+District currently impose no such requirement on other dwellings. As a point of comparison, in
+the higher density R-2 Zone District, a courtyard is required only for sites proposing more than
+two units and having a lot width of 50 feet or more. As with the height standard discussed
+above, imposing a courtyard requirement in the R-1 Zone District creates a reduction in
+residential development capacity if it prevents development of equivalent floor area compared
+to that allowed under the existing development standards.
+Scott Reimers, Community Development Director
+Page 4
+
+
+
+
+Governmental Constraints under Housing Element Law (Gov. Code, §§ 65580-65589.11)
+
+Housing elements are required to contain analysis of potential and actual governmental
+constraints on the development of housing for all income levels. (Gov. Code, § 65583, subd.
+(a)(5).) This includes, but is not limited to, analysis of land use controls, building codes and
+their enforcement, and locally adopted ordinances that directly impact the cost and supply of
+residential development. After identifying governmental constraints, the City must implement
+programs to remove those governmental constraints to the development of housing where
+legally possible. (Gov. Code, § 65583, subd. (c)(3).) Therefore, the City should be aware that
+HCD will examine the City’s SB 9 implementation Ordinance in the context of the commitments
+made in the City’s forthcoming draft 6th Cycle Housing Element.
+
+In addition to Development Standards 1-3 discussed above, the following provisions of the
+Ordinance appear to create governmental constraints on the development of housing that
+would reduce the economic feasibility of projects.
+
+Parking Requirements: The Ordinance prohibits a property owner from constructing off-street
+parking spaces that would serve the residents of an SB 9 unit (TCMC 9-1T-21.A.4.j; 9-1T-
+21.11.f). Additionally, the property owner must remove existing driveways and driveway aprons
+that might facilitate off-street parking. The development standards of the R-1 Zone District
+currently impose no such prohibition on the creation of additional off-street parking spaces
+beyond the two-space-per-dwelling minimum provided they meet the requirements of
+subsection G (Vehicle Parking and Driveways) of the R-1 Zone District development
+standards. These requirements impose a new burden on property owners seeking to develop
+housing under SB 9—a burden which is not borne by any other property owner in the R-1 Zone
+District. Coupled with the Ordinance’s prohibition on the issuance of on-street overnight
+parking permits to residents of SB 9 units (TCMC 3-3A-23.B.1.i), these requirements likely
+represent a governmental constraint on the development of housing.
+
+Additionally, these requirements raise concerns related to AFFH and housing discrimination.
+Materials reviewed by HCD indicate that the City did not perform an analysis to demonstrate
+that, within the R-1 Zone District in Temple City, households with protected characteristics that
+do not have a personal vehicle can access resources in a manner equivalent to households
+that do have a personal vehicle. 3 If the City is concerned with environmental impacts
+associated with personal automobile use, a more defensible policy may be to make off-street
+
+
+3
+ This may also raise concerns under 2 CCR § 12060(a) regarding practices with a discriminatory
+effect. Discriminatory effects occur when the policy or practice predictably results in a disparate impact
+on a group of individuals, or creates, increases, reinforces, or perpetuates segregated housing patterns
+based on membership in a protected class. See also Anti-Discrimination in Land Use Law (Gov. Code,
+§ 65008) and AFFH (Gov. Code, § 8899.50).
+Scott Reimers, Community Development Director
+Page 5
+
+
+
+parking and on-street parking permits optional for SB 9 units and their residents while
+encouraging active transportation and transit use. Policies that encourage these behaviors can
+include covered and secure bicycle parking, subsidized bus passes, etc.
+
+30-Year Affordable Housing Deed Restriction: The Ordinance requires that all units created
+under SB 9 be deed-restricted to low- or very low-income households (9-1T-21.A.4.l). While
+inclusionary zoning requirements are a well-used and important tool for the creation of
+affordable housing, this requirement is equivalent to a 100 percent inclusionary requirement
+that is not imposed on any other type of residential development in Temple City. A typical
+inclusionary requirement is 15 or 20 percent and is applicable to a broad range of residential
+development. This requirement has the potential to render development of SB 9 units
+economically infeasible, and as such may constitute a governmental constraint to housing
+development. As a part of the ongoing housing element update process, the City will need to
+demonstrate that local development costs and anticipated affordable rents will result in projects
+that are economically feasible.
+
+Additionally, Government Code section 65850, subdivision (g), authorizes local
+agencies to adopt an inclusionary housing ordinance that includes residential rental
+units affordable to lower- and moderate-income households. In certain circumstances,
+HCD may request the submittal of an economic feasibility study to ensure the ordinance
+does not unduly constrain housing production. For additional information, see HCD’s
+Rental Inclusionary Housing Memorandum.
+LEED Platinum Certification: The Ordinance requires that all new detached dwellings built
+under SB 9 achieve LEED Platinum certification (TCMC 9-1T-21.A.4.o). While environmental
+sustainability is a laudable goal, the development standards of the R-1 Zone District currently
+impose no such requirement on other dwellings. For a building to achieve a LEED Platinum
+certification, it must provide the very highest level of energy efficiency—far beyond the
+requirements of the state building code. To achieve this highest-level of sustainable design,
+specific building design, siting, materials, fixtures, appliances, and heating/cooling systems are
+required. These additional physical requirements will substantially increase the cost of
+development of SB 9 units and will therefore likely result in a governmental constraint to the
+development of housing.
+
+As stated above, housing elements must contain an analysis of governmental constraints on
+the development of housing for all income levels (Gov. Code, § 65583, subd. (a)(5)) and
+implement programs to remove those constraints (Gov. Code, § 65583, subd. (c)(3)). The
+concerns raised above may constitute such constraints.
+
+Subterranean Third Story Requirement: In certain instances, the Ordinance requires that a
+portion of the floor area of a dwelling built under SB 9 be located underground (TCMC 9-1T-
+21.A.4.f). Under SB 9, when a local agency’s development standards would physically
+preclude the construction of up to two residential units at least 800 square feet in size, the local
+agency is required to modify or waive one or more development standards to accommodate a
+Scott Reimers, Community Development Director
+Page 6
+
+
+
+development of that size. (Gov. Code, §§ 65852.21, subd. (b); 66411.7, subd. (c).) Anticipating
+that in some cases SB 9 units may need to be built as three-story dwellings to meet this
+statutory requirement, the City appears to have included this undergrounding requirement. In
+no other instance is a dwelling in the R-1 Zone District required to build habitable floor area
+that is otherwise consistent with other development standards such as maximum floor area,
+FAR, etc., as underground living space. This requirement could substantially increase the cost
+of development of some SB 9 units and may result in a governmental constraint to the
+development of housing.
+
+State ADU Law (Gov. Code, §§ 65852.2 and 65858.22)
+
+SB 9 and State ADU Law are complementary. Both laws can be implemented in ways
+that result in developments with both “SB 9 Units” and ADUs. When combined, up to four
+units may be built in the same lot area typically used for a single-family home. The
+calculation varies slightly depending on whether a lot split is involved, but the outcomes
+regarding total maximum unit counts are identical. After reviewing the City’s Ordinance to
+verify consistency with State ADU Law, the following concern was noted.
+
+Accessory Dwelling Units – No Lot Split: The Ordinance establishes a limit of two
+residential units on each lot developed under SB 9 and requires that ADUs and Junior
+ADUs (JADUs) count toward that limit (TCMC 9-1T-21.A.4.b). As written, this limitation
+applies to situations in which a lot split is proposed as well as to situations when a lot
+split is not proposed. This inaccurately implements SB 9 and denies property owners
+the right to develop ADU(s) consistent with State ADU Law. (Gov. Code, §§ 65852.2;
+65852.22.) The provisions of SB 9 that allow a local agency to impose a limit of two
+residential units specifies that ADUs/JADUs are to be counted towards that limit only in
+instances when a lot split is proposed. (Gov. Code, § 66411.7, subd. (j)(1).) In instances
+when a lot split is not proposed, these limitations do not apply and the local agency
+must allow ADUs as it typically would pursuant to State ADU Law. (Gov. Code, §
+65852.21, subd. (f).)
+
+Conclusion
+
+Separately and collectively, these development standards and other requirements reduce
+the intensity of land use, raising concerns under the HCA. They also raise concerns under
+State Housing Element Law, State ADU Law, AFFH, and Anti-Discrimination in Land Use
+Law. The implementation of these policies will almost certainly have a chilling effect on the
+production of housing under SB 9 by rendering projects economically infeasible. HCD
+would like to remind the City that under Government Code section 65585, subdivision (j),
+HCD has enforcement authority over these and other housing laws. Accordingly, HCD may
+review local government actions to determine consistency with these and other laws. (Gov.
+Code, § 65585, subd. (i).). If HCD finds that a city’s actions do not comply with state law,
+HCD may notify the California Office of the Attorney General. (Gov. Code, § 65585, subd.
+(j).)
+Scott Reimers, Community Development Director
+Page 7
+
+
+
+
+Thank you for your prompt attention to this matter. HCD recommends the City conduct a
+comprehensive review of the HCA and other applicable state housing laws and update
+its SB 9 implementing ordinance accordingly. Additionally, HCD requests that the City
+respond in writing within 30 days of receipt of this letter. The City’s response should
+include a proposed timeline for corrective actions. If you have questions or need
+additional information, please contact Brian Heaton, of our staff, at
+Brian.Heaton@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability
+
+
+cc:   Brian Cooke, City Manager
+      Greg Murphy, City Attorney

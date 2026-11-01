@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026495",
+  "case_number": "HAU0003283",
+  "letter_date": "2026-07-17",
+  "jurisdiction": "Campbell",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Starter Home Revitalization Act (SB 684 of 2023)",
+  "statutes": "65852.28 | 65852.28(b)(2) | 65941.1 | 66300.6 | 66300.6(a) | 66499.40 | 66499.41 | 66499.41(a) | 66499.41(a)(2)(A)",
+  "n_statutes": "9",
+  "keywords": "Preliminary application | Vacancy | half-story | height limit",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/campbell-hau-3283-ta-071726.pdf",
+  "hcd_letter": "Campbell Technical Assistance Letter 07/17/2026",
+  "housing_law": "Starter Home Revitalization Act (SB 684 of 2023)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/campbell-hau-3283-ta-071726.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227225,
+  "text_chars": 11959,
+  "text_empty": false
+}

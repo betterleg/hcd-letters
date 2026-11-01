@@ -1,0 +1,330 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                         GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 21, 2025
+
+
+
+         Jennifer Lilley, Director of Community & Economic Development
+         City of Riverside
+         3900 Main Street 3rd Floor
+         City of Riverside, CA 92522
+
+         RE: City of Riverside Senate Bill 9 Implementation — Letter of Technical Assistance
+
+         Dear Jennifer Lilley:
+
+         This letter provides technical assistance to the City of Riverside (City) regarding Chapters
+         19.443, titled “Two-Unit Developments”, and 18.085, titled “Urban Lot Splits”, of the Riverside
+         Municipal Code (RMC), added by Ordinance Numbers 7592 and 7591, respectively, that
+         implement Senate Bill (SB) 9 (Chapter 162, Statutes of 2021). 1 The California Department of
+         Housing and Community Development (HCD) identified several provisions within RMC
+         Chapters 19.443 and 18.085 (henceforth referred to as “the Ordinance”) that conflict with SB 9,
+         as detailed in this letter.
+
+         Background
+
+         HCD received a request for technical assistance from an applicant who currently has
+         several SB 9 projects submitted with the City. The requester identified additional provisions
+         of the Ordinance that potentially conflict with SB 9 during a July 24, 2024, meeting. On
+         August 14, 2024, HCD met with City staff to review those provisions, as well as additional
+         provisions identified by HCD that potentially conflict with SB 9.
+
+         Analysis
+
+         The City’s Ordinance satisfies many statutory requirements; however, HCD finds that it does
+         not comply with SB 9 in the following respects:
+
+              1. RMC 19.443.070(B)(a) – Owner-occupancy requirements for units processed pursuant
+                 to SB 9 – This provision includes an owner-occupancy requirement for units processed
+                 pursuant to Government Code section 65852.21. This owner-occupancy requirement
+                 has no specified timeframe and requires a deed restriction recorded “on title to the
+                 subject property binding current and future owners to this requirement.” 2 While
+                 Government Code section 66411.7, subdivision (g), requires an applicant for an urban
+                 lot split to sign an affidavit stating that the applicant intends to occupy one of the
+                 housing units as their principal residence for a minimum of three years from the date of
+
+
+1
+  Gov. Code, §§ 65852.21, 66411.7. SB 450 (Chapter 286, Statutes of 2024) amended SB 9. This letter
+contains feedback that reflect these revisions to the law.
+2
+  RMC 19.443.070(B)(b).
+       Jennifer Lilley, Director of Community & Economic Development
+       Page 2
+
+
+              the approval of the urban lot split, with specified exceptions, 3 there are no
+              corresponding owner-occupancy requirements for a proposed housing development
+              containing no more than two units under Government Code section 65852.21.
+              Additionally, although a local agency may impose objective standards and certain
+              conditions of approval pursuant to Government Code section 65852.21, subdivisions (b)
+              and (c), respectively, the local agency must not preclude SB 9 units on otherwise
+              eligible lots with an owner-occupancy requirement when a proposal does not include an
+              urban lot split. Finally, the standard does not appear to be applied uniformly to
+              development within the underlying zone. 4 The City must remove this provision.
+
+           2. RMC 19.443.050(A)(1)(b) – Three-unit cap – This provision states that “no more than
+              three total dwelling units, inclusive of Accessory Dwelling Units (ADUs) and Junior
+              Accessory Dwelling Units (JADUs)… may be constructed on any undivided lot in a
+              single-family zone.” A local agency is not required to approve ADUs and JADUs on lots
+              that involve both urban lot splits and units processed pursuant to Government Code
+              section 65852.21. 5 A local agency may also impose a two unit maximum, inclusive of
+              ADUs and JADUs, on lots created through an urban lot split. 6 However, SB 9 does not
+              provide for a limit on the application of ADUs and JADUs on lots that do not involve an
+              urban lot split. 7 The City must remove this provision so that the it does not conflict with
+              ADU and JADU law by limiting their application on sites that do not involve an urban lot
+              split.
+
+           3. RMC 19.443.050(C)(2) – Street side setbacks – This provision states that “street side
+              yard setbacks for two-unit developments shall be as required by the Zone.” However,
+              Government Code section 65852.21, subdivision (b)(2)(B)(ii), states “a local agency
+              may require a setback of up to four feet from the side and rear lot lines.” A side lot line
+              is a side lot line, regardless of whether that lot line abuts a street in the case of a corner
+              lot. Limitations on side lot line setbacks, established in statute, apply to the street sides
+              of a corner lot. 8 The City must amend this provision and require side setbacks no
+              greater than four feet.
+
+           4. RMC 19.443.060(B) – Setbacks above the first floor – This provision states that “upper
+              floors and the portions of the structure exceeding 16 feet in height shall comply with the
+              minimum required setbacks of the underlying zone.” However, Government Code
+              section 65852.21, subdivision (b)(2)(B)(ii), states “a local agency may require a setback
+              of up to four feet from the side and rear lot lines” and makes no exception above any
+              heights or floors. The City must remove this provision and require side and rear
+              setbacks no greater than four feet.
+
+
+
+
+3
+  Gov Code, § 66411.7, subd. (g)(2).
+4
+  Gov Code, § 65852.21, subd. (b)(3).
+5
+  Gov Code, § 65852.21, subd. (f).
+6
+  Gov Code, § 66411.7, subd. (j).
+7
+  See HCD’s SB 9 Fact Sheet, pg. 6, available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+community/sb-9-fact-sheet.pdf (“When a lot split has not occurred, the lot is eligible to receive ADUs and/or
+Junior ADUs as it ordinarily would under ADU law.”)
+8
+  See December 15, 2022, Review of the City of Union City’s Accessory Dwelling Unit (ADU) Ordinance,
+available at https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-
+letters/UnionCityADUordinance12152022.pdf.
+      Jennifer Lilley, Director of Community & Economic Development
+      Page 3
+
+
+
+          5. RMC 18.085.030(A) and 19.443.040(A) – Exempt Areas – These provisions of the
+             Ordinance include several areas where SB 9 units and urban lot splits cannot be
+             located. For example, SB 9 project sites cannot be located in a “mapped Arroyo” or
+             area “identified for habitat” as defined in the Western Riverside Multiple Species Habitat
+             Conservation Plan. 9 SB 9 provides that the parcel must satisfy the requirements
+             specified in Government Code section 65913.4, subdivision (a)(6)(B) through (K),
+             inclusive, as that section read on September 16, 2021. 10 In general, when the
+             Ordinance includes environmental exemption areas, those areas must align with those
+             provided for in Government Code section 65913.4, subdivision (a)(6)(B) through (K) as
+             that section read on September 16, 2021 so as to not preclude projects from occurring
+             on eligible parcels or facilitate projects on ineligible parcels under SB 9. While HCD did
+             not independently, exhaustively verify the eligibility of the exemption areas in the
+             Ordinance that are based on local programs, HCD encourages the City to ensure
+             exemption areas align with those provided for in SB 9 when the implementing
+             Ordinance includes language different than state law.
+
+          6. RMC 18.085.030(A)(2) and 19.443.040(A)(2) – Exempt Fire Areas – These provisions
+             of the RMC require that SB 9 projects “not be located within a Very High Fire Hazard
+             Severity Zone.” However, Government Code section 65913.4, subdivision (a)(6)(D), as
+             read in 2021, provides that the project not be located “[w]ithin a very high fire hazard
+             severity zone, as determined by the Department of Forestry and Fire Protection
+             pursuant to Section 51178, or within a high or very high fire hazard severity zone as
+             indicated on maps adopted by the Department of Forestry and Fire Protection pursuant
+             to Section 4202 of the Public Resources Code.” (emphasis added). In addition, the
+             subparagraph states that it does not apply to sites that adopt specified fire hazard
+             mitigation measures. 11 The City must update the Ordinance to allow for the exceptions
+             provided for in Government Code section 65913.4, subparagraph (a)(6)(D), as that
+             section read on September 16, 2021.
+
+          7. RMC 18.085.030(A)(5), 19.443.040(A)(5), 18.085.030(A)(7), and 19.443.040(A)(7) –
+             Additional Exclusions – These provisions exclude SB 9 projects from “Neighborhood
+             Conservation Area(s)” and on sites listed as a “Structure of Merit,” designated pursuant
+             to RMC Title 20. However, SB 9 only provides that a development should not be
+             located “within a site that is designated or listed as a city or county landmark or historic
+             property or district pursuant to a city or county Ordinance.” 12 In other words, SB 9
+             exempts projects on or within a site that is (1) designated or listed as a landmark, (2)
+             designated or listed as a historic property, or (3) designated or listed as an historic
+             district. The term “district” in Government Code section 65852.21, subdivision (a)(5), is
+             modified only by the word “historic” and neither of the terms “structure” nor “merit”
+             appear in the subparagraph. 13 Thus, neither “Neighborhood Conservation Areas” nor
+             “Structures of Merit” meet the criteria laid out in statute. Additionally, designation criteria
+
+9
+   RMC 19.443.040(A)(3).
+10
+   Gov. Code, §§ 65852.21, subd. (a)(2); 66411.7, subd. (a)(3)(C).
+11
+   See HCD technical assistance letter to the City of Jurupa Valley on June 24, 2022:
+https://www.hcd.ca.gov/community-development/housing-element/docs/rivJurupaValley-TA-062422.pdf
+12
+   Gov Code, § 65852.21, subd. (a)(5).
+13
+   See California Attorney General Notice of Violation to the City of Pasadena, pg. 2, available at
+https://oag.ca.gov/system/files/attachments/press-
+docs/AG%20Letter%20to%20Pasadena%20re%20SB%209%20Urgency%20Ordinance.pdf (“To the extent the
+exemption is at all ambiguous, it must be read narrowly as to not undermine the objectives of SB 9.”)
+       Jennifer Lilley, Director of Community & Economic Development
+       Page 4
+
+
+               for both “Neighborhood Conservation Areas” and “Structures of Merit” indicate that such
+               designations may be made with criteria that do not involve “historic” or “historical”
+               characteristics. 14 The City must not exclude SB 9 projects from sites within
+               “Neighborhood Conservation Areas” or containing “Structures of Merit.”
+
+           8. RMC 18.085.040(B)(b) – Subjective Access Standard – This provision provides that
+              “additional access requirements, including but not limited to a wider access corridor or
+              easement, may be required where necessary to provide adequate access for fire safety
+              equipment as determined by the Fire Marshal.” Based on the language of this provision
+              and context provided during a call with the City on August 14, 2024, this standard is
+              subjective. The City must ensure that objective zoning, subdivision, and design review
+              standards “involve no personal or subjective judgment by a public official and are
+              uniformly verifiable by reference to an external and uniform benchmark or criterion
+              available and knowable by both the development applicant or proponent and the public
+              official prior to submittal.” 15
+
+           9. RMC 19.443.050(E) – Waiving Standards that Physically Preclude Units – This
+              provision of waives “any development standard that would physically prevent the
+              development of at least two primary dwelling units of at least 800 square feet.”
+              However, Government Code section 65852.21, subdivision (b)(2)(A) states that
+              objective standards shall not be imposed that preclude “up to two units” of at least 800
+              square feet from being constructed. Accordingly, standards shall not be applied that
+              preclude either one or two units, not a minimum of two as the Ordinance currently
+              states. The City must amend the waiver language to reflect state law and waive
+              standards that are found to physically preclude up to two units or that would physically
+              preclude either of the two units from being at least 800 square feet in floor area.
+
+           10. Review Timelines – SB 450 amended SB 9 by adding review timelines for proposed
+               housing developments containing no more than two residential units and urban lot
+               splits, stating that “an application… shall be considered and approved or denied within
+               60 days from the date the local agency receives a completed application. If the local
+               agency has not approved or denied the completed application within 60 days, the
+               application shall be deemed approved.” 16 Additionally, the new provisions state that “If a
+               permitting agency denies an application…, the permitting agency shall… return in
+               writing a full set of comments to the applicant with a list of items that are defective or
+               deficient and a description of how the application can be remedied by the applicant.” 17
+               The Ordinance and the City’s application processing procedures 18 must be updated to
+               reflect these new statutory application review timelines.
+
+
+14
+    See definitions for “Structure (or Resource) of Merit” and “Neighborhood conservation area” in RMC
+20.50.010.
+15
+    Gov. Code, §§ 65852.21, subd. (j)(2); 66411.7, subd. (m)(1).
+16
+    Gov. Code, §§ 65852.21, subd. (h); 66411.7, subd. (b)(1).
+17
+   Id.
+18
+    Under the Permit Streamlining Act (PSA), a local agency has 30 calendar days to determine whether a
+specified application is complete. If an application is determined to be incomplete, the local agency must
+provide an exhaustive list of items that were not complete. For an explanation of an interaction between a
+similar ministerial application review timeline and the PSA, see HCD’s letter of technical assistance to the City
+of Los Angeles on December 11, 2024:
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/losangeles-hau1189-ta-sb684-
+12112024.pdf
+       Jennifer Lilley, Director of Community & Economic Development
+       Page 5
+
+
+          11. RMC 18.085.060 – Noticing for Urban Lot Splits – This provision of the Ordinance
+              requires an applicant for a proposed urban lot split to provide written notice to property
+              owners within 300 feet of the site where the subdivision is proposed. However, SB 450
+              amended Government Code section 6411.7, subdivision (c)(1) to clarify that a local
+              agency may impose objective standards to applications for an urban lot split “that are
+              related to the design or to improvements of a parcel.” A requirement to provide notice to
+              nearby property owners of an application submittal is not related to the design or
+              improvements of the parcel. The City must remove the noticing requirement for urban
+              lot splits.
+
+          12. RMC 19.443.080 – Noticing for SB 9 Units – This provision of the Ordinance requires
+              an applicant for a proposed housing development containing no more than two
+              residential units to provide written notice to property owners within 300 feet of the site
+              where the project is proposed. However, SB 450 amended Government Code section
+              65852.21, subdivision (b)(3) to require that, “A local agency shall not impose
+              objective… standards that do not apply uniformly to development within the underlying
+              zone.” The requirement to provide notice to nearby property owners of an application
+              submittal does not appear to be a standard applied uniformly to development within the
+              underlying zone. If the standard is not applied uniformly to development within the
+              underlying zone, the City must remove this provision from the Ordinance.
+
+          13. Standards Not Applied Uniformly Within the Underlying Zone – The Ordinance contains
+              several additional standards that do not appear to be applied uniformly to development
+              within the underlying zone. Government Code section 65852.21, subdivision (b)(3)
+              requires that, “A local agency shall not impose objective… standards that do not apply
+              uniformly to development within the underlying zone.” If not applied uniformly to
+              development within the underlying zone, the City must remove the following provisions:
+
+                 •   RMC 19.443.060(A)(a), “A minimum separation of 10 feet shall be provided
+                     between any detached dwellings on the site.” Additionally, the term “dwellings”
+                     as defined in RMC 19.910.050 also appears to include ADUs. Were this
+                     standard permissible pursuant to Government Code section 65852.21,
+                     subdivision (b)(3), the City should still assess the provision for compliance with
+                     ADU law. 19
+                 •   RMC 19.443.060(A)(b), “Windows within 30 feet of a neighboring structure on
+                     another parcel shall not directly align with the windows of the neighboring
+                     structure.”
+                 •   RMC 19.443.060(A)(c), “Upper story unenclosed landings, decks, and balconies
+                     that face or overlook an adjoining property shall be located a minimum of 15 feet
+                     from the interior lot lines.”
+                 •   RMC 19.443.060(D), “A minimum of one 24-inch box tree of a broad leaf or
+                     evergreen species shall be provided on site per unit constructed. Palms shall
+                     not be considered to satisfy this requirement.”
+
+
+
+
+19
+  See HCD ADU Handbook pg. 38: “Minimum distance or other requirements may not be applied if they would
+unreasonably restrict the creation of ADUs, unless they are a requirement of a Building or Fire Code (Gov.
+Code, § 66314, subd. (d)(8)).” https://www.hcd.ca.gov/sites/default/files/docs/policy-and-
+research/ADUHandbookUpdate.pdf
+          Jennifer Lilley, Director of Community & Economic Development
+          Page 6
+
+
+
+          Conclusion
+
+          HCD finds that several provisions in the City’s Ordinance conflict with SB 9. HCD looks forward
+          to assisting the City in implementing SB 9 unit and urban lot split Ordinances that comply with
+          state law and hopes the City finds this letter of technical assistance helpful. HCD would also
+          like to remind the City that HCD has enforcement authority over SB 9, among other state
+          housing laws. 20 Accordingly, HCD may review local government actions and inactions to
+          determine consistency with these laws. If HCD finds that a City’s actions do not comply with
+          state law, HCD may notify the California Office of the Attorney General that the local
+          government is in violation of state law. If you have questions or need additional information,
+          please contact Brandon Yung at brandon.yung@hcd.ca.gov.
+
+          Sincerely,
+
+
+
+
+          Shannan West
+          Housing Accountability Unit Chief
+
+
+
+
+20
+     Gov. Code, § 65585, subd. (j).

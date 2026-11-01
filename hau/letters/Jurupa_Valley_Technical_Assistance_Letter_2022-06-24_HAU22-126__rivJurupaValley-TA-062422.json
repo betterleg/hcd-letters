@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010715",
+  "case_number": "HAU22-126",
+  "letter_date": "2022-06-24",
+  "jurisdiction": "Jurupa Valley",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "statutes": "65913.4",
+  "n_statutes": "1",
+  "keywords": "SMAP eligibility | Streamlined Ministerial Approval Process (SB 35 Application)",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/rivJurupaValley-TA-062422.pdf",
+  "hcd_letter": "Jurupa Valley Technical Assistance Letter 06/24/2022",
+  "housing_law": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/rivJurupaValley-TA-062422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 221003,
+  "text_chars": 5971,
+  "text_empty": false
+}

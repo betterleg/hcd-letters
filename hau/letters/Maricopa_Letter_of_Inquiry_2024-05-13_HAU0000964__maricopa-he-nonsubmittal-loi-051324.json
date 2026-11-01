@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0015325",
+  "case_number": "HAU0000964",
+  "letter_date": "2024-05-13",
+  "jurisdiction": "Maricopa",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/maricopa-he-nonsubmittal-loi-051324.pdf",
+  "hcd_letter": "Maricopa Letter of Inquiry 05/13/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/maricopa-he-nonsubmittal-loi-051324.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 198746,
+  "text_chars": 5857,
+  "text_empty": false
+}

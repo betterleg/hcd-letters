@@ -1,0 +1,118 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                       GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 17, 2023
+
+
+         Lisa Webber, AICP, Deputy Director of Project Planning
+         City of Los Angeles
+         200 North Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Lisa Webber:
+
+         RE: Los Angeles AB 2097 Eligibility – Letter of Technical Assistance
+
+         HCD received a request for technical assistance from Jeffer Mangles Butler & Mitchell LLP
+         (JMBM) on September 27, 2023, regarding the application of Assembly Bill (AB) 2097
+         (Chapter 459, Statutes of 2022). AB 2097 limits the ability of a public agency to impose
+         minimum automobile parking requirements for residential, commercial, or other qualifying
+         development projects if they are located within one-half mile of public transit, as defined.
+         The purpose of this letter is to provide technical assistance for the benefit of both the City
+         of Los Angeles (City) and JMBM.
+
+         Project Description and Background
+
+         HCD understands that the proposed Project, 1 located at 12124 Pacific Avenue, would
+         provide 74 housing units, including 11 units affordable to very low-income households.
+         The Project application, which was submitted on November 10, 2022, was approved by
+         the City Planning Commission on August 23, 2023. After the Project was approved, the
+         applicant became aware of the provisions of Government Code section 65863.2 (i.e.,
+         AB 2097). The applicant currently seeks to use this statute as a basis to terminate an
+         existing parking covenant on the property. In email discussions that HCD has reviewed,
+         the City has taken the position that the Project is not eligible under AB 2097 because it
+         relies on a planned transit stop, rather than an existing transit stop, to establish eligibility
+         under the law. The City does not dispute that the project site is located within one-half
+         mile of the planned Venice Boulevard/Centinela Avenue major transit stop, as shown in
+         the regional transit plan (RTP) adopted by the Southern California Association of
+         Governments (SCAG).
+
+
+
+
+1 City permit number CPC-2022-8256-CU-DB-PHP-HCA
+Lisa Webber, AICP, Deputy Director of Project Planning
+Page 2
+
+
+
+
+Interpretation of AB 2097
+
+Government Code section 65863.2 requires that eligible projects be located within 0.5
+miles of “public transit” to qualify for the parking exemption. “Public transit,” in this
+instance, means a “major transit stop” as defined in Section 21155 of the Public
+Resources Code. The definition of “major transit stop” referenced in Public Resources
+Code section 21155, subdivision (b), provides the following:
+
+       “A major transit stop is as defined in Section 21064.3, except that, for purposes
+       of this section, it also includes major transit stops that are included in the
+       applicable regional transportation plan.” (Emphasis added)
+
+Finally, Public Resources Code section 21064.3 defines a major transit stop per the
+following:
+
+       “Major transit stop” means a site containing any of the following:
+          (a) An existing rail or bus rapid transit station.
+          (b) A ferry terminal served by either a bus or rail transit service.
+          (c) The intersection of two or more major bus routes with a frequency of service
+              interval of 15 minutes or less during the morning and afternoon peak commute
+              periods. (Emphasis added)
+
+Therefore, the question at hand is: Can a planned “major transit stop,” as identified
+in an RTP, serve to qualify a site for a parking exemption pursuant to AB 2097,
+despite the fact that bus service frequency interval cannot yet be observed and
+therefore verified?
+
+The answer is “yes,” for the following reasons. First, Public Resources Code section
+21155, subdivision (b), does not condition the eligibility of planned major transit stops on
+their current existence. The statute only specifies that the stops be “included” in the
+applicable region’s RTP (in this case, SCAG’s). It is presumed that planning documents,
+by their very nature, will anticipate future infrastructure and conditions that do not yet
+exist.
+
+Second, it is reasonable to assume that by referencing Public Resources Code section
+21155, subdivision (b), the Legislature intended for the law to include both current and
+planned major transit stops. Had the Legislature intended for the parking exemption to
+apply only to major transit stops that currently exist, it could have defined applicability
+using only Public Resources Code section 21064.3.
+Lisa Webber, AICP, Deputy Director of Project Planning
+Page 3
+
+
+
+
+Conclusion
+
+In summary, HCD finds that the project is within the one-half mile radius of a major
+transit stop and therefore meets the basic eligibility requirements for a parking
+exemption under AB 2097. HCD remains committed to supporting the City of Los
+Angeles in achieving planning objectives and hopes the City finds this clarification
+helpful. If you have questions or need additional information, please contact David Ying
+at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

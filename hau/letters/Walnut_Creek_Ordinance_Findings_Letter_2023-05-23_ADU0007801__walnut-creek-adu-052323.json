@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024872",
+  "case_number": "ADU0007801",
+  "letter_date": "2023-05-23",
+  "jurisdiction": "Walnut Creek",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/walnut-creek-adu-052323.pdf",
+  "hcd_letter": "Walnut Creek Ordinance Findings Letter 05/23/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/walnut-creek-adu-052323.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 178317,
+  "text_chars": 7836,
+  "text_empty": false
+}

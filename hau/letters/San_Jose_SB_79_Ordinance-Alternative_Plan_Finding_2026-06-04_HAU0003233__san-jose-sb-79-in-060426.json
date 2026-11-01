@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026067",
+  "case_number": "HAU0003233",
+  "letter_date": "2026-06-04",
+  "jurisdiction": "San Jose",
+  "letter_type": "SB 79 Ordinance/Alternative Plan Findings Letter",
+  "housing_laws": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "statutes": "65912.160(e)(2)",
+  "n_statutes": "1",
+  "keywords": "Industrial Employment Hub",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-jose-sb-79-in-060426.pdf",
+  "hcd_letter": "San Jose SB 79 Ordinance/Alternative Plan Findings Letter 06/04/2026",
+  "housing_law": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-jose-sb-79-in-060426.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 163464,
+  "text_chars": 5341,
+  "text_empty": false
+}

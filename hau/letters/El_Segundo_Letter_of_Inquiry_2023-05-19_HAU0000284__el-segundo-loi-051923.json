@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011402",
+  "case_number": "HAU0000284",
+  "letter_date": "2023-05-19",
+  "jurisdiction": "El Segundo",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-segundo-loi-051923.pdf",
+  "hcd_letter": "El Segundo Letter of Inquiry 05/19/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-segundo-loi-051923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189228,
+  "text_chars": 6638,
+  "text_empty": false
+}

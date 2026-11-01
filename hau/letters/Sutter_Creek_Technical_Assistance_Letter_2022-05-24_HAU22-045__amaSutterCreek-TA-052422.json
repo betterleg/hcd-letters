@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010705",
+  "case_number": "HAU22-045",
+  "letter_date": "2022-05-24",
+  "jurisdiction": "Sutter Creek",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Anti-Discrimination in Land Use Law | By-Right Supportive Housing Provisions",
+  "statutes": "65008 | 65008(b) | 65008(d)(2)(A) | 65650 | 65651(a) | 65651(a)(1) | 65651(b)(1) | 65652 | 65653 | 65654 | 65655 | 65656",
+  "n_statutes": "12",
+  "keywords": "permanent supportive housing",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/amaSutterCreek-TA-052422.pdf",
+  "hcd_letter": "Sutter Creek Technical Assistance Letter 05/24/2022",
+  "housing_law": "By-Right Supportive Housing Provisions, Anti-Discrimination in Land Use Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/amaSutterCreek-TA-052422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 211121,
+  "text_chars": 11228,
+  "text_empty": false
+}

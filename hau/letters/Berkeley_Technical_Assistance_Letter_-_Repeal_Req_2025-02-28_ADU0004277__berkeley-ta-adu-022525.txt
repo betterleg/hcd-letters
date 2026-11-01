@@ -1,0 +1,170 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 25, 2025
+
+
+         Jordan Klein, Director of Planning and Development
+         Department of Planning and Development
+         City of Berkeley
+         1947 Center Street, 3rd Floor
+         Berkeley, CA 94704
+
+         RE: Allowance of Accessory Dwelling Units (ADUs) on Lots with Multi-family
+            Dwellings – Letter of Technical Assistance
+
+         Dear Jordan Klein:
+
+         The California Department of Housing and Community Development (HCD) issues this
+         Letter of Technical Assistance following the denial of an ADU permit application at 1902
+         Ward Street. This letter provides technical assistance regarding the City of Berkeley’s
+         (City)’s application of State ADU Law when reviewing ADUs on lots with multi-family
+         dwellings. When reviewing ADUs not proposed pursuant to Government Code section
+         66323, the City must approve projects that meet the relevant, objective standards found
+         in State ADU Law or the City’s own ADU ordinance.
+
+         Background
+
+         On August 23, 2024, HCD received a request for technical assistance from a Berkeley
+         resident looking to build an ADU at 1902 Ward Street. The lot contains a duplex and is
+         thus considered multi-family for State ADU Law purposes. 1 The requestor applied for a
+         permit to add a 610 square-foot, new construction ADU above the duplex’s attached
+         garage. The City denied this application and provided the following correction:
+
+              An attached ADU within a duplex is allowed through conversion only, not new
+              construction, per BMC 23.306.030(A)(2): Duplex or Multi-Family Dwelling
+              Conversion. Interior ADU(s) must be created entirely through non-habitable
+              residential portions of the existing main building that are not within the living space of
+              a dwelling unit (e.g. basement, attic, garages, storage room). The proposed ADU is
+              not a conversion of existing space, but rather new construction. The project needs to
+              be redesigned to comply with ADU development standards BMC 23.306....
+
+
+
+1
+    2025 ADU Handbook, Pg. 10.
+Jordan Klein, Director of Planning and Development
+Page 2
+
+
+The requestor claims his parcel’s small size does not facilitate a new construction,
+detached ADU and renders the possibility of detaching the existing garage to add an
+ADU above infeasible. As a result, the requestor cannot conform his ADU development
+to align with the City’s comments and reached out to ask HCD whether the City must
+approve his ADU permit.
+
+Between September and December of 2024, HCD reached out four times to discuss the
+application and gather additional information before getting a response from the City.
+On December 15, 2024, the City responded with their determination on the application
+and how Government Code section 66314, subdivision (d)(3) applies:
+
+   Our interpretation of this provision is that the City must allow “either” new
+   construction attached or conversion ADUs, but is not required to allow both. While
+   the conversion of the attached garage to an ADU is permissible under Berkeley’s
+   ADU Ordinance, an addition to the attached garage for an ADU is not….
+
+   Under our current ADU Ordinance, the proposal as currently designed cannot move
+   forward because it does not comply with the City’ {sic} objective standards. That
+   said, the Planning Department is engaging with City Council on amendments to the
+   ADU Ordinance, and can discuss policy direction on this particular issue.
+
+Analysis
+
+Government Code section 66314, subdivision (d)(3), provides that a “local agency may,
+by ordinance, provide for the creation of [ADUs] in areas zoned to allow single-family or
+multifamily dwelling residential use” and shall require the ADUs to comply with, among
+other things, the following:
+
+   “The accessory dwelling unit is either attached to, or located within, the proposed or
+   existing primary dwelling, including attached garages, storage areas or similar uses,
+   or an accessory structure or detached from the proposed or existing primary
+   dwelling and located on the same lot as the proposed or existing primary dwelling,
+   including garages.”
+
+Contrary to the City’s assertion, Government Code section 66314, subdivision (d)(3),
+does not provide an “either/or” scenario where local agencies can decide to permit
+either new construction attached or conversion ADUs. Rather, this provision outlines all
+valid ADU types that must be permitted if relevant standards are met. As a result, the
+City may not deny the Ward Street ADU solely for being a new construction ADU on a
+lot with a multi-family dwelling and must permit the proposed ADU if it meets the
+objective standards contained within the City’s ordinance.
+      Jordan Klein, Director of Planning and Development
+      Page 3
+
+
+      HCD concurs with the City that State ADU Law affords the ability to create ADUs within
+      non-livable portions of existing multifamily dwelling structures. 2 The City classifies these
+      types of projects as “interior ADUs.” 3 However, the proposed ADU is not an “interior
+      ADU” and will not come from a conversion of existing space. Rather, the proposed ADU
+      is attached to an attached garage, which is specifically contemplated in Government
+      Code section 66314, subdivision (d)(3). The proposed ADU is an ADU that is “attached
+      to ... the existing primary dwelling, including attached garages....” Consequently, the
+      City’s requirement for the ADU to come from non-livable portions of the existing
+      structure does not apply. Additionally, State ADU Law does not use the term “interior
+      ADUs,” and the City’s ADU ordinance does not offer a concrete definition of this term.
+
+      Finally, Government Code section 66314, subdivision (d)(3) ADUs are not limited to
+      single-family lot. Nevertheless, Berkeley’s Municipal Code only provides for the creation
+      of multi-family ADUs pursuant to Government Code section 66323, subdivisions (a)(3)
+      and (a)(4). These sections do not dictate the 4 types of ADUs that are allowed on lots
+      with multi-family dwellings, only those that must be permitted independent of objective
+      standards. As a result, the City’s ADU Ordinance has more stringent development
+      standards than State ADU Law. In such instances, State ADU Law shall supersede a
+      conflicting local ordinance. 5
+
+      In summary, Government Code section 66314, subdivision (d)(3), confirms that an ADU
+      that is proposed to be attached to an existing primary dwelling, including an attached
+      garage, must be permitted if the ADU satisfies the applicable objective standards. As
+      the Ward Street ADU is not an ADU pursuant to Government Code section 66323,
+      subdivisions (a)(3) or (4), the City may impose the objective design standards in its ADU
+      ordinance on the prospective ADU. 6 While these potential standards may limit certain
+      elements of ADU design, the ADU cannot be denied solely for being a new construction,
+      attached ADU on top of an attached garage.
+
+      Conclusion
+
+      The City has misapplied State ADU Laws in its ordinance and regarding the Ward
+      Street ADU application and potentially others like it.
+
+
+
+
+2 Gov. Code, § 66323, subd. (a)(3).
+3 Berkeley Municipal Code § 23.306.030.A.2.
+4 Gov. Code, § 66323, subd. (b).
+5 Gov. Code, § 66325, subd. (a).
+6 Gov. Code, § 66323, subd. (b).
+      Jordan Klein, Director of Planning and Development
+      Page 4
+
+
+
+      As a reminder, if HCD finds that a city’s actions do not comply with State ADU Law,
+      HCD may notify the Office of the Attorney General that the local government is in
+      violation of state law. 7 HCD requests that the City respond within 30 days to this Letter
+      of Technical Assistance, no later than March 27, 2025. HCD will consider this response
+      before taking further action authorized by state law.
+
+      If you have any questions or need additional information, please contact Nicholas Green
+      at Nicholas.Green@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+
+
+
+7 Gov. Code, §§ 65585, subd. (j); 66326, subd. (c)(1).

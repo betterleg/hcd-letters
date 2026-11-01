@@ -1,0 +1,135 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                        GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         May 20, 2022
+
+
+
+         Ruth Cueto, Planning Division
+         City of San Jose
+         200 E. Santa Clara Street
+         Tower, 3rd Floor
+         San Jose, CA 95113
+
+         Dear Ruth Cueto:
+
+         RE: 675 East Santa Clara Street – Letter of Technical Assistance
+         The purpose of this letter is to provide technical assistance to the City of San Jose (City)
+         regarding a 100-percent affordable residential infill project to be located at 675 East
+         Santa Clara Street. The proposed project would result in the creation of 559 deed-
+         restricted affordable units on an existing vacant site located near downtown. The City
+         requested technical assistance from the California Department of Housing and
+         Community Development (HCD) regarding the interpretation of the State Density Bonus
+         Law (SDBL) (Gov. Code, § 65915) in the context of a proposed development that does
+         not seek an increase in density. Specifically, the City seeks guidance on how to
+         appropriately consider requests for development standard waivers when a project does
+         not seek an increase in density (i.e., the proposed project is consistent with the zone’s
+         existing maximum allowable residential density). Note this letter uses the term “base
+         density” as a synonym for “maximum allowable residential density” as defined in the
+         SDBL.
+
+         A Density Bonus is Not Required for a Project to be Eligible for a Waiver
+
+         The SDBL provides that an applicant need not request an increase in density for a
+         project to enjoy the benefits and protections provided by the SDBL if the project meets
+         the eligibility requirements described in subdivision (b) of Government Code section
+         65915. Specifically, the SDBL provides that:
+
+                  For the purposes of this chapter, “density bonus” means a density increase over
+                  the otherwise maximum allowable gross residential density as of the date of
+                  application by the applicant to the city, county, or city and county, or, if elected by
+                  the applicant, a lesser percentage of density increase, including, but not limited
+                  to, no increase in density.
+
+         (Gov. Code, § 65915, subd. (f). Emphasis added.)
+Ruth Cueto, Planning Division
+Page 2
+
+
+
+
+Development Standard Waivers May Be Used to Achieve the Intended Density
+
+Development standard waivers (Gov. Code, § 65915, subd. (e)) can be used by an
+applicant to achieve either the number of units allowed by the base density or the
+number of units allowed via a density bonus. The SDBL provides the following:
+
+       In no case may a city, county, or city and county apply any development
+       standard that will have the effect of physically precluding the construction of a
+       development meeting the criteria of subdivision (b) at the densities or with the
+       concessions or incentives permitted by this section.
+
+(Gov. Code, § 65915, subd. (e). Emphasis added.)
+
+The word “densities” italicized in the statutory excerpt above refers to both higher
+densities achieved via the granting of an increase in density or to base density when an
+applicant does not seek an increase in density. As described in the first part of this
+letter, both are “permitted by” Government Code section 65915.
+
+In the case of an applicant pursuing an increase in density, the waivers should be
+applied to the project as a whole – without a distinction made as to whether a particular
+waiver serves specifically to accommodate the bonus units rather than “base density”
+units. See, Wollmer v. City of Berkeley, 193 Cal.App. 4th 1329, 1346 (holding that
+“[s]tandards may be waived that physically preclude construction of a housing
+development meeting the requirements for a density bonus, period.”)
+
+Consider the following hypothetical example: A project is proposed on a site whose
+base density would allow 100 units, and the applicant pursues a 25-percent density
+bonus. The resulting project would contain 125 units (100 “base density” units and
+25 bonus units). When the local agency reviews the applicant’s request for
+development standard waivers, the local agency should evaluate the provided
+justification as it applies to the entire project (i.e., units 1-125) and not only the
+bonus units (i.e., units 101-125). Naturally, this holistic approach would also apply to
+projects not seeking an increase in density (e.g., the subject application). A contrary
+reading of this statutory provision would result in the absurd outcome that
+applications not seeking an increase in density are categorically ineligible for
+development standard waivers.
+
+A Waiver May Be Used to Facilitate an Incentive/Concession
+
+It is apparent that the legislature contemplated a situation wherein the granting of an
+incentive/concession would necessitate a development standard waiver. The SDBL
+provides the following:
+Ruth Cueto, Planning Division
+Page 3
+
+
+
+
+      In no case may a city, county, or city and county apply any development
+      standard that will have the effect of physically precluding the construction of a
+      development meeting the criteria of subdivision (b) at the densities or with the
+      concessions or incentives permitted by this section.
+
+(Gov. Code, § 65915, subd. (e). Emphasis added.)
+
+For example, the granting of a concession to remove a requirement for ground floor
+commercial space for a residential development in a mixed-use zoning district may in
+turn necessitate a development standard waiver for ground floor transparency
+requirements. The rationale would be that ground floor transparency requirements (e.g.,
+store windows allowing passersby to window shop) would be incompatible with ground
+floor residential uses. These derivative waivers should be considered and approved in a
+perfunctory manner by the local agency.
+
+Conclusion
+
+HCD respects the challenges inherent in infill development and applauds the creation of
+such a substantial number of affordable housing units in San Jose. If you have
+questions or need additional information, please contact Brian Heaton at
+Brian.Heaton@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

@@ -1,0 +1,686 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         April 30, 2025
+
+
+
+         Albert Lopez, Planning Director
+         Planning Department
+         County of Alameda
+         224 W. Winton Avenue, Room 111
+         Hayward, CA 94544
+
+         Dear Albert Lopez:
+
+         RE: Review of County of Alameda’s Accessory Dwelling Unit (ADU) Ordinance
+            under State ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Thank you for submitting the County of Alameda (County) ADU Ordinance No. O-2024-32
+         (Ordinance), adopted September 19, 2024, to the California Department of Housing and
+         Community Development (HCD). The Ordinance was received on November 7, 2024.
+         HCD has reviewed the Ordinance and submits these written findings pursuant to
+         Government Code section 66326, subdivision (a). HCD finds that the Ordinance fails to
+         comply with State ADU Laws in the manner noted below. Pursuant to Government Code
+         section 66326, subdivision (b)(1), the County has up to 30 days to respond to these
+         findings. Accordingly, the County must provide a written response to these findings no
+         later than May 30, 2025.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law as follows:
+
+            1. Senate Bill (SB) 1211 (Chapter 296, § 3, Statutes of 2024) – As of January 1, 2025,
+               the Legislature changed Government Code section 66323. Subdivision (a)(4)(A)(ii)
+               and (iii), now allows for the following:
+                       1. (ii) On a lot with an existing multifamily dwelling, not more than eight
+                          detached accessory dwelling units. However, the number of accessory
+                          dwelling units allowable pursuant to this clause shall not exceed the
+                          number of existing units on the lot.
+                       2. (iii) On a lot with a proposed multifamily dwelling, not more than two
+                          detached accessory dwelling units.
+
+            2. Assembly Bill (AB) 2533 (Chapter 834, Statutes of 2024) - As of January 1, 2025,
+               there are changes to Government Code section 66332. Subdivisions (a) and (b)
+               were changed and subdivisions (d) – (f) were added. Changes include permitting
+               previously unpermitted ADUs, adding the same protections for JADUs, and setting
+               additional requirements for local agencies. The County should review these new
+               requirements and adjust the Ordinance to comply with State ADU Law.
+      Albert Lopez, Planning Director
+      Page 2
+
+
+
+         3. Section 17.04.010 – Definition of ADU – The Ordinance defines an ADU as “an
+            accessory, second, or secondary unit that is attached or detached which
+            provides complete independent living facilities for one or more persons.”
+            However, State ADU Law defines an ADU as “an attached or a detached
+            residential dwelling unit that provides complete independent living facilities for
+            one or more persons and is located on a lot with a proposed or existing primary
+            residence.” 1 The Ordinance’s definition uses the terms “second” and
+            “secondary” which incorrectly imply a limit of one ADU in addition to the primary
+            dwelling. The County must amend the ordinance to delete these terms and align
+            with the statutory definition of an ADU.
+
+         4. Section 17.04.010 – Definition of Conversion – The Ordinance defines
+            “conversion” as follows: “the modification to the occupancy of a legally existing
+            space within the existing volume of a building or covered structure without
+            expansion, except up to 150 sq. ft. of expansion as allowed for ingress and
+            egress” (emphasis added). However, State ADU Law allows for conversion
+            “within the proposed space of a single-family dwelling or existing space of a
+            single-family dwelling or accessory structure.” 2 Statute does not require the
+            structure being converted to be permitted initially, provided that the proposed
+            ADU is permitted. The County must amend the Ordinance to delete the phrase
+            “legally existing” from the passage quoted above.
+
+         5. Section 17.04.010 – JADU Interior Entry – The Ordinance states: “Junior
+            Accessory Dwelling Units may share bathroom facilities with the Primary
+            Dwelling Unit.” However, a JADU ordinance shall require that “If a permitted
+            junior accessory dwelling unit does not include a separate bathroom, the
+            permitted junior accessory dwelling unit shall include a separate entrance from
+            the main entrance to the structure, with an interior entry to the main living area.” 3
+            The Ordinance does not include this requirement. The County must amend the
+            Ordinance to require the interior entry when a JADU does not include a separate
+            bathroom.
+
+         6. Section 17.04.010 – Definition of Secondary Unit – The Ordinance includes a
+            definition of “secondary unit” that is very similar to the definition of an ADU. As
+            noted in Finding 3, the use of the term “secondary” in connection with the
+            definition of an ADU incorrectly implies a limit of one ADU per lot. This definition
+            appears related to the “Policy for Secondary Units in Rural Residential and
+            Agricultural Areas,” which will be addressed in a subsequent finding. The
+            County must amend the Ordinance so that an ADU is only defined once.
+
+
+
+
+1 Gov. Code, § 66313, subd. (a). Only the most relevant part of the definition is quoted above.
+2 Gov. Code, § 66323, subd. (a)(1)(A).
+3 Gov. Code, § 66333, subd. (e)(2).
+      Albert Lopez, Planning Director
+      Page 3
+
+
+
+         7. Section 17.04.010 – Definition of Single-family Dwelling – The Ordinance
+            defines a single-family dwelling as follows: “one or more detached Primary
+            Dwelling Units on one lot.” However, a single-family dwelling also includes an
+            attached dwelling unit such as a townhouse if it is located on its own lot. 4 The
+            Ordinance does not account for attached single-family dwellings. The County
+            must amend the Ordinance to account for attached single-family dwellings.
+
+         8. Section 17.06.030 – Permitted Uses in Agricultural (A) Districts – The Ordinance
+            lists ADUs as a permitted use in A districts. However, the Ordinance does not
+            list JADUs. JADUs are a permitted use on a “lot zoned for single-family
+            residences with a single-family residence built, or proposed to be built, on the
+            lot.” This means where the zoning of the lot permits single-family residences, as
+            is the case in the County’s A districts JADUs are also a permitted use. The
+            County must amend the Ordinance to clarify that JADUs are a permitted use in
+            A districts.
+
+         9. Section 17.06.030.L.3 – Floor Area in A Districts – The Ordinance states, “If only
+            one accessory dwelling unit is proposed. then the Accessory Dwelling Unit that
+            is not subject to floor area regulations of Chapter 17.55 shall be subject to
+            maximum floor area of one thousand two hundred (1,200) square feet.”
+            However, conversion ADUs are not subject to floor area limits. 5 Here the County
+            applies a floor area limit in a way that includes conversion ADUs which are not
+            subject to floor area limits. The County must amend the Ordinance to exempt
+            conversion ADUs from this floor area limit.
+
+         10. Section 17.06.030.L.4 – Floor Area in A Districts – The Ordinance states, “All
+             Accessory Dwelling Units greater than 800 square feet in floor area shall be
+             located on the same building envelope as the Primary Dwelling Unit.” However,
+             State ADU Law requires the County to allow an ADU to have a floor area of 850
+             square feet or 1,000 square feet if it contains more than one bedroom. 6 The
+             ordinance limits ADU floor area here unless the ADU is located in the same
+             building envelope as the primary dwelling unit, a requirement not found in
+             statute. The County must amend the Ordinance to allow floor areas of 850
+             square feet or 1,000 square feet if the ADU contains more than one bedroom.
+
+         11. Section 17.06.030.L.5 – 1998 Second Unit Policy – The Ordinance requires in A
+             zones that: “Any Accessory Dwelling Unit that is not subject to floor area
+             regulations of Chapter 17.55 and that is proposed to have a floor area or
+             configuration not conforming to paragraph 2 or paragraph 3 above shall not be
+             allowed as an Accessory Dwelling Unit and shall instead be reviewed under
+             the "Policy for Secondary Units in Rural Residential and Agricultural
+             Areas". adopted by the County Board of Supervisors on July 2, 1998. and
+             revised on October 1, 2001 as amended” (emphasis added). However, statute
+             provides: “Section 66314 establishes the maximum standards that a local
+
+4 HCD (2025). ADU Handbook, page 11.
+5 Gov. Code, § 66323, subds. (a)(1) and (a)(3).
+6 Gov. Code, § 66321, subd. (b)(2).
+      Albert Lopez, Planning Director
+      Page 4
+
+
+            agency shall use to evaluate a proposed accessory dwelling unit on a lot that
+            includes a proposed or existing single-family dwelling. No additional standards,
+            other than those provided in Section 66314, shall be used or imposed, including
+            an owner-occupant requirement, except that a local agency may require that the
+            property may be used for rentals of terms 30 days or longer.” 7 The Ordinance
+            does not include the substance of the “Policy for Secondary Units” and HCD has
+            not received a copy of the policy from the County. The policy may not be applied
+            to ADUs if it conflicts with State ADU Law. The County must amend the
+            Ordinance to delete the requirement to comply with the “Policy for Secondary
+            Units” or cite the specific section of the County Code or Ordinance number that
+            contains the policy. HCD also hereby submits a public records request for a
+            digital copy of the policy.
+
+         12. Section 17.52.780 – Parking in Setback Areas – The Ordinance states, “No
+             required parking space shall occupy any required front yard or any required
+             street side yard of a comer lot, or any required setback from a driveway or any
+             part of a required loading space. All required parking spaces shall be provided
+             on the same building site as the use of building for which they are required.”
+             However, State ADU Law provides: “Offstreet parking shall be permitted in
+             setback areas in locations determined by the local agency or through tandem
+             parking, unless specific findings are made that parking in setback areas or
+             tandem parking is not feasible based upon specific site or regional topographical
+             or fire and life safety conditions.” 8 The Ordinance prohibits parking in certain
+             setback areas without making findings that allowing such parking is not feasible
+             based upon specific site or regional topographical or fire and life safety
+             conditions. The County must either amend the Ordinance to delete this
+             requirement or adopt adequate findings to support the requirement.
+
+         13. Section 17.54.225.E – Site Development Review for Garage Conversions – The
+             Ordinance states, “Site development review shall not be required for garage
+             conversions when the purpose of the conversion is to create a new Accessory
+             Dwelling Unit within the space of an existing attached or detached garage, and
+             the new unit meets the requirements contained in Section 17.55, concerning
+             Accessory Dwelling Units.” This exemption is appropriate for ADUs because
+             ADUs must be reviewed ministerially and some of the submittal requirements for
+             a site development permit application would be excessive in the context of an
+             application for a conversion ADU (e.g., land survey, elevations of structures not
+             being converted). However, JADUs should also be exempt from the requirement
+             for site development review, for the same reasons. 9 The County must amend
+             the Ordinance to also exempt JADUs from the County’s site development review
+             process.
+
+
+
+
+7 Gov. Code, § 66315.
+8 Gov. Code, § 66314, subd. (d)(10)(B).
+9 Gov. Code, § 66335, subd. (a)(1).
+       Albert Lopez, Planning Director
+       Page 5
+
+
+
+         14. Section 17.55.030.2 – Zones Permitting JADUs – The Ordinance states, “Junior
+             Accessory Dwelling Units: Will be permitted to be established as a permanent
+             housing option on any property in a Single-Family Residence (R-1) Zoning
+             District or the Planned Development (PD) Zoning District based on the R-1
+             Zoning District that either contains or is constructed concurrently with a Single-
+             family dwelling, and when established in compliance with state and local
+             ordinance.” However, statute provides: a JADU ordinance shall “Limit the
+             number of junior accessory dwelling units to one per residential lot zoned for
+             single-family residences with a single-family residence built, or proposed to be
+             built, on the lot.” 10 By listing two zones in which JADUs are permitted, the
+             County is implicitly excluding JADUs from all other zones. The County has other
+             zoning districts in which single-family homes are a permitted use (e.g., R-2, R-S,
+             etc.). These zones are also eligible for JADUs because they are “zoned for
+             single-family residences,” even though they also allow other uses. The County
+             must amend the Ordinance to either replace the list of zones permitting JADUs
+             with a statement that any zone permitting a single-family home also permits a
+             JADU, 11 or by providing a complete list of each zone which permits single-family
+             homes.
+
+         15. Section 17.55.040 – Zoning for JADUs – The Ordinance states, “Accessory
+             Dwelling Units and Junior Accessory Dwelling Units shall be permitted in all
+             zoning districts that permit Single-family, Multifamily, or Mixed-use dwellings.”
+             However, JADUs are limited to lots “zoned for single-family residences.” 12 The
+             Ordinance implies a JADU may be built on certain lots which do not permit
+             single-family residences. The County must amend the Ordinance to distinguish
+             between where ADUs and JADUs are permitted.
+
+         16. Section 17.55.040 – Second Unit Policy – The Ordinance states, “Approvals for
+             ADUs measuring up to 1,200 square feet in floor area are subject to the Policy
+             for Secondary Units in Rural Residential and Agricultural Areas.” However, as
+             noted in Finding 11, the Ordinance does not include the substance of the “Policy
+             for Secondary Units” and HCD has not received a copy of the policy from the
+             County. The policy may not be applied to ADUs if it conflicts with State ADU
+             Law. The County must amend the Ordinance to delete the requirement to
+             comply with the “Policy for Secondary Units” or cite the specific section of the
+             County Code or Ordinance number that contains the policy.
+
+          17. Section 17.55.060.1.a – Conversion ADUs – The Ordinance states, “Accessory
+              Dwelling Units may be attached to the Single-family dwelling, detached from
+              the Single-family dwelling, or may involve the conversion of floor area of an
+              existing legal structure” (emphasis added). However, statute provides an ADU
+              ordinance shall require an ADU to comply with certain standards, including:
+              “The accessory dwelling unit is either attached to, or located within, the
+
+10 Gov. Code, § 66333, subd. (a).
+11 We prefer this compliance option as it is less prone to error and more resilient to future changes to
+
+the zoning code.
+12 Gov. Code, § 66333, subd. (a).
+      Albert Lopez, Planning Director
+      Page 6
+
+
+             proposed or existing primary dwelling, including attached garages, storage
+             areas or similar uses, or an accessory structure or detached from the proposed
+             or existing primary dwelling and located on the same lot as the proposed or
+             existing primary dwelling, including detached garages.” 13 Statute does not
+             require that the structure being converted is initially permitted as a prerequisite
+             to ADU development, only that the resulting ADU is permitted. The County
+             must amend the Ordinance to delete the word “legal” from the quoted passage
+             above.
+
+          18. Section 17.55.060 – Passageway Requirement – The Ordinance states,
+              “Access to the public right-of-way may be provided through the rear yard of the
+              Primary residence or a dedicated pathway.” However, “No passageway shall be
+              required in conjunction with the construction of an accessory dwelling unit.” 14
+              While the Ordinance does not use the term “passageway,” it is unclear whether
+              the County is requiring a pathway that meets the statutory definition of a
+              passageway. The County must amend the Ordinance to clarify that the pathway
+              will not be required to be unobstructed clear to the sky.
+
+          19. Section 17.55.070.1.b – Front Setback Requirements – The Ordinance requires
+              the following minimum front setback: “Minimum is the same as for Primary
+              Dwelling Unit for Accessory Dwelling Units which measure over 800 square feet
+              in floor area.” However, for ADUs approved pursuant to Government Code
+              section 66323: “A local agency shall not impose any objective development or
+              design standard that is not authorized by this section upon any accessory
+              dwelling unit that meets the requirements of any of paragraphs (1) to (4),
+              inclusive, of subdivision (a).” 15 Multifamily detached ADUs approved pursuant
+              to section 66323, subdivision (a)(4) do not have a floor area limit and are not
+              subject to front setback requirements, even if they are larger than 800 square
+              feet. The County must amend the Ordinance to note this exception.
+
+          20. Section 17.55.070.2 – Distance Between ADUs – The Ordinance states, under
+              ADU development standards: “Distance Separation: Six-foot separation
+              minimum from any other building for Accessory Dwelling Units measuring over
+              800 square feet in floor area.” However, for ADUs approved pursuant to
+              Government Code section 66323: “A local agency shall not impose any
+              objective development or design standard that is not authorized by this section
+              upon any accessory dwelling unit that meets the requirements of any of
+              paragraphs (1) to (4), inclusive, of subdivision (a).” 16 Multifamily detached
+              ADUs approved pursuant to section 66323, subdivision (a)(4) do not have a
+              floor area limit and are not subject to distance between building requirements
+              even if they are larger than 800 square feet. The County must amend the
+              Ordinance to note this exception.
+
+
+13 Gov. Code, § 66314, subd. (d)(3).
+14 Gov. Code, § 66314, subd. (d)(6). A passageway is defined as “a pathway that is unobstructed
+
+clear to the sky and extends from a street to one entrance of the accessory dwelling unit.”
+15 Gov. Code, § 66323, subd. (b).
+16 Gov. Code, § 66323, subd. (b).
+      Albert Lopez, Planning Director
+      Page 7
+
+
+         21. Section 17.55.070.5 – Residential Design Standards – The Ordinance states,
+             “Accessory Dwelling Units measuring over 800 square feet in floor area are
+             subject to the "Residential Design Standards and Guidelines for the
+             Unincorporated Communities of West Alameda County," as amended, as
+             incorporated in Title 17.” HCD was not provided with a copy of this 214-page
+             document but located it on the County’s website. The Design Standards may not
+             be applied to the extent that they conflict with State ADU Law. Major areas of
+             potential conflict are described in Government Code section 66314, subdivision
+             (b)(1), section 66321, subdivision (b)(3) and section 66323. 17 The County must
+             amend the Ordinance to remove this requirement or note that the Design
+             Standards only apply to the extent that they do not conflict with State ADU Law.
+
+         22. Section 17.55.080.1 – Floor Area Definition – The Ordinance states, “The size of
+             the unit shall be measured from the side of the exterior wall of the dwelling unit
+             to the opposing exterior wall face enclosing the unit, or to the centerline of the
+             furthest opposing interior wall that separates the Accessory Dwelling Unit or
+             Junior Accessory Dwelling Unit and Primary Dwelling Unit living space.”
+             However, ADUs are required to comply with the California Building Standards
+             Code. 18 The California Building Code (CBC) defines “floor area, gross” as “The
+             floor area within the inside perimeter of the exterior walls”. 19 The Ordinance
+             defines floor area as the area within the exterior surfaces of the exterior walls
+             whereas the CBC defines it as within the interior surfaces of the exterior walls.
+             The Ordinance’s definition thus inflates ADU floor area. The County must
+             amend the Ordinance to align with the CBC definition of floor area for purposes
+             of implementing State ADU Law.
+
+         23. Section 17.55.080.2.a.i – Detached ADU Floor Area – The Ordinance states, “If
+             the detached Accessory Dwelling Unit is to contain 0 or 1 bedrooms, then
+             limited to 850 square feet maximum.” However, the ADUs described by
+             Government Code section 66323, subdivision (a)(4) have no floor area limit. The
+             Ordinance does not note the exception and thus limits the floor area of an ADU
+             type it may not limit. The County must amend the Ordinance to note that
+             detached ADUs approved pursuant to Government Code section 66323,
+             subdivision (a)(4) do not have a floor area limit.
+
+         24. Section 17.55.080.2.a.ii - Detached ADU Floor Area – The Ordinance states, “If
+             the detached Accessory Dwelling Unit is to contain 2 or more bedrooms, then
+             limited to 1,200 square feet maximum:” However, as noted in Finding 23, the
+             ADUs described by Government Code section 66323, subdivision (a)(4) have no
+             floor area limit. The Ordinance does not note the exception and thus limits the
+             floor area of an ADU type it may not limit. The County must amend the
+
+
+17 This is not an exclusive list of potential conflicts between State ADU Law and the Design
+
+Standards. Development standards on ADUs must be objective, must not be applied in a manner that
+contradicts section 66321 and ADUs approved pursuant to section 66323 are only subject to the
+standards included in section 66323.
+18 Gov. Code, § 66314, subd. (d)(8).
+19 2022 CBC, § 2022.
+      Albert Lopez, Planning Director
+      Page 8
+
+
+            Ordinance to note that detached ADUs approved pursuant to Government Code
+            section 66323, subdivision (a)(4) do not have a floor area limit.
+
+         25. Section 17.55.080.2.a.iii – Detached ADU Floor Area – The Ordinance states, “If
+             the property contains a Junior Accessory Dwelling Unit, then a detached
+             Accessory Dwelling Unit shall not exceed 800 square feet in floor area.”
+             However, there is no basis in State ADU Law to limit the floor area of a
+             detached ADU to 800 square feet because a property contains a JADU. 20 The
+             County must amend the Ordinance to delete the floor area limit of 800 square
+             feet if the property is developed with a JADU.
+
+         26. Section 17.55.080.2.b.i – Attached ADU Floor Area – The Ordinance states
+             attached ADUs are subject to the following floor area limit: “Maximum 50% floor
+             area of the Single-family dwelling or 1,200 square feet, whichever is less. (A
+             minimum of 800 square feet is allowed by right regardless of size of the Single-
+             family dwelling.)” However, statute provides: “If there is an existing primary
+             dwelling, the total floor area of an attached accessory dwelling unit shall not
+             exceed 50 percent of the existing primary dwelling” (emphasis added). 21
+             Furthermore, an ADU ordinance shall not impose a maximum floor area less
+             than 850 square feet or 1,000 square feet if the ADU has more than one
+             bedroom. 22 The Ordinance applies the 50 percent standard to properties with
+             both existing and proposed primary dwellings, whereas statute only applies it
+             when there is an existing primary dwelling. The Ordinance limits ADU floor area
+             to 800 square feet, whereas statute prohibits limits lower than 850 or 1,000
+             square feet, depending on the number of bedrooms. The County must amend
+             the Ordinance to only apply the 50 percent standard when there is an existing
+             primary dwelling and to allow an ADU floor area of 850 or 1,000 square feet,
+             regardless of the 50 percent standard, if the ADU contains more than one
+             bedroom.
+
+         27. Section 17.55.090 – ADU Parking Requirements – The Ordinance states, “One
+             (1) on-site parking space is required for each Accessory Dwelling Unit” and goes
+             on to list several exceptions. However, “Parking requirements for accessory
+             dwelling units shall not exceed one parking space per accessory dwelling unit or
+             per bedroom, whichever is less.” 23 ADUs which are efficiency units do not have
+             a separate bedroom and instead contain a living room that includes living,
+             sleeping, eating and cooking areas. Thus, some ADUs contain zero bedrooms,
+             and therefore are not subject to parking requirements. The County must amend
+             the Ordinance to note that ADUs which are also efficiency units are not subject
+             to parking requirements.
+
+
+
+20 Gov. Code, § 66321, subd. (b)(2). An ADU may be limited to 800 square feet in the specific
+
+scenarios described in Gov. Code, §§ 66321, subd. (b)(3) & 66323, subd. (a)(2), but this does not
+depend on whether the property is developed with a JADU.
+21 Gov. Code, § 66314, subd. (d)(4).
+22 Gov. Code, § 66321, subd. (b)(2).
+23 Gov. Code, § 66314, subd. (d)(10).
+      Albert Lopez, Planning Director
+      Page 9
+
+
+            Statute also provides: “A junior accessory dwelling unit ordinance adopted
+            pursuant to Section 66333 shall not require additional parking as a condition to
+            grant a permit.”24 This prohibition on parking requirements extends to
+            replacement parking requirements when a JADU converts an attached garage.
+            The Ordinance is silent on JADU parking requirements. The County should
+            amend the Ordinance to clarify that JADU projects are not subject to off-street
+            parking requirements.
+
+         28. Section 17.55.090 – Exceptions to Parking Requirements – The Ordinance
+             provides a list of exceptions to off-street parking requirements. However, statute
+             provides off-street parking is not required when: “When a permit application for
+             an accessory dwelling unit is submitted with a permit application to create a new
+             single-family dwelling or a new multifamily dwelling on the same lot, provided
+             that the accessory dwelling unit or the parcel satisfies any other criteria listed in
+             this subdivision.” 25 The Ordinance’s list of exceptions is silent on this point. The
+             County should amend the Ordinance to clarify that exceptions to parking
+             requirements apply even when the primary dwelling is proposed concurrently
+             with the ADU.
+
+         29. Section 17.55.090.3 – Exceptions to Parking Requirements – The Ordinance
+             states no off-street parking is required: “When the project involves converting
+             enclosed parking of the Primary Dwelling Unit”. While this is partially correct, the
+             corresponding section of statute goes further, by prohibiting off-street parking
+             requirements: “Where the accessory dwelling unit is part of the proposed or
+             existing primary residence or an accessory structure.” 26 The Ordinance is
+             missing this more expansive prohibition on parking requirements. The County
+             must amend the Ordinance to exempt ADUs from parking requirements when
+             the ADU is part of a proposed or existing primary residence or accessory
+             structure.
+
+         30. Section 17.55.120 – Addition to JADU – The Ordinance states, “A Junior
+             Accessory Dwelling Unit located within a Single-family dwelling may include an
+             expansion of not more than 150 square feet beyond the same physical
+             dimensions as the existing structure. This expansion shall be limited to
+             accommodate ingress and egress (for example, a covered front porch).”
+             However, statute limits a JADU to 500 square feet and allows a 150 square-foot
+             addition to an existing accessory structure which is converted to an ADU, but
+             not for a JADU. 27 The County must amend the Ordinance to delete this
+             provision.
+
+
+
+
+24 Gov. Code, § 66334, subd. (a).
+25 Gov. Code, § 66322, subd. (a)(6).
+26 Gov. Code, § 66322, subd. (a)(3).
+27 Gov. Code, §§ 66313, subd. (d); 66323, subd. (a)(1). A JADU must be within the walls of a single-
+
+family residence and cannot be converted from a detached accessory structure per Gov. Code, §
+66333, subd. (d).
+      Albert Lopez, Planning Director
+      Page 10
+
+
+         31. Section 17.55.130.1.a – Separate Sale – The Ordinance states, regarding both
+             ADUs and JADUs: “The units shall not be sold, transferred or owned separately
+             from the Primary Dwelling Unit on the property, except when owned by certain
+             nonprofit corporations pursuant to California Government Code Section 66341.”
+             However, statute requires: “A prohibition on the sale of the junior accessory
+             dwelling unit separate from the sale of the single-family residence.” 28 The
+             County must amend the Ordinance to indicate that separate sale of a JADU is
+             prohibited.
+
+            Statute also allows the County to permit the separate sale of ADUs through a
+            condominium subdivision. If the County wishes to do so, it should amend the
+            Ordinance to incorporate the provisions of Government Code section 66342.
+
+         32. Section 17.55.130.2 – Owner Occupancy – The Ordinance states, “For
+             Accessory Dwelling Units only: the owner of the property shall not be required to
+             reside on the property in either the Primary Dwelling Unit or Accessory Dwelling
+             Unit.” While this is correct for standard ADUs, there is an exception for ADUs
+             sold to a qualified buyer at an affordable housing cost pursuant to Government
+             Code section 66341. For this type of ADU, the tenancy in common agreement
+             shall require: “that the qualified buyer occupy the accessory dwelling unit or
+             primary dwelling as the buyer’s principal residence.”29 The County must amend
+             the Ordinance to note that ADUs approved pursuant to Government Code
+             section 66341 require owner occupancy.
+
+         33. Section 17.55.150 – Nonconforming Zoning Conditions and Building Code
+             Violations – The Ordinance states, “Pursuant Government Code sections
+             66322(b) and 66336, the County shall not require the correction of the following
+             as a condition of an Accessory Dwelling Unit or Junior Accessory Dwelling Unit
+             permit approval: 1. Nonconforming zoning conditions prior to the issuance of a
+             permit for Accessory Dwelling Units or Junior Accessory Dwelling Units, except
+             to comply with the California Building Code where the structure is not in
+             compliance with current California Building Code standards. […] 3. Existing
+             building standards violations on the Primary Dwelling Unit, provided that
+             correcting the violation is not necessary to protect health and safety.” However,
+             statute requires: “The local agency shall not deny an application for a permit to
+             create an accessory dwelling unit due to the correction of nonconforming zoning
+             conditions, building code violations, or unpermitted structures that do not
+             present a threat to public health and safety and are not affected by the
+             construction of the accessory dwelling unit” (emphasis added). 30 Statute lays out
+             a two-part test: in order to deny the ADU application for a nonconforming zoning
+             condition or building code violation, those conditions must both 1) present a
+             threat to public health and safety and 2) be affected by the construction of the
+             ADU or JADU. In paragraphs 1 and 3 quoted above, the Ordinance only
+
+28 Gov. Code § 66333(c)(1).
+29 Gov. Code, § 66341, subd. (c)(3). The general prohibition on ADU owner occupancy requirements
+
+can be found in Gov. Code, § 66315.
+30 Gov. Code, § 66322, subd. (b). Essentially the same language applies to JADUs via Gov. Code, §
+
+66336.
+       Albert Lopez, Planning Director
+       Page 11
+
+
+             requires one of the two parts of the test, regarding public health and safety, but
+             does not require the second part of the test about being affected by the
+             construction of the ADU or JADU. The County must amend the Ordinance to
+             align with the statutory language.
+
+         34. Section 17.55.160 – Building Standards – The Ordinance states, “Pursuant to
+             66310 et seq., Applications for Accessory Dwelling Units and Junior Accessory
+             Dwelling Units shall be subject to all applicable state laws, including the
+             California Building Code, and the regulations below.” However, it would be more
+             accurate to refer to the California Building Standards Code, 31 which includes the
+             California Building Code, the California Residential Code, and other related
+             codes that apply building standards to the construction of ADUs and JADUs. For
+             many ADUs, the Residential Code is more relevant than the Building Code. 32
+             The County should amend the Ordinance to refer to the California Building
+             Standards Code.
+
+         35. Section 17.55.170 – Typo – The Ordinance includes the following heading:
+             “Junior Accessory Dwelling Unit Relative to Fire or Live Protection Ordinance”
+             (emphasis added). The Ordinance uses the word “Live” where statute refers to
+             “life,” in an apparent typo. 33 The County should amend the Ordinance to align
+             with statute to avoid confusion.
+
+         36. Section 17.55.180 – Severability – The Ordinance states, “If any part of this
+             chapter is found to be invalid or inconsistent with Government Code Sections
+             66310, et seq., such provision shall be null and void and the remaining sections
+             will still be applied to the maximum extent feasible.” However, statute provides:
+             “If a local agency has an existing accessory dwelling unit ordinance that fails to
+             meet the requirements of this article, that ordinance shall be null and void and
+             that agency shall thereafter apply the standards established in this article for the
+             approval of accessory dwelling units, unless and until the agency adopts an
+             ordinance that complies with this article.” In other words, the statute states that
+             the entire ordinance shall be null and void, not simply the misaligned portion.
+             The Ordinance’s claim of severability contradicts the “null and void” provision in
+             State ADU Law. The County must amend the Ordinance to delete the claim that
+             the Ordinance is severable.
+
+         37. Section 17.60.100 – Reasonable Accommodations – The Ordinance states,
+             “Where the request for reasonable accommodation involves conversion of a
+             garage to living space, variance from the requirements of this chapter for an
+             Accessory Dwelling Unit, or use of a recreational vehicle in a required setback,
+             the request shall include a specific time limit and shall be made contingent on a
+             specific person's actual need for the accommodation.” However, State ADU Law
+             requires local agencies to ministerially approve garage conversion ADUs and
+             JADUs without an expiration date on the certificate of occupancy. 34 The County
+
+31 California Code of Regulations, Title 24.
+32 2022 California Residential Code, section 1.1.3.
+33 Gov. Code, § 66337.
+34 Gov. Code, §§ 66314, subd. (d)(3); 66323 (a) & 66328.
+      Albert Lopez, Planning Director
+      Page 12
+
+
+            must amend the Ordinance to delete the time limit for a garage conversion ADU.
+            The County should also assess whether its policy on reasonable
+            accommodations unduly constrains housing opportunities for people with
+            disabilities.
+
+         38. Missing Required Standards – State ADU Law requires an ADU ordinance to
+             include specific contents, but the Ordinance is missing some of the required
+             contents. These include the standards described in Government Code section
+             66314, subdivision (d)(8) regarding changes in occupancy, subdivision (d)(12)
+             regarding exemptions from fire sprinkler requirements, subdivision (e) regarding
+             demolition of a detached garage, and subdivision (f) regarding demolition of a
+             detached garage. The County must amend the Ordinance to include these
+             missing requirements.
+
+         39. Preapproved ADU Plans – Government Code section 65852.27 requires local
+             agencies to have a program for the preapproval of ADU plans by January 1, 2025.
+             The Ordinance is silent on this topic. The County shall implement a program for
+             the preapproval of ADU plans and should consider amending the Ordinance to
+             address how the program will be implemented.
+
+
+      The County has two options in response to this letter. 35 The County can either amend
+      the Ordinance to comply with State ADU Law 36 or adopt the Ordinance without changes
+      and include findings in its resolution adopting the Ordinance that explain the reasons
+      the County believes that the Ordinance complies with State ADU Law despite HCD’s
+      findings. 37 If the County fails to take either course of action and bring the Ordinance into
+      compliance with State ADU Law, HCD must notify the County and may notify the
+      California Office of the Attorney General that the County is in violation of State ADU
+      Law. 38
+
+      HCD appreciates the County’s efforts in the preparation and adoption of the Ordinance
+      and welcomes the opportunity to assist the County in fully complying with State ADU
+      Law. Please feel free to contact David Barboza at david.barboza@hcd.ca.gov if you
+      have any questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Senior Housing Accountability Manager
+      Housing Policy Development Division
+
+
+35 Gov. Code, § 66326, subd. (c)(1).
+36 Gov. Code, § 66326, subd. (b)(2)(A).
+37 Gov. Code, § 66326, subd. (b)(2)(B).
+38 Gov. Code, § 66326, subd. (c)(1).
+                  State ADU/JADU Law Statutory Conversion Table
+
+
+
+New Government Code Sections            Previous Government Code Sections
+                        Article 1. General Provisions
+66310                                   65852.150 (a)
+66311                                   65852.150 (b)
+66312                                   65852.150 (c)
+66313                                   General Definition Section
+                                        65852.2 (j)
+                                        65852.22 (j)
+               Article 2. Accessory Dwelling Unit Approvals
+66314                                   65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5)
+66315                                   65852.2 (a)(8)
+66316                                   65852.2 (a)(6)
+66317                                   65852.2 (a)(3), (a)(7)
+66318                                   65852.2 (a)(9), 65852.2 (a)(2)
+66319                                   65852.2 (a)(10)
+66320                                   65852.2 (b)
+66321                                   65852.2 (c)
+66322                                   65852.2 (d)
+66323                                   65852.2 (e)
+66324                                   65852.2 (f)
+66325                                   65852.2 (g)
+66326                                   65852.2 (h)
+66327                                   65852.2 (i)
+66328                                   65852.2 (k)
+66329                                   65852.2 (l)
+66330                                   65852.2 (m)
+66331                                   65852.2 (n)
+66332                                   65852.23.
+                Article 3. Junior Accessory Dwelling Units
+66333                                   65852.22 (a)
+66334                                   65852.22 (b)
+66335                                   65852.22 (c)
+66336                                   65852.22 (d)
+66337                                   65852.22 (e)
+66338                                   65852.22 (f)-(g)
+66339                                   65852.22 (h)
+                 Article 4. Accessory Dwelling Unit Sales
+66340                                   65852.26 (b)
+66341                                   65852.26 (a)
+66342                                   65852.2 (a)(10)

@@ -1,0 +1,157 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 15, 2024
+
+
+         Kevin Scudero, Community Development Director
+         City of Antioch
+         200 H Street
+         Antioch, CA 94531
+
+         Dear Kevin Scudero:
+
+         RE: City of Antioch State Density Bonus Law Implementation – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the application of the State Density Bonus
+         Law (SDBL)1 to the housing development project proposed at 3001 Oakley Road
+         (Project). The SDBL allows housing developments with at least five residential units to
+         obtain increases in allowable density, incentives/concessions, development standard
+         waivers, and, for qualifying projects, reductions in parking requirements, by providing
+         affordable housing. The purpose of this letter is to provide technical assistance to the
+         City of Antioch (City) regarding the ability of the project to use accessory dwelling units
+         (ADUs) to qualify for the benefits of the SDBL.
+
+         Background
+
+         HCD understands the Project proposes the construction of 150 units (consisting of 52
+         duplex units, 51 single-family houses, and 47 ADUs) on two contiguous lots with a
+         combined area of approximately 14.58 acres. All units in the project would be offered for
+         rent and managed together as a single community. The Project seeks to deed restrict
+         11 of the ADUs as low-income units to obtain a 22 percent density bonus under the
+         SDBL. This density bonus will enable the construction of eight of the 52 duplex units.
+
+         The City initially held the position that under State ADU Law, 2 the City was permitted to
+         stagger the review of the primary units and ADU components of the project, such that
+         the Project would be unable to use the ADUs to obtain a density bonus for the primary
+         units. Following a meeting on September 3, 2024, where HCD provided verbal technical
+         assistance that State ADU Law was meant to allow for simultaneous discretionary
+         primary unit review and ministerial ADU review, the City concluded the Project would
+
+
+1 Gov. Code, § 65915.
+2 Gov. Code, § 66317, subd. (a).
+      Kevin Scudero, Community Development Director
+      Page 2
+
+
+
+      have to deed restrict primary units as affordable in order to obtain a density bonus for
+      the primary units.
+
+      Analysis
+
+      The SDBL requires that local governments grant certain housing developments density
+      bonuses if the developments provide specified percentages of their pre-density bonus
+      “total units” as deed restricted affordable housing. Therefore, the relevant question is:
+
+      Can deed restricted ADUs serve to qualify a project for a density bonus pursuant
+      to the SDBL, even if the bonus sought is for primary units?
+
+      The answer is “yes,” if all the ADUs in the project are counted towards the “total units” in
+      the project. Although the SDBL makes no mention of ADUs in its text, it likewise does
+      not expressly narrow the definition of unit to exclude ADUs. A project initially qualifies
+      under the SDBL when the project’s deed restricted affordable units meet or exceed the
+      percentages specified in the SDBL, not when the project’s deed restricted affordable
+      primary units meet or exceed the specified percentages. ADUs are a type of housing
+      unit that can be used to establish eligibility “provided they are counted within the total
+      units of the project.” 3
+
+      However, a project may not deed restrict units to qualify under SDBL if the units are not
+      counted toward the total unit count for the purposes of SDBL. Furthermore, deed
+      restricting ADUs to achieve SDBL eligibility, where they only exist in relation to primary
+      units, makes them a “dependent project” that renders all ADUs in the project, deed
+      restricted or not, part of the total unit count. 4
+
+      Applied to the Project, the development has 142 “total units,” 5 including 95 primary units
+      and 47 ADUs. This means that to use ADUs as deed restricted units, at least 15 units
+      (including ADUs only, if desired) would need to be deed restricted for low-income
+      households to meet the 10-percent SDBL minimum. Alternatively, the Project could
+      deed restrict only 10 primary units so that the 47 ADUs would not be counted toward the
+      Project’s “total units.”
+
+      Qualifying for the SDBL with deed restricted ADUs would grant the project up to 29
+      bonus units, while qualifying with primary units would grant up to 19 bonus units; in
+
+3 See HCD Letter of Technical Assistance to the City of Carlsbad, February 16, 2024, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/carlsbad-hau565-ta-
+02162024.pdf, page 2. (Emphasis added.)
+4 See HCD Letter of Technical Assistance to the City of El Cajon, February 16, 2023, available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-cajon-hau484-ta-
+02162024.pdf.
+5 “Total units” means the number of units in the project excluding bonus units. See Gov. Code, §
+
+65915, subd. (o)(8)(A).
+        Kevin Scudero, Community Development Director
+        Page 3
+
+
+
+        either case, this is beyond the eight bonus units the Project seeks to obtain. What is not
+        permitted, however, is for an applicant to include only a portion of the ADUs in the “total
+        units” count – as proposed in the subject Project.
+
+        Note that using deed restricted ADUs to qualify for the SDBL is a choice for applicants
+        that comes with responsibilities. In addition to considering whether the applicant should
+        increase its number of total units by using deed restricted ADUs for eligibility, applicants
+        must ensure the continued affordability of the ADUs for the duration of their deed
+        restriction. The purpose of the SDBL is to ensure that deed restricted affordable units
+        are built and continuously occupied by households at qualifying income levels.
+        Enforcing this in ADUs can be challenging, especially if the development includes for-
+        sale primary units or will be parceled off in the future. In the context of the Project, this is
+        not an immediate issue because the applicant intends to own the Project as a single
+        community and manage it collectively, but it may pose challenges in the future should
+        that ownership and management structure change. In future projects where an applicant
+        may be inclined to qualify under the SDBL by deed restricting ADUs, the City might
+        consider imposing a recurring affordable unit monitoring fee as provided for in the
+        SDBL. 6 This would help to ensure that the affordable ADUs are occupied by households
+        at qualifying income levels.
+
+        Conclusion
+
+        Deed restricted affordable ADUs can be used to meet the requirements of the SDBL,
+        provided that the developer can ensure the affordability of the ADUs and that all ADUs
+        are counted as “total units” for the purposes of calculating the number of deed restricted
+        units required for SDBL eligibility.
+
+        HCD remains committed to supporting the City of Antioch in facilitating housing at all
+        income levels and hopes the City finds this clarification helpful. If you have questions or
+        need additional information, please contact David Ying at david.ying@hcd.ca.gov.
+
+        Sincerely,
+
+
+
+
+        David Zisser
+        Assistant Deputy Director
+        Local Government Relations and Accountability
+
+
+
+
+6 Gov. Code, § 65915.3 as created by AB 2430 (Chapter 273, Statutes of 2024), effective January 1,
+
+2025.

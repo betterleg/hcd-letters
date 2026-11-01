@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025078",
+  "case_number": "HAU0002575",
+  "letter_date": "2026-05-05",
+  "jurisdiction": "Orange",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law | Duplexes and Urban Lot Splits (SB 9 of 2021)",
+  "statutes": "66313(a) | 66411.7(c)(1) | 66411.7(d)",
+  "n_statutes": "3",
+  "keywords": "ADU conversion with SB 9",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/orange-ta-050526.pdf",
+  "hcd_letter": "Orange Technical Assistance Letter 05/05/2026",
+  "housing_law": "Duplexes and Urban Lot Splits (SB 9 of 2021), Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/orange-ta-050526.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 213783,
+  "text_chars": 5272,
+  "text_empty": false
+}

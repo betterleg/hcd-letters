@@ -1,0 +1,393 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon St, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 29, 2024
+
+
+
+         Jonathan Lait, Director
+         Planning and Development Services
+         City of Palo Alto
+         250 Hamilton Ave
+         Palo Alto, CA 94301
+
+         Dear Jonathan Lait:
+
+         RE: Review of Palo Alto’s Accessory Dwelling Unit (ADU) Ordinance under State
+            ADU Law (Gov. Code, §§ 66310 – 66342)
+
+         Please Note: As of March 25, 2024, with the Chaptering of Senate Bill (SB) 477
+         (Chapter 7, Statutes of 2024), the sections of Government Code relevant to State ADU
+         and Junior Accessory Dwelling Unit (JADU) Law have been re-numbered (Enclosure 1).
+
+         Thank you for submitting the City of Palo Alto’s (City) ADU Ordinance No. 5585
+         (Ordinance), adopted June 5, 2023, to the California Department of Housing and
+         Community Development (HCD). HCD has reviewed the Ordinance and submits these
+         written findings pursuant to Government Code section 66326, subdivision (a). HCD
+         finds that the Ordinance does not comply with State ADU and JADU Laws in the
+         manner noted below. Under section 66326, subdivision (b)(1), the City has up to 30
+         days to respond to these findings. Accordingly, the City must provide a written response
+         to these findings no later than November 28, 2024.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law in the following respects:
+
+              1. Statutory Numbering - The Ordinance contains several references to code
+                 sections that were deleted by SB 477, effective March 25, 2024. These include
+                 Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+                 these sections were relocated to Government Code, Title 7, Division 1, Chapter
+                 13 (sections 66310-66342, see Enclosure). The City must amend the Ordinance
+                 to refer to the correct code sections.
+
+              2. Section 18.09.030 (a) iii. – Height – The Ordinance provides for “A detached,
+                 new construction ADU on a lot with a proposed or existing single-family dwelling,
+                 provided the ADU does not exceed 800 square feet, sixteen feet in height, or
+                 four-foot side and rear (i.e. interior) setbacks.” However, Government Code
+Jonathan Lait, Director
+Page 2
+
+
+      sections 66321, subdivision (b)(4)(B), which is referenced in section 66323,
+      subdivision (a)(2)(B) as would govern a unit described here in the Ordinance,
+      requires a height allowance of “18 feet for a detached accessory dwelling unit on
+      a lot with an existing or proposed single family or multifamily dwelling unit that is
+      within one-half of one mile walking distance of a major transit stop or a high-
+      quality transit corridor… A local agency shall also allow an additional two feet in
+      height to accommodate a roof pitch on the accessory dwelling unit that is aligned
+      with the roof pitch of the primary dwelling unit.” Footnote 5 in Table 1 of Section
+      18.09.030 provides for these allowances, the City must amend the Ordinance to
+      to comply with State ADU law and avoid contradictory provisions.
+
+   3. Section 18.09.030 Table 1 – Unit Allowance – The Ordinance states in Single
+      Family residence only “1 ADU and 1 JADU” are permitted. This prohibits the
+      combination of units subject to Government Code section 66323, subdivision
+      (a)(1) and (a)(2).
+
+      Government Code section 66323 states, “Notwithstanding Sections 66314 to
+      66322, inclusive, a local agency shall ministerially approve an application for a
+      building permit within a residential or mixed-use zone to create any of the
+      following: (1) One accessory dwelling unit and one junior accessory dwelling
+      unit per lot with a proposed or existing single-family dwelling…(A) The
+      accessory dwelling unit or junior accessory dwelling unit is within the proposed
+      space of a single family dwelling or existing space of a single-family dwelling or
+      accessory structure.” Subparagraph (2) permits “[o]ne detached, new
+      construction, accessory dwelling unit that does not exceed four-foot side and
+      rear yard setbacks.” The use of the term “any” followed by an enumeration of
+      by-right ADU types permitted indicate that any of these ADU types can be
+      combined on a lot zoned for single-family dwellings.
+
+      This permits a homeowner, who meets specified requirements, to create one
+      converted ADU; one detached, new construction ADU; and one JADU. Thus, if
+      the local agency approves an ADU that is created from existing (or proposed)
+      space, and the owner subsequently applies for a detached ADU (or vice versa)
+      that meets the size and setbacks pursuant to the subdivision, the local agency
+      cannot deny the application, nor deny a permit for a JADU under this section.
+
+      Limiting single-family primary dwelling lots to one ADU and one JADU prevents
+      property owners from creating ADUs by-right under section 66323. Therefore,
+      the City must amend the Ordinance to allow for all by-right ADU combinations.
+
+   4. Section 18.09.030 (d) – Delay of Enforcement – The Ordinance states, “The
+      establishment of accessory dwelling units and junior accessory dwelling units
+      pursuant to this section shall not be conditioned on the correction of non-
+      conforming zoning conditions; provided; however, that nothing in this section
+      shall limit the authority of the Chief Building Official to require correction of
+      building standards relating to health and safety.” However, Government Code
+Jonathan Lait, Director
+Page 3
+
+
+      section 66331 states, “In enforcing building standards pursuant to Article 1
+      (commencing with Section 17960) of Chapter 5 of Part 1.5 of Division 13 of the
+      Health and Safety Code for an accessory dwelling unit described in subdivision
+      (a) or (b), a local agency, upon request of an owner of an accessory dwelling
+      unit for a delay in enforcement, shall delay enforcement of a building standard,
+      subject to compliance with Section 17980.12 of the Health and Safety Code: (a)
+      The accessory dwelling unit was built before January 1, 2020. (b) The
+      accessory dwelling unit was built on or after January 1, 2020, in a local
+      jurisdiction that, at the time the accessory dwelling unit was built, had a
+      noncompliant accessory dwelling unit ordinance, but the ordinance is compliant
+      at the time the request is made.” Therefore, the City must add language
+      allowing delay of enforcement.
+
+   5. Section 18.09.030 (e) – Sprinklers – The Ordinance states, “The installation of
+      fire sprinklers shall not be required in an accessory dwelling unit if sprinklers
+      are not required for the primary residence.” However, Government Code
+      section 66323, subdivision (c) states, “The installation of fire sprinklers shall not
+      be required in an accessory dwelling unit if sprinklers are not required for the
+      primary residence. The construction of an accessory dwelling unit shall not
+      trigger a requirement for fire sprinklers to be installed in the existing multifamily
+      dwelling.” Therefore, City must add the second sentence in the preceding
+      citation to the Ordinance to be consistent with State ADU law.
+
+   6. Section 18.09.030 (g) – JADUs and Interior Entry – The Ordinance states,
+      “Except for JADUs, attached units shall not have an interior access point to the
+      primary dwelling.” However, Government Code section 66633, subdivision
+      (e)(2) states, “If a permitted junior accessory dwelling unit does not include a
+      separate bathroom, the permitted junior accessory dwelling unit shall include a
+      separate entrance from the main entrance to the structure, with an interior entry
+      to the main living area.” Therefore, the City must amend the Ordinance
+      accordingly.
+
+   7. Section 18.09.030 (h) – Conversion and Expansion – Th Ordinance states,
+      “Conversion of an existing accessory structure pursuant to Government Code
+      section 65852.2(e)(1)(A) may include reconstruction in-place of a non-
+      conforming structure, so long as the renovation of reconstruction does not
+      increase the degree of non-compliance, such as increased height, envelope, or
+      further intrusion into required setbacks. Any portion of an ADU that exceeds the
+      envelope of the existing accessory structure shall be subject to Section
+      18.09.040.” However, Government Code section 66323, subdivision (a)(1)(A)
+      provides for, “an expansion of not more than 150 square feet beyond the same
+      physical dimensions as the existing accessory structure. An expansion beyond
+      the physical dimensions of the existing accessory structure shall be limited to
+      accommodating ingress and egress.” The City must amend the Ordinance to
+      allow for such an expansion without reference to Section 18.09.040.
+      Jonathan Lait, Director
+      Page 4
+
+
+         8. Section 18.09.030 (j) and 18.09.040 (m)2. – Separate Sale 1 – The Ordinance
+            notes that ADUs “shall not be sold separately from the primary residence.”
+            However, Government Code section 66341 creates a narrow exception to allow
+            separate conveyance of an ADU to a qualified buyer if the property was built or
+            developed by a qualified nonprofit corporation, among other things. The City
+            must note the exception.
+
+         9. Section 18.09.030 (m), 18.09.040 (g) and (j) 2.C. – Tree Ordinance – The
+            Ordinance makes several references to Chapter 8.10, the City’s Tree and
+            Landscape Preservation and Management regulations, and requires that
+            elements of ADU development conform to Chapter 8.10. However, Government
+            Code section 66317, subdivision (c) states that “No local ordinance, policy, or
+            regulation shall be the basis for the delay or denial of a building permit or a use
+            permit under this section.” The City should amend the Ordinance to ensure that
+            compliance with this ordinance section will not delay or cause the denial of an
+            ADU or JADU building permit or use permit.
+
+         10. Section 18.09.040 (a), Table 2– JADUs and Development Standards – The
+             Ordinance describes JADUs in the section “Units Subject to Local Standards”
+             and creates governance of JADUs that “do not qualify for approval under
+             section 18.090.030.” However, all JADUs are created pursuant to Government
+             Code section 66323, subdivision (a)(1), and would therefore be approved
+             under section 18.090.030. the City must remove references to JADUs in this
+             section.
+
+         11. Section 18.09.040 (c) – Multifamily ADU Allowances – In the “Units Subject to
+            Local Standards” section, the Ordinance states, “A single-family dwelling shall
+            exist on the lot or shall be constructed on the lot in conjunction with the
+            construction of an ADU/JADU.” However, Government Code section 66314,
+            subdivision (a)(2) permits ADUs when “The lot is zoned to allow single-family or
+            multifamily dwelling residential use and includes a proposed or existing
+            dwelling.” The City must amend the Ordinance to include multifamily as well.
+
+         12. Section 18.09.040 (h) – Local Historic Register – The Ordinance applies
+             special requirements to properties “listed on the Palo Alto Historic Inventory.”
+             However, Government Code section 66314, subdivision (b)(1) states that ADU
+             ordinances may “Impose objective standards on accessory dwelling units that
+             include, but are not limited to, parking, height, setback, landscape, architectural
+             review, maximum size of a unit, and standards that prevent adverse impacts on
+             any real property that is listed in the California Register of Historical
+             Resources.” Therefore, the use of a local historic register such as the Palo Alto
+
+
+Please note that Government Code section 66342 gives local jurisdictions the option of
+1
+
+adopting an ordinance to provide for the separate conveyance of an ADU from its primary
+dwelling.
+         Jonathan Lait, Director
+         Page 5
+
+
+                Historic Inventory would be inconsistent with State ADU Law. The City must
+                remove this reference.
+
+            13. Section 18.09.040 (j)(4) – “Street Side Setbacks” – The Ordinance states, “For
+                corner lots developed as a single-family home only, when an existing or
+                proposed primary dwelling unit is expanded or constructed simultaneously with
+                the construction of a new ADU/JADU, all structures may be built to a 10-foot
+                street-side setback and a 16-foot front yard setback, regardless of the presence
+                of a special setback, unless a fire or life-safety regulation requires a greater
+                setback.” A street side setback for a corner lot is in essence a front setback.
+                Government Code section 66321, subdivision (b)(3) states that a front setback
+                may not preclude the development of an 800 square foot unit. The City must
+                note the exception.
+
+            14. Section 18.09.040 (l) – Parking Exceptions – The Ordinance does not provide
+                for exemptions to parking requirements pursuant to Government Code section
+                66322, subdivisions (a)(1) through (a)(6):
+                       “(1) Where the accessory dwelling unit is located within one-half of one
+                       mile walking distance of public transit.
+                      (2) Where the accessory dwelling unit is located within an architecturally
+                      and historically significant historic district.
+                      (3) Where the accessory dwelling unit is part of the proposed or existing
+                      primary residence or an accessory structure.
+                      (4) When on-street parking permits are required but not offered to the
+                      occupant of the accessory dwelling unit.
+                      (5) When there is a car share vehicle located within one block of the
+                      accessory dwelling unit.
+                      (6) When a permit application for an accessory dwelling unit is submitted
+                      with a permit application to create a new single-family dwelling or a new
+                      multifamily dwelling on the same lot, provided that the accessory
+                      dwelling unit or the parcel satisfies any other criteria listed in this
+                      subdivision.
+                Therefore, the City must amend the Ordinance to add the required exemptions.
+
+
+            15. 18.09.040 (l)(2) – Garage Conversion and Replacement Parking – The
+                Ordinance states, “Replacement parking is required when an existing attached
+                garage, carport, or covered parking structure is converted to a JADU….” Local
+                agencies may not require parking as a condition to permitting a JADU, even
+                when the JADU is converted from an attached garage. 2 The City must amend
+                the Ordinance accordingly.
+
+2
+    Gov. Code, § 66334, subd. (a).
+Jonathan Lait, Director
+Page 6
+
+
+   16. 18.09.050 (a) - JADUs in Attached Garages – The Ordinance states, “A junior
+       accessory dwelling unit may only be created on a lot in a single-family
+       residential zone with an existing or proposed single family residence. A junior
+       accessory dwelling unit shall be attached to or created within the walls of an
+       existing or proposed primary dwelling.” However, Government Code section
+       66333, subdivision (d) states that for the purposes of siting JADUs, “enclosed
+       uses within the residence, such as attached garages, are considered a part of
+       the proposed or existing single-family residence.” Therefore, the City must
+       amend the Ordinance to include a reference to enclosed uses.
+
+   17. 18.09.050 (b)(i) and (ii) – JADU Kitchen Facilities – The Ordinance states, “A
+       cooking facility with appliances shall mean, at minimum a one burner installed
+       range, an oven or convection microwave, a 10 cubic foot refrigerator and
+       freezer combination unit, and a sink that facilitates hot and cold water.” It also
+       states “[a] food preparation counter and storage cabinets shall be of reasonable
+       size in relation to a JADU if they provide counter space equal to a minimum 24-
+       inch depth and 36-inch length.” However, Government Code section 66333,
+       subdivision (f) requires “the permitted junior accessory dwelling unit to include
+       an efficiency kitchen, which shall include all of the following: (1) A cooking
+       facility with appliances. (2) A food preparation counter and storage cabinets
+       that are of reasonable size in relation to the size of the junior accessory
+       dwelling unit.” The terms “appliances” and “reasonable size” are broad
+       provisions in statute. Therefore, the Ordinance is more stringent than state
+       JADU law. The City must remove the quoted language.
+
+   18. 18.09.050 (b) iii. – JADU Entry – The Ordinance states, “JADUs may share
+       sanitation facilities (bathrooms, laundry facilities, etc.) with the primary unit.”
+       However, Government Code section 66333, subdivision (e)(2) states “If a
+       permitted junior accessory dwelling unit does not include a separate bathroom,
+       the permitted junior accessory dwelling unit shall include a separate entrance
+       from the main entrance to the structure, with an interior entry to the main living
+       area.” Therefore, the City must amend the Ordinance to comply with State ADU
+       Law.
+
+   19. 18.09.050 (e) – JADU Term Limits – The Ordinance requires that JADU deed
+       restrictions “[do] not permit short-term rentals”. However, Government Code
+       section 66333, subdivision (c) requires only “(1) A prohibition on the sale of the
+       junior accessory dwelling unit separate from the sale of the single-family
+       residence, including a statement that the deed restriction may be enforced
+       against future purchasers. (2) A restriction on the size and attributes of the
+       junior accessory dwelling unit that conforms with this article.” No additional
+       provisions may be added to the listed deed restrictions in statute. JADU Law
+       does not provide for rental limits to JADUs and therefore the City may not
+       require these term limits. Therefore, the City must amend the Ordinance
+       accordingly.
+      Jonathan Lait, Director
+      Page 7
+
+
+          20. 18.04.030 (a)(75)(A) – Kitchen Requirements – The Ordinance requires “major
+              appliances” and then states, “For ADUs, major appliances shall mean a
+              minimum two burner installed range, and an oven or convection microwave, as
+              well as a minimum 11 cubic foot freezer and refrigerator combination unit.
+              Kitchens shall also include counter space for food preparation equal to a
+              minimum 24-inch depth and 36-inch length, and a sink that facilitates hot and
+              cold water.” However, Government Code section 66313, subdivision (a) defines
+              ADUs as needing only “permanent provisions for living, sleeping, eating,
+              cooking, and sanitation” and does not describe them any further. Additionally,
+              section 66313, subdivision (a)(1) allows ADUs to be an efficiency unit, which
+              Health and Safety Code section 17958.1 states may have “partial kitchen”
+              facilities. Therefore, the establishment of appliance and counterspace
+              minimums are inconsistent with State ADU Law. The City must amend the
+              Ordinance accordingly.
+
+      Please note that the City has two options in response to this letter. 3 The City can either
+      amend the Ordinance to comply with State ADU Law 4 or adopt the Ordinance without
+      changes and include findings in its resolution adopting the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings. 5 If the City fails to take either course of action and bring the Ordinance
+      into compliance with State ADU Law, HCD must notify the City and may notify the
+      California Office of the Attorney General that the City is in violation of State ADU Law. 6
+
+      HCD appreciates the City efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact Mike Van Gorder at mikevangorder@hcd.ca.gov if you have
+      any questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Senior Housing Accountability Unit Manager
+      Housing Policy Development Division
+
+
+
+
+3 Gov. Code, § 66326, subd. (c)(1).
+4 Gov. Code, § 66326, subd. (b)(2)(A).
+5 Gov. Code, § 66326, subd. (b)(2)(B).
+6 Gov. Code, § 66326, subd. (c)(1).
+                  State ADU/JADU Law Statutory Conversion Table
+
+
+
+New Government Code Sections            Previous Government Code Sections
+                        Article 1. General Provisions
+66310                                   65852.150 (a)
+66311                                   65852.150 (b)
+66312                                   65852.150 (c)
+66313                                   General Definition Section
+                                        65852.2 (j)
+                                        65852.22 (j)
+               Article 2. Accessory Dwelling Unit Approvals
+66314                                   65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5)
+66315                                   65852.2 (a)(8)
+66316                                   65852.2 (a)(6)
+66317                                   65852.2 (a)(3), (a)(7)
+66318                                   65852.2 (a)(9), 65852.2 (a)(2)
+66319                                   65852.2 (a)(10)
+66320                                   65852.2 (b)
+66321                                   65852.2 (c)
+66322                                   65852.2 (d)
+66323                                   65852.2 (e)
+66324                                   65852.2 (f)
+66325                                   65852.2 (g)
+66326                                   65852.2 (h)
+66327                                   65852.2 (i)
+66328                                   65852.2 (k)
+66329                                   65852.2 (l)
+66330                                   65852.2 (m)
+66331                                   65852.2 (n)
+66332                                   65852.23.
+                Article 3. Junior Accessory Dwelling Units
+66333                                   65852.22 (a)
+66334                                   65852.22 (b)
+66335                                   65852.22 (c)
+66336                                   65852.22 (d)
+66337                                   65852.22 (e)
+66338                                   65852.22 (f)-(g)
+66339                                   65852.22 (h)
+                 Article 4. Accessory Dwelling Unit Sales
+66340                                   65852.26 (b)
+66341                                   65852.26 (a)
+66342                                   65852.2 (a)(10)

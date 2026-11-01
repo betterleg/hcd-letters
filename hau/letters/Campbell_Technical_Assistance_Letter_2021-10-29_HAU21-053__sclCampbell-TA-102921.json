@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010683",
+  "case_number": "HAU21-053",
+  "letter_date": "2021-10-29",
+  "jurisdiction": "Campbell",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Crisis Act of 2019",
+  "statutes": "65915(c)(3)",
+  "n_statutes": "1",
+  "keywords": "AB 2222 | deed restrict existing units | replacement",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sclCampbell-TA-102921.pdf",
+  "hcd_letter": "Campbell Technical Assistance Letter 10/29/2021",
+  "housing_law": "Density Bonus Law, Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sclCampbell-TA-102921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227794,
+  "text_chars": 9694,
+  "text_empty": false
+}

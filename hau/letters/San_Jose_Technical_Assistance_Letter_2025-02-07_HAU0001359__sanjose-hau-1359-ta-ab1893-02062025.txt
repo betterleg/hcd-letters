@@ -1,0 +1,155 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 7, 2025
+
+
+
+         Christopher Burton, Director, Planning Division
+         City of San José
+         200 East Santa Clara Street
+         San José, CA 95133
+
+         Dear Christopher Burton:
+
+         RE: City of San José, AB 1893 Builder’s Remedy and CEQA Class 32 Infill
+             Exemption - Letter of Technical Assistance
+
+         The purpose of this letter is for the California Department of Housing and Community
+         Development (HCD) to provide technical assistance to the City of San José (City)
+         regarding whether a housing development project 1 that meets the definition of “builder’s
+         remedy” pursuant to Government Code section 65589.5 subdivision (h)(11) is precluded
+         from a California Environmental Quality Act (CEQA) Class 32 Infill Exemption
+         determination. 2
+         Background
+
+         CEQA Class 32 Infill Exemption: A project may qualify for CEQA Class 32 infill
+         exemption if it is characterized as in-fill development meeting the conditions described
+         in subdivisions (a) through (e) of CEQA Guidelines section 15332. One condition is that
+         projects are “consistent with the applicable general plan designation and all applicable
+         general plan policies as well as with applicable zoning designation and regulations.” 3
+         Builder’s Remedy, Pre-2025: Under the Housing Accountability Act (HAA) prior to
+         January 1, 2025, a jurisdiction could not disapprove a qualifying affordable housing
+         development 4 on the basis that the project did not comply with the local zoning and
+         general plan if the project applicant submitted a complete preliminary application or had
+
+
+1 Gov. Code, § 65589.5, subd. (h)(2).
+2 CEQA Guidelines, Cal. Code Regs., tit. 14, § 15332.
+3 CEQA Guidelines, Cal. Code Regs., tit. 14, § 15332, subd. (a).
+4 Prior to January 1, 2025, a qualifying “affordable housing development” project was defined as
+
+“Housing for very low, low-, or moderate-income households” where either (A) at least 20 percent
+of the total units shall be sold or rented to lower income households as defined in Section 50079.5
+of the Health and Safety Code, or (B) 100 percent of the total units shall be sold or rented to
+persons and families of moderate income as defined in Section 50093 of the Health and Safety
+Code or Section 65008 of the Government Code.
+       Christopher Burton, Director, Planning Division
+       Page 2
+
+
+
+       a complete development application while the City’s housing element was out of
+       substantial compliance with Housing Element Law. This provision of the HAA is known
+       as the “builder’s remedy.” However, projects protected under the builder’s remedy are
+       not exempt from CEQA pursuant to Government Code section 65589.5, subdivision (e).
+
+       In August 2024, HCD sent the City of San José an email stating, in part: “A project—
+       including one protected under the Builder’s Remedy—cannot utilize a Class 32 infill
+       exemption when the proposed residential land use is inconsistent with the applicable
+       general plan [land use] designation and policies as well as zoning designation and
+       regulations, as specified in CEQA Guidelines section 15332, subdivision (a).” The email
+       goes on to clarify that a project may be exempt from CEQA under other provisions of
+       CEQA guidelines or other state laws, and that lawfully waived or conceded zoning
+       standards under State Density Bonus Law (SDBL) are not considered “applicable”
+       under CEQA Class 32 infill exemption. 5
+
+       Builder’s Remedy and Assembly Bill (AB) 1893: Subsequently, the Governor signed
+       AB 1893 in September 2024, which amended the HAA and prescribed requirements
+       and provisions that apply to a builder’s remedy project 6, including that a builder’s
+       remedy project “shall be deemed to be consistent, compliant, and in conformity with an
+       applicable plan, program, policy, ordinance, standard, requirement, redevelopment
+       plan and implementing instruments, or other similar provisions for all purposes….” 7
+       This law became effective on January 1, 2025 and can apply retroactively to housing
+       development projects that submitted a complete preliminary application or were
+       deemed complete prior to January 1, 2025. 8
+
+       Question: Is a project that meets the definition of “builder’s remedy” pursuant to
+       Government Code section 65589.5, subdivision (h)(11), precluded from utilizing a
+       CEQA Class 32 infill exemption?
+
+       No, lead agencies cannot rely on subdivision (a) of CEQA Guidelines section 15332 to
+       preclude a project that meets the definition of “builder’s remedy” pursuant to
+       Government Code section 65589.5, subdivision (h)(11), from utilizing a CEQA Class 32
+       infill exemption. Pursuant to Government Code section 65589.5, subdivision
+       (f)(6)(D)(iii), a qualifying builder’s remedy project shall be deemed “consistent,
+       compliant, and in conformity with an applicable plan…for all purposes, and shall not be
+       considered as a nonconforming lot, use, or structure for any purpose [emphases
+       added.]” It is HCD’s understanding that clause (iii) also applies to CEQA Guidelines
+       section 15332, subdivision (a).
+
+
+
+
+5 Wollmer v. City of Berkeley (2011) 193 Cal. App. 4th 1329, 1347-1350.
+6 Gov. Code, § 65589.5, subd. (h)(11).
+7 Gov. Code, § 65589.5, subd. (f)(6)(D)(iii).
+8 Gov. Code, §§ 65589.5, subds. (f)(7) and (h)(5).
+       Christopher Burton, Director, Planning Division
+       Page 3
+
+
+
+
+       Conclusion
+
+       A builder’s remedy project that meets the definitions prescribed in Government Code
+       section 65589.5, subdivision (h)(11), is not automatically exempt from CEQA. The HAA
+       specifically states that nothing in Section 65589.5 shall be “construed to relieve the local
+       agency from making one or more of the findings required pursuant to Section 21081 of
+       the Public Resources Code or otherwise complying with the California Environmental
+       Quality Act….” 9
+
+       However, a builder’s remedy project is not automatically precluded from meeting the
+       conditions required for a CEQA Class 32 infill exemption determination. AB 1893
+       amends the HAA to deem a qualifying builder’s remedy project “consistent...with an
+       applicable plan, program, policy, ordinance, standard, requirement, redevelopment plan
+       and implementing structures, or other similar provisions for all purposes” 10 which would
+       satisfy the condition outlined in subdivision (a) of CEQA Guidelines section 15332.
+
+       HCD would like to remind the City that, for purposes of a local agency’s approval,
+       conditional approval, or disapproval of a housing development project pursuant to the
+       HAA, a local jurisdiction’s housing element is in substantial compliance as of the date of
+       HCD’s letter or a court decision finding it in substantial compliance. 11
+
+       As previously mentioned, HCD has statutory authority to enforce the HAA and Housing
+       Element Law, among other state housing laws. Accordingly, HCD may review local
+       government actions or inactions to determine consistency with these laws. If HCD finds
+       that a local government’s actions do not comply with state law, HCD may notify the
+       California Office of the Attorney General that the local government is in violation of state
+       law. 12 If you have questions or need additional information, please contact Grace Wu at
+       grace.wu@hcd.ca.gov.
+
+       Sincerely,
+
+
+
+
+       Shannan West
+       Housing Accountability Unit Chief
+
+
+
+
+9 Gov. Code, § 65589.5, subd. (e).
+10 Gov. Code, § 65589.5, subd. (f)(6)(D)(iii).
+11 Gov. Code, § 65589.55.
+12 Gov. Code, § 65585, subd. (j).

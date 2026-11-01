@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0017077",
+  "case_number": "HAU0002905",
+  "letter_date": "2023-12-21",
+  "jurisdiction": "Piedmont",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Piedmont Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/piedmont-rezone-loi-122123.pdf",
+  "hcd_letter": "Piedmont Letter of Inquiry 12/21/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/piedmont-rezone-loi-122123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156413,
+  "text_chars": 4426,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0015456",
+      "case_number": "HAU0000713",
+      "letter_date": "2023-12-21",
+      "jurisdiction": "Piedmont",
+      "letter_type": "Letter of Inquiry",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65585",
+      "n_statutes": "1",
+      "keywords": "housing element",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/piedmont-rezone-loi-122123.pdf",
+      "hcd_letter": "Piedmont Letter of Inquiry 12/21/2023",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023154",
+  "case_number": "ADU0007187",
+  "letter_date": "2025-12-10",
+  "jurisdiction": "San Jose",
+  "letter_type": "Technical Assistance Letter - Repeal Request",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66316",
+  "n_statutes": "1",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-jose-adu-ta-12102025.pdf",
+  "hcd_letter": "San Jose Technical Assistance Letter - Repeal Request 12/10/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-jose-adu-ta-12102025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 245138,
+  "text_chars": 15032,
+  "text_empty": false
+}

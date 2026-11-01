@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0022208",
+  "case_number": "HAU0002897",
+  "letter_date": "2025-06-05",
+  "jurisdiction": "Redlands",
+  "letter_type": "Housing Element Findings of Noncompliance/ Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Redlands Rezone Corrective Action Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/redlands-corr-action-060225.pdf",
+  "hcd_letter": "Redlands Housing Element Findings of Noncompliance/ Corrective Action 06/05/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/redlands-corr-action-060225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182184,
+  "text_chars": 5600,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0023938",
+      "case_number": "HAU0002802",
+      "letter_date": "2025-06-02",
+      "jurisdiction": "Redlands",
+      "letter_type": "Notice of Potential Violation",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65583.2",
+      "n_statutes": "1",
+      "keywords": "Redlands",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/redlands-corr-action-060225.pdf",
+      "hcd_letter": "Redlands Notice of Potential Violation 06/02/2025",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

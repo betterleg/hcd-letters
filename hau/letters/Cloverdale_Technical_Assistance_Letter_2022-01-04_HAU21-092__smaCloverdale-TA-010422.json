@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010696",
+  "case_number": "HAU21-092",
+  "letter_date": "2022-01-04",
+  "jurisdiction": "Cloverdale",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "65589.5(b) | 65589.5(h)(3) | 65589.5(i) | 65589.5(j)",
+  "n_statutes": "4",
+  "keywords": "HAA Findings of Denial | additional protections for HAA affordable projects | farmworker housing | housing element program commitments",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/smaCloverdale-TA-010422.pdf",
+  "hcd_letter": "Cloverdale Technical Assistance Letter 01/04/2022",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/smaCloverdale-TA-010422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191327,
+  "text_chars": 10421,
+  "text_empty": false
+}

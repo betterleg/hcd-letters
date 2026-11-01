@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017716",
+  "case_number": "HAU0001306",
+  "letter_date": "2024-10-16",
+  "jurisdiction": "Santa Barbara County",
+  "letter_type": "Letter of Support",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65915",
+  "n_statutes": "1",
+  "keywords": "HAA | findings of denial",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santabarbaraco-hau-1306-losta-10162024.pdf",
+  "hcd_letter": "Santa Barbara County Letter of Support 10/16/2024",
+  "housing_law": "Housing Accountability Act, Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santabarbaraco-hau-1306-losta-10162024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191579,
+  "text_chars": 6292,
+  "text_empty": false
+}

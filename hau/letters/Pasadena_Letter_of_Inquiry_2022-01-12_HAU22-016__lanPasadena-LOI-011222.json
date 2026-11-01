@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0010733",
+  "case_number": "HAU22-016",
+  "letter_date": "2022-01-12",
+  "jurisdiction": "Pasadena",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300",
+  "n_statutes": "1",
+  "keywords": "compensatory upzoning | development cap",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanPasadena-LOI-011222.pdf",
+  "hcd_letter": "Pasadena Letter of Inquiry 01/12/2022",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanPasadena-LOI-011222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 226647,
+  "text_chars": 9232,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0010729",
+      "case_number": "HAU21-075",
+      "letter_date": "2022-01-12",
+      "jurisdiction": "Pasadena",
+      "letter_type": "Letter of Inquiry",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65585",
+      "n_statutes": "1",
+      "keywords": "housing element",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanPasadena-LOI-011222.pdf",
+      "hcd_letter": "Pasadena Letter of Inquiry 01/12/2022",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

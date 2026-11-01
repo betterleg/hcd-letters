@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024013",
+  "case_number": "ADU0004373",
+  "letter_date": "2025-03-27",
+  "jurisdiction": "Irvine",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "65585 | 66315 | 66326 | 66333",
+  "n_statutes": "4",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/irvine-adu-ta-032725.pdf",
+  "hcd_letter": "Irvine Ordinance Findings Letter 03/27/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/irvine-adu-ta-032725.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 232875,
+  "text_chars": 9817,
+  "text_empty": false
+}

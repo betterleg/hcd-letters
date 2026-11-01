@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022422",
+  "case_number": "ADU0000690",
+  "letter_date": "2025-10-15",
+  "jurisdiction": "Brentwood",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "Size",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/brentwood-adu-findings-101525.pdf",
+  "hcd_letter": "Brentwood Ordinance Findings Letter 10/15/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/brentwood-adu-findings-101525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189343,
+  "text_chars": 5400,
+  "text_empty": false
+}

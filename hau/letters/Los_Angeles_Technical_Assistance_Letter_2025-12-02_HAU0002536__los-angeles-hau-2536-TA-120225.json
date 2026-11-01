@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022956",
+  "case_number": "HAU0002536",
+  "letter_date": "2025-12-02",
+  "jurisdiction": "Los Angeles",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300.5",
+  "n_statutes": "1",
+  "keywords": "protected unit | rent stabilization | replacement",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-angeles-hau-2536-TA-120225.pdf",
+  "hcd_letter": "Los Angeles Technical Assistance Letter 12/02/2025",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-angeles-hau-2536-TA-120225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191229,
+  "text_chars": 5138,
+  "text_empty": false
+}

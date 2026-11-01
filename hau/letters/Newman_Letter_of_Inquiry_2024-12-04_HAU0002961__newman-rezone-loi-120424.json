@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020969",
+  "case_number": "HAU0002961",
+  "letter_date": "2024-12-04",
+  "jurisdiction": "Newman",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Newman Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/newman-rezone-loi-120424.pdf",
+  "hcd_letter": "Newman Letter of Inquiry 12/04/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/newman-rezone-loi-120424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 162356,
+  "text_chars": 5033,
+  "text_empty": false
+}

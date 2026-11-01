@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021018",
+  "case_number": "HAU0003003",
+  "letter_date": "2025-03-14",
+  "jurisdiction": "La Verne",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "La Verne Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/laverne-he-rezone-loi-031425.pdf",
+  "hcd_letter": "La Verne Letter of Inquiry 03/14/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/laverne-he-rezone-loi-031425.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156767,
+  "text_chars": 4062,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024042",
+  "case_number": "ADU0007335",
+  "letter_date": "2026-01-06",
+  "jurisdiction": "Roseville",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Multifamily allowance | Sprinklers | Unit Allowance | appearance | parking",
+  "n_keywords": "5",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/roseville-adu-findings-010626.pdf",
+  "hcd_letter": "Roseville Ordinance Findings Letter 01/06/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/roseville-adu-findings-010626.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227811,
+  "text_chars": 11004,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010671",
+  "case_number": "HAU20-076",
+  "letter_date": "2021-03-04",
+  "jurisdiction": "Calabasas",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65863",
+  "n_statutes": "1",
+  "keywords": "Environmental Constraints | No Net Loss Law | RHNA",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanCalabasas-TA-030421.pdf",
+  "hcd_letter": "Calabasas Technical Assistance Letter 03/04/2021",
+  "housing_law": "Housing Accountability Act, Housing Element Law, No Net Loss",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanCalabasas-TA-030421.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 210358,
+  "text_chars": 8297,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021285",
+  "case_number": "HAU0002051",
+  "letter_date": "2025-08-12",
+  "jurisdiction": "Danville",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(f)(2) | 65915(i) | 65915(k)(2) | 65915(v)(2)",
+  "n_statutes": "4",
+  "keywords": "Concession for Mixed-Use | base density",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/danville-hau-2051-ta-081225.pdf",
+  "hcd_letter": "Danville Technical Assistance Letter 08/12/2025",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/danville-hau-2051-ta-081225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189854,
+  "text_chars": 9550,
+  "text_empty": false
+}

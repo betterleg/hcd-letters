@@ -1,0 +1,179 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 9, 2024
+
+
+         Sarah Molina-Pearson, Principal City Planner
+         City of Los Angeles
+         200 North Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Sarah Molina-Pearson:
+
+         RE: City of Los Angeles Density Bonus Law Implementation – Letter of Technical
+             Assistance
+
+         HCD received a request for technical assistance from Joel Miller of Cal-Planning
+         Consultants (CPC) on November 7, 2023, regarding the application of the State Density
+         Bonus Law (SDBL) (Gov. Code, § 65915 et seq.). The SDBL allows qualifying housing
+         developments to obtain increases in allowable density, incentives/concessions,
+         development standard waivers, and reductions in parking requirements. This letter
+         provides technical assistance for the benefit of both the City of Los Angeles (City) and
+         CPC regarding eligibility under the law.
+
+         Project Description and Background
+
+         HCD understands the proposed project, located at 6800 Sunset Boulevard, would
+         provide 384 housing units, including 80 affordable to very low-income seniors, a 115-
+         room hotel, approximately 23,000 square feet of commercial retail space, and 500
+         parking spaces. Portions of the development would be distributed across three clusters
+         of parcels, with two of the clusters being across Leland Way from the main cluster at the
+         intersection of Sunset Boulevard and Highland Avenue. Among other incentives, the
+         applicant seeks to use the SDBL to allow the shared parking garage (which will serve
+         both residents and commercial tenants/customers) to be located in the residentially
+         zoned portion of this site. This is because the City classifies a parking facility that serves
+         commercial uses to be a commercial parking land use for the purposes of the Zoning
+         Code. The City’s position is that the project is not contiguous for the purposes of SDBL
+         eligibility because two parcel clusters are separated by Leland Way from the main
+         cluster, and that the applicant is not allowed to request the parking concession because
+         it is related to the regulation of land uses. CPC subsequently submitted a request for
+         technical assistance to HCD on the issues of parcel contiguity and parking concession
+         eligibility.
+      Sarah Molina-Pearson, Principal City Planner
+      Page 2
+
+
+
+      Topic 1: Parcel Contiguity
+
+      Question: Is the subject project site ineligible under the SDBL because it is
+      divided by a street or alley?
+
+      The SDBL provides that when calculating density bonuses, residential units must be on
+      contiguous sites that are part of one development application, but the units do not have
+      to be based upon individual subdivision maps or parcels. Although the word
+      “contiguous” is not defined in the SDBL, the plain language reading of the word
+      “contiguous” found in the definition of “housing development” (Gov. Code, § 65915,
+      subd. (i)) indicates that parcels that make up a project site may need to share a parcel
+      line to be eligible for the benefits and protections of the SDBL.
+
+      However, considering the broader context of California’s housing crisis and the need to
+      harmonize the application of multiple housing laws, HCD recommends that the City
+      voluntarily, both in this case and as a matter of practice, consider sites divided by
+      streets and alleys to meet the definition of “housing development” under the SDBL. The
+      reasons are as follows:
+
+      First, although contiguity is not defined in the SDBL, other state laws address this issue.
+      Government Code sections 65913.4 (codified by Senate Bill (SB) 35 of 2017), 65912.100
+      et seq. (codified by Assembly Bill (AB) 2011 of 2022), and 65852.24 (codified by SB 6 of
+      2022) extend eligibility to sites where parcels “are only separated by a street or
+      highway.”1 In SB 35 and AB 2011, the standard is also used to determine if the projects
+      adjoin urban uses – another key eligibility qualifier. This is particularly instructive as it
+      reflects the Legislature’s view on what constitutes adjoining parcels in the context of
+      urban infill, such as the subject project. Allowing projects on parcels only separated by a
+      street to be contiguous for SDBL eligibility would recognize the challenge of infill
+      development, especially lot assembly for larger projects. It would also sync the City’s
+      processing procedures for SDBL applications to those of SB 35 and AB 2011, both of
+      which are intended to be implemented together with the SDBL in a single project. (Gov.
+      Code, §§ 65913.4, subd. (a)(4)(C), (a)(5); 65912.114, subd. (f); 65912.124, subd. (f).)
+
+      Second, California is experiencing a housing crisis, and the provision of housing
+      remains of the utmost priority. Recognizing this, Government Code section 65915,
+      subdivision (r), states that the SDBL should be “interpreted liberally in favor of producing
+      the maximum number of housing units,” while subdivision (u)(2) expresses the
+      Legislature’s intent to “further incentivize the construction of very low, low-, and
+      moderate-income housing units.” A liberal reading of parcel contiguity favors maximizing
+      housing units and incentivizes the construction of very low-income housing units in this
+      instance. Further, courts have backed local governments that have chosen to
+
+
+1 Gov. Code, §§ 65852.24, subd. (b)(6)(B)(ii); 65912.111, subd. (c); and 65913.4, subd. (a)(2)(B).
+      Sarah Molina-Pearson, Principal City Planner
+      Page 3
+
+
+
+      implement the SDBL in ways that are more generous or permissive than established in
+      statute. 2
+
+      Topic 2: Concession to Modify Commercial Parking Land Use
+
+      Question 2.1: Can the City prohibit an applicant from requesting an
+      incentive/concession?
+
+      No, the City must consider all requests for incentives/concessions pursuant to the
+      SDBL. There is no mechanism in the SDBL that would allow the City to categorically
+      reject a specific concession request prior to consideration by the review authority.
+      Incentives/concessions may be denied if at least one of the three statutorily defined
+      findings of denial can be made (Gov. Code, § 65915, subd. (d)(1)). Unlike development
+      standard waivers, which are narrowly defined under the SDBL, an incentive/concession
+      presents a much broader potential to modify regulations. They do this by applying not
+      only to development standards but also to “zoning code requirements.” (Gov. Code, §
+      65915, subd. (k)(1).)
+
+      Question 2.2: Can an SDBL concession be used to allow the mixed-use project’s
+      parking garage to be located in the residentially zoned portion of the site given
+      that the garage will serve commercial uses in addition to residential uses?
+
+      Yes, for the following reasons.
+
+      First, the SDBL does not distinguish between requirements for land uses and
+      development standards, and concessions can modify not only development standards
+      but also “zoning code requirements.” 3 The proposed project is a mixed-use project,
+      containing both residential and commercial floor area. It relies on a single, centrally
+      located parking structure to provide parking. The structure that will contain the parking
+      facility does not include any commercial floor space and provides six housing units.
+      Given the challenges of infill development, especially when it is necessary to assemble
+      multiple smaller parcels to create a sufficiently large project site, it appears the applicant
+      has located the residential/parking structure to navigate site and logistical constraints.
+      To do so requires a degree of flexibility regarding the zoning code requirements, and as
+      such represents a typical use of SDBL incentives/concessions. The requested
+      concession may be denied only if the City can make at least one of the three statutorily
+      defined findings of denial.
+
+
+2 Friends of Lagoon Valley v. City of Vacaville (2007) 154 Cal.App.4th 807.
+3 See HCD technical assistance letter to the City of Santa Ana on April 27, 2023:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/SantaAna-TA-
+04272023.pdf, pages 3-4.
+Sarah Molina-Pearson, Principal City Planner
+Page 4
+
+
+
+Second, as described above in the context of the first issue, the statute directs
+practitioners to read the SDBL liberally in order to maximize the production of affordable
+housing units. Allowing a shared parking facility in a residential zone would further this,
+provided the incentive would result in identifiable and actual cost reductions to provide
+affordable housing units. (Gov. Code, § 65915, subd. (k)(3).)
+
+Conclusion
+
+HCD reminds the City that HCD has enforcement authority over SDBL, among other state
+housing laws. Accordingly, HCD may review local government actions and inactions to
+determine consistency with these laws. If HCD finds that a local government’s actions do not
+comply with state law, HCD may notify the California Office of the Attorney General that the
+local government is in violation of state law. (Gov. Code, § 65585, subd. (j).)
+
+HCD remains committed to supporting the City of Los Angeles in facilitating housing at
+all income levels and hopes the City finds this technical assistance helpful. If you have
+questions or need additional information, please contact David Ying at
+david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

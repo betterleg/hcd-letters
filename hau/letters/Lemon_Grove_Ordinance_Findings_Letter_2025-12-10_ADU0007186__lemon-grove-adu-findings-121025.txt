@@ -1,0 +1,285 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 10, 2025
+
+
+
+         Michael Fellows, Community Development Manager
+         Community Development Department
+         City of Lemon Grove
+         3232 Main Street
+         Lemon Grove, CA 91945
+
+         Dear Michael Fellows:
+
+         RE: Review of Lemon Grove’s Accessory Dwelling Unit (ADU) Governance under
+            State ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Thank you for submitting the City of Lemon Grove (City) Municipal Code citation to
+         section 17.24.060, updated in 2022, to the California Department of Housing and
+         Community Development (HCD). HCD has reviewed the Municipal Code and submits
+         these written findings pursuant to Government Code section 66326, subdivision (a).
+         HCD finds that the Ordinance fails to comply with State ADU Laws in the manner noted
+         below. Pursuant to Government Code section 66326, subdivision (b)(1), the City has up
+         to 30 days to respond to these findings. Accordingly, the City must provide a written
+         response to these findings no later than January 9, 2026.
+
+         The Municipal Code addresses many statutory requirements; however, HCD finds that
+         the Municipal Code does not comply with State ADU Law as follows:
+
+            1. Pending Changes - Please note that there are pending changes to State ADU
+               Law due to go into effect on January 1st, 2026; HCD advises the jurisdiction to
+               review these laws (AB 1154, SB 9, SB 543) before considering drafting an
+               updated ordinance.
+
+            2. Section 17.24.060 – Approval/Denial – The Municipal Code section provided to
+               HCD does not contain references to required approval and denial procedures
+               outlined in Government Code section 66317, subdivisions (a), (b) and (c), which
+               require, among other things, ministerial approval within 60 days or a full set of
+               comments to be provided with a denial. The City must amend the Municipal
+               Code to provide for all requirements described in section 66317.
+
+            3. Section 17.24.060 – Statutory Numbering - The Municipal Code contains
+               several references to code sections that were deleted by SB 477. These include
+               Government Code sections 65852.2, 65852.22 and 65852.26. The contents of
+Michael Fellows, Community Development Manager
+Page 2
+
+
+     these sections were relocated to Government Code, Title 7, Division 1, Chapter
+     13 (sections 66310-66342, see Enclosure). The City must amend the Municipal
+     Code to refer to the correct Government Code sections.
+
+  4. Section 17.24.060 B.1.b.i – Unit Allowances – The Municipal Code limits ADU
+     allowances on single family lots to “One accessory dwelling unit and one junior
+     accessory dwelling unit.” However, Government Code section 66323,
+     subdivision (a), states, “Notwithstanding Sections 66314 to 66322, inclusive, a
+     local agency shall ministerially approve an application for a building permit
+     within a residential or mixed-use zone to create any of the following: (1) One
+     accessory dwelling unit and one junior accessory dwelling unit per lot with a
+     proposed or existing single-family dwelling…(A) The accessory dwelling unit or
+     junior accessory dwelling unit is within the proposed space of a single family
+     dwelling or existing space of a single-family dwelling or accessory structure."
+     Paragraph (2) permits "one detached, new construction, accessory dwelling unit
+     that does not exceed four-foot side and rear yard setbacks." The use of the term
+     "any" followed by a list of permitted ADU types means that any of these ADU
+     types can be combined on a lot, zoned for single-family dwellings.
+
+     Section 66323 thus permits a homeowner to create one converted ADU; one
+     detached, new construction ADU; and one JADU. If the local agency approves
+     an ADU and/or JADU that is created from existing (or proposed) space, and the
+     owner subsequently applies for a detached ADU (or vice versa) that meets the
+     size and setback requirements of Government Code section 66323(a)(1) and (2)
+     the local agency must approve the application, entitling the applicant to a total of
+     three units on their lot in addition to the primary dwelling. This section also
+     requires the ministerial approval of detached ADUs in combination with units
+     created in portions of multifamily primary dwellings that are not yet used as
+     habitable space.
+
+     In addition, Government Code section 66323, subdivision (a)(4)(A)(ii), states,
+     “On a lot with an existing multifamily dwelling, not more than eight detached
+     accessory dwelling units… not [to] exceed the number of existing units on the
+     lot” and subdivision (a)(4)(A)(iii) states, “On a lot with a proposed multifamily
+     dwelling, not more than two detached accessory dwelling units.” Restricting
+     detached ADUs with multifamily dwellings to two units, and only with existing
+     multifamily dwellings is inconsistent with State ADU Law.
+
+     Limiting the number of units to one prescriptive section of State ADU Law (c.f. §
+     66323) would impermissibly constrain an application for the other (c.f. § 66314).
+     For example, if a new construction detached unit with a size of 1,000 square
+     feet is approved per section 66314, the limitation by format would preclude the
+     state-mandated ministerial approval of a new construction 800 square foot
+     detached unit subject to section 66323, subdivision (a)(2). Therefore, the City
+     must amend the Ordinance to allow for at least one unit subject to section 66314
+Michael Fellows, Community Development Manager
+Page 3
+
+
+     to be combined, in any order, with any unit subject to Government Code section
+     66323.
+
+  5. Section 17.24.060 B.1.b.ii – Unit Allowances, Multiple Single Family – The
+     Municipal Code allows, on a lot with more than one single-family primary
+     dwelling, only “one internal or detached accessory dwelling unit per lot”. The unit
+     allowance required on a lot with a single-family primary dwelling per section
+     66323 has been discussed in the previous finding. Section 66323, subdivisions
+     (a)(1) and (a)(2) refer to a lot with “…a proposed or existing single-family
+     dwelling”, not “only one proposed or existing single-family dwelling” (emphasis
+     added). As a result, the unit allowances applicable to single-family dwellings
+     apply to lots with multiple single-family dwellings as well. Government Code
+     section 66323, subdivision (c) reinforces this, stating “A local agency shall not
+     require, as a condition for ministerial approval of a permit application for the
+     creation of an accessory dwelling unit or a junior accessory dwelling unit, the
+     correction of nonconforming zoning conditions.” Therefore, the City must amend
+     the Municipal Code to remove the restriction to one ADU for lots with multiple,
+     detached single-family dwellings.
+
+  6. Section 17.24.060 B.1.b.iii – Unit Allowances, Multifamily Primary – The
+     Municipal Code allows “…up to two detached accessory dwelling per lot”. This
+     reflects outdated code. Current Government Code section 66323, subdivision
+     (a)(4)(A)(ii) requires ministerial approval of, “On a lot with an existing multifamily
+     dwelling, not more than eight detached accessory dwelling units. However, the
+     number of accessory dwelling units allowable pursuant to this clause shall not
+     exceed the number of existing units on the lot.” Only in the case of a proposed
+     multifamily primary dwelling does State ADU Law allow, in section 66323,
+     subdivision (a)(4)(A)(iii), “…not more than two detached accessory dwelling
+     units.” The City must amend the Municipal Code to align with current law and
+     provide for the allowance of up to eight detached units with existing multifamily
+     primary dwellings.
+
+  7. Section 17.24.060 D.1.c – JADU Deed Restriction – The Municipal Code states,
+     “A deed restriction shall be recorded against the title of the property that
+     stipulates this owner occupancy requirement…” However, Government Code
+     section 66333, subdivision (d) requires JADU deed restrictions to include only
+     “[a] prohibition on the sale of the junior accessory dwelling unit separate from
+     the sale of the single-family residence, including a statement that the deed
+     restriction may be enforced against future purchasers” and “A restriction on the
+     size and attributes of the junior accessory dwelling unit that conforms with this
+     article.” The inclusion of owner occupancy on and the omission on the restriction
+     on size and attributes from a deed restriction is therefore inconsistent with State
+     JADU Law. Although the City can provide an owner occupancy requirement for
+     JADUs, this stipulation cannot be added to the deed restriction. The City must
+     amend the Municipal Code to remove the owner occupancy stipulation and add
+     a restriction for size and attributes.
+Michael Fellows, Community Development Manager
+Page 4
+
+
+  8. Section 17.24.060 D.1.d – Exemption Height – The Municipal Code states,
+     “Development standards included in this chapter or elsewhere in Title 17 shall
+     not prohibit an accessory dwelling unit that is up to sixteen feet high.” However,
+     Government Code section 66321, subdivision (b)(3), which prohibits
+     development standards from precluding a unit up to 800 square feet, does not
+     reference height and thus height allowances described in section 66321,
+     subdivision (b)(4), which may in some cases be higher than 16 feet, must apply
+     to the exemption units. The City must remove the phrase “that is up to sixteen
+     feet high” from this section.
+
+  9. Section 17.24.060 D.1.e – Development Standards – The Municipal Code
+     states, “The following development standards shall apply to accessory dwelling
+     units and junior accessory dwelling units. Where development standards are not
+     specified in this chapter, accessory dwelling units and junior accessory dwelling
+     units shall meet all development standards for the zone within which they are
+     located, provided the development standards do not prohibit the minimum
+     allowance as described in subsection (d) above.”
+
+     However, units created pursuant to Government Code section 66323 cannot be
+     precluded by local development standards and the Municipal Code makes no
+     mention of a carveout specific to such units. The City must amend the Municipal
+     Code to exempt section 66323 units from these underlying zoning standards.
+
+  10. Section 17.24.060 D.1.e.vi – Height – The Municipal Code states, “The
+      maximum height for detached accessory dwelling units shall be sixteen feet.”
+      However, Government Code section 66321, subdivision (b)(4) requires
+      minimum allowances of 16, 18 or 20 feet given provided circumstances. The
+      City must amend the Municipal Code to provide for these higher height
+      allowances.
+
+  11. Section 17.24.060 D.1.e.vii – Front Setbacks – The Municipal Code states, “The
+      front setback shall be consistent with the requirements of the underlying zone.”
+      However, Government Code section 66321, subdivision (b)(3) prohibits “Any
+      requirement for a zoning clearance or separate zoning review or any other
+      minimum or maximum size for an accessory dwelling unit, size based upon a
+      percentage of the proposed or existing primary dwelling, or limits on lot
+      coverage, floor area ratio, open space, front setbacks, and minimum lot size, for
+      either attached or detached dwellings that does not permit at least an 800
+      square foot accessory dwelling unit with four-foot side and rear yard setbacks to
+      be constructed in compliance with all other local development standards.” The
+      City must amend the Municipal Code to provide for this exemption.
+Michael Fellows, Community Development Manager
+Page 5
+
+
+  12. Section 17.24.060 D.1.e.viii – Underlying Setbacks – The Municipal Code
+      states, “Setbacks for Internal and Junior Accessory Dwelling Units. Setbacks for
+      internal accessory dwelling units and junior accessory dwelling units shall be
+      consistent with the requirements for the primary dwelling in the underlying
+      zone.” However, Government Code section 66314, subdivision (d)(7) states, “No
+      setback shall be required for an existing living area or accessory structure or a
+      structure constructed in the same location and to the same dimensions as an
+      existing structure that is converted to an accessory dwelling unit or to a portion
+      of an accessory dwelling unit, and a setback of no more than four feet from the
+      side and rear lot lines shall be required for an accessory dwelling unit that is not
+      converted from an existing structure or a new structure constructed in the same
+      location and to the same dimensions as an existing structure.” Therefore, the
+      City must amend the Municipal Code to state that any underlying setback larger
+      than 4 feet, except those required for fire and safety, do not apply.
+
+  13. Section 17.24.060 D.1.f – Parking – The Municipal Code states, “…an attached
+      garage that is removed as part of a conversion to a junior accessory dwelling
+      unit shall be replace elsewhere on the property.” However, Government Code
+      section 66334, subdivision (a) states, “A junior accessory dwelling unit
+      ordinance adopted pursuant to Section 66333 shall not require additional
+      parking as a condition to grant a permit.” Therefore, the City may not require an
+      additional parking space in the event of a garage converted to a JADU. The City
+      must remove this requirement from the Municipal Code.
+
+  14. Section 17.24.060 D.1.g – Parking Exceptions – The Municipal Code lists
+      several conditions under which parking may not be required but omits
+      references to the conditions described in Government Code section 66322,
+      subdivision (a)(6), which states, “When a permit application for an accessory
+      dwelling unit is submitted with a permit application to create a new single-family
+      dwelling or a new multifamily dwelling on the same lot, provided that the
+      accessory dwelling unit or the parcel satisfies any other criteria listed in this
+      subdivision.” The City must add this additional parking exception to the
+      Municipal Code.
+
+  15. Section 17.24.060 D.1.h – Sprinklers – The Municipal Code states, “Fire
+      sprinklers shall not be required for accessory dwelling units or junior accessory
+      dwelling units unless they are required for the primary dwelling.” Current
+      Government Code section 66314, subdivision (d)(12) expands on this to state
+      “The construction of an accessory dwelling unit shall not trigger a requirement
+      for fire sprinklers to be installed in the existing primary dwelling.” The City must
+      add this language to this section of the Municipal Code.
+
+  16. Section 17.24.060 D.1.i – Subjective Terms – The Municipal Code states that
+      ADUs and JADUs must use a “complimentary” architectural style and that “the
+      quality of the materials shall be the same or exceed that of the primary
+      dwelling.” However, Government Code section 66314, subdivision (b)(1) allows
+      Michael Fellows, Community Development Manager
+      Page 6
+
+
+            local jurisdictions to apply only objective standards to ADUs and JADUs. There
+            is no objective standard for “complementary” architectural style, nor is there any
+            objective standard for what constitutes a higher or equal quality of materials.
+            Therefore, the City must remove these subjective terms from the Municipal
+            Code.
+      The City has two options in response to this letter. 1 The City can either amend the
+      Ordinance to comply with State ADU Law2 or adopt the Ordinance without changes and
+      include findings in its resolution adopting the Ordinance that explain the reasons the
+      City believes that the Ordinance complies with State ADU Law despite HCD’s findings. 3
+      If the City fails to take either course of action and bring the Ordinance into compliance
+      with State ADU Law, HCD must notify the City and may notify the California Office of
+      the Attorney General that the City is in violation of State ADU Law. 4
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you
+      have any questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Accountability Unit
+
+
+
+
+1 Gov. Code, § 66326, subd. (c)(1).
+2 Gov. Code, § 66326, subd. (b)(2)(A).
+3 Gov. Code, § 66326, subd. (b)(2)(B).
+4 Gov. Code, § 66326, subd. (c)(1).

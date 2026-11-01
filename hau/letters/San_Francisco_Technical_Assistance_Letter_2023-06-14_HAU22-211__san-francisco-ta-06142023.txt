@@ -1,0 +1,115 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 14, 2023
+
+
+
+         Kate Conner, LEED AP
+         Manager Priority Projects and Process
+         Current Planning Division
+         City and County of San Francisco
+         49 South Van Ness Avenue, Suite 1400
+         San Francisco, CA 94103
+
+         Dear Kate Conner:
+
+         RE: Base Density Calculation under AB 2334 (State Density Bonus Law)
+
+         The purpose of this letter is to provide technical assistance to the City and County of
+         San Francisco (City/County) regarding base density calculations under Assembly Bill
+         (AB) 2334. AB 2334 (Chapter 653, Statutes of 2022) made a number of changes to the
+         State Density Bonus Law (SDBL), one of which was the addition of a methodology to
+         calculate base density (i.e., maximum allowable residential density) in circumstances
+         where there are no dwelling units-per-acre (du/ac) density standard available. Unlike
+         conventional base density calculations, which consist simply of multiplying the gross
+         acreage of the site by the applicable du/ac-based density standard, establishing a base
+         density in areas without a du/ac-based density standard requires careful calculation.
+
+         Prior to the passing of AB 2334, the SDBL provided no direction on this topic, and as a
+         result, local governments pursued a variety of approaches. This process has since been
+         standardized by AB 2334 with the goal of having local agencies apply the SDBL
+         consistently and uniformly across the state. In short, the SDBL now requires that base
+         density is calculated by estimating the realistically achievable floor area of a
+         hypothetical code-compliant base project and then dividing that floor area by the
+         intended average unit size. This results in a finite number of units that serves as the
+         base density for the project.
+
+         The following two questions are paraphrased from the technical assistance request sent
+         by the City/County to HCD. HCD provides the following direction and best practices
+         based on the City/County’s inquiry.
+Kate Conner, Manager Priority Projects and Process
+Page 2
+
+
+
+Question 1: Can local agency staff calculate base density? (Or is the applicant
+expected to do it themselves?)
+
+Yes, the local agency can adopt procedures by which local agency staff calculate the
+base density of a project. However, the applicant has the right to choose to perform its
+own base density study. Government Code section 65915, subdivision (o)(6)(A), states,
+“A developer may provide a base density study and the local agency shall accept it,
+provided that it includes all appliable objective development standards.” Please note the
+applicant may choose the average unit size, regardless of whether the local agency or
+applicant conducts the base density study (and that the average unit size will be
+maintained in the actual project per Gov. Code, § 65915, subd. (o)(6)(B).).
+
+Objective development standards applicable to the project, include, but are not limited
+to, floor area ratio, site coverage, maximum building height and number of stories,
+building setbacks, public and private open space requirements, minimum percentage, or
+square footage of any nonresidential component. Parking requirements may also be
+considered, unless not required for the base project, and shall include considerations
+regarding number of spaces, location, design, type, and circulation (Gov. Code, §
+65915, subd. (o)(6)(A)).
+
+Question 2: Can the local agency apply a limited selection of physical
+development standards for the purposes of estimating development capacity?
+(Or do all development standards have to be applied)
+
+Yes, the local agency may apply a limited selection of physical development standards
+to estimate development capacity. The SDBL does not require the local agency to apply
+all physical development standards. In fact, HCD encourages the local agency to apply
+only those objective standards necessary to reasonably calculate a base density.
+
+HCD encourages the local agency to apply development standards in a generous,
+permissive way to produce the maximum number of total housing units (Gov. Code, §
+65915, subd. (r).) The local agency might choose to focus on determining the exterior
+dimensions of the building(s) and not include requirements such as interior floorplans,
+the orientation of windows/balconies, landscaping plans, or any other standard that
+does not serve to roughly estimate the total floor area of the hypothetical base project.
+Remember, “The entire aim of Section 65915 is to provide incentives to developers to
+construct housing for seniors and low income families.” Friends of Lagoon Valley v. City
+of Vacaville (2007) 154 Cal.App.4th 807, 825 [65 Cal.Rptr.3d 251, 266]. And, “If
+permitted by local ordinance, nothing in this [SDBL] shall be construed to prohibit a city,
+county, or city and county from granting a density bonus greater than what is described
+in [the statute].” (Gov. Code, § 65915, subd. (n).) HCD would consider and encourage a
+simple, transparently pro-housing approach to calculating base density to advance the
+City/County’s 2022 Housing Element Implementation Programs 1.3 Inclusionary
+Housing and 8.5 Compliance with State Programs and Law, based on the logic that
+Kate Conner, Manager Priority Projects and Process
+Page 3
+
+
+
+higher base densities result in greater amounts of affordable housing being produced
+under the City’s Inclusionary Affordable Housing Program.
+
+If you have any questions regarding the content of this letter or would like additional
+technical assistance, please contact Bentley Regehr at bentley.regehr@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

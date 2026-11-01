@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018500",
+  "case_number": "HAU0000036",
+  "letter_date": "2023-08-10",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "65913.4(a)",
+  "n_statutes": "1",
+  "keywords": "Demolition Permit | SB 35",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sf-2550-irving-losta-081023.pdf",
+  "hcd_letter": "San Francisco Technical Assistance Letter 08/10/2023",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sf-2550-irving-losta-081023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 168345,
+  "text_chars": 7777,
+  "text_empty": false
+}

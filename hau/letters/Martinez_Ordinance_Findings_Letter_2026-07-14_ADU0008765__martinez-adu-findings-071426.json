@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026479",
+  "case_number": "ADU0008765",
+  "letter_date": "2026-07-14",
+  "jurisdiction": "Martinez",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66327",
+  "n_statutes": "11",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/martinez-adu-findings-071426.pdf",
+  "hcd_letter": "Martinez Ordinance Findings Letter 07/14/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/martinez-adu-findings-071426.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 233100,
+  "text_chars": 6297,
+  "text_empty": false
+}

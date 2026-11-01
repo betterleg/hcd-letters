@@ -1,0 +1,244 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         April 17, 2023
+
+
+         Belinda Deines, Principal Planner
+         Community Development Department
+         City of Dana Point
+         33282 Golden Lantern
+         Dana Point, CA 92629
+
+         Dear Belinda Deines:
+
+         RE: City of Dana Point’s SB 9 Ordinance under Housing Crisis Act (Gov. Code, §
+             66300), ADU Law (Gov. Code, § 65852.2), etc. – Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the City of Dana Point
+         (City) regarding the relationship between its adopted Senate Bill (SB) 9 implementation
+         ordinance (Ordinance 22-01) (“Ordinance”) and the Housing Crisis Act of 2019 (HCA)
+         (Gov. Code, § 66300), among other relevant state housing laws. The California
+         Department of Housing and Community Development (HCD) received several
+         complaints raising concerns that certain provisions of the Ordinance may violate state
+         law. HCD subsequently reviewed the adopted ordinance and other publicly available
+         materials. This letter identifies several concerning provisions of the Ordinance and
+         describes the ways in which these provisions likely violate the HCA.
+
+         This letter also identifies provisions of the Ordinance that raise concerns under other
+         housing laws that HCD enforces, such as Accessory Dwelling Unit (ADU) Law (Gov.
+         Code, § 65852.2), Land Use Discrimination Law (Gov. Code, § 65008), and the Rental
+         Inclusionary Housing Law (Gov. Code, § 65850.01).
+
+         Housing Crisis Act of 2019 (Gov. Code, § 66300)
+
+         The HCA limits the ability of a local agency to reduce the intensity of land use wherever
+         housing is an allowable use without concurrently increasing the intensity of land use
+         elsewhere to compensate for the loss of residential development capacity. The HCA
+         defines reductions in the intensity of land use to include the addition or modification of
+         development standards. Specifically, the law provides the following:
+
+                  Changing the general plan land use designation, specific plan land use
+                  designation, or zoning of a parcel or parcels of property to a less intensive use or
+                  reducing the intensity of land use within an existing general plan land use
+                  designation, specific plan land use designation, or zoning district in effect at the
+      Belinda Deines, Principal Planner
+      Page 2
+
+
+
+             time of the proposed change, below what was allowed under the land use
+             designation or zoning ordinances of the affected county or affected city, as
+             applicable, as in effect on January 1, 2018, except as otherwise provided in
+             clause (ii) of subparagraph (B) or subdivision (i). For purposes of this
+             subparagraph, “reducing the intensity of land use” includes, but is not limited to,
+             reductions to height, density, or floor area ratio, new or increased open space or
+             lot size requirements, new or increased setback requirements, minimum frontage
+             requirements, or maximum lot coverage limitations, or any other action that
+             would individually or cumulatively reduce the site’s residential development
+             capacity.
+
+      (Gov. Code, § 66300, subd. (b)(1)(A).) In addition, per Government Code section
+      65589.5, subdivision (a)(2)(L), the HCA is to be broadly construed to maximize the
+      development of housing.
+
+      ADU Law (Gov. Code, §§ 65852.2 and 65858.22)
+
+      SB 9 and ADU Law are complementary. Both laws can be implemented in ways that result in
+      developments with both “SB 9 Units” and ADUs. For example, when a lot split has not
+      occurred, the lot is eligible to receive a duplex on the lot under SB 9 and to receive ADUs
+      and/or junior ADUs (JADUs) as it ordinarily would under ADU Law. Or, when a lot split occurs
+      under SB 9, each lot is eligible for up to two units, including, for example, a primary unit and an
+      ADU or JADU. Only in the case that a lot owner both splits a lot and builds a duplex on a
+      resulting lot under SB 9 is ADU Law superseded (i.e., the lot is not entitled to an ADU or
+      JADU); in all other cases, State ADU Law applies. 1
+
+      Specific Findings
+
+      The following aspects of the Ordinance raise concerns:
+
+         •   Sec 9.72.004 (C) and (E) – Two Unit Maximum on Duplex Lots – The Ordinance
+             states, “No more than two residential units (whether primary, accessory, or single
+             family residential duplex) shall be allowed per parcel.” This is later reinforced with
+             the requirement of the same language in a deed restriction. However, this
+             imposes a two-unit cap on all single-family residential duplexes, even in
+             instances when a lot split has not occurred. Imposing a two-unit cap on unsplit
+             lots with a duplex would violate State ADU Law. (Gov. Code, § 65852.2, subds.
+             (a) and (e).) The City should amend the language to clarify that a two-unit cap
+             applies only in the case of a duplex on a split lot.
+
+1 For more information on the interaction between SB 9 and ADU Law, please refer to HCD’s SB9
+
+Fact Sheet, available at https://www.hcd.ca.gov/docs/planning-and-community-
+development/sb9factsheet.pdf.
+Belinda Deines, Principal Planner
+Page 3
+
+
+
+
+   •   Sec 9.72.004 (C) – Attachment Requirement – The Ordinance states, “The
+       Residential Units located on the property must be attached or connected via a
+       permanent wall, ceiling or floor.” This appears to prohibit detached “Residential
+       Units,” which include ADUs. However, Government Code section 65852.2,
+       subdivision (a)(1)(D)(iii), permits ADUs that are “detached from the proposed or
+       existing primary dwelling,” and subdivision (e)(1)(B) requires ministerial approval
+       of “[o]ne detached, new construction, accessory dwelling unit….” Therefore, the
+       City should revise the language to clarify that detached ADUs are permitted in
+       association with SB 9 developments.
+
+   •   Sec 9.72.004 (E); Sec. 9.72.004 (J)(10); Sec 7.37.004 (D) – Affordability Deed
+       Restriction – The Ordinance requires a deed restriction wherein “the Single
+       Family Residential Duplex shall be occupied by very-low to low-income
+       households in perpetuity….” It is unclear if this is a reference to the first primary
+       unit or both units. A similar requirement is later required for all split lots. In
+       practice, these provisions make the SB 9 ordinance an inclusionary zoning
+       ordinance as well.
+
+       However, while inclusionary zoning requirements are a well-used and important
+       tool for the creation of affordable housing, this requirement is equivalent to either
+       a 50-, 75- or 100-percent inclusionary requirement that is not imposed on any
+       other type of residential development in Dana Point. While Government Code
+       section 65850, subdivision (g), authorizes local agencies to adopt an inclusionary
+       housing ordinance that includes residential rental units affordable to lower- and
+       moderate-income households, under section 65850.01, HCD has the authority to
+       review an inclusionary requirement that exceeds 15 percent and to request that a
+       local jurisdiction submit an economic feasibility study providing “evidence that the
+       ordinance does not unduly constrain the production of housing….” Absent an
+       economic feasibility study showing otherwise, the Ordinance’s inclusionary
+       requirement raises concerns that it may render implementation of SB 9
+       economically infeasible. Therefore, the City should remove the requirement.
+
+   •   Sec. 9.72.004 (G); Sec 7.37.004 (I) – Maximum Height – The Ordinance states,
+       “The Single Family Residential Duplex shall be subject to a height limitation of
+       twelve feet for a roof pitch of less and 3/12, or fourteen (14) feet for a roof pitch
+       between 3/12 and 6/12 or sixteen (16) feet for a roof pitch of 6/12 and greater,
+       and shall be limited to one story.” This exact text is later repeated for units on lot
+       splits. However, this is a height restriction far below standard single-family
+       development standards in Dana Point, which is noted in Section 9.09.030 Table
+       Item F as being 28 feet and two stories. This limitation, to the extent it prevents
+       development of equivalent floor area compared to that allowed under the existing
+       Development Standards as described above, reduces the intensity of land use
+       and represents a reduction in residential development capacity. (Gov. Code, §
+Belinda Deines, Principal Planner
+Page 4
+
+
+
+       66300, subd. (b)(1)(A).) Therefore, the City must remove this reference or amend
+       it to state that Single Family Residential Duplex and Split Lot primary dwelling
+       structures may be the same height as the underlying zoning permits for single-
+       family development. Be advised that in practice, preventing two-story structures
+       means the lot coverage will necessarily increase to accommodate the units.
+
+   •   Sec. 9.72.004 (I); Sec 7.37.004 (K) – 800 Square Foot Maximum – The
+       Ordinance states, “For all Single Family Residential Duplexes, the Total Floor
+       Area shall not exceed 800 square feet…. In no event shall the two Residential
+       Units located upon the parcel exceed 1600 square feet.” The Ordinance later
+       states, “For all residential units constructed upon parcel(s) subject to or created
+       by an Urban Lot Split, the Total Floor Area shall not exceed 800 square feet….”
+
+       However, this represents a reduction in the intensity of land use in violation of
+       Government Code section 66300, subdivision (b)(1)(A), as any large lot would
+       see an extreme reduction in the developable floor area compared to existing
+       zone development standards. Furthermore, this requirement extends the size
+       limitations imposed on primary units constructed under SB 9 to any existing
+       primary unit on the lot (i.e., a single-family residence). In doing so, both the 1,600
+       square-foot parcel maximum and the 800 square-foot unit maximum represent a
+       dramatic reduction in development potential and, therefore, violate the HCA. The
+       City must remove these requirements.
+
+   •   Sec. 9.72.004 (I); Sec 7.37.004 (K) – Bedroom Limitation – The Ordinance states,
+       “For all Single Family Residential Duplexes… [each unit] shall not exceed… 1
+       bedroom.” The Ordinance later states, “For all residential units constructed upon
+       parcel(s) subject to or created by an Urban Lot Split, the Total Floor Area shall not
+       exceed… one bedroom.” However, limiting the number of bedrooms may constrain
+       housing choice and result in discriminatory effects on families with children, people
+       with disabilities, and other protected groups in violation of state and federal fair
+       housing laws, including but not limited to Government Code section 65008,
+       subdivisions (a)(1)(A) and (b)(1)(B)(i). Furthermore, reducing the number of people
+       that may reside in a dwelling unit also constitutes a reduction in the intensity of land
+       use and thus a violation of the HCA per Government Code section 66300,
+       subdivision (b)(1)(A). Therefore, the City must revise this section to avoid limiting
+       the occupancy of housing units based on familial status or other protected
+       characteristics.
+
+The inconsistencies described above are additionally problematic because section
+9.72.006 of the Ordinance makes “[a]ny person responsible for violating” the Ordinance
+“guilty or an infraction or a misdemeanor.” Section 7.37.005 provides for additional civil
+penalties. In other words, the Ordinance criminalizes conduct that may be consistent
+with state law.
+       Belinda Deines, Principal Planner
+       Page 5
+
+
+
+       Conclusion
+
+       Separately and collectively, these development standards and other requirements reduce
+       the intensity of land use, raising concerns under the HCA. They also raise concerns under
+       Housing Element Law, State ADU Law, Land Use Discrimination Law, and SB 9 itself.
+
+       HCD would like to remind the City that under Government Code section 65585, subdivision
+       (j), HCD has enforcement authority over the HCA, Housing Element Law, State ADU Law,
+       Land Use Discrimination Law, Rental Inclusionary Housing Law, and other housing laws.
+       Accordingly, HCD may review local government actions to determine consistency with
+       these and other laws. (Gov. Code, § 65585, subd. (i).) If HCD finds that a city’s actions do
+       not comply with state law, HCD may notify the California Office of the Attorney General.
+       (Gov. Code, § 65585, subd. (j).)
+
+       Thank you for your prompt attention to this matter. HCD recommends that the City
+       conduct a comprehensive review of the HCA and other applicable state housing laws2
+       and update its SB 9 implementing ordinance accordingly. Additionally, HCD requests
+       that the City respond in writing within 30 days of receipt of this letter. The City’s
+       response should include a proposed timeline for corrective actions. If you have
+       questions or need additional information, please contact Mike Van Gorder, of our staff,
+       at mike.vangorder@hcd.ca.gov.
+
+       Sincerely,
+
+
+
+
+       David Zisser
+       Assistant Deputy Director
+       Local Government Relations and Accountability
+
+
+
+
+2 While it is beyond the scope if this letter to outline conflicts between the Ordinance and SB 9 (Gov.
+
+Code, §§ 65852.21, 66411.7) that do not implicate other housing laws, HCD notes that the following
+sections of the Ordinance are in plain conflict with SB 9: 9.72.003 (C)(2); 9.72.004 (C), (E), (J)(10),
+(I); 7.37.004 (A)(11), (D), (I), (K), Please refer to HCD’s SB9 Fact Sheet, available at
+https://www.hcd.ca.gov/docs/planning-and-community-development/sb9factsheet.pdf, to bring the
+Ordinance into compliance with state law.

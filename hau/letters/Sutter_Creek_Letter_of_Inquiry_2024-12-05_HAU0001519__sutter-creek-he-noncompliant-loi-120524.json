@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0018489",
+  "case_number": "HAU0001519",
+  "letter_date": "2024-12-05",
+  "jurisdiction": "Sutter Creek",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sutter-creek-he-noncompliant-loi-120524.pdf",
+  "hcd_letter": "Sutter Creek Letter of Inquiry 12/05/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sutter-creek-he-noncompliant-loi-120524.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 176158,
+  "text_chars": 6308,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0018488",
+      "case_number": "HAU0001518",
+      "letter_date": "2024-12-04",
+      "jurisdiction": "Clayton",
+      "letter_type": "Letter of Inquiry",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65585",
+      "n_statutes": "1",
+      "keywords": "housing element",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sutter-creek-he-noncompliant-loi-120524.pdf",
+      "hcd_letter": "Clayton Letter of Inquiry 12/04/2024",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

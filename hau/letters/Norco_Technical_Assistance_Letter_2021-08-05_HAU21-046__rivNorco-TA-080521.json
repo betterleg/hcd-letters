@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010682",
+  "case_number": "HAU21-046",
+  "letter_date": "2021-08-05",
+  "jurisdiction": "Norco",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65583.1(d)",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/rivNorco-TA-080521.pdf",
+  "hcd_letter": "Norco Technical Assistance Letter 08/05/2021",
+  "housing_law": "Housing Element Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/rivNorco-TA-080521.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191285,
+  "text_chars": 5433,
+  "text_empty": false
+}

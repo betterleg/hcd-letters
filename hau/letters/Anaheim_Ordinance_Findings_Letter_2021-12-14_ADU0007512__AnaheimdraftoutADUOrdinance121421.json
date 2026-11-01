@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024251",
+  "case_number": "ADU0007512",
+  "letter_date": "2021-12-14",
+  "jurisdiction": "Anaheim",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/AnaheimdraftoutADUOrdinance121421.pdf",
+  "hcd_letter": "Anaheim Ordinance Findings Letter 12/14/2021",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/AnaheimdraftoutADUOrdinance121421.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 327411,
+  "text_chars": 57308,
+  "text_empty": false
+}

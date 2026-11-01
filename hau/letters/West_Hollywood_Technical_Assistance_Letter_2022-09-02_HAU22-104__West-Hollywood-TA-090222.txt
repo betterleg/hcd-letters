@@ -1,0 +1,292 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 2, 2022
+
+
+         John Keho
+         Planning and Development Services Director
+         City of West Hollywood
+         8300 Santa Monica Boulevard
+         West Hollywood, CA 90069
+
+         Dear John Keho:
+
+         RE: 8500 Santa Monica Boulevard – Letter of Technical Assistance
+         The purpose of this letter is to provide technical assistance to the City of West
+         Hollywood (City) regarding the mixed-used infill project to be located at 8500 Santa
+         Monica Boulevard. The proposed project would result in the construction of a six-story,
+         30-unit mixed-use building containing ground floor commercial space and upper story
+         market-rate and affordable housing units. The project would provide three units that
+         would be affordable to very low-income (VLI) households, two units that would be
+         affordable to moderate-income (MI) households, and 25 market-rate units. The
+         proposed project utilizes the State Density Bonus Law (SDBL) (Gov. Code, § 65915) to
+         achieve a density bonus and is subject to the City’s inclusionary zoning requirements.
+
+         The California Department of Housing and Community Development (HCD) received a
+         complaint regarding the subject project, and the City requested technical assistance
+         from HCD regarding the relationship of the SDBL and the City’s inclusionary zoning
+         ordinance (Ordinance) (WHMC, § 19.22.030). Specifically, the City seeks guidance on
+         whether the requirement that a project include one MI unit for every VLI or low-income
+         (LI) unit conflicts with state housing law, particularly the SDBL. Additionally, the City
+         seeks guidance on how to best calculate base density in a zone without an associated
+         dwelling units per acre density standard and how to consider concession requests that
+         would increase a project’s FAR. Coincidentally, these latter topics are addressed in the
+         August 31, 2022, Letter of Technical Assistance to the City of Santa Monica. That letter
+         will be provided to the City instead of replicating the information in this letter.
+
+         The City’s Ordinance applies a 20-percent inclusionary requirement on all
+         developments containing more than ten housing units. Applied to the subject project,
+         this means that five units 1 of the 22 base density units must be affordable. However, the
+         Ordinance requires that for every VLI or LI unit provided, the applicant must also
+         provide an MI unit. (WHMC, § 19.22.030(F)). The applicant argues that this requirement
+
+1 Rounded up to 5 units from 4.4 units
+John Keho, Planning and Development Services Department
+Page 2
+
+
+
+reduces the economic feasibility of SBDL-enabled projects because, in practice, it
+requires that a project include more affordable units to qualify for a density bonus than
+are required by the SDBL. The applicant indicates that it would have preferred to
+construct four VLI units and one MI unit (to earn an additional SDBL concession) but
+were disincentivized from doing so because it would necessitate adding another MI unit.
+It should be noted that the SDBL offers much greater incentives for projects that include
+VLI/LI units than MI units, thereby incentivizing the former. For instance, to achieve the
+maximum 50-percent density bonus, a project needs to provide only 15 percent VLI
+units compared to 44 percent MI units (Gov. Code, § 65915, subd. (f)). Conversations
+with City staff indicate that the mandated MI unit requirement is in place to support the
+City in its effort to produce enough housing for MI households. Absent this requirement
+(the City contends), SDBL-enabled projects would largely consist only of VLI/LI units
+and market-rate units. This letter explores the ways that inclusionary zoning ordinances
+and SDBL implementation ordinances can and should be harmonized to best achieve
+the important functions of each.
+
+Inclusionary Zoning
+
+Inclusionary zoning is a vitally important affordable housing production tool used across
+California. Properly implemented, it can and has resulted in the production of significant
+amounts of deed-restricted affordable housing – often without the need for government
+subsidy. Unsurprisingly, many local agencies have adopted or are considering adopting
+inclusionary zoning ordinances. HCD strongly supports these efforts. However, some
+inclusionary requirements can hinder, rather than facilitate, the production of affordable
+housing. This is because inclusionary requirements can sometimes negatively affect the
+economic feasibility of residential development projects. A project that is not
+economically feasible will not be constructed and will provide no affordable units at all.
+The state inclusionary zoning statute addresses these limitations, providing that a local
+agency must provide alternative means of compliance (e.g., in lieu fees) and that rental
+inclusionary requirements in excess of 15 percent may be subject to review by HCD to
+consider economic feasibility (Gov. Code, §§ 65850, subd. (g); 65850.1). For more
+information, please see HCD’s Rental Inclusionary Housing Memo.
+
+State Density Bonus Law
+
+First adopted in 1979 and strengthened over the years, the SDBL is one of the most
+powerful tools in the production of affordable housing. The SDBL facilitates both the
+construction of 100 percent affordable projects as well as projects that provide primarily
+market-rate units. It allows developers to build more market-rate units than would
+typically be allowed in exchange for including affordable units. Like with inclusionary
+zoning requirements, the affordable units are often provided without the use of
+government subsidy. Within the context of market-rate development, the SDBL is
+explicit regarding the importance of maintaining the economic viability of projects. It
+provides, “The Legislature finds and declares that the intent behind the Density Bonus
+      John Keho, Planning and Development Services Department
+      Page 3
+
+
+
+      Law is to allow public entities to reduce or even eliminate subsidies for a particular
+      project by allowing a developer to include more total units in a project than would
+      otherwise be allowed by the local zoning ordinance in exchange for affordable units. It
+      further reaffirms that the intent is to cover at least some of the financing gap of
+      affordable housing with regulatory incentives, rather than additional public subsidy.”
+      (Gov. Code, § 65915, subd. (t).) The SDBL provides direction regarding the relationship
+      between itself and inclusionary zoning requirements. It confirms that an affordable unit
+      provided to satisfy an inclusionary requirement also earns the applicant the benefits and
+      protections of the SDBL (e.g., a density bonus, concessions, development standard
+      waivers, etc.). (Gov. Code, § 65915, subd. (o)(6).) It also provides that an affordable
+      unit in an SDBL-enabled project is not subject to affordable housing impact fees,
+      including inclusionary zoning fees and in-lieu fees. (Gov. Code, § 65915.1).
+
+      Relationship to SDBL
+
+      Beyond the language provided by the SDBL, a few court cases address situations in
+      which local ordinances or interpretations have affected the mechanics of the SDBL.
+      Chief among them is Latinos Unidos Del Valle De Napa Y Solano v. County of Napa 2,
+      which settled the matter of whether an affordable unit can serve both as an “inclusionary
+      unit” meeting a local inclusionary zoning requirement and as a “target unit” qualifying a
+      project for a density bonus. It can, and the statute was subsequently amended to reflect
+      this. If this were not the case, for instance, a project attempting to earn a 50-percent
+      density bonus by providing 15 percent VLI units would need to provide 15 percent
+      affordable units to meet the 15-percent inclusionary requirement and an additional 15
+      percent affordable units to earn the density bonus. This would require the project to
+      provide 30 percent affordable units – twice the amount contemplated by either the
+      SDBL or the local inclusionary ordinance. A more recent case, Schreiber v. City of Los
+      Angeles reinforces the finding made in Latinos: “A local ordinance is preempted if it
+      conflicts with the density bonus law by increasing the requirements to obtain its
+      benefits.” 3 These cases provide a helpful lens through which to evaluate the practical
+      effects of local ordinances upon the operation of the SDBL. Local agencies should
+      maintain an awareness of potential unintended impacts of local inclusionary
+      requirements on SDBL applications.
+
+      The City should be prepared to grant a request for an SDBL concession to modify
+      provisions of the inclusionary ordinance, especially ordinances that mandate the level of
+      affordability of inclusionary units or their ratios. The SDBL can be used to modify or
+      waive provisions of an inclusionary ordinance. For example, a mixed-income project
+      that relies on tax credits may need to waive a requirement that affordable units be
+      dispersed among the market-rate units. This is because tax credits and other affordable
+
+
+2 (2013) 217 Cal.App.4th 1160, 1165-66 [159 Cal.Rptr.3d 284, 287-88].
+3 (2021) 69 Cal.App.5th 549, 558 [284 Cal.Rptr.3d 587, 594].
+       John Keho, Planning and Development Services Department
+       Page 4
+
+
+
+       housing funding programs sometimes require the affordable units to be consolidated
+       within a single building or on a separate parcel.
+
+       Governmental Constraints in Housing Element Law
+
+       Housing elements are required to contain analysis of potential and actual governmental
+       constraints on the development of housing for all income levels. (Gov. Code, § 65583,
+       subd. (a)(5).) This includes, but is not limited to, analysis of land use controls, building
+       codes and their enforcement, and locally adopted ordinances that directly impact the
+       cost and supply of residential development. After identifying governmental constraints,
+       the City must implement programs to remove those governmental constraints to the
+       development of housing where legally possible. (Gov. Code, § 65583, subd. (c)(3).) This
+       analysis extends to a local agency’s inclusionary ordinance. As described above, under
+       Government Code section 65850.1, an inclusionary requirement of 15 percent or less is
+       not subject to scrutiny by HCD. Above this percentage, however, the local agency
+       should carefully consider local development conditions to ensure that a higher
+       percentage would not constitute a governmental constraint by rendering projects
+       economically infeasible. HCD has observed that typically inclusionary requirements are
+       in the 15-20-percent range. This is not to say that a higher or lower level is categorically
+       unreasonable, but that this range has been proven functional in many areas (especially
+       in high-cost, high-development-pressure areas).
+
+       With a base density of only 22 units, the subject project does not present the most
+       helpful scenario to examine how the City’s Ordinance relates to the SDBL. Instead,
+       consider a hypothetical scenario in West Hollywood where the base density of a site
+       allows 100 units and the developer seeks a 35-percent density bonus (35 units) by
+       providing 20 percent LI units. The project would be required by the Ordinance to set
+       aside 20 units (20 percent of 100 units) as affordable housing. To earn the density
+       bonus, 20 units (20 percent of 100 units) would have to be LI units per the SDBL. On its
+       surface, this project would appear to handily meet the City’s inclusionary requirements
+       and the eligibly threshold of the SDBL. However, the mandated MI units requirement
+       necessitates an additional 19 MI units. 4 This results in a substantially higher percentage
+       of affordable units than required by the SDBL, as summarized in the table below.
+
+
+
+
+4 Per the WHMC, § 19.22.030 F. “…When two or more affordable units are constructed, the units
+
+shall be allocated alternately with the first unit allocated for a low or very low- income household and
+the second allocated for a moderate-income household, alternating between low or very low, and
+moderate income until all units are assigned a level of affordability.”
+John Keho, Planning and Development Services Department
+Page 5
+
+
+
+                                                                             Affordable %
+                                                             Market Rate
+             Overall Units      LI Units       MI Units                       of Overall
+                                                                Units
+                                                                                Project
+ Without
+Mandated          135              20              0              115           14.8%
+MI Units
+  With
+Mandated          135              20             19              96            28.9%
+MI Units
+
+It is the overall percentage of affordable units in a project that is of primary concern when
+evaluating economic feasibility. By requiring that 28.9 percent of the overall development
+be made up of affordable units, the City is in practice imposing an inclusionary requirement
+nearly 50 percent higher than its generally applicable 20 percent and significantly higher
+than the requirements of the SDBL. This may reduce the economic feasibility of the project
+because while affordable units are similarly expensive to build as market-rate units, the
+affordable units do not generate equivalent income. SDBL enables developers to build
+affordable housing without government subsidy – by allowing the allowing the market-rate
+units to offset the costs of the affordable units. The City’s mandated MI unit requirement
+makes this more difficult and may constitute a governmental constraint in its current form.
+
+It should be noted that the City’s practice of allowing an applicant to combine multiple
+density bonuses may lessen the real-world impact of the mandated MI unit requirement.
+However, this practice is problematic for several reasons. First, it is not codified, so
+applicants have no way of knowing about it when planning a project. Second, it can only be
+used to achieve up to the SDBL-defined maximum of a 50 percent density bonus, which
+may limit its compensatory value in certain circumstances. Third, no bonus is given until the
+10 percent minimum threshold is met for certain income categories, which limits its use on
+smaller projects (like the subject project).
+
+Recommendations
+
+HCD makes the following recommendations to help the City implement both the City’s
+local inclusionary ordinance and the SDBL. This guidance is tailored to West Hollywood
+but is also intended to be helpful to other jurisdictions.
+
+    •   Substitutions. Allow more deeply affordable units to be substituted for less
+        deeply affordable units. For example, an applicant should be able to substitute a
+        VLI for a MI unit if they so desire. This approach is consistent with the SDBL’s
+        approach to incentivizing more deeply affordable units. It also alleviates
+        concerns that the local agency is disincentivizing more deeply affordable units in
+        favor of less deeply affordable units – and risking fair housing and discrimination
+        complaints.
+John Keho, Planning and Development Services Department
+Page 6
+
+
+
+   •   Upper Limit to Inclusionary Requirement. Inclusionary requirements that
+       mandate that the units be provided at certain affordability levels or in certain ratios
+       of affordability levels should only apply up to the point that the project meets the
+       total inclusionary percentage required. Once the overall affordability threshold is
+       met, no additional inclusionary units should be required regardless of any
+       affordability level ratios. Consider the example of a jurisdiction where the generally
+       applicable inclusionary requirement is 20 percent and there is a one-to-one ratio
+       requirement of MI to VLI/LI units. If the applicant proposes less than 20 percent
+       affordable units to achieve a density bonus (e.g., 15 percent VLI to achieve the
+       maximum density bonus), the jurisdiction would require that 5 percent additional
+       affordable units be added to the project to reach the 20 percent inclusionary
+       threshold despite the fact that its ratio would require 15 percent MI units.
+   •   Integrate Language. The provisions of the City’s inclusionary ordinance and its
+       SDBL implementation ordinance should be integrated with the expectation that
+       projects will be subject to both. The benefits and protections of the SDBL apply
+       to all projects that meet the statutory minimum percentage of affordable units.
+       This is to say that in jurisdictions with inclusionary zoning requirements, the
+       effects of the SDBL should be anticipated. When drafting the ordinance, a local
+       agency should consider a diverse range of project types to explore how
+       requirements affect each. As a starting point, the local agency should consider
+       large versus small projects and projects that rely on the seven eligibility
+       categories of the SDBL (Gov. Code, § 65915, subd. (b)(1)(A-G).) Finally, the
+       analysis should consider the final overall percentage of affordable units in each
+       scenario to most accurately evaluate economic feasibility.
+
+Conclusion
+
+HCD applauds West Hollywood’s commitment to affordable housing and recognizes the
+challenges of harmonizing state housing law and local ordinances. HCD appreciates the
+City’s pragmatic and progressive approach to housing policy. This letter is intended to
+provide helpful context and guidance and help local agencies throughout the state work
+to achieve their housing goals. If you have questions or need additional information,
+please contact Brian Heaton at Brian.Heaton@hcd.ca.gov.
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

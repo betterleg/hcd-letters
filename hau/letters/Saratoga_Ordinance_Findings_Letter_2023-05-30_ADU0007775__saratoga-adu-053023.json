@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024820",
+  "case_number": "ADU0007775",
+  "letter_date": "2023-05-30",
+  "jurisdiction": "Saratoga",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/saratoga-adu-053023.pdf",
+  "hcd_letter": "Saratoga Ordinance Findings Letter 05/30/2023",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/saratoga-adu-053023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 262624,
+  "text_chars": 16796,
+  "text_empty": false
+}

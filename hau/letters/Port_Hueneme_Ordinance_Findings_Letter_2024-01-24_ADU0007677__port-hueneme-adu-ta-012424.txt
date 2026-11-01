@@ -1,0 +1,429 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 24, 2024
+
+
+
+         Tony Stewart, Director of Community Development
+         City of Port Hueneme
+         Community Development Department
+         250 N. Ventura Road
+         Port Hueneme, CA 93041
+
+         Dear Tony Stewart:
+
+         RE: Letter of Technical Assistance: City of Port Hueneme ADU Ordinance
+
+         On March 13, 2023, the California Department of Housing and Community Development
+         (HCD) provided written findings of non-compliance to the City of Port Hueneme (City)
+         accessory dwelling unit (ADU) Ordinance Number 791 (Ordinance). On June 13, 2023,
+         the City submitted its written response to HCD’s findings. HCD appreciates the City’s
+         time and effort in crafting its response.
+
+         However, the City’s response fails to address substantial inconsistencies between the
+         City’s zoning code and State ADU Law.
+
+         HCD requests that the City respond to this letter no later than February 24, 2024, with a
+         detailed plan of action and timeline to bring the Ordinance into compliance pursuant to
+         Government Code section 65852.2, subdivision (h)(2)(B). Specifically, the City must
+         either amend the Ordinance according to HCD’s findings or readopt the Ordinance and
+         make express findings via resolution addressing HCD's findings and explaining the
+         reasons the City believes it has complied with State ADU Law despite HCD’s findings.
+         (Gov. Code, § 65852.2, subd. (h)(2)(B)).
+
+         Pursuant to Government Code section 65852.2, subdivision (h)(3)(A), HCD may notify
+         the Attorney General when a local ordinance is in violation of State ADU Law.
+
+         Background and Summary of Issues
+
+         In its March 13, 2023, findings, HCD detailed the areas of the Ordinance which violate
+         Government Code section 65852.2. Government Code section 65852.2, subdivision
+         (h)(2)(A), requires that HCD provide jurisdictions “a reasonable time, no longer than 30
+         days, to respond….” HCD staff reached out on April 24, 2023 to inquire as to the City’s
+         response, and was told the City Attorney was drafting it. On May 26, 2023, HCD staff
+         reached out again offering to meet with Port Hueneme staff to discuss the letter. No
+Tony Stewart, Director of Community Development
+Page 2
+
+
+official response was provided until June 13, 2023. In its June 13, 2023, letter, the City
+responded point by point to the findings as they were presented in the HCD letter. This
+letter will provide responses to the City’s specific findings that HCD still considers
+outstanding and inconsistent with State ADU Law. Note that HCD is only responding the
+findings that are inconsistent with State ADU Law and will omit from this letter mention
+of findings that have been properly addressed.
+
+For reference and convenience, HCD’s original finding is included in italicized font,
+followed by the City’s response in italicized font, followed by HCD’s current response in
+regular font.
+
+
+1) HCD’s Original Finding
+   “10802 (D) and (D)(5) – ADU Limitation – The Ordinance states that "Only one (1)
+   accessory dwelling unit shall be allowed on a single lot of record…." And that "A lot
+   may contain up to one ADU and one JADU..." However, Government Code section
+   65852.2, subdivision (e)(1), states that "Notwithstanding subdivisions (a) to (d),
+   inclusive, a local agency shall ministerially approve an application for a building
+   permit within a residential or mixed-use zone to create any of the following: (A) One
+   accessory dwelling unit and one junior accessory dwelling unit per lot with a
+   proposed or existing single-family dwelling…(i) The accessory dwelling unit or junior
+   accessory dwelling unit is within the proposed space of a single-family dwelling or
+   existing space of a single-family dwelling or accessory structure." Additionally,
+   subparagraph (B) permits "One detached, new construction, accessory dwelling unit
+   that does not exceed four-foot side and rear yard setbacks." The use of the term any
+   followed by an enumeration of by-right ADU types permitted indicate that any of
+   these ADU types can be combined on a lot zoned for single-family dwellings. This
+   permits the creation of one converted ADU, one detached, new construction ADU,
+   and one junior accessory dwelling unit (JADU). The City must amend it to reflect
+   statute.”
+
+   Port Hueneme’s Response
+   “The Department of Housing and Community Development’s (HCD) interpretation of
+   Government Code section 65852.2, subdivision (e)(1) is flawed and not supported
+   by the plain language of the statute. The relevant section provides:
+
+      Notwithstanding subdivisions (a) to (d), inclusive, a local agency shall
+      ministerially approve an application for a building permit within a residential or
+      mixed-use zone to create any of the following: (A) One accessory dwelling unit
+      and one junior accessory dwelling unit per lot with a proposed or existing single-
+      family dwelling if [a number of provisions apply]; (B) one detached, new
+      construction, accessory. dwelling unit that does not exceed four-foot side and
+      rear setbacks for a lot with a proposed or existing single-family dwelling. The
+      accessory dwelling unit may be combined with a junior accessory dwelling unit
+      described in subparagraph (A). . . . (C)(i) Multiple accessory dwelling units within
+      the portions of existing multifamily dwelling structures that are not used as livable
+Tony Stewart, Director of Community Development
+Page 3
+
+
+      space . . . (D)(1) Not more than two accessory dwelling units that are located on
+      a lot that has an existing or proposed multifamily dwelling . . . (Emphasis added).”
+
+   HCD contends that “[t]he use of the term any followed by an enumeration of by-right
+   ADU types permitted indicate that any of these ADU types can be combined on a lot
+   zoned for single family dwellings.” (Emphasis in original). HCD posits the statute
+   requires one converted ADU, one detached, new construction ADU, and one JADU.
+   This interpretation however, completely ignores the fact that subdivisions (C) and (D)
+   are not applicable to single-family lots. The plain language of this statute indicates
+   that certain of the enumerated subdivisions may only be utilized for proposed or
+   existing multifamily dwellings.
+
+   Furthermore, HCD’s interpretation renders the penultimate sentence of subdivision
+   (B) superfluous, which is disfavored in statutory interpretation. This sentence,
+   emphasized above, makes clear that one detached, new construction ADU may be
+   combined with a JADU, as described in subparagraph (A). It is important to note that
+   subdivision (A) allows for one ADU and one JADU. When subdivision (B) states that
+   a new construction, detached ADU may be combined with the JADU, the legislature
+   specifically excluded the additional ADU contemplated by subdivision (A).
+
+   HCD’s interpretation of the provisions of this statute is unreasonable given the plain
+   language and unsupported by any statutory analysis.”
+
+   HCD’s Follow-up Response
+   Subdivision (e) allows for the combination of units as dictated by the type of primary
+   dwelling unit. HCD’s initial response highlighted only those relevant to single-family
+   homes, which would be the allowed combination of a converted unit and JADU per
+   subdivision (e)(1)(A), and a detached new-construction unit up to 800 square feet
+   per subdivision (e)(1)(B). To clarify, the application of subdivision (e) would require
+   the combination of converted units per subdivision (e)(1)(C), and two detached units
+   pursuant to (e)(1)(D). Port Hueneme must approve the combination, with respect to
+   the type of the primary dwelling, whether single-family or multifamily. There is no
+   ambiguity because subdivisions (e)(1)(A) and (e)(1)(B) explicitly refer to ADU types
+   to be created with a single-family dwelling and subdivisions (e)(1)(C) and (e)(1)(D)
+   refer to ADU types to be created with a multifamily dwelling.
+
+   The use of the term “any” followed by an enumeration of by-right ADU types
+   permitted indicate that any of these ADU types can be combined on a lot zoned for
+   single family dwellings. This was changed in 2019 with the passing of clean-up
+   legislation (AB 3182). The Legislature changed “or” to “and” in subparagraph (A) of
+   subdivision (e)(1), but they left the “or” in (A)(i). This change validates HCD’s
+   understanding that two units are allowed under subparagraph (A), with the criteria
+   for creating these two units specified in the subsequent clauses.
+      Tony Stewart, Director of Community Development
+      Page 4
+
+
+
+           This permits a homeowner to create one converted ADU and one JADU. Thus, if the
+           local agency approves an ADU that is created from existing (or proposed) space,
+           and the owner subsequently applies for a detached ADU (or vice versa) that meets
+           the size and setbacks pursuant to the subdivision, the local agency cannot deny the
+           application, nor deny a permit for a JADU under this section. HCD notes that the
+           Legislature, in creating the list, did not use “or” nor “one of” to indicate only one or
+           another would be applicable to the exclusion of the other. Limiting single-family lots
+           to one ADU would prevent property owners from creating ADUs by right under
+           subdivision (e)(1). The additional positive mention of combining a converted
+           (e)(1)(B) ADU and an (e)(1)(A) JADU does not invalidate the prescribed
+           combinations stated at the opening of subdivision (e), as the change from “or” to
+           “and” earlier in the subdivision indicates the legislature’s intention to promote this
+           combination.
+
+           The City states that the second sentence of subdivision (e)(1)(B) is rendered
+           superfluous under HCD’s expressed interpretation, and that such superfluousness
+           invalidates the interpretation. However, it is not superfluous. Statute’s pluralistic
+           allowance of ADU and JADU combinations is reinforced with the second sentence of
+           subdivision (e)(1)(B), just as statute prohibits the use of minimum lot sizes in multiple
+           places throughout statute – subdivisions (a)(1), (c)(2)(C), and (e)(6). HCD’s
+           interpretation would allow for a combination of a converted ADU under (e)(1)(A) with
+           the detached ADU in (e)(1)(B). The second sentence of subdivision (e)(1)(B)
+           reinforces the combination of a detached ADU and a JADU; A JADU does not have
+           to be combined with a converted ADU only. HCD’s statutory analysis is sound, has
+           been legally vetted, and has precedent in other recent ordinance review letters such
+           as our December 9, 2022, letter to Sunnyvale 1 or our August 30, 2023, letter to
+           Tiburon. 2 Port Hueneme must approve such combinations.
+
+      2) HCD’s Original Finding
+         “10802 (D)(5)(a)(3) – Setbacks – “The Ordinance states that “A lot may contain up to
+         one ADU and one JADU is all of the following apply: …the side and rear setbacks
+         are sufficient for fire and safety.” However, Government Code section 65852.2,
+         subdivision (a)(1)(B)(i), allows the City to impose objective standards on dwelling
+         units, and pursuant to subdivision (j)(7), “objective standards” means “standards that
+         involve no personal or subjective judgment by a public official and are uniformly
+         verifiable by reference to an external and uniform benchmark or criterion available
+         and knowable by both the development applicant or proponent and the public official
+         prior to submittal.” Additionally, Government Code section 65852.2, subdivision
+         (a)(1)(D)(vii), states that a setback of no more than four feet from side and rear lot
+         lines shall be required for an ADU. Therefore, the City must amend the Ordinance to
+
+1 Review of Sunnyvale’s Accessory Dwelling Unit (ADU) Ordinance under State ADU Law (Gov.
+
+Code, § 65852.2)
+2 Review of Tiburon’s Accessory Dwelling Unit (ADU) Ordinance under State ADU Law (Gov. Code, §
+
+65852.2)
+Tony Stewart, Director of Community Development
+Page 5
+
+
+   comply with State ADU Law and should clearly indicate what “sufficient for fire and
+   safety” means so that subjective standards are not being applied.”
+
+   Port Hueneme’s Response
+   “HCD takes issue with language that is included in the statute notwithstanding the
+   fact that the City is under no mandatory duty to adopt an ordinance. Government
+   Code section 65852.2, subdivision (e)(1)(A)(iii) states, “[t]he side and rear setbacks
+   are sufficient for fire and safety” in one of the criteria for by-right approval of one
+   ADU and one JADU pursuant to subdivision (A) above. It is important to note that
+   while HCD argues that this imposes subjective criteria into the ADU approval
+   process, this language was specifically selected by the State legislature. The City
+   was under no affirmative duty to enact an ordinance but was authorized to do so by
+   SB 897. If the City had not enacted its ADU ordinance the offending language would
+   still be required pursuant to the default State provisions. Accordingly, the State set
+   the criteria for when an ADU and JADU may be permitted on a lot with a proposed or
+   existing single-family dwelling and determined that “side and rear setbacks are
+   sufficient for fire and safety” was sufficiently objective criteria for ministerial approval
+   for such housing. HCD cannot now take issue with the specific, objective language
+   chosen by the State legislature in enacting SB 897.”
+
+   HCD’s Follow-up Response
+   While the City is under no obligation to adopt an ordinance, Government Code
+   section 65852.2, subdivision (a)(1), the authorizing statute, prescribes that an
+   adopted “ordinance shall do all of the following:” and the subdivision lists the
+   provisions that the ordinance must adhere to.
+
+   HCD’s finding addresses units that are subject to Government Code section
+   65852.2, subdivision (a), not those under subdivision (e). The City responded with a
+   citation to subdivision (e)(1)(A)(iii). Please note that this citation would only apply to
+   a unit created subject to subdivision (e) and not to subdivision (a). Subdivision (a)
+   units are subject to local development standards, which are specified in subdivisions
+   (a) through (d). Subdivision (e) begins with the phrase, “Notwithstanding sections (a)
+   through (d), inclusive, a local agency shall ministerially approve an application for a
+   building permit within a residential or mixed-use zone to create any of the
+   following….” Units created pursuant to subdivision (e) are subject only to the
+   standards in that section. Subdivision (a)(1)(D)(vii) is explicit in requiring no more
+   than 4-foot side and rear setbacks.
+
+3) HCD’s Original Finding
+   10802 (G)(2) – Deed Restriction – The Ordinance requires a deed restriction with an
+   automatically renewing 55-year term to restrict ADU rents to low- or very low-income
+   levels. However, Government Code section 65852.2, subdivision (a)(8), states "[t]his
+   subdivision establishes the maximum standards that local agencies shall use to
+   evaluate a proposed accessory dwelling unit on a lot that includes a proposed or
+   existing single-family dwelling. No additional standards, other than those provided in
+   this subdivision, shall be used or imposed except that, subject to subparagraph (B),
+Tony Stewart, Director of Community Development
+Page 6
+
+
+   a local agency may require an applicant for a permit issued pursuant to this
+   subdivision to be an owner-occupant or that the property be used for rentals of terms
+   longer than 30 days." Therefore, any manner of affordability covenant exceeds
+   statute.
+
+   Furthermore, this restriction appears to have the practical effect of requiring rental
+   and disallowing occupation by a relative or any other tenant without payment. This
+   may constrain housing choice and result in discriminatory effects on families with
+   children, people with disabilities, and other protected groups in violation of state and
+   federal fair housing laws, including but not limited to Government Code section
+   65008, subdivisions (a)(1)(A) and (b)(1)(B)(i).
+
+   Requiring such a deed restriction as a condition of approval constitutes a local
+   regulation on a proposed ADU that violates statute; Government Code section
+   65852.2, subdivision (a)(7) states "[n]o other local ordinance, policy, or regulation
+   shall be the basis for the delay or denial of a building permit or a use permit under
+   this subdivision." In summary, the City must remove this section.
+
+   Port Hueneme’s Response
+   “Once again, HCD takes issue with the affordability covenant. On August 18, 2022,
+   myself, Tony Stewart, Shawn Danino, Mike Van Gorder, Jay Cross, and Cerlinda
+   (surname unknown) met via zoom to discuss the ADU ordinance and the
+   affordability covenant. During that meeting, I presented the City’s position that the
+   affordability covenant is not a design standard and is not affected by Government
+   Code sections 65852.2 or 65852.22, which is plainly stated as the import of Section
+   65852.2, subdivision (a)(8). I was informed that HCD would look into the issues I
+   raised and provide analysis on its authority to regulate this matter in the absence of
+   apparent authority to do so. In fact, Mr. Cross represented the City could expect
+   HCD’s response within two to three weeks. To date, no analysis responding to my
+   concerns has been provided.
+
+   The presence of an affordability covenant does not add any design standard.
+   Furthermore, there is no reasonable argument that executing a form affordability
+   covenant is the basis for delay or denial in contravention of subdivision (a)(7). This
+   form is executed at the time of submission of a ministerial application and has no
+   ability to delay the issuance of a building permit. In addition, this covenant does not
+   impose any subjective criteria; it is submitted, or it is not. The stated purpose of
+   Government Code sections 65852.150 et seq. to provide ADUs as a valuable form
+   of housing to “family members, students, the elderly, in-home health care providers,
+   the disabled, and others, at below market prices within existing neighborhoods.”
+   Moreover, the State indicates that available housing is falling short of meeting
+   existing and future housing demands.
+
+   During our August 18, 2022, meeting, I explained that the City of Port Hueneme is a
+   built-out beach community. There is a very real threat that these ADUs are not going
+   to contribute to the State’s housing needs as contemplated by the ADU statutes.
+Tony Stewart, Director of Community Development
+Page 7
+
+
+   Without an affordability covenant, these properties will be rented out for summer
+   getaways at significantly above market prices doing nothing to alleviate the State’s
+   housing concerns. It is for this reason that HCD was contacted in the first instance
+   regarding this covenant.
+
+   Given that this covenant imposes no design criteria, I inquired as to HCD’s authority
+   to regulate in this area pursuant to Sections 65852.2 and 65852.22. I explained that
+   this issue is one of municipal concern and the City’s Charter would provide authority
+   for this imposition. I specifically requested that HCD identify a single statute that the
+   City is violating. Instead, HCD reiterates that the affordability covenant is a design
+   standard and delays the process, which is objectively incorrect.
+
+   In the March 13, 2023, letter, the statement is made that the affordability covenant
+   may discriminate against certain groups in violation of state and federal housing
+   laws with a reference to Government Code section 65008. It is unclear how HCD
+   alleges this Section is implicated, as there is no reference to lawful occupation, age,
+   familial status, or any characteristic that would appear to offend these protected
+   classes. The City requests an explanation of this reference. In the event such
+   discrimination is implicated the City is committed to remedying the situation.”
+
+   HCD’s Follow-Up Response
+   HCD did not find that the requirement of an affordability covenant a “design
+   standard”. The initial letter referred to Government Code section 65852.2,
+   subdivision (a)(8) to note that “no additional standards” may apply other than those
+   that appear within the section. This was to illustrate that deed restrictions and
+   affordability covenants are not found in State ADU Law, and their inclusion would
+   violate subdivision (a)(8). The City took the use of this reference as grounds for its
+   claim that HCD considers an affordability covenant a design standard, and, to
+   paraphrase, “therefore as it is not a design standard, HCD has no enforcement
+   authority.” This statement is baseless, as only part of state ADU statute is relevant to
+   design standards, and HCD enforces the whole of ADU statute.
+
+   The City states “there is no reasonable argument that executing a form affordability
+   covenant is the basis for delay or denial in contravention of subdivision (a)(7). This
+   form is executed at the time of submission of a ministerial application and has no
+   ability to delay the issuance of a building permit.” This form, while required by the
+   Ordinance, does not appear in the Ordinance itself and is therefore explicitly subject
+   to Government Code section 65852.2, subdivision (a)(7), which states, “No other
+   local ordinance, policy, or regulation shall be the basis for the delay or denial of a
+   building permit or a use permit under this subdivision.” The Ordinance states, “the
+   property owner shall file with the County Recorder upon approval by the City
+   Attorney as to form and content, a deed restriction covenant…” and “the property
+   owner shall file with the County Recorder upon approval by the City Attorney as to
+   form and content an affordable housing agreement.” The timing of the execution of
+   the forms in question is immaterial, as their requirement as part of the application
+   process is the core issue.
+Tony Stewart, Director of Community Development
+Page 8
+
+
+
+   ADU applications without a deed restriction or compliant affordability covenant may
+   be considered “incomplete”. Therefore, the absence of such a deed restriction
+   and/or covenant would be the grounds for the City’s refusal to process the
+   application or delaying the application until it expires, or otherwise delaying or
+   denying a building permit. HCD has received complaints from homeowners in the
+   City that refused to sign the affordability covenant and whose ADU applications were
+   considered incomplete, not accepted, or otherwise not allowed to proceed. By
+   deeming an application incomplete or otherwise not processing the application, the
+   City effectively denies the ADU application.
+
+   The City states that HCD has not provided an analysis of its position. The analysis
+   was incorporated in the March 13, 2023, findings letter. The City made no
+   substantial response to HCD’s concern that an affordability requirement as written
+   would require rentability and prohibit occupation without payment of rent, but instead
+   asked for substantiation as to how that presents a fair housing challenge. To this
+   question: requiring that ADUs be available only for rent to lower-income households
+   or seniors would disallow occupation without payment of rent, which would prevent
+   use by family members (for example, the adult child of the homeowner and that adult
+   child’s family) or disabled relatives. Therefore, both familial status and disability
+   could constitute grounds for a fair housing conflict. Alternatively, permanently
+   suppressing potential income from the ADU actively discourages development of a
+   unit that could be used as a low-income unit at some point or points in its life cycle.
+   A homeowner is less likely to create a low-income unit if they are obligated to
+   permanently restrict its potential income, leading to a potential “no-win” situation for
+   affordability.
+
+   In response to the City’s concern that ADUs would be rented out as “summer
+   getaways” rather than as permanent residences, Government Code section
+   65852.2, subdivision (a)(8)(C) states “A local agency shall require that a rental of the
+   accessory dwelling unit created pursuant to this subdivision be for a term longer than
+   30 days.”
+
+   Review of the City’s most recent adopted housing element reveals an inconsistency.
+   On page 1-32, under Quantified Objectives, the City projects the development of
+   eight ADUs (roughly 6.5 percent of its total Regional Housing Needs Assessment
+   (RHNA) obligation) over the planning period. These ADUs are projected as being
+   specifically and exclusively for the moderate-income category. Requiring that all
+   ADUs be income-restricted to low- or very low-income residents in perpetuity, would
+   prohibit the development of the eight moderate-income ADUs that the City has
+   claimed in its RHNA obligations.
+Tony Stewart, Director of Community Development
+Page 9
+
+
+
+Conclusion
+
+Given the deficiencies described above and in HCD’s March 13, 2023 letter, the City’s
+Ordinance is inconsistent with State ADU Law. Government Code section 65852.2,
+subdivision (a)(4), states that if “a local agency has an existing accessory dwelling unit
+ordinance that fails to meet the requirements of this subdivision.... that agency shall
+thereafter apply the standards established in this subdivision for the approval of
+accessory dwelling units, unless and until the agency adopts an ordinance that complies
+with this section.” HCD has the authority to make findings as to whether an ADU
+ordinance complies with the requirements of this subdivision. (Gov. Code, § 65852.2,
+subd. (h)(1).) Government Code section 65852.2, subdivision (h)(3)(A), authorizes HCD
+to notify the California Office of the Attorney General that the City is in violation of this
+state law.
+
+HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+welcomes the opportunity to assist the City in fully complying with State ADU Law.
+Please feel free to contact Mike Van Gorder, of our staff, at (916) 776-7541 or at
+mike.vangorder@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Jamie Candelaria
+Senior Housing Accountability Unit Manager
+Housing Policy Development Division

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023316",
+  "case_number": "ADU0006667",
+  "letter_date": "2025-12-23",
+  "jurisdiction": "Sausalito",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "JADU | single-family zones",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/sausalito-adu-ta-122325.pdf",
+  "hcd_letter": "Sausalito Technical Assistance Letter 12/23/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/sausalito-adu-ta-122325.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 229309,
+  "text_chars": 6693,
+  "text_empty": false
+}

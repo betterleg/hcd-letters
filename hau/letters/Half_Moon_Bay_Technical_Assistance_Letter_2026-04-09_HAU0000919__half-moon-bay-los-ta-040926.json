@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025522",
+  "case_number": "HAU0000919",
+  "letter_date": "2026-04-09",
+  "jurisdiction": "Half Moon Bay",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Anti-Discrimination in Land Use Law | Housing Element Law",
+  "statutes": "65008(a)(1 - 3) | 65008(a)(1) | 65008(a)(2) | 65008(a)(3) | 65008(d)(2)(A) | 65580 | 65585(j) | 65914.2 | 8899.50(b)",
+  "n_statutes": "9",
+  "keywords": "AB 712 | AB 712 enforcement actions | Housing Element commitments | affirmatively furthering fair housing | affordable housing and property disposition agreement | anti-discrimination in land use law | farmworker housing | fines and penalties | senior farmworker housing",
+  "n_keywords": "9",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/half-moon-bay-los-ta-040926.pdf",
+  "hcd_letter": "Half Moon Bay Technical Assistance Letter 04/09/2026",
+  "housing_law": "Housing Element Law, Anti-Discrimination in Land Use Law, Affirmatively Further Fair Housing",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/half-moon-bay-los-ta-040926.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 211650,
+  "text_chars": 17289,
+  "text_empty": false
+}

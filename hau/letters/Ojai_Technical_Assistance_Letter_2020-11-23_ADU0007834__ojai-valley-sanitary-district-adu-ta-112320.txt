@@ -1,0 +1,136 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY        GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 23, 2020
+
+
+         Jeff Palmer
+         General Manager
+         Ojai Valley Sanitary District
+         1072 Tico Road
+         Ojai, CA 93023
+
+         Dear Jeff Palmer:
+
+         RE: Ojai Valley Sanitary District’s Accessory Dwelling Unit (ADU) Fees and
+         Charges – Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the Ojai Valley
+         Sanitary District (OVSD or District) regarding the development of legally permissible
+         connection fees and capacity charges as applied to accessory dwelling units
+         (ADUs) under the State ADU Law (Gov. Code, §§ 65852.2, 65852.22.) during the
+         current housing crisis. The California Department of Housing and Community
+         Development (HCD) appreciates that the changes in the law are complicated and
+         have been evolving quickly in recent years. HCD hopes that the following technical
+         assistance is useful to the District and assists OVSD in expeditiously bringing its
+         practices and regulations into compliance with state law.
+
+         Most of the mandates contained in State ADU Law apply to local agencies (cities,
+         counties, or cities and counties) rather than districts (Gov. Code, § 65852.2, subd.
+         (j)(5).) There are key provisions of State ADU Law that apply to districts, however.
+         These sections delineate the permissible connection fees or capacity charges for a
+         new ADU. State ADU Law places significant limits on two kinds of fees: (1) impact
+         fees and (2) connection fees and capacity charges. OVSD’s regulations and
+         practices appear to exceed the limitations on the latter. These fees are prohibited in
+         some cases and limited in others.
+
+         ADUs for which no separate “connection” may be required and no connection
+         fee or capacity charge may be imposed
+
+         ADUs constructed entirely within an existing single family home or other accessory
+         structure that satisfies the requirements of Government Code section 65852.2,
+         subdivision (e), are exempt from any requirement to install a new or separate sewer
+         connection; they are also exempt from connection fee or capacity charge (Gov.
+Jeff Palmer
+Page 2
+
+
+Code, § 65852.2, subds. (e)(1)(A) and (f)(4). See also HCD’s ADU Handbook1
+September 2020, at pp. 13-14.) OVSD’s regulations appear to acknowledge these
+mandates under state law (District Code of Regulations, Chapter 3, s. 301.4.).
+
+ADUs for which a “connection” or “capacity” fee may be charged
+
+ADUs that are not described in Government Code section 65852.2, subdivision (e),
+may be subject to a new utility connection directly between the ADU and the utility.
+If such a connection is mandated, then a fee or charges may be imposed but shall
+not exceed the estimated reasonable cost of providing the service for which the fee
+or charge is imposed. (Gov. Code, § 65852.2, subd. (f)(5) and Gov. Code, §
+66013.) State ADU Law places two important restrictions on the imposition of such
+fees or charges:
+
+    (1) State ADU Law expressly prohibits local agencies, special districts, and
+        water corporations from considering ADUs as a new residential use for the
+        purposes of calculating connection fees or capacity charges for utilities,
+        including water and sewer services. (Gov. Code, § 65852.2, subd. (f).)
+
+    (2) State ADU Law prescribes in detail the method by which the fees may be
+        calculated and assessed. Such fees may be assessed only proportionate to
+        the burden of the ADU based upon its “square feet or the number of its
+        drainage fixture unit (DFU) values.” (Gov. Code, § 65852.2, subd. (f)(5).)
+
+The effect of these two provisions is that the District may not treat an ADU the
+same as it would a single-family home and charge the same fee. In this context,
+“proportionate” is to be determined in comparison to a similar fee for a single-family
+dwelling (Gov. Code, § 65852.2, subd. (f)(5); HCD’s Accessory Dwelling Unit
+Handbook September 2020, at pp. 13-14.). Thus, for example, using a square-foot
+approach, a capacity fee for a 1,000 square foot ADU would be expected to be
+about half of the capacity fee for a 2,000 square foot single family home. Likewise,
+using a drainage-fixture approach, an ADU with 10 drainage fixtures would be
+charged about one-third of the capacity fee of a single-family home with 30
+drainage fixtures. (See HCD’s ADU Handbook September 2020, at pp. 13-14.)
+
+The District’s regulations do not comply with these requirements and thus appear to
+be impermissible. While the District’s regulations apply a drainage-fixture approach
+for commercial uses, they treat all residential uses equally. (Compare, for instance,
+District Code of Regulations, Chapter 3, s. 301.12.1 with s. 301.12.2.) This is true
+for Treatment Plant Capacity Charges (s. 301.11.1), for Truck Sewer Capacity
+Charges (s. 301.12.1), and Local Sewer Capacity Charges (s. 301.13.1).
+There is no suggestion in the regulations that fees or charges are based on the
+proportionate burden based on either square feet or drainage feature units for
+
+1 HCD’s ADU Handbook can be referenced here: https://www.hcd.ca.gov/policy-research/docs/adu-ta-
+
+handbook-final.pdf.
+Jeff Palmer
+Page 3
+
+
+ADUs. Rather, single family homes and ADUs are treated interchangeably. This
+appears to be borne out in the District’s practices; as HCD understands it, the
+District charges a combined connection fee of roughly $16,000 for all residential
+uses, including ADUs, regardless of their size or their proportionate burden on the
+district using the methodology prescribed by law. The District’s regulations and
+current fee structure is not legally sound, subjects the District to significant legal
+risk, is serving as a significant impediment to housing in this current housing crisis,
+and must be modified to conform to statute.
+
+We appreciate the District’s efforts to comply with State ADU Law and welcome the
+opportunity to assist the District in fully and expeditiously complying with State ADU
+Law. Please feel free to contact Greg Nickless, of our staff, at (916) 274-6244 or
+greg.nickless@hcd.ca.gov.
+
+
+Sincerely,
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+cc:    Robert N. Kwong
+       Arnold LaRochelle Mathews
+       VanConas & Zirbell LLP
+
+       David Pai
+       Department of Justice
+       Office of the Attorney General

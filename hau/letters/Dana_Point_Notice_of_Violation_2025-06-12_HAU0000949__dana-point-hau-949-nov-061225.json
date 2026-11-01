@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021078",
+  "case_number": "HAU0000949",
+  "letter_date": "2025-06-12",
+  "jurisdiction": "Dana Point",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(o)(6)",
+  "n_statutes": "1",
+  "keywords": "base density",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/dana-point-hau-949-nov-061225.pdf",
+  "hcd_letter": "Dana Point Notice of Violation 06/12/2025",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/dana-point-hau-949-nov-061225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 240297,
+  "text_chars": 15001,
+  "text_empty": false
+}

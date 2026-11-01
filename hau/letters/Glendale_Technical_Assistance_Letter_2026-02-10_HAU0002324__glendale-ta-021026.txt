@@ -1,0 +1,211 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 10, 2026
+
+
+
+         Dennis Joe, Principal Planner
+         Community Development Department
+         City of Glendale
+         633 E. Broadway, Room 103
+         Glendale, CA 91206
+
+         Dear Dennis Joe:
+
+         RE: Glendale – 1316 North Pacific Avenue – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding a proposed Senate Bill 9 (SB 9) two-unit
+         development 1 application at 1316 North Pacific Avenue. The property currently has one
+         single-family dwelling and one accessory dwelling unit (ADU), and it has not previously
+         been subdivided through an SB 9 urban lot split. 2 The applicant asked whether the City
+         of Glendale (City) is correct in determining that the property is not eligible to add a
+         second primary dwelling pursuant to Government Code section 65852.21 because the
+         site already contains one existing primary unit and one existing ADU. This letter
+         provides technical assistance to clarify that, under Government Code section 65852.21,
+         a property that has not undergone an urban lot split is eligible for up to two primary
+         dwelling units on a single lot – regardless of whether an ADU or junior ADU (JADU) is
+         also present. In such cases, SB 9 and ADU law can work together to allow up to two
+         primary dwelling units on one parcel and multiple ADUs as permitted under ADU law. 3
+
+         Background
+
+         HCD understands that the applicant has attempted to submit an application for the
+         development of an SB 9 primary dwelling at 1316 North Pacific Avenue, and that the
+         City has refused to accept or consider the application for approval or denial. In an email
+         dated April 11, 2025, the City provided a response to the applicant regarding application
+         PSB9-004777-2025, stating that prior to invoicing the fees and reviewing the
+         application, “…the property is currently ineligible for an SB 9 housing development.” In
+         the email from the City, the following two sections of the Glendale Municipal Code
+         (GMC) were cited as justification:
+
+
+1 Gov. Code, § 65852.21.
+2 Gov. Code, § 66411.7.
+3 Gov. Code, §§ 66323 and 66314.
+      Dennis Joe, Principal Planner
+      Page 2
+
+
+
+
+             GMC 30.34.110(D)(2) - A SB 9 housing development is permitted to have a
+             maximum of two units on a parcel in a single-family residential zone (ROS, R1R,
+             and R1). A maximum of two units means if the SB 9 housing development
+             proposes no more than two new units, or if it proposes to add one new unit to
+             one existing unit. Adding one new unit means construction of a new unit or
+             conversion of an existing building into a unit.
+
+             GMC 30.34.110(C) - “Unit” or “residential unit” or “residential dwelling unit”
+             means any dwelling unit or units, as defined in Glendale Municipal Code Section
+             30.70.050, including, but not limited to, a unit or units created pursuant to Section
+             65852.21, a primary dwelling, an accessory dwelling unit as defined in
+             Government Code Section 65852.2, or a junior accessory dwelling unit as
+             defined in Government Code Section 65852.22.
+
+      In the same email, the City stated, “If an additional unit for the existing property is
+      desired, then a concurrent SB 9 lot split application is required to be submitted in
+      addition to PSB9-004777-2025. This concurrent application would allow up to four units
+      (two existing and two SB 9 units) to be developed on the lot as it currently exists.”
+
+      In a meeting with the City on August 29, 2025, HCD provided verbal technical
+      assistance to the City clarifying that, while “…a local agency shall not be required to
+      permit more than two units on a parcel…,” 4 this provision applies only if an SB 9 urban
+      lot split occurs; the provision does not apply absent an urban lot split. HCD also clarified
+      that the definition of “units” as provided in Government Code section 66411.7,
+      subdivision (j)(2), applies only to projects involving an urban lot split. The City
+      acknowledged this information and indicated that it has also reviewed HCD’s SB 9 Fact
+      Sheet. 5 The City further indicated that it disagreed with HCD’s interpretation of the
+      relevant statute and expressed its intention to continue to implement the law consistent
+      with its own interpretation.
+
+      Application of SB 9 Duplex and Urban Lot Split Law
+
+      The duplex portion of SB 9 specifies that a housing development containing no more
+      than two residential units within a single-family residential zone shall be considered
+      ministerially. 6 It goes on to state that a local agency shall not be required to permit an
+      ADU or a JADU on parcels that use both the authority contained within this section
+      (duplex portion of SB 9) and the authority contained in Section 66411.7 (lot split portion
+      of SB 9). 7 In other words, on a lot created using SB 9 that already has two primary units,
+      the local agency can choose to not allow any ADUs or JADUs on that lot. However, this
+
+
+4 Gov. Code, § 66411.7, subd. (j)(1).
+5 Available at: https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/sb-9-
+
+fact-sheet.pdf
+6 Gov. Code, § 65852.21, subd. (a).
+7 Gov. Code, § 65852.21, subd. (f).
+      Dennis Joe, Principal Planner
+      Page 3
+
+
+
+      same restriction does not apply if the lot was not created using the SB 9 lot split
+      provisions contained in Government Code section 66411.7. In that case, the lot would
+      be eligible for up to two primary dwellings under SB 9 and any number of ADUs as
+      permitted under ADU Law.
+
+      While the duplex portion of SB 9 does not define a unit explicitly, Government Code
+      section 65852.21 subdivisions (a) – (c), do apply development standards specific to
+      “residential dwelling units,” which are separate and distinct from development standards
+      applied to ADUs. The lack of development standards applicable to ADUs in Government
+      Code section 65852.21 demonstrates that the term “units,” as used in this section, is
+      intended to mean primary dwelling units, separate and distinct from ADUs.
+
+      Government Code section 66411.7, the urban lot split portion of SB 9, specifies what
+      limitations a local agency may impose when approving or disapproving an SB 9 urban
+      lot split. Specifically, urban lot split law provides the following:
+
+          Notwithstanding any provision of Section 65852.21, 65915, Article 2 (commencing
+          with Section 66314) or Article 3 (commencing with Section 66333) of Chapter 13 of
+          Division 1, or this section, a local agency shall not be required to permit more than
+          two units on a parcel created through the exercise of the authority contained within
+          this section. 8 (Emphasis added.)
+
+          For the purposes of this section, “unit” means any dwelling unit, including, but not
+          limited to, a unit or units created pursuant to Section 65852.21, a primary dwelling,
+          an accessory dwelling unit as defined in subdivision (a) of Section 66313, or a junior
+          accessory dwelling unit as defined in subdivision (d) of Section 66313. 9 (Emphasis
+          added.)
+
+      Critically, the word “section” in the excerpts above refers only to Government Code
+      section 66411.7 (applicable to urban lot splits) and not Government Code section
+      65852.21 (applicable to two-unit developments). Government Code section 66411.7,
+      subdivisions (j)(1) and (j)(2), allow a local agency to limit development on a parcel to no
+      more than two units — but this authority applies only to projects that involve an urban lot
+      split under that section. Therefore, when a project does not involve an urban lot split
+      and instead proceeds solely under Government Code section 65852.21 (SB 9’s two-unit
+      development provision), a local agency may not use section 66411.7 to deny the
+      development of accessory dwelling units (ADUs) or junior accessory dwelling units
+      (JADUs). In other words, if a property is not being subdivided through an SB 9 urban lot
+      split, the local agency must apply ADU law independently and cannot impose a two-unit
+      cap that includes ADUs or JADUs. While a local agency may limit the total number of
+      units to two only when both SB 9 provisions (two-unit development and urban lot split)
+
+
+
+
+8 Gov. Code, § 65852.21, subd. (f)
+9 Gov. Code 66411.7, subd. (j)(2)
+       Dennis Joe, Principal Planner
+       Page 4
+
+
+
+       are used together, no such limitation exists when a project uses only the two-unit
+       development provision under section 65852.21.
+
+       Lastly, Government Code section 65852.21, subdivision (h)(1), requires that a
+       completed application for an urban lot split be considered and approved, or considered
+       and denied, within 60 days from the date the local agency receives a completed
+       application. 10 The City must accept submission of an SB 9 application and subsequently
+       approve or deny the application pursuant to Government Code section 65852.21,
+       subdivision (h), even if it believes the application to be ineligible for the benefits and
+       protections of SB 9.
+
+       Conclusion
+
+       The subject property, currently containing one primary dwelling and one ADU, is eligible
+       to apply to construct one additional primary dwelling under SB 9 and additional ADUs
+       under ADU Law. In addition to processing this and similar applications, the City must
+       amend the Glendale Municipal Code so that sections 30.34.110(D)(2) and 30.34.110(C)
+       comply with SB 9 and SB 450 (i.e., to establish an applicant’s ability to exercise SB 9
+       and ADU Law on a parcel that does not involve an urban lot split in a manner consistent
+       with SB 9 and ADU Law).
+
+       HCD remains committed to supporting the City of Glendale in facilitating housing at all
+       income levels and hopes the City finds this clarification helpful. In addition, HCD has
+       enforcement authority over Government Code sections 65852.21 and 66411.7, among
+       other state housing laws. Accordingly, HCD may review local government actions to
+       determine consistency with these laws. Pursuant to Government Code section 65585,
+       subdivision (j), if HCD finds that a jurisdiction’s actions do not comply with state law,
+       HCD may notify the California Office of the Attorney General.
+
+       HCD requests a written response from the City by March 9, 2026, indicating how the
+       City plans to implement the guidance provided in this letter. If you have any questions
+       about this letter or require additional technical assistance, please contact
+       Brandon Estes at Brandon.Estes@hcd.ca.gov.
+
+       Sincerely,
+
+
+
+
+       Brian Heaton,
+       Section Chief, Land Use Policy
+       Housing Accountability Unit
+
+
+
+
+10 Gov. Code, § 66411.7, subd. (C).

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021831",
+  "case_number": "HAU0000981",
+  "letter_date": "2025-09-09",
+  "jurisdiction": "San Benito County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "housing element law",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-benito-county-he-rezone-loi-090925.pdf",
+  "hcd_letter": "San Benito County Letter of Inquiry 09/09/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-benito-county-he-rezone-loi-090925.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 201463,
+  "text_chars": 8369,
+  "text_empty": false
+}

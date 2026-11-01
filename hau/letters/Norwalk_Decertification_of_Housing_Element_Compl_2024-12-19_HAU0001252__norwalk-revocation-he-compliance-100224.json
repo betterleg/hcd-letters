@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018478",
+  "case_number": "HAU0001252",
+  "letter_date": "2024-12-19",
+  "jurisdiction": "Norwalk",
+  "letter_type": "Decertification of Housing Element Compliance",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65583(c) | 65585(j) | 65585(l) | 65589.5(d)(5)",
+  "n_statutes": "4",
+  "keywords": "moratorium",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/norwalk-revocation-he-compliance-100224.pdf",
+  "hcd_letter": "Norwalk Decertification of Housing Element Compliance 12/19/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/norwalk-revocation-he-compliance-100224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 341958,
+  "text_chars": 29580,
+  "text_empty": false
+}

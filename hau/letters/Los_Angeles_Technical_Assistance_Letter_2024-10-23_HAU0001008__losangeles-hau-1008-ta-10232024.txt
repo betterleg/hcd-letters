@@ -1,0 +1,132 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 23, 2024
+
+
+         Lisa M. Webber, AICP, Deputy Director of Project Planning
+         City of Los Angeles Planning Department
+         200 N. Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Lisa M. Webber:
+
+         RE: City of Los Angeles 4318 S. Halldale Ave. Project – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance regarding the application of the State Density Bonus
+         Law (SDBL)1 to the housing development project proposed at 4318 S. Halldale Avenue.
+         (Project). The SDBL allows housing developments with at least five residential units to
+         obtain increases in allowable density, incentives/concessions, development standard
+         waivers, and, for qualifying projects, reductions in parking requirements by providing
+         affordable housing. This letter provides technical assistance for the City of Los Angeles
+         (City) and the Project applicant confirming the Project’s eligibility for the SDBL using
+         accessory dwelling units (ADUs), contingent on the ADUs’ construction.
+
+         Project Description and Background
+
+         HCD understands that the Project proposes the construction of 38 units (of which all but
+         one manager’s unit would be deed-restricted affordable to low- and moderate-income
+         households) on an approximately 7,000 square-foot site. The Project seeks to use the
+         SDBL to obtain an unlimited density bonus, the prescribed 3-story/33-foot height limit
+         increase, five concessions, and not have to provide parking on account of its level of
+         affordability and proximity to a major transit stop. 2
+
+         On May 31, 2024, the applicant submitted an affordable housing referral form for the
+         Project. The City subsequently found on June 20 that the Project was ineligible for the
+         SDBL because based on the site’s applicable RD3 zoning, it would only have a base
+         density of three units, less than the five units required in the SDBL. 3 The applicant seeks
+         to have the two detached ADUs that it is eligible to build be counted toward the base
+
+
+1 Gov. Code, § 65915.
+2 Gov. Code, § 65915, subds. (b)(1)(G), (f)(3)(D)(ii), (d)(2)(D), (p)(3).
+3 Gov. Code, § 65915, subd. (i).
+      Lisa M. Webber, AICP, Deputy Director of Project Planning
+       Page 2
+
+
+
+      density of the housing development. 4 This would cause the project to meet the definition
+      of a housing development under the SDBL and become eligible for a density bonus.
+      However, the ADUs would not actually be built as part of the project; the proposal only
+      contains primary units in a single building. This raises the following two questions:
+
+      Question #1: Can ADUs serve to qualify a project for a density bonus pursuant to
+      the SDBL, even though the general plan designation on the site allows less than
+      five primary units?
+
+      Yes, a project initially qualifies under the SDBL when the project’s total units5 meet or
+      exceed five units – not when the maximum allowable residential density 6 for the site is
+      five units or more. The phrase “development project of five or more units” in the SDBL
+      definition of an eligible housing development is analogous to the term “total units” as
+      defined in the SDBL. Although the SDBL makes no mention of ADUs in its text, it
+      likewise does not expressly narrow the definition of unit to exclude ADUs. Provided they
+      are counted within the total units of the project, ADUs are a type of housing unit that may
+      be counted for the purposes of achieving the five total unit minimum.
+
+      Additionally, Government Code section 65915, subdivision (r), states that the SDBL
+      should be “interpreted liberally in favor of producing the maximum number of housing
+      units,” while subdivision (u)(2) expresses the Legislature’s intent to “further incentivize
+      the construction of very low, low-, and moderate-income housing units.” Allowing ADUs
+      to count toward the five total unit minimum is consistent with both subdivisions. Broadly
+      interpreted, allowing ADUs to qualify for SDBL eligibility favors maximizing housing units
+      and incentivizes the construction of low-income housing units.
+
+      Question #2: Does an SDBL project that relies on the provision of two detached
+      ADUs to meet the five-unit minimum eligibility actually need to build the two
+      detached ADUs?
+
+      Yes, a project that relies on ADUs to be eligible for the SDBL must build the units as
+      accessory dwellings. ADUs are considered legally distinct from primary units in California
+      housing law. The calculation of a site’s base density, which in turn informs the density
+      bonus given, is based solely on a site’s maximum allowable residential density. This
+      does not include ADUs because the ADU Law states that ADUs “shall not be considered
+      to exceed the allowable density for the lot upon which it is located….” 7 As a result, the
+      density bonus granted to the project is applied to the primary units, not to the ADUs.
+      Were the project to not include the two detached ADUs, it would not meet the SDBL’s
+
+4 Under State ADU Law, a local jurisdiction must allow up to two detached ADUs on a lot that has a
+
+proposed multifamily dwelling. (Gov. Code, § 66323, subd. (a)(4)(A).)
+5 Gov. Code, § 65915, subd. (o)(8).
+6 Gov. Code, § 65915, subd. (o)(6).
+7 Gov. Code, § 66319.
+      Lisa M. Webber, AICP, Deputy Director of Project Planning
+       Page 3
+
+
+
+      requirement that an applicant “seeks and agrees to construct” a housing development
+      that is eligible as the base project. 8 Note that while the two detached ADUs cannot be
+      attached to the primary structure, they may be attached to each other.
+
+      Conclusion
+
+      HCD finds that the proposed project can meet the five-unit minimum total units of the
+      SDBL by providing a base of three primary units and two detached ADUs. However, this
+      requires that the ADUs be actually built and not merely hypothetical. HCD remains
+      committed to supporting the City of Los Angeles in facilitating housing at all income
+      levels and hopes the City finds this clarification helpful. If you have questions or need
+      additional information, please contact David Ying at david.ying@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+      Shannan West
+      Housing Accountability Unit
+
+
+
+
+8 Gov. Code, § 65915, subd. (b)(1).

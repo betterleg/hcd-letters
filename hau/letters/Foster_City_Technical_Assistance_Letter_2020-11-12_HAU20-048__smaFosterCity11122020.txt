@@ -1,0 +1,179 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 12, 2020
+
+
+         Sofia Mangalam, Planning Manager
+         City of Foster City
+         610 Foster City Boulevard
+         Foster City, CA 94030
+
+         Dear Sofia Mangalam:
+
+         RE: Housing Accountability Act and Density Bonus Law application to the
+             Lantern Cove Project – Letter of Technical Assistance
+
+         The purpose of this letter is for the California Department of Housing and Community
+         Development (HCD) to assist the City of Foster City (City) in the implementation of the
+         Housing Accountability Act (Gov. Code, § 65589.5) and State Density Bonus Law (Gov.
+         Code, § 65915) as they relate to a residential redevelopment project located at
+         244 Rock Harbor Lane (Lantern Cove Project or Project). This technical assistance is
+         provided based on HCD’s understanding of the proposed project as outlined below.
+
+         HCD understands the Lantern Cove Project (Project) would result in 588 apartment
+         units, including 232 existing rental apartment units (64 of which will be replaced as part
+         of the Project). The Project has a proposed density of approximately 35 dwelling units
+         per acre (du/acre), and the Project applicant continues to work with the City to
+         determine the percentage of low-, very low-, or moderate-income or senior housing
+         units that will be included in order to qualify for the concessions and waivers allowed
+         under the State Density Bonus Law. The site has a General Plan designation of
+         Apartment Residential with an allowed density of 20-35 du/acre and is zoned R-3/PD
+         (Medium Density Multiple-Family Residential/Planned Development). While no specific
+         density is called out in the Zoning Ordinance, the maximum allowable density that can
+         be achieved in this zone is 19.89 du/ac due to development standards that require a
+         minimum of 2,190 square feet of lot area per dwelling unit.
+
+         HCD restates the City’s questions below and offers technical guidance in response to
+         those questions:
+
+         Question # 1: To accommodate the proposed 35 du/acre density, can the City
+         require that the project site be rezoned, or does the developer have a right under
+         the HAA to proceed without a rezoning based on the General Plan maximum
+         density range of 20-35 du/acre?
+Sofia Mangalam
+Page 2
+
+
+In short, the City cannot require the project site be rezoned. Given the maximum density
+(19.89 du/acre) that can be achieved in the R-3/PD zone is less than the minimum
+density identified for the site in the General Plan (20-35 du/acre), the R-3/PD zone is
+inconsistent with the General Plan within the meaning of the HAA. Because of this
+inconsistency, the Project would not require rezoning to achieve the General Plan
+densities. The HAA provides in relevant part:
+
+      For the purpose of this section, a proposed housing development project is not
+      inconsistent with the applicable zoning standards and criteria, and shall not
+      require a rezoning, if the housing development project is consistent with the
+      objective general plan standards and criteria but the zoning for the project site is
+      inconsistent with the general plan. (Gov. Code, § 65589.5, subd. (j)(4).)
+
+The City may require the proposed housing development project to comply with the
+objective standards and criteria of the zoning which is consistent with the general plan;
+however, those standards and criteria shall be applied to facilitate and accommodate
+development at the density allowed on the site by the General Plan and proposed by
+the Project (35 du/acre) (Gov. Code, § 65589.5, subd. (j)(4)).
+
+Question # 2: What is the "maximum allowable density" for the Project site under
+State Density Bonus law?
+
+For the proposed Project, the maximum allowable density would be 35 du/acre, the
+maximum of the Apartment Residential designation in the General Plan. While State
+Density Bonus Law is ambiguous as to whether the maximum density allowed under the
+zoning ordinance versus the maximum density allowed under the land use element of
+the General Plan applies when there is no conflict, the law is clear where such a conflict
+exists. Where there is such a conflict, as there is for the proposed Project, the General
+Plan density prevails (Gov. Code, § 65915, subd. (o)(2)).
+
+Question # 3: Do the affordability percentages under State Density Bonus Law (to
+qualify for density bonus waivers, incentives and/or concessions) apply to the
+total units (588), the new units (420), or the net new units (356)?
+
+HCD interprets that the affordability percentages would apply to the new units (420).
+State Density Bonus Law applies to new units being constructed, including any
+replacement units (Gov. Code, § 65915, subds. (b)(1) and (c)(3)(A)(i)). The State
+Density Bonus Law describes the “proposed housing development” as “inclusive of the
+units replaced” when existing housing is proposed to be demolished as part of the
+construction of the new units (Gov. Code, § 65915, subd. (c)(3)). The proposed Project
+does not appear to encompass, however, the 168 units that will be retained on the site;
+these units are not considered new construction and therefore ought not be part of the
+calculation for affordability requirements.
+Sofia Mangalam
+Page 3
+
+
+Question # 4: Assuming the General Plan maximum allowable density of 35 du/acre
+applies and the project does not require a rezoning, would the Project's deviation
+from the 2,190 square feet per unit lot area zoning requirement count as one of the
+Project's limited "concessions," or must the City waive this requirement under
+Government Code section 65915, subdivision (c)(1), without having it count as one
+of the limited concessions? How does the City determine whether the project's
+proposed deviations from the height, unit size, and parking dimension zoning
+standards are required to be waived by the City or would count as concessions?
+We understand if these standards physically prevent the project from being built at
+the permitted density with the requested concessions they must be waived and
+would not count as one of the limited concessions. We further note that many of
+these deviations would not be required if the project proposed to redevelop the
+entire site without retaining any of the existing buildings. With regard to height, the
+development could provide proposed 588 units while meeting the 3 story height
+limit (parking on the first level doesn't constitute a story pursuant to Section
+17.18.050) if they proposed a podium style, higher density development across the
+entire 16.8 acres; instead they propose to build new units on a small portion of the
+property in a six-story building. With regard to unit size, the development could
+provide the 588 units and meet the unit size minimums if they redeveloped the
+entire 16.8 acres without retaining any of the existing units. With regard to parking
+space dimensions, the stacker-style parking stalls would not meet the City's
+requirements for stall dimensions which could likely achieved if the entire site was
+redeveloped.
+
+State Density Bonus Law affords significant inducements to developers to include
+affordable housing as part of their projects in the form of “concessions or incentives”
+and “waivers or reductions of development standards.” (Gov. Code, § 65915, subds. (d)
+and (e).) While all are a form of benefit or inducement, the statute distinguishes
+between “incentives or concessions” and “waivers or reduction of development
+standards.” A concession or incentive is defined as:
+
+   •   A reduction in site development standards or a modification of zoning code or
+       architectural design requirements, including a reduction in setback or minimum
+       square footage requirements;
+   •   Approval of mixed-use zoning; or
+   •   Other regulatory incentives or concessions which result in identifiable and actual
+       cost reductions. (Gov. Code, § 65915, subd. (k)(1).)
+
+The intent of concessions and incentives is to lower the cost of the construction of
+housing in order to provide for the affordable housing. The number of required
+incentives or concessions is based on the percentage of affordable units in the project
+(Gov. Code, § 65915, subd. (d)(2)).
+Sofia Mangalam
+Page 4
+
+
+Unlike incentives and concessions, waivers are unlimited, and their purpose is to
+remove developments standards that have the effect of physically precluding the
+construction of the density bonus project. Development standards which have
+commonly been waived or reduced include setback; lot coverage and open space
+requirements; and building height limits.
+
+In regard to this Project, assuming it otherwise qualifies for a density bonus, the
+development standard of 2,190 square feet per unit would preclude the ability for the
+density bonus project to be constructed at the 35 du/acre density. Because this
+standard would physically preclude the project at this density, the project would qualify
+for a waiver rather than a concession of this standard. Nothing in the statute requires
+the applicant to strip the site of amenities or existing units in order to demonstrate that it
+is entitled to a waiver. (See, e.g., Wollmer v. City of Berkeley (2011) 193 Cal.App.4th
+1329, 1347.) Further, State Density Bonus Law applies to the construction of the new
+units (as referenced in Question #3), and not the retained units. Therefore, HCD asserts
+that the determination of required waivers ought to be based on the new construction
+only, and ought not consider the existing units that will be retained. In sum, the applicant
+may submit a proposal for the waivers or reductions necessary to allow the physical
+construction of the proposed development project, which is the new units (420).
+
+HCD appreciates the City’s consideration of this guidance and welcomes any further
+opportunities to provide assistance. Please feel free to contact Melinda Coy at
+Melinda.Coy@hcd.ca.gov with any questions.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use and Planning Unit Chief

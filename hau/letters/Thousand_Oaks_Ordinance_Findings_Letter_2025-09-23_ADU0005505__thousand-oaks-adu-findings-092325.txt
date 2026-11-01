@@ -1,0 +1,178 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 23, 2025
+
+
+
+         Kevin Parker, Community Development Director
+         Community Development
+         City of Thousand Oaks
+         2100 E Thousand Oaks Blvd
+         Thousand Oaks, CA 91362
+
+         Dear Kevin Parker:
+
+         RE: Review of Thousand Oaks’ Accessory Dwelling Unit (ADU) Ordinance under
+             State ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Thank you for submitting the City of Thousand Oaks (City) ADU Ordinance No. 1735-NS
+         (Ordinance), adopted April 25, 2025, to the California Department of Housing and
+         Community Development (HCD). HCD has reviewed the Ordinance and submits these
+         written findings pursuant to Government Code section 66326, subdivision (a). HCD finds
+         that the Ordinance fails to comply with State ADU Laws in the manner noted below.
+         Pursuant to Government Code section 66326, subdivision (b)(1), the City has up to 30
+         days to respond to these findings. Accordingly, the City must provide a written response
+         to these findings no later than October 30, 2025.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law as follows:
+
+              1. Section 9-4.4505 (c)(3) – Deed Restrictions – The ordinance states, “No
+                 ADU shall be placed in any area where structures are prohibited pursuant
+                 to a recorded deed restriction…” However, California Civil Code section
+                 714.3 states “Any covenant, restriction, or condition contained in any deed,
+                 contract, security instrument, or other instrument affecting the transfer or
+                 sale of any interest in real property that either effectively prohibits or
+                 unreasonably restricts the construction or use of an accessory dwelling unit
+                 or junior accessory dwelling unit on a lot zoned for single-family residential
+                 use that meets the requirements of Article 2 (commencing with Section
+                 66314) of Chapter 13 or Article 3 (commencing with Section 66333) of
+                 Chapter 13 of Division 1 of Title 7 of the Government Code is void and
+                 unenforceable.” Although deed restrictions are required for Junior ADUs
+                 (JADU), they are strictly prohibited for ADUs and therefore, the City must
+                 remove all references to deed restrictions for ADUs.
+Kevin Parker, Community Development Director
+Page 2
+
+
+   2. Section 9-4.4507 (c)(4) – “New Construction JADUs” – The ordinance
+      describes “JADUs that are newly constructed (not converted from existing
+      square footage)”. Government Code section 66333, subdivision (d)
+      “Require[s] a permitted junior accessory dwelling unit to be constructed
+      within the walls of the proposed or existing single-family residence. For
+      purposes of this subdivision, enclosed uses within the residence, such as
+      attached garages, are considered a part of the proposed or existing single-
+      family residence.” While this section may apply to JADUs created within
+      proposed single-family homes, JADUs may not be created as new
+      construction, attached space to an existing single-family home. The City
+      must amend the language to clarify that all JADUs must be contained
+      entirely within a single-family residence.
+
+   3. Section 9-4.4511 (a)(1) – JADU Deed Restrictions – The ordinance requires
+      a deed restriction for a JADU to include a rental term longer than 30 days.
+      However, Government Code section 66333, subdivision (c) requires JADU
+      deed restrictions to have only “(1) A prohibition on the sale of the junior
+      accessory dwelling unit separate from the sale of the single-family
+      residence, including a statement that the deed restriction may be enforced
+      against future purchasers. (2) A restriction on the size and attributes of the
+      junior accessory dwelling unit that conforms with this article.” The rental
+      term as a required deed restriction exceeds State ADU Law and must be
+      removed.
+
+   4. Section 9-4.4513 (a)(2)(iii), (a)(4)(iii) and (iv) and (a)(5)(iii) and (iv) – Height
+      – The ordinance states that for “state-mandated” ADUs subject to
+      Government Code section 66323, subdivision (a)(2), “The roof peak height
+      above grade is sixteen (16) feet or less.” It later states that ADUs with
+      multifamily dwellings (subject to section 66323, subdivisions (a)(3) and
+      (a)(4) may have a roof peak of 16 feet for single-story dwellings and 18 feet
+      for multistory dwellings. However, Government Code section 66321,
+      subdivision (b)(4)(B) requires a maximum height for units with multifamily
+      primary dwellings of 18 or 20 feet, given stated circumstances. The City
+      must provide for all height allowances found in 66321 (b)(4).
+
+   5. Section 9-4.4513 (a)(4)(ii) – Size Restrictions on Multifamily Units – The
+      ordinance restricts detached ADUs with multifamily primaries to “800 square
+      feet or smaller”. However, local development standards may not preclude a
+      unit created pursuant to Government Code section 66323; both converted
+      and new construction units built in accordance with this section may be of
+      any size. Therefore, the City must remove size restrictions for ADUs that
+      qualify as units created under 66323 for multifamily dwellings.
+Kevin Parker, Community Development Director
+Page 3
+
+
+
+   6. Section 9-4.4513 (a)(1) and (a)(2) – Unit Combinations – The ordinance
+      allows “One [converted/interior] ADU and one JADU on a lot with a
+      proposed or existing single-family dwelling on it,” while (a)(2) provides for
+      “One (1) detached, new-construction ADU on a lot with a proposed or
+      existing single-family dwelling (in addition to any JADU that might otherwise
+      be established on the lot under subsection 1.i. above).” This language is
+      confusing and appears to restrict ADU development to one ADU, either
+      converted or detached, and one JADU per lot with a single-family primary
+      dwelling. This understanding was confirmed in conversation with City staff
+      in recent communications with HCD.
+
+      However, Government Code section 66323, subdivision (a), states,”
+      Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall
+      ministerially approve an application for a building permit within a residential
+      or mixed-use zone to create any of the following: (1) One accessory
+      dwelling unit and one junior accessory dwelling unit per lot with a proposed
+      or existing single-family dwelling…(A) The accessory dwelling unit or junior
+      accessory dwelling unit is within the proposed space of a single family
+      dwelling or existing space of a single-family dwelling or accessory
+      structure." In addition, paragraph (2) permits "one detached, new
+      construction, accessory dwelling unit that does not exceed four-foot side
+      and rear yard setbacks." The use of the term "any" followed by a list of
+      permitted ADU types means that any of these ADU types can be combined
+      on a lot zoned for single-family dwellings, allowing up to three units.
+
+      Section 66323 permits a homeowner to create one converted ADU; one
+      detached, new construction ADU; and one JADU. Thus, if the local agency
+      approves an ADU that is created from existing (or proposed) space, and the
+      owner subsequently applies for a detached ADU (or vice versa) that meets
+      the size and setback requirements of this section, the City is prohibited from
+      denying the application, and/or a permit for a JADU under this section. This
+      section also requires the ministerial approval of detached ADUs in
+      combination with units created in portions of multifamily primary dwellings
+      that are not used as habitable space. Therefore, the City must amend the
+      Ordinance to provide for all ADU/JADU combinations described in
+      Government Code section 66323.
+      Kevin Parker, Community Development Director
+      Page 4
+
+
+
+      The City has two options in response to this letter. 1 The City can either amend the
+      Ordinance to comply with State ADU Law 2 or adopt the Ordinance without changes
+      and include findings in its resolution adopting the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings. 3 If the City fails to take either course of action and bring the
+      Ordinance into compliance with State ADU Law, HCD must notify the City and may
+      notify the California Office of the Attorney General that the City is in violation of
+      State ADU Law. 4
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you
+      have any questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Section Chief, ADU Policy
+      Housing Policy Development Division
+
+
+
+
+1
+  Gov. Code, § 66326, subd. (c)(1).
+2
+  Gov. Code, § 66326, subd. (b)(2)(A).
+3
+  Gov. Code, § 66326, subd. (b)(2)(B).
+4
+  Gov. Code, § 66326, subd. (c)(1).

@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0021517",
+  "case_number": "HAU0001459",
+  "letter_date": "2025-08-05",
+  "jurisdiction": "El Cerrito",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Portions of the Permit Streamlining Act",
+  "statutes": "65589.5(e) | 65589.5(f)(1) | 65589.5(f)(6)(D)(iii) | 65589.5(h) | 65943(a)",
+  "n_statutes": "5",
+  "keywords": "CEQA | builders remedy",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-cerrito-hau-1459-ta-080525.pdf",
+  "hcd_letter": "El Cerrito Technical Assistance Letter 08/05/2025",
+  "housing_law": "Density Bonus Law, Portions of the Permit Streamlining Act, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-cerrito-hau-1459-ta-080525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 207793,
+  "text_chars": 10316,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0011656",
+      "case_number": "HAU0000334",
+      "letter_date": "2023-08-18",
+      "jurisdiction": "El Cerrito",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Accountability Act | Portions of the Permit Streamlining Act",
+      "statutes": "65941.1(a)",
+      "n_statutes": "1",
+      "keywords": "Preliminary application",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/el-cerrito-hau-1459-ta-080525.pdf",
+      "hcd_letter": "El Cerrito Technical Assistance Letter 08/18/2023",
+      "housing_law": "Housing Accountability Act, Portions of the Permit Streamlining Act"
+    }
+  ]
+}

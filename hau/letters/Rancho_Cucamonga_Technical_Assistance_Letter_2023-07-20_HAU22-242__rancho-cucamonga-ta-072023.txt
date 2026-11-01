@@ -1,0 +1,184 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 20, 2023
+
+
+         Kenneth Tam, Manager of Environmental Services
+         Inland Empire Utilities Agency
+         6075 Kimball Avenue
+         Chino, CA 91708
+
+         RE: SB 330 Preliminary Application Vesting Rights and Local Agencies – Letter of
+             Technical Assistance
+
+         Dear Kenneth Tam:
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the applicant (Applicant) of the Alta Cuvee project,
+         located in the City of Rancho Cucamonga, seeking clarification regarding vesting of
+         water and sewer connection fees under Government Code section 65941.1, subdivision
+         (a). The purpose of this letter is to provide technical assistance regarding the
+         applicability of Government Code section 65941.1, subdivision (a), to local agencies, as
+         defined in Government Code section 66000, as it pertains to applicant vesting rights on
+         development impact fees, capacity or connection fees or charges, permit or processing
+         fees, and other exactions.
+
+         Summary of Request
+
+         The Applicant submitted a technical assistance request to HCD regarding how vesting
+         of fees pursuant to Government Code section 65941.1, subdivision (a), interacts with
+         local agencies (i.e., Cucamonga Valley Water District) that operate independently from
+         the local jurisdiction (i.e., City of Rancho Cucamonga). HCD understands that the
+         Applicant had submitted an “SB 330 preliminary application” and a full development
+         application for the Alta Cuvee project (Project) on December 15, 2020, and that the
+         Planning Commission approved the Project on April 13, 2022. As part of the post-
+         entitlement permitting process, the Applicant submitted their application for sewer and
+         water connections to Cucamonga Valley Water District (CVWD) through CVWD’s online
+         portal on July 11, 2022. HCD understands that CVWD works in conjunction with Inland
+         Empire Utilities Agency (IEUA) to provide water and sewer connections, and both
+         agencies have adopted fee structures for these connections.
+
+         The question posed by the Applicant is whether the Project is vested under CVWD’s
+         and IEUA’s 2020 fee structures, given the facts that the SB 330 preliminary application
+         was submitted to the City of Rancho Cucamonga on December 15, 2020 and the
+         application for sewer and water connections was submitted on July 11, 2022. In short,
+Kenneth Tam, Manager of Environmental Services
+Page 2
+
+
+
+yes, the Project is vested under the 2020 fee structures, as supported by the analysis
+provided in this letter.
+
+SB 330 Preliminary Applications and Local Agencies
+
+Senate Bill (SB) 330 (Chapter 654, Statutes of 2019) which became effective on
+January 1, 2020, and among other provisions, the bill added section 65941.1 to the
+Government Code, creating the preliminary application (SB 330 preliminary application)
+mechanism for housing projects. Government Code section 65941.1, subdivision (a),
+states that “An applicant for a housing development project… shall be deemed to have
+submitted a preliminary application upon providing all of the following information about
+the proposed project to the city, county, or city and county from which approval for the
+project is being sought and upon payment of the permit processing fee.”
+
+SB 330 also added subdivision (o) to Government Code section 65589.5, which
+describes the vesting that housing projects with SB 330 preliminary applications enjoy.
+Government Code section 65589.5, subdivision (o)(1) and (o)(4) are relevant to the
+question posed by the Applicant and are cited below:
+
+      Subject to paragraphs (2), (6), and (7), and subdivision (d) of Section 65941.1, a
+      housing development project shall be subject only to the ordinances,
+      policies, and standards adopted and in effect when a preliminary
+      application including all of the information required by subdivision (a) of Section
+      65941.1 was submitted. (Gov. Code, § 65589.5, subd. (o)(1), emphasis added.)
+
+      For purposes of this subdivision, “ordinances, policies, and standards” includes
+      general plan, community plan, specific plan, zoning, design review standards and
+      criteria, subdivision standards and criteria, and any other rules, regulations,
+      requirements, and policies of a local agency, as defined in Section 66000,
+      including those relating to development impact fees, capacity or
+      connection fees or charges, permit or processing fees, and other exactions.
+      (Gov. Code, § 65589.5, subd. (o)(4), emphasis added.)
+
+As referenced in Government Code 65589.5, subdivision (o)(4) and pursuant to
+Government Code section 66000, “local agency” is defined as, “…a county, city,
+whether general law or chartered, city and county, school district, special district,
+authority, agency, any other municipal public corporation or district, or other
+political subdivision of the state.” (emphasis added). Both CVWD and IEAU are “local
+agencies” under this definition.
+
+For this Project, the vesting rights were established on December 15, 2020, the date the
+SB 330 preliminary application was submitted, and permit processing fees paid to the
+City of Rancho Cucamonga. These vesting rights extends to any local agency as
+defined, including CVWD and IEAU.
+Kenneth Tam, Manager of Environmental Services
+Page 3
+
+
+
+Vesting Rights and Fee Increase Exceptions
+
+Government Code section 65589.5, subdivision (o)(2), provides for exceptions to a
+housing development project’s vesting rights, including an exception for the vesting of
+fees. Specifically, subdivision (o)(2) provides the following:
+
+       Paragraph (1) shall not prohibit a housing development project from being
+       subject to ordinances, policies, and standards adopted after the preliminary
+       application was submitted pursuant to Section 65941.1 in the following
+       circumstances:
+
+              (A) In the case of a fee, charge, or other monetary exaction, to an
+              increase resulting from an automatic annual adjustment based on an
+              independently published cost index that is referenced in the
+              ordinance or resolution establishing the fee or other monetary
+              exaction. ((Gov. Code, § 65589.5, subd. (o)(2)(A). emphasis added.)
+
+To summarize, there are three criteria that must be satisfied for a city, county, or local
+agency to subject a housing development project with a vested SB 330 preliminary
+application to a higher fee than the fee in place at time of vesting:
+   1) The fee increase must be an automatic annual adjustment.
+   2) The automatic annual adjustment must be based on a current independently
+      published cost index.
+   3) The automatic annual adjustment must be established through an ordinance
+      or resolution.
+
+The IEUA does not meet these statutory criteria for an exception to charge an increased
+fee. Though the fees appear to be established through resolutions adopted by the
+Board, the fees are not an automatic annual adjustment, and the last full cost of service
+study conducted by IEUA was in 2015, which does not address current fees.
+
+HCD understands that CWVD’s fees have not changed from 2020 to 2022. As such,
+only IEUA’s fee structure was analyzed for the purposes of this letter. However, as a
+local agency, CVWD would also need to meet the above criteria to qualify for a fee
+increase exception in the future.
+
+Conclusion
+
+HCD has determined that ordinances, policies, standards adopted and in effect, and
+fees associated with development projects are vested upon the date the preliminary
+application is submitted and permit processing fees paid to a city, county, or city and
+county from which project approval is being sought, pursuant to Government Code
+section 65941.1, subdivision (a). This includes all other entities that meet the definition
+Kenneth Tam, Manager of Environmental Services
+Page 4
+
+
+
+of a “local agency” under Government Code section 66000, subdivision (c). Additionally,
+even though a housing development project application was vested under Government
+Code section 65941.1, subdivision (a), a project can still be subject to an increase in
+fees so long as it meets the three criteria under Government Code section 65589.5,
+subdivision (o)(2)(a).
+
+To increase transparency and efficiency in the vesting process, HCD recommends
+coordination between all local agencies that may be involved in either the entitlement or
+post-entitlement process and especially with those external local agencies that may be
+impacted by vesting rights that result from an SB 330 preliminary application, including
+local agencies that impose fees. HCD encourages the formalization of this process to
+ensure that all local agencies are aware of their statutory obligations under Government
+Code section 65941.1, subdivision (a).
+
+HCD recognizes the challenge of interpreting ever-changing housing and land use laws
+and appreciates the City’s, CVWD’s, and IEUA’s cooperation during HCD’s
+investigation. If you have questions or need information, please contact Deepeaka
+Dhaliwal of our staff at Deepeaka.Dhaliwal@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief
+
+cc: Gull Nawaz, Senior Associate Engineer, Cucamonga Valley Water District
+    David Eoff, Senior Planner, City of Rancho Cucamonga, Planning Department

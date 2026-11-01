@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011139",
+  "case_number": "HAU0000154",
+  "letter_date": "2022-04-27",
+  "jurisdiction": "Alpine County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/ALPINECOUNTYHENONSUBMITTAL042722.pdf",
+  "hcd_letter": "Alpine County Letter of Inquiry 04/27/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/ALPINECOUNTYHENONSUBMITTAL042722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 170629,
+  "text_chars": 5603,
+  "text_empty": false
+}

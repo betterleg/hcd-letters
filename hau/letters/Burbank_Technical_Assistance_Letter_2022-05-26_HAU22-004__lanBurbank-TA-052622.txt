@@ -1,0 +1,172 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         May 26, 2022
+
+
+
+         Fred Ramirez, Assistant Community Development Director
+         City of Burbank
+         275 East Olive Avenue
+         Burbank, CA 91502
+
+         Dear Fred Ramirez:
+
+         RE: City of Burbank Housing Crisis Act – Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance on the application of the
+         Housing Crisis Act (Gov. Code, § 66300) in circumstances where units are proposed to
+         be demolished. The California Department of Housing and Community Development
+         (HCD) has reviewed your request for technical assistance contained in an email dated
+         January 14, 2022, with a follow-up telephone conversation on March 11, 2022, and
+         responded to your questions paraphrased below.
+
+         Question 1: For a project to be a “Housing Development Project” under SB 8 (one
+         or more unit), must the applicant submit the full SB 8 “Preliminary Application”
+         with the 17 submittal requirement items for the purposes of rental protection and
+         no net loss (replacement) provisions to apply?
+
+         The demolition provisions of the Housing Crisis Act (HCA) apply regardless of whether
+         the applicant has submitted a Preliminary Application. (Gov. Code § 66300 (d).) The
+         Preliminary Application process is optional.
+
+         Question 2: Do the replacement provisions of the HCA apply even if the
+         replacement building is not a housing project? For example, the City is
+         considering a project that would remove several housing units in order to
+         construct a hotel.
+
+         The proposed project needs to meet the definition of “housing development project” for
+         the replacement provisions to apply. A “housing development project” is defined as
+         follows:
+
+             •    Residential units only, including a proposal to construct a single dwelling unit.
+             •    Mixed-use developments consisting of residential and nonresidential uses with at
+                  least two-thirds of the square footage designated for residential use.
+             •    Transitional housing or supportive housing.
+Fred Ramirez, Assistant Community Development Director
+Page 2
+
+
+
+   •   Projects that involve no discretionary approvals and projects that involve both
+       discretionary and nondiscretionary approvals.
+
+       (Gov. Code, §66300, subd. (a)(6), referencing Gov. Code, § 65905.5, subd.
+       (b)(3), referencing § 65589.5, subd. (h)(2).)
+
+Proposed projects that do not contain one or more residential units, such as a hotel, do
+not meet this definition and are therefore, not required to replace the demolished units.
+
+Given this limitation in the law (and the critical need to prevent the loss of affordable
+housing), HCD recommends that local agencies explore other ways to preserve and
+replace housing affordable to lower-income households.
+
+Question 3: Per the HCA, density can be reduced if concurrently there is an increase of
+density elsewhere in the city (within 180 days). Does this apply specifically to zoning
+actions initiated by the City, or can this be used for real-life unit production numbers?
+In other words, if a developer builds six units to replace eight existing units, and builds
+two new units somewhere else in the jurisdiction, are they meeting the no net loss of
+density requirement?
+
+The No Net Loss (NNL) provisions of State Housing Element Law (Gov. Code, § 65863)
+are distinct from the no net loss provisions of the HCA (Gov. Code, § 66300, subd. (i)).
+Housing Element NNL is concerned with the sites specifically identified in a city or
+county’s housing element and the number of units (by income level) allocated to each. If
+a development is proposed on a site identified in the housing element site inventory, the
+local agency must verify that the proposed development matches or exceeds the
+number of units specified in the site inventory by income category or that the excess
+capacity “buffer” is sufficient to prevent a no net loss situation.
+
+In contrast, no net loss under the HCA is triggered when a local agency reduces
+residential development capacity by downzoning, reducing residential densities in a
+general plan land use designation, or by substantially modifying development standards
+in a way that reduces the intensity of land use. The HCA is concerned with maintaining
+residential development capacity throughout the jurisdiction and is not applicable based
+on the proposed number of units for a project unless that project requires a rezone
+resulting in a reduction in the site’s potential residential development capacity.
+
+Question 4: If the proportion of affordability of replacement units is based on
+regional data (and not site-specific historical data), does the proportion apply to
+the entirety of the new project or just to the number of units that are replaced?
+
+The proportion of affordability would apply only to the replacement units. (Gov. Code §
+66300 (d)(2)(A).)
+Fred Ramirez, Assistant Community Development Director
+Page 3
+
+
+
+Question 5: How should the income limits of replacement units be determined if
+there is site-specific historical data to verify the income limits for some units, but
+not others? Can a local agency “mix and match” units with known incomes and
+those with unknown incomes?
+
+The City should use site-specific historical data whenever possible. If accurate data is
+not available for all units, the local agency may rely on U.S. Department of Housing and
+Urban Development historical data to fill in the gaps. (Gov. Code, § 65915, subd.
+(c)(3)(B).)
+
+Question 6: If relying on HUD historical data to determine the income level of a
+single replacement unit (in a development that is required to include only one
+replacement unit), should the local agency require that the unit match the most
+common household income level? In Burbank, this would be extremely low-income
+(ELI).
+
+In the absence of adequate historical data, the statute provides that “it shall be
+rebuttably presumed that low-income and very low-income renter households occupied
+these units in the same proportion of low-income and very low-income renter
+households to all renter households within the jurisdiction, as determined by the most
+recently available (HUD) data…” (Gov. Code, § 65915, subd. (c)(3)(B)(ii).)
+
+Question 7: The City of Burbank has an Inclusionary Housing Ordinance which
+requires a minimum of 15 percent of units in projects with five or more housing
+units to be affordable to lower-income households. How does the HCA work with
+local inclusionary housing requirements? Would the replacement units be
+required in addition to the inclusionary units, or can the project “double-dip”?
+
+Government Code section 66300, subdivision (d)(2)(A)(ii), provides the following:
+
+       Any protected units replaced pursuant to this subparagraph shall be considered
+       in determining whether the housing development project satisfies the
+       requirements of Section 65915 or a locally adopted requirement that requires, as
+       a condition of the development of residential rental units, that the project provide
+       a certain percentage of residential rental units affordable to, and occupied by,
+       households with incomes that do not exceed the limits for moderate-income,
+       lower income, very low income, or ELI households, as specified in Sections
+       50079.5, 50093, 50105, and 50106 of the Health and Safety Code.
+
+Therefore, the applicant is allowed to “double-dip” in the sense that an affordable unit
+can serve both as a “replacement unit” and as an “inclusionary unit.”
+Fred Ramirez, Assistant Community Development Director
+Page 4
+
+
+
+Question 8: How should the local agency proceed if income data is not available
+for all five of the previous years?
+
+The local agency should rely on historical data that is found to determine the unknown
+years. However, if complete income information is unknown, then the local agency can
+take a conservative approach such as the one described in the response to Question 6.
+
+HCD appreciates the City of Burbank requesting technical assistance on replacement
+requirements. If you have questions or need additional information, please contact Divya Sen,
+of our staff, at Divya.Sen@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief
+
+cc:   Greg Mirza-Avakyan, Associate Planner

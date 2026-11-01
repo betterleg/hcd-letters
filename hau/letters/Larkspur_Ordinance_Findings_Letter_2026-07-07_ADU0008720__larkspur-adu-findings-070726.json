@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026381",
+  "case_number": "ADU0008720",
+  "letter_date": "2026-07-07",
+  "jurisdiction": "Larkspur",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "JADU terms | Local historic registers | Nonconforming zoning conditions | Subjective terms | Unit Allowance | owner occupancy",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/larkspur-adu-findings-070726.pdf",
+  "hcd_letter": "Larkspur Ordinance Findings Letter 07/07/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/larkspur-adu-findings-070726.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 231360,
+  "text_chars": 10162,
+  "text_empty": false
+}

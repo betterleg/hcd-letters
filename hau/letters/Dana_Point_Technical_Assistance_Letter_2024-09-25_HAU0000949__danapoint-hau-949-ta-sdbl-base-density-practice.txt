@@ -1,0 +1,174 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 25, 2024
+
+
+         Brenda Wisneski
+         Director of Community Development
+         City of Dana Point
+         33282 Golden Lantern
+         Dana Point, CA 92629
+
+         Dear Brenda Wisneski:
+
+         RE: Villas at Monarch Beach State Density Bonus Law Project – Letter of
+             Technical Assistance
+
+         The California Department Housing and Community Development (HCD) is aware that
+         the City is reviewing a development application for a proposed project known as the
+         Villas at Monarch Beach located 23731 and 23781 Mariner Drive (Project). This letter
+         provides technical assistance to the City of Dana Point (City) regarding the calculation
+         of base density for the Project, pursuant to the State Density Bonus Law (SDBL)1
+         Background
+
+         The Project site has a general plan land use designation of “Residential 14-22” and a
+         zoning designation of “Residential Multiple Family 22 (RMF 22).” Both designations
+         allow for multi-family residential uses. The Project site has a gross land area of 561,924
+         square feet (12.9 ac), 2 of which approximately 44,012 square feet is comprised of public
+         rights-of-way, easements, and dedicated facilities. The proposed development includes
+         208 existing multi-family dwelling units and proposes construction of 500 new multi-
+         family dwelling units, for a total of 708 units.
+
+         HCD understands that the Applicant has worked with the City since 2017 to determine
+         the maximum allowable residential density (i.e., base density) for the Project site.
+            • 2017 to approximately 2022. The City confirmed in writing on several occasions
+               that the General Plan and zoning code allowed for a base density of 325 dwelling
+               units on the site. 3
+
+
+1 Gov. Code, § 65915.
+2 Based on Tract Map no. 7782.
+3 City code requires rounding down for densities that result in a fractional unit pursuant to Dana Point
+
+Municipal Code § 9.09.030(3).
+      Brenda Wisneski, Director of Community Development
+      Page 2
+
+
+
+          •   May 18, 2023. The Project applicant submitted a Preliminary Application for
+              a project with a base density of 325 dwelling units. The City deemed the
+              application incomplete on June 14, 2023. The Applicant resubmitted on
+              August 4, 2023, but the application expired.
+          •   June 16, 2023. The City Attorney provided a letter to the Applicant stating the
+              base density on the site is lower than the previously stated 325 dwelling units
+              without specifying an alternate base density.
+          •   September 27, 2023. The City Attorney issued another letter stating that City
+              staff erroneously communicated the base density of 325 units and that the base
+              density of the site is 261 dwelling units.
+
+      Methodology for Calculating Base Density
+
+      The SDBL defines “maximum allowable residential density” or “base density” as the
+      greatest number of units allowed under the zoning ordinance, specific plan, or land use
+      element of the general plan, or if a range of density is permitted, the greatest number of
+      units allowed by a specific zoning range, specific plan, or land use element of the
+      general plan applicable to the project. 4 Where planning documents provide conflicting
+      base densities, the statute addresses these variations by applying the highest density
+      available in any one of the three competing documents.
+
+      General Plan Land Use: The “Residential 14-22” land use designation provides for a
+      maximum density of 22 dwelling units per net acre of land. 5 The City’s July 1995
+      adopted general plan includes a density calculation methodology which uses a “net”
+      acreage that is assumed to be approximately 80 percent of gross acreage to account for
+      dedications and easements typically required with development projects. For purposes
+      of “net” density, the City’s assumes a “net” acre is 35,000 square feet as opposed to a
+      true acre of 43,560 square feet. 6
+
+      Zoning Ordinance: 7 For the RMF 22 district, the City’s 1996 zoning ordinance for High
+      Density Residential Districts identifies a maximum density of 22 dwellings per net acre
+      of land. “Net acreage” in the City’s zoning is defined as: “[t]he total area of a site or lot
+      minus any and all required dedications for public streets and rights-of-way, public parks,
+      school sites, and other facilities.” 8
+
+      Although the density expressed in units per acre appear to be equivalent (22 units per
+      net acre of land), the calculation of net land area is not the same between the general
+      plan land use (i.e., approximately 80 percent of gross land area) and the zoning (i.e.,
+
+4 Gov. Code, § 65915, subd. (o)(6).
+5 City of Dana Point General Plan, pg. 34.
+6 City of Dana Point General Plan, pg. 32.
+7 City of Dana Point Zoning Code § 9.09.010(d).
+8 City of Dana Point Zoning Code 9.75.010.
+      Brenda Wisneski, Director of Community Development
+      Page 3
+
+
+
+      gross land area minus public rights-of-way and facilities), which results in different
+      outcomes for calculating base density.
+
+      Calculating Base Density for the Project
+      The SDBL requires the calculation of base density to use “gross” acreage to yield the
+      maximum number of total housing units, which includes all portions of a property owned in fee
+      simple. 9
+      General Plan Land Use. As explained in the methodology section above, the general
+      plan density equates to 22 units per net 35,000 square feet, which scales up to 27.4
+      units per gross 43,560 square feet.
+
+      Zoning Ordinance: The net area for the project site, after subtracting areas used for
+      public rights-of-way and facilities, equates to 517,912 square feet or 11.89 acres. At a
+      density of 22 units per net acres, the base density allowed by zoning is 262 units. As a
+      result, the zoned density equates to 262 units per 11.89 acres, or 20.3 units per gross
+      43,560 square feet. 10
+
+      Table 1 below is intended to summarize the information presented above.
+
+      Table 1. Base Density Calculation
+                                       Gross Area         Density            Base Density (units)
+        Base Density
+                                         (acres)          (du/ac)           (Gross Area x Density)
+        General Plan Land Use             12.90            27.4                      354
+        Zoning Ordinance                  12.90            20.3                      262
+
+      The SDBL requires local jurisdictions to use the greatest available density, and the law
+      shall be interpreted liberally in favor of producing the maximum number of total housing
+      units. 11 In this case, it is clear the general plan land use results in the highest density
+      available, or 354 dwelling units. 12
+
+
+
+
+9 Gov. Code, § 65915, subd. (f), Technical Assistance Letter to the City of Agoura Hills
+10 Although not a density standard, the RMF 22 zone contains a development standard that allows
+
+one unit for every 1,591 square feet of land area, which converts to density of 27.4 units per acre,
+consistent with the gross density in the general plan land use.
+11 Gov. Code, § 65915, subd. (r).
+12 Rounded up, pursuant to Gov. Code, § 65915, subd. (q).
+      Brenda Wisneski, Director of Community Development
+      Page 4
+
+
+
+      Conclusion
+      HCD appreciates the opportunity to provide technical assistance to implement the
+      provisions of the SDBL, particularly those that inform the calculation of base density for
+      density bonus projects and reminds the City that HCD has enforcement authority of the
+      SDBL and other housing laws. HCD may review local government actions and inactions
+      to determine consistency with these laws. If HCD finds that a city’s actions do not
+      comply with state law, HCD may notify the California Office of the Attorney General that
+      the local government is in violation of state law. 13 If you have questions or need
+      additional information, please contact Jessica Evans at jessica.evans@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+
+
+
+13 Gov. Code, § 65585, subd. (j).

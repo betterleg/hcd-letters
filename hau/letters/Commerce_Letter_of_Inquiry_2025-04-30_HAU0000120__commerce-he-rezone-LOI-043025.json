@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020587",
+  "case_number": "HAU0000120",
+  "letter_date": "2025-04-30",
+  "jurisdiction": "Commerce",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "rezone",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/commerce-he-rezone-LOI-043025.pdf",
+  "hcd_letter": "Commerce Letter of Inquiry 04/30/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/commerce-he-rezone-LOI-043025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189863,
+  "text_chars": 7951,
+  "text_empty": false
+}

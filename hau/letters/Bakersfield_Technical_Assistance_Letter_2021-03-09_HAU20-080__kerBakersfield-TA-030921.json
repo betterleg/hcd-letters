@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010672",
+  "case_number": "HAU20-080",
+  "letter_date": "2021-03-09",
+  "jurisdiction": "Bakersfield",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "By-Right Supportive Housing Provisions",
+  "statutes": "65582 | 65651(a)",
+  "n_statutes": "2",
+  "keywords": "AB 2162 | Casa Esperanza | transitional housing",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/kerBakersfield-TA-030921.pdf",
+  "hcd_letter": "Bakersfield Technical Assistance Letter 03/09/2021",
+  "housing_law": "By-Right Supportive Housing Provisions",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/kerBakersfield-TA-030921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 194254,
+  "text_chars": 8840,
+  "text_empty": false
+}

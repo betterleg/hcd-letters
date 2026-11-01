@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010657",
+  "case_number": "HAU20-019",
+  "letter_date": "2020-04-17",
+  "jurisdiction": "Carlsbad",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300",
+  "n_statutes": "1",
+  "keywords": "Housing Crisis Act of 2019",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiCarlsbad-TA-041720.pdf",
+  "hcd_letter": "Carlsbad Technical Assistance Letter 04/17/2020",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/sdiCarlsbad-TA-041720.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 144388,
+  "text_chars": 6086,
+  "text_empty": false
+}

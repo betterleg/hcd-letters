@@ -1,0 +1,333 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 24, 2025
+
+
+         Lisa Webber, Deputy Director of Project Planning
+         Los Angeles City Planning
+         200 North Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Lisa Webber:
+
+         RE: City of Los Angeles – State Density Bonus Law (SDBL) and Base Density
+             Determination – Letter of Technical Assistance
+
+         This letter provides technical assistance to the City of Los Angeles (City) regarding the
+         interpretation of maximum allowable residential density (base density) to determine
+         project eligibility under the State Density Bonus Law (SDBL). 1
+
+         The California Department of Housing and Community Development (HCD) has
+         previously issued multiple technical assistance letters to the City related to this matter.
+         However, upon receiving additional requests for assistance, and following further
+         conversations with the City, HCD wishes to provide clarification on this topic. The
+         additional requests stem from ongoing confusion about how density provisions across
+         competing City documents (including the zoning code, community plans, and SDBL
+         implementation memos) should be interpreted for the purposes of determining base
+         density.
+
+         Background
+
+         AB 2334 and the SDBL
+
+         AB 2334 (Chapter 651, Statutes of 2022, effective January 1, 2023) clarified the
+         definition of base density under the SDBL to mean: “[T]he maximum number of units
+         allowed under the zoning ordinance, specific plan, or land use element of the general
+         plan, or, if a range of density is permitted, it means the maximum number of units
+         allowed by the specific zoning range, specific plan, or land use element of the general
+         plan applicable to the project.” 2
+
+
+
+         1 Gov. Code, § 65915.
+         2 Gov. Code, § 65915, subd. (o)(6).
+Lisa Webber, Deputy Director of Project Planning
+Page 2
+
+
+
+In addition, AB 2334 expanded the definition of “development standard” to include “a
+minimum lot area per unit requirement.”3 Under the SDBL, a city and/or county cannot
+apply any development standard that will “have the effect of physically precluding the
+construction of a development” that meets the eligibility criteria under Government Code
+section 65915, subdivision (b) at the densities allowed under the statute. 4 Furthermore,
+to be a development that qualifies for the SDBL under subdivision (b), a project must
+propose at least five residential units in its base density. 5
+
+General Plan Land Use Element
+
+HCD understands that the City’s General Plan is comprised of 34 individual Community
+Plan Areas, and each Community Plan consists of a policy document and a land use
+map. 6 Each Community Plan includes various density-related components, summarized
+below:
+
+   •   Plan Population and Dwelling Unit Capacity Table. Some, but not all,
+       Community Plans include a table titled “Plan Population and Dwelling Unit
+       Capacity” that lists each available residential land use designation in the
+       Community Plan Area and identifies a corresponding “dwelling units per net acre”
+       density range and midpoint for each land use designation. The table identifies the
+       reasonable expected population and dwelling unit count for a future planned
+       year, using the midpoint value. City Planning staff informed HCD that the table is
+       referenced for purposes of environmental impact analysis and the City does not
+       consider the range nor the midpoint identified in the “dwelling units per net acre”
+       column to indicate the base density for the purposes of the SDBL. Furthermore, it
+       is HCD’s understanding that the City has been phasing out this table as
+       Community Plans are updated to avoid confusion with the SDBL.
+
+   •   General Plan Land Use Map Corresponding Zones. In the general plan land
+       use map, the legend identifies each available land use designation within the
+       Community Plan Area and its corresponding zone(s). Notably, the corresponding
+       zone(s) may not match all of the actual zoning districts represented within the
+       land use designation. For example, a parcel with a land use designation of Low
+       Medium II in the Wilshire Community Plan may be zoned RD3, although RD3 is
+       not listed in the range of corresponding zones for that land use designation.
+
+
+
+
+3 Gov. Code, § 65915, subd. (o)(2).
+4 Gov. Code, § 65915, subd. (e).
+5 Gov. Code, § 65915, subd. (i).
+6 City of Los Angeles, Existing Community Plans. Available at:
+
+https://planning.lacity.gov/plans-policies/community-plans.
+Lisa Webber, Deputy Director of Project Planning
+Page 3
+
+
+
+       Since 2017, the City has published several implementation memos related to the
+       SDBL and the City’s Affordable Housing Incentive Program (AHIP). 7 In the
+       implementation memo dated January 31, 2023 regarding “Implementation of
+       2022 State Density Bonus Laws – AB 2334, AB 1551, AB 682,” the memo states:
+       “If the [General Plan Land Use] designation allows for greater density through
+       one of the corresponding zones in the permitted range, then it shall be used to
+       calculate maximum allowable residential density for density bonus projects. This
+       definition applies to properties that may have zoning limitations or prohibitions on
+       residential use.”8
+
+Zoning - Residential Density
+
+HCD understands that the City’s zoning “typically determines density using the
+minimum lot area per dwelling unit, which can be converted to a units per acre
+standard,” 9 or—where no “minimum lot area per dwelling unit” standard exists—a
+combination of the minimum lot area and the allowable residential use(s) as a proxy for
+residential density. For example:
+
+   •   The RD2 zone requires a minimum lot area per unit of 2,000 square feet, 10 or
+       approximately 21.8 units per acre.
+
+   •   The RZ2.5 zone does not contain a “minimum lot area per unit” standard but has
+       a minimum lot area standard of 2,500 square feet and permits only one-family
+       uses. 11 Therefore, the base density is 1 unit per 2,500 square feet, or
+       approximately 17.4 units per acre.
+
+
+
+
+7 City of Los Angeles, Citywide Housing Incentive Program. Available at:
+
+https://planning.lacity.gov/plans-policies/citywide-housing-incentive-program.
+8 City of Los Angeles, “Implementation of 2022 State Density Bonus Laws – AB 2334,
+
+AB 1551, AB 682,” p. 2. January 31, 2023. Available at:
+https://planning.lacity.gov/odocument/ce5fae12-a3da-4046-a8b8-
+2ceb858cbb40/AB%202334,%201551,%20682%20(2022)%20Density%20Bonus%20M
+emo.pdf.
+9 Id.
+10 RD Restricted Density Multiple Dwelling Zone. Available at:
+
+https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-109838.
+11 RZ Residential Zero Side Yard Zone. Available at:
+
+https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-109659.
+Lisa Webber, Deputy Director of Project Planning
+Page 4
+
+
+
+Analysis
+
+How is a project’s base density calculated for the purposes of determining SDBL
+eligibility and density bonus in the City of Los Angeles?
+
+The base density depends on the available density standards in the applicable zoning
+ordinance, specific plan, general plan land use element, and corresponding zones in the
+general plan land use map, with consideration for the uses permitted in the underlying
+zoning ordinance and each corresponding zone. See Figure 1: City of Los Angeles
+Base Density Calculation Methodology, which generally describes the following order of
+operations in determining the base density:
+
+Step 1.    If the underlying zone, general plan land use or corresponding zone(s), or
+           specific plan provide a density standard expressed in “dwelling units per
+           acre,” excluding the “Plan Population and Dwelling Unit Capacity” table, then
+           the base density is the greatest number of units allowed among the three
+           planning documents applicable to the project. 12
+Step 2.    If there is no “dwelling units per acre” standard available, the City may
+           determine the base density as the greatest number of units allowed as
+           derived from the “minimum lot area per unit” standard for either the underlying
+           zone, or a corresponding zone if the corresponding zone allows for a greater
+           density. Where a zone does not specify a “minimum lot area per unit”
+           standard, the density may be derived from a combination of the “minimum lot
+           area” standard and the highest density residential use permitted in the zoning
+           district.
+           While HCD encourages the City to use a “dwelling units per acre” standard to
+           establish residential density, and the SDBL does not specifically contemplate
+           the use of “minimum lot area per unit” or “minimum lot area” standards as a
+           proxy for residential density, HCD understands that such practice currently
+           exists in the City.
+Step 3.    Where the zoning, general plan land use and corresponding zones, and
+           specific plan all lack a “dwelling units per acre,” “minimum lot area per unit,”
+           and “minimum lot area” standard, then the base density is calculated by
+           “[e]stimating the realistic development capacity of the site based on the
+           objective development standards applicable to the project” while “maintaining
+           the same average unit size and other project details relevant to the base
+           density study, excepting those that may be modified by waiver or concession
+           to accommodate the bonus units….”13
+
+
+
+
+12 Gov. Code, § 65915, subd. (o)(6).
+13 Gov. Code, § 65915, subd. (o)(6)(A).
+Lisa Webber, Deputy Director of Project Planning
+Page 5
+
+
+
+Can an applicant “mix and match” a residential use that is permitted in an
+underlying or corresponding zone with a base density from a separate
+corresponding zone?
+
+Generally, no. The permitted uses of the corresponding zone may differ from the
+permitted uses in the underlying zone, and the City is not required to approve a
+permitted use from one zone and a base density from another. 14
+
+For example, in the Wilshire Community Plan, a project zoned RD3 has a land use
+designation of Low Medium II, which corresponds to RW2 and RD1.5 zones. 15
+
+   •   RW2 contains a minimum lot area per unit of 1,150 square feet (or 37.9 units per
+       acre) and permits one- and two-family residential uses.
+   •   RD1.5 contains a minimum lot area per unit of 1,500 square feet (or 29.04 units
+       per acre) and permits one- and two-family residential and multiple dwelling uses.
+
+Therefore, for the purposes of the SDBL, the City is not required to allow a multiple
+dwelling use development utilizing the RW2 density, since multiple dwelling uses are
+not permitted in RW2.
+
+Can an applicant apply a waiver through the SDBL to reduce or eliminate the
+“minimum lot area per unit” or “minimum lot area” standard (minimum lot area
+standards)?
+
+It depends.
+
+Government Code section 65915, subdivision (e)(1) provides that an applicant may
+propose a waiver of a development standard that would otherwise physically preclude a
+development that utilizes the SDBL by including the relevant percentage of affordable or
+senior housing in the project. Subdivision (o)(1) specifically lists “minimum lot area per
+unit” as an example of a development standard that may be waived. Therefore, an
+applicant can request a waiver of the minimum lot area standards for the purpose of
+accommodating the units permitted by the density bonus.
+
+However, a housing development project must first be determined eligible for the SDBL
+(i.e., at least five residential units in its base density). In other words, an applicant cannot
+increase a housing project’s base density by waiving the minimum lot area standards (or
+
+
+14 With the exception that the SDBL requires the City to grant a concession or incentive
+
+to approve a compatible “mixed-use zoning in conjunction with the housing project if
+commercial, office, industrial, or other land uses will reduce the cost of the housing
+development.” See Gov. Code, § 65915, subds. (d)(1) and (k)(2).
+15 Wilshire General Plan Land Use Map. Available at:
+
+https://planning.lacity.gov/odocument/2ec22248-3c1e-4354-b5d1-
+096cdf9845ab/wilplanmap.pdf.
+Lisa Webber, Deputy Director of Project Planning
+Page 6
+
+
+
+any other development standards) used for the purpose of deriving its base density, but
+can request a waiver of the minimum lot area standards to facilitate the density bonus
+project once the base density has been established and the project has qualified for the
+SDBL.
+
+Conclusion
+
+For the purposes of the SDBL, the applicable base density for a project depends on the
+available density standards in the applicable zoning ordinance, specific plan, and
+general plan land use element and the corresponding zones in the General Plan land
+use designation. In addition, the City is generally not required to approve a permitted
+use and a base density from different underlying or corresponding zones. Finally, while
+a “minimum lot area per unit” or “minimum lot area” standard may be waived for a
+qualifying SDBL project, the standard cannot be waived for the purpose of deriving the
+base density.
+
+HCD continues to be responsible for enforcing and providing guidance on state housing
+laws in California, including the SDBL. HCD may review local government actions for
+consistency with these laws and may notify the California Office of the Attorney General
+if a local government is in violation of state law. 16
+
+Please respond by August 22, 2025, to indicate actions and timelines that the City will
+take to implement HCD’s technical guidance on this matter. If you have any questions
+or need additional information, please contact Grace Wu at grace.wu@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability
+
+Attachment
+
+
+
+
+16 Gov. Code, § 65585, subd. (j).
+   Lisa Webber, Development Services Director
+   Page 7
+
+
+
+   Figure 1: City of Los Angeles Base Density Calculation Methodology
+
+
+   Within the Zoning, Specific Plan, and/or General Plan Land Use Element or Land Use Map Corresponding Zone(s):
+                           Step 1: Is there a “dwelling units per acre” density standard?
+               (Excluding the Community Plan “Plan Population and Dwelling Unit Capacity” table)
+
+
+               Yes                                                      No – Go to Step 2
+
+
+
+                                                    Within underlying zoning or corresponding zone(s):
+                                                   Step 2: Is there a “Minimum Lot Area Per Unit” or
+                                                             “Minimum Lot Area” standard?
+
+
+
+                                                       Yes                                  No – Go to Step 3
+
+
+
+                                       Base Density is the greatest
+                                       available density between:                 Step 3: Base Density is the realistic
+  Base Density is the greatest         1. Minimum lot area per unit, or            development capacity of the site
+available “dwelling units per acre”    2. If there is no minimum lot area          based on objective development
+            standard.                     per unit, minimum lot area and          standards applicable to the project.
+                                          highest density land use
+                                          permitted.

@@ -1,0 +1,1853 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 19, 2024
+
+
+
+         Riley Sholes
+         Assistant Planner
+         County of Sacramento
+         Via: sholesr@saccounty.gov
+         827 7th Street
+         Sacramento, CA 95814
+
+         Dear Riley Sholes:
+
+         RE: County of Sacramento – Longview Apartments – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request from the applicant for the 62-unit supportive housing project located at the east
+         end of Longview Drive (“Project”) in Sacramento County. The requestor and the County
+         are seeking guidance on the applicability of Assembly Bill (AB) 2162 1 to the Project,
+         including its interaction with State Density Bonus Law (SDBL)2 and the California
+         Environmental Quality Act (CEQA). 3
+
+         Question: Can a supportive housing project qualify for non-discretionary review
+         under AB 2162 on a zone that allows for other residential uses only with a
+         conditional use permit?
+
+         Yes, a supportive housing project may qualify under AB 2162 in zones that allow for
+         similar residential use types subject to a conditional use permit.
+
+         Government Code section 65583, subdivision (c)(3), provides that “Supportive housing, as
+         defined in Section 65650, 4 shall be a use by-right in all zones where multifamily and mixed
+         uses are permitted.” The question posed here hinges on the interpretation of “permitted”.
+
+
+
+1 AB 2162 refers to Section 65583 and Article 11 (commencing with 65650) of Chapter 3 of Division 1
+
+of Title 7 of the Government Code.
+2 Gov. Code, § 65915.
+3 Division 13 (commencing with Section 21000) of the Public Resources Code.
+4 Gov. Code, § 65650, subd. (a): “Supportive housing” shall have the same meaning as defined in
+
+Section 50675.14 of the Health and Safety Code.
+      Riley Sholes, Assistant Planner
+      Page 2
+
+
+      The HCD Group Home Technical Advisory (attached) provides guidance on what
+      constitutes by-right approval. According to the Technical Advisory a “by-right approval
+      means that the use cannot require a conditional use permit or other discretionary review,
+      even if a permit is required for other residential dwellings of the same type in the same
+      zone”. 5
+
+      Therefore, HCD has determined that a supportive housing project, as defined in Section
+      65650, initially qualifies under AB 2162 as a by-right approval on any site that allows for
+      multifamily or mixed uses, even if those uses would normally require a conditional use
+      permit. The Project site is zoned Business Professional Office (BP), which allows for multi-
+      family dwellings subject to Conditional Use Permit. Hence, the Project may be eligible
+      under AB 2162 for a by-right ministerial process.
+
+      Question: Can SDBL be used in conjunction with AB 2162?
+
+      Yes, a project utilizing AB 2162 may also use SDBL, including concessions and waivers.
+      Government Code section 65655, subdivision (a) states that AB 2162 shall not be
+      construed to “Preclude or limit the ability of a developer to seek a density bonus from the
+      local government pursuant to Section 65915.”
+
+      Question: Are qualified projects under AB 2162 exempt from CEQA and does that
+      exemption apply to post-entitlement permits?
+
+      Yes, projects qualifying under AB 2162 are considered ministerial and not projects subject
+      to CEQA. Government Code section 65583, subdivision (a)(4)(B) states “The permit
+      processing, development and management standards applied under [paragraph 4] shall
+      not be deemed discretionary acts within the meaning of the California Environmental
+      Quality Act.” If the Project qualifies under AB 2162, it should be processed ministerially,
+      and that ministerial process extends to all post-entitlement permits.
+
+      If you have any questions regarding the content of this letter or would like additional
+      technical assistance, please contact Bentley Regehr at bentley.regehr@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+      Attachment: HCD Group Home Technical Advisory (2022)
+
+
+5 Page 22 of the HCD Group Home Technical Advisory (2022).
+                                               December 2022
+
+
+
+
+GROUP HOME
+TECHNICAL ADVISORY
+CA DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+TABLE OF CONTENTS
+1.   Executive Summary                                                             1
+2.   Terms Used                                                                    5
+3.   Background                                                                    6
+4. Framework for Assessing if Local Land Use Policies and Practices Comply with
+State Housing Laws’ Protections of Group Homes                                     8
+     A. Do the Policies and Practices Comply with Housing Element Law and AFFH
+     Requirements?                                                             8
+     B. Do the Policies and Practices Unlawfully Discriminate Based on Disability or
+     Other Protected Characteristics?                                              12
+          i.    Intentional Discrimination                                        13
+          ii.   Discriminatory Effects                                            16
+          iii. Reasonable Accommodations                                          17
+5.   Supportive Housing and Transitional Housing Requirements                     19
+6.   State Law Provides Broader Protections Than Federal Law                      21
+7.   Common Issues In Local Ordinances That Regulate Group Homes                  22
+     A.   Definitions of Single Housekeeping Units or Single-Family Homes         22
+     B. Requirements that All Group Homes with More than Six Residents Must
+     Obtain Permits to Locate in Single-Family Zones                              24
+     C.   Retroactive Compliance                                                  25
+     D.   Spacing Requirements                                                    26
+     E. Occupancy Limits and Building, Fire, or Other Health and Safety Code
+     Requirements                                                                 28
+     F.   Requirements For Operators and Residents                                29
+     G.   Civil Actions for Operating Without a Required State License            32
+     H.   Enforcing Generally Applicable Municipal Codes and Other Laws           34
+8.   Resource Materials and State Contacts                                        34
+
+
+
+
+                                             i
+1. EXECUTIVE SUMMARY
+
+Group homes are an especially important type of housing for persons with disabilities.
+By supporting their residents’ individualized needs while providing flexible and
+affordable housing options, group homes help persons with disabilities live in
+deinstitutionalized settings that facilitate their integration into local communities.
+
+In recent years, some local governments have amended their zoning ordinances to add
+new regulations for group homes, particularly for recovery residences—group homes
+that provide housing for persons recovering from alcoholism or drug addiction. These
+amendments have raised concerns that local governments are not complying with their
+affirmative obligations under state planning and zoning laws to promote more inclusive
+communities and affirmatively further fair housing (AFFH). These amendments have
+also generated disputes and confusion over whether local governments are violating fair
+housing laws by discriminating against persons with disabilities or other protected
+characteristics.
+
+Among other concerns, local land use policies and practices can block new group
+homes from opening, force existing ones to close, and impose costs, legal fees, and
+administrative burdens that make it difficult for group homes to operate. These concerns
+arise in the context of a shortage of adequate housing for persons with disabilities,
+which is a particularly acute problem within California’s broader housing crisis.
+
+With concerns, disputes, and confusion continuing to grow, this Group Home Technical
+Advisory (Group Home TA) provides guidance on how state planning and zoning and
+fair housing laws apply when local governments attempt to regulate group homes
+through land use policies and practices. It is designed to help local governments comply
+with their obligations under these state laws, including, for example, the Planning and
+Zoning Law, 1 Housing Element Law, 2 AFFH provisions, 3 Anti-Discrimination in Land
+Use Law, 4 and the Fair Employment and Housing Act (FEHA)5 (collectively, state
+housing laws).
+
+The California Department of Housing and Community Development (HCD) is issuing
+the Group Home TA under its authority to provide guidance about housing law and
+
+
+
+
+1 Gov. Code, § 65000 et seq.
+2 Gov. Code, §§ 65580-65589.11.
+3 See, e.g., Gov. Code, §§ 8899.50, 65583, subds. (c)(5), (10).
+4 Gov. Code, § 65008.
+5 Gov. Code, § 12900 et seq.
+
+                                           1
+policy. 6 The primary intended users are local planning agencies and their staff, but
+group home operators, advocates, and residents may also benefit from this information.
+
+Contents
+
+   •   Background information about group homes and the essential role they play
+       in providing housing for persons with disabilities (pp. 6-8);
+
+   •   General guidance about overall state housing law standards that (1) require
+       local governments to remove constraints on group homes and affirmatively
+       support them, and (2) prohibit local land use policies and practices that
+       discriminate against group homeowners, operators, and residents (pp. 8-23);
+
+   •   Specific guidance about how these standards apply to common issues that
+       arise when local governments attempt to regulate group homes through local
+       land use policies and practices (pp. 23-36);
+
+   •   Lists of state government resource materials and contacts (pp. 36-37).
+
+Policy Guidance Summary
+
+The Group Home TA’s guidance for how local governments can comply with state
+housing laws regarding group homes includes the following:
+
+   •   Housing Element Law and AFFH. Assess whether a policy or practice complies
+       with Housing Element Law and AFFH requirements to avoid constraining housing
+       for persons with disabilities and to affirmatively support this housing and its
+       residents’ fair housing choices (pp. 8-12). Consider the Group Home TA’s
+       examples of specific questions to guide local governments’ analysis of these
+       issues (pp.11-12).
+
+   •   Discriminatory Purpose or Effect. Ensure that the policy or practice does not
+       discriminate based on disability or other characteristics protected by state law.
+       Apply the Group Home TA’s analysis on how to determine if a policy or practice
+       has a discriminatory purpose or effect and how to implement flexible reasonable
+       accommodation procedures that promptly and efficiently resolve accommodation
+       requests in compliance with state housing laws and regulations. (pp. 12-20).
+
+
+
+
+6 See, e.g., Health & Saf. Code, §§ 50152, 50406, subds. (e), (n), 50456, subd. (a),
+
+50459, subd. (a); Gov. Code, § 65585, subd. (a). The Group Home TA is intended to
+provide general informational guidance only. It does not constitute legal advice.
+
+                                           2
+•   Supportive and Transitional Housing. Comply with the specific protections for
+    group homes that fall within the definitions of supportive or transitional housing
+    (pp. 20-22).
+
+•   State and Federal Law Distinctions. Confirm that a policy or practice complies
+    with state housing laws even if it complies with federal law, because California
+    law provides broader and different protections than federal law (pp. 22-23).
+
+•   Definition of Single-Family Residence. Avoid restrictive definitions of single
+    housekeeping units or single-family homes that impermissibly constrain group
+    homes from locating in single-family zones. This includes, for example, avoiding
+    definitions that equate group homes with boardinghouses, require all residents to
+    share a common deed or lease, overly scrutinize residents’ living arrangements,
+    or automatically exclude group homes that are owned by for-profit businesses or
+    pay staff to help manage a home’s operations (pp. 24-25).
+
+•   Group Homes that Do Not Provide Licensable Services. Allow group homes
+    that operate as single-family residences and that do not provide licensable
+    services to locate in single-family neighborhoods, subject only to the generally
+    applicable, nondiscriminatory health, safety, and zoning laws that apply to all
+    single-family residences (pp. 25-26).
+
+•   Group Homes that Provide Licensable Services to Six or Fewer Residents.
+    Allow group homes that operate as single-family residences and that provide
+    licensable services to six or fewer residents to locate in single-family
+    neighborhoods, subject only to the generally applicable, nondiscriminatory health,
+    safety, and zoning laws that apply to all single-family residences (pp. 25-26).
+
+•   Group Homes that Provide Licensable Services to Seven or More
+    Residents. Ensure that any permitting or approval requirements for group homes
+    that provide licensable services to seven or more residents are consistent with
+    state housing laws (pp. 25-26).
+
+•   Preexisting Nonconforming Uses. Avoid retroactively applying a new zoning
+    provision to group homes that were already operating before the provision was
+    enacted (p. 27).
+
+•   Spacing Requirements. Avoid requirements for minimum spacing between
+    group homes that go beyond those the Legislature has specified for limited types
+    of licensed facilities and that conflict with state housing laws (pp. 27-29).
+
+•   Occupancy Limits and Building, Fire, or Other Health and Safety Code
+    Requirements. Apply the same, generally applicable, nondiscriminatory
+    occupancy limits and other building, fire, health, and safety requirements to
+    group homes that apply to other housing, subject to reasonable accommodation
+
+
+                                         3
+       requirements or the Legislature’s requirements for specific types of licensed
+       facilities, such as those serving persons with limited mobility (p. 29).
+
+   •   Other Requirements for Group Home Operators and Residents. Avoid the
+       other examples of special requirements for operators and residents discussed
+       that can overly constrain group homes, conflict with the duty to affirmatively
+       support this housing, and discriminate on the basis of disability and other
+       protected characteristics. Examples discussed include, among other things,
+       parking requirements, restrictions on residents or staff, neighborhood notice
+       requirements, and local law enforcement registration requirements (pp. 30-33).
+
+   •   State Administrative Procedures for Investigating Licensing Issues. Use the
+       Department of Health Care Services (DHCS) or California Department of Social
+       Services (CDSS) processes for investigating and resolving complaints that
+       unlicensed group homes are providing services that require licenses from these
+       departments (pp. 33-35).
+
+   •   Public Nuisance and Other Code Enforcement Actions. Use generally
+       applicable, nondiscriminatory laws and code enforcement procedures to
+       investigate and, if appropriate, prosecute group home operators that are creating
+       public nuisances; violating building, housing, fire, or other public health and
+       safety codes; committing fraud; or engaging in other unlawful activities (p. 36).
+
+This summary and the Group Home TA are not intended as all-inclusive guides to every
+issue that might arise when local governments attempt to regulate group homes. But by
+following the Group Home TA’s framework and considering how it applies to the
+examples of common issues, local governments can ensure that their land use policies
+and practices comply with state housing laws.
+
+Conclusion
+
+Local governments that follow the Group Home TA’s guidance can still address
+concerns about group homeowners or operators that mistreat or abuse their residents,
+engage in insurance fraud or other illegal practices, or operate their homes in unsafe
+manners or in ways that create public nuisances. But research has shown that these
+problems are limited to a small minority of group homes, with the majority of group
+homes being well managed and operating compatibly with their surrounding
+neighborhoods, while providing essential housing resources. Focusing on individual
+group homes that are problematic is more consistent with state law and helps avoid
+adopting overly broad and constraining zoning regulations for all group homes.
+
+
+
+
+                                            4
+2. TERMS USED
+
+Different laws use the term “group homes” to refer to different types of housing for
+different populations covered by different regulatory schemes. The following terms refer
+to various types of residences in which unrelated persons share the residence:
+
+   •   Shared Living Residences—any housing shared by unrelated persons,
+       including, for example, group homes, recovery residences, some community care
+       residential facilities, some supportive and transitional housing, emergency
+       shelters, boardinghouses, dormitories, etc.
+
+   •   Group Homes—housing shared by unrelated persons with disabilities that
+       provide peer and other support for their residents’ disability related needs and in
+       which residents share cooking, dining, and living areas, and may, in some group
+       homes, participate in cooking, housekeeping, and other communal living
+       activities.
+
+   •   Licensed Group Homes—group homes that provide services that require
+       licenses under state law.
+
+   •   Unlicensed Group Homes—group homes that may provide some supportive
+       services for their residents but not services that require licenses under state law.
+
+   •   Recovery Residences or Sober Living Homes—group homes for persons
+       recovering from alcoholism or drug addiction in which the residents mutually
+       support each other's recovery and sobriety and that do not require licenses from
+       DHCS because they do not provide alcoholism or drug addiction recovery and
+       treatment services.
+
+   •   Alcohol or Other Drug (AOD) Facilities—residential facilities that must obtain
+       licenses from DHCS because they provide alcoholism or drug addiction recovery
+       and treatment services. 7
+
+   •   Community Care Residential Facilities—residential facilities that must obtain
+       licenses from CDSS because they provide 24-hour nonmedical care and
+       supervision for adults or children. 8
+
+
+
+
+7 See, e.g., Health & Saf. Code, § 11834.02.
+8 See, e.g., Health & Saf. Code, §§ 1502, 1568.01, 1569.2, subds. (o)-(p).
+
+
+                                             5
+3. BACKGROUND
+
+Among the many reasons that group homes are essential housing for persons with
+disabilities is the support these homes provide for their residents’ individualized,
+disability-related needs. This includes the peer support that group homes encourage
+their residents to provide to each other when sharing a home, as well as the services
+these homes can provide. These services range from basic support for independent
+living to more intensive care and supervision services that require state licenses. By
+providing peer support, services, or both, group homes help their residents live in
+deinstitutionalized settings and integrate into local communities. For these and other
+reasons, as the California Legislature has recognized, “‘persons with disabilities . . . are
+significantly more likely than other persons to live with unrelated persons in group
+[homes].’”9
+
+Because group homes are such important housing resources for persons with
+disabilities, state law not only protects them from discriminatory land use policies and
+practices, it mandates that local governments affirmatively support group homes
+locating in their communities. 10 Federal law also protects group homes, leading courts
+across the country to conclude that “‘encourag[ing] and support[ing] handicapped
+persons' right to live in a group home in the community of their choice’” is “‘the public
+policy of the United States.’” 11
+
+The communities of choice for many group homes are often single-family
+neighborhoods. Recovery residences, for example, often locate in single-family
+neighborhoods because this helps “‘recovering addicts’ reintegration into society and
+redevelopment of self-sufficiency.”12
+
+But “for every group home that is successfully established, experts estimate that
+another closes or never opens because of community opposition.” 13 The legislative
+history of the Fair Employment and Housing Act (FEHA), Government Code section
+12900 et seq., and federal Fair Housing Act (“FHA”), 42 U.S.C. section 3601 et seq.,
+show that the Legislature and Congress considered local governments’ longstanding
+
+
+
+9 Broadmoor San Clemente Homeowners Ass’n v. Nelson, (1994) 25 Cal.App.4th 1, 6,
+
+quoting Stats. 1993, ch. 1277, § 18; 12 West Cal.Legis.Services, p. 6038.
+10 See, e.g., Gov. Code, §§ 8899.50, 65583, subds. (a)(1), (a)(7), (c)(10).
+11 Broadmoor, 25 Cal.App.4th at 9, quoting Rhodes v. Palmetto Pathway Homes, Inc.
+
+(South Carolina 1991) 303 S.C. 308, 400 S.E.2d 484, 486.
+12 Laurie C. Malkin, Troubles at the Doorstep: The Fair Housing Amendments Act of
+
+1988 and Group Homes for Recovering Substance Abusers (1995) 144 U. Pa. L. Rev.
+757, 772-73 & nn. 55-60; Oxford House, Inc. v. Township of Cherry Hill (“Cherry Hill”)
+(D. New Jersey 1992) 799 F.Supp. 450, 453.
+13 Malkin, supra, n. 12 at 795 & n. 171.
+
+
+                                             6
+practices of using land use ordinances to exclude group homes when amending these
+civil rights laws to protect housing for persons with disabilities. 14
+
+Local opposition to group homes is often based on fears that they will disrupt
+neighborhoods, increase crime rates or drug use, generate excessive traffic and
+parking, or lower property values. But numerous studies, representing decades of
+research, have found that fears like these are unfounded. 15 In fact, studies have shown
+that group homes are often the best maintained properties on their blocks and function
+so much like other homes “that most neighbors within one to two blocks . . . do not even
+know that a group home . . . is nearby.”16
+
+This is not to minimize very real problems that have arisen at some group homes. In
+particular, some local governments have raised concerns based on problems at some
+recovery residences operated by unscrupulous owners seeking to maximize their profits
+at the expense of their residents’ wellbeing. These problems have included neglecting
+and abusing residents, engaging in insurance fraud, and creating public nuisances. 17
+
+While these are very real concerns, the examples of exploitive, abusive, and illegal
+practices appear to be limited to a small minority of recovery residences. 18 Moreover, in
+contrast to laws specially designed to address fraud, violations of state licensing laws,
+or health and safety violations and public nuisances, local land use policies are often
+too blunt and too broadly sweeping for properly addressing these problems. They risk
+
+
+
+
+14 See, e.g., Broadmoor, supra, 25 Cal. App. 4th at 6, quoting Stats.1993, ch. 1277, §
+
+18; 12 West Cal.Legis.Services, p. 6038; H.R. Rep. 100-711, 23-24, reprinted in 1988
+U.S.C.C.A.N. 2173, 2184-2185.
+15 See, e.g., Malkin, supra, n. 12 at 797-798 & nn. 181-184; Council of Planning
+
+Librarians, There Goes the Neighborhood - A Summary of Studies Addressing the Most
+Often Expressed Fears about the Effects Of Group Homes on Neighborhoods in which
+They Are Placed (Bibliography No. 259) (Apr. 1990); Senate Comm. on Health Analysis
+of SB 786, Feb. 17, 2017 at 3, 5.
+16 Daniel Lauber, A Real LULU: Zoning for Group Homes and Halfway Houses Under
+
+The Fair Housing Amendments Act of 1988 (Winter 1996) 29 J. Marshall L. Rev. 369,
+384-385 & n. 50-52.
+17 See, e.g., Samantha Schmidt, Drug Rehab ‘Mogul’ Convicted of Sexually Assaulting
+
+7 Female Patients at Treatment Centers, Washington Post, Feb. 27, 2018,
+https://www.washingtonpost.com/news/morning-mix/wp/2018/02/27/drug-rehab-mogul-
+convicted-of-sexually-assaulting-7-female-patients-at-treatment-centers/; Danielle L.
+Liberman, Current Development, Not Too Sunny in the Sunshine State: The Need to
+Improve Florida’s Opioid Abuse Treatment Centers to Combat the National Public
+Health Crisis, 31 Geo. J. Legal Ethics 723, 735-738 (2018).
+18 See, e.g., Government Accounting Office, Report to Congressional Requesters:
+
+Substance Use Disorder – Information on Recovery Housing Prevalence, Selected
+States’ Oversight, and Funding (“GAO Report”) (March 2018) at 7-9 & n.18, available at
+https://www.gao.gov/assets/gao-18-315.pdf; see also studies cited supra, nn. 15-16.
+
+                                            7
+continuing the history of discrimination against group homes by doing more to constrain
+and exclude well-functioning ones than they do to abate problems at dysfunctional
+ones.
+
+Before local governments amend their zoning ordinances to regulate group homes, they
+should first determine if the proposed amendments will comply with state housing laws.
+They should apply the Group Home TA’s framework and consider its examples of
+common issues that arise when local governments attempt to use land use laws to
+regulate group homes.
+
+4. FRAMEWORK FOR ASSESSING IF LOCAL LAND USE POLICIES AND
+   PRACTICES COMPLY WITH STATE HOUSING LAWS’ PROTECTIONS
+   OF GROUP HOMES
+
+Confirming that local land use policies and practices for group homes comply with state
+housing laws involves assessing whether they comply with requirements for local
+governments to affirmatively support this housing in their communities and whether they
+discriminate on the basis of disability or other protected characteristics. Both
+assessments are necessary to confirm that a local land use policy or practice complies
+with state housing laws. Although the Group Home TA discusses Housing Element Law
+and AFFH requirements before fair housing laws, local governments can assess their
+compliance with these laws in any order.
+
+   A. DO THE POLICIES AND PRACTICES COMPLY WITH HOUSING ELEMENT
+      LAW AND AFFH REQUIREMENTS?
+California law has long promoted more inclusive communities, such as by requiring local
+governments to protect and promote housing for persons with special needs, including,
+among others, lower income households and persons with disabilities or who have
+experienced homelessness. 19 Housing Element Law requires local governments to
+analyze the special housing needs of these populations and develop policies and
+programs to address those needs. 20
+
+As of January 1, 2019, AB 686 built upon these existing obligations to broadly require all
+state or local governments involved in programs or activities related to housing or
+
+
+
+
+19 See, e.g., Gov. Code, § 65583, subds. (a)(1), (a)(7); Housing Elements Building
+
+Blocks, available at https://www.hcd.ca.gov/planning-and-community-
+development/housing-elements/building-blocks.
+20 See, e.g., Gov. Code, § 65583, subds. (a)(7), (c).
+
+
+                                            8
+community development to affirmatively further fair housing and take no actions
+inconsistent with this requirement. 21 The Legislature defined AFFH, to mean:
+
+        taking meaningful actions, in addition to combating discrimination, that
+        overcome patterns of segregation and foster inclusive communities free
+        from barriers that restrict access to opportunity based on protected
+        characteristics. Specifically, affirmatively furthering fair housing means
+        taking meaningful actions that, taken together, address significant
+        disparities in housing needs and in access to opportunity, replacing
+        segregated living patterns with truly integrated and balanced living
+        patterns, transforming racially and ethnically concentrated areas of
+        poverty into areas of opportunity, and fostering and maintaining
+        compliance with civil rights and fair housing laws. 22
+
+In AB 686, the Legislature also amended Housing Element Law to include new, specific
+AFFH requirements starting in 2021 for local governments when they prepare and
+implement housing elements. These requirements include, for example, identifying and
+addressing fair housing issues; analyzing integration and segregation patterns;
+analyzing patterns and trends of disparate housing needs and disproportionate access
+to housing opportunities; and setting specific goals, adopting responsive policies, and
+taking effective actions that will affirmatively further fair housing. 23
+
+Taken together, the earlier Housing Element Law provisions and the newer AFFH
+requirements clarify local governments’ affirmative responsibilities regarding group
+homes. As the historical record and California and federal legislative histories confirm,
+local land use laws have too often treated group homes as problems to be avoided or
+restricted. Local governments’ obligations under state law have been misunderstood as
+being limited to avoiding discrimination and meeting a minimum threshold for fulfilling
+the locality’s share of regional housing needs for persons with disabilities.
+
+But local governments must go beyond these basic requirements by actively supporting
+the inclusion of group homes in their communities and removing constraints on this
+housing. This includes, for example, supporting the housing choices of individuals with
+protected characteristics. 24 Persons with disabilities have the right to live in accessible
+housing in the most integrated setting appropriate to their needs, which includes having
+access to disability-related support and services that individuals need to live in
+
+
+
+
+21 Gov. Code, § 8899.50, subd. (a)(2).
+22 Id. at (a)(1).
+23 See, e.g., Gov. Code, § 65583, subd. (c)(10).
+24 See, e.g., Gov. Code, § 65583, subd. (c)(10)(A)(iv); 24 C.F.R § 5.151 (2022).
+
+
+                                             9
+deinstitutionalized settings. 25 Local governments must also avoid policies that
+unjustifiably displace group home occupants from their homes. 26
+
+HCD has previously issued guidance about local governments’ obligations under older
+Housing Element Law provisions and the more recently enacted AFFH provisions.
+These guidance documents are available through links listed under the Planning and
+Community Development tab on HCD’s website. 27 Local governments should read the
+detailed guidance provided in these documents, which include:
+
+   •   Affirmatively Furthering Fair Housing: Guidance for All Public Entities and for
+       Housing Elements (April 2021 Update), 28
+   •   Housing Element Building Blocks, 29
+   •   Housing Element Building Blocks – Persons with Disabilities, 30 and
+   •   Housing Element Building Blocks – Constraints for People with Disabilities. 31
+
+HCD’s earlier guidance documents discuss in more detail how local governments can
+assess their compliance with Housing Element Law and AFFH requirements. The
+following types of questions can help local jurisdictions assess if they are meeting their
+affirmative obligations to protect and promote the housing rights of persons with
+disabilities: 32
+
+   •   Has the jurisdiction analyzed the special housing needs of persons with
+       disabilities by including in this analysis, among other things:
+       o data about the number of persons and households in this group?
+       o quantifiable and qualitative descriptions of their housing needs and
+          descriptions of existing resources or programs for them?
+       o assessments of unmet needs?
+
+
+   •   Has the jurisdiction analyzed and explained how it will meet those needs
+       by, among other things:
+
+
+
+
+25 See, e.g., Olmstead v. Zimring (1999) 527 U.S. 581, 602, 607; 24 C.F.R. § 5.151
+
+(2022); 28 C.F.R. § 35.130(d), (e)(1) (2022).
+26 Gov. Code. § 65583, subd. (c)(10)(A)(v).
+27 Available at https://www.hcd.ca.gov/.
+28 Available at http://www.hcd.ca.gov/community-
+
+development/affh/docs/AFFH_Document_Final_4-27-2021.pdf.
+29 Available at https://www.hcd.ca.gov/planning-and-community-development/housing-
+
+elements/building-blocks.
+30 Available at https://www.hcd.ca.gov/planning-and-community-development/housing-
+
+elements/building-blocks/people-disabilities-including-developmental-disabilities.
+31 Available at https://www.hcd.ca.gov/planning-and-community-development/housing-
+
+elements/building-blocks/constraints-people-disabilities.
+32 See, e.g., Gov. Code, §§ 8899.50, 65583, subds. (a)(4), (7), (c)(3), (5), (10).
+
+
+                                            10
+       o identifying potential programs, policy options, and resources?
+       o discussing local resources and service providers?
+       o identifying housing types that can accommodate persons with disabilities?
+       o developing housing programs or strategies to address identified needs?
+   •   Has the jurisdiction analyzed and removed constraints on housing for
+       persons with disabilities by, among other things:
+       o analyzing potential governmental constraints to the development,
+          improvement, and maintenance of housing for persons with disabilities?
+       o examining ordinances, policies, or practices that are unjustifiably having the
+          effect of constraining or excluding housing variety and availability for persons
+          with disabilities?
+       o providing reasonable accommodations for persons with disabilities through
+          programs that remove constraints?
+       o ensuring that its reasonable accommodation procedures comply with state
+          fair housing laws and regulations?
+       o in general, demonstrating local efforts to remove constraints?
+
+
+   •   Has the jurisdiction met its AFFH obligations for persons with disabilities
+       by, among other things:
+       o actively supporting their integration into the local community?
+       o actively supporting their fair housing rights, including their right to choose
+           where to live and to access housing opportunities with services and support
+           for their disabilities?
+       o considering whether policies and practices are displacing persons with
+           disabilities from their homes?
+       o examining and redressing segregated living patterns?
+       o fostering the integration of persons with disabilities into the community?
+       o conducting outreach and education in the community to support the fair
+           housing rights of persons with disabilities?
+       o identifying and analyzing any policies or practices that have the purpose or
+           effect of discriminating against persons with disabilities, perpetuating their
+           segregation, or impeding their integration?
+       o examining any justifications for policies or practices with discriminatory effects
+           and identifying and implementing less discriminatory alternatives?
+
+
+   •   Has the jurisdiction conducted individualized, evidence- and data-based
+       research and analysis, including for:
+       o any specific benefits that it believes a land use policy or practice regarding
+          group homes will provide to persons with disabilities?
+       o any specific health or safety issues that a jurisdiction believes justify land use
+          polices or practices regarding group homes? 33
+
+
+
+
+33 See, e.g., Cal. Code Regs., tit. 2, §§ 12042, subd. (f), 12179, subd. (b)(3).
+
+
+                                             11
+   B. DO THE POLICIES AND PRACTICES UNLAWFULLY DISCRIMINATE BASED
+      ON DISABILITY OR OTHER PROTECTED CHARACTERISTICS?
+
+In addition to the laws requiring local governments to affirmatively support group homes,
+state fair housing laws prohibit jurisdictions from discriminating against them. 34 For
+example, the Anti-Discrimination in Land Use Law, Government Code section 65008,
+prohibits discriminatory local land use policies and practices and declares any such
+discriminatory policies or practices null and void. 35 This includes discrimination based
+on any characteristic protected by the FEHA and other state civil rights laws. 36
+
+Disability rights protections extend to persons with disabilities, persons regarded or
+treated as having, or having had, a disability, or persons with a record or history of a
+disability. 37 Complying with fair housing requirements for individuals with certain types
+of disabilities, such as individuals with developmental disabilities, will not excuse
+unlawful discrimination against other individuals with other types of disabilities, such as
+individuals recovering from alcoholism or drug addiction. 38
+
+The Anti-Discrimination in Land Use Law also includes protections not specified in the
+FEHA, such as prohibitions against land use policies and practices that discriminate
+against housing for “persons or families of very low, low, moderate, or middle income.”39
+Therefore, depending on a group home’s intended occupants, jurisdictions must
+
+
+
+
+34 Fair housing laws protect group homes. See, e.g., Cal. Code Regs., tit. 2, § 12005,
+
+subd. (o); Lakeside Resort Enterprises, LP v. Board of Sup's of Palmyra Twp. (3d Cir.
+2006) 455 F.3d 154, 159–60. See also infra at pp. 22-23 (explaining that while federal
+fair housing cases can provide important guidance for interpreting state fair housing
+laws, California’s fair housing and disability rights laws provide broader protections than
+federal laws).
+35 Gov. Code, § 65008, subds. (a), (b)(1). The FEHA similarly prohibits discriminatory
+
+land use policies and practices. Gov. Code, § 12955, subd. (l); Cal. Code Regs., tit. 2,
+§§ 12161, 12162. See also Government Code section 11135 (prohibiting discrimination
+by recipients of state funding or financial assistance).
+36 See, e.g., Gov. Code, §§ 65008, subds. (a)(1)(A), (b)(1)(B)(i), 65583, subd. (c)(5).
+37 Gov. Code, § 12926, subds. (j), (m); 42 U.S.C. § 3602(h); Joint Statement of the
+
+Department of Housing and Urban Development and the Department of Justice – State
+and Local Land Use Laws and Practices and the Application of the Fair Housing Act
+(Nov. 10, 2016) at 6 (“HUD – DOJ 2016 Jt. Stmt. on Local Land Use Laws”), available
+at https://www.justice.gov/opa/file/912366/download.
+38 Recovering from alcoholism or drug addiction is a disability protected by fair housing
+
+laws. See, e.g., City of Edmonds v. Washington State Bldg. Code Council, 18 F.3d 802,
+803 (9th Cir.1994), aff'd City of Edmonds v. Oxford House (1995) 514 U.S. 725; Cherry
+Hill, supra, 799 F.Supp. at 459; HUD – DOJ 2016 Jt. Stmt. on Local Land Use Laws at
+6.
+39 Gov. Code, § 65008, subds. (a)(3), (b)(1)(C).
+
+
+                                            12
+consider whether their policies discriminate against not only persons with disabilities,
+but, for example, very low- or low income households if the residence is designed for
+persons with disabilities who have experienced homelessness.
+
+State fair housing laws protect not only group homes’ occupants, but other persons
+associated with them or other persons who may be harmed by discriminatory land use
+policies and practices, such as group homes’ operators, owners, and landlords. 40
+
+Identifying and correcting discriminatory land use policies and practices requires
+understanding three general types of discrimination:
+
+          1. intentional discrimination,
+          2. discriminatory effects, and
+          3. failure to provide reasonable accommodations. 41
+
+     i. INTENTIONAL DISCRIMINATION
+
+Intentional discrimination includes “an act or failure to act” in which any protected
+characteristic “is a motivating factor . . . even though other factors may have also
+motivated the practice.” 42 Unlike employment discrimination law, in which plaintiffs must
+prove that a defendant’s action or inaction was substantially motivated by a
+discriminatory purpose, under fair housing law, a “housing practice” can be found illegal
+if it “demonstrates an intent to discriminate in any manner.”43
+
+Intentional discrimination is best understood as purposeful discrimination because it
+“does not require proof of personal prejudice or animus.”44 Even if local officials are not
+hostile towards persons with disabilities or act with benign intents to help them, a
+discriminatory policy or practice can still be unlawful. It is also unlawful for government
+officials to acquiesce to members of the public’s prejudicial views even if the officials
+themselves do not share those views. 45
+
+Establishing intentional discrimination often involves evidence that persons with
+protected characteristics were treated worse than others without those
+
+
+
+
+40 Gov Code § 65008, subds. (a)(1)(A), (b)(1)(B)(ii), incorporating Gov. Code, § 12955,
+
+subd. (m).
+41 Although these are some of the most common, general types of discrimination issues
+
+that arise with local land use policies and practices, this is not an exhaustive list. See,
+e.g., Cal. Code Regs., tit. 2, §§ 12161-62 (listing more detailed examples).
+42 Gov. Code, § 12955.8; Harris v. City of Santa Monica (2013) 56 Cal.4th 203, 217-
+
+218; Cal. Code Regs., tit. 2, § 12041, subd. (b).
+43 Gov. Code, § 12955.8.
+44 Cal. Code Regs., tit. 2, § 12041, subd. (b).
+45 Cal. Code Regs., tit. 2, § 12161, subd. (c).
+
+
+                                            13
+characteristics. But this is only one way to prove discrimination. 46 Intentional
+discrimination does not require “the existence of a similarly situated entity who or
+which was treated better. . . .” 47 A local land use policy or practice that “inflicts
+collateral damage by harming some, or even all, individuals from a favored group in
+order to successfully harm members of a disfavored class does not cleanse the taint
+of discrimination.” 48 Sometimes it “simply underscores the depth of the defendant’s”
+discriminatory intent. 49
+
+Intentional discrimination can be established through facial discrimination, direct
+evidence, or circumstantial evidence.
+
+            F ACIAL D ISCRIMINATION
+
+Facially discriminatory laws or policies explicitly regulate housing or take an adverse
+action based on a protected characteristic. 50 Local governments can engage in facial
+discrimination even when a law or policy does not expressly refer to, for example, group
+homes or persons with disabilities. “Proxy discrimination is a form of facial
+discrimination” in which a jurisdiction:
+
+       enacts a law or policy that treats individuals differently on the basis of
+       seemingly neutral criteria that are so closely associated with the
+       disfavored group that discrimination on the basis of such criteria is,
+       constructively, facial discrimination against the disfavored group. For
+       example, discriminating against individuals with gray hair is a proxy for
+       age discrimination because the fit between age and gray hair is sufficiently
+       close. 51
+
+To avoid liability for a law or policy that facially discriminates against persons with
+disabilities, a local government must show that the policy:
+
+       (1) either (a) actually benefits persons with disabilities or (b) is justified by
+       individualized safety concerns raised by the persons the policy affects, and
+
+
+
+
+46 Pacific Shores Properties, LLC v. City of Newport Beach (9th Cir. 2013) 730 F.3d
+
+1142, 1158-1159.
+47 Id. at 1158.
+48 Id. at 1159.
+49 Id. See also id. at 1158-1162 & n. 23.
+50 Cal. Code Regs., tit. 2, § 12040, subd. (c).
+51 Pacific Shores Properties, 730 F.3d at 1160 n. 23, internal quotations and citations
+
+omitted.
+
+                                              14
+       (2) is “the least restrictive means of achieving” one or both of these goals. 52
+
+These justifications for facial discrimination are “extremely narrow exception[s],” and
+jurisdictions should be wary of relying on them. 53 Jurisdictions must support them with
+at least, if not more than, the specific and thorough analysis and evidence required by
+Housing Element Law, including its AFFH provisions. Generalized concerns or ones
+based on stereotypes will not suffice. 54 Jurisdictions should also consider less
+discriminatory alternatives. 55 And in light of jurisdictions’ obligations to “protect[] existing
+residents from displacement” and otherwise affirmatively further fair housing, laws or
+policies that displace group home occupants from their current, chosen residences
+warrant especially thorough scrutiny. 56
+
+            D IRECT EVIDENCE
+
+Direct evidence includes written or oral statements showing in themselves that a
+protected characteristic was a motivating factor in a local jurisdiction’s decision. Direct
+evidence can itself establish a violation. The affirmative defenses for facial
+discrimination claims do not apply to direct evidence claims. 57
+
+            C IRCUMSTANTIAL E VIDENCE
+
+Even when policies or statements in themselves do not establish a discriminatory intent,
+local land use policies and practices can still be found discriminatory based on
+circumstantial evidence, which can include: (1) the policy’s or practice’s impact, (2) its
+historical background, (3) the more recent, specific sequence of events leading up to it,
+(4) departures from usual procedures, (5) departures from usual substantive standards,
+and (6) the legislative or administrative history. 58
+
+
+
+
+52 Cal. Code Regs., tit. 2, §§ 12042, subd. (f), 12161, subd. (d); Larkin v. State of Mich.
+
+Dept. of Social Services (6th Cir. 1996) 89 F.3d 285, 290.
+53 Dothard v. Rawlinson (1977) 433 U.S. 321, 334; Bangerter v. Orem City Corp. (10th
+
+Cir. 1995) 46 F.3d 1491, 1504; see also Koire v. Metro Car Wash (1985) 40 Cal.3d 24,
+31 nn. 7, 8 (explaining that public policy exceptions to Unruh Act’s prohibitions of
+discrimination are “rare” and “should be carefully and narrowly construed”).
+54 Larkin, 89 F.3d at 291-292 (rigorously examining and rejecting an agency’s
+
+justifications and evidence for spacing and community notice requirements for group
+homes in holding that they violate the FHA).
+55 Cal. Code Regs., tit. 2, § 12042, subd. (f).
+56 See, e.g., Gov. Code, § 65583, subds. (c)(10)(A)(iv), (v).
+57 See, e.g., Cal. Code Regs., tit. 2, § 12042, subds. (c)-(e).
+58 HUD – DOJ 2016 Jt. Stmt. on Local Land Use Laws at 4, citing Village of Arlington
+
+Heights v. Metro. Hous. Dev. Corp. (1977) 429 U.S. 252, 265-68.
+
+                                               15
+These factors are not the only ones that may be considered. 59 And “very little evidence”
+is needed to “raise a genuine issue” of a discriminatory intent. 60 Procedural or
+substantive departures from AFFH or housing element requirements when regulating
+group homes would be relevant evidence to consider in assessing if local officials acted
+for discriminatory purposes.
+
+         ii.      DISCRIMINATORY EFFECTS
+
+Even if a local government has not acted with a discriminatory purpose, its land use
+policies or practices can be found unlawful if they have an unjustified discriminatory
+effect. A discriminatory effect is generally established through statistical evidence
+showing that a policy or practice actually or predictably results in a disparate impact on
+a group of persons with protected characteristics or that it perpetuates segregation. 61
+
+If a local land use practice is found to have a discriminatory effect, a jurisdiction can
+avoid liability if it shows there is a legally sufficient justification for its policy or practice. 62
+A jurisdiction must establish each of the following:
+
+               (1) The practice is necessary to achieve one or more substantial,
+               legitimate, nondiscriminatory purposes;
+               (2) The practice effectively carries out the identified purpose;
+               (3) The identified purpose is sufficiently compelling to override the
+               discriminatory effect; and
+               (4) There is no feasible alternative practice that would equally or better
+               accomplish the identified purpose with a less discriminatory effect. 63
+
+Generalized or hypothetical analysis of these elements will not suffice. They must be
+“supported by evidence.” 64
+
+To comply with Housing Element Law, including its AFFH provisions, a jurisdiction
+should not wait for group home occupants or operators to bring discriminatory effects
+claims but should research on its own whether its policies or practices have
+discriminatory effects on these residences. If so, the jurisdiction should also complete
+the evidence-based analysis needed to determine whether there are legally sufficient
+
+
+
+
+59 Pacific Shores Properties, 730 F.3d at 1159.
+60 Id.; Gov. Code, § 12955.8; Cal. Code Regs., tit. 2, § 12041, subd. (b).
+61 Cal. Code Regs., tit. 2, § 12060, subd. (b).
+62 Cal. Code Regs., tit. 2, § 12062, subd. (b).
+63 Id.
+64 Cal. Code Regs., tit. 2, § 12062, subd. (c).
+
+
+                                                     16
+justifications for these discriminatory policies or practices, including analyzing less
+discriminatory alternatives.
+
+    iii.      REASONABLE ACCOMMODATIONS
+
+Discrimination can also arise from a jurisdiction failing “to make reasonable
+accommodations in rules, policies, practices, or services when these accommodations
+may be necessary to afford a disabled person equal opportunity to use and enjoy a
+dwelling.” 65 A request for a reasonable accommodation may only be denied if:
+
+           (1) The individual on whose behalf the accommodation was requested is
+           not an individual with a disability;
+
+           (2) There is no disability-related need for the requested accommodation
+           (in other words, there is no [connection] between the disability and the
+           requested accommodation);
+
+           (3) The requested accommodation would constitute a fundamental
+           alteration of the services or operations of the person who is asked to
+           provide the accommodation;
+
+           (4) The requested accommodation would impose an undue financial and
+           administrative burden on the person who is asked to provide the
+           accommodation; or
+
+           (5) The requested accommodation would constitute a direct threat to the
+           health or safety of others (i.e., a significant risk of bodily harm) or would
+           cause substantial physical damage to the property of others, and such
+           risks cannot be sufficiently mitigated or eliminated by another reasonable
+           accommodation . . . . 66
+
+Three common issues, among others, can arise when group home operators or
+occupants request reasonable accommodations in local land use policies and practices:
+
+   1. While a jurisdiction should adopt a formal reasonable accommodations
+      process so that, among other reasons, the public knows how to request
+      accommodations, these processes should be flexible enough to promptly
+      and efficiently resolve accommodations requests without creating
+      unnecessary procedural barriers. 67
+
+
+
+
+65 Gov. Code, § 12927, subd. (c)(1).
+66 Cal Code Regs., tit. 2, § 12179.
+67 See, e.g., id. at §§ 12176, subd. (c), 12178.
+
+
+                                                 17
+       These processes should allow group home operators to request reasonable
+       accommodations “at any time . . . while seeking or enjoying a housing
+       opportunity,” including, for example, when: (1) considering whether to buy or
+       lease a home; (2) filing a permit application, or (3) responding to allegations they
+       have violated a zoning code or other ordinance. 68 If local governments are
+       repeatedly denying accommodation requests or delaying resolving them, they
+       should analyze whether this is due to the requestors failing to provide sufficient
+       information and support or to procedures erecting impermissible barriers to
+       accommodations. 69
+
+   2. “‘[I]n most cases, an individual’s medical records or detailed information
+      about the nature of a person’s disability is not necessary’” to establish that
+      a person has a disability or that this disability requires a reasonable
+      accommodation in a land use policy or practice. 70 A reliable third party with
+      knowledge of a person’s disabilities can usually provide sufficient information for
+      assessing a request for an accommodation in a local land use policy or
+      practice. 71 For example, it is well established that persons recovering from
+      alcoholism or drug addiction have disabilities and that recovery residences
+      support their recoveries. Thus, information provided by a recovery residence
+      operator, such as its occupancy or other policies, for example, should generally
+      suffice to establish its occupants have disabilities and the justifications for the
+      requested accommodations, allowing local officials to assess the request without
+      probing into the occupants’ private medical records or histories. 72
+
+
+
+
+68 See, e.g., id. at § 12176, subd. (f).
+69 See, e.g., id. at § 12177; see also these examples of reasonable accommodation
+
+ordinances: Oakland Mun. Code, ch. 17.131, available at
+https://library.municode.com/ca/oakland/codes/planning_code?nodeId=TIT17PL_CH17.
+131REACPOPR; Model Ordinance for Providing Reasonable Accommodation Under
+Federal and State Fair Housing Laws (“Model Reasonable Accommodation
+Ordinance”), Mental Health Advocacy Services, Inc. (September 2003), available at
+https://www.hcd.ca.gov/community-development/building-blocks/program-
+requirements/address-remove-mitigate-
+constraints/docs/model_reasonable_accomodation_ordinance.pdf.
+70 Supplement to Initial Statement of Reasons for FEHC’s Fair Housing Regulations at
+
+26, quoting HUD DOJ May 17, 2004 Joint Statement on Reasonable Accommodations,
+available at https://www.dfeh.ca.gov/wp-
+content/uploads/sites/32/2019/07/FairHousingReg-
+SupplementInitialStatementReasons.pdf.
+71 Cal. Code Regs., tit. 2, § 12178.
+72 Id; Regional Economic Community Action Program, Inc. v. City of Middletown (2d Cir.
+
+2002) 294 F.3d 35, 47-48 & n.3, superseded on other grounds as stated in Brooker v.
+Altoona Housing Authority (W.D. Penn 2013) 2013 WL 2896814 at *9 n. 8.
+
+                                            18
+   3. Denials of reasonable accommodation requests must be based on
+      individualized assessments, and specific evidence, not generalized or
+      speculative concerns about group homes or persons with disabilities.
+      The state’s fair housing regulations provide specific guidance about the type of
+      evidence required to meet this standard. 73
+
+5. SUPPORTIVE HOUSING AND TRANSITIONAL HOUSING
+   REQUIREMENTS
+
+If a group home operates in ways that fall within the statutory definitions of supportive
+housing or transitional housing, jurisdictions must also comply with Housing Element
+Law’s specific protections of these types of housing. This section summarizes these
+protections, which are explained more fully in other HCD guidance documents,
+including:
+
+   •   Housing Accountability Act Technical Assistance Advisory (Sep. 15, 2020), 74
+   •   Housing Element Building Blocks – Zoning for a Variety of Housing Types, 75
+   •   Senate Bill 2 – Legislation Effective January 1, 2008: Local Planning and
+       Approval for Emergency Shelters and Transitional and Supportive Housing (Apr.
+       10, 2013 update), 76 and
+   •   Transitional and Supportive Housing, Chapter 183, Statutes of 2013 (SB 745)
+       (Apr. 24, 2014). 77
+
+Supportive Housing Definition. Government Code section 65582, subdivision (g),
+defines supportive housing to mean housing that:
+
+   •   has no limit on the length of stay;
+
+
+
+
+73 Cal. Code Regs., tit 2, § 12179.
+74 Available at https://www.hcd.ca.gov/community-development/housing-
+
+element/housing-element-memos/docs/hcd-memo-on-haa-final-sept2020.pdf.
+75 Available at https://www.hcd.ca.gov/planning-and-community-development/housing-
+
+elements/building-blocks/zoning-variety-of-housing-types.
+76 Available at https://www.hcd.ca.gov/community-development/housing-
+
+element/housing-element-memos/docs/sb-2-combined-update-mc-a11y.pdf.
+77 Available at https://www.hcd.ca.gov/community-development/housing-
+
+element/housing-element-memos/docs/sb745memo042414.pdf.
+
+                                             19
+   •   is linked to onsite or offsite services that assist residents in improving their health
+       status, retaining the housing, and maximizing their ability to live and, where
+       possible, work in the community; and
+
+   •   is occupied by the “target population,” which “means persons with low incomes
+       who have one or more disabilities, including mental illness, HIV or AIDS,
+       substance abuse, or other chronic health condition, or individuals eligible for
+       services provided pursuant to the Lanterman Developmental Disabilities Services
+       Act . . . and may include, among other populations, adults, emancipated minors,
+       families with children, elderly persons, young adults aging out of the foster care
+       system, individuals exiting from institutional settings, veterans and homeless
+       people.” 78
+
+Transitional Housing Definition. Government Code section 65582, subdivision (j),
+defines “transitional housing” to mean “buildings configured as rental housing
+developments, but operated under program requirements that require the termination of
+assistance and recirculating of the assisted unit to another eligible program recipient at
+a predetermined future point in time that shall be no less than six months from the
+beginning of the assistance.” Therefore, in contrast to supportive housing, transitional
+housing may limit the length of stay, is not required to provide supportive services
+(though may be linked to them) and is not limited to residents within the “target
+population.”
+
+Key Protections for Supportive and Transitional Housing. If a group home operates
+in ways that qualify it as either supportive or transitional housing, jurisdictions must
+comply with Housing Element Law’s additional protections for these types of housing.
+
+This includes the requirement that supportive and transitional housing “shall be
+considered a residential use of property and shall be subject only to those
+restrictions that apply to other residential dwellings of the same type in the same
+zone.” 79 In other words, transitional housing and supportive housing are permitted in all
+zones allowing residential uses and are not subject to any restrictions (e.g., occupancy
+limit) not imposed on similar dwellings (e.g., single-family home, apartments) in the
+same zone in which the transitional housing and supportive housing is located. For
+example, transitional housing located in an apartment building in a multifamily zone is
+permitted in the same manner as an apartment building in the same zone, and
+supportive housing located in a single-family home in a single-family zone is permitted
+in the same manner as a single-family home in the same zone.
+
+
+
+
+78 Gov. Code, § 65582, subd. (i).
+79 Gov. Code, § 65583, subd. (c)(3), emphasis added.
+
+
+                                             20
+In addition, if supportive housing meets the specifications of Government Code
+section 65650 et seq, it must be treated as “a use by right in all zones where
+multifamily and mixed uses are permitted . . . .” 80 By-right approval means that the
+use cannot require a conditional use permit or other discretionary review, even if a
+permit is required for other residential dwellings of the same type in the same zone. 81
+This nondiscretionary (i.e., ministerial) approval requirement renders the proposed use
+statutorily exempt from the California Environmental Quality Act if the project “complies
+with written, objective development standards and policies.”82
+
+When supportive or transitional housing does require a permit of any type, the
+Housing Accountability Act limits jurisdictions’ authority to deny the permit.
+These limits are discussed at length in HCD’s Housing Accountability Act Technical
+Assistance Advisory (Sep. 15, 2020). 83
+
+6. STATE LAW PROVIDES BROADER PROTECTIONS THAN FEDERAL
+   LAW
+The Legislature has specified that the FEHA may be interpreted broadly to provide
+“greater rights and remedies” than federal laws. 84 The Legislature has also emphasized
+that “[t]he law of this state in the area of disability provides protections independent from
+those in [federal law],” noting that California law “has always, even prior to passage of
+the federal [ADA], afforded additional protections.” 85
+
+Examples of California providing “greater rights and remedies” than federal law include,
+among other things, state law’s broader definitions of disabilities (e.g., only requiring a
+mere limitation of a major life activity for a mental or physical condition to qualify as a
+disability compared to federal law requiring a substantial limitation); prohibition of land
+use policies and practices that discriminate against housing designed for persons or
+families of very low, low, moderate, or middle income; requirements for how local
+governments must affirmatively support housing for persons with disabilities; specific
+
+
+
+
+80 Id.
+81 Id.
+82 Gov. Code, § 65651, subd. (b)(2); Pub. Resources Code, § 21080, subd. (b)(1); Cal.
+
+Code Regs., tit. 14, §§ 15002, subds. (i)(1), 15268(a).
+83 See supra, n. 74.
+84 Gov. Code, §§ 12955.6, 12993.
+85 Gov. Code, § 12926.1, subd. (a).
+
+
+                                             21
+requirements for supportive and transitional housing; and reasonable accommodations
+regulations. 86
+
+Therefore, federal laws set a floor, not a ceiling, for the fair housing rights that the state
+may provide through the FEHA, Anti-Discrimination in Land Use Law, and other state
+laws. 87 Likewise, although federal court decisions about federal fair housing laws can
+provide important guidance for interpreting state fair housing laws, their interpretations
+of state laws are not binding authority. 88 Confusion can arise if local governments
+assume that resolving whether a local land use policy or practice complies with federal
+law automatically resolves whether it complies with state law.
+
+To avoid this confusion, local governments should follow these two general guidelines:
+
+   •   If a policy or practice violates federal fair housing law, it also likely violates
+       state law.
+
+   •   But the converse is not necessarily true. If a policy or practice complies with
+       federal fair housing laws, local governments should independently determine
+       whether it complies with state law’s broader protections.
+
+7. COMMON ISSUES IN LOCAL ORDINANCES THAT REGULATE
+   GROUP HOMES
+
+HCD cannot anticipate all the issues that might arise if local governments attempt to
+regulate group homes through local land use laws. But the following are examples of
+some common ones that can arise.
+
+   A. DEFINITIONS OF SINGLE HOUSEKEEPING UNITS OR SINGLE-FAMILY
+      HOMES
+
+Zoning ordinances sometimes attempt to restrict or limit group homes in single-family
+residential zones (e.g., R-1) through definitions of single housekeeping units or single-
+family homes. Overly restrictive definitions risk violating not only state housing laws, but
+the California Constitution’s protections of the rights of unrelated persons to live
+together in communal housing. 89
+
+
+
+
+86 See, e.g., Gov. Code, §§ 12926.1; 65008, subds. (a), (b); 65583, subds. (a), (c); Cal.
+
+Code Regs., §§ 12176-12185.
+87 See, e.g., Gov. Code, § 12926.1, subd. (a); California Federal Sav. and Loan Ass’n v.
+
+Guerra (1987) 479 U.S. 272, 285; 42 U.S.C. § 3615.
+88 See, e.g., Cal. Code Regs, tit. 2, § 11001, subd. (b).
+89 See, e.g., City of Santa Barbara v. Adamson (1980) 27 Cal.3d 123.
+
+
+                                              22
+Persons with disabilities choose to live in group homes because these homes provide
+peer and other support for their residents’ disability-related needs, while helping to
+integrate residents into their communities. Group homes should be treated as single-
+housekeeping units if they are designed to foster these mutually supportive peer
+relationships; allow open-ended stays or at least, on average, stays of more than a few
+weeks; and provide shared kitchen, dining, living, and other spaces in which residents
+may, in certain homes, participate in basic, shared cooking and housekeeping activities.
+
+In general, localities should avoid including provisions in definitions of shared-
+housekeeping units, single-family homes, or other single residential dwellings that:
+
+   •   Equate group homes with boardinghouses. Group homes’ shared communal
+       purposes to provide peer and other support for their occupants’ disability-related
+       needs and to help integrate them into their local communities makes this an inapt
+       comparison. Boardinghouses do not provide communal housing designed to
+       support the needs of persons with disabilities.
+
+   •   Require all residents to share a common deed or lease. The California
+       Constitution’s protections of personal privacy extend to individuals’ choices to live
+       together even when they are not joint owners or tenants. 90 And group homes can
+       still provide a communal setting that supports their residents’ needs without all
+       residents being joint owners or tenants.
+
+   •   Automatically exclude group homes that are owned by for-profit
+       businesses or that pay a house manager or resident to help manage a
+       home’s operations. These are well-established models for group homes. 91 And
+       persons with certain types of disabilities may need supportive, in-house staff to
+       be able to live in a group home.
+
+   •   Overly scrutinize living arrangements by, for example, requiring residents to
+       take care of all housekeeping tasks, share all bathrooms and refrigerators, and
+       eat all meals together, or by prohibiting locks on bedroom doors. Localities do not
+       impose such conditions on families of related persons, who may live in R-1
+       neighborhoods even if they can afford to hire housekeepers or gardeners, do not
+       share all bathrooms, decline or lack the time to eat all meals together, or choose
+
+
+
+90 See, e.g., Coalition Advocating Legal Housing Options v. City of Santa Monica (2001)
+
+88 Cal.App.4th 451, 458-459.
+91 Douglas L. Plocin and Diane Henderson, A Clean and Sober Place to Live:
+
+Philosophy, Structure, and Purported Therapeutic Factors in Sober Living Homes, 40 J
+Psychoactive Drugs (2008), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2556949/
+(discussing how a “‘strong manager’ model of operations” can function in ways that
+provide the same or similar benefits of a communal environment and peer support as
+group homes that residents own and operate themselves).
+
+                                            23
+       to install locks on parents’, teenagers’, or other relatives’ bedroom doors. And
+       different types of group homes may require different living arrangements and
+       provide different levels of housekeeping or other services based on their
+       residents’ individualized needs or other considerations.
+
+   B. REQUIREMENTS THAT ALL GROUP HOMES WITH MORE THAN SIX
+      RESIDENTS MUST OBTAIN PERMITS TO LOCATE IN SINGLE-FAMILY
+      ZONES
+
+Some local zoning ordinances require all group homes with more than six residents to
+apply for conditional use permits or obtain other special approvals to locate in single-
+family zones. These ordinances appear to be based on Health and Safety Code
+statutes that require local governments to treat many types of licensed group homes
+with six or fewer residents the same as single-family homes and prohibit requiring these
+small, licensed group homes to obtain conditional use permits or other special
+approvals to locate in single-family zones. 92
+
+But local policies that require all group homes with more than six residents to obtain
+conditional use or other permits inappropriately turn state laws designed to remove
+constraints on small, licensed group homes into constraints on the many other group
+homes that do not require state licenses.
+
+To comply with the Health and Safety Code’s exemptions for small, licensed group
+homes and with housing element, AFFH, and fair housing requirements to remove
+constraints on and prevent discrimination against group homes, local governments
+should follow these guidelines:
+
+   •   Group homes that operate as single-family residences and that do not
+       provide licensable services should be allowed in single-family
+       neighborhoods, subject only to the generally applicable, nondiscriminatory
+       health, safety, and zoning laws that apply to all single-family residences.
+       This is true even if these homes have more than six residents. Because these
+       homes are not providing licensable services, they should be treated the same as
+       other residences. 93
+
+
+
+
+92 See, e.g., Health & Saf. Code, §§ 1566.3, 1569.85,11834.23.
+93 See also supra at pp. 20-22 (discussing specific protections for supportive and
+
+transitional housing).
+
+                                            24
+   •   Group homes that operate as single-family residences and that provide
+       licensable services to six or fewer residents should be allowed in single-
+       family neighborhoods, subject only to the generally applicable,
+       nondiscriminatory health, safety, and zoning laws that apply to all single-
+       family residences. This complies with, among other things, the Health and
+       Safety Code protections for these smaller, licensed group homes.
+
+   •   Group homes operating as single-family residences that provide licensable
+       services to more than six residents may be subject to conditional use or
+       other discretionary approval processes. Local governments must still provide
+       flexible and efficient reasonable accommodations in these permitting processes.
+       This means that some requests for exceptions to permitting processes should be
+       resolved through reasonable accommodation procedures instead of conditional
+       use procedures. 94 In addition, any substantive requirements for these group
+       homes must still comply with the local government’s obligations to remove
+       constraints on housing for persons with disabilities, affirmatively support it, and
+       prevent discrimination against it. The next sections provide further guidance on
+       how to meet these obligations. 95
+
+   C. RETROACTIVE COMPLIANCE
+
+Zoning codes typically allow uses that began lawfully before a new zoning provision was
+adopted or amended to continue after these new requirements are imposed, with the
+concept of legal nonconforming existing uses found in almost all zoning codes. For
+example, a local government may change zoning requirements to disallow auto repair
+uses in the downtown area. An existing auto repair shop would continue to be allowed
+to continue to operate because at the time when the use began it was an allowable
+use. 96
+
+Local governments should generally treat existing group homes similarly when
+amending their zoning codes. Retroactive application of new zoning provisions should
+be avoided, especially if it will displace persons with disabilities from the homes they
+have chosen. Any exception to the well-established practice of allowing legal non-
+conforming uses to continue should be supported by substantial analysis and evidence
+
+
+
+94 See, e.g., Letter from Attorney General Bill Lockyer to The Hon. William Hartz, Mayor
+
+of Adelanto (May 15, 2001) (explaining that relying on conditional use procedures to
+address reasonable accommodation requests can lead to fair housing violations).
+95 Although the Group Home TA focuses on group homes operating as single-family
+
+residences, the same principles apply to those operating, for example, as multifamily
+residences in multifamily zones.
+96 See, e.g., Hansen Brothers Enterprises, Inc. v. Board of Supervisors (1996) 12
+
+Cal.4th 533, 552; Edmonds v. Los Angeles County (1953) 40 Cal.2d 642, 651.
+
+                                            25
+showing that it is required to protect public health, safety, and welfare. This analysis and
+evidence should include specific local data and evidence, not merely anecdotal reports
+about problems that have arisen at some group homes or generalized descriptions of
+the public health, safety, and welfare interests that the new amendments are designed
+to serve.
+
+   D. SPACING REQUIREMENTS
+
+Spacing requirements restrict group homes from locating within a specific distance of
+other group homes. Local governments should be very wary about imposing spacing
+requirements that extend beyond the limited requirements the Legislature has deemed
+necessary to prevent the overconcentration of certain licensed facilities to ensure their
+residents are integrated into their communities.
+
+The Legislature has found spacing requirements justified only for specific types of
+licensed facilities. Community care facilities, intermediate care facilities serving persons
+with developmental disabilities who require intermittent but recurring skilled nursing
+care, and pediatric day health and respite care facilities that provide services to children
+with particularly acute or chronic healthcare needs and their parents or guardians must
+be separated by at least 300 feet. Congregate living health facilities serving persons
+with terminal or life-threatening illnesses or with catastrophic or severe disabilities
+acquired through trauma or nondegenerative neurologic illness must be separated by at
+least 1,000 feet. 97
+
+Further limiting these spacing requirements, the Legislature has specified that they:
+
+   •   apply to some types of licensed facilities, but not to others. For example, the
+       spacing requirements apply only to some types of intermediate care facilities but
+       not to AOD facilities or to residential care facilities for the elderly;
+
+   •   apply to proposed, new facilities, not existing ones;
+
+   •   only require separation of facilities with similar licenses; and
+
+   •   allow closer spacing based on local needs and conditions. 98
+
+Contrary to these carefully crafted limitations on spacing requirements, some local
+governments have imposed spacing requirements on recovery residences, including
+
+
+
+
+97 Health & Saf. Code, §§ 1267.9, subd. (b) (setting spacing requirements for these
+
+types of community care residential facilities), 1502 (defining facilities that are subject to
+300-foot spacing requirements), 1250 (defining facilities subject to 1000-foot spacing
+requirements).
+98 Health & Saf. Code, § 1267.9.
+
+
+                                             26
+those already in operation. These spacing requirements are very unlikely to withstand
+scrutiny under state housing laws. Among other things:
+
+   •   They are at odds with the Legislature’s narrowly crafted spacing
+       requirements in section 1267.9.
+
+   •   They can conflict with local governments’ obligations to, for example,
+       remove constraints on housing for persons with disabilities, affirmatively
+       support such housing, avoid policies that displace persons with protected
+       characteristics, and affirmatively support their right to live where they
+       choose. 99
+
+   •   They are very hard to justify based on the narrow exceptions that state fair
+       housing laws allow for facial discrimination. Justifications based on the goal
+       of avoiding overconcentration are difficult to establish and require substantial and
+       detailed statistical evidence establishing that an overconcentration of recovery
+       residences has reached the point where it is, for example, creating an
+       institutionalized living environment or perpetuating segregation within specific
+       neighborhoods or communities. Merely comparing the number of recovery
+       residences in one city with the number in others generally will not suffice. 100
+
+   •   They can lack the flexibility required to reasonably accommodate recovery
+       residences and their occupants’ disability-related needs.
+
+   •   The Legislature has repeatedly rejected attempts to impose spacing
+       requirements on recovery residences. As recently as 2018, for instance, the
+       Legislature declined to adopt SB 786, a bill that would have imposed a 300-foot
+       spacing requirement on recovery residences. 101 The legislative history shows
+       that the Legislature considered the lack of clear data showing that this spacing
+       requirement would benefit persons recovering from alcohol and drug addiction.
+       The Legislature also considered concerns that this spacing requirement would
+
+
+
+
+99 See, supra, at pp. 9-12.
+100 See, supra, at pp. 15-16. Spacing requirements like this also need to withstand
+
+scrutiny under other standards for assessing intentional discrimination or discriminatory
+effects. See, supra, at pp. 12-19.
+101 Sen Bill No. 786 (2017-2018 Reg. Session). This bill is one of many times that the
+
+Legislature has declined to enact, or the Governor has vetoed bills attempting to
+regulate recovery residences. See, e.g., Sen. Com. on Health, analysis of Sen. Bill 786
+(2017-2018 Reg. Sess.) at 7-8 (listing several other bills with similar provisions that the
+died in the Legislature between 2006 and 2007); California Research Bureau, Sober
+Living Homes in California: Options for State and Local Regulation (October 2016) at
+14-16 (listing over 20 bills affecting recovery residences introduced between 1998 and
+2016 that the Legislature did not pass or the Governor vetoed).
+
+                                            27
+       discriminate on the basis of disability, impede opening new recovery residences,
+       reduce access to much needed recovery and treatment services, and stigmatize
+       recovery residences and their occupants. 102
+
+In sum, local governments should avoid imposing spacing requirements that extend
+beyond those specified in Health and Safety Code section 1267.9. 103
+
+   E. OCCUPANCY LIMITS AND BUILDING, FIRE, OR OTHER HEALTH AND
+      SAFETY CODE REQUIREMENTS
+
+Subject to the Legislature’s requirements for specific types of licensed facilities, such as
+those serving persons with limited mobility, and to requests for reasonable
+accommodations, local governments should apply the same generally applicable
+occupancy limits to group homes that they do to other housing. Under the Uniform
+Housing Code section 503.2, at least one room in a dwelling unit must have a floor area
+of at least 120 square feet, with other habitable rooms, except kitchens, required to
+have a floor area of at least 70 feet. When more than two people occupy a room for
+sleeping purposes, the required floor area increases by 50 square feet. For example, a
+bedroom intended for two people could be as small as 70 square feet, while a bedroom
+would need to be at least 120 square feet to accommodate three people or at least 170
+square feet to accommodate four people.
+
+Likewise, to avoid imposing overly costly and burdensome constraints on group homes,
+the best practice is to apply the same general building, fire, and other health and safety
+codes that apply to other residences, subject to state health and safety code provisions
+specific to certain types of residential facilities. 104 Although group home operators may
+request reasonable accommodations from public health and safety standards, fair
+housing laws allow local governments to deny these requests if, among other things,
+they would cause direct threats to public health and safety.
+
+
+
+
+102 Sen. Com. on Health Analysis of Sen. Bill 786 at 6, 8-9.
+103 Recent federal court decisions rejecting challenges under federal and California laws
+
+to spacing requirements for recovery residences have not considered the important
+differences between state and federal laws. See, e.g., Yellowstone Women’s First Step
+House, Inc. v. City of Costa Mesa (C.D. Cal. Oct. 8. 2015) 2015 WL 13764131 at *7-8,
+affirmed in part and vacated in part, 2021 WL 4077001 (9th Cir. Sep. 8, 2021)
+(unpublished, nonprecedential decision). These differences include, for example, the
+affirmative duties that California’s Housing Element Law imposes on local governments
+and the broader rights and remedies for persons with disabilities under California’s fair
+housing laws. See, supra, at pp. 22-23.
+104 See, e.g., Health & Saf. Code, § 13113 (requiring sprinkler systems in certain
+
+licensed residential facilities).
+
+                                            28
+   F. REQUIREMENTS FOR OPERATORS AND RESIDENTS
+
+Requirements for operators and residents often take the form of specific services or
+management practices that the local jurisdiction feels are necessary for the successful
+operation of group homes. These requirements tend to deal with the internal affairs of
+the operations and frequently involve issues beyond those in typical land use
+regulations. For example, local jurisdictions do not typically regulate the number of daily
+visitors to a single-family home or other residential property.
+
+When applied to group homes, these types of regulations raise concerns that a local
+government is imposing conditions on them that are contrary to its duties to support
+housing for persons with disabilities, prevent discrimination on the basis of disability or
+other protected characteristics, and provide reasonable accommodations.
+
+Before adopting or applying any such regulations even for licensed group homes, local
+governments should analyze whether they are consistent with state housing laws and
+document this analysis. Local governments should also consider whether such
+regulations are consistent with the Health and Safety Code’s provisions and regulations
+for licensed facilities.
+
+Although this Group Home TA cannot address all potential issues regarding potential
+regulations of operators and residents, the following are examples of requirements
+taken from recent local ordinances:
+
+Imposing Special Parking Requirements on Group Homes. Requiring group homes
+to have or construct additional off-street parking spaces can impose considerable costs
+that constrain housing opportunities for persons with disabilities. These special parking
+requirements will often conflict with the right to privacy under the California
+Constitution, 105 as well as local governments’ obligations to affirmatively support
+housing for persons with disabilities and avoid discriminating against them. Jurisdictions
+imposing additional parking requirements assume that group homes serving adults will
+have more residents who drive and will therefore use more on-street parking than other
+households. But these assumptions should at the very least be tested by studying the
+actual causes and extent of on-street parking shortages in an area. 106 Local
+governments should also consider less discriminatory alternatives, such as street-
+
+
+
+
+105 Adamson, supra, 27 Cal.3d at 133 (concluding that parking concerns are best
+
+addressed by limitations that “appl[y] evenly to all households” and concluding that
+zoning ordinances are suspect when they focus on users instead of uses).
+106 See, e.g., Lauber, supra, n. 16 at 385 & n. 52 (citing studies finding that group
+
+homes do not generate undue amounts of parking or traffic).
+
+                                             29
+parking permit systems for all households or other generally applicable parking and
+vehicle regulations.
+
+Restricting Recovery Residence Occupants to Persons Actively Participating in
+Recovery Programs. While most occupants of recovery residences participate in
+recovery programs, local governments should not impose this as a condition of living in
+a recovery residence. There are different models of recovery, not all of which involve
+participating in 12-step or similar programs. And recovering from alcoholism or drug
+addiction is legally recognized as a protected disability regardless of whether someone
+has participated or is currently participating in a recovery or treatment program. 107
+
+Restricting Occupancy Exclusively to Persons with Disabilities. Regulations
+restricting group home occupancy exclusively to persons with disabilities or with a
+specific disability may sometimes intrude on individuals’ fair housing choices and
+privacy rights. They also risk discriminating on the basis of other protected statuses.
+Inflexible occupancy restrictions, for example, could preclude group homes designed for
+families in which one member has a disability or recovery residences designed for
+parents in recovery who are seeking to reunite with their children.
+
+Restricting Occupants or Staff from Homes Based on Their Criminal History
+Records. Policies that prohibit individuals from living in or working at group homes
+based on individuals’ criminal history records may be intended to protect the occupants
+of these homes. But local governments contemplating adopting or applying such
+policies should carefully review California Code of Regulations, title 2, sections 11017.1;
+12162, subdivision (b); and 12264-12271, which set parameters on using criminal
+history information that, among other things, restrict access to employment or housing.
+Local governments should also consider state laws and regulations that apply to
+criminal background checks for licensed facilities’ employees. 108
+
+Requiring Recovery Residences or AOD Facilities to Immediately Remove
+Occupants Who Violate Policies Prohibiting Alcohol or Drug Use. Although Health
+and Safety Code section 11834.26, subdivision (d), requires AOD facilities to plan how
+to address a resident’s relapse, that subdivision clarifies that this “does not require a
+licensee to discharge a resident.” This recognizes that approaches to addressing
+someone’s relapse may vary depending on a recovery residence’s or AOD facility’s
+program, the circumstances of the relapse, and an individual’s personal history and
+needs. Local policies should allow the same flexibility. Moreover, requirements to
+
+
+
+
+107 Hernandez v. Hughes Missile System Co. (9th Cir. 2004) 362 F.3d 564, 568; HUD –
+
+DOJ 2016 Jt. Stmt. on Local Land Use Laws at 7-8.
+108 See, e.g., Health & Saf. Code §§ 1522, 1569.17, 11834.27; Cal. Code Regs., tit. 9,
+
+§§ 10564, 10615, 10624, tit. 22, §§ 80019-19.2.
+
+                                            30
+immediately remove relapsing residents with tenancy rights may conflict with landlord-
+tenant laws.
+
+Other Examples
+
+   •   House Manager Requirements—requiring group homes to have a house
+       manager on site around the clock or always available to come to the residence
+       within 30 or 45 minutes.
+
+   •   Visitor Restrictions—requiring group homes to limit who can visit and under
+       what conditions.
+
+   •   Records Maintenance—requiring group homes to maintain specific records
+       about the internal affairs or occupants of the house.
+
+   •   Codes of Conduct—requiring group homes to have special conduct codes for
+       their residents.
+
+   •   Neighborhood Notice Requirements—imposing special neighborhood notice
+       requirements on group homes.
+
+   •   Law Enforcement Registration Requirements—requiring group homes to
+       register with the local sheriff’s office or other law enforcement offices.
+
+Regulations like these can be based on mistaken or prejudicial fears about group
+homes, instead of actual data and evidence. Particularly in light of research finding that
+fears about group homes endangering neighbors’ health and safety are unfounded, 109
+such provisions may in themselves be regarded as evidence that a local government is
+not complying with its requirements to affirmatively support housing for persons with
+disabilities and prevent discrimination against group homeowners, operators, and
+residents.
+
+Regulations like these can also create unnecessary constraints on group homes by
+imposing overbroad, additional costs and burdens on the many group homes that
+capably serve their occupants’ needs and seamlessly integrate into their communities.
+They can intrude on privacy rights. They can discriminate on the basis of disability or
+other protected characteristics if, for example, requirements like these are imposed on
+group homes but not on other housing. For these reasons, among others, regulations
+like these generally conflict with state housing laws.
+
+
+
+
+109 See, supra, nn. 15-16.
+
+
+                                            31
+   G. Civil Actions for Operating Without a Required State License
+
+Some categories of group homes, such as all those serving children, require state
+licenses. But many, if not most, group homes do not require state licenses to operate.
+These include, for example, group homes that provide peer support and limited services
+to residents but not the more extensive care and supervision that requires obtaining a
+license. Recovery residences that do not provide alcoholism or drug addiction recovery
+or treatment services are other examples of group homes that do not require licenses.
+
+Examples of group homes that do require licenses include the ones in this table:
+
+             Use               Health and Safety Code           Licensing Agency
+                                      Sections
+
+ Community Care               § 1500 et seq. &              California Department of
+ Residential Facilities       § 1569 et seq., e.g.          Social Services (CDSS)
+ (including various
+ subcategories)
+
+ AOD Facilities               § 11834.01 et seq.            California Department of
+                                                            Health Care Services
+                                                            (DHCS)
+
+
+Some local governments have amended their zoning ordinances to declare that
+operating a business without a required state license is a public nuisance. Some of
+these ordinances single out recovery residences that are providing recovery or
+treatment services without a license. These jurisdictions file civil actions seeking to
+abate these nuisances by closing some noncompliant recovery residences, requiring
+others to obtain the required license, or imposing limitations on recovery residences that
+were not providing recovery or treatment services.
+
+Local governments have discretion to define as public nuisances’ business or
+construction activities that are undertaken without a required permit or license. And at
+least one California appellate court has upheld a city’s public nuisance action against a
+recovery residence where the owners’ own website advertised that they provided on-
+site drug addiction treatment services. 110
+
+But jurisdictions considering adopting this practice should still carefully assess the
+issues and problems that can arise under state law. Guidelines for local governments
+considering this include the following:
+
+
+
+
+110 City of Dana Point v. New Method Wellness, Inc. (2019) 39 Cal.App.5th 985.
+
+
+                                           32
+   •   Avoid targeting these nuisance actions on group homes operating without
+       required licenses while ignoring other businesses operating in residences
+       without required licenses. Although public prosecutors have broad discretion to
+       prioritize which violations or violators to prosecute, they cannot use this
+       discretion in ways that discriminate on the basis of disability or other protected
+       characteristics. Jurisdictions should not single out group homes unlawfully
+       operating without required licenses while ignoring businesses doing the same
+       thing in other residences.
+
+   •   Give group homes the same opportunities to respond to and resolve
+       alleged code violations as other alleged violators. For example, if other
+       property owners or businesses are allowed to respond to and resolve alleged
+       code violations during investigations or administrative hearings, those same
+       procedures should apply to group homes that are allegedly providing services
+       that require a license without having obtained one.
+
+   •   Use the processes available through DHCS and CDSS, for example, for
+       resolving allegations that a group home is operating without a required
+       license. If a locality has evidence that a residence is providing unlicensed
+       recovery or treatment services in facilities under DHCS’s jurisdiction or
+       unlicensed care or supervision for residents in facilities under CDSS’s
+       jurisdiction, it should use these departments’ processes for investigating such
+       complaints and abating them if they have merit. 111 This is especially important
+       when group home operators have not openly admitted that they are providing
+       unlicensed services on-site.
+
+       Determining what activities at a group home rise to the level of licensable
+       services, in contrast to common policies or mutual support activities that do not
+       require licenses, can involve nuanced and technical issues that are beyond the
+       expertise of most local planning or code enforcement staff. DHCS’s and CDSS’s
+       staff have the expertise and experience to investigate these claims, make these
+       determinations, and abate violations of the licensing laws they enforce.
+
+       If jurisdictions are filing their own, more costly civil actions to resolve disputes
+       over whether a group home requires a license, this runs the risk of courts issuing
+       mistaken rulings without the benefit of DHCS’s or CDSS’s findings and
+       expertise. 112 It also raises questions under state housing laws about why a local
+
+
+
+
+111 See, e.g., Cal. Code Regs., tit. 9, § 10542, tit. 22, § 80006.
+112 Cf. Farmers Ins. Exchange v. Superior Court (1992) 2 Cal.4th 377, 390 (explaining
+
+that under primary jurisdiction doctrine, courts may suspend proceedings to allow an
+administrative agency with specialized expertise to determine an issue within the scope
+of its regulatory authority).
+
+                                             33
+         government is not availing itself of DHCS’s or CDSS’s procedures and opting
+         instead to subject a group home to more expensive and burdensome civil
+         litigation.
+
+      H. ENFORCING GENERALLY APPLICABLE MUNICIPAL CODES AND OTHER
+         LAWS
+
+If group home operators are engaging in activities that constitute public nuisances;
+violating generally applicable building, housing, or other health and safety laws;
+committing fraud; or engaging in other illegal activities, local governments can address
+these issues through the same code enforcement and other legal processes they apply
+to others who violate municipal codes and other laws. This may still require considering
+if reasonable accommodations are appropriate in some circumstances. And local
+governments should avoid overbroad or discriminatory applications of nuisance laws,
+such as basing nuisance actions on 911 calls for emergency services. 113 But if a group
+home is found to have violated local or state law, local governments may seek equitable
+relief that could include more stringent oversight and other affirmative relief to prevent
+further violations.
+
+Focusing on individual group homes that are actually causing problems is a better
+practice than adopting overly broad and constraining regulations for all group homes
+that conflict with state housing laws.
+
+8. RESOURCE MATERIALS AND STATE CONTACTS
+      Resource Materials
+
+      Affirmatively Furthering Fair Housing: Guidance for All Public Entities and for
+      Housing Elements (April 2021 Update), available at
+      https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-
+      27-2021.pdf
+      Housing Accountability Act Technical Assistance Advisory, HCD (Sep. 15, 2020),
+      available at https://www.hcd.ca.gov/community-development/housing-
+      element/housing-element-memos/docs/hcd-memo-on-haa-final-sept2020.pdf
+
+
+
+
+113 See. e.g., Cal. Code Regs., tit. 2, § 12162, subd. (a); United States Department of
+Housing and Urban Development, Office of General Counsel Guidance on Application
+of Fair Housing Act Standards to the Enforcement of Local Nuisance and Crime-Free
+Housing Ordinances (Sep. 13, 2016), available at
+https://www.hud.gov/sites/documents/FINALNUISANCEORDGDNCE.PDF.
+
+                                            34
+Housing Element Building Blocks, HCD, available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-
+elements/building-blocks
+Housing Element Building Blocks – Constraints for People with Disabilities, HCD,
+available at https://www.hcd.ca.gov/planning-and-community-development/housing-
+elements/building-blocks/constraints-people-disabilities
+Housing Element Building Blocks – Persons with Disabilities, HCD, available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-
+elements/building-blocks/people-disabilities-including-developmental-disabilities
+Housing Element Building Blocks – Zoning for a Variety of Housing Types, HCD,
+available at https://www.hcd.ca.gov/planning-and-community-development/housing-
+elements/building-blocks/zoning-variety-of-housing-types
+Joint Statement of the Department of Housing and Urban Development and the
+Department of Justice – State and Local Land Use Laws and Practices and the
+Application of the Fair Housing Act, HUD - DOJ (Nov. 10, 2016), available at
+https://www.justice.gov/opa/file/912366/download
+Senate Bill 2—Legislation Effective January 1, 2008: Local Planning and Approval
+for Emergency Shelters and Transitional and Supportive Housing, HCD
+(Apr. 10, 2013 update), available at https://www.hcd.ca.gov/community-
+development/housing-element/housing-element-memos/docs/sb-2-combined-
+update-mc-a11y.pdf
+Transitional and Supportive Housing, Chapter 183, Statutes of 2013 (SB 745), HCD
+(Apr. 24, 2014), available at https://www.hcd.ca.gov/community-
+development/housing-element/housing-element-
+memos/docs/sb745memo042414.pdf
+
+
+Contacts
+HCD
+HCD accepts requests for technical assistance from local jurisdictions and requests
+for review of potential violations from any party. All comments submitted to HCD are
+subject to the California Public Records Act. Send email requests
+to: ComplianceReview@hcd.ca.gov.
+California Department of Health Care Services (DHCS)
+Information about DHCS’s complaint process for licensing issues at AOD facilities is
+available at https://www.dhcs.ca.gov/individuals/Pages/Sud-Complaints.aspx, by
+emailing sudcomplaints@dhcs.ca.gov, or by calling (877) 685-8333.
+
+
+
+
+                                        35
+California Department of Social Services (CDSS)
+Information about CDSS’s complaint process for licensing issues at facilities that it
+regulates is available at https://www.cdss.ca.gov/reporting/file-a-complaint/ccld-
+complaints or by calling (844) 538-8766.
+
+
+
+
+                                        36

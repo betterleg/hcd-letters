@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022234",
+  "case_number": "HAU0003011",
+  "letter_date": "2025-08-27",
+  "jurisdiction": "Shasta County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Shasta County HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/shasta-county-hei-loi-082725.pdf",
+  "hcd_letter": "Shasta County Letter of Inquiry 08/27/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/shasta-county-hei-loi-082725.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 171392,
+  "text_chars": 6535,
+  "text_empty": false
+}

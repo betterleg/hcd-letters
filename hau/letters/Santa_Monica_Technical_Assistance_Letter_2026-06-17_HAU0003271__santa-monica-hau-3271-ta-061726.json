@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026186",
+  "case_number": "HAU0003271",
+  "letter_date": "2026-06-17",
+  "jurisdiction": "Santa Monica",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Starter Home Revitalization Act (SB 684 of 2023)",
+  "statutes": "65583.2(c)(3)(B) | 65589.5(d)(2) | 65852.21 | 65852.28 | 65852.28(b)(1) | 65852.28(b)(2)(A) | 65852.28(b)(2)(E) | 65852.28(d) | 66499.41 | 66499.41(a) | 66499.41(a)(5)",
+  "n_statutes": "11",
+  "keywords": "Setback | physical preclusion",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santa-monica-hau-3271-ta-061726.pdf",
+  "hcd_letter": "Santa Monica Technical Assistance Letter 06/17/2026",
+  "housing_law": "Starter Home Revitalization Act (SB 684 of 2023)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/santa-monica-hau-3271-ta-061726.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 258969,
+  "text_chars": 11205,
+  "text_empty": false
+}

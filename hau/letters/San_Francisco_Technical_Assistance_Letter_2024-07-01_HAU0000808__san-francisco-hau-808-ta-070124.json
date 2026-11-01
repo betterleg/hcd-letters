@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0015944",
+  "case_number": "HAU0000808",
+  "letter_date": "2024-07-01",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(b) | 65915(b)(1)(D) | 65915(c) | 65915(c)(1) | 65915(v)",
+  "n_statutes": "5",
+  "keywords": "affordability term | concessions | for rent | for-rent | initial density bonus | moderate income units | term of affordability",
+  "n_keywords": "7",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-hau-808-ta-070124.pdf",
+  "hcd_letter": "San Francisco Technical Assistance Letter 07/01/2024",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-hau-808-ta-070124.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182355,
+  "text_chars": 4986,
+  "text_empty": false
+}

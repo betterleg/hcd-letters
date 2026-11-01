@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021857",
+  "case_number": "HAU0000429",
+  "letter_date": "2025-09-12",
+  "jurisdiction": "Live Oak",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "NOV",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/live-oak-he-noncompliant-nov-091225.pdf",
+  "hcd_letter": "Live Oak Notice of Violation 09/12/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/live-oak-he-noncompliant-nov-091225.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185635,
+  "text_chars": 10242,
+  "text_empty": false
+}

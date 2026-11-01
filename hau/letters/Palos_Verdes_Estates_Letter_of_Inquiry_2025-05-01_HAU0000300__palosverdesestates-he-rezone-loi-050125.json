@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025662",
+  "case_number": "HAU0000300",
+  "letter_date": "2025-05-01",
+  "jurisdiction": "Palos Verdes Estates",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "housing element law | letter of inquiry | rezone",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/palosverdesestates-he-rezone-loi-050125.pdf",
+  "hcd_letter": "Palos Verdes Estates Letter of Inquiry 05/01/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/palosverdesestates-he-rezone-loi-050125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 194549,
+  "text_chars": 8010,
+  "text_empty": false
+}

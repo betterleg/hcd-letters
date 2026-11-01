@@ -1,0 +1,635 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 29, 2023
+
+
+         Lori Ann Farrell Harrison, City Manager
+         City of Costa Mesa
+         77 Fair Drive
+         Costa Mesa, CA 92626
+
+         Dear Lori Ann Farrell Harrison:
+
+         RE: Group Home Ordinances – Letter of Technical Assistance
+
+         In the attached May 9, 2023, findings letter, the California Department of Housing and
+         Community Development (HCD) offered to provide additional technical assistance
+         regarding, among other things, implementation of Costa Mesa’s (City) 6th cycle housing
+         element programs to review its group home and related policies. This letter provides
+         that technical assistance for the City’s review of its group home ordinances, including
+         Ordinance Nos. 14-13, 15-11, and 17-05, which amended Title 13 of the City’s
+         Municipal Code (MC 13), as well as related City policies, such as its reasonable
+         accommodations procedures.
+
+         HCD has reviewed the City’s group home ordinances and related policies under its
+         authority pursuant to Government Code section 65585, which includes authority to
+         review cities’ compliance with the Land Use Discrimination Law (Gov. Code, § 65008),
+         Affirmatively Furthering Fair Housing (AFFH) Law (Gov. Code, §§ 8899.50, 65583), and
+         State Housing Element Law (Gov. Code, § 65580 et seq.). HCD finds that the City’s
+         group home ordinances and related policies violate Government Code sections 65008,
+         65583, and 8899.50 by failing to meet the City’s obligations to affirmatively further,
+         protect, and remove constraints on housing for persons with disabilities, and also by
+         discriminating against this housing.
+
+         To comply with state law, the City must, among other things, immediately stop enforcing
+         its group home ordinances, repeal them, and revise its reasonable accommodations
+         policies. These actions are also necessary to timely and effectively implement the
+         programs in the 6th cycle housing element that the City adopted on November 15, 2022,
+         which are required for the City’s housing element to substantially comply with State
+         Housing Element Law. These include Program 2J (Transitional and Supportive Housing),
+         2N (Reasonable Accommodation), Program 2O (Definition of Single Housekeeping Unit),
+         Program 2P (Group Homes), and 4A (Fair Housing).
+Lori Ann Farrell Harrison, City Manager
+Page 2
+
+
+Definitions
+
+Various laws use the term “group homes” to refer to different types of housing for
+different populations. For the purposes of state fair housing and planning and zoning
+laws, the following terms refer to various types of residences in which unrelated persons
+share the residence:
+
+   •   Shared Living Residences—any housing shared by unrelated persons,
+       including, for example, group homes, recovery residences, some community care
+       residential facilities, some supportive and transitional housing, emergency
+       shelters, boardinghouses, and dormitories.
+
+   •   Group Homes—housing shared by unrelated persons with disabilities that
+       provide peer and other support for their residents’ disability-related needs and in
+       which residents share cooking, dining, and living areas, and may, in some group
+       homes, participate in cooking, housekeeping, and other communal living
+       activities and that do not provide services that require licenses under state law.
+
+   •   Licensed Facilities—shared living residences that provide services that require
+       licenses under state law.
+
+   •   Recovery Residences or Sober Living Homes—group homes for persons
+       recovering from alcoholism or drug addiction in which the residents mutually
+       support each other's recovery and sobriety and that do not require state licenses
+       because they do not provide alcoholism or drug addiction recovery and treatment
+       services. 1
+
+   •   Alcohol or Other Drug (AOD) Facilities—residential facilities that must obtain
+       state licenses because they provide alcoholism or drug addiction recovery and
+       treatment services.
+
+
+
+
+1 Individuals recovering from alcoholism or addiction are recognized as people with
+
+disabilities (see Gov. Code, § 12926, subd. (j)), and “sober living homes and other
+dwellings intended for occupancy by persons recovering from alcoholism and drug
+addiction are protected from illegal discrimination against the disabled.” SoCal
+Recovery, LLC v. City of Costa Mesa (“SoCal Recovery”) (9th Cir. 2023) 56 F.4th 802,
+814.
+Lori Ann Farrell Harrison, City Manager
+Page 3
+
+
+Statutory Background
+
+Land Use Discrimination Law
+
+California’s Planning and Zoning Law (Gov. Code, § 65000 et seq.) prohibits jurisdictions
+from engaging in discriminatory land use and planning activities. Specifically, Government
+Code section 65008, subdivision (a)(1), deems any action taken by a city to be null and
+void if it denies an individual or group of individuals the enjoyment of residence,
+landownership, tenancy, or any other land use in the state due to illegal discrimination.
+Section 65008 prohibits discrimination based on any characteristic, including disabilities,
+protected by other state or federal laws, while adding its own prohibitions of discrimination
+against individuals or households who have very low, low, moderate, or middle incomes. 2
+The law further recites multiple categories of actions that are determined to be
+discriminatory, including enactment or administration of ordinances that prohibit or
+discriminate based on a protected characteristic 3 and imposition of requirements on a
+residential use for persons with protected characteristics that are not generally imposed
+upon other residential uses. 4
+
+AFFH Law
+
+Government Code section 8899.50 requires all California public agencies, including
+cities, “to administer their programs and activities relating to housing and community
+development in a manner to affirmatively further fair housing, and take no action that is
+materially inconsistent with [this] obligation . . . .” 5 AFFH means:
+
+        taking meaningful actions, in addition to combating discrimination, that
+        overcome patterns of segregation and foster inclusive communities free from
+        barriers that restrict access to opportunity based on protected
+        characteristics. Specifically, affirmatively furthering fair housing means taking
+        meaningful actions that, taken together, address significant disparities in
+        housing needs and in access to opportunity, replacing segregated living
+        patterns with truly integrated and balanced living patterns, transforming
+        racially and ethnically concentrated areas of poverty into areas of
+        opportunity, and fostering and maintaining compliance with civil rights and
+        fair housing laws. 6
+
+Moreover, the “duty to affirmatively further fair housing extends to all of a public
+agency’s activities and programs relating to housing and community development.” 7
+
+2 Gov. Code, § 65008, subds. (a)(1)(A), (b)(1)(B)-(C), (2)(B), (3).
+3 Id. at subd. (b)(1)(B).
+4 Id. at subd. (d)(2)(A).
+5 Gov. Code, § 8899.50, subds. (a)(2)(B), (b)(1), (2).
+6 Id. at subd. (a)(1).
+7 Id.
+Lori Ann Farrell Harrison, City Manager
+Page 4
+
+
+
+Housing Element Law
+
+In addition to the general AFFH requirements in Government Code section 8899.50,
+State Housing Element Law includes more specific AFFH requirements for cities.
+Government Code section 65583 requires cities to thoroughly analyze fair housing
+issues related to housing for people with disabilities and set forth a program of actions
+that protect and promote such housing. Through their housing elements, cities must
+“remove governmental constraints that hinder . . . meeting the need for housing for
+persons with disabilities,” which requires “remov[ing] constraints to, and provid[ing]
+reasonable accommodations for housing designed for, intended for occupancy by, or
+with supportive services for, persons with disabilities.” 8 Section 65583 also requires
+cities to “promote and affirmatively further fair housing opportunities and promote
+housing throughout the community or communities all persons regardless of . . .
+disability” or “other protected characteristics.” 9 And cities’ housing elements must
+include a fair housing assessment with specific goals, implementation strategies, and
+“metrics and milestones” for evaluating results. 10 In complying with these AFFH duties,
+cities are required to analyze data and set measurable objectives and milestones. 11
+
+Resource Materials
+
+In revising its policies, amending its ordinances, and implementing its housing element
+programs, the City should consider HCD’s Group Home Technical Advisory (Group
+Home TA) 12 and its AFFH Guidance Memorandum (AFFH Memo). 13 The City should
+also consider, among other things, the analysis in the amicus brief that HCD and CRD
+filed in the pending appeal in The Ohio House, LLC v. City of Costa Mesa, 9th Cir. Case
+No. 22-56181, Docket No. 25-2 (Amicus Brief). The guidance documents and Amicus
+Brief discuss relevant statutes, regulations, and case law, as well as HCD’s and other
+government agencies’ earlier guidance documents, academic papers, and demographic
+and statistical analyses.
+
+
+
+
+8 Gov. Code, § 65583, subds. (a)(6), (c)(3).
+9 Id. at subd. (c)(5).
+10 Id. at subd. (c)(10)(A)(iv).
+11 See, e.g., Gov. Code, § 65583, subds. (a)(5), (a)(7), (b)(1), (c)(10)(A)(ii).
+12 Available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+
+community/group-home-technical-advisory-2022.pdf.
+13 Available at https://www.hcd.ca.gov/community-
+
+development/affh/docs/affh_document_final_4-27-2021.pdf.
+Lori Ann Farrell Harrison, City Manager
+Page 5
+
+
+Findings
+
+HCD’s findings include, but are not necessarily limited to, those described below.
+
+Permitting Requirements
+
+Ordinance Nos. 14-13, 15-11, and 17-05 establish permitting requirements for group
+homes.
+
+   •   MC 13-311(a) requires a special use permit for unpermitted group homes of six
+       or fewer occupants located in R1 (single-family) zones and prohibits group
+       homes with seven or more occupants in these zones.
+   •   MC Title 9, Chapter II, Article 23, 9-372 requires group homes of six or less to
+       apply for an operator's permit, regardless of licensure status.
+   •   MC 13-322 requires a Conditional Use Permit (CUP) for group homes of six or
+       less in R2-MD, R2-HD and R3 residential zones and the PDR-LD, PDR-MD,
+       PDR-HD, PDR-NCM, PDC, and PDI (Planned Development Zones) Zones.
+   •   MC 13-323 requires a CUP for group homes in the R2-MD, R2-HD and R3
+       residential zones and the PDR-LD, PDR-MD, PDR-HD, PDR-NCM, PDC, and
+       PDI (Planned Development Zones) with seven or more occupants.
+
+The City’s permitting requirements for group homes and its application and enforcement
+of these requirements violate Government Code sections 65008, 65583, and 8899.50
+by, among other things, discriminating against housing for persons with disabilities,
+constraining and failing to promote this housing, and restricting the fair housing choices
+of persons with disabilities (their right to housing of their choice and the housing they
+find most suitable for their disability-related needs).
+
+The ordinances do not impose similar restrictions on other dwellings located in the
+zones listed above. The discriminatory effects and constraints these permitting
+requirements impose on group homes are evident through, among other things, the
+City’s own data showing how severely the permitting requirements have curtailed group
+homes in Costa Mesa. And there are considerable other discriminatory effects,
+including, and among other things, the costs and burdens imposed on group homes, the
+displacement of persons with disabilities from housing of their choice and the
+disruptions of their lives, and the City’s efforts to deter new group homes from opening
+in Costa Mesa. 14
+
+
+
+
+14 See, e.g., Amicus Brief at pp. 27-28; SoCal Recovery, supra, 56 F.4th at p. 806
+
+(finding that Costa Mesa engaged in “an explicit effort to reduce the number of sober
+living homes operating within the City.”).
+Lori Ann Farrell Harrison, City Manager
+Page 6
+
+
+Furthermore, the City should not continue attempting to justify its group home
+restrictions by comparing them to its treatment of boardinghouses. Group homes are
+designed to provide communal living environments with peer and other support for their
+occupants’ disability-related needs and to help integrate their residents into local
+communities. Boardinghouses do not serve these same goals. Government Code
+sections 65008, 65882, and 8899.50 also impose specific and unique duties on cities to
+affirmatively promote and protect housing for persons with disabilities that do not
+similarly apply to all boardinghouses.
+
+The overall problems with the City’s permitting system require the City to immediately
+stop enforcing its group home ordinances and repeal them. To provide additional
+guidance, this letter discusses below further examples of how specific provisions in
+these ordinances conflict with the City’s duties under Government Code sections 65008,
+65583, and 8899.50.
+
+Definition of Single Housekeeping Unit
+
+MC 13-06 defines a single housekeeping unit as follows:
+
+   •   Single housekeeping unit. The occupants of a dwelling unit have established ties
+       and familiarity with each other, jointly use common areas, interact with each
+       other, share meals, household activities, and expenses and responsibilities;
+       membership in the single housekeeping unit is fairly stable as opposed to
+       transient, members have some control over who becomes a member of the
+       household, and the residential activities of the household are conducted on a
+       nonprofit basis. There is a rebuttable presumption that integral facilities do not
+       constitute single housekeeping units. Additional indicia that a household is not
+       operating as a single housekeeping unit include, but are not limited to: the
+       occupants do not share a lease agreement or ownership of the property;
+       members of the household have separate, private entrances from other
+       members; members of the household have locks on their bedroom doors;
+       members of the household have separate food storage facilities, such as
+       separate refrigerators.
+
+HCD encourages the City to review pages 24-25 of the HCD Group Home Technical
+Advisory for policies to avoid when creating a definition of a single housekeeping unit.
+These problematic policies include requiring all residents to share a common lease or
+deed, excluding for-profit group homes and overly scrutinizing living arrangements (e.g.,
+not allowing for locks on rooms or having separate entrances).
+Lori Ann Farrell Harrison, City Manager
+Page 7
+
+
+
+Lack of Grandfathering
+
+Typically, when a zoning code changes, preexisting, nonconforming uses are
+“grandfathered” in and allowed to continue operating under the requirements that were
+in place before the amendments. 15 Costa Mesa’s zoning code follows this well-
+established practice by allowing preexisting, nonconforming residential uses to continue
+operating unless they are abandoned, the dwellings they are in are declared physically
+unsafe, or the owner proposes structural alterations. (MC 13-203(b), 13-204.) But the
+City departs both from general grandfathering practices and its own grandfathering code
+provisions by requiring preexisting group homes to apply for permits in the same fashion
+as new ones to remain operational. (MC 13-311, 13-322, and 13-323.) This imposes
+discriminatory and constraining conditions on preexisting group homes, while creating
+displacement impacts that AFFH duties and State Housing Element Law require the
+City to consider and avoid. 16 The City should apply its generally applicable
+grandfathering provisions to preexisting group homes, subject to reasonable
+accommodations requirements.
+
+Occupancy Limits
+
+The City sets special occupancy limits on group homes that prohibit group homes of
+seven or more occupants in R-1 single family zones, require group homes with seven or
+more occupants to obtain permits to operate in other zones, and require group homes
+with six or fewer occupants to obtain permits to operate in any residential zone. (MC 9-
+372, 13-311)(a), 13-322, 13-323.) This is another example of the City imposing
+discriminatory and constraining restrictions on group homes. Concerns about
+overcrowding should be addressed through applying the generally applicable
+occupancy limits that apply to all residences instead of singling out specific types of
+housing based on occupants’ disabilities. 17
+
+Costa Mesa’s ordinances appear to be based on a faulty application of Health and
+Safety Code statutes that allow local governments to subject licensed group homes with
+more than six residents to conditional use or other discretionary approval processes but
+require local governments to treat many types of licensed group homes with six or fewer
+residents the same as single-family homes and prohibit requiring these small, licensed
+group homes to obtain conditional use permits or other special approvals to locate in
+single-family zones. 18 The City, however, cannot justify its restrictions on group homes
+
+15 See, e.g., Edmonds v. Los Angeles County (1953) 40 Cal.2d 642, 651 (“The rights of
+
+users of property as those rights existed at the time of the adoption of a zoning
+ordinance are well recognized and have always been protected.”).
+16 Gov. Code, § 65583, subds. (c)(10)(A)(ii), (v).
+17 See Uniform Housing Code, § 503.2; see also City of Santa Barbara v. Adamson
+
+(1980) 27 Cal.3d 123, 133.
+18 See, e.g., Health & Saf. Code, §§ 1566.3, 1569.85, 11834.23.
+Lori Ann Farrell Harrison, City Manager
+Page 8
+
+
+through statutes designed to protect small licensed facilities, which provide higher levels
+of support and care that require state licenses. 19 These statutes specifically apply to
+licensed facilities, not to unlicensed group homes. In effect, the City is inappropriately
+transforming state laws designed to prevent local constraints on small, licensed facilities
+into constraints on group homes that do not provide services requiring state licenses.
+Moreover, the City is imposing more restrictions on group homes with six or fewer
+residents than state law allows it to impose on licensed facilities with similar numbers of
+residents. To avoid imposing overly costly and burdensome constraints on group
+homes, the best practice is to apply the same general building, fire, and other health
+and safety codes that apply to other residences, subject to state health and safety code
+provisions specific to certain types of licensed facilities and to reasonable
+accommodations requirements. 20
+
+Separation Requirement
+
+MC 13-322, 13-323, and 13-324 require 650 feet of separation between group homes,
+sober living homes, or state-licensed drug and alcohol treatment facilities, new and
+existing.
+
+These spacing requirements have a particularly severe impact on group homes,
+severely limiting where they can locate, causing group homes to close, and preventing
+others from opening. Yet the City has not shown that these spacing requirements are
+necessary or that there are health, safety, or similar justifications for the spacing
+requirements, or that if these were actual issues, that the City could not address them
+through less restrictive and discriminatory policies.
+
+Pages 27-29 of the Group Home TA provides additional guidance illustrating why the
+City’s spacing requirements conflict with its duties under state housing law (e.g., Gov.
+Code, §§ 8899.50, 65008, 65583, subds. (c), (1), (5), (10)), as does the Amicus Brief.
+
+Vehicle and Parking Requirements
+
+The City imposes special vehicle and parking requirements on group homes. MC 13-
+311(a)(5) states that each dwelling resident is limited to one vehicle that must be used
+as the resident’s primary form of transportation. MC 13-311(a)(5) requires each dwelling
+resident to park their vehicle on dwelling premises or within 500 feet of the dwelling.
+Concerns about parking and traffic should be addressed through generally applicable
+rules instead of restrictions that target housing for persons with disabilities. 21
+
+
+
+19 See Group Home TA at pp. 25-26.
+20 See, e.g., Health & Saf. Code, § 13113 (requiring sprinkler systems in certain
+
+licensed facilities).
+21 See Adamson, supra, 27 Cal.3d at 133; Group Home TA at p 31.
+Lori Ann Farrell Harrison, City Manager
+Page 9
+
+
+
+Examples of Other Permitting and Operational Requirements
+
+The City imposes the following restrictions on group homes but not on other residences:
+
+   •   MC 13-311(a)(4) requires a manager to be present during all hours, seven days
+       a week.
+   •   MC 13-311(a)(14)(vi) requires that the operator must have a good neighbor
+       policy directing residents “to be considerate of neighbors, including refraining
+       from engaging in excessively loud, profane or obnoxious behavior that would
+       unduly interfere with a neighbor’s use and enjoyment of their dwelling unit.”
+   •   MC 13-311(b) requires group homes applying for a permit to provide notice to the
+       owner of record and all occupants within 500 feet of the group home.
+
+Singling out group homes for restrictions like these can burden group homes with
+additional, unjustified costs, while perpetuating fears and stereotypes about persons
+with disabilities. Pages 30-33 of the Group Home TA provide additional guidance on
+how to avoid these and other restrictions in Costa Mesa’s group home ordinances that
+conflict with the City’s duties under Government Code sections 8899.50, 65008, 65583,
+subds. (c)(1), (c)(5) and (10), among others. 22
+
+Reasonable Accommodations
+
+Failing to make reasonable accommodations to rules or policies, in order to allow
+persons with disabilities the opportunity to access housing, is a form of discrimination. 23
+Making reasonable accommodations is also necessary to fulfill the City’s AFFH duties
+and its duties to remove constraints on housing for persons with disabilities. 24
+
+The City should review its reasonable accommodation policies in Municipal Code
+section 13-200.62, along with its application of these policies, to ensure compliance with
+state law. 25 For example, the City: (i) must avoid denying requested accommodations
+based on fears or prejudicial assumptions about people with disabilities, such as that
+group home residents somehow uniquely cause problematic traffic, noise, or activity; (ii)
+
+22 See also Oconomowoc Residential Programs, Inc. v. City of Milwaukee (7th Cir.
+
+2002) 300 F.3d 775, 783 (finding that house manager requirement is discriminatory
+because it effectively mandates an “institutional” arrangement that is not “on par with”
+housing policies for those who are not disabled); Potomac Group Home Corp. v.
+Montgomery County, Md. (D. Md. 1993) 823 F.Supp. 1285, 1296 (finding that notice
+requirements discriminate against and stigmatize persons with disabilities).
+23 See, e.g., Gov. Code, § 12927, subd. (c)(1).
+24 See, e.g., Gov. Code, §§ 8899.50, 65583, subds. (a)(6), (c)(3), (5).
+25 See, e.g., Cal. Code Regs., tit. 2, §§ 12176-12185; Group Home TA at pp. 18-20;
+
+Amicus Brief at pp. 21-25.
+Lori Ann Farrell Harrison, City Manager
+Page 10
+
+
+may not place the burden on reasonable accommodation applicants to demonstrate that
+their requested accommodations would not create undue burdens on the City or
+fundamental alterations to its zoning code; (iii) may not require applicants to show that
+they could not find any other housing within the city that would meet their disability-
+related needs; and (iv) must engage in good faith with reasonable accommodation
+requests and avoid delay or burdensome procedural requirements. 26
+
+Costa Mesa May Still Address Problems that Might Arise at Individual Group
+Homes
+
+The City has resources to legally address problems that might occur at individual group
+homes. If group home operators are engaging in activities that constitute public
+nuisances; violating generally applicable building, housing, or other health and safety
+laws; committing fraud; or engaging in other illegal activities, the City can address these
+issues through the same code enforcement and other legal processes it applies to
+others who violate municipal codes and other laws. If the City has evidence that a group
+home operator is providing services that require a license without obtaining one, it can
+contact the state’s Department of Social Services or Department of Health Care
+Services, which can initiate investigations and take remedial action if appropriate. 27
+
+This may still require considering if reasonable accommodations are appropriate in
+some circumstances. And the City should avoid overbroad or discriminatory applications
+of nuisance laws, such as those basing civil nuisance actions on 911 calls for
+emergency services. 28 But if a group home is found to have violated local or state law,
+the City may, for example, seek equitable relief that could include more stringent
+oversight and other affirmative relief to prevent further violations.
+
+Focusing on individual group homes that are actually causing problems is a better
+practice than adopting overly broad, constraining, and unlawful regulations for all group
+homes.
+
+
+
+
+26 See, e.g., Cal. Code Regs., tit. 2, §§ 12177-12179; 28. C.F.R. § 35.150(a)(3).
+27 See Group Home TA at pp. 33-36, 37.
+28 See. e.g., Cal. Code Regs., tit. 2, § 12162, subd. (a); see also California Attorney
+
+General Rob Bonta letter to all Cities and Counties in California re Crime Free Hosing
+Policies (Apr. 21, 2023), available at https://oag.ca.gov/system/files/attachments/press-
+docs/Crime%20Free%20Housing%20Guidance_4.21.23.pdf.
+Lori Ann Farrell Harrison, City Manager
+Page 11
+
+
+Conclusion
+
+Costa Mesa’s ordinances are blocking new group homes from opening, forcing existing
+ones to close, and imposing costs, administrative burdens, and fees that make it difficult
+for group homes to operate, while displacing persons with disabilities and disrupting
+their lives. The City is creating these restrictions and problems in the context of a
+shortage of adequate housing for persons with disabilities, which is a particularly acute
+issue within California’s broader housing crisis.
+
+HCD has reviewed the City’s group home ordinances and found that they violate
+Government Code sections 65008, 65583, and 8899.50. The City must stop enforcing
+these ordinances, repeal them, change its reasonable accommodation policies and
+practices, and review other zoning practices in light of HCD’s guidance to ensure that
+the City is complying with state law. These actions are necessary for the City to comply
+with its duties under Government Code sections 65008, 65583, and 8899.50, and are
+among the things that the City must do to bring its 6th cycle housing element into
+substantial compliance with State Housing Element Law.
+
+For technical assistance regarding the City’s 6th Cycle housing element, please contact
+Jose Armando Jauregui at jose.jauregui@hcd.ca.gov. If you have any questions
+regarding the content of this letter, please contact Bentley Regehr at
+bentley.regehr@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+David Zisser
+Assistant Deputy Director
+Local Government Relations and Accountability
+
+
+Enclosures: Letter from HCD regarding City of Costa Mesa’s 6th Cycle (2021-2029)
+            Adopted Housing Element (May 9, 2023)
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         May 9, 2023
+
+
+         Lori Ann Farrell Harrison, City Manager
+         City of Costa Mesa
+         77 Fair Drive
+         Costa Mesa, CA 92626
+
+         Dear Lori Ann Farrell Harrison:
+
+         RE: City of Costa Mesa’s 6th Cycle (2021-2029) Adopted Housing Element
+
+         Thank you for submitting the City of Costa Mesa’s (City) housing element that was
+         adopted on November 15, 2022 and received for review on March 10, 2023. In addition,
+         the California Department of Housing and Community Development (HCD) considered
+         technical modifications from its prior review authorized by Resolution Number 2022-67.
+         Pursuant to Government Code section 65585, subdivision (h), HCD is reporting the
+         results of its review. In addition, HCD considered comments from Costa Mesa First
+         pursuant to Government Code section 65588, subdivision (c).
+
+         The adopted housing element meets the statutory requirements of State Housing
+         Element Law (Gov. Code, § 65580 et seq.). However, the housing element cannot be
+         found in substantial compliance until the City has completed necessary rezones to
+         make prior identified sites available and address the shortfall of sites to accommodate
+         the RHNA pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021) as described
+         below.
+
+         Pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), a jurisdiction that failed
+         to adopt a compliant housing element within one year from the statutory deadline
+         cannot be found in compliance until rezones to make prior identified sites available or
+         accommodate a shortfall of sites, pursuant to Government Code section 65583,
+         subdivision (c) (1) (A) and Government Code section 65583.2, subdivision (c), are
+         completed. As this year has passed and Programs 3B (Fairview Development Center),
+         3C (North Costa Mesa Specific Plan), 3D (Urban plans and Overlays), and 3N (Reused
+         sites) have not been completed, the housing element is out of compliance and will
+         remain out of compliance until the rezoning has been completed. Once the City
+         completes the rezone, a copy of the resolution or ordinance should be transmitted to
+         HCD. HCD will review the documentation and issue correspondence identifying the
+         updated status of the City’s housing element compliance.
+Lori Ann Farrell Harrison, City Manager
+Page 2
+
+
+Additionally, the City must continue timely and effective implementation of all programs
+including but not limited to the following:
+
+   •   Program 2A (Inclusionary Housing Ordinance)
+   •   Program 2B (Affordable Housing Development)
+   •   Program 2I (State Density Bonus Incentives)
+   •   Program 2J (Transitional and Supportive Housing)
+   •   Program 2M (Parking Standards for Residential Development)
+   •   Program 2N (Reasonable Accommodation)
+   •   Program 2O (Definition of Single Housekeeping Unit)
+   •   Program 2P (Group Homes): Please note, HCD may follow up with additional
+       technical assistance. Please see HCD’s Group Home Technical Advisory at
+       https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/group-
+       home-technical-advisory-2022.pdf.
+   •   Program 3B (Fairview Development Center)
+   •   Program 3G (City-wide Vote Requirements)
+   •   Program 3R (Development of Large Sites)
+   •   Program 4A (Fair Housing)
+
+The City must monitor and report on the results of these and other programs through
+the annual progress report, required pursuant to Government Code section 65400.
+Please be aware, Government Code section 65585, subdivision (i), grants HCD
+authority to review any action or failure to act by a local government that it determines is
+inconsistent with an adopted housing element or State Housing Element Law. This
+includes failure to implement program actions included in the housing element. HCD
+may revoke housing element compliance if the local government’s actions do not
+comply with state law.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs, and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+Lori Ann Farrell Harrison, City Manager
+Page 3
+
+
+HCD appreciates the dedication and cooperation of the City’s housing element team
+provided during the review and update. HCD particularly applauds the efforts of
+Jennifer Le and Scott Drapkin whose collaboration, communication, expertise and
+public service is truly commendable. HCD wishes the City success in implementing its
+housing element and looks forward to following its progress through the General Plan
+annual progress reports pursuant to Government Code section 65400. If you have any
+questions or need additional technical assistance, please contact Jose Armando
+Jauregui of our staff, at Jose.jauregui@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager

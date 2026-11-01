@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024924",
+  "case_number": "ADU0007834",
+  "letter_date": "2020-11-23",
+  "jurisdiction": "Ojai",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "65852.2",
+  "n_statutes": "1",
+  "keywords": "ADU | connection fees",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/ojai-valley-sanitary-district-adu-ta-112320.pdf",
+  "hcd_letter": "Ojai Technical Assistance Letter 11/23/2020",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/ojai-valley-sanitary-district-adu-ta-112320.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 152488,
+  "text_chars": 6767,
+  "text_empty": false
+}

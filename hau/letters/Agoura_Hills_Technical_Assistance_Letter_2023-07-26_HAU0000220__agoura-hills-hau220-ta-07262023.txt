@@ -1,0 +1,149 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 26, 2023
+
+
+         Denice Thomas, AICP
+         Community Development Director
+         City of Agoura Hills
+         30001 Ladyface Court
+         Agoura Hills, CA 91301
+
+         Dear Denice Thomas:
+
+         RE: 2904 Agoura Road – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) is aware
+         that the City of Agoura Hills (City) is reviewing an application for a housing development
+         project located at 29045 Agoura Road (Project). The Project proposal includes a mixed-
+         use development with the construction of a four-story apartment building with
+         approximately 6,257 square feet of commercial space, including an existing 4,257-
+         square-foot, single-story commercial building to remain on-site. The Project would result
+         in the creation of 278 multi-family residential units, including 28 units affordable to very
+         low-income households and 10 units affordable to low-income households. The project
+         includes a request to utilize the State Density Bonus Law (SBDL, Gov. Code § 65915)
+         to achieve a density bonus.
+
+         HCD received a request for technical assistance from the Project applicant on May 5,
+         2023, regarding the interpretation of the SDBL in the context of the proposed Project.
+         The applicant expressed concerns that the City is using net acreage rather than gross
+         acreage to calculate the base density, and ultimately the density bonus. More
+         specifically, the applicant is requesting to include in its SDBL gross acreage calculation
+         the area of an existing improved City-maintained public street right-of-way adjacent to
+         the Project. The City, however, does not want to include that right of way in the SDBL
+         gross acreage calculation. The purpose of this letter is to provide technical assistance
+         on this matter.
+
+         Gross Acreage for the Purposes of State Density Bonus Law
+
+         The question of which portions of private property are included in gross acreage was
+         examined in HCD’s December 2022 letter to the City of Watsonville. 1 The SDBL
+
+1 HCD’s December 2022 letter to City of Watsonville addressing gross acreage is available at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/watsonville-TA-
+121522.pdf
+       Denice Thomas, AICP, Community Development Director
+       Page 2
+
+
+
+       requires that base density be determined using the gross acreage and not net acreage.
+       Government Code Section 65915, subdivision (f), states that a density bonus means, “a
+       density increase over the otherwise maximum allowable gross residential density…”
+       (emphasis added). As stated in the Watsonville letter, HCD confirms that all portions of
+       the site that are undevelopable including, but not limited to, riparian areas, wetlands,
+       steep slopes, and easements (including public rights of way) are included in gross
+       acreage.
+
+       To expand and clarify HCD’s previous interpretation of gross acreage, any portion of the
+       property that is owned in fee and for which an easement was granted for a public street
+       right-of-way, or any public right-of-way area, is like any other easement on the property
+       (such as utility easements, conservation easements, etc.). 2 Therefore, an easement for
+       a public street right-of-way is included in gross acreage for the purpose of calculating
+       density for SDBL projects. Included in gross acreage are all existing easements, and all
+       future easements or dedications that are typical conditions of approval for a project,
+       such as but not limited to, driveways, drive aisles, private or public streets, and any
+       public rights-of-way.
+
+       Importantly, Government Code Section 65915, subdivision (r), explicitly states that the
+       SDBL shall be interpreted liberally in favor of producing the maximum number of total
+       housing units. Therefore, the use of net acreage (or the exclusion of the public right-of-
+       way easement, in this case) would result in fewer housing units and conflict with SDBL's
+       express intent to produce the maximum number of housing units.
+
+       The City has asserted that the legal distinction between a public street right-of-way
+       created via a dedication and the granting of an easement is arbitrary. This is false. A
+       dedication typically results in the conveyance of the underlying fee interest in the land,
+       whereas the granting of an easement does not. If the landowner utilized an easement,
+       then that portion of the site must be included in the SDBL calculation. As to concerns
+       that some property owners may be unfairly advantaged by having the good fortune of
+       owning a fee interest in an adjacent street, there is no statutory issue. The ultimate
+       result is the production of more affordable and market-rate housing – the stated intent of
+       both the SDBL and the City’s Housing Element.
+
+       HCD is aware that the City is improperly utilizing a county assessor’s map to determine
+       gross acreage for the proposed Project. Assessors’ maps are not; however, accurate
+       representations of actual property boundaries because they are used to determine
+       usable, or taxable areas of a property. They; therefore, exclude areas that are owned in
+       fee but dedicated in easement for a public street right-of-way because public streets are
+       not subject to property tax. Accordingly, HCD advises the City to utilize land surveys
+       prepared by licensed surveyors or engineers that identify the entirety of a property
+
+
+
+2 “A public right-of-way is a form of easement, in that it grants the use rights in a particular parcel of
+
+land to nonowners of that land.” Bello v. ABA Energy Corp. (2004) 121 Cal.App.4th 301, 308 (citing
+Cal. Civ. Code, § 801, subd. (4).).
+      Denice Thomas, AICP, Community Development Director
+      Page 2
+
+
+
+      boundary (which includes all easements owned in fee) to calculate density for SDBL
+      projects to ensure the maximum allowable gross density is achieved. 3
+
+      Conclusion
+
+      HCD respects the challenges inherent in infill development and applauds the
+      construction of a mixed-income development on a site identified in the City’s 6th Cycle
+      Housing Element. HCD advises that the contents of this letter not be used to delay or
+      otherwise unnecessarily complicate a project moving forward through the entitlement
+      process. Local agencies should be pragmatic in their considerations of SDBL
+      applications that provide much needed affordable and market-rate housing throughout
+      California.
+
+      HCD would also like to remind the City that HCD has enforcement authority of the
+      SDBL, among other state housing laws. Accordingly, HCD may review local government
+      actions and inactions to determine consistency with these laws. If HCD finds that a city’s
+      actions do not comply with state law, HCD may notify the California Office of the
+      Attorney General that the local government is in violation of state law (Gov. Code, §
+      65585, subd. (j)). If you have any questions regarding the content of this letter or would
+      like additional technical assistance, please contact Jessica Evans at
+      jessica.evans@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+
+
+
+3 In fact, SDBL is implemented most effectively when both an applicant and a local government can
+
+rely on the preparation of a professional land survey to determine the size of a site, based on the area
+owned in fee.

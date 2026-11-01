@@ -1,0 +1,102 @@
+ STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+ DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+ DIVISION OF HOUSING POLICY DEVELOPMENT
+ 2020 W. El Camino Avenue, Suite 500
+ Sacramento, CA 95833
+ (916) 263-2911 / FAX (916) 263-7453
+ www.hcd.ca.gov
+
+
+
+
+          March 8, 2024
+
+
+          Lisa Webber, AICP, Deputy Director of Project Planning
+          City of Los Angeles
+          200 North Spring Street, Suite 525
+          Los Angeles, CA 90012
+          Dear Lisa Webber:
+          RE:       Los Angeles AB 2097 Implementation –
+                   San Monica Blvd. and Sepulveda Blvd. – Letter of Technical Assistance
+
+          This letter provides technical assistance regarding the application of Assembly Bill (AB)
+          2097 (Chapter 459, Statutes of 2022) and is provided for the benefit of both the City of
+          Los Angeles (City) and Irvine Associates (Requestor) 1. The California Department of
+          Housing and Community Development (HCD) previously issued this letter as an email to
+          the City, sent on January 12, 2024. HCD’s Housing Accountability Unit (HAU) received a
+          technical assistance request from the Requestor regarding whether the intersection of
+          Santa Monica Blvd. and Sepulveda Blvd. qualified as a “major transit stop” as defined in
+          the Public Resource Code section 21064.3.
+
+          Question 1. Can the Culver City (CC) 6 and 6R colinear local/bus rapid transit
+          (BRT) lines (line family) be combined to meet the 15-minute service interval
+          frequency to qualify as a major transit stop under Public Resources Code section
+          21064.3, subdivision (c)?
+
+          Response. For the purposes of AB 2097, colinear line families are combined and
+          considered as one service route for service interval frequency. Only the locations where
+          the buses stop with a frequency interval of 15 minutes or less during morning and afternoon
+          peak periods may qualify as major transit stops. Line families are intended to function as one
+          bus route, where transit riders typically board the first bus available whether it is a local,
+          express, or BRT line. This determination is consistent with Southern California Association of
+          Governments’ (SCAG) Connect SoCal Technical Report, adopted September 3, 2020. 2 HCD
+          understands, per the City’s email response dated January 9, 2024, that the City of
+          Los Angeles is currently considering aligning with SCAG’s methodology.
+
+
+1 AB 2097 is codified in Government Code § 65863.2 and became effective January 1, 2023. HCD has
+
+authority to enforce AB 2097 pursuant to Government Code § 65585, subdivision (j)(12).
+2 September 3, 2020. Connect SoCal. Southern California Association of Governments (SCAG).
+
+Technical Appendix [scag.ca.gov]
+        Lisa Webber, AICP, Deputy Director of Project Planning
+        Page 2
+
+
+
+        Question 2. Does the intersection of Santa Monica Blvd. and Sepulveda Blvd.
+        qualify as a “major transit stop” as defined in the Public Resources Code section
+        21064.3?
+        Response. The Santa Monica Blvd. and Sepulveda Blvd. intersection qualifies as a
+        “major transit stop” because it meets the qualifications of subdivision (c) of Public
+        Resources Code section 21064.3.
+        A “major transit stop”, as defined in the Public Resource Code section 21064.3, means
+        “a site that contains any of the following:
+            (a) An existing rail or bus rapid transit station.
+            (b) A ferry terminal served by either a bus or rail transit service.
+            (c) The intersection of two or more major bus routes with a frequency of service
+                interval of 15 minutes or less during the morning and afternoon peak commute
+                periods.”
+
+        The Los Angeles (LA) Metro Local Route 4, the Santa Monica Big Blue Bus Route 1, and the
+        CC Lines 6 and 6R each have a bus stop located at the intersection of Santa Monica Blvd.
+        and Sepulveda Blvd. Both the LA Metro Route 4 and CC Line 6 and 6R (“two or more major
+        bus routes”) have a frequency of service interval of 15 minutes or less during the morning
+        and afternoon peak commute periods. Table 1 details the average service interval frequency
+        in both directions during the peak periods for LA Metro Route 4 and CC Line 6 and 6R.
+        Table 1 Peak Period Service Intervals - LA Metro 4 and CC 6 + 6R
+                                              LA Metro Route 4 Culver City Line 6
+                                                                        + 6R
+         Peak Period 3                          East     West     North     South
+         Average AM Frequency (min.)             7         9        8        12
+         Average PM Frequency (min.)             8         7        10        9
+         Average AM + PM Frequency (min.)        8         8        9        10
+        HCD may review local government actions and inactions to determine consistency with
+        these laws and may notify the California Office of the Attorney General if a local
+        government is in violation of state law. (Gov. Code, § 65585, subd. (j).) If you have any
+        questions or need additional information, please contact Grace Wu, of our staff, at
+        grace.wu@hcd.ca.gov.
+
+        Sincerely,
+
+
+
+
+        Shannan West
+        Housing Accountability Unit Chief
+
+3 Per Connect SoCal 2020, the morning peak period is defined as 6am to 9am and the afternoon
+
+peak period is defined as 3pm to 7pm.

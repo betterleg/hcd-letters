@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0011620",
+  "case_number": "HAU0000297",
+  "letter_date": "2023-07-20",
+  "jurisdiction": "Malibu",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "noncompliance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/malibu-nov-072023.pdf",
+  "hcd_letter": "Malibu Notice of Violation 07/20/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/malibu-nov-072023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193443,
+  "text_chars": 8562,
+  "text_empty": false
+}

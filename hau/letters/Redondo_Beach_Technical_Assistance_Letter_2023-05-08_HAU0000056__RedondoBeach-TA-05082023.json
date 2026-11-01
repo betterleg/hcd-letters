@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0018345",
+  "case_number": "HAU0000056",
+  "letter_date": "2023-05-08",
+  "jurisdiction": "Redondo Beach",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act | Housing Element Law",
+  "statutes": "65580 | 65585(f)(2) | 65585(h) | 65589.5(d) | 65589.5(d)(2) | 65589.5(d)(3) | 65589.5(d)(4) | 65589.5(d)(5) | 65589.5(o)(1) | 65941.1(a)",
+  "n_statutes": "10",
+  "keywords": "Prelim Vesting",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/RedondoBeach-TA-05082023.pdf",
+  "hcd_letter": "Redondo Beach Technical Assistance Letter 05/08/2023",
+  "housing_law": "Housing Element Law, Housing Accountability Act, Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/RedondoBeach-TA-05082023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 324513,
+  "text_chars": 22093,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0012756",
+      "case_number": "HAU0000161",
+      "letter_date": "2023-05-08",
+      "jurisdiction": "Redondo Beach",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Accountability Act | Housing Element Law",
+      "statutes": "65580 | 65589.5(d)(5) | 65589.5(e)",
+      "n_statutes": "3",
+      "keywords": "HAA",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/RedondoBeach-TA-05082023.pdf",
+      "hcd_letter": "Redondo Beach Technical Assistance Letter 05/08/2023",
+      "housing_law": "Housing Accountability Act, Housing Element Law"
+    }
+  ]
+}

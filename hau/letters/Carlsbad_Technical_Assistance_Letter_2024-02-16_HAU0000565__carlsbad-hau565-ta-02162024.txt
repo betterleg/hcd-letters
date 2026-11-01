@@ -1,0 +1,147 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 16, 2024
+
+
+         Cliff Jones, Principal Planner
+         City of Carlsbad Planning Division
+         1635 Faraday Ave.
+         Carlsbad, CA 92008
+
+         Dear Cliff Jones:
+
+         RE: Carlsbad State Density Bonus Law Implementation – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from Jose Ponce of JSP Design Studio (JSP) on
+         November 7, 2023, regarding the application of the State Density Bonus Law (SBDL)
+         (Gov. Code, § 65915 et seq.). The SDBL allows housing developments with at least five
+         residential units to obtain increases in allowable density, incentives/concessions,
+         development standard waivers, and, for qualifying projects, reductions in parking
+         requirements by providing affordable housing. The purpose of this letter is to provide
+         technical assistance for the benefit of both the City of Carlsbad (City) and JSP regarding
+         basic eligibility under the law.
+
+         Project Description and Background
+
+         HCD understands that the proposed project, located at 334 Date Avenue, would provide
+         seven housing units overall: five total units (three multi-family residential units and two
+         accessory dwelling units (ADUs) of which one would be affordable to low-income
+         households and two bonus units. The applicant seeks to have the two ADUs count
+         toward the total number of units in the housing development 1, thereby meeting the
+         definition of a “housing development” under the SDBL and becoming eligible for a
+         density bonus. The City is uncertain as to whether ADUs can be used in this way to
+         achieve the minimum five-unit requirement. If so, the City also poses the downstream
+         question of whether the ADUs would be considered within the maximum allowable
+         residential density (i.e., base density) of the site for the purposes of the density bonus
+         calculation.
+
+
+
+
+1 Under State ADU Law, a local jurisdiction must allow up to two detached ADUs on a lot that has a
+
+proposed multifamily dwelling (Gov. Code, § 65852.2, subd. (e)(1)(D)(i)).
+      Cliff Jones, Principal Planner
+      Page 2
+
+
+
+
+      Interpretation of the SDBL
+
+      Eligibility under the Density Bonus Law
+
+      Government Code section 65915 requires that local governments grant certain housing
+      developments density bonuses if they provide specified levels of deed-restricted
+      affordable housing. A “housing development” that may be eligible for a density bonus is
+      defined by Government Code section 65915, subdivision (i), as “a development project
+      for five or more residential units, including mixed use developments.” Therefore, the
+      relevant question is: Can ADUs serve to qualify a project for a density bonus
+      pursuant to the SDBL, even though the general plan designation on the site
+      allows less than five primary units?
+
+      The answer is “yes.” A project initially qualifies under the SDBL when the project’s total
+      units 2 meet or exceed five units – not when the maximum allowable residential density3
+      for the site is five units or more. The phrase “development project of five or more units”
+      is analogous to the term “total units” as defined in the SDBL. Although the SDBL makes
+      no mention of ADUs in its text, it likewise does not expressly narrow the definition of unit
+      to exclude ADUs. Provided they are counted within the total units of the project, ADUs
+      are a type of housing unit that may be counted for the purposes of achieving the five
+      total unit minimum.
+
+      Additionally, Government Code section 65915, subdivision (r), states that the SDBL
+      should be “interpreted liberally in favor of producing the maximum number of housing
+      units,” while subdivision (u)(2) expresses the Legislature’s intent to “further incentivize
+      the construction of very low, low-, and moderate-income housing units.” Allowing ADUs
+      to count toward the five total unit minimum is consistent with both subdivisions. Broadly
+      interpreted, eligibility favors maximizing housing units and incentivizes the construction
+      of a low-income housing unit in this instance.
+
+      Density Bonus Calculation
+
+      The downstream question posed by the City is: If ADUs can be used to qualify a
+      project under the SDBL’s minimum total unit requirement, can they likewise be
+      used to calculate a density bonus? (i.e., Can they be included within the site’s
+      maximum allowable residential density?)
+
+      The answer is “no.” The calculation of a density bonus is based solely on a site’s
+      maximum allowable residential density which does not include ADUs. A density bonus
+      is defined as “a density increase over the otherwise maximum allowable gross
+      residential density…” 4 Maximum allowable residential density is defined as “the greatest
+      number of units allowed under the zoning ordinance, specific plan, or land use element
+
+
+2 Gov. Code, § 65915, subd. (o)(8).
+3 Gov. Code, § 65915, subd. (o)(6).
+4 Gov. Code, § 65915, subd. (f).
+Cliff Jones, Principal Planner
+Page 3
+
+
+
+of the general plan.” On the subject project site, the zoning ordinance allows up to two
+units and the general plan allows up to three. This means that the applicable maximum
+allowable residential density (i.e., base density) on the site is three units. The following
+is a summary table demonstrating the structure of the project. Note that with an
+applicable base density of three, it will be difficult for the applicant to achieve two bonus
+units because the necessary density bonus will be approximately 66 percent rather than
+the originally contemplated 35 percent. The applicant might consider an additional
+density bonus pursuant to Government Code section 65915, subdivision (v).
+
+     Base                  Total units               Bonus             Overall
+    Density                                          Units              Units
+    (units)
+      3                         5                       2                  7
+                          (3 multi-family
+                         residential units
+                           and 2 ADUs)
+
+Conclusion
+
+HCD finds that the proposed project meets the definition of housing development under
+the SDBL. It achieves the five-unit minimum total units by providing three primary units
+and two ADUs, thereby meeting the basic eligibility requirements for a density bonus
+under the SDBL. However, the calculation of the density bonus depends upon the site’s
+base density, which is three units in this case. HCD remains committed to supporting
+the City of Carlsbad in facilitating housing at all income levels and hopes the City finds
+this clarification helpful. If you have questions or need additional information, please
+contact David Ying at david.ying@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

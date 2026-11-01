@@ -1,0 +1,159 @@
+STATE OF CALIFORNIA - HOUSING AND HOMELESSNESS AGENCY                                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 26, 2026
+
+
+         Luis Torrico
+         Director of Community Development
+         City of San Dimas
+         Via: ltorrico@sandimasca.gov
+         245 E Bonita Ave
+         San Dimas, CA 91773
+
+         Dear Luis Torrico:
+
+         RE: City of San Dimas – 736 N Walnut Ave
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the applicant of the project located at 736 N Walnut
+         Avenue (“Project”). The applicant would like to apply the guidance provided by a prior
+         HCD technical assistance letter sent to the City of San Diego 1, which states that an
+         existing unit may be “sectioned off” as a remainder parcel under a Starter Home
+         Revitalization Act (SHRA) 2 application, and the rest of the parcel should then be
+         considered vacant for the purposes of the SHRA. HCD understands that the City of
+         San Dimas (“City”) does not agree with this guidance but also had other questions for how
+         to process applications that propose a remainder parcel, including whether future
+         development can occur on remainder parcels and if local standards may be applied to
+         remainder parcels. This letter serves to re-state HCD’s prior guidance while also
+         addressing the City’s questions.
+
+         Background
+
+         The Project proposes to construct ten units on ten lots in addition to a remainder parcel.
+         The remainder parcel contains an existing single-family home. The project site is in a
+         single-family zone and is 1.1 acres in size. Of the 1.1 acres, 0.5 will be dedicated to the
+         ten SHRA units, while the other 0.6 will remain with the existing residence as the
+         remainder parcel. The applicant has also inquired about potentially using SB 9 to create
+         additional units on the remainder parcel after the completion of the SHRA project.
+
+         HCD understands that the City considers the lot ineligible under the SHRA, stating that the
+         lot does not meet the definition of “vacant” under Government Code section
+
+
+1 Available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-
+
+diego-city-ta-hau-2350-10072025.pdf.
+2 Gov. Code, §§ 65852.28, 65913.4.5, and 66499.41.
+         Luis Torrico Director of Community Development
+         Page 2
+
+
+         66499.41(a)(2)(A)(ii). Lots in single-family zones must meet the definition of vacant to
+         qualify for the SHRA.
+
+         Question 1: Can an applicant designate an existing single-family residence or
+         structure as a “remainder parcel” such that the rest of the site is considered
+         “vacant” and therefore eligible for the provisions under the SHRA?
+
+         As stated in prior referenced HCD guidance, a proposed subdivision may designate a
+         remainder parcel that includes an existing single-family residence. Assembly Bill (AB) 130,
+         signed on June 25, 2025, establishes that such a remainder parcel must “retain[ ] existing
+         land uses or structures, . . . not contain any new residential units, and . . . not [be]
+         exclusively dedicated to serving the housing development project.” 3
+
+         The vacancy requirement established under the SHRA was intended to prevent the
+         demolition of viable housing. By allowing the designation of a remainder parcel to retain an
+         existing residence or other use, the statute provides a clear mechanism to preserve
+         existing housing stock while still enabling subdivision and the production of new housing
+         opportunities. The statutory language governing remainder parcels is written broadly to
+         expressly allow the retention of “existing land uses or structures”, including an existing
+         single-family residence. Importantly, the remainder parcel is excluded from the ten-parcel
+         cap as well as density calculations, 4 demonstrating the intent for remainder parcels to be
+         treated distinctly from the proposed subdivision and development. Accordingly, once a
+         remainder parcel is designated to retain an existing use, the site area outside of the
+         remainder parcel may be considered “vacant” for purposes of eligibility under the SHRA.
+         The site area for the proposed subdivision and development is still required to meet all
+         criteria under the SHRA, including minimum lot sizes.
+
+         Question 2: Can development occur on a remainder parcel created by a SHRA
+         project?
+
+         Yes, in most cases. After completion of the SHRA project, the remainder parcel is eligible
+         for development in the same manner as any other parcel. This is true whether the
+         remainder parcel is vacant or has an existing unit (e.g., allowing an ADU). The exception
+         being that the remainder parcel cannot be further divided through SHRA or SB 9. 5
+
+         Question 3: Can a parcel be developed as a SHRA development if the parcel has
+         been previously developed or entitled pursuant to an SB 9 Two-Unit development
+         with no lot split?
+
+         Yes, as long as there was no lot split under the SB 9 project, the parcel is eligible under
+         SHRA. The SB 9 development may be sectioned off as a remainder parcel.
+
+
+
+3
+    Gov. Code, § 66499.41, subd. (a)(1)(B)
+4 Gov. Code, § 66499.41, subds. (a)(1)(B), (a)(5)(B)(iii)
+5 Gov. Code, § 66499.41, subd. (a)(2)(D)
+         Luis Torrico Director of Community Development
+         Page 3
+
+
+         Question 4: Can the City require the remainder parcel created as part of a SHRA
+         development to comply with existing development standards (i.e., minimum lot
+         size, length and width, setbacks, lot coverage) required by the underlying zone?
+
+         The remainder parcel and existing structures are not subject to the applicable
+         development standards required by the underlying zone at the time of the SHRA
+         subdivision. However, a local government may deny the issuance of a parcel map,
+         tentative map, or final map so long as it makes certain written findings that the project will
+         create an adverse impact to public health and safety that cannot be mitigated (e.g.,
+         emergency access, building/fire code, etc.). 6
+
+         Once the SHRA development is complete, any future development on the remainder
+         parcel would be subject to all development standards required by the underlying zone. In
+         other words, SHRA standards only apply at the time of the SHRA subdivision. Following
+         the subdivision, the remainder parcel is treated like any other parcel in its zone.
+
+         Conclusion
+
+         The City’s position is inconsistent with the provisions of the SHRA because the statute
+         allows a site with an existing dwelling to be sectioned off through a remainder parcel to
+         qualify the rest of the parcel as “vacant”. Existing structures on the remainder parcel are
+         subject to SHRA standards at the time of the SHRA project. However, all future
+         development on the remainder parcel is subject to local development standards
+         associated with the underlying zone.
+
+         HCD reminds the City of its enforcement authority over the SHRA, among other state
+         housing laws. 7 Accordingly, HCD may review local government actions to determine
+         consistency with these laws. If HCD finds that a jurisdiction’s actions do not comply with
+         state law, HCD may notify the California Office of the Attorney General that the local
+         government is in violation of state law.
+
+         If you have any questions regarding the content of this letter or would like additional
+         technical assistance, please contact Bentley Regehr at bentley.regehr@hcd.ca.gov.
+
+         Sincerely,
+
+
+
+
+         Brian Heaton
+         Section Chief, Land Use Policy
+         Housing Accountability Unit
+
+
+
+6 Gov. Code, § 66499.41, subd. (f)
+7
+    Gov. Code, § 65585, subd. (j)

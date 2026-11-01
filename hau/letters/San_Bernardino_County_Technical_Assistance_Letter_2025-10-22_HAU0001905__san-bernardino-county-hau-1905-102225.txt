@@ -1,0 +1,225 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY               GAVIN NEWSOM, GOVERNOR
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400, Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+        October 22, 2025
+
+
+        Paul Toomey, Consulting Planning Manager
+        Land Use Services Department
+        County of San Bernardino
+        San Bernardino, CA 92415-0043
+
+        Dear Paul Toomey:
+
+        RE: San Bernardino County Housing Element Sites Inventory and Sufficient
+            Utilities – Letter of Technical Assistance
+
+        The purpose of this letter is for the California Department of Housing and Community
+        Development (HCD) to provide technical assistance to the County of San Bernardino
+        (County) regarding the County’s inventory of land suitable for residential development to
+        accommodate the Regional Housing Needs Assessment pursuant to Housing Element
+        Law. 1 This letter serves to notify the County that the County must demonstrate it
+        maintains adequate sites to accommodate its remaining Regional Housing Needs
+        Allocation (RHNA) for lower income (LI) in light of constraints that render several sites in
+        the County’s sites inventory credited for LI households unable to connect to water
+        service.
+
+        Background
+
+        HCD received a request for technical assistance regarding a proposed project located
+        at 2130 Nice Avenue within the unincorporated County and the City of Redlands Sphere
+        of Influence (SOI). The project requires water service from the City of Redlands to be
+        constructed. HCD understands that the City of Redlands is the only water provider for
+        residential developments within the City of Redlands SOI. The project proposes the
+        construction of 107 single family units at a density of 11 dwelling units per acre (DUA),
+        compliant with the County’s Multiple Residential (RM) zone minimum density of 11
+        DUA.
+
+        However, the project applicant has been unable to obtain a water “will serve” letter from
+        the City of Redlands due to Measure U, a City requirement that residential
+        developments comply with standards contained within the City’s General Plan as a
+        prerequisite for water service from the City. This was confirmed by City of Redlands
+        staff during a meeting with HCD. Measure U, passed by City of Redlands voters in
+        1997, establishes a requirement that developments conform to development standards
+
+1   Government Code sections 65580-65589.11
+Paul Toomey, Consulting Planning Manager
+Page 2
+
+
+
+that apply to those areas within the SOI as a precondition for water service beyond City
+limits. 2 Relevant to the project, the City of Redlands General Plan designates a
+maximum density of 6 DUA for the site as part of the City’s Low Density Residential
+Land Use Designation (the City’s General Plan Land Use element establishes
+standards for the SOI beyond the City’s boundaries). Thus, the County’s minimum DUA
+of 11 and the City of Redlands maximum of 6 DUA precludes the development from
+obtaining water from the City of Redlands, since the minimum and maximum densities
+are incompatible.
+
+The County’s 6th Cycle Housing Element and No Net Loss Law
+
+The County’s adopted Housing Element sites inventory includes several sites within the
+City of Redlands SOI credited to accommodate a portion of the LI RHNA. 3 These sites
+are located within the RM zone and are assumed in the housing element to have
+access to water service in the County’s housing element. 4
+
+On October 5, 2021, the San Bernardino County Board of Supervisors adopted
+Ordinance 4415, which amended development standards within the RM zone to
+increase maximum allowable density within the RM zone and establish a minimum of 11
+DUA within the RM zone in the valley area. This amendment was adopted to
+demonstrate that the sites within the zone would be sufficient to accommodate LI
+RHNA, according to a staff report for the Board of Supervisors meeting.
+
+After being approached by the applicant for the project located at 2130 Nice Ave. (which
+is not a site in the Housing Element inventory), HCD discovered that all sites within the
+City of Redlands SOI face the same constraint: the County’s minimum density standard
+exceeds the City of Redlands density maximum. The City of Redlands’ Measure U
+requires that sites within the SOI comply with the City’s development standards as a
+condition for water service. Therefore, these sites are unable to access water service.
+
+Analysis
+
+Housing Element Law requires that local governments identify in the housing element
+an inventory of land suitable and available for residential development during the
+planning period to accommodate the local government’s RHNA (site inventory). 5
+
+2 Measure U §1A.20.
+3 HCD found the County’s September 29, 2022, adopted housing element in in
+
+compliance with State Housing Element Law. See HCD’s November 28, 2022 review
+letter, available at: https://hcdpowerbi.blob.core.windows.net/housing-
+elements/sbdSanBernardinoCouAdoptIn112821.pdf
+4 The San Bernardino County September 29, 2022, adopted housing element page 3-11
+
+states, “In areas served by piped water, sewer, and paved roads, the minimum density
+shall be 11 units per acre.” Additionally, Appendix A shows that sites in the Redlands
+SOI have sufficient access to infrastructure.
+5 Gov. Code, § 65583, subd. (a)(3).
+Paul Toomey, Consulting Planning Manager
+Page 3
+
+
+
+Parcels included in the inventory must have sufficient water, sewer, and dry utilities
+supply available and accessible or be included in an existing general plan program or
+other mandatory program or plan to support housing development. 6 Additionally, the
+local government’s housing element must contain an analysis of potential and actual
+governmental constraints upon the development of housing for all income levels. 7
+
+Table 1 – San Bernardino County Housing Element Inventory Sites Within the City
+of Redlands SOI
+
+    Site Address             Redlands GP LU        San Bernardino     RHNA
+                             Designation           County Zone        projection
+    1262 Crafton Ave         Low Med. Res.         RM Zone            27 LI units
+                             (8 DUA Max)           (11-20 DUA)
+    2175 ½ E. Colton Ave     Low Density Res.      RM Zone            25 LI units
+                             (6 DUA Max)           (11-20 DUA)
+    2281 E. Mentone Blvd     Low Med. Res.         RM Zone            83 LI units
+                             (8 DUA Max)           (11-20 DUA)
+    Salic St.                Low Med. Res.         RM Zone            62 LI units
+                             (8 DUA Max)           (11-20 DUA)
+    2270 Mentone Blvd        Low Med. Res.         RM Zone            80 LI units
+                             (8 DUA Max)           (11-20 DUA)
+    Total                                                             277 LI Units
+
+Although the County’s Housing Element assumes that sites contained in Table 1 have
+access to water service, HCD has been made aware that the sites are in fact unable to
+connect to City of Redlands water. This is because Measure U prevents development
+projects that are not in compliance with City of Redlands General Plan development
+standards from obtaining City water. Additionally, the County’s Housing Element did not
+analyze the City of Redlands’ Measure U as a governmental constraint upon the
+development for housing as it relates to the sites identified in the site inventory. 8
+
+The County’s 6th cycle LI RHNA allocation is 3,538 units. After removing sites within the
+City of Redlands SOI that cannot connect to water, 9 the County’s capacity to
+accommodate the LI RHNA is 3,544. 10 This results in the County having a RHNA buffer
+of only 8 LI units at the time of adoption of the housing element, which jeopardizes the
+
+
+6 Gov. Code, § 65583.2, subd. (b)(5)(B).
+7 Gov. Code, § 65583, subd. (a)(5).
+8 Gov. Code, § 65583, subd. (a)(5).
+9Gov. Code, § 65583.2, subd. (b)(5)(B) establishes that parcels within the inventory
+must have sufficient water available and accessible or planned.
+10 San Bernardino County September 29, 2022, adopted Housing Element, Table 4-9 –
+
+Summary of Housing Opportunities by Income Category. The County identifies a total
+capacity of 3,821 LI units. However, removing the 277 units within the Redlands SOI
+results in a remaining capacity of 3,544 LI units.
+Paul Toomey, Consulting Planning Manager
+Page 4
+
+
+
+County’s ability to accommodate its remaining unmet share of the RHNA at all times
+throughout the planning period pursuant to Housing Element No Net Loss Law. 11
+
+The purpose of Housing Element No Net Loss Law is to ensure A jurisdiction must
+ensure their Housing Element sites inventory continues to have capacity at all times to
+accommodate the RHNA by income group throughout the planning period. If, at any
+time during the planning period, the jurisdiction finds that there is a shortfall of sites to
+accommodate its remaining RHNA, the jurisdiction must take immediate action to
+correct the shortfall by amending its Housing Element sites inventory to either include
+sites previously unidentified with capacity to accommodate the shortfall, or sites that
+have been rezoned to correct for the shortfall. Failure to do so constitutes a violation of
+the No Net Loss law. 12
+
+As a result of Measure U rendering sites credited for LI households within the County’s
+sites inventory unable to connect to water at densities sufficient to accommodate LI
+households, 13 HCD requests that the County either 1) demonstrate that it continues to
+have adequate capacity within the site inventory to accommodate the remaining lower-
+income RHNA and continue to maintain sufficient capacity pursuant to No Net Loss
+Law, or 2) will revise its Housing Element 14 to identify an inventory of land suitable to
+accommodate the County’s LI RHNA.
+
+HCD also encourages the County to revise minimum densities within the City of
+Redlands SOI to facilitate development. As has been previously established, the
+adoption of regional minimum densities in the RM zone in 2021 precludes sites within
+the RM zone from connecting with water pursuant to Measure U. Prior to the 2021 code
+amendment, HCD is aware that at least one development project was able to conform
+to County development standards and connect to City of Redlands water. 15
+
+
+
+
+11   Gov. Code, § 65863.
+12 For more information on No Net Loss Law, see HCD’s October 2, 2019, No Net Loss
+
+Memorandum, available at: https://www.hcd.ca.gov/community-development/housing-
+element/housing-element-memos/docs/sb-166-final.pdf
+13 Gov. Code, § 65835.2. subd. (c)(3).
+14 Gov. Code, § 65585, subd. (b).
+15 The San Bernardino County Planning Commission approved a project located at the
+
+Southeast Corner of Nice and Crafton Avenue on July 6, 2017. The project was
+proposed at 5.47 DUA, which was both consistent with the County’s General Plan and
+the City of Redlands General Plan, according to a staff report.
+Paul Toomey, Consulting Planning Manager
+Page 5
+
+
+
+Conclusion
+
+HCD requests a written response from the City within 30 days November 21, 2025,
+indicating how the County plans to implement the guidance provided in this letter. If you
+have questions or need additional technical assistance, please contact Brandon Yung at
+brandon.yung@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Housing Accountability Unit Chief
+Division of Housing Policy Development

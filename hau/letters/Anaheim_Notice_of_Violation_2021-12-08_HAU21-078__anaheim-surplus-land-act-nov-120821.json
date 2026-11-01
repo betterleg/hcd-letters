@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010764",
+  "case_number": "HAU21-078",
+  "letter_date": "2021-12-08",
+  "jurisdiction": "Anaheim",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Other",
+  "statutes": "54230.5",
+  "n_statutes": "1",
+  "keywords": "Surplus Land Act",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/anaheim-surplus-land-act-nov-120821.pdf",
+  "hcd_letter": "Anaheim Notice of Violation 12/08/2021",
+  "housing_law": "Other",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/anaheim-surplus-land-act-nov-120821.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 201012,
+  "text_chars": 10442,
+  "text_empty": false
+}

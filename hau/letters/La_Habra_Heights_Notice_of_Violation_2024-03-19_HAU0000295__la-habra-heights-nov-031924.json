@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018982",
+  "case_number": "HAU0000295",
+  "letter_date": "2024-03-19",
+  "jurisdiction": "La Habra Heights",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588(e)(3)",
+  "n_statutes": "1",
+  "keywords": "Failure to Adopt a Compliant 6th Cycle Housing Element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-habra-heights-nov-031924.pdf",
+  "hcd_letter": "La Habra Heights Notice of Violation 03/19/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-habra-heights-nov-031924.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 217247,
+  "text_chars": 9081,
+  "text_empty": false
+}

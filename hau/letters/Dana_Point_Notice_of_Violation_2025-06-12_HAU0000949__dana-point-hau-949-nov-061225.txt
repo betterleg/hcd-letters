@@ -1,0 +1,283 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 12, 2025
+
+         Brenda Wisneski
+         Director of Community Development
+         City of Dana Point
+         33282 Golden Lantern
+         Dana Point, CA 92629
+
+         Dear Brenda Wisneski:
+
+         RE: City of Dana Point – Villas at Monarch Beach State Density Bonus Law
+             Project – Notice of Violation
+
+         The California Department of Housing and Community Development (HCD) is providing
+         this letter as a follow-up to the Letter of Technical Assistance (TA Letter) HCD sent on
+         September 25, 2024 (enclosed and incorporated herein). HCD is aware that the
+         proposed project known as The Villas at Monarch Beach, located at 23731 and 23781
+         Mariner Drive (Project) is currently the subject of a lawsuit. 1 The lawsuit is related to a
+         dispute between a developer and the City of Dana Point (City) about the appropriate
+         method for calculating the base density of the site for purposes of implementing State
+         Density Bonus Law (SDBL).
+
+         Background
+
+         The Project site has a general plan land use designation of “Residential 14-22” and a
+         zoning designation of “Residential Multiple Family 22 (RMF 22).” Both designations
+         allow for multifamily residential uses. The Project site has a gross land area of 561,924
+         square feet (12.9 acres), 2 of which approximately 44,012 square feet is comprised of
+         public rights-of-way, easements, and dedicated facilities. The proposed development
+         includes 208 existing multi-family dwelling units and proposes construction of 500 new
+         multifamily dwelling units, for a total of 708 units.
+
+         HCD understands that the Project applicant (Applicant) has been working with the City
+         since 2017 to determine the maximum allowable residential density (i.e., base density)
+         for the Project site. A relevant timeline is below:
+
+
+1 ST Apartments LLC v. City of Dana Point. Orange County Superior Court (2024).
+2 Based on Tract Map No. 7782, available at https://webapps.ocgis.com/oclandinsights/map-
+
+viewer?id=2.
+       Brenda Wisneski, Director of Community Development
+       Page 2
+
+
+
+              •   2017 to approximately 2022. The City confirmed in writing on several
+                  occasions that the General Plan and zoning code allowed for a base density
+                  of 325 dwelling units on the site. 3
+              •   May 18, 2023. The Applicant submitted a preliminary application for a project
+                  with a base density of 325 dwelling units. The City deemed the application
+                  incomplete on June 14, 2023. The Applicant resubmitted on August 4, 2023,
+                  but the application expired because the Applicant never submitted a full
+                  development application. 4
+              •   June 16, 2023. The City Attorney provided a letter to the Applicant stating the
+                  base density on the site is lower than the previously stated 325 dwelling units
+                  without specifying an alternate base density.
+              •   September 27, 2023. The City Attorney issued another letter stating that City
+                  staff erroneously communicated the base density of 325 units and that the
+                  base density of the site is 261 dwelling units.
+              •   January 31, 2024. The Applicant submitted a second preliminary application
+                  for the Project.
+              •   March 21, 2024. The City wrote to the Applicant indicating it had deemed the
+                  preliminary application complete and that the full development application
+                  was still due, and arguing that the base density of 261 units was correct.
+              •   May 7, 2024. ST Apartments LLC filed a lawsuit against the City primarily
+                  regarding the base density dispute for the Project.
+              •   May 2024 – May 2025. ST Apartments and the City filed a series of legal
+                  briefs with the court.
+              •   July 29, 2024. The application that was submitted on January 31, 2024
+                  expired after 180 days because the Applicant never submitted a full
+                  development application. (Note that the Applicant argues it would have been
+                  pointless to submit the full application while the City is defending an
+                  inaccurate determination on base density.)
+
+
+
+
+3 City code requires rounding down for densities that result in a fractional unit pursuant to Dana Point
+
+Municipal Code (DPMC) § 9.09.030(3).
+4 See Gov. Code, § 65941.1, subd. (e).
+      Brenda Wisneski, Director of Community Development
+      Page 3
+
+
+
+
+      Analysis
+
+      Methodology for Calculating Base Density
+
+      In the time since HCD issued its TA Letter, there has been no change to SDBL that
+      affects HCD’s prior conclusion about the proper calculation of base density for the
+      Project. 5 Base density means “the greatest number of units allowed under the zoning
+      ordinance, specific plan, or land use element of the general plan, or, if a range of
+      density is permitted, means the greatest number of units allowed by the specific zoning
+      range, specific plan, or land use element of the general plan applicable to the project.” 6
+      SDBL requires the calculation of base density to use “gross” acreage to yield the
+      maximum number of total housing units, which includes all portions of a property owned
+      in fee simple. 7
+
+      The City’s General Plan Land Use Element (LUE) designates the Project site
+      Residential 14-22. 8 This designation allows for “22 dwelling units per net acre of land.” 9
+      The LUE defines a “net acre” as 35,000 square feet of site area. 10 This standard
+      translates to 354 dwelling units for the Project site, or 27.4 units per (gross) acre. 11
+      Therefore, the base density for this project site is 354 dwelling units or 27.4 dwelling
+      units per acre.
+
+      For the RMF 22 district, the City’s 1996 zoning ordinance for High Density Residential
+      Districts identifies a maximum density of 22 dwellings per net acre of land. 12 “Net
+      acreage” in the City’s zoning is defined as “[t]he total area of a site or lot minus any and
+      all required dedications for public streets and rights-of-way, public parks, school sites,
+      and other facilities.”13
+
+5 Since HCD’s TA Letter, Government Code section 65915 was amended by AB 3116 (Chapter 432,
+
+Statutes of 2024, effective January 1, 2025). However, these amendments are related to density
+bonuses for student housing developments and are not relevant to the project at hand.
+6 Gov. Code, § 65915, subd. (o)(6).
+7 Gov. Code, § 65915, subd. (f). See also Technical Assistance Letter to the City of Agoura Hills
+
+(July 26, 2023), available at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+community/HAU/agoura-hills-hau220-ta-07262023.pdf.
+8 Dana Point LUE, page 41.
+9 Dana Point LUE, page 34.
+10 Dana Point LUE, page 32.
+11 One acre contains 43,560 square feet (SF). The site area is 12.9 acres or 561,924 SF. 561,924 SF
+
+/ 35,000 SF = 16.055 portions of 35,000 SF each. 16.055 portions of 35,000 SF * 22 dwelling units =
+353.2 dwelling units, which rounds up to 354 dwelling units (per Gov. Code, § 65915, subd. (f)(5).)
+354 dwelling units / 12.9 acres = 27.4 dwelling units per acre.
+12 DPMC § 9.09.010(d).
+13 DPMC § 9.75.010.
+         Brenda Wisneski, Director of Community Development
+         Page 4
+
+
+
+
+         Although the densities in the LUE and zoning ordinance expressed in units per net acre
+         appear to be equivalent (22 units per net acre of land), the calculation of net land area is
+         not the same between the LUE (which calculates net land area as approximately 80
+         percent of gross land area) and the zoning (which calculates net land area as gross
+         land area minus public rights-of-way and facilities). These differences mean that the
+         same density per net acre results in a different base density for the LUE versus the
+         zoning ordinance, because the calculation to determine units per gross acre based on
+         the units per net acre is different under the two models.
+
+         The net area for the project site under the 1996 zoning ordinance, after subtracting
+         areas used for public rights-of-way and facilities, equates to 517,912 square feet or
+         11.89 acres. At a density of 22 units per net acre, the base density allowed by zoning is
+         262 units. As a result, the zoned density equates to 262 units per 11.89 acres, or 20.3
+         units per gross acre.
+
+         Although the zoning and General Plan result in different base densities, state law clearly
+         contemplates this possibility and requires that base density be determined as “the
+         greatest number of units allowed by the specific zoning range, specific plan, or land use
+         element of the general plan.”14 Compared to the 20.3 units per (gross) acre, or 262
+         units, in the zoning ordinance (RMF 22), the LUE provides the highest number of
+         units—27.4 units per gross acre or 354 units for the 12.9 acre site—and therefore sets
+         the SDBL base density pursuant to Government Code section 65915, subdivision (o)(6).
+         See Table 1 below for a summary of this comparison between the base density
+         calculation in the LUE and the RMF 22 zone.
+
+         Table 1. Base Density Calculation
+
+                                                                             Base Density (units)
+          Base Density           Gross Area (acres)      Density (du/ac)
+                                                                            (Gross Area x Density)
+          General Plan Land
+                                        12.90                 27.4                    354
+          Use Element
+          Zoning Ordinance              12.90                 20.3                    262
+
+         City’s Response
+
+         HCD emailed the City on April 23, 2025 requesting a response to the TA Letter. On
+         April 29, 2025, HCD received an email response stating: “There currently is no active
+         application to develop the property at 23731 and 23781 Mariner Drive. If one is
+         submitted in the future, the City will certainly consider your guidance at that time.”
+
+
+14
+     Gov. Code, § 65915, subd. (o)(6). (Emphasis added.)
+      Brenda Wisneski, Director of Community Development
+      Page 5
+
+
+
+      HCD’s understanding is also that there is no unexpired application for the Project
+      currently pending with the City. However, the City’s response does not address the
+      substance of the TA Letter regarding the base density calculation. The City is currently
+      defending the ST Apartments lawsuit, in which the central dispute is whether the base
+      density for this project site is 27.4 units per acre, as the developer alleges and the TA
+      Letter and this Notice conclude, or 22 units per acre, as the City alleges. A vague
+      commitment to “consider” HCD’s guidance at some point in the future is not an
+      acceptable response. This Project is currently unable to proceed because the City has
+      insisted on a base density calculation that contradicts the plain language of the SDBL.
+
+      Housing Element
+
+      HCD found the City’s 6th Cycle housing element substantially compliant with Housing
+      Element Law on October 20, 2022. HCD’s certification letter notes: “The City must
+      continue timely and effective implementation of all programs.” 15 This includes Program
+      1.2, which commits the City to update its Density Bonus Ordinance, which currently
+      dates to 2006, 16 to conform to the current version of the SDBL. 17
+
+      The City’s 2024 General Plan Annual Progress Report states, regarding Program 1.2,
+      that the City has “initiated the code update of the City’s Density Bonus Ordinance...” and
+      anticipates finalizing the ordinance this year. 18 However, the program’s timeline in the
+      housing element states, “Initiate Code update by 2022 with the intent to adopt in 2022
+      (subject to future certification by the California Coastal Commission)....” 19 Thus, the City
+      is behind the approved schedule for adopting an update to its Density Bonus Ordinance.
+      The delay in updating the City’s Density Bonus Ordinance appears to be having tangible
+      impacts: the City’s housing element noted in its review of 5th Cycle programs that the
+      City received no applications for density bonus projects between 2014 and 2021. 20
+      These facts underscore the importance of abiding by SDBL and fulfilling the housing
+      element’s commitment to update the Density Bonus Ordinance in a manner that
+      complies with SDBL.
+
+
+
+
+15 HCD Letter re: City of Dana Point’s 6th Cycle (2021-2029) Adopted Housing Element
+
+(October 20, 2022), available at https://hcdpowerbi.blob.core.windows.net/housing-
+elements/oraDanaPointAdoptedIN102022.pdf.
+16 DPMC, Chapter 4.40.
+17 City of Dana Point 2021-2029 Housing Element (Adopted September 2022), pg. H-168, available at
+
+https://hcdpowerbi.blob.core.windows.net/housing-elements/dana-point-6th-adopted092322.pdf.
+18 See Housing Element Implementation and APR Dashboard, Implementation, Programs, available
+
+at https://www.hcd.ca.gov/planning-and-community-development/housing-element-implementation-
+and-apr-dashboard.
+19 Dana Point Adopted Housing Element, pg. 168.
+20 Ibid. at pg. H-163.
+      Brenda Wisneski, Director of Community Development
+      Page 6
+
+
+
+
+      Conclusion
+
+      The City has failed to apply the base density of 27.4 units per acre to the Project as
+      required by SDBL. As a result, the City is in violation of state housing law.
+
+      As a reminder, if HCD finds that a city’s actions do not comply with state law, including
+      SDBL and Housing Element Law, HCD may notify the Office of the Attorney General. 21
+      The City has 30 days to respond to this Notice of Violation and must provide a written
+      response and plan of action to remedy the violations of state law no later than
+      July 11, 2025. HCD will consider this response before taking further action authorized
+      by state law.
+
+      If you have questions or would like to discuss the contents of this letter, please contact
+      David Barboza at david.barboza@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      David Zisser
+      Assistant Deputy Director
+      Local Government Relations and Accountability
+
+
+
+
+21 Gov. Code, § 65585, subd. (j).

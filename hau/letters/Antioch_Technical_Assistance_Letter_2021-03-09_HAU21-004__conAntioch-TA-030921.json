@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010673",
+  "case_number": "HAU21-004",
+  "letter_date": "2021-03-09",
+  "jurisdiction": "Antioch",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "66300 | 66300(b)(1)(A)",
+  "n_statutes": "2",
+  "keywords": "Measure T | growth measure",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/conAntioch-TA-030921.pdf",
+  "hcd_letter": "Antioch Technical Assistance Letter 03/09/2021",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/conAntioch-TA-030921.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 165269,
+  "text_chars": 6564,
+  "text_empty": false
+}

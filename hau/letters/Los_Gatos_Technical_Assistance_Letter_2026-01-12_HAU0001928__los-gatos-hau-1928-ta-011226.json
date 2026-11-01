@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023812",
+  "case_number": "HAU0001928",
+  "letter_date": "2026-01-12",
+  "jurisdiction": "Los Gatos",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(b)(1) | 65915(o)(9)(A) | 65915(r)",
+  "n_statutes": "3",
+  "keywords": "Concession",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-gatos-hau-1928-ta-011226.pdf",
+  "hcd_letter": "Los Gatos Technical Assistance Letter 01/12/2026",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-gatos-hau-1928-ta-011226.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 200706,
+  "text_chars": 7713,
+  "text_empty": false
+}

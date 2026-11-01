@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021036",
+  "case_number": "HAU0002846",
+  "letter_date": "2025-03-17",
+  "jurisdiction": "San Dimas",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "San Dimas Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-dimas-he-rezone-loi-031725.pdf",
+  "hcd_letter": "San Dimas Letter of Inquiry 03/17/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-dimas-he-rezone-loi-031725.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 157571,
+  "text_chars": 4220,
+  "text_empty": false
+}

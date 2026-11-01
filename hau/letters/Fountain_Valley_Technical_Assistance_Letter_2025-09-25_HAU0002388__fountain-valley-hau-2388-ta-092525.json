@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022013",
+  "case_number": "HAU0002388",
+  "letter_date": "2025-09-25",
+  "jurisdiction": "Fountain Valley",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "50053(b)(2)(A) | 65915(c)(1)(B)",
+  "n_statutes": "2",
+  "keywords": "affordable rents | tax credits",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fountain-valley-hau-2388-ta-092525.pdf",
+  "hcd_letter": "Fountain Valley Technical Assistance Letter 09/25/2025",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/fountain-valley-hau-2388-ta-092525.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193294,
+  "text_chars": 9388,
+  "text_empty": false
+}

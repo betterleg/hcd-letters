@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010698",
+  "case_number": "HAU21-101",
+  "letter_date": "2022-04-29",
+  "jurisdiction": "Temple City",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019",
+  "statutes": "65008 | 65852.2 | 66300(b)(1)(A) | 8899.50",
+  "n_statutes": "4",
+  "keywords": "30-year deed restriction | 800 square feet | LEED | SB9 | courtyards | governmental constraints | height limit | lot split | maximum unit size | parking | subterranean third story",
+  "n_keywords": "11",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanTempleCity-TA-042922.pdf",
+  "hcd_letter": "Temple City Technical Assistance Letter 04/29/2022",
+  "housing_law": "Housing Crisis Act of 2019",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanTempleCity-TA-042922.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 212355,
+  "text_chars": 20557,
+  "text_empty": false
+}

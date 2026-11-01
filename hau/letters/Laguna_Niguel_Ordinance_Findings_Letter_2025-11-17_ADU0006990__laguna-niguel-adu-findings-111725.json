@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022792",
+  "case_number": "ADU0006990",
+  "letter_date": "2025-11-17",
+  "jurisdiction": "Laguna Niguel",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "Construction requirements | Development Standards | Parking Exceptions",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/laguna-niguel-adu-findings-111725.pdf",
+  "hcd_letter": "Laguna Niguel Ordinance Findings Letter 11/17/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/laguna-niguel-adu-findings-111725.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 166931,
+  "text_chars": 7175,
+  "text_empty": false
+}

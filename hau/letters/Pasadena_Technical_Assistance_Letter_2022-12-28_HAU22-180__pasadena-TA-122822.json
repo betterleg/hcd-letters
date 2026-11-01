@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010720",
+  "case_number": "HAU22-180",
+  "letter_date": "2022-12-28",
+  "jurisdiction": "Pasadena",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(o)",
+  "n_statutes": "1",
+  "keywords": "AB 2334 | base density | highest available density | maximum allowable residential density",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/pasadena-TA-122822.pdf",
+  "hcd_letter": "Pasadena Technical Assistance Letter 12/28/2022",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/pasadena-TA-122822.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 209919,
+  "text_chars": 3348,
+  "text_empty": false
+}

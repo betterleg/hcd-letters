@@ -1,0 +1,251 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 9, 2023
+
+
+         David Livingston, County Council
+         County of El Dorado
+         330 Fair Lane
+         Placerville, CA 95667
+
+         Dear David Livingston:
+
+         RE: Cameron Park Housing Project – State Density Bonus Law and AB 2334 –
+             Letter of Technical Assistance
+
+         The purpose of this letter is to provide technical assistance to the County of El Dorado
+         (County) regarding the application of the State Density Bonus Law (SDBL) (Gov. Code, §
+         65915 et seq.) as it pertains to the County’s consideration of a proposed 161-lot single
+         family residential subdivision to be located on a 104-acre site located in the unincorporated
+         community of Cameron Park (APN: 070-011-051) (Project). The California Department of
+         Housing and Community Development (HCD) received a request for technical assistance
+         from the applicant, TTLC Cameron Park-Meadows, LLC., on February 21, 2023. The
+         applicant seeks to utilize the SDBL by providing at least 10 percent of the Project’s units at
+         a rate affordable to moderate-income households. HCD understands that the County has
+         raised the issue of whether the base density specified in the Zoning Code 1 (one dwelling
+         unit per acre) or that of the General Plan 2 (one to five dwelling units per acre), applies. The
+         proposed Project would have a gross density of approximately 1.6 dwelling units per acre.
+         This letter describes relevant changes to the SDBL that took effect on January 1, 2023,
+         because of the passing of Assembly Bill (AB) 2334 (Chapter 653, Statutes of 2022) that
+         directly affect the proposed Project.
+
+         Background
+
+         To calculate a density bonus under the SDBL, it is essential to first determine the
+         number of units that could ordinarily be built on a site without the use of the SDBL. This
+         starting point is known as the “maximum allowable residential density” or “base density.”
+
+
+1 The applicable Zoning Designation is “R1A - One-acre Residential” (El Dorado County Code section
+
+130.24.030).
+2 The applicable General Plan Land Use Designation is “HDR – High Density Residential” (El Dorado
+
+County General Plan – Land Use Element, Table 2-2 [Land Use Densities and Residential Population
+Ranges], pg. 20).
+      David Livingston, County Council
+      Page 2
+
+
+
+      It is calculated by multiplying the gross acreage of the project site with the applicable
+      density standard expressed in dwelling units per acre (du/ac). 3 Unfortunately, it is not
+      always clear to applicants and local agencies exactly which density standard applies.
+      The following are a few of the complicating factors:
+
+         •   Multiple Regulatory Documents. In many instances, a project site will be
+             assigned a different density (or range of densities) by the associated General
+             Plan Land Use Designation, the Zoning District in Zoning Code, and the Specific
+             Plan. Occasionally, additional planning documents such as Redevelopment
+             Plans, Community Plans, Small Area Plans, Precise Plans, Master Plans, etc.
+             may also apply.
+         •   Relationships Unclear. In many instances, competing planning documents do
+             not adequately describe the relationship (i.e., hierarchy) between the plans or
+             how to proceed in case of conflict or inconsistency between or among the plans.
+             In some instances, the documents state the relationship explicitly while in others
+             the relationship is implied, and sometimes the relationship appears completely
+             unconsidered.
+         •   Inconsistencies Are Common. Inconsistencies between planning documents
+             are common across California. Not only do different documents sometimes
+             specify different maximum densities (and density ranges), but many also differ
+             regarding allowable land uses and development standards. For instance, a
+             General Plan Land Use Designation may clearly allow multifamily residential
+             uses, but the implementing Zoning District may prohibit residential uses
+             altogether. Indeed, until the passing of Senate Bill (SB) 1333 (Chapter 856,
+             Statutes of 2018) a charter city was not legally required to maintain consistency
+             between its General Plan and Zoning Code at all.
+
+      These factors combined have caused countless disagreements and resulted in project
+      delays – ultimately slowing the production of much needed affordable housing in SDBL-
+      enabled projects.
+
+      Evolution of “Maximum Allowable Residential Density” in SDBL
+
+      To understand how base density is established by applicants under the SDBL, it is
+      helpful to review the most recent iterations of this provision of the law. The paragraphs
+      below describe the evolution of the SDBL and reflect the shifting focus and purpose of
+      the definition of “maximum allowable residential density.”
+
+
+
+
+3 The SDBL provides an alternative method of calculating base density when the applicable planning
+
+document does not provide a density standard in the form of dwelling units per acre. See Government
+Code section 65915, subdivisions (o)(6)(A-B)
+      David Livingston, County Council
+      Page 3
+
+
+
+
+      “Maximum allowable residential density” meaning from 2006 through 2008
+
+      Prior to January 1, 2009, the SDBL provided that the maximum allowable residential density
+      meant, “the density allowed under the zoning ordinance, or if a range of density is permitted,
+      means the maximum allowable density for the specific zoning range applicable to the project.”
+      (Gov. Code, § 65915, subd. (o)(2) [effective January 1, 2006, to December 31, 2008].) This
+      one-sentence definition simply established the expectation that the density expressed in the
+      Zoning Code would be used to determine the base density of a project. It did not contemplate
+      potential inconsistencies between documents.
+
+      “Maximum allowable residential density” meaning from 2009 through 2022
+
+      From January 1, 2009, to the close of 2022, the SDBL provided that maximum
+      allowable residential density meant, “the density allowed under the zoning ordinance
+      and land use element of the general plan, or if a range of density is permitted, means
+      the maximum allowable density for the specific zoning range and land use element of
+      the general plan applicable to the project. Where the density allowed under the zoning
+      ordinance is inconsistent with the density allowed under the land use element of the
+      general plan, the general plan density shall prevail.” (Gov. Code, § 65915, subd. (o)(2)
+      [effective January 1, 2009, through December 31, 2022].) This expanded two-sentence
+      definition references the General Plan density for the first time. However, the structure
+      of first sentence suggests an expectation that “the density allowed under the zoning
+      ordinance and the land use element of the general plan” will be the same. Helpfully, the
+      second sentence instructs that, in the event of an inconsistency, the General Plan
+      density shall prevail. This approach is consistent with the general hierarchical
+      relationship between the General Plan and the subordinate documents that implement it
+      (e.g., zoning code, specific plan, etc.) described in the Planning and Zoning portion of
+      the Government Code (Gov. Code, §§ 65000-66499.58). 4 Furthermore, the law did not
+      define the term “inconsistent.” This letter does not propose to define the term
+      “inconsistent.” It instead focuses on how a local agency should determine the applicable
+      base density for a density bonus project following the effective date of AB 2334 (which
+      represents a significant change in the application of the SDBL).
+
+      “Maximum allowable residential density” meaning beginning January 1, 2023
+
+      Beginning in 2023, and because of AB 2334, maximum allowable residential density or
+      base density means, “…the maximum number of units allowed under the zoning
+      ordinance, specific plan, or land use element of the general plan, or, if a range of
+
+4 The California Supreme Court has held that “[b]ecause of its broad scope, long-range perspective,
+
+and primacy over subsidiary land use decisions, the ‘general plan has been aptly described as the
+“constitution for all future developments” within the city or county.’” (Orange Citizens for Parks &
+Recreation v. Superior Court (2016) 2 Cal.5th 141, 152 [citations omitted].)
+      David Livingston, County Council
+      Page 4
+
+
+
+      density is permitted, means the maximum number of units allowed by the specific
+      zoning range, specific plan, or land use element of the general plan applicable to the
+      project. If the density allowed under the zoning ordinance is inconsistent with the
+      density allowed under the land use element of the general plan or specific plan, the
+      greater shall prevail…” (Gov. Code, § 65915, subd. (o)(6) [emphasis added].) AB 2334
+      made two significant changes to the definition: (1) the word “and” is replaced by “or” and
+      (2) the second sentence now requires the greater density to apply, rather than deferring
+      to the General Plan density as before. These are changes significant and represent a
+      change in procedure.
+
+      First, the new language acknowledges the frequency and severity of inconsistencies
+      between planning documents across the state. Inconsistency is now anticipated and
+      addressed in the primary operative sentence. The language instructs that the highest
+      density available in any of the competing documents is the one that applies and
+      provides no automatic deference to the General Plan. For this narrow purpose under
+      the SDBL, the hierarchies between the plans are flattened. Further underscoring this
+      point is the appearance of the term “specific plan,” representing a common contender
+      among competing plans.
+
+      Second, the restructured second sentence now mirrors the directive of the first
+      sentence. It contains the comparative word “greater,” underscoring the need to select
+      the highest density available (and departing from its prior restatement of the primacy of
+      the General Plan). The restructured second sentence also reassures practitioners that
+      in some instances the applicable density will be greater than that expressed in the
+      General Plan. While this may be initially jarring to some given the established
+      relationship between the General Plan and the subordinate plans that implement it, it is
+      not problematic for the narrow purposes of applying the SDBL. 5
+
+      Liberal Interpretation for Maximum Housing
+
+      The changes made by AB 2334 are consistent with the SDBL’s directive that it, “shall be
+      interpreted liberally in favor of producing the maximum number of total housing units.”
+      (Gov. Code, § 65915, subd. (r).) By instructing local agencies to apply the highest
+      available density standard, it ensures that the greatest amount of housing production is
+      achieved – regardless of any confusing or conflicting local circumstances resulting from
+      competing, differing regulatory documents.
+
+
+
+
+5 A fundamental aspect of the SDBL is that it allows a project to exceed the maximum allowable
+
+densities expressed in the General Plan (i.e., a density bonus) and to exceed certain development
+standards that may be expressed in the General Plan (i.e., maximum floor area ratios, building
+heights, etc.). SDBL has, since its inception, allowed developments to be inconsistent with the
+General Plan for the explicit purpose of producing affordable housing.
+David Livingston, County Council
+Page 5
+
+
+
+
+Conventional Land Use Practice
+
+HCD recognizes that some local agencies have a local regulatory framework where a
+single General Plan Land Use Designation is implemented by more than one Zoning
+District. For instance, a General Plan may have a Land Use Designation (e.g., Medium
+Density Residential, allowing 20-40 du/ac) that is implemented by two Zoning Districts
+(e.g., R-2 and R-3, allowing a maximum of 20 du/ac and 40 du/ac, respectively). This
+approach has been used across the state, typically because (1) it is broadly consistent
+with the established role of the General Plan as a high-level policy document that is
+implemented by fine grained subordinate plans (e.g., Zoning Code, Specific Plan, etc.)
+and (2) it can allow for limited rezoning without the need for General Plan Amendments
+in certain circumstances. Local agencies with a system like this should be prepared to
+use the highest available density (per the above discussion), which in some instances
+will result in SDBL-enabled projects utilizing a higher base density than the Zoning
+District would indicate.
+
+Conclusion
+
+In summary, the proposed Project’s applicable base density is five dwelling units per
+acre because that is the highest available density. This is the highest end of the range
+expressed in the applicable General Plan Land Use Designation.
+HCD appreciates the challenges of implementing ever changing state housing laws
+and commends the County on its proactive efforts to understand and implement the
+SDBL as amended by AB 2334.
+
+HCD would like to remind the County that HCD has enforcement authority over the
+SDBL, among other state housing laws. Accordingly, HCD may review local
+government actions and inactions to determine consistency with these laws. If HCD
+finds that a city’s or county’s actions do not comply with state law, HCD may notify the
+California Office of the Attorney General that the local government is in violation of
+state law. (Gov. Code, § 65585, subd. (j).) If you have questions or need additional
+information, please contact Brian Heaton, of our staff, at Brian.Heaton@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

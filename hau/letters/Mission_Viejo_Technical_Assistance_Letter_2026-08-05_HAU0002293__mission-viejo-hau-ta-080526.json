@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026668",
+  "case_number": "HAU0002293",
+  "letter_date": "2026-08-05",
+  "jurisdiction": "Mission Viejo",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Affirmatively Further Fair Housing | Anti-Discrimination in Land Use Law",
+  "statutes": "65580-65589.11 | 8899.50",
+  "n_statutes": "2",
+  "keywords": "Anti-Discrimination | Group Home Ordinance | Group Home Violation",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mission-viejo-hau-ta-080526.pdf",
+  "hcd_letter": "Mission Viejo Technical Assistance Letter 08/05/2026",
+  "housing_law": "Anti-Discrimination in Land Use Law, Affirmatively Further Fair Housing, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/mission-viejo-hau-ta-080526.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 255014,
+  "text_chars": 36132,
+  "text_empty": false
+}

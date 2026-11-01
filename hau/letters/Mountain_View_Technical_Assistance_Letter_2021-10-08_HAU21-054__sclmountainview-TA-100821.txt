@@ -1,0 +1,182 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 8, 2021
+
+
+
+         Mathew D. Francois
+         Rutan & Tucker, LLP
+         455 Market Street, Suite 1870
+         San Francisco, CA 94105
+
+         Dear Mathew D. Francois:
+
+         RE: Mountain View State Density Bonus Law Ordinance – Letter of Technical
+             Assistance
+
+
+         The purpose of this letter is to provide technical assistance on the application of State
+         Density Bonus Law (SDBL). (Gov. Code, § 65915.) The California Department of
+         Housing and Community Development (HCD) has reviewed the recently updated
+         density bonus ordinance adopted by the City of Mountain View (City) to evaluate the
+         request for technical assistance set out in your letter dated June 21, 2021. HCD did not
+         attempt a comprehensive review of the City’s ordinance, including its compliance with
+         recent changes to SDBL made in AB 2345 (Chapter 197, Statutes of 2021, § 2, eff. Jan.
+         1, 2021), and thus this letter ought not be interpreted as an endorsement of the
+         ordinance in its entirety.
+
+         Your letter raises concerns about two specific provisions in the ordinance that you
+         believe to be inconsistent with SDBL. You have requested that HCD review the
+         ordinance and provide technical assistance. After reviewing your letter and the City’s
+         ordinance, HCD finds that the two provisions in the City’s ordinance identified in your
+         letter are not inconsistent with the SDBL. HCD’s rationale and conclusions are
+         described below.
+
+         Issue 1: Density Expressed Only in Floor Area Ratio (FAR)
+
+         In your letter, you assert that state law prohibits a local agency from regulating density
+         purely via FAR. Rather, you state that local agencies must express density only in terms
+         of dwelling units per acre. HCD disagrees with this interpretation for the following
+         reasons.
+
+         First, this interpretation would unduly hamstring planning efforts by local agencies. FAR
+         is a tool used by planning agencies to increase flexibility for applicants. HCD cannot
+        Mathew D. Francois, Rutan & Tucker, LLP
+        Page 2
+
+
+
+        state categorically that FAR is not permitted as a measurement of density as well as
+        intensity, so long as a city’s regulatory scheme makes adequate explanation for each.
+        Used appropriately, FAR offers flexibility in some cases, and actually fosters the
+        development of certain kinds of housing, such as more, smaller units on a property, as
+        opposed to a standard of dwelling units per acre.
+
+        Second, SDBL nowhere uses the phrase dwelling units per acre. It does speak of
+        allowing a density bonus over the maximum allowable gross residential density. (Gov.
+        Code, § 65915, subd. (f).) As you know, “Maximum allowable residential density”
+        means:
+
+                the density allowed under the zoning ordinance and land use element of the
+                general plan, or, if a range of density is permitted, means the maximum allowable
+                density for the specific zoning range and land use element of the general plan
+                applicable to the project. If the density allowed under the zoning ordinance is
+                inconsistent with the density allowed under the land use element of the general
+                plan, the general plan density shall prevail.
+
+        (Gov. Code, § 65915, subd. (o)(4).) Often residential density is expressed in dwelling
+        units per acre, and in other areas, such as commercial areas, FAR is utilized. There is
+        nothing in law that mandates that a city adopt one or the other. In fact, 2019 legislation
+        encourages use of a density bonus in the context of a FAR density for certain affordable
+        projects associated with commercial development near transit. (See Gov. Code, §
+        65915.7; see also Gov. Code, § 65917.2.)
+
+        Twain Harte Associates, Ltd. v. County of Tuolumne (1982) 138 Cal.App.3d 664 does
+        not appear to be contrary or even relevant. The court there did note that Government
+        Code section 65302 requires that a general plan’s land use element “shall include a
+        statement of the standards of population density and building intensity recommended
+        for the various districts and other territory covered by the plan.” Notably; however, these
+        terms are not contained in density bonus law. Further, there is nothing that precludes a
+        city from adopting either dwelling units per acre or FAR-based zoning and complying
+        with section 65302. 1
+
+
+1 The general plan at issue there was so very spare that it provided no statement of population density for most of the
+
+areas, rendering it impossible for the county to properly plan for services. In some areas dwelling units per acre were
+provided, in other areas merely categories of land use provided. The court found this to be inadequate. The court
+concluded that the term population density and building density were not synonymous, but the court also held that the
+terms population density and dwelling units per acre were also not synonymous. The point of “population density” in this
+context was not so much a measure of land use control as a measure of people who might utilize an area of the city to
+allow appropriate planning. Dwelling units per acre might suffice if a “basis for correlation between the measure of
+dwelling units per acre and numbers of people is set forth explicitly in the plan” (Twain Harte Associates, supra, at pp.
+698–699), but then FAR might suffice in the same circumstances. (See also San Francisco Tomorrow v. City and County
+of San Francisco (2014) 229 Cal.App.4th 498, 511 (same, clarifying that the population density requirement in section
+65302 is descriptive, not prescriptive or regulatory as might be utilized to control land use).
+Mathew D. Francois, Rutan & Tucker, LLP
+Page 3
+
+
+
+
+HCD considers that a local agency can utilize FAR or dwelling units per acre as a base
+measurement for setting out the maximum allowable gross residential density. Neither
+measure; however, can be utilized to avoid compliance with SDBL.
+
+Issue 2: Floor Area Ratio (FAR) Waiver in the Context of the City’s Floor Area Ratio
+         (FAR) Bonus
+
+In your letter you assert that—because SDBL explicitly includes FAR within the
+definition of the term “development standard” (Gov. Code, § 65915, subd. (o)(1))—a
+project must remain eligible for a FAR waiver even when an applicant is pursuing a FAR
+density bonus. HCD disagrees with this interpretation for the following reasons.
+
+First, Mountain View’s Density Bonus Law ordinance provides procedures for applying
+the SDBL in zones in which density is expressed in dwelling units per acre and in zones
+in which density is expressed only in FAR. The processes are nearly identical in each,
+except regarding the calculation of base density (Mount. View Mun. Code, § 36.48.75.j)
+and the consideration of FAR as a development standard. Per the local definition of
+development standard, FAR is considered a development standard “except in zones
+where floor area ratio defines the maximum allowable residential density….” (Id., §
+36.48.70.d.) By defining the development standard in this way, the City is eliminating
+the potential for an applicant to obtain a development standard waiver for FAR in a zone
+where density is expressed only in terms of FAR. Were the City to allow FAR waivers in
+these zones (i.e., within the San Antonio, El Camino Real, North Bayshore, or East
+Whisman Precise Plan Areas), the City would in effect be allowing unlimited FAR.
+Additionally, interpreting the law as you propose would result in FAR being both used as
+the measure of underlying density, a yardstick for determining how many affordable
+units and bonus units would be required, and a standard that is waived, resulting in
+confusion and absurdity. (Gov. Code, §§ 65915, 65917.) The City’s approach is not
+inconsistent with SDBL in defining development standards this way for the purpose of a
+FAR bonus.
+
+Second, while the SDLB does not address this potential scenario directly, the legislative
+intent of the original law and subsequent amendments do not express an intent to
+permit unlimited FARs in all zones in which density is expressed solely in terms of FAR.
+Development standard waivers (Gov. Code, § 65915, subd. (e)) are intended to
+facilitate the development of housing by waiving development standards that would
+preclude the construction of the development. They are intended to allow just enough
+relief from development standards to facilitate a development inclusive of the bonus
+units (regardless of the underlying expression of density in du/ac or FAR) but no more.
+Where the density of a site, as well as bonuses, are expressed in FAR, there is no need
+to waive FAR to get to the permitted density. In other words, even if FAR were a
+development standard in such as case, FAR by definition in such a case could not
+impede a development with bonus.
+Mathew D. Francois, Rutan & Tucker, LLP
+Page 4
+
+
+
+
+Finally, the base density formula described in Mountain View’s Municipal Code provides
+a formula for calculating a density bonus in zones in which density is expressed in FAR.
+To perform the calculation, your client would need to submit a desired project floor area
+and desired number of residential units. From this, a base density can be established,
+and eligibility determined for up to a 50% density bonus pursuant to Government Code
+section 65915 subdivision (f). Alternatively, and pursuant to the same subdivision, your
+client may choose not to pursue a density bonus and instead request
+incentives/concessions and development standard waivers (excluding an FAR waiver)
+based on the percentage of affordable units to be included in the development.
+
+If you have questions or need additional information, please contact Brian Heaton at
+Brian.Heaton@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+cc:   Sandra Lee, City of Mountain View
+      Aarti Shrivastra, City of Mountain View

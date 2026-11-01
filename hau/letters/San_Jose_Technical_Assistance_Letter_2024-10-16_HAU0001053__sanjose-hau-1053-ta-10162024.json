@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017723",
+  "case_number": "HAU0001053",
+  "letter_date": "2024-10-16",
+  "jurisdiction": "San Jose",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Crisis Act of 2019",
+  "statutes": "65915(c)(2) | 66300.6(b)(4)(B) | 66341 | 66342",
+  "n_statutes": "4",
+  "keywords": "HCA replacement unit",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sanjose-hau-1053-ta-10162024.pdf",
+  "hcd_letter": "San Jose Technical Assistance Letter 10/16/2024",
+  "housing_law": "Housing Crisis Act of 2019, Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sanjose-hau-1053-ta-10162024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 195235,
+  "text_chars": 9190,
+  "text_empty": false
+}

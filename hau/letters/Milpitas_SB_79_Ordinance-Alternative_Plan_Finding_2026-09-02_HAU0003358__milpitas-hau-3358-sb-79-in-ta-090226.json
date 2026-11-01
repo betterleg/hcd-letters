@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026638",
+  "case_number": "HAU0003358",
+  "letter_date": "2026-09-02",
+  "jurisdiction": "Milpitas",
+  "letter_type": "SB 79 Ordinance/Alternative Plan Findings Letter",
+  "housing_laws": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "statutes": "65858 | 65912.157(a) | 65912.160(a) | 65912.160(c)(1) | 65912.160(d)(3)(A)",
+  "n_statutes": "5",
+  "keywords": "Permanent ordinance | zoned for",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/milpitas-hau-3358-sb-79-in-ta-090226.pdf",
+  "hcd_letter": "Milpitas SB 79 Ordinance/Alternative Plan Findings Letter 09/02/2026",
+  "housing_law": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/milpitas-hau-3358-sb-79-in-ta-090226.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 203685,
+  "text_chars": 13377,
+  "text_empty": false
+}

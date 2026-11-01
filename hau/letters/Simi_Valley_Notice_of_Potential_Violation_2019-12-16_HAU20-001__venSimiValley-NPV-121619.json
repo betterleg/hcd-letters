@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010735",
+  "case_number": "HAU20-001",
+  "letter_date": "2019-12-16",
+  "jurisdiction": "Simi Valley",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "Affirmatively Further Fair Housing | Housing Accountability Act | No Net Loss",
+  "statutes": "65585 | 65589.5 | 65863 | 8899.50",
+  "n_statutes": "4",
+  "keywords": "No net loss | affirmatively furthering fair housing | housing element law",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/venSimiValley-NPV-121619.pdf",
+  "hcd_letter": "Simi Valley Notice of Potential Violation 12/16/2019",
+  "housing_law": "Affirmatively Further Fair Housing, Housing Accountability Act, Housing Element Law, No Net Loss",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/venSimiValley-NPV-121619.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 184315,
+  "text_chars": 13022,
+  "text_empty": false
+}

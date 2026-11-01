@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026119",
+  "case_number": "HAU0003236",
+  "letter_date": "2026-06-10",
+  "jurisdiction": "Atherton",
+  "letter_type": "SB 79 Ordinance/Alternative Plan Findings Letter",
+  "housing_laws": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "statutes": "65912.157",
+  "n_statutes": "1",
+  "keywords": "SB 79 Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/atherton-sb79-061026.pdf",
+  "hcd_letter": "Atherton SB 79 Ordinance/Alternative Plan Findings Letter 06/10/2026",
+  "housing_law": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/atherton-sb79-061026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169486,
+  "text_chars": 3693,
+  "text_empty": false
+}

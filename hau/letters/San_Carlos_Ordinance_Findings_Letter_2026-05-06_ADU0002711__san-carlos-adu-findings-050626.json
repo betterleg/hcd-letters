@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026321",
+  "case_number": "ADU0002711",
+  "letter_date": "2026-05-06",
+  "jurisdiction": "San Carlos",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66318 | 66327",
+  "n_statutes": "12",
+  "keywords": "ADU | Ordinance",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-carlos-adu-findings-050626.pdf",
+  "hcd_letter": "San Carlos Ordinance Findings Letter 05/06/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/san-carlos-adu-findings-050626.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 288927,
+  "text_chars": 41599,
+  "text_empty": false
+}

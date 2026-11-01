@@ -1,0 +1,151 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 26, 2025
+
+
+         Lee Butler
+         Director of Planning and Community Development
+         City of Santa Cruz
+         809 Center Street, Room 101
+         Santa Cruz, CA 95060
+
+         Dear Lee Butler:
+
+         RE: Arthaus Ocean Project – State Density Bonus Law – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD)
+         understands that the City of Santa Cruz (City) is currently processing an application for
+         the Arthaus Ocean Project at 530, 542, and 548 Ocean Street (Project). The purpose of
+         this letter is to provide technical assistance related to the affordability levels of housing
+         units used to meet the requirements of Government Code section 65915, subdivision (v)
+         of the State Density Bonus Law (SDBL). 1
+
+         Background
+
+         The proposed Project has a base density of 113 units. The applicant proposes to make
+         15 percent of those 113 rental units (17 units) affordable to very low-income (VLI)
+         households to receive a 50-percent density bonus under Government Code section
+         65915, subdivisions (b)(1)(B) and (f)(2). The applicant also proposes to make an
+         additional 15 percent of those 113 units (another 17 units) affordable to moderate
+         income (MI) households to receive a second 50 percent density bonus under
+         Government Code section 65915, subdivision (v)(2).
+
+         The City’s inclusionary housing (IH) ordinance 2 requires all rental residential
+         developments that create five or more new or additional dwelling units to provide 20
+         percent of the dwelling units as inclusionary units, which shall be made available for rent
+
+
+1 Gov. Code, § 65915 et. seq.
+2 Santa Cruz Municipal Code, Chapter 24.16, Part 1, available at
+
+https://www.codepublishing.com/CA/SantaCruz/#!/SantaCruz24/SantaCruz2416.html#2
+4.16.
+Lee Butler, Director of Planning and Community Development
+Page 2
+
+
+
+to low income (LI) households at an affordable rent. 3 For this Project, 20 percent of 113
+units would be 22 units. 4
+
+The City has agreed that the 17 VLI units the applicant is proposing can count towards
+the City’s IH requirement of 22 LI units. However, the applicant must still provide the
+remaining 5 LI units to fully meet the City’s IH requirement.
+
+In order to meet the requirements of both the SDBL and the City’s IH ordinance, the
+applicant proposes to provide the following affordable units:
+
+   1. 17 VLI units, which will count towards the requirements of both subdivision (f)
+      and the City’s IH ordinance.
+   2. 5 LI units, which will count towards the requirements of both subdivision (v) and
+      the City’s IH ordinance.
+   3. 12 MI units, which will count towards the requirements of subdivision (v).
+
+Question: Can a project provide units deed restricted to LI households in lieu of
+the MI units required to qualify for the density bonus provided by Government
+Code section 65915, subdivision (v)?
+
+No, a project cannot provide units deed restricted to LI households in lieu of the MI units
+required to qualify for the density bonus provided by subdivision (v). For this Project, the
+applicant cannot count 5 LI units towards the 17 MI units required to receive the 50-
+percent density bonus under subdivision (v).
+
+The SDBL relies on Health and Safety Code definitions for VLI, LI, and MI households. 5
+Per those definitions, LI households means “persons and families whose income does
+not exceed…80 percent of area median income” (AMI). 6 Persons and families of low or
+moderate income means “persons and families whose income does not exceed 120
+percent” of AMI. 7 However, persons or families of moderate income (MI households)
+means “persons and families of low or moderate income whose income exceeds the
+income limit for lower income households”8 (emphasis added). In other words, an MI
+household is one whose income does not exceed 120 percent of AMI and whose
+income is greater than 80 percent of AMI.
+
+
+
+
+3 Santa Cruz Municipal Code, § 24.16.020, subd. (5)(a)
+4 Per Santa Cruz Municipal Code § 24.16.020, subd. (5)(c): “If the number of dwelling
+
+units required results in a fractional requirement of 0.7 or less, then there will be no
+inclusionary requirement for the fractional unit.”
+5 Gov. Code, § 65915, subd. (b)(1).
+6 HSC, § 50079.5, subd. (a).
+7 HSC, § 50093.
+8 HSC, § 50093, subd. (b).
+Lee Butler, Director of Planning and Community Development
+Page 3
+
+
+
+
+Government Code section 65915, subdivision (v) was added by Assembly Bill 1287
+(Chapter 755, Statutes of 2023). Subdivision (v)(1) provides an opportunity to receive
+an additional density bonus if an applicant “agrees to include additional rental or for-sale
+units affordable to very low-income households or moderate income households….”
+There is no opportunity to receive an additional density bonus by providing units
+affordable to low-income households.
+
+Furthermore, according to the bill’s author, Assemblymember Alvarez, “While we must
+continue to support more affordable housing for low-income families, a holistic approach
+to the housing crisis requires we also tackle housing unaffordability for middle-income
+earners. AB 1287 does this by creating moderate income benefits, which would stack
+on top of the existing Density Bonus Law benefits.” 9 This language makes it clear that
+the author’s intention is that the MI units under subdivision (v) serve MI households
+(with incomes above 80 percent of AMI but below 120 percent of AMI), not LI
+households (with incomes 80 percent of AMI or less).
+
+Conclusion
+
+HCD hopes that this analysis of the application of LI and MI units as they relate to both
+the City’s inclusionary housing requirement for LI units and the SDBL’s provisions for MI
+units in subdivision (v) is helpful to the City. HCD remains committed to supporting the
+City in facilitating affordable housing.
+
+If you have any questions about the contents of this letter or need additional technical
+assistance, please contact Stephanie Reyes at stephanie.reyes@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief
+
+
+
+
+9 Assembly Floor Analysis of AB 1287 as amended September 8, 2023, available at
+
+https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202320240AB128
+7.

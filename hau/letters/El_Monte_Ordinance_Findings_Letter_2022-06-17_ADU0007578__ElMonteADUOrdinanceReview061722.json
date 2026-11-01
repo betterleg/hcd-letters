@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024325",
+  "case_number": "ADU0007578",
+  "letter_date": "2022-06-17",
+  "jurisdiction": "El Monte",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "",
+  "n_keywords": "0",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/ElMonteADUOrdinanceReview061722.pdf",
+  "hcd_letter": "El Monte Ordinance Findings Letter 06/17/2022",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/ElMonteADUOrdinanceReview061722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 225739,
+  "text_chars": 13999,
+  "text_empty": false
+}

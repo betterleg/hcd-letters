@@ -1,0 +1,596 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         June 25, 2024
+
+
+         So Kim, Community Development Director
+         Planning Services
+         City of Aliso Viejo
+         12 Journey, Suite 100
+         Aliso Viejo, CA 92656
+
+         Dear So Kim:
+
+         RE: Review of Aliso Viejo’s Accessory Dwelling Unit (ADU) Ordinance under State
+            ADU Law (Gov. Code, §§ 66310 - 66342)
+
+         Please Note: As of March 25, 2024, with the Chaptering of Senate Bill (SB) 477
+         (Chapter 7, Statutes of 2024), the sections of Government Code relevant to State ADU
+         and Junior Accessory Dwelling Unit (JADU) Laws have been re-numbered (Enclosure).
+
+         Thank you for submitting the City of Aliso Viejo’s (City) ADU Ordinance No. 2023-235
+         (Ordinance), adopted March 1, 2023, to the California Department of Housing and
+         Community Development (HCD). The Ordinance was received on September 27, 2023.
+         HCD has reviewed the Ordinance and submits these written findings pursuant to
+         Government Code section 66326, subdivision (a). HCD finds that the Ordinance does
+         not comply with State ADU and JADU Laws in the manner noted below. Under
+         Government Code Section 66326, subdivision (b)(1), the City has up to 30 days to
+         respond to these findings. Accordingly, the City must provide a written response to
+         these findings no later than July 24, 2024.
+
+         The Ordinance addresses many statutory requirements; however, HCD finds that the
+         Ordinance does not comply with State ADU Law in the following respects:
+
+             1. The Ordinance contains several references to code sections that were deleted by
+                 SB 477, effective March 25, 2024. These include Government Code sections
+                 65852.2, 65852.22 and 65852.26. The contents of these sections were relocated
+                 to Government Code, Title 7, Division 1, Chapter 13 (sections 66310-66342, see
+                 Enclosure). The City must amend the Ordinance to refer to the correct code
+                 sections.
+
+             2. Section 15.14.080 (C)(5)(d) – JADU Entrance Requirements – The Ordinance
+                states that JADUs must satisfy the following: “If the unit does not include its own
+                separate bathroom, then it contains an interior entrance to the main living area of
+                the existing or proposed single-family structure in addition to an exterior entrance
+                that is separate from the main entrance to the primary dwelling.” However,
+                Government Code section 66333, subdivision (e)(1), states that all JADUs must
+So Kim, Community Development Director
+Page 2
+
+
+     include a separate entrance from the main entrance to the primary dwelling, and
+     subdivision (e)(2) qualifies that JADUs which do not provide a separate bathroom
+     shall include both a separate entrance from, and an interior entry to, the primary
+     dwelling. Because the separate entrance requirement is combined with the
+     requirement for shared entries for JADUs without separate sanitation, the
+     Ordinance’s JADU entrance requirements could be construed that only JADUs
+     without separate sanitation must require separate exterior entrances. Therefore,
+     the Ordinance should be amended to clarify that all JADUs require a separate
+     entrance from the main entrance of the primary dwelling.
+
+   3. Section 15.14.080 (D)(1) and (2); (H)(8) – Applications for ADUs: Deed
+      Restrictions – The Ordinance states that draft deed restrictions are required with
+      an application to create an ADU, and Section 15.14.080 (H) details the deed
+      restriction requirements therein and specifies that a deed restriction must be
+      recorded prior to issuance of an ADU building permit. However, Government
+      Code section 66315 states, “No additional standards, other than those provided in
+      Section 66314, shall be used or imposed, including an owner-occupant
+      requirement, except that a local agency may require that the property may be
+      used for rentals of terms 30 days or longer.” A deed restriction would be an
+      “additional standard” and thus cannot be imposed. Additionally, a deed restriction
+      cannot contain language or provisions that are not consistent with state law.
+      Effective January 1, 2024, Government Code section 66314 was amended to
+      entirely remove owner occupancy requirements for ADUs. Therefore, the City
+      must remove the deed restriction requirement for ADUs.
+
+   4. Section 15.14.080 (D)(2) – HOA Notice – The Ordinance states that an
+      application for a development review permit (DRP) must include, “…evidence of
+      having given notice to the HOA, if applicable.” While this finding does not present
+      a violation of State ADU Law, HCD reminds the City that no other local ordinance,
+      policy, or regulation shall be the basis for the delay or denial of a building permit
+      or a use permit. Additionally, no discretion or third-party intervention is allowed in
+      the ministerial process; only permitting agencies have the authority to approve or
+      deny ADU applications. Therefore, the City should consider omitting these
+      requirements. However, if the City keeps this language, HCD strongly
+      recommends the Ordinance clarify the ministerial nature of ADU approvals.
+
+   5. Section 15.14.080 (E) – Number of Units – The Ordinance does not make explicit
+      the total number of units allowed on a lot with a single-family or multifamily
+      dwelling. Government Code section 66323, subdivision (a), states,
+      “Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall
+      ministerially approve an application for a building permit within a residential or
+      mixed-use zone to create any of the following: (1) One accessory dwelling unit
+      and one junior accessory dwelling unit per lot with a proposed or existing single-
+      family dwelling…(A) The accessory dwelling unit or junior accessory dwelling unit
+      is within the proposed space of a single family dwelling or existing space of a
+      single-family dwelling or accessory structure.” Paragraph (2) permits “[o]ne
+      detached, new construction, accessory dwelling unit that does not exceed four-
+So Kim, Community Development Director
+Page 3
+
+
+     foot side and rear yard setbacks.” The use of the term “any” followed by an
+     enumeration of by-right ADU types permitted indicate that any of these ADU types
+     can be combined on a lot zoned for single family dwellings.
+
+     This was changed in 2019 with the passing of clean-up legislation (AB 3182). The
+     Legislature changed “or” to “and” in paragraph (1), but they left the “or” in (1),
+     subparagraph (A). HCD assumes that this change was intentional in that it
+     validates HCD’s understanding of a second unit being allowable via paragraph (1)
+     while setting the criteria for creating those two units in the subsequent
+     subparagraphs.
+
+     This permits a homeowner, who meets the specified requirements of this section,
+     to create one converted ADU; one detached, new construction ADU; and one
+     JADU. Thus, if the local agency approves an ADU that is created from existing (or
+     proposed) space, and the owner subsequently applies for a detached ADU (or
+     vice versa) that meets the size and setback requirements pursuant to this section,
+     the local agency cannot deny the application, nor deny a permit for a JADU under
+     this section. HCD notes that the Legislature, in creating the list, did not use “or”
+     nor “one of” to indicate only one or another would be applicable to the exclusion of
+     the other. Limiting single-family lots to one ADU would prevent property owners
+     from creating ADUs by-right under subdivision (a).
+
+     This section also applies to ADUs created pursuant to Government Code section
+     66323, subdivisions (a)(3) and (a)(4), on lots with proposed or existing multifamily
+     dwellings. Limiting single-family or multifamily lots to one ADU would prevent
+     property owners from creating ADUs by-right under subdivision (a).
+
+     Therefore, the Ordinance must be amended to reflect the allowable numbers of
+     units on lots with single-family and/or multifamily dwellings.
+
+   6. Section 15.14.080 (E)(4) – Limited Detached on Multifamily Lot – The Ordinance
+      states, “If the existing multifamily dwelling has a rear or side yard setback of less
+      than four feet, the city will not require any modification to the multifamily dwelling
+      as a condition of approving the ADU…” However, Government Code section
+      66314, subdivision (d)(7) states that, “No setback shall be required for an existing
+      living area or accessory structure, or a structure constructed in the same location
+      and to the same dimensions as an existing structure that is converted to an
+      accessory dwelling unit or to a portion of an accessory dwelling unit…” Therefore,
+      the Ordinance must be amended to specify that no setbacks are required when a
+      detached ADU is created on a multifamily lot in the same location and to the same
+      dimensions as an existing structure or converted from an existing structure.
+
+   7. Section 15.14.080 (F) and (G) – Development Review Permit (DRP) / Process
+      and Timing – The Ordinance states that except for ADUs created according to the
+      Building-Permit-Only scenario list in subsection (E), “…no ADU may be created
+      without both a building permit and a DRP permit in compliance with the standards
+      set forth in subsections (H) and (I)…” of the Ordinance. Section 15.14.080 (G)
+So Kim, Community Development Director
+Page 4
+
+
+     states that applications to create ADUs or JADUs will be considered and
+     approved ministerially, and that the city will approve or deny applications to create
+     ADUs and JADUs within 60 days from the date that the city receives a completed
+     application.
+
+     However, Government Code section 66317, subdivision (a) states that, “A permit
+     application for an accessory dwelling unit or a junior accessory dwelling unit shall
+     be considered and approved ministerially without discretionary review or a
+     hearing… The permitting agency shall either approve or deny the application to
+     create or serve an accessory dwelling unit or a junior accessory dwelling unit
+     within 60 days from the date the permitting agency receives a completed
+     application if there is an existing single-family or multifamily dwelling on the lot.”
+     The local agency shall only approve or deny applications to create or serve ADUs;
+     conditional approvals are not permitted by State ADU Law. Pursuant to
+     Government Code section 66317, permit applications for ADUs and JADUs must
+     be considered and approved ministerially.
+
+     Government Code Section 66314, subdivision (b)(1) requires that local agencies
+     shall impose only objective standards on ADUs, defined in section 66313,
+     subdivision (h) as “standards that involve no personal or subjective judgment by a
+     public official and are uniformly verifiable by reference to an external and uniform
+     benchmark or criterion available and knowable by both the development applicant
+     or proponent and the public official prior to submittal.”
+
+     Therefore, the City should consider amending the Ordinance to specify that the
+     ADUs subject to the DRP process will follow procedures set forth in Section
+     15.14.020 where the Sections conflict with each other and must amend the
+     Ordinance so that the DRP process complies with State ADU Law. The Ordinance
+     shall be amended to provide objective standards for a “complete application.”
+
+   8. Section 15.14.080 (H)(2)(c), (E)(2)(c) and (E)(4)(b) – Detached ADU Height – The
+      Ordinance states that, “A detached ADU created on a lot with an existing or
+      proposed multifamily dwelling that has more than one story above grade may not
+      exceed 18 feet in height.” However, Government Code Section 66321, subdivision
+      (b)(4)(C) states that, “A height of 18 feet for a detached accessory dwelling unit on
+      a lot with an existing or proposed multifamily, multistory dwelling.” State ADU Law
+      does not specify that any of the stories contained in a multifamily, multistory
+      dwelling structure must be located above grade to qualify the lot for the 18-foot
+      detached ADU height allowance in subparagraph (C). For example, a multifamily
+      structure with a subterranean garage floor is described by (C) and the lot on which
+      that structure is located qualifies for the 18-foot height allowance therein.
+      Therefore, the Ordinance must be amended to remove the “above grade” qualifier
+      in Subsection (H)(2)(c).
+
+   9. Section 15.14.080 (H)(2)(e) – Height Determination – The Ordinance states that,
+      “For the purposes of this subsection (H.2), height is measured above existing
+      legal grade to the peak of the structure.” However, section 202 of the California
+      Building Code (CBC) defines “Height, Building” as “the vertical distance from
+         So Kim, Community Development Director
+         Page 5
+
+
+              grade plane to the average height of the highest roof surface,” not the distance
+              from “existing legal grade” to the single highest point. The Municipal Code also
+              does not provide a definition of “existing legal grade” and thus does not meet the
+              definition on “objective standard,” creating the potential for non-ministerial review.
+              Therefore, the City must amend the Ordinance to measure building height based
+              on the established grade plane and average height of the highest roof surface in
+              accordance with the CBC definition.
+
+            10. Section 15.14.080 (H)(5) – Separate Conveyance – The Ordinance states that
+               except as provided in Government Code Section 65852.26, (now provided in
+               Government Code Section 66341), “…no ADU or JADU may be sold or
+               otherwise conveyed separately from the lot and the primary dwelling.” However,
+               State ADU Law allows separate conveyance of ADUs in two scenarios, some of
+               which by-right, pursuant to Government Code Sections 66340 through 66342.
+               Additionally, effective January 1, 2024, Government Code section 66342 creates
+               the opportunity for local agencies to allow separate sale or conveyance of
+               primary units and ADUs as condominiums through the adoption of a local
+               ordinance meeting the specifications prescribed therein. The City must amend
+               the ordinance to reference all of Government Code sections 66340-66342. The
+               local agency may consider adopting an ordinance allowing separate conveyance
+               as a means of promoting home ownership opportunities and to create a path to
+               wealth-building for families in Aliso Viejo.
+            11. Section 15.14.080 (H)(7) – Owner Occupancy – The Ordinance states that, “…all
+               ADUs that are permitted on or after January 1, 2025, are subject to an owner-
+               occupancy requirement.” However, effective January 1, 2024, State ADU Law
+               was amended removing owner occupancy requirements for ADUs entirely 1.
+               Therefore, the City must amend this section to comply with Government Code
+               section 66315.
+
+            12. Section 15.14.080 (I)(6)(b)(iii) – ADU Parking Exceptions – The Ordinance states
+               several conditions for which parking is not required with the creation of an ADU.
+               However, it creates a more restrictive condition to the parking exception required
+               to be granted by Government Code section 66322, subdivision (a)(3), which
+               states that no parking may be required when “…the accessory dwelling unit is
+               part of the proposed or existing primary residence or an accessory structure.”
+               This State parking exception includes ADUs created outside of the pathway
+               described in Subsection (E. 1) of the Ordinance, although the Ordinance
+               attempts to limit the exception to ADUs that comply with Subsection (E.1).
+               Additionally, pursuant to Government Code section 66334, an Ordinance shall
+               not require additional parking for a JADU. Government Code section 66325,
+               subdivisions (a) and (b) state, “…this article shall supersede a conflicting local
+               ordinance. This article does not limit the authority of local agencies to adopt less
+               restrictive requirements for the creation of an accessory dwelling unit.” State
+               ADU Law does not permit local agencies to adopt more restrictive requirements
+               for ADUs. Therefore, the Ordinance must be amended to remove the condition
+
+1
+    See AB 976 (Chapter 751, Statutes of 2023) and Government Code section 66315.
+      So Kim, Community Development Director
+      Page 6
+
+
+             about compliance with Subsection (E.1) to the referenced parking exception and
+             must clarify that no additional parking is required for a JADU.
+
+          13. Section 15.14.080 (I)(7)(a) – Placement of Windows and Doors – The Ordinance
+             states, “Windows and doors of the accessory dwelling unit may not have a direct
+             line of sight to an adjoining residential property. Fencing or privacy glass may be
+             used to provide screening and prevent a direct line of sight.” However, State
+             ADU Law requires that local agencies impose no greater than four-foot side and
+             rear setbacks on ADUs and must only impose objective standards without
+             discretionary review 2.
+
+             Pursuant to Government Code Section 66314, subdivision (d)(7), “No setback
+             shall be required for an existing living area or accessory structure or a structure
+             constructed in the same location and to the same dimensions as an existing
+             structure that is converted to an accessory dwelling unit or to a portion of an
+             accessory dwelling unit, and a setback of no more than four feet from the side
+             and rear lot lines shall be required for an accessory dwelling unit that is not
+             converted from an existing structure or a new structure constructed in the same
+             location and to the same dimensions as an existing structure.”
+
+             Line-of-sight requirements constitute implicit setback requirements inconsistent
+             with State ADU Law and could be considered arbitrary, excessive, or
+             burdensome. Placement of windows and doors is regulated by building and fire
+             codes. Applying additional placement requirements based on line-of-sight may
+             conflict with safety codes and render ADU construction infeasible. The ordinance
+             does not clarify definitions for “direct line of sight,” “adjoining residential property,”
+             or “fencing or privacy glass,” creating potential for discretionary review.
+
+             Therefore, because the requirement establishes implicit setbacks for ADUs that
+             do not comply with state law, and because the requirement is not objective and
+             creates potential for discretionary review, the City must either remove this
+             requirement or amend the Ordinance to comply with State ADU Laws’ objective
+             standards and ministerial review provisions.
+
+          14. Section 15.14.080 (I)(7)(b) – Exterior Materials and Colors – The Ordinance
+              states, “The materials and colors of the exterior walls, roof, and windows and
+              doors must match the appearance and architectural design of those of the
+              primary dwelling.” However, State ADU Law requires that local agencies must
+              only impose objective standards without discretionary review 3. The phrases
+              “match,” “appearance” and “architectural design” are not objective phrases. The
+              Ordinance does not establish objective measures for appearances or
+              architectural designs, nor does it establish how an applicant can demonstrate
+              that a proposed ADU will “match” the primary dwelling or how the public official
+              would ministerially review whether the requirement is met. Therefore, the city
+
+2 Gov. Code, §§ 66314, subd. (b)(1); 66317, subd. (a).
+3 Gov. Code, §§ 66314, subds. (b)(1); 66317, subd. (a).
+      So Kim, Community Development Director
+      Page 7
+
+
+              must amend the Ordinance to provide objective standards for “match,”
+              “appearance,” and “architectural design” meeting the definition of “objective
+              standard” in Government Code section 66313, subdivision (h), or must remove
+              this requirement from the Ordinance.
+
+          15. Section 15.14.080 (I)(7)(d) – Exterior Lighting – The Ordinance states, “The
+              exterior lighting must be limited to down-lights or as otherwise required by the
+              building or fire code.” However, State ADU Law requires that local agencies
+              must only impose objective standards without discretionary review 4. The
+              Ordinance and Municipal Code do not provide a definition for the term “down-
+              light” or provide uniformly verifiable fixture or light specifications; the Zoning
+              Ordinance provides only subjective standards for outdoor light specifications in
+              Section 15.62.070 as their imposition requires the judgment of the public official.
+              Therefore, the city must amend the Ordinance to provide objective standards for
+              “down-light” meeting the definition of “objective standard” in Government Code
+              section 66313, subdivision (h), or must remove this requirement from the
+              Ordinance.
+
+          16. Section 15.14.080 (I)(7)(f) – Interior Dimensions – The Ordinance states, “The
+             interior horizontal dimensions of an ADU must be at least 10 feet wide in every
+             direction, with a minimum interior wall height of seven feet.” However, a local
+             agency shall not establish “[a]ny requirement for a zoning clearance or separate
+             zoning review or any other any other minimum or maximum size for an accessory
+             dwelling unit, size based upon a percentage of the proposed or existing primary
+             dwelling, or limits on lot coverage, floor area ratio, open space, front setbacks,
+             and minimum lot size, for either attached or detached dwellings that does not
+             permit at least an 800 square foot accessory dwelling unit with four-foot side and
+             rear yard setbacks to be constructed in compliance with all other local
+             development standards” 5. Additionally, a local agency adopting an ordinance to
+             provide for the creation of ADUs shall require ADUs to be created in any of the
+             following configurations: “The accessory dwelling unit is either attached to, or
+             located within, the proposed or existing primary dwelling, including attached
+             garages, storage areas or similar uses, or an accessory structure or detached
+             from the proposed or existing primary dwelling and located on the same lot as
+             the proposed or existing primary dwelling, including detached garages” 6.
+
+             Interior minimum size requirements shall not be imposed in such a way as to
+             prevent an ADU of 800 square feet or less with four-foot side and rear setbacks,
+             nor shall interior minimum size requirements be imposed where they would
+             prevent an ADU from being created in any of the allowable configurations
+             pursuant to State ADU Law. Such interior horizontal dimension requirements can
+             have the effect of prohibiting the creation of ADUs converted from eligible
+
+4 Gov. Code, §§ 66314, subds. (b)(1); 66317, subd. (a).
+5 Gov. Code, § 66321, subd. (b)(3).
+6 Gov. Code, § 66314, subd. (d)(3).
+      So Kim, Community Development Director
+      Page 8
+
+
+             existing spaces; for example, an ADU converted from an existing attached
+             single-car garage with an interior width of only 9 feet is prohibited by such
+             requirement. Such requirements may also prevent new construction ADUs
+             altogether on lots where at least fifteen feet (10’ interior dimension + 2x6” thick
+             walls + 4’ side/rear setback) of clearance does not exist, effectively creating a
+             larger setback than may be imposed on any ADU. Pursuant to Government Code
+             Section 66314, subdivision (d)(7), “A setback of no more than four feet from the
+             side and rear lot lines shall be required for an accessory dwelling unit that is not
+             converted from an existing structure or a new structure constructed in the same
+             location and to the same dimensions as an existing structure.” Therefore, the city
+             must amend the Ordinance to remove the requirement for minimum interior
+             dimensions not established by the California Building Standards Code, as it
+             maybe locally amended.
+
+          17. Section 15.14.080 (I)(7)(g) – Obscuring Windows and Doors – The Ordinance
+             states, “All windows and doors in an ADU less than 30 feet from a property line
+             that is not a public right-of-way line must either be (for windows) clerestory with
+             the bottom of the glass at least six feet above the finished floor, or (for windows
+             and for doors) utilize frosted or obscured glass.”
+
+             However, State ADU Law requires that local agencies must only impose
+             objective standards without discretionary review 7. Additionally, Government Code
+             section 66321, subdivision (b)(3) prohibits any requirements that prevent
+             construction of “at least an 800 square foot accessory dwelling unit with four-foot
+             side and rear yard setbacks.”
+
+             The Ordinance and the Municipal Code do not define “frosted” or “obscured” or
+             provide specifications for clerestory windows. This lack of clear definitions
+             creates potential for discretionary review and internal inconsistencies, particularly
+             with the requirement that ADU windows and doors match the primary dwelling’s
+             design (Section 15.14.080 (I)(7)(b)). Consequently, it is unclear how applicants
+             can demonstrate compliance or how the agency will evaluate the requirement
+             objectively.
+
+             Requiring windowsill heights to reach at least six feet from the finished floor
+             effectively requires an interior dimension of more than seven feet in height for
+             the ADU, creating internal inconsistency with Section 15.14.080 (I)(7)(f) of the
+             Ordinance which allows a minimum of seven feet in height. This sill height
+             requirement can also conflict with safety codes requiring lower windowsill
+             heights for egress. The lack of objective benchmarks for frosted or obscured
+             glass further complicates compliance. Such an interior dimensional
+             requirement, i.e., a minimum size requirement, cannot be imposed on an ADU
+             “that does not permit at least an 800 square foot accessory dwelling unit with
+             four-foot side and rear yard setbacks” 8.
+
+7 Gov. Code, §§ 66314, subds. (b)(1); 66317, subd. (a).
+8 Gov. Code, § 66321, subd. (b)(3).
+       So Kim, Community Development Director
+       Page 9
+
+
+
+              Therefore, the City must amend the Ordinance to provide objective standards
+              for “clerestory,” “frosted,” and “obscured” meeting the definition of “objective
+              standard” in Government Code section 66313, subdivision (h), or must remove
+              this requirement from the Ordinance, and must amend the Ordinance to avoid
+              internal inconsistencies between applicable codes which could preclude
+              construction of legally permissible ADUs.
+          18. Section 15.14.080 (I)(7)(h) – Mechanical Setback – The Ordinance states,
+             “Mechanical equipment may not be placed within four feet of an adjacent
+             property.” Additionally, the Ordinance establishes design requirements for roof-
+             mounted HVAC equipment in Subsection 15.62.080 (E)(2)(a).
+              However, State ADU Law prohibits local agencies from imposing requirements
+              that prevent the construction of an 800 square foot ADU with four-foot side and
+              rear setbacks 9. Additionally, State ADU Law requires that ADUs be allowed in
+              any of the following configurations: “The accessory dwelling unit is either
+              attached to, or located within, the proposed or existing primary dwelling,
+              including attached garages, storage areas or similar uses, or an accessory
+              structure or detached from the proposed or existing primary dwelling and
+              located on the same lot as the proposed or existing primary dwelling, including
+              detached garages”10.State ADU Law requires that local agencies must only
+              impose objective standards without discretionary review 11.
+              Such standards for mechanical equipment serving the ADU (or serving the
+              primary dwelling in context with the construction of an ADU), may constitute
+              building setbacks and may result in a setback imposed on an ADU that is
+              unlawful. If no alternative location for mechanical equipment exists except
+              within four feet of the property line, this requirement could force applicants to
+              increase the setback or reduce the size of the ADU. Locating mechanical
+              equipment on the roof to avoid this issue may trigger subjective design
+              standards12 and may create potential for discretionary review.
+
+              Therefore, the city must amend the Ordinance to provide that in no case shall
+              an ADU be required to provide a setback greater than that which is allowed to
+              be required by State ADU Law, nor shall any proposed ADU be required to be
+              reduced in size to accommodate such a requirement, and where an ADU
+              proposes to locate such equipment on the roof, subjective design standards
+              cannot be applied.
+
+
+9 Gov. Code, § 66321, subd. (b)(3).
+10 Gov. Code, § 66314, subd. (d)(3).
+11 Gov. Code, §§ 66314, subds. (b)(1); 66317, subd. (a).
+
+12 15.62.080 (E)(2)(a): “Roof-mounted mechanical equipment such as air conditioning, heating or
+
+ventilating units or ducting shall be screened from a horizontal line of sight. Such screening shall be
+architecturally consistent with the building and an integral part of the roof design so as not to appear
+as an architectural ‘afterthought.’”
+      So Kim, Community Development Director
+      Page 10
+
+
+          19. Section 15.14.080 (I)(8) – Tree Replacements – The Ordinance states that,
+             “Trees removed on site for construction of the ADU or to provide parking should
+             be replaced with 24-inch box trees of the same variety.” However, State ADU
+             Law requires that local agencies must only impose objective standards without
+             discretionary review 13.Neither the Ordinance nor the Municipal Code provide a
+             definition for “variety” with reference to trees. The Ordinance does not establish
+             whether ADUs are permitted even where the replanting of new 24-inch box
+             trees elsewhere on the lot is rendered infeasible due to possible ADU siting in
+             conflict with the root zones of the replacement trees. Therefore, the Ordinance
+             must be amended to establish specifications for tree replacements based on
+             objective standards as defined in Government Code Section 66313, subdivision
+             (h), and must provide for the ministerial approval of State ADU Law-mandated
+             ADUs in situations where tree replacement requirements unreasonably restrict
+             siting of any ADU.
+
+          20. Section 15.14.080 (I)(9) – Historical Protections – The Ordinance states that,
+             “An ADU that is on or within 600 feet of real property that is listed in the
+             California Register of Historic Resources must be located so as not to be
+             visible from the public right-of-way.” However, Government Code Section
+             66314, subdivision (b)(1) states that local agencies may (emphasis added),
+             “[i]mpose objective standards on accessory dwelling units that include, but are
+             not limited to, parking, height, setback, landscape, architectural review,
+             maximum size of a unit, and standards that prevent adverse impacts on any
+             real property that is listed in the California Register of Historical
+             Resources” (emphasis added). Objective standards are defined in section
+             66313, subdivision (h) as “standards that involve no personal or subjective
+             judgment by a public official and are uniformly verifiable by reference to an
+             external and uniform benchmark or criterion available and knowable by both
+             the development applicant or proponent and the public official prior to
+             submittal.” The Ordinance does not provide a definition of “visible” nor establish
+             how such a requirement would be applied ministerially. The Ordinance also
+             does not establish how an ADU’s visibility from the public right-of-way has any
+             adverse impact on historic properties.
+
+             Therefore, the city should provide response indicating how visibility of any ADU
+             located within 600 feet of a historic resource, even when located on a separate
+             property from that historic resource, has a specific adverse impact on said
+             historic property, or shall amend the Ordinance to remove the requirement.
+             Unless no structures of any kind are permitted to be visible from the public
+             right-of-way when located within 600 feet of historic properties, the reasoning
+             provided should clearly demonstrate how public right-of-way-visible ADUs
+             specifically create such an adverse impact that must be mitigated.
+             Otherwise, the city must amend the Ordinance to provide objective standards
+             to establish how the matter of visibility is addressed for Historic Resource-
+             proximal ADUs in a manner that can be evaluated ministerially, without
+
+13 Gov. Code, §§ 66314, subds. (b)(1); 66317, subd. (a).
+      So Kim, Community Development Director
+      Page 11
+
+
+             subjective judgment by a public official, and that is established by uniform
+             benchmarks and criteria knowable by applicants prior to submittal of an
+             application to create an ADU.
+
+      Please note that the City has two options in response to this letter14. The City can either
+      amend the Ordinance to comply with State ADU Law 15 or adopt the Ordinance without
+      changes and include findings in its resolution adopting the Ordinance that explain the
+      reasons the City believes that the Ordinance complies with State ADU Law despite
+      HCD’s findings 16. If the City fails to take either course of action and bring the Ordinance
+      into compliance with State ADU Law, HCD must notify the City and may notify the
+      California Office of the Attorney General that the City is in violation of State ADU Law. 17
+
+      HCD appreciates the City’s efforts in the preparation and adoption of the Ordinance and
+      welcomes the opportunity to assist the City in fully complying with State ADU Law.
+      Please feel free to contact David Barboza at David.barboza@hcd.ca.gov if you have
+      any questions.
+
+      Sincerely,
+
+
+
+
+      Jamie Candelaria
+      Senior Housing Accountability Unit Manager
+      Housing Policy Development Division
+
+
+
+
+14 Gov. Code, § 66326, subd. (b)(2).
+15 Gov. Code, § 66326, subd. (b)(2)(A).
+16 Gov. Code, § 66326, subd. (b)(2)(B).
+17 Gov. Code, § 66326, subd. (c).
+                  State ADU/JADU Law Statutory Conversion Table
+
+
+
+New Government Code Sections            Previous Government Code Sections
+                        Article 1. General Provisions
+66310                                   65852.150 (a)
+66311                                   65852.150 (b)
+66312                                   65852.150 (c)
+66313                                   General Definition Section
+                                        65852.2 (j)
+                                        65852.22 (j)
+               Article 2. Accessory Dwelling Unit Approvals
+66314                                   65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5)
+66315                                   65852.2 (a)(8)
+66316                                   65852.2 (a)(6)
+66317                                   65852.2 (a)(3), (a)(7)
+66318                                   65852.2 (a)(9), 65852.2 (a)(2)
+66319                                   65852.2 (a)(10)
+66320                                   65852.2 (b)
+66321                                   65852.2 (c)
+66322                                   65852.2 (d)
+66323                                   65852.2 (e)
+66324                                   65852.2 (f)
+66325                                   65852.2 (g)
+66326                                   65852.2 (h)
+66327                                   65852.2 (i)
+66328                                   65852.2 (k)
+66329                                   65852.2 (l)
+66330                                   65852.2 (m)
+66331                                   65852.2 (n)
+66332                                   65852.23.
+                Article 3. Junior Accessory Dwelling Units
+66333                                   65852.22 (a)
+66334                                   65852.22 (b)
+66335                                   65852.22 (c)
+66336                                   65852.22 (d)
+66337                                   65852.22 (e)
+66338                                   65852.22 (f)-(g)
+66339                                   65852.22 (h)
+                 Article 4. Accessory Dwelling Unit Sales
+66340                                   65852.26 (b)
+66341                                   65852.26 (a)
+66342                                   65852.2 (a)(10)

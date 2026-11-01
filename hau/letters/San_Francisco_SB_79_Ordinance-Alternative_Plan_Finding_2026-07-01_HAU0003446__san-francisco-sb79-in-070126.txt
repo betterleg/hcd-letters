@@ -1,0 +1,206 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+         July 1, 2026
+
+         Joshua Switzky, Deputy Director
+         Citywide Planning Division
+         City of Francisco
+         49 South Van Ness Avenue, Suite 1400
+         San Francisco, CA 94103
+
+         Dear Joshua Switzky:
+
+         RE: City of San Francisco – Enacted Senate Bill 79 Ordinance – Review Letter
+
+         Thank you for submitting the City of San Francisco’s (City) adopted and enacted
+         Ordinance 082-26 (Ordinance) adding Section 207.11 within Article 2 of the City’s
+         Planning Code and the supporting documents to adopt a transit-oriented development
+         (TOD) alternative plan (Plan) to implement Senate Bill (SB) 79.
+
+         The California Department of Housing and Community Development (HCD) finds the
+         City’s Ordinance and Plan address the statutory requirements for a TOD alternative
+         plan under Government Code section 65912.161, subdivision (a); industrial employment
+         hubs under Government Code section 65912.160, subdivision (e)(2); and the capacity
+         and low-resource area requirements under Government Code section 65912.161,
+         subdivision (b). Therefore, subject to the condition of approval stated herein, the
+         Ordinance and Plan substantially comply with SB 79 (Government Code Chapter 4.1.5)
+         as of the date of this letter.
+
+         Analysis
+
+         According to Ordinance 082-26 and the included documents submitted by the City
+         (detailed in Attachment A, Table 1 below), the Ordinance and Plan satisfy the statutory
+         criteria required to:
+
+         1. Exempt sites within industrial employment hubs from the provisions of SB 79,
+            pursuant to Government Code section 65912.160, subdivision (e)(2);
+         2. Temporarily exclude certain sites in areas designated as low resource from the
+            provisions of Government Code section 65912.157 until one year after the adoption
+            of the seventh cycle housing element, pursuant to Government Code section
+            65912.161, subdivision (b)(1)(B)(iii);
+         3. Temporarily exclude certain sites covered by the Plan from the provisions of
+            Government Code section 65912.157 until one year after the adoption of the
+            seventh cycle housing element, pursuant to Government Code section 65912.161,
+            subdivision (b)(1)(C); and
+Joshua Switzky, Deputy Director
+Page 2
+
+
+4. Redistribute the capacity on sites covered by the Plan, rendering the provisions of
+   Government Code section 65912.157 inapplicable to such sites until the adoption of
+   the next housing element, pursuant to Government Code section 65912.161,
+   subdivisions (a) and (d).
+
+HCD understands that the Plan, in part, utilizes Section 207.11 of the City’s Planning
+Code to satisfy the capacity requirements under Government Code section 65912.161,
+subdivision (a). However, Section 207.11(b)(5) impermissibly prohibits the use of the
+State Density Bonus Law for qualifying housing development projects on applicable
+alternative plan sites. Therefore, HCD’s finding of compliance is contingent on the City
+not enforcing Section 207.11(b)(5) when reviewing, approving, or conditioning qualifying
+housing development projects on applicable alternative plan sites.
+
+Conclusion
+
+Provided the submitted documentation and assertions by the City are complete and
+accurate, and the City complies with the conditions of this letter, HCD finds that all the
+requirements have been met for adopting an ordinance and plan compliant with SB 79.
+
+Please note, HCD reserves the right to request additional information to monitor
+ongoing substantial compliance with SB 79 and may update or revoke its findings if new
+information becomes available. In addition, the Metropolitan Transportation Commission
+(MTC) SB 79 map shall have a rebuttable presumption of validity for use by project
+applicants and local governments 1 and therefore the City’s Ordinance and zoning map
+should be at least as inclusive as MTC’s map.
+
+HCD appreciates the cooperation of the City of San Francisco’s staff during the course
+of our review. If you have any questions or need additional information, please contact
+me at melinda.coy@hcd.ca.gov. HCD is committed to assisting the City in addressing
+all statutory requirements of SB 79.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Housing Accountability Unit Chief
+
+
+Enclosure: Attachment A – Table 1 Submittal Documents
+
+
+
+
+1 Gov. Code, § 65912.160, subd. (f).
+    Joshua Switzky, Deputy Director
+    Page 3
+
+
+    ATTACHMENT A
+
+    Table 1 Submittal Documents
+                                                                                          Submittal
+      Filename                        Document Description
+                                                                                          Date
+      Final Adopted Ordinance         Final ordinance passed by BOS and signed by
+1                                                                                         5/19/2026
+      082-26.pdf                      Mayor
+
+      Final Resolution No.            Final resolution passed by the Planning
+2                                                                                         5/19/2026
+      21901.pdf                       Commission
+
+      Memo – SB 79 Industrial         Documentation (parcel list, General Plan
+3                                                                                         5/19/2026
+      Employment Hubs.pdf             documentation map, zoning references)
+
+      Memo – SB 79 Low                Documentation, includes a map and table of
+4                                                                                         5/19/2026
+      Resource Parcels.pdf            exempted parcels
+                                      Total jurisdictional housing capacity without the
+      Total Jurisdictional Capacity
+                                      exclusion of low resource parcels and list of
+5     w/o exclusion of low                                                                5/19/2026
+                                      exempted low-resource parcels (excel
+      resource parcels.xlsx
+                                      spreadsheet)
+                                      Two memos: (1) Alternative Plan overall memo;
+      Memo – SB 79 Alternative        (2) Capacity Calculations memo, including guide
+6                                                                                         5/29/2026
+      Plan.pdf                        to Alt Plan tables and explanation of capacity
+                                      methodologies
+      SB 79 Citywide Alternative
+                                      Parcel-level documentation and calculations for
+7     Plan Parcel Table_May                                                               5/29/2026
+                                      Alternative Plan (excel)
+      2026.xlsx
+      SB 79 Citywide Alternative
+                                      Station area-level documentation and calculations
+8     Plan Station Area                                                                   5/29/2026
+                                      for Alternative Plan (excel)
+      Tables_May 2026.xlsx
+      SB79 Tier 1 Station Area
+                                      Station area parcel-level maps of all 13 Tier 1
+9     Parcels Map for Alt                                                                 5/29/2026
+                                      station areas for Alternative Plan
+      Plan_May 2026.xlsx
+      SB79 Tier 2 Station Area
+                                      Station area parcel-level maps of all 257 Tier 2
+10    Parcel Maps for Alt                                                                 5/29/2026
+                                      station areas for Alternative Plan
+      Plan_May2026
+                                      Interactive ArcGIS webmap link, available at:
+      SB79 Draft Map for HCD
+11                                    https://experience.arcgis.com/experience/18bc947    5/29/2026
+      review
+                                      845ea4340a5256cb2938cafb9
+      Memo- SB79 Industrial
+12    Employment                      Updated documentation                               6/1/2026
+      Hubs_JuneUpdate.pdf
+ Joshua Switzky, Deputy Director
+ Page 4
+
+
+                                                                                       Submittal
+     Filename                        Document Description
+                                                                                       Date
+                                     Eight (8) separate maps: Hubs, Plan Areas, Bay
+     Commerce and Industrial
+13                                   View, Bay View Plan Area, Potrero, Potrero Plan   6/9/2026
+     Maps.pdf
+                                     Area, SoMa, SoMA-Plan Area
+     Memo-SB79 Industrial
+14   Employment                      Revised documentation                             6/17/2026
+     Hubs_June15Update.pdf
+
+     MEMO-SB79 Low Resource
+15                                   Updated documentation                             6/17/2026
+     Parcels_June15update.pdf
+     Total Jurisdictional Capacity
+     without the Exclusion of Low
+16                                   Revised (excel)                                   6/17/2026
+     Resource
+     Parcels_June15Update.xlsx
+     Memo-SB 79 Alternative
+17                                   Revised documentation                             6/26/2026
+     Plan_June2026.pdf
+
+     SB79 Citywide-Alternative
+18   Plan Parcel                     Revised (excel)                                   6/26/2026
+     Table_June2026.xlsx
+     SB79 Citywide Alternative
+19   Plan Station Area               Revised (excel)                                   6/26/2026
+     Tables_June2026.xlsx
+     SB79 Tier 1Station Area
+20   Parcel Maps for Alt             Revised documentation (13 maps)                   6/26/2026
+     Plan_June2026.pdf
+     SB79 Tier 2 Station Area
+21   Parcel Maps for Alt             Revised documentation (257 maps)                  6/26/2026
+     Plan_June2026.pdf

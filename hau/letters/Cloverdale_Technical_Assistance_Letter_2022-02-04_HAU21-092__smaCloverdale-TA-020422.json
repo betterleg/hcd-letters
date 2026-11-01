@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010697",
+  "case_number": "HAU21-092",
+  "letter_date": "2022-02-04",
+  "jurisdiction": "Cloverdale",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "65589.5(d) | 65863(b)(2) | 65863(c)(2)",
+  "n_statutes": "3",
+  "keywords": "No Net Loss law findings | farmworker housing | housing accountability act findings of denial",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/smaCloverdale-TA-020422.pdf",
+  "hcd_letter": "Cloverdale Technical Assistance Letter 02/04/2022",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/smaCloverdale-TA-020422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 253088,
+  "text_chars": 15812,
+  "text_empty": false
+}

@@ -1,0 +1,106 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite 400
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 23, 2024
+
+
+         Lashun Cross, Director of Planning
+         City of Orinda Planning Department
+         22 Orinda Way
+         Orinda, CA 94563
+
+         Dear Lashun Cross:
+
+         RE: City of Orinda SB 9 Implementation – Letter of Technical Assistance
+
+         This letter provides technical assistance to the City of Orinda (City) regarding applicant
+         eligibility requirements for urban lot splits under Senate Bill (SB) 9 (Chapter 162,
+         Statutes of 2021). 1 The Department of Housing and Community Development (HCD)
+         received a request for technical assistance from the City regarding whether Limited
+         Liability Corporations and/or Companies (LLCs) are eligible applicants and, if so, how
+         can an LLC satisfy the three-year owner-occupancy requirement. 2 While HCD has
+         already met with the City and relayed its determination, the City is requesting that HCD
+         provide their written determination in this letter of technical assistance.
+
+         Background and Summary of Request
+
+         HCD received a request for technical assistance from the City on April 8, 2024, regarding
+         an LLC-applicant’s ability to meet SB 9 owner-occupancy requirements. HCD met with
+         the City on April 15, 2024, where the City stated that they are receiving and approving
+         SB 9 applications from LLCs seeking to utilize SB 9 urban lot split development
+         provisions. In order to approve the LLC-applicant’s application, the City is allowing LLC
+         members (members) to sign the required owner-occupancy affidavit on behalf of the
+         LLC. The City also explained that they are encountering pushback from various
+         constituents regarding the City’s practice and reached out to HCD for interpretation of
+         specific requirements under Government Code section 66411.7(g)(1). HCD met with the
+         City on August 14, 2024, and provided the City with HCD’s determination as stated
+         below.
+
+
+
+
+1 Gov. Code, § 66411.7
+2 Gov. Code, § 66411.7(g)(1): “A local agency shall require an applicant for an urban lot split to sign
+
+an affidavit stating that the applicant intends to occupy one of the housing units as their principal
+residence for a minimum of three years from the date of the approval of the urban lot split.”
+      Lashun Cross, Director of Planning
+      Page 2
+
+
+
+      Question #1: Is an LLC that owns residentially zoned property eligible to apply for
+      an SB 9 urban lot split and, if so, how can the LLC satisfy the three-year
+      occupancy requirement?
+
+      LLCs are not eligible applicants for SB 9 urban lot splits because they cannot satisfy the
+      three-year occupancy requirement. While there are no provisions in SB 9 that expressly
+      preclude LLC applicants, an LLC applicant cannot legitimately claim intentions of
+      residing in one of the units as its principal residence since LLCs do not physically reside
+      anywhere.
+
+      Furthermore, during the passage of SB 9, the Legislature made it clear that SB 9
+      “benefits homeowners, and homeowners alone, not institutional investors”. To that end,
+      amendments were made prior to enactment of SB 9 requiring a signed affidavit from the
+      applicant claiming the applicant’s intentions to occupy one of the units as their principal
+      residence for ministerial lot splits under SB 9. This specific provision was designed to
+      “prevent investor speculation”, preclude institutional investing, and prevent anti-
+      displacement of current renters. 3 Accordingly, LLCs are precluded from eligibility under
+      Government Code section 66411.7.
+
+      Question #2: Can an LLC Member claim that they intend on residing in one of the
+      units on behalf of the LLC Applicant to satisfy the three-year requirement?
+
+      No, a member cannot act in this capacity on behalf of an LLC. Government Code section
+      66411.7(g)(1) expressly states that an “applicant intends to occupy one of the housing
+      units as their principal residence”. While a member can claim one of the units as their
+      principal residence, a member cannot be an applicant since the property is owned by the
+      LLC, not the member. Therefore, since a member cannot be the applicant, they cannot
+      fulfil the applicant requirement under (g)(1).
+
+      Conclusion
+
+      HCD understands the challenges of implementing ever-changing state housing laws and
+      are committed to supporting the City in achieving full implementation of SB 9. HCD
+      would also like to remind the City that HCD has enforcement authority over SB 9 and
+      various other state housing laws. Accordingly, HCD may review local government
+      actions and inactions to determine consistency with these laws. If you have any
+      questions or need additional information, please contact John Buettner at
+      john.buettner@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+      Shannan West
+      Housing Accountability Unit Chief
+
+3 SB 9, The California H.O.M.E. Act (https://focus.senate.ca.gov/sb9)

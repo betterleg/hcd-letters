@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0017490",
+  "case_number": "HAU0001039",
+  "letter_date": "2024-09-25",
+  "jurisdiction": "Los Angeles",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law | Housing Accountability Act",
+  "statutes": "65589.5(o)(1) | 65589.5(o)(4) | 65915(b)(1)(G) | 65915(e)(3)",
+  "n_statutes": "4",
+  "keywords": "ED1 | SDBL 100 percent affordable developments | Vesting | unlimited density",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/losangeles-hau-1039-ta-09252024.pdf",
+  "hcd_letter": "Los Angeles Technical Assistance Letter 09/25/2024",
+  "housing_law": "Density Bonus Law, Housing Accountability Act",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/losangeles-hau-1039-ta-09252024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 244747,
+  "text_chars": 11001,
+  "text_empty": false
+}

@@ -1,0 +1,143 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 29, 2021
+
+
+         William Seligmann, City Attorney
+         City of Campbell
+         70 North First Street
+         Campbell, CA 95008
+
+         Dear William Seligmann:
+
+         RE: Franciscan Apartments – Letter of Technical Assistance
+         The purpose of this letter is to provide technical assistance to the City of Campbell
+         (City) regarding a residential infill project at the existing Franciscan Apartments located
+         at 601 Almarida Drive. The proposed project would add 60 units to the existing
+         apartment complex and includes a request for density bonus. The City requested
+         technical assistance from the California Department of Housing and Community
+         Development (HCD) on the question of whether the replacement provisions of the State
+         Density Bonus Law (SDBL) (Gov. Code, § 65915, subd. (c)(3)) would apply in the
+         context of the project. In short, the City asserts that the replacement provisions would
+         apply; HCD disagrees with this interpretation, as outlined below.
+         HCD’s technical assistance is based on the following understanding of the proposed
+         project. The proposed project would result in the addition of 60 new multifamily
+         residential units to an existing site currently developed with 180 multifamily units, for a
+         total of 240 units. The project would be made possible by a 35 percent density bonus
+         pursuant to the SDBL. The new units would be added to the site by constructing a new
+         three-story freestanding building on a portion of the site that is currently occupied by
+         surface parking and an amenity building. None of the existing 180 multifamily units
+         would be demolished, converted to condominiums, or converted to nonresidential use
+         as a result of project activities. None of the existing units are currently subject to a deed-
+         restriction that would limit rents to levels affordable to low-income households, nor are
+         any of the units subject to a rent control ordinance.
+         HCD’s Understanding of the City’s Interpretation
+         In a letter to HCD, the City requested that HCD opine on whether the replacement
+         provisions of the SDBL would apply in the context of the project. (Gov. Code, § 65915,
+         subd. (c)(3).) As HCD understands it, the City interprets that all existing housing units
+         that are occupied by lower-income households must be “replaced” by “preserving”
+         them via deed-restriction to affordable units. The letter does not specify exactly how
+         many existing market rate units would need to be “preserved” in this way. In the
+         absence of evidence from the developer to the contrary, the City would apply the
+        William Seligmann, City Attorney
+        Page 2
+
+
+
+        rebuttable presumptions in the statute regarding the number of units occupied by
+        lower income households (Gov. Code, § 65915, subd. (c)(3)(B)), which would be
+        roughly 82 units (46 percent of 180 units). The 46 percent figure is based on data from
+        HUD’s Comprehensive Housing Affordability Strategy Database, provided to HCD by
+        the City. Thus, to build 60 new units at this site, the City asserts that the applicant
+        would have to restrict 82 “replacement” units in addition to the units proposed by the
+        project to satisfy SDBL bonus and the local inclusionary ordinance requirements. HCD
+        disagrees.
+        Applicability of SDBL Replacement Provisions to Franciscan Apartments Project
+        HCD finds that the replacement provisions of SDBL (Gov. Code, § 65915, subd. (c)(3).)
+        would not apply to this project. None of the existing 180 multifamily residential units
+        would be demolished, converted to condominiums, or converted to nonresidential use
+        as a result of project activities. It appears that the City is concerned that existing families
+        may be displaced at some time in the future, perhaps through gentrification. HCD does
+        not consider that the replacement provisions of the SDBL contained in subdivision (c)(3)
+        were intended to address activities on or off the site that may result in long-term
+        displacement. HCD is not aware of any evidence of the risk of future displacement, and
+        this projection by the City appears to be speculative. While it may be laudable to
+        preserve any existing market rate units on-site that are occupied by lower-income
+        households via conversion to deed-restricted affordable housing, it cannot be required
+        in this instance pursuant to SDBL.
+        HCD finds support for its interpretation in at least three considerations. First, the statute
+        uses the term “replace” and “replacement,” suggesting that a unit currently or previously
+        subject to affordable restrictions or actually occupied by persons with lower-income is
+        being demolished or removed from affordability due to conversion into a condominium
+        or other nonresidential use. That is consistent with the ordinary meaning of the term. 1
+        The term suggests that units will be removed physically or legally from use in the
+        manner to which they had been put. It seems unlikely that the Legislature would use the
+        term replace in this manner if it merely meant that units that would be unchanged would
+        still have to be “replaced” in the accounting of affordable units provided by the project.
+        Second, the Legislative history does not support the City’s interpretation. In amending
+        Government Code section 65915 in 2014 to include subdivision (c)(3), the author’s
+        stated intent was to replace units that were actually demolished:
+                 According to the author, “Adequate and affordable housing is an issue of
+                 statewide concern. Yet, the change made to the density bonus law by SB 1818
+
+1
+  For instance, the term “replace” means “to put back in a previous place or position,” “to take or fill the place of,” and “to
+return or pay back.” (Webster’s II New College Dictionary, Houghton Mifflin, Boston, 1995, at p. 940; see also Merriam-
+Webster.com at < https://www.merriam-webster.com/dictionary/replace> [“restore to a former place or position”; “to take
+the place of especially as a substitute or successor”; or “ “to put something new in the place of”].) “Replacement” is similar
+and means the act or process of replacing or being replaced,” “substitution,” and “one that replaces.” (Webster’s II New
+College Dictionary, Houghton Mifflin, Boston, 1995, at p. 940.)
+William Seligmann, City Attorney
+Page 3
+
+
+
+       had the reverse effect and has resulted in fewer affordable units…. buildings that
+       were built pre-SB 1818 that are proposed to be demolished and replaced may
+       now qualify for a density bonus under the new SB 1818 structure.
+       SB 1818 inadvertently created a loophole whereby developers that propose to
+       demolish pre-SB 1818 buildings are not required to begin the new project with
+       the same number of affordable units. As a result, a new project may result in less
+       affordable units than previously existed on the parcel.
+       This bill addresses the loophole created by SB 1818 and ensures that affordable
+       units are preserved when a development proposes to demolish a site and the
+       new proposal is to replace the outdated structure with a new residential structure
+       by ensuring that the project begins with the same number of affordable units.
+       Additionally, this bill increases the classification of affordability from 30 years to
+       55 years. This change is consistent with other state and local programs and
+       ensures that affordable units remain affordable. AB 2222 will preserve and
+       promote the supply of affordable units for years to come.”
+(Assem. Comm. on Local Gov., Analysis of AB 2222 (Reg. Sess. 2013-2014), as
+amended May 5, 2014, p. 4.) Other statements in the legislative history are similar.
+Finally, in providing technical assistance, HCD foremost remains mindful of the
+interpretive provisions in directives of the Legislature: “This chapter shall be interpreted
+liberally in favor of producing the maximum number of total housing units.” (Gov. Code,
+§ 65915, subd. (r).) While the City’s interpretation may increase the overall level of
+affordable units at this particular site, the City’s interpretation would have the overall
+effect of chilling infill and densification projects at existing multifamily sites as it would
+penalize them by making them provide greater levels of affordability as compared to
+their greenfield competitors, even when there is no clear or demonstrable evidence that
+existing units would be affected in any way. In this way, such an interpretation would
+serve to chill housing development across the state and chill reliance on SDBL for infill
+development projects.
+HCD respects the challenges inherent in infill development and applauds the creation of
+additional market-rate and affordable housing (especially on a site where none exists
+currently). If you have questions or need additional information, please contact Brian
+Heaton at Brian.Heaton@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

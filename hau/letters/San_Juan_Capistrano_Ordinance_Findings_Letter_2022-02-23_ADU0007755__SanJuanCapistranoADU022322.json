@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024802",
+  "case_number": "ADU0007755",
+  "letter_date": "2022-02-23",
+  "jurisdiction": "San Juan Capistrano",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/SanJuanCapistranoADU022322.pdf",
+  "hcd_letter": "San Juan Capistrano Ordinance Findings Letter 02/23/2022",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/SanJuanCapistranoADU022322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 229046,
+  "text_chars": 10710,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025356",
+  "case_number": "HAU0001179",
+  "letter_date": "2026-03-24",
+  "jurisdiction": "Corcoran",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "notice of violation",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/corcoran-he-noncompliant-nov-032426.pdf",
+  "hcd_letter": "Corcoran Notice of Violation 03/24/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/corcoran-he-noncompliant-nov-032426.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 175831,
+  "text_chars": 11491,
+  "text_empty": false
+}

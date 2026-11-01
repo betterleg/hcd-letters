@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018020",
+  "case_number": "HAU0001329",
+  "letter_date": "2024-11-12",
+  "jurisdiction": "Jurupa Valley",
+  "letter_type": "Notice of Potential Violation",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65585(j) | 65915 | 65915(e)",
+  "n_statutes": "3",
+  "keywords": "denial of waivers",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/jurupa-valley-hau-1329-nopv-11122024.pdf",
+  "hcd_letter": "Jurupa Valley Notice of Potential Violation 11/12/2024",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/jurupa-valley-hau-1329-nopv-11122024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 196892,
+  "text_chars": 5391,
+  "text_empty": false
+}

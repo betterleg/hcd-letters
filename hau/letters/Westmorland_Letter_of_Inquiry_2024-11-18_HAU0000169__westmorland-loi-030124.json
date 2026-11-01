@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0014336",
+  "case_number": "HAU0000169",
+  "letter_date": "2024-11-18",
+  "jurisdiction": "Westmorland",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "noncompliance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/westmorland-loi-030124.pdf",
+  "hcd_letter": "Westmorland Letter of Inquiry 11/18/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/westmorland-loi-030124.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189632,
+  "text_chars": 6435,
+  "text_empty": false
+}

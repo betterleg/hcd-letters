@@ -1,0 +1,136 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street
+Sacramento, CA 95811
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 31, 2024
+
+
+
+         Jane Choi, AICP
+         Principal City Planner, Central Project Planning
+         City of Los Angeles
+         200 North Spring Street, Room 621
+         Los Angeles, CA 90012
+
+         Dear Jane Choi:
+
+         RE: City of Los Angeles Density Bonus Law Implementation – Letter of Technical
+             Assistance
+
+         The California Department of Housing and Community Development (HCD) Housing
+         Accountability Unit (HAU) received a request for technical assistance regarding the
+         applicability of the State Density Bonus Law (SDBL) to the property located at 1719
+         Whitley Avenue (Property). The request pertains to the applicability of the City’s
+         Qualified Classification (Q Condition), a prefix to zone classifications, in the calculation
+         of SDBL base density 1 for the Property and other Q Condition properties with similar
+         use restrictions.
+
+         The Q Condition acts as a zoning overlay that imposes specific site designations and
+         restrictions on individual or groups of properties. These conditions can limit allowable
+         uses, size of buildings, and add additional development standards beyond those
+         permitted within the zoning class. This letter provides technical assistance on the proper
+         calculation of base density pursuant to the SDBL for properties with a Q Condition.
+
+         Background
+
+         HCD understands that the Property is located in the R5 Multiple Dwelling Zone (R5),
+         Height District 2, with a Q Condition. The property has a general plan land use
+         designation of High Density Residential in the Hollywood Community Plan, which allows
+         for up to 80 dwelling units per acre. The Q Condition varies citywide and imposes
+         specific site limitations on designated areas. The Q Condition applied to this Property in
+         the Hollywood Ocean View Tract limits the allowed residential land uses to those
+         permitted in the R4 zone, such as apartment hotels, apartment houses, dormitories, etc.
+
+
+
+1 HCD has authority to enforce SDBL pursuant to Government Code section 65585, subdivision (j)(3).
+      Jane Choi, AICP, Principal City Planner
+      Page 2
+
+
+
+      However, HCD also understands that the City has long interpreted the Q Condition to
+      also limit density to the R4 density, thereby reducing the allowable density of sites
+      falling under the Q Condition requirement in the R5 zone. The R4 zoning district allows
+      for half the density of the R5 district. In the R5 district, one dwelling unit is permitted per
+      200 square feet of lot area, whereas the R4 district only allows one unit per 400 square
+      feet. Therefore, the requestor has asked which density specifically applies to the subject
+      Property site under the SDBL.
+
+      Question: What is the applicable base density for 1719 Whitley Avenue?
+
+      Response: For purposes of applying the SDBL, the maximum allowable density
+      (base density) for the site is the density under the R5, or one unit per 200 square
+      feet of lot area.
+
+      SDBL Provisions for Maximum Allowable Base Density
+
+      Base density is determined under the SDBL by looking at “the maximum allowable
+      residential density.” 2 The language of the SDBL instructs that the highest density
+      available in any of the competing documents, including zoning overlays similar to the Q
+      Condition, is the one that applies and provides no automatic deference to a specific
+      document. For the purposes of the SDBL, any hierarchy between planning documents
+      is flattened.
+
+      To clarify the SDBL requirements for maximum allowable density, HCD offers a
+      summary of recent legislation that amended the SDBL’s definition of “maximum
+      allowable residential density” in Government Code section 65915, subdivision (o)(6),
+      below.
+
+          •   AB 2234 (Chapter 651, Statutes of 2022, effective January 1, 2023) clarified the
+              definition of the maximum allowable residential density, or base density, under
+              SDBL to mean, “…the maximum number of units allowed under the zoning
+              ordinance, specific plan, or land use element of the general plan, or, if a range of
+              density is permitted, it means the maximum number of units allowed by the
+              specific zoning range, specific plan, or land use element of the general plan
+              applicable to the project.” 3
+
+          •   In addition, AB 1287 (Chapter 755, Statutes of 2023, effective January 1, 2024)
+              further clarified that any inconsistency between planning documents is irrelevant
+              by removing the sentence that read, “If the density allowed under the zoning
+              ordinance is inconsistent with the density allowed under the land use element of
+              the general or specific plan, the greater shall prevail” 4.
+
+
+
+2 Gov. Code, § 65915, subd. (o)(6).
+3 Gov. Code, § 65915, subd. (o)(6).
+4 Gov. Code, § 65915, subd. (o)(6).
+Jane Choi, AICP, Principal City Planner
+Page 3
+
+
+
+These amendments to the SDBL statute acknowledge and address the frequency and
+severity of inconsistencies among planning documents across the state. HCD
+understands it is the City’s position that the Q Condition means R4 density applies to
+the property; however, HCD finds that the Q Condition only addresses permitted land
+uses and does not refer to density. Therefore, the R4 density does not apply, but even if
+it did apply, it is not the maximum allowable density under SDBL. The maximum
+allowable density for the Property is the density allowed under the R5 land use
+designation, rendering one unit per 200 square feet of lot area.
+
+Conclusion
+
+HCD understands the challenges of implementing ever-changing state housing laws
+and are committed to supporting the City of Los Angeles in achieving its planning
+objectives. HCD would like to remind the City that HCD has enforcement authority over
+the SDBL, among other state housing laws. Accordingly, HCD may review local
+government actions and inactions to determine consistency with these laws. If you have
+any questions or need additional information, please contact Troy Andres, of our staff,
+at troy.andres@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

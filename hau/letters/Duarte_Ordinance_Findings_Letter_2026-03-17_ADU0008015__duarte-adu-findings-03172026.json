@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0025232",
+  "case_number": "ADU0008015",
+  "letter_date": "2026-03-17",
+  "jurisdiction": "Duarte",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66311.5 | 66311.7 | 66312 | 66313 | 66313.5 | 66314 | 66315 | 66316 | 66317 | 66326",
+  "n_statutes": "11",
+  "keywords": "Architecture | Deed Restriction | Size | floor area ratio | height | owner occupancy",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/duarte-adu-findings-03172026.pdf",
+  "hcd_letter": "Duarte Ordinance Findings Letter 03/17/2026",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/duarte-adu-findings-03172026.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 246938,
+  "text_chars": 16014,
+  "text_empty": false
+}

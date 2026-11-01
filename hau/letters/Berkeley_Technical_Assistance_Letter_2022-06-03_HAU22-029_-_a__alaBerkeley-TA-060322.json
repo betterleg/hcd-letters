@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0011135",
+  "case_number": "HAU22-029 - a",
+  "letter_date": "2022-06-03",
+  "jurisdiction": "Berkeley",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "CEQA",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/alaBerkeley-TA-060322.pdf",
+  "hcd_letter": "Berkeley Technical Assistance Letter 06/03/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/alaBerkeley-TA-060322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 194598,
+  "text_chars": 3636,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0010703",
+      "case_number": "HAU22-029",
+      "letter_date": "2022-06-03",
+      "jurisdiction": "Berkeley",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65585",
+      "n_statutes": "1",
+      "keywords": "CEQA",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/alaBerkeley-TA-060322.pdf",
+      "hcd_letter": "Berkeley Technical Assistance Letter 06/03/2022",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

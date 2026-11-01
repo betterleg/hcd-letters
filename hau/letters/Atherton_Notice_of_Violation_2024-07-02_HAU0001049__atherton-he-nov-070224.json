@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0016472",
+  "case_number": "HAU0001049",
+  "letter_date": "2024-07-02",
+  "jurisdiction": "Atherton",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65588 | 65589.5",
+  "n_statutes": "2",
+  "keywords": "NOV",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/atherton-he-nov-070224.pdf",
+  "hcd_letter": "Atherton Notice of Violation 07/02/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/atherton-he-nov-070224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 196632,
+  "text_chars": 9231,
+  "text_empty": false
+}

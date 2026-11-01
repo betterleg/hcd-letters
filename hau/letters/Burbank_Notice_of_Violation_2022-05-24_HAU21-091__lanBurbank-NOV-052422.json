@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0020386",
+  "case_number": "HAU21-091",
+  "letter_date": "2022-05-24",
+  "jurisdiction": "Burbank",
+  "letter_type": "Notice of Violation",
+  "housing_laws": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "statutes": "65589.5 | 65589.5(f)(4) | 65589.5(j) | 65589.5(j)(4) | 65913.4(a)(5)(A) | 65913.4(a)(5)(B) | 65913.4(n) | 65941.1",
+  "n_statutes": "8",
+  "keywords": "General plan | allowed use | objective standards",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanBurbank-NOV-052422.pdf",
+  "hcd_letter": "Burbank Notice of Violation 05/24/2022",
+  "housing_law": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanBurbank-NOV-052422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 237890,
+  "text_chars": 13462,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0018851",
+      "case_number": "HAU21-091",
+      "letter_date": "2022-05-24",
+      "jurisdiction": "Burbank",
+      "letter_type": "Notice of Violation",
+      "housing_laws": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+      "statutes": "65589.5(f)(4) | 65589.5(j) | 65589.5(j)(4) | 65913.4 | 65913.4(a)(2)(C) | 65913.4(a)(5)(A) | 65913.4(a)(5)(B) | 65941.1",
+      "n_statutes": "8",
+      "keywords": "SB 35",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanBurbank-NOV-052422.pdf",
+      "hcd_letter": "Burbank Notice of Violation 05/24/2022",
+      "housing_law": "Streamlined Ministerial Approval Process (SB 35 of 2017)"
+    }
+  ]
+}

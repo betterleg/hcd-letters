@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0022488",
+  "case_number": "ADU0004530",
+  "letter_date": "2025-10-20",
+  "jurisdiction": "Butte County",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/butte-county-adu-102025.pdf",
+  "hcd_letter": "Butte County Ordinance Findings Letter 10/20/2025",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/butte-county-adu-102025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 177956,
+  "text_chars": 11712,
+  "text_empty": false
+}

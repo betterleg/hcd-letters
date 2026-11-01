@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010701",
+  "case_number": "HAU22-004",
+  "letter_date": "2022-05-26",
+  "jurisdiction": "Burbank",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Crisis Act of 2019 | Other",
+  "statutes": "50079.5 | 50093 | 65589.5(h)(2) | 65863 | 65905.5(b)(3) | 65915(c)(3)(B) | 65915(c)(3)(B)(ii) | 66300(d) | 66300(d)(2)(A) | 66300(d)(2)(A)(ii) | 66300(i)",
+  "n_statutes": "11",
+  "keywords": "No net loss | affordability percentage | housing development project | inclusionary zoning | income data | replacement",
+  "n_keywords": "6",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanBurbank-TA-052622.pdf",
+  "hcd_letter": "Burbank Technical Assistance Letter 05/26/2022",
+  "housing_law": "Housing Crisis Act of 2019, Other",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/lanBurbank-TA-052622.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227211,
+  "text_chars": 8743,
+  "text_empty": false
+}

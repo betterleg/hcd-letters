@@ -1,0 +1,169 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         February 23, 2022
+
+
+         Laura Stokes, Housing Supervisor
+         City of San Juan Capistrano
+         32400 Paseo Adelanto
+         San Juan Capistrano, CA 92675
+
+         Dear Laura Stokes:
+
+         RE: Review of San Juan Capistrano’s Accessory Dwelling Unit (ADU) Ordinance
+             under ADU Law (Gov. Code, § 65852.2)
+
+         Thank you for submitting the City of San Juan Capistrano’s (“the City”) accessory
+         dwelling unit (ADU) ordinance (No. 1077) adopted March 17, 2020 (“the Ordinance”), to
+         the California Department of Housing and Community Development (HCD). HCD has
+         reviewed the Ordinance and is submitting these written findings pursuant to
+         Government Code section 65852.2, subdivision (h). HCD has determined that the
+         Ordinance does not comply with section 65852.2 in the manner noted below. Under the
+         statute, the City has up to 30 days to respond to these findings. Accordingly, the City
+         must provide a written response to these findings no later than March 24, 2022.
+
+         The adopted ADU ordinance addresses many statutory requirements; however, HCD
+         finds that the Ordinance does not comply with State ADU Law in the following
+         respects:
+
+             •    Section 9-3.501.1 (c)(5)(B/C) – Efficiency Kitchen – The Ordinance defines an
+                  efficiency kitchen to include “a food preparation counter or counters with an area of
+                  at least 15 square feet” and “food storage cabinets with a minimum of 30 square
+                  feet of shelf space.” However, Government Code section 65852.22, subdivisions
+                  (a)(6)(A) and (B), only require that an efficiency kitchen include a food preparation
+                  counter and storage cabinets that are “of reasonable size in relation to the size of
+                  the JADU…” There is no specific size requirement in statute, which increases
+                  flexibility for the developer and therefore may result in more junior ADUs (JADUs).
+                  As written, the size requirements could act as a constraint for JADUs. Therefore,
+                  the City should remove the size references.
+             •    Section 9-3.501.1 (d)(1)(A) – Unit Mixture – The Ordinance creates an
+                  “integrated ADUs or JADUs on Single-family lots” category that allows “one ADU
+                  or one JADU”. This reference is outdated. Current Government Code section
+Laura Stokes, Housing Supervisor
+Page 2
+
+
+
+       65852.2, subdivision (e)(1)(A), provides for “one accessory dwelling unit and one
+       junior accessory dwelling unit per lot” (emphasis added), and the ADU in an
+       ADU/JADU mixture can be either attached or detached. Therefore, the City
+       should change “or” to “and” or make a similar correction that brings the local
+       ordinance into compliance with ADU law.
+   •   Section 9-3.501.1 (d)(2)(B) – Fees – The Ordinance states that the City may
+       charge a fee to reimburse costs, “including the costs of adopting or amending the
+       City’s ADU ordinance.” It is not clear if this fee structure is independent of the
+       impact fee and utility fee structures outlined in Section 9-3.501.1 (g), or whether
+       the imposition of this cost is unique to ADUs. This lack of clarity creates the
+       possibility of a violation of Government Code section 65852.2, subdivision (f),
+       which states that “[a] local agency, special district, or water corporation shall not
+       impose any impact fee upon the development of an accessory dwelling unit less
+       than 750 square feet. Any impact fees charged for an accessory dwelling unit of
+       750 square feet or more shall be charged proportionately in relation to the square
+       footage of the primary dwelling unit.” Therefore, the City should remove the
+       reference or clarify how the fee in this section will be imposed while ensuring that
+       such an imposition does not violate state statute.
+   •   Section 9-3.501.1 (e)(5) & (e)(7)(A) – Separate Conveyance – The Ordinance
+       currently prohibits the separate sale of an ADU or JADU. Government Code
+       section 65852.26, subdivision (a)(1), creates a narrow exception to allow
+       separate conveyance of ADUs with the involvement of qualified nonprofit housing
+       organizations. The City should modify its code to allow for such an exception.
+   •   Section 9-3.501.1(f)(1)(A) – Attached ADU Guidelines Limiting Bedrooms – The
+       Ordinance states that for “a detached or attached ADU subject to this subsection
+       (f)… no more than two bedrooms are allowed.” This is impermissible. Limiting the
+       number of bedrooms within an ADU—well beyond the limits imposed by the
+       building code—may limit housing available to larger households. HCD’s research
+       indicates that the number of persons in households may vary based on specific
+       characteristics that are protected under state and federal fair housing laws, such
+       as familial status (presence of children until the age of 18), married/non-married
+       households, and race or ethnicity. Limiting the number of bedrooms might
+       constrain housing choice for these groups of people and be a discriminatory
+       effect under California Code of Regulations, title 2, section 12060. Therefore, the
+       City should remove the limitation on bedrooms.
+   •   Section 9-3.501.1 (f)(7)(E), (G), (H) and (I) – Architectural Requirements – The
+       ordinance requires that “if the ADU would be visible from an adjoining public
+       right-of-way, the roof slope of the ADU must match the dominant roof slope of the
+       primary dwelling” (subd. E), that “the “ADU entrance must be located on the side
+       or rear building façade, not facing the public right of way” (subd. G), that “no new
+       window of the ADU may have a direct line of sight to a contiguous residential
+       property” (subd. H), and that “all windows of the ADU that are located less than
+Laura Stokes, Housing Supervisor
+Page 3
+
+
+
+       20 feet from an adjoining side or rear property line must either be clerestory with
+       the bottom of the glass at least 6 feet above the finished floor or utilize frosted or
+       obscuring glass” (subd. I). However, Government Code section 65852.150,
+       subdivision (b), requires that “provisions… relating to matters including unit size,
+       parking, fees, and other requirements, are not so arbitrary, excessive, or
+       burdensome so as to unreasonably restrict the ability of homeowners to create
+       accessory dwelling units.” HCD considers the above requirements as being
+       excessive and burdensome in violation of state statute. Therefore, the City
+       should remove these design requirements or modify the requirement to include “if
+       feasible.”
+   •   Section 9-3.501.1 (f)(8) – Historical Protections – The ordinance provides that
+       “architectural treatment of a new attached or detached ADU to be constructed on
+       a lot that has an identified historical resource listed on… a local register of
+       historic places must comply with all applicable ministerial requirements imposed
+       by the Secretary of the Interior.” This is not consistent with ADU law. Under
+       Government Code section 65852.2, subdivision (a)(1)(B)(i), an ordinance may
+       “impose standards on accessory dwelling units … that prevent adverse impacts
+       on any real property that is listed in the California Register of Historic
+       Resources.” Locally registered resources that are not also state listed would not
+       fall within this provision. The Ordinance should be revised to limit sites to those
+       allowed by state ADU law.
+   •   Section 9-3.305.1 (g)(2)(B) – Utility Fees – The Ordinance states that “[a]ll ADUs
+       and JADUs” that are not created from preexisting converted space “require a
+       new separate utility connection directly between the ADU or JADU and the
+       utility.” (Emphasis added.) Per Government Code section 65852.22, subdivision
+       (e), “for purposes of providing service for water, sewer, or power, including a
+       connection fee, a junior accessory dwelling unit shall not be considered a
+       separate or new dwelling unit.” Therefore, no direct utility connection may be
+       required for JADUs. Furthermore, the Ordinance as written could require utility
+       connection for a certain new-construction ADUs in violation of statute.
+       Government Code section 65852.2, subdivision (f)(4), states that “for an
+       accessory dwelling unit described in subparagraph (A) of paragraph (1) of
+       subdivision (e), a local agency, special district, or water corporation shall not
+       require the applicant to install a new or separate utility connection directly
+       between the accessory dwelling unit and the utility…” and subdivision (e)(1)(A)
+       permits “One accessory dwelling unit and one junior accessory dwelling unit per
+       lot with a proposed or existing single-family dwelling.” Therefore, an ADU built
+       under subdivision (e)(1)(A) that is part of a proposed single-family home may not
+       be required to provide a utility connection. The City should remove references to
+       JADUs and add a note to explain the exemption for ADUs built under subdivision
+       (e)(1)(A).
+
+In these respects, revisions are necessary to comply with statute.
+Laura Stokes, Housing Supervisor
+Page 4
+
+
+
+HCD will consider any written response to these findings, such as a revised ordinance
+or a detailed plan to bring the ordinance into compliance with law by a date certain,
+before taking further action authorized pursuant to Government Code section 65852.2.
+Please note that HCD may notify the Attorney General’s Office in the event that the City
+fails to take appropriate and timely action under section 65852.2, subdivision (h).
+
+HCD appreciates the City’s efforts provided in the preparation and adoption of the
+ordinance and welcomes the opportunity to assist the City in fully complying with ADU
+Law. Please contact Mike Van Gorder, of our staff, at (916) 776-7541 or at
+mike.vangorder@hcd.ca.gov if you have any questions or would like HCD’s technical
+assistance in these matters.
+
+Sincerely,
+
+
+
+
+Shannan West
+Housing Accountability Unit Chief

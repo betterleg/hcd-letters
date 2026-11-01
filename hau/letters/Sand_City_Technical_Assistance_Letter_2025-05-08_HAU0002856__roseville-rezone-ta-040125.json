@@ -1,0 +1,39 @@
+{
+  "task": "CSTASK0020964",
+  "case_number": "HAU0002856",
+  "letter_date": "2025-05-08",
+  "jurisdiction": "Sand City",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Sand City Rezone TA Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/roseville-rezone-ta-040125.pdf",
+  "hcd_letter": "Sand City Technical Assistance Letter 05/08/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/roseville-rezone-ta-040125.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 179109,
+  "text_chars": 5078,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "task": "CSTASK0022195",
+      "case_number": "HAU0002883",
+      "letter_date": "2025-04-01",
+      "jurisdiction": "Roseville",
+      "letter_type": "Technical Assistance Letter",
+      "housing_laws": "Housing Element Law",
+      "statutes": "65583.2",
+      "n_statutes": "1",
+      "keywords": "Roseville rezone TA Letter",
+      "n_keywords": "1",
+      "copy": "PDF",
+      "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/roseville-rezone-ta-040125.pdf",
+      "hcd_letter": "Roseville Technical Assistance Letter 04/01/2025",
+      "housing_law": "Housing Element Law"
+    }
+  ]
+}

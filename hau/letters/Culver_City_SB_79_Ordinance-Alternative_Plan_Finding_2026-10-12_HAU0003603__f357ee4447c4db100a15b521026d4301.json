@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027480",
+  "case_number": "HAU0003603",
+  "letter_date": "2026-10-12",
+  "jurisdiction": "Culver City",
+  "letter_type": "SB 79 Ordinance/Alternative Plan Findings Letter",
+  "housing_laws": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "statutes": "65912.157",
+  "n_statutes": "1",
+  "keywords": "SB 79",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/f357ee4447c4db100a15b521026d4301",
+  "hcd_letter": "Culver City SB 79 Ordinance/Alternative Plan Findings Letter 10/12/2026",
+  "housing_law": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/f357ee4447c4db100a15b521026d4301",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 142131,
+  "text_chars": 4506,
+  "text_empty": false
+}

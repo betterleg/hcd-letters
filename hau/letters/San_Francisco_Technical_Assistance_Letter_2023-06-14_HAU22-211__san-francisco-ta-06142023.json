@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0018501",
+  "case_number": "HAU22-211",
+  "letter_date": "2023-06-14",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915(r)",
+  "n_statutes": "1",
+  "keywords": "AB 2334",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-ta-06142023.pdf",
+  "hcd_letter": "San Francisco Technical Assistance Letter 06/14/2023",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-francisco-ta-06142023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 213249,
+  "text_chars": 6087,
+  "text_empty": false
+}

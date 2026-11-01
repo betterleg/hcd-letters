@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026952",
+  "case_number": "HAU0003762",
+  "letter_date": "2026-05-20",
+  "jurisdiction": "Monterey",
+  "letter_type": "Housing Element Findings of Noncompliance/ Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Monterey Rezone Corrective Action Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e54bf793fbf74710dcacffa405efdc4b",
+  "hcd_letter": "Monterey Housing Element Findings of Noncompliance/ Corrective Action 05/20/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e54bf793fbf74710dcacffa405efdc4b",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 176818,
+  "text_chars": 2168,
+  "text_empty": false
+}

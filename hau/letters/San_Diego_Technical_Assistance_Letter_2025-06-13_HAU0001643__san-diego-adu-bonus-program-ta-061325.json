@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021102",
+  "case_number": "HAU0001643",
+  "letter_date": "2025-06-13",
+  "jurisdiction": "San Diego",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Accessory Dwelling Unit Law | Duplexes and Urban Lot Splits (SB 9 of 2021) | Housing Element Law",
+  "statutes": "65583 | 65585(b)(1) | 65589.5(d) | 65852.21 | 66314(d)(11) | 66314(d)(7) | 66322 | 66323 | 66411.7(j)(2) | 8899.50(b)(1)",
+  "n_statutes": "10",
+  "keywords": "ADU | ADU Bonus Program | SB 9 | housing element",
+  "n_keywords": "4",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-diego-adu-bonus-program-ta-061325.pdf",
+  "hcd_letter": "San Diego Technical Assistance Letter 06/13/2025",
+  "housing_law": "Accessory Dwelling Unit Law, Duplexes and Urban Lot Splits (SB 9 of 2021), Affirmatively Further Fair Housing, Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/san-diego-adu-bonus-program-ta-061325.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 252742,
+  "text_chars": 25647,
+  "text_empty": false
+}

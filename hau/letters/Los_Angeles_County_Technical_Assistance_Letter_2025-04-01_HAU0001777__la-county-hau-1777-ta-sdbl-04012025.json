@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020120",
+  "case_number": "HAU0001777",
+  "letter_date": "2025-04-01",
+  "jurisdiction": "Los Angeles County",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Density Bonus Law",
+  "statutes": "65915",
+  "n_statutes": "1",
+  "keywords": "concession for additional density",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-county-hau-1777-ta-sdbl-04012025.pdf",
+  "hcd_letter": "Los Angeles County Technical Assistance Letter 04/01/2025",
+  "housing_law": "Density Bonus Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/la-county-hau-1777-ta-sdbl-04012025.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 174302,
+  "text_chars": 3568,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0020972",
+  "case_number": "HAU0002962",
+  "letter_date": "2024-12-04",
+  "jurisdiction": "Visalia",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Visalia Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/visalia-rezone-loi-120424.pdf",
+  "hcd_letter": "Visalia Letter of Inquiry 12/04/2024",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/visalia-rezone-loi-120424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182085,
+  "text_chars": 4686,
+  "text_empty": false
+}

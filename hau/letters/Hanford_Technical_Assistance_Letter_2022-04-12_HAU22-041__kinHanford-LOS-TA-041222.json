@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010704",
+  "case_number": "HAU22-041",
+  "letter_date": "2022-04-12",
+  "jurisdiction": "Hanford",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580(a)",
+  "n_statutes": "1",
+  "keywords": "article 34 | housing element programs",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/kinHanford-LOS-TA-041222.pdf",
+  "hcd_letter": "Hanford Technical Assistance Letter 04/12/2022",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/kinHanford-LOS-TA-041222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 211677,
+  "text_chars": 10418,
+  "text_empty": false
+}

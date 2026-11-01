@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0012778",
+  "case_number": "HAU0000601",
+  "letter_date": "2023-06-16",
+  "jurisdiction": "San Francisco",
+  "letter_type": "Letter of Support",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585 | 8899.50",
+  "n_statutes": "2",
+  "keywords": "San Francisco Housing Element | San Francisco Policy and Practice Review",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sf-ordinance-los-061623.pdf",
+  "hcd_letter": "San Francisco Letter of Support 06/16/2023",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/sf-ordinance-los-061623.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 202363,
+  "text_chars": 13235,
+  "text_empty": false
+}

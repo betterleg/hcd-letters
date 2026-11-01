@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0024853",
+  "case_number": "ADU0007797",
+  "letter_date": "2022-12-13",
+  "jurisdiction": "Union City",
+  "letter_type": "Ordinance Findings Letter",
+  "housing_laws": "Accessory Dwelling Unit Law",
+  "statutes": "66310 | 66312 | 66313 | 66314 | 66315 | 66316 | 66317 | 66318 | 66319 | 66320 | 66321 | 66330",
+  "n_statutes": "12",
+  "keywords": "ADU Ordinance",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/UnionCityADUordinance12152022.pdf",
+  "hcd_letter": "Union City Ordinance Findings Letter 12/13/2022",
+  "housing_law": "Accessory Dwelling Unit Law",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/UnionCityADUordinance12152022.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 161023,
+  "text_chars": 12166,
+  "text_empty": false
+}
