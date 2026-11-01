@@ -1,0 +1,59 @@
+name: Website
+
+# Builds the HCD Letter Tracker page (site/) from the repo's CSVs and publishes it on
+# GitHub Pages. Runs after each weekly data job, when the site files change, or by hand.
+# One-time setup: Settings -> Pages -> Build and deployment -> Source: GitHub Actions.
+on:
+  workflow_run:
+    workflows: ["HAU letters", "Housing element review letters", "Requested letters", "Analysis"]
+    types: [completed]
+  push:
+    branches: [main]
+    paths: ["site/**", "tests/**", "scripts/build_site_data.py", "scripts/build_search_index.py", ".github/workflows/pages.yml"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PRIVATE_TERMS: ${{ secrets.PRIVATE_TERMS }}   # optional secret: personal terms that must never be published
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main   # after a data job, use the commit it just pushed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build site data
+        run: |
+          python3 scripts/build_site_data.py
+          python3 scripts/build_search_index.py
+      - name: Check tab navigation (click every tab, leave, come back, Back/Forward)
+        run: |
+          pip install -q playwright
+          python3 -m playwright install --with-deps chromium
+          python3 tests/nav_test.py site
+      - name: Privacy check (no secrets or personal terms in what gets published)
+        run: python3 scripts/check_public.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,4 @@
+weblink,replacement_url,note
+https://hcdpowerbi.blob.core.windows.net/housing-elements/sis-siskiyou-cou-draft-in101623.pdf,https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/sis-siskiyou-cou-draft-in-101623.pdf,missing hyphen before date in dashboard link (found 2026-10-12)
+https://hcdpowerbi.blob.core.windows.net/housing-elements/monAlturas03102020.pdf,https://www.hcd.ca.gov/community-development/housing-element/docs/modAlturas03102020.pdf,county prefix mod (Modoc) not mon; file name match only - confirm content (found 2026-10-12)
+https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiSanDiegoCity061620.pdf,https://www.hcd.ca.gov/community-development/housing-element/docs/sdiSanDiegoCity06162020.pdf,4-digit year in file name; file name match only - confirm content (found 2026-10-12)

@@ -1,0 +1,89 @@
+name: Housing element review letters
+
+# Checks HCD's Housing Element Download Tool review-letter page for new letters, downloads any
+# new PDFs as text, finds each letter's finding and submittal date, updates the indexes,
+# commits the changes and opens an issue listing what's new. The schedule is in UTC.
+on:
+  schedule:
+    - cron: "53 15 * * 1"   # Mondays 15:53 UTC, 30 minutes after the HAU job
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: he-letters
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      PRIVATE_TERMS: ${{ secrets.PRIVATE_TERMS }}   # optional secret: personal terms that must never be published
+      OPEN_ISSUE: "true"     # set to "false" to skip the "new letters" issue
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: Install pdftotext and OCR
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr python3-numpy
+
+      - name: Keep last run's table for comparison
+        run: cp he_letters/letters.csv "$RUNNER_TEMP/previous.csv" 2>/dev/null || touch "$RUNNER_TEMP/previous.csv"
+
+      - name: Pull the dashboards
+        run: bash he_letters/run_all.sh
+
+      - name: Compare with last run
+        id: compare
+        run: |
+          python3 scripts/compare_runs.py "$RUNNER_TEMP/previous.csv" he_letters/letters.csv he_letters/CHANGES.md he "$RUNNER_TEMP/issue.md" | tee "$RUNNER_TEMP/compare.txt"
+          tail -1 "$RUNNER_TEMP/compare.txt" | tr ' ' '\n' >> "$GITHUB_OUTPUT"
+
+      - name: Download new letters as text
+        working-directory: he_letters
+        run: python3 extract_letters.py
+
+      - name: Add letters requested from HCD (requested/ folder)
+        run: python3 scripts/requested_letters.py --only he
+
+      - name: Findings, submittal dates and review time
+        working-directory: he_letters
+        run: |
+          python3 parse_letters.py . letters_parsed.json
+          python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv
+
+      - name: Build indexes
+        run: |
+          python3 scripts/parse_citations.py he
+          python3 scripts/build_he_index.py he_letters
+
+      - name: Standard language and requirements analysis
+        continue-on-error: true   # never block saving new letters
+        run: |
+          python3 scripts/letter_patterns.py he
+          python3 scripts/letter_requirements.py
+
+      - name: Summary
+        run: cat he_letters/CHANGES.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          bash scripts/commit_and_push.sh \
+            "Housing element review letters: ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted ($(date -u +%F))" \
+            "python3 scripts/requested_letters.py --only he && cd he_letters && python3 parse_letters.py . letters_parsed.json && python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv && cd .. && python3 scripts/parse_citations.py he && python3 scripts/build_he_index.py he_letters" \
+            he_letters requested
+
+      - name: Open an issue for new letters
+        if: env.OPEN_ISSUE == 'true' && steps.compare.outputs.first_run != 'true' && (steps.compare.outputs.new != '0' || steps.compare.outputs.newly_posted != '0')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Housing element review letters $(date -u +%F): ${{ steps.compare.outputs.new }} new, ${{ steps.compare.outputs.newly_posted }} newly posted" \
+            --body-file "$RUNNER_TEMP/issue.md"
