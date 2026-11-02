@@ -1,0 +1,549 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY               GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 28, 2022
+
+
+
+         Christina Mun, Interim Director
+         Housing & Community Development Department
+         City of Oakland
+         250 Frank H. Ogawa Plaza
+         Oakland, CA 94612
+
+         Dear Christina Mun:
+
+         RE: City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Oakland’s (City) draft housing element update
+         received for review on June 29, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a
+         conversation on August 12, 2022 with Audrey Lieberworth, Acting Planner III,
+         Lakshmi Rajagopalan, Principal Planner, Michael Branson, Deputy City Attorney,
+         Laura Kaminski, Strategic Planning Manager and William Gilchrist, Planning Director,
+         as well as your consultants, Rajeev Bhatia, Alison Moore, and Mayu Tanaka. In
+         addition, HCD considered comments from several stakeholders and members of the
+         community, pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations
+         that represent lower-income and special needs households, by making information
+         regularly available and considering and incorporating comments where appropriate.
+         Please be aware, any revisions to the element must be posted on the local
+         government’s website and to email a link to all individuals and organizations that
+         have previously requested notices relating to the local government’s housing element
+         at least seven days before submitting to HCD.
+Christina Mun, Interim Director
+Page 2
+
+
+
+
+For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021),
+if a local government fails to adopt a compliant housing element within 120 days of
+the statutory deadline (January 31, 2023), then any rezoning to accommodate the
+regional housing needs allocation, including for lower-income households, shall be
+completed no later than one year from the statutory deadline. Otherwise, the local
+government’s housing element will no longer comply with State Housing Element
+Law, and HCD may revoke its finding of substantial compliance pursuant to
+Government Code section 65585, subdivision (i). Please be aware, if the City fails to
+adopt a compliant housing element within one year from the statutory deadline, the
+element cannot be found in substantial compliance until rezones to accommodate a
+shortfall of sites pursuant to Government Code section 65583, subdivision
+(c),paragraph (1), subparagraph (A) and Government Code section 65583.2,
+subdivision (c) are completed.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City must continue to engage the community, including organizations
+that represent lower-income and special needs households, by making information
+regularly available while considering and incorporating comments where appropriate.
+Please be aware, any revisions to the element must be posted on the local
+government’s website and to email a link to all individuals and organizations that
+have previously requested notices relating to the local government’s housing element
+at least seven days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual
+reporting requirements pursuant to Government Code section 65400. With a
+compliant housing element, the City will meet housing element requirements for
+these and other funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+Christina Mun, Interim Director
+Page 3
+
+
+
+
+HCD appreciates the hard work and dedication of Audrey Lieberworth, Acting Planner
+III, Lakshmi Rajagopalan, Principal Planner, Michael Branson, Deputy City Attorney,
+Laura Kaminski, Strategic Planning Manager and William Gilchrist, Planning Director,
+as well as your consultants, Rajeev Bhatia, Alison Moore, and Mayu Tanaka in
+preparation of the City’s housing element. If you have any questions or need
+additional technical assistance, please contact Shawn Danino, of our staff, at
+shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                         APPENDIX
+                                     CITY OF OAKLAND
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Local Data and Knowledge: While the element incorporates some analysis based on
+      local data and knowledge, the element should review and incorporate public comments
+      into the assessment of fair housing.
+
+      Racially Concentrated Areas of Affluence (RCAAs): The element should analyze RCAA.
+      The analysis should evaluate pattern and trends at a local level (comparing areas within
+      the City) and regional level (comparing the City to the region). Based on the analysis,
+      the City should consider additional actions (not limited to the regional housing need
+      allocation (RHNA)) to promote housing mobility and improve new housing opportunities
+      throughout the City.
+
+      Regional Analysis: The element generally describes local patterns and trends with
+      regards to disproportionate housing needs but must also analyze Oakland relative to the
+      rest of the region regarding disproportionate housing needs, including displacement
+      risks.
+
+      Affirmatively Furthering Fair Housing (AFFH) and Identified Sites: While the element
+      provides some analysis of the sites in its inventory with regards to AFFH, it should
+      analyze the lack of units in several higher opportunity areas (p. C-84), including but not
+      limited to Rockridge (labeled North Oakland / Adams Point) and the area surrounding
+      the Rockridge Bay Area Rapid Transit (BART) station. A complete analysis should fully
+      assess how the site inventory is expected to improve and/or exacerbate fair housing
+      conditions. This analysis should address the location, number of units by income group,
+      magnitude of the impact and any isolation of the RHNA and could consider topics such
+      as existing or proposed anti-displacement policies and place-based investments, and
+      how such strategies will improve fair housing conditions when paired with the identified
+      sites. Based on the outcomes of this analysis, the element should add or modify
+      programs.
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                     Page 1
+September 28, 2022
+      Goals and Actions: While the element provides additional analysis and identifies
+      contributing factors to fair housing issues, it does not include sufficient action to
+      overcome patterns of segregation and foster inclusive communities. As a result,
+      programs must be added as appropriate to sufficiently respond to contributing factors to
+      fair housing issues. In addition, all actions related to AFFH must contain specific
+      commitment, timing, geographic targeting and metrics or numerical targets.
+
+      The element may, for example, as discussed on the August 11, 2022 call, revise
+      Program 3.5.3 to make a firm commitment for removing design review requirements and
+      establishing development standards for missing middle housing types. The element
+      may also, for example, revise Action 3.5.3 to establish a social housing pilot program.
+      Additionally, the element should commit to assessing and revising programs through a
+      mid-cycle review. Please see HCD’s AFFH memo for more information:
+      https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-
+      2021.pdf#page=23.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code,
+      § 65583, subd. (a)(7).)
+
+      Extremely Low-Income Households (ELI): While the element includes some information on
+      ELI households relative to race, it should also evaluate tenure, overpayment, resources
+      and strategies available and the gap and magnitude of housing needs to better formulate
+      policies and programs.
+
+      Housing Conditions: The element provides some information on age of the housing
+      stock. However, it must estimate the number of units in need of rehabilitation and
+      replacement. For example, the analysis could include estimates from a recent
+      windshield survey or sampling, estimates from the code enforcement agency, or
+      information from knowledgeable organizations. For additional information, see the
+      Building Blocks at http://www.hcd.ca.gov/community-development/building-
+      blocks/housing-needs/housing-stock-characteristics.shtml.
+
+      Persons Experiencing Homelessness: The element provides analysis of persons
+      experiencing homelessness. However, given the magnitude of the need, the City should
+      evaluate resources and strategies, gaps in addressing needs and formulate appropriate
+      strategies to address the unmet need. For example, the element could identify and
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                   Page 2
+September 28, 2022
+      evaluate capacity for emergency shelters, permanent supportive housing and other
+      housing or shelter types relative to needs and address unmet needs through program
+      actions.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Parcel Listing: The element must include a parcel listing or sites inventory intended to
+      accommodate the regional housing need allocation (RHNA). The sites inventory should
+      list parcels by assessor parcel number, size, general plan designation, zoning, existing
+      use, realistic residential capacity and anticipated affordability. The description of
+      existing uses should be sufficiently detailed to facilitate an analysis of the potential for
+      additional development and may utilize indicators of potential such as age of structure,
+      existing versus allowable floor area and improvement to land value. If a site is owned by
+      a city or county, the description must include whether there are any plans to dispose of
+      the property.
+
+      Pipeline and Potential Development Projects: While the element may utilize pipeline and
+      potential development projects toward the RHNA, it must also demonstrate their
+      affordability and availability in the planning period. Affordability must be demonstrated
+      based on actual sales price, rent level or other mechanisms ensuring affordability (e.g.,
+      deed restrictions). Availability should account for the likelihood of project completion in
+      the planning period and should address the status, necessary steps to issue permits,
+      any barriers to development and other relevant factors. Given the element’s reliance on
+      pipeline projects, the element must include programs with actions that commit to
+      facilitating development and monitoring approvals of the projects (e.g., coordination with
+      applicants to approve remaining entitlements, supporting funding applications,
+      expediating approvals and monitoring of project progress, including rezoning or
+      identification of additional sites, if necessary).
+
+      Realistic Capacity: While the element lists realistic residential capacity assumptions by
+      various zoning districts (Table C-11), it should provide supporting information for these
+      assumptions based on recent development history, including affordability. In addition,
+      this calculation should also account for the likelihood of 100 percent non-residential
+      development. The element lists recent trends for residential development in non-
+      residential zones but should also consider the development activity of 100 percent non-
+      residential uses. For example, the element could analyze all development activity in
+      these nonresidential zones, how often residential development occurs and adjust
+      residential capacity calculations, policies, and programs accordingly. This analysis may
+      incorporate any proposed policies such as residential performance standards,
+      prohibition of commercial uses and should clarify that all zones allow residential uses,
+      particularly 100 percent residential uses.
+
+      Nonvacant Sites: The element must include an analysis demonstrating the potential for
+      additional development on nonvacant sites. While the element mentions underutilized
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                       Page 3
+September 28, 2022
+      sites were identified based on assessed value (AV) and floor area (FAR) ratios, it must
+      support the validity of these assumption in demonstrating the potential for
+      redevelopment. For example, the element could utilize recent development activity. In
+      addition, the element should consider additional factors such as building age, structural
+      conditions, expressed interest in residential development and reflect those values in the
+      sites inventory. Finally, the element should account for the extent existing uses impede
+      additional residential development including market demand for the existing use and
+      existing leases or contracts that would perpetuate the existing use or prevent additional
+      residential development. For example, based on comments received, the City should
+      also address the crediting of a site at 288 9th Avenue, where public comments reported
+      a recently completed nonresidential project being credited for 254 units.
+
+      In addition, HCD notes the element currently does not rely on nonvacant sites to
+      accommodate more than 50 percent of the RHNA for lower-income households. If future
+      versions of the housing element rely upon nonvacant sites to accommodate more than
+      50 percent of the RHNA for lower-income households, the housing element must
+      demonstrate existing uses are not an impediment to additional residential development
+      and will likely discontinue in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).)
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+      uses will be presumed to impede additional residential development and will not be
+      utilized toward demonstrating adequate sites to accommodate the RHNA.
+
+      City-Owned Sites: The element briefly describes its strategy to use City-Owned sites to
+      accommodate a portion of the RHNA for lower income households (p. C-77). However,
+      the element should identify which sites specifically are owned by the City and include a
+      program with numerical objectives that ensures compliance with the Surplus Land Act,
+      provides incentives and actions along with a schedule to facilitate development of City-
+      owned sites. Actions should include outreach with developers, issuing requests for
+      proposals, incentives, fee waivers, priority processing and financial assistance. The
+      element should also update its Actions (3.3.1 and 3.3.4, for example) to describe a
+      schedule of actions and, as described on the August 11, 2022 call, the timeline for
+      completion of an Environmental Impact Report for these sites.
+
+      Alternative Adequate Sites: The sites inventory uses the adequate sites alternative to
+      credit 82 units across two assisted housing sites that were acquired by the City to
+      preserve affordability (p. C-27). However, the analysis must confirm compliance with all
+      relevant requirements pursuant to Government Code 65583.1. This analysis may utilize
+      HCD Alternate Adequate Sites checklist available at https://www.hcd.ca.gov/adequate-
+      sites-alternative.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element mentions emergency shelters are permitted in
+             various areas throughout the City. However, the element should also clarify
+             shelters are permitted without discretionary action and discuss available acreage,
+             including typical parcel sizes and the presence of reuse opportunities. In addition,
+             the analysis should address proximity to transportation and services and any
+             conditions inappropriate for human habitability.
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                     Page 4
+September 28, 2022
+          •   Permanent Supportive Housing: Supportive housing shall be a use by-right in
+              zones where multifamily and mixed uses are permitted, including nonresidential
+              zones permitting multifamily uses pursuant to Government Code section 65651.
+              The element must demonstrate compliance with this requirement and include
+              programs if necessary.
+          •   Employee Housing: The element must demonstrate zoning is consistent with the
+              Employee Housing Act (Health and Safety Code, § 17000 et seq.) or add or
+              modify programs. Specifically, section 17021.5 requires employee housing for six
+              or fewer employees to be treated as a single-family structure and permitted in the
+              same manner as other dwellings of the same type in the same zone.
+          •   Small Units: Pursuant to public comments received, the City should consider a
+              variety of naturally affordable housing types as part of its strategy, including
+              efficiency units, cohousing units, and any units tied to a social housing programs
+              and pilots. The element may also, for example, consider limited equity
+              condominiums, pursuant to public comments.
+          •   Single Room Occupancies (SRO): The element describes the zones in which
+              SROs are currently permitted. However, given the success of SROs in providing
+              housing for Extremely Low Income (ELI) households, the element should also
+              describe how it will encourage SRO development.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element identifies many land use controls as potential
+      constraints on a variety of housing types. However, the analysis should analyze land
+      use controls independently and cumulatively with other land use controls. The analysis
+      should specifically address requirements related to Floor Area Ratios, open space
+      requirements, setbacks, and limits on allowable densities. The analysis should address
+      any impacts on cost, supply, housing choice, affordability, timing, approval certainty and
+      ability to achieve maximum densities and include programs to address identified
+      constraints.
+
+      Processing and Permit Procedures: The element lists design review criteria (p. F-57),
+      however, it should also evaluate those criteria for impacts on cost, timing and especially
+      approval certainty. For example, one finding is the project will “enhance desirable
+      neighborhood characteristics”. The element should explain how that finding is applied
+      and met, whether there are any impacts on cost, timing and approval certainty and add
+      or modify programs to address any identified constraints.
+
+      Housing for Persons with Disabilities: The element describes its approval procedures for
+      group homes for seven or more persons (p. 592), including limitations or approval
+      criteria. However, the element should analyze these approval criteria as constraints on
+
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                       Page 5
+September 28, 2022
+      approval certainty and objectivity for housing for persons with disabilities and include
+      programs as appropriate.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      A large share of the programs lists implementation timelines as “ongoing.” While this
+      may be appropriate for some programs, programs with specific implementation actions
+      must include completion dates resulting in beneficial impacts within the planning period.
+      Programs that should be modified to add discrete timing include (but are not limited to)
+      1.1.3 (Strengthen Ellis Act Ordinance), 1.1.5 (Provide eviction defense and implement a
+      right to counseling), 1.1.6 (Expand rent control in a limited manner to maintain
+      affordability), 1.1.9 (Continue and expand the Tenant Protection Ordinance), 1.1.10
+      (Enforce the tenant right to return), 2.1.1 (Support home rehabilitation programs), 2.1.6
+      (Explore funding to improve indoor air quality), 2.2.5 (Extend local replacement unit
+      provisions), 3.2.5 (Reduce constraints to the development of ADUs), 3.3.2 (Expansion
+      of Section 8 vouchers), 3.3.3 (City of Oakland Rental Assistance Program), 3.3.4
+      (Develop permanent housing affordable to extremely-low income households on public
+      land), 3.3.9 (Adjusting or waiving City fees and payment timing for affordable housing
+      developments), 3.3.12 (Continue the Acquisition and Conversion to Affordable Housing
+      Program), 3.3.13 (Expand availability of predevelopment funding and low-cost debt
+      products for affordable housing development), 3.3.14 (Evaluate the creation of a
+      leveraged acquisition fund or debt equity fund for small sites to support housing
+      acquisition), 3.3.17 (Support low-income grassroots and BIPOC affordable housing
+      developers), 3.7.1 (Incentivize development of senior housing and provide financial
+      assistance to developers of housing for seniors and persons with special needs), 3.7.4
+      (Implement the sponsor-based Housing Assistance Program), 3.7.5 (Encourage a range
+      of unit sizes including housing that matches a local household needs and family sizes),
+      3.8.1 (Continue to implement the Vacant Property Tax), 4.1.4 (Provide needed support
+      and income to people who have been homeless), 4.2.4 (Increase oversight of
+      homelessness strategies, investments and encampment operations with Homelessness
+      Advisory Commission), 4.3.1 (Finance Construction and Maintenance of permanent
+      supportive housing and deeply affordable housing), 5.1.1 (Provide First time home
+      ownership incentives), 5.2.4 (Secure funding from AHSC Program), and 5.2.7
+      (Encourage new affordable housing in higher resource neighborhoods).
+
+
+
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                      Page 6
+September 28, 2022
+      Additionally, several programs and actions have timelines that should be moved earlier
+      in the planning period to ensure a beneficial impact. Examples include Programs 3.3.10
+      (Enhanced Infrastructure Financing District) and 3.5.2 (Support Housing Cooperatives).
+
+      Additionally, programs must have specific commitment to clear outcomes or
+      deliverables. Several programs include actions with no description of how those actions
+      will be implemented (e.g., “support”, “study”, “explore”, “evaluate”, etc.,). For example,
+      Program 3.5.2 states that the City will "support housing cooperatives, co-living, and
+      cohousing models". However, it does not state when and how their housing types will be
+      available. Programs should be amended, as appropriate to include specific
+      commitment. Examples include Programs 1.1.5 (Eviction Defense), 1.1.10 (Tenant
+      Right to Return), 1.1.13 (Preventing Displacement / Homelessness), 3.3.15 (Citywide
+      Density Bonus Expansion), 3.3.16 (Consider revising Real Estate Transfer Tax), 3.4.3
+      (Revising Parking Standards), 3.4.4 (Revising Open Space Requirements) and 5.2.9
+      (Accountability Measures for Housing Programs).
+
+      Based on public comments received, the City should also consider revising Action 2.2.5
+      to develop procedures that find and support displaced tenants after demolitions, as well
+      as ensuring that projects pursuing SB-330 protections have sufficient replacement units
+      for tenants at risk of displacement.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                      Page 7
+September 28, 2022
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Programs to AFFH should go beyond status quo actions, include specific
+      commitment, timing, geographic targeting and metrics or numerical targets and should
+      generally address housing mobility, encourage new housing choices in higher resource
+      areas, improve place-based strategies toward community revitalization and protect
+      existing residents from displacement.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a)... (Gov. Code, §
+      65583, subd. (c)(6).)
+
+      Program 2.2.2 (Preserve Affordable Housing) should be revised with specific
+      commitment to comply with noticing requirements, coordinate with qualified entities,
+      assist with funding or support funding applicants and provide education and support to
+      tenants.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      Program 3.2.4 (Incentives for Accessory Dwelling Units (ADU)) should commit to should
+      monitor permitted ADUs and affordability every other year and take appropriate action
+      such as adjusting assumptions or rezoning within a specified time (e.g., 6 months) if
+      assumptions are not realized.
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   While the element includes quantified objectives for new construction, rehabilitation and
+   conservation by income group, it could consider quantified objectives for conservation
+   (beyond at-risk preservation). For your information, the quantified objectives do not
+   represent a ceiling, but rather set a target goal for the City to achieve, based on needs,
+   resources, and constraints.
+
+
+
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                          Page 8
+September 28, 2022
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   The City made extensive efforts to reach the public, including hosting events and
+   requesting input on suitable sites. Nonetheless, several comments questioned the lack of
+   units in North Oakland, specifically around the Rockridge BART station, as concerns
+   around why several eligible parcels were excluded from the inventory, and these issues
+   must be addressed.
+
+   The City should also commit to revising Action 3.7.5 to studying second egress requirements. It
+   can also discuss prioritizing cohousing opportunities, reducing lot size minimums in some zones to
+   3,000 square feet, finding suitable parcels for housing in the Dimond District, developing
+   preapproved missing middle housing types in high opportunity areas, developing programs to
+   address indoor air quality, analyze the cost reductions expected from removing parking
+   minimums, analyze how the placement of historic districts relate AFFH and establish firmer
+   commitments around the development of live/work units.
+
+
+
+
+City of Oakland’s 6th Cycle (2023-2031) Draft Housing Element                     Page 9
+September 28, 2022

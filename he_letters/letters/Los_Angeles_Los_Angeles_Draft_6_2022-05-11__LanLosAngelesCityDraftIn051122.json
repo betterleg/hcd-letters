@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Los Angeles",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2022-05-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanLosAngelesCityDraftIn051122.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanLosAngelesCityDraftIn051122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 157891,
+  "text_chars": 4338,
+  "text_empty": false
+}

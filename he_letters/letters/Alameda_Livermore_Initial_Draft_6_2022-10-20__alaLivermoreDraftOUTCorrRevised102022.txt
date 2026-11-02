@@ -1,0 +1,362 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+                                                    *******CORRECTED*COPY******
+
+         October 20, 2022
+
+
+         Paul Spence, Director
+         Community Development
+         City of Livermore
+         1052 South Livermore Avenue
+         Livermore, CA 94086
+
+         Dear Paul Spence:
+
+         RE: City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Livermore’s (City) draft housing element update
+         received for review on July 19, 2022, with revisions received on October 7, 2022.
+         Pursuant to Government Code section 65585, subdivision (b), the California
+         Department of Housing and Community Development (HCD) is reporting the results of
+         its review. Our review was facilitated by a conversation on September 1, 2022 with
+         Tricia Pontau, Senior Planner; Grace Streltzov, Management Analyst; Steve Stewart,
+         Project Manager; Andy Ross, Senior Planner, Stephen Riley and your consultants,
+         Jennifer Gastelum, Joanna Jansen and Lucy Rollins. In addition, HCD considered
+         comments from YIMBY Law and the Greenbelt Alliance, pursuant to Government Code
+         section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City must continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available while considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+Paul Spence, Community Development Director
+Page 2
+
+
+
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and dedication Tricia Pontau, Senior Planner; Grace
+Streltzov, Management Analyst; Steve Stewart, Project Manager; Andy Ross, Senior
+Planner, Stephen Riley and your consultants, Jennifer Gastelum, Joanna Jansen and
+Lucy Rollins, provided in preparation of the City’s housing element and looks forward to
+receiving the City’s adopted housing element. If you have any questions or need
+additional technical assistance, please contact Shawn Danino, of our staff, at
+shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                         APPENDIX
+                                    CITY OF LIVERMORE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Sites Inventory: While the element provides some analysis of the identified sites and
+      socio-economic concentrations, including lower-income households in northern planning
+      areas (p. 2-94), the element must analyze the concentration of lower-income units in the
+      Isabel Neighborhood Specific Plan. This is critical as the element identifies 1,570 units
+      of its 2,075-unit lower income Regional Housing Needs Allocation (RHNA) to be
+      accommodated in this specific plan. A complete analysis should fully assess how the
+      site inventory is expected to improve and/or exacerbate fair housing conditions. This
+      analysis should address the location, number of units by income group, magnitude of
+      the impact, and could consider topics such housing choice in other areas of the City,
+      existing or proposed anti-displacement policies, place-based investments, and how
+      such strategies will improve fair housing conditions when paired with the identified sites.
+      Based on the outcomes of this analysis, the element should add or modify programs as
+      appropriate.
+
+      Goals, Priorities, Metrics, Actions & Milestones: While the element provides some
+      metrics and identifies contributing factors to fair housing issues, it does not include
+      sufficient action to overcome patterns of segregation, foster inclusive communities, and
+      methods for increasing housing opportunity in higher opportunity areas. For example,
+      Program 5.2.1, Action K was revised to “address racial homeownership gaps and
+      produce more missing middle housing through the City’s inclusionary housing program,”
+      but it does not explain how it will do so or by when this action will be completed. As a
+      result, programs must be revised as appropriate to sufficiently respond to contributing
+      factors to fair housing issues. The element may, for example, commit to a firm date by
+      which it will establish development standards for smaller housing types, including
+      bungalow courts. In addition, all actions related to Affirmatively Furthering Fair Housing
+      (AFFH) must contain specific commitment, timing, geographic targeting and metrics or
+      numerical targets. Please see HCD’s AFFH memo for more information:
+      https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-
+      2021.pdf#page=23.
+
+City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element                   Page 1
+October 17, 2022
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Isabel Specific Plan: The element describes a realistic capacity of 3,323 units as part of
+      the Isabel Neighborhood Specific Plan, 1,570 of which will be available to lower-income
+      households on multifamily sites within that specific plan (Table A). However, to
+      demonstrate the adequacy of these sites to accommodate the RHNA for lower-income
+      households, additional information is necessary to show development potential within
+      the planning period. First it is not clear how multifamily is to be accommodated (e.g.
+      land capacity) within each specific plan. The element should provide indication of where
+      the multifamily is to be located (e.g. map or other description of the specific plan), how
+      much land is available for multifamily development (e.g. acreage), descriptions of any
+      existing parcels, and describe additional entitlements or steps needed to build
+      multifamily housing (e.g. subdivision map, lot splits, site plan review, design review,
+      etc.).In addition, the element must indicate if there is any phasing requirements, and
+      indicate capacity on a parcel basis, including allowed minimum and maximum densities.
+
+      Finally, the element identifies several large sites in the Isabel Neighborhood Specific
+      Plan Area (Table A). Sites larger than ten acres in size are deemed inadequate to
+      accommodate housing for lower-income households unless it is demonstrated, with
+      sufficient evidence, that sites are suitable to accommodate housing for lower-income
+      households. While the element provided a table of representative approved or
+      completed projects (Table 4-2), no examples provided were over ten acres and
+      therefore, recent trends do not appear to relate to identified sites. Specifically, the
+      element must describe how these large sites within the specific plan are expected to be
+      developed. For example, the element should describe if parcels are expected to be
+      subdivided or if other mechanisms will be required make the sites available and suitable
+      for development affordable to lower-income households.
+
+      Small Sites: The element identifies several very small sites of less than 0.1 acres
+      including several smaller than 0.05 acres in Table A. The element must demonstrate the
+      potential for these sites to accommodate new residential development given
+      development standards. While some sites in the inventory indicate potential for
+      consolidation, these sites were are omitted from this analysis. The analysis could
+      describe the City’s role or track record in facilitating small-lot development and could
+      describe consolidation potential on these parcels, and policies or incentives offered or
+      proposed to encourage and facilitate lot consolidation.
+
+      Realistic Capacity: The element must analyze the likelihood that the identified units will
+      be developed as noted in the inventory in zones that allow nonresidential uses (e.g.,
+      Downtown Specific Plan Area). This analysis should consider the likelihood of
+      nonresidential development, performance standards, and development trends
+      supporting residential development.
+
+
+City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element                     Page 2
+October 17, 2022
+      Suitability of Nonvacant Sites: While the element includes some analysis of the potential
+      for additional development on nonvacant sites for lower-income units, it must include an
+      analysis demonstrating the potential for redevelopment of all nonvacant sites. To
+      address this requirement, the element describes in general the existing use of each
+      nonvacant site for example “low density residential” or “strip mall”. This alone is not
+      adequate to demonstrate the potential for redevelopment in the planning period. A
+      complete analysis should describe the methodology used to determine the additional
+      development potential within the planning period. The methodology must consider
+      factors including the extent to which existing uses may impede additional residential
+      development, development trends, market conditions, and regulatory or other incentives
+      or standards to encourage additional residential development on these sites. (Gov.
+      Code, § 65583.2, subd. (g).) For sites with residential uses, the inventory could also
+      describe structural conditions or other circumstances and trends demonstrating the
+      redevelopment potential to more intense residential uses. For nonresidential sites, the
+      inventory could also describe whether the use is operating, marginal or discontinued,
+      and the condition of the structure or could describe any expressed interest in
+      redevelopment.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Fees & Exactions: Pursuant to comments received during your public participation related to
+      the variety of multifamily housing types available (including missing middle housing types such
+      as bungalow courts etc.), some fees may significantly impact housing types that are
+      undertaken by non-traditional builders such as smaller builders, homeowners. The element
+      should include a careful evaluation of how fees impact a variety of housing types. For example,
+      the $15,693 design review fee should be analyzed fees for how it may cumulatively constrain
+      housing types. As part of this analysis, the City could also discuss total fees for Accessory
+      Dwelling Units (ADUs) and Junior Accessory Dwelling Units (JADUs). As Program 1.4.1
+      includes a commitment to analyze fees by June of 2025, the City should modify this program to
+      reflect the results of the analysis.
+
+      Processing and Permit Procedures: While the element provides a description of the
+      types of permits required for housing developments (p. 3-39), it must describe the City’s
+      design review process and analyze the permits’ processes, identify what is reviewed,
+
+City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element                     Page 3
+October 17, 2022
+      typical findings and approval procedures by zone and housing type. The analysis must
+      specifically address the threshold for design review for projects fewer than five units.
+      The analysis must evaluate impacts on housing supply (number of units), costs, timing,
+      feasibility and approval certainty.
+
+      Persons with Disabilities: The element describes the City’s Reasonable Accommodation
+      (RA) process and provides its approval findings (p. 3-49). However, certain approval
+      criteria, including evaluation of “whether there are alternatives to the requested waiver”
+      and a decision “based on the physical attributes of the property and structure” appear
+      discretionary in nature. It is unclear how this provision would be applied to a request for
+      RA. The City should also revise the findings so that requests are based on “whether the
+      requested RA would impose an undue financial and administrative burden to the City,”
+      per guidance from US Department of Housing and Urban Development.
+
+      In addition, the element should analyze how non-licensed group homes are permitted.
+      Finally, the element excludes group homes for seven or more persons from most
+      residential zones and subjects the use to a conditional use permit (p. 3-35), unlike other
+      similar uses. The element should specifically analyze these constraints for impacts on
+      housing supply and choices and approval certainty and objectivity for housing for
+      persons with disabilities and include programs (for example, Program 1.5.2) as
+      appropriate.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      Programs must demonstrate that they will have a beneficial impact within the planning
+      period. Beneficial impact means specific commitment to deliverables, measurable
+      metrics or objectives, definitive deadlines, dates, or benchmarks for implementation.
+      Deliverables should occur early in the planning period to ensure actual housing
+      outcomes. Several programs and actions have timelines that could be moved earlier in
+      the planning period to ensure a beneficial impact. Examples include Programs 3.1.2
+      (Density Bonuses and Incentives), Program 3.2.2, Action A (RFPs for City Owned
+      Sites), and Program 5.2.1 (Fair Housing Policies and Programs).
+
+      Additionally, programs must have specific commitment to clear outcomes or
+      deliverables. Several programs include actions with no description of how those actions
+      will be implemented (e.g., “support”, “study”, “explore”, “evaluate”, etc.,). Programs
+      should be amended, to include specific commitment to a housing related outcome.
+      Examples include Programs 1.3.1 (Development Code Amendments), 1.4.1 (Reduce
+      Governmental Constraints), 1.5.3 (Special Housing Needs), 3.1.2 (Density Bonuses and
+      Incentives), 3.2.1 (Affordable Housing Fund), 3.2.3 (Partner with Affordable Housing
+
+City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element                   Page 4
+October 17, 2022
+      Services), 3.4.1 (Support for Low- and Moderate-Income Homeowners), 3.4.3
+      (Homelessness Intervention), and 4.1.1 (Residential Codes and Design Standards).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+      Publicly-Owned Sites: The element identified City-owned sites to accommodate a
+      portion of the RHNA. The element should amend program 3.2.2 (Support Acquisition
+      and Development of New Sites for Affordable Housing) with numerical objectives that
+      ensures compliance with the Surplus Land Act, provides incentives and actions along
+      with a schedule to facilitate development of City-owned sites.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding A3, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Programs to AFFH should go beyond status quo actions, include specific
+      commitment, timing, geographic targeting and metrics or numerical targets and should,
+
+City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element                        Page 5
+October 17, 2022
+      as appropriate, address housing mobility; encourage new housing choices in higher
+      resource areas, improve place-based strategies toward community revitalization and
+      protect existing residents from displacement.
+
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation oof all
+   segments of the community in the development of the Housing Element and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the City made extensive efforts to reach the public, including hosting events and
+   meeting with key stakeholders and summarizing community feedback, it should also
+   discuss how input was incorporated into the housing element. In addition, HCD received
+   and reviewed comments with many meaningful and valuable suggestions related to the
+   housing element and HCD strongly encourages the City to consider and address these
+   comments, including revising the document as appropriate.
+
+
+
+
+City of Livermore’s 6th Cycle (2023-2031) Draft Housing Element                 Page 6
+October 17, 2022

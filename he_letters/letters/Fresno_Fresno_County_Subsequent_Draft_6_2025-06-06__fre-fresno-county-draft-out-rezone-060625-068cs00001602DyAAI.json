@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Fresno County",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2025-06-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-fresno-county-draft-out-rezone-060625-068cs00001602DyAAI.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-fresno-county-draft-out-rezone-060625-068cs00001602DyAAI.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183383,
+  "text_chars": 6985,
+  "text_empty": false
+}

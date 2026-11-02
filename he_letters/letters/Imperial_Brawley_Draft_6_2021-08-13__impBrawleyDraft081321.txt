@@ -1,0 +1,341 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 13, 2021
+
+
+         Gordon Gaste, Director
+         Development Services Department
+         City of Brawley
+         205 S. Imperial Avenue
+         Brawley, CA 92227
+
+         Dear Gordon Gaste:
+
+         RE: Review of the City of Brawley’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Brawley’s (City) draft housing element received for
+         review on June 15, 2021, along with revisions received on July 30, 2021. Pursuant to
+         Government Code section 65585, subdivision (b), the California Department of Housing and
+         Community Development (HCD) is reporting the results of its review. Our review was
+         facilitated by a telephone conversation on July 19, 2021 with you and the City’s consultants
+         Ralph Castaneda and Christney Bonilla.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). The
+         enclosed Appendix describes the revisions needed to comply with State Housing Element
+         Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element within
+         120 calendar days from the statutory due date of October 15, 2021 for Southern California
+         Association of Governments (SCAG) localities. If adopted after this date, Government Code
+         section 65588, subdivision (e)(4), requires the housing element be revised every four years
+         until adopting at least two consecutive revisions by the statutory deadline. For more
+         information on housing element adoption requirements, please visit HCD’s website at:
+         http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+         memos/docs/sb375_final100413.pdf.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill (SB) 1
+         Sustainable Communities grant; the Strategic Growth Council and HCD’s Affordable
+         Housing and Sustainable Communities programs; and HCD’s Permanent Local Housing
+         Allocation consider housing element compliance and/or annual reporting requirements
+         pursuant to Government Code section 65400. With a compliant housing element, the City
+         will meet housing element requirements for these and other funding sources.
+Gordon Gaste, Director
+Page 2
+
+
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates the hard work and dedication you, Ralph Castaneda and Christney Bonilla
+provided during our review. We are committed to assisting the City in addressing all statutory
+requirements of State Housing Element Law. If you have any questions or need additional
+technical assistance, please contact Jose Ayala, of our staff, at Jose.Ayala@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF BRAWLEY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+          The element includes some data and information regarding AFFH but must still add
+          data and analysis to address this statutory requirement, as follows:
+
+             Segregation and Integration: The element includes some broad discussion around
+             dissimilarity indices but should also address the patterns and trends within the City
+             for disability, familial status, and income, and provide similar data and analysis at
+             the regional level.
+
+             Access to Opportunity: The element provides information regarding access to
+             opportunity factors such as education, economic opportunity, transportation, and
+             environmental health, but it should also analyze how these factors affect access to
+             opportunity including patterns and trends within the jurisdiction.
+
+             Disproportionate Housing Need: The element must provide data and analysis
+             regarding the patterns and trends of disproportionate housing need within the
+             jurisdiction. For instance, the element provides city-wide data for cost burden
+             and overcrowding but does not evaluate patterns and trends within the City.
+             Additionally, the element must incorporate analysis regarding substandard
+             housing and displacement risk.
+
+             Sites Inventory: The element must analyze how the sites listed in the inventory
+             AFFH. Currently, the analysis relies on a general statement regarding lower-income
+             sites located in moderate- or high-resource neighborhoods, but it should discuss all
+             sites, including moderate- and above moderate-income, analyze sites across all
+             AFFH topics (e.g., segregation and integration, disproportionate housing need) and
+             evaluate whether the identification of sites improves or exacerbates patterns and
+             concentrations of socioeconomics.
+
+
+
+Review of the City of Brawley’s 6th Cycle Draft Housing Element                          Page 1
+August 13, 2021
+             Other Relevant Factors and Local Data and Knowledge: The element should
+             incorporate local data and knowledge of the jurisdiction into the AFFH section. To
+             assist in meeting this requirement, the element should provide local data not
+             captured in regional, state, or federal data analysis. Also, the element must include
+             other relevant factors that contribute to fair housing issues in the jurisdiction. For
+             instance, the element can analyze historical land use and investment practices or
+             other information and demographic trends.
+
+             Goals and Actions: Based on this analysis, the element must include programs
+             that (1) enhance housing mobility strategies, (2) encourage development of new
+             affordable housing in areas of opportunity, (3) improve place-based strategies to
+             encourage community revitalization, including preservation of existing affordable
+             housing, and (4) protect existing residents from displacement.
+
+          HCD encourages the City to utilize HCD’s guidance and AFFH Data Viewer at
+          https://affh-data-resources-cahcd.hub.arcgis.com/.
+
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          To demonstrate the adequacy of sites and strategies to accommodate the City’s
+          RHNA, the element must address:
+
+             Progress in Meeting the RHNA: The element indicates (page C-5) that 458 units
+             affordable to very low-income and low-income household have been built or are
+             under construction or approved but provides no information documenting how
+             affordability of the units was determined. The element appears to utilize densities
+             as a proxy for demonstrating affordability; however, for approved projects, the
+             element should demonstrate affordability based on actual or anticipated sales
+             prices, rents or other mechanisms ensuring affordability such as deed-restrictions.
+             Depending on the outcomes of this analysis, the element may need to address
+             other statutory requirements pursuant to Government Code section 65583.2,
+             including but not limited to, a listing of parcels, calculation of residential capacity,
+             zoning appropriate to accommodate housing for lower-income households and
+             other analysis of suitability and availability.
+
+             Electronic Sites Inventory: For your information, pursuant to Government Code
+             section 65583.3, subdivision (b), the City must utilize standards, forms, and
+             definitions adopted by HCD when preparing the sites inventory. Please see HCD’s
+             housing element webpage at https://www.hcd.ca.gov/community-
+             development/housing-element/index.shtml#element for a copy of the form and
+             instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for
+
+Review of the City of Brawley’s 6th Cycle Draft Housing Element                              Page 2
+August 13, 2021
+             technical assistance. Please note, upon adoption of the housing element, the City
+             must submit an electronic version of the sites inventory with its adopted housing
+             element to sitesinventory@hcd.ca.gov.
+
+             Emergency Shelters: The element describes the zones in which emergency
+             shelters are allowed but must include analysis of that zone. The analysis must
+             clarify whether emergency shelters are permitted without discretionary action and
+             describe capacity for shelters, proximity to transportation and services,
+             environmental habitability and development standards including parking
+             requirements. Based on the outcomes of this analysis, the element may need to
+             include policies and programs.
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land-use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures… (Gov. Code, §
+         65583, subd. (a)(5).)
+          The element must include additional analysis of potential and actual governmental
+          constraints on housing, as follows:
+             Processing and Permit Procedures: The element describes decision-making
+             standards for site plan review such as “…compatible with other land uses and
+             structures in the immediate area.” In addition, the element should evaluate these
+             standards for impacts on approval certainty and objectivity.
+             Constraints on Housing for Persons with Disabilities: The element acknowledges
+             that group homes for seven or more persons are subject to a conditional use
+             permit (CUP) requirement, but it should also analyze this procedure and findings
+             as a constraint. Particularly, the analysis should address approval findings and
+             impacts on certainty and objectivity.
+             Building Codes and Enforcement: The element must clarify if the current building
+             code (2019) is utilized, describe any local amendments to the building code, and
+             analyze their impact as potential constraints on housing supply and affordability.
+      4. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+          The element includes information on farmworkers based on employment by industry
+          data and then concludes this data is likely over-estimating needs due to the inclusion of
+          other industries such as forestry and fishing. However, the element should include
+          additional data, especially regarding permanent and seasonal workers, to better
+          acknowledge the need of farmworkers in the region and formulate appropriate policies
+
+
+Review of the City of Brawley’s 6th Cycle Draft Housing Element                            Page 3
+August 13, 2021
+          and programs. HCD will send data from the United States Department of Agriculture
+          (USDA) under separate cover.
+
+      5. Analyze the opportunities for energy conservation with respect to residential
+         development. (Gov. Code, § 65583(a)(8).)
+
+          The element does not address this requirement. The element must provide an analysis
+          of opportunities for energy conservation in residential development. The analysis
+          should facilitate the adoption of housing element policies and programs. For example,
+          programs could provide incentives to promote higher density housing along transit,
+          encourage green building techniques and materials in new construction and remodels,
+          promote energy audits and participation in utility conservation programs, and facilitate
+          energy conserving retrofits upon resale of homes.
+
+B.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To have a beneficial impact in the planning period and address the goals of the
+          housing element, programs to be revised, especially regarding timelines and
+          completion dates, include the following: 2.2 (First Time Homebuyer), 2.3 (Section 502
+          Direct Loan), 2.6 (ADU Incentive Plan), 2.8 (Developmental Disability).
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+          to comply with the requirements of Government Code section 65584.09. Sites shall be
+          identified as needed to facilitate and encourage the development of a variety of types
+          of housing for all income levels, including multifamily rental housing, factory-built
+          housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+          room occupancy units, emergency shelters, and transitional housing.
+          (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding A2, the element does not include a complete site analysis;
+          therefore, the adequacy of sites and zoning were not established. Based on the results
+
+Review of the City of Brawley’s 6th Cycle Draft Housing Element                           Page 4
+August 13, 2021
+          of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types.
+
+     3.   The housing element shall contain programs which assist in the development of
+          adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+          income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+          The element must include programs to assist in the development of housing for lower-
+          and moderate-income households, including special needs households. Specifically,
+          programs should be added or modified to address the needs of farmworkers and
+          persons experiencing homelessness. For example, for farmworkers, the element could
+          commit to proactive actions to coordinate with non-profit developers, employers, and
+          other related organizations, to explore funding and incentives and to identify specific
+          development opportunities.
+
+     4.   Address and, where appropriate and legally possible, remove governmental and
+          nongovernmental constraints to the maintenance, improvement, and development of
+          housing, including housing for all income levels and housing for persons with
+          disabilities. The program shall remove constraints to, and provide reasonable
+          accommodations for housing designed for, intended for occupancy by, or with
+          supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+          As noted in Finding A3, the element requires a complete analysis of potential
+          governmental constraints. Depending upon the results of that analysis, the City may
+          need to revise or add programs and address and remove or mitigate any identified
+          constraints.
+
+     5.   Promote AFFH opportunities and promote housing throughout the community or
+          communities for all persons regardless of race, religion, sex, marital status, ancestry,
+          national origin, color, familial status, or disability, and other characteristics protected by
+          the California Fair Employment and Housing Act (Part 2.8 (commencing with Section
+          12900) of Division 3 of Title 2), Section 65008, and any other state and federal fair
+          housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+          As noted in Finding A1, the element requires a complete analysis of the AFFH section.
+          Based on the outcomes of a complete analysis, the element must include programs as
+          appropriate.
+
+E.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the Housing Element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+
+
+Review of the City of Brawley’s 6th Cycle Draft Housing Element                               Page 5
+August 13, 2021
+     While the element describes how public input was incorporated into the element, it must
+     also discuss when and how the draft housing element was made available to demonstrate
+     diligent efforts to include all segments of the community. For your information, providing an
+     opportunity for the public to review and comment on a draft of the element in advance of
+     submission to HCD is essential to the participation process. For example, the lack of
+     availability reduces HCD’s ability to consider public comments in its review. If the housing
+     element was not made available to the public prior to HCD submittal, the City must
+     proactively make future revisions available to the public, including any commenters, prior to
+     submitting any revisions to HCD and diligently consider and address comments, including
+     making revisions to the document where appropriate. HCD’s future review will consider the
+     extent to which the revised element documents were circulated and how the City solicited,
+     considered, and addressed public comments in the element. The City’s consideration of
+     public comments must not be limited by HCD’s findings in this review letter.
+
+
+
+
+Review of the City of Brawley’s 6th Cycle Draft Housing Element                          Page 6
+August 13, 2021

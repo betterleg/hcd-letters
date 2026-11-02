@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Stanton",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-12-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraStantonDraftOut121721.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraStantonDraftOut121721.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 296789,
+  "text_chars": 28049,
+  "text_empty": false
+}

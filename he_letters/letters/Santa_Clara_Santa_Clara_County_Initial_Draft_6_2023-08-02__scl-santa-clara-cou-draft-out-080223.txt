@@ -1,0 +1,796 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 2, 2023
+
+
+         Mikhail Leza, Deputy Director
+         Department of Planning and Development
+         County of Santa Clara
+         70 W Hedding Street
+         San Jose, CA 95110
+
+         Dear Mikhail Leza:
+
+         RE: County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the County of Santa Clara’s (County) draft housing element
+         received for review on May 20,2023. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a conversation
+         on July 5,2023 with you, Michael Meehan, principal planner, and several others from the
+         housing element update team. In addition, HCD considered the County’s
+         July 27, 2023 correspondence and comments from David Kellog pursuant to
+         Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code, §
+         65580 et seq). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         As a reminder, the County’s 6th cycle housing element was due January 31, 2023. As
+         of today, the County has not completed the housing element process for the 6th cycle.
+         The County’s 5th cycle housing element no longer satisfies statutory requirements.
+         HCD encourages the County to revise the element as described above, adopt, and
+         submit to HCD to regain housing element compliance.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the County should continue to engage the community, including organizations
+         that represent lower-income and special needs households, by making information
+         regularly available and considering and incorporating comments where appropriate.
+         Please be aware, any revisions to the element must be posted on the local
+         government’s website and to email a link to all individuals and organizations that have
+Mikhail Leza, Deputy Director
+Page 2
+
+
+
+previously requested notices relating to the local government’s housing element at least
+seven days before submitting to HCD.
+
+For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+a local government fails to adopt a compliant housing element within 120 days of the
+statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+available or accommodate the regional housing needs allocation (RHNA) shall be
+completed no later than one year from the statutory deadline pursuant to Government
+Code sections 65583, subdivision (c) and 65583.2, subdivision (c). Please be aware, if
+the County fails to adopt a compliant housing element within one year from the statutory
+deadline, the element cannot be found in substantial compliance until these rezones are
+completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities program, and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the County will meet housing element requirements for these and other
+funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the County to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD is committed to assisting the County in addressing all statutory requirements of
+State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Jose Armando Jauregui, of our staff, at
+jose.jauregui@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                      APPENDIX
+                                COUNTY OF SANTA CLARA
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Review and Revision
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+   While as part of the County’s July 27, 2023, the County submitted a report of implementation
+   of programs in the prior planning period. HCD understands this report was not incorporated
+   into the element and was not made available to the public. As a result, HCD will consider the
+   review of prior programs in future submittals of the housing element. In addition, this review
+   of prior programs generally is limited to reporting of progress in implementation and should
+   be supplemented by an evaluation of the effectiveness of programs in achieving objectives.
+   Finally, as part of the review of programs in the past cycle, the element must provide an
+   evaluation of the cumulative effectiveness of goals, policies, and related actions in meeting
+   the housing needs of special needs populations (e.g., elderly, persons with disabilities, large
+   households, female-headed households, farmworkers, and persons experiencing
+   homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing
+      with Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair
+      housing in the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+      The element includes some different data points and some analysis that are
+      valuable in assessing fair housing issues. However, the element generally does not
+      address this requirement and must assess fair housing, identify local contributing
+      factors to the fair housing issues and develop significant and meaningful programs
+      and strategies to address the identified fair housing issues. HCD will send samples
+      of other jurisdictions and encourages the County to consider HCD’s Affirmatively
+      Furthering Fair Housing (AFFH) Guidance Memo available at
+      https://www.hcd.ca.gov/planning-and-community-development/affirmatively-
+      furthering-fair-housing. Examples of requirements that must be addressed include:
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element               Page 1
+August 2, 2023
+      Enforcement and Outreach: The element must describe the County’s compliance
+      with state and federal fair housing laws, including findings, lawsuits, enforcement
+      actions, settlements, or judgments related to fair housing or civil rights. Further, the
+      element should incorporate its outreach into the assessment of fair housing to better
+      understand pattern, trends and needs and formulate appropriate policies and
+      programs.
+
+      Integration and Segregation: While the element briefly mentions some patterns and
+      trends within the County related to race and household incomes, it should also
+      compare the County to the broader region (e.g., bay area region) for these factors.
+      In addition, the element should describe patterns and trends for familial status within
+      the County (Comparing different areas of the County) and at a regional level
+      (comparing the County to the broader region). Lastly, the element should analyze
+      what contributes to the identified segregation of race within the County to better
+      formulate appropriate policies and programs. For example, the analysis of patterns
+      and trends should incorporate local data and knowledge and other relevant factors
+      (See below) to refine the fair housing issues and formulate an appropriate and
+      impactful policy and program.
+
+      Racial/Ethnic Areas of Concentration of Poverty (RECAP) and Racially Concentrated
+      Areas of Affluence (RCAA): While the element states where R/ECAPs are located
+      within the County, it must provide specific analysis of conditions and circumstances.
+      The analysis should address trends, coincidence with other fair housing issues
+      (segregation and integration, access to opportunities, disproportionate impacts),
+      neighborhood conditions (e.g., housing, infrastructure, circulation, parks, community
+      facilities and amenities) and compare overall quality of life to other areas of the
+      County. Then, the element should formulate significant and meaningful policies and
+      programs, including but not limited to place-based strategies toward community
+      revitalization and mitigation of displacement risk. Similarly, the element must analyze
+      the RCAAs. The analysis should consider coincidence with other fair housing issues,
+      discuss the presence of RCAAs relative to the broader region and incorporate local
+      data and knowledge and other relevant factors such as zoning and land use practices
+      or lack of investment or other policies to promote affordable housing. Then, the
+      element should include significant and meaningful actions to promote housing
+      mobility and new housing opportunities in higher opportunity; higher income; and
+      concentrated areas of affluence to facilitate more inclusive neighborhoods.
+
+      Disparities in Access to Opportunity: While the element provides an analysis of
+      patterns and trends within the County (local analysis), it must be revised to include a
+      regional analysis (comparing the County to the broader region) for education,
+      economy, and environment. In addition, the element should describe whether there is
+      equal access to transit throughout the County, including unincorporated areas. The
+      element should also describe what factors contribute to low education scores and job
+      access within unincorporated areas.
+
+      Disproportionate Housing Needs, Including Displacement: The element does include
+      data or analysis on overcrowded households, substandard housing conditions, and
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                Page 2
+August 2, 2023
+      cost-burdened households, but it must also analyze the data including looking at
+      trends, patterns, and other local knowledge and other relevant factors, and conclude
+      with a summary of issues.
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element must
+      include data on the location of regional housing need allocation (RHNA) sites by
+      income group relative to all fair housing components. The analysis should address
+      the number of units by income group and location, any isolation of the RHNA by
+      income group, magnitude of the impact on existing concentrations of socio-economic
+      characteristics and discuss how the sites improve fair housing conditions. The
+      analysis should be supported by local data and knowledge and other relevant factors
+      and programs should be added or modified as appropriate to promote inclusive and
+      equitable communities.
+
+      Local Data and Knowledge and Other Relevant Factors: While the element provides
+      some general information on broad policies that can historically lead to issues in fair
+      housing and lending patterns, the element must still supplement the analysis and
+      complement state and federal data with local data and knowledge to capture
+      emerging trends and issues, including utilizing knowledge from local and regional
+      advocates, public comments, and service providers. Additionally, the element should
+      analyze historical land use, zoning, governmental and nongovernmental spending
+      including transportation investments, demographic trends, historical patterns of
+      segregation, or other information that may have impeded housing choices and
+      mobility.
+
+      Contributing Factors to Fair Housing: Upon a complete AFFH analysis, the element
+      must assess and prioritize contributing factors to fair housing issues that are unique
+      to the unincorporated areas of Santa Clara County and add or modify programs as
+      appropriate.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583,
+      subd. (a)(1).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities,
+      including a developmental disability; large families; farmworkers; families with female
+      heads of households; and families and persons in need of emergency shelter. (Gov.
+      Code, § 65583, subd. (a)(7).)
+
+      Include an analysis and documentation of household characteristics, including level
+      of payment compared to ability to pay, housing characteristics, including
+      overcrowding, and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Housing Stock Condition: While the element states that the need for housing
+      rehabilitation and replacement has increased since the last housing element, it must
+      include an estimate of the number of units in need of rehabilitation and replacement.
+      For example, the analysis could include estimates from a recent windshield survey or
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                 Page 3
+August 2, 2023
+      sampling, estimates from the code enforcement agency, or information from
+      knowledgeable builders/developers, including nonprofit housing developers or
+      organizations. Based on the outcomes of this analysis, the element should add or
+      modify program to rehabilitate and conserve the existing housing stock.
+
+      Extremely Low Income (ELI) Households: The element must analyze the existing
+      housing needs of ELI households. This is particularly important given the unique and
+      disproportionate needs of ELI households. For example, the element should analyze
+      tenure, cost burden and other household characteristics then examine trends and the
+      availability of resources to determine the magnitude of gaps in housing needs. To
+      assist the analysis, see the enclosed data and sample analysis at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/extremely-low-income-housing-needs.
+
+      In addition, the element must identify the projected housing needs of ELI households.
+      The projected housing need for ELI households can be calculated by using available
+      census data to determine the number of very low-income households that qualify as
+      ELI households or presume that 50 percent of the RHNA for very low-income
+      households qualify as ELI households.
+
+      Overpayment: The element must quantify and analyze the number of lower-income
+      households overpaying by tenure (i.e., renter and owner).
+      Housing Costs: While the element includes estimated rents for residents, it utilizes
+      American Community Survey (ACS) data. The element should supplement census
+      data with other sources (e.g., local knowledge).
+
+      Special Needs Populations: While the element quantifies the County’s special needs
+      populations, it must also analyze the special housing needs for persons with
+      disabilities and female-headed households. For a complete analysis, the element
+      should discuss challenges faced by the population, the existing resources to meet
+      those needs (availability senior housing units, number of large units, number of deed
+      restricted units, etc.), an assessment of any gaps in resources, and proposed
+      policies, programs, and funding to help address those gaps.
+
+      In addition, while the element notes the number of permanent and seasonal
+      farmworkers, given the significant need in the County, it should specifically evaluate
+      trends, characteristics, disproportionate needs, effectiveness of resources and
+      strategies, magnitude of the housing need, including disproportionate housing need
+      and the effectiveness of past policies, programs, and funding to help address those
+      gaps. The analysis may utilize past farmworker housing studies and other studies
+      generally applicable to their special housing needs. For example, the element could
+      utilize a recent study conducted by University California at Merced that is available at
+      https://clc.ucmerced.edu/sites/clc.ucmerced.edu/files/page/documents/fwhs_report_2.2
+      .2383.pdf. Based on the outcomes of the analysis, the element should add or modify
+      programs to address this significant special housing need in the region.
+
+
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element              Page 4
+August 2, 2023
+   3. An inventory of land suitable and available for residential development, including
+      vacant sites and sites having realistic and demonstrated potential for redevelopment
+      during the planning period to meet the locality’s housing need for a designated
+      income level, and an analysis of the relationship of zoning and public facilities and
+      services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+      Parcel Listing: While the element lists sites by parcel number or unique reference;
+      parcel size; zoning and general plan designation; it must also list the realistic
+      capacity, existing use, and anticipated affordability level on each parcel. For realistic
+      capacity, the element list sites by a low and high potential residential capacity but
+      should specifically list the realistic capacity based on analysis. This is particularly
+      important for the purposes of implementing no net loss law pursuant to Government
+      Code section 65863 and maintaining adequate sites to accommodate the RHNA by
+      income group throughout the planning period. For existing uses, the parcel listing
+      should describe existing uses sufficiently to facilitate an analysis that demonstrate the
+      potential for redevelopment in the planning period.
+
+      Realistic Capacity: While the element provides assumptions of buildout for sites
+      included in the inventory, it must also provide support for these assumptions. For
+      example, the element should demonstrate what specific trends, factors, and other
+      evidence led to the assumptions. The estimate of the number of units for each site
+      must be adjusted as necessary, based on the land use controls and site
+      improvements, typical densities of existing or approved residential developments at a
+      similar affordability level in that jurisdiction, and on the current or planned availability
+      and accessibility of sufficient water, sewer, and dry utilities.
+
+      In addition, the element appears to assume residential development on sites with
+      zoning that allows 100 percent nonresidential uses, but to support this assumption,
+      the element must analyze the likelihood of residential development in zoning where
+      100 percent nonresidential uses are allowed. For example, the element could
+      describe all development in these or comparable zones and how often development
+      included a residential component then adjust realistic capacity assumptions as
+      appropriate.
+
+      Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre
+      in size are deemed inadequate to accommodate housing for lower-income
+      households unless it is demonstrated, with sufficient evidence, that sites are suitable
+      to accommodate housing for lower-income households. The element should
+      sufficiently analyze and describe the criteria utilized to deem small and large sites
+      appropriate to accommodate the lower-income RHNA.
+      Additionally, the element should relate that analysis to the actual inventory to facilitate
+      a complete analysis. For example, the analysis could describe the County’s role or
+      track record in facilitating small-lot consolidation and how that experience relates to
+      the sites identified in the inventory to meet the lower-income needs, policies or
+      incentives offered or proposed to encourage and facilitate lot consolidation,
+      conditions rendering parcels suitable and ready for lot consolidation, or information
+      from the owners of each aggregated site. Based on the outcomes of this analysis, the
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                   Page 5
+August 2, 2023
+      element should add or modify programs to facilitate affordable development on small
+      or large sites, as appropriate.
+      Zoning for Lower-Income Households: The element must demonstrate densities
+      appropriate to accommodate housing for lower-income households. For communities
+      with densities that meet specific standards (at least 30 units per acre), no analysis is
+      required. (Gov. Code, § 65583.2, subd. (c)(3).) Otherwise, an analysis must
+      demonstrate appropriate densities based on factors such as market demand,
+      financial feasibility, and development experience within identified zones.
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating
+      the potential for additional development on nonvacant sites. The element generally
+      provides a description of the properties like location and whether the property owner
+      submitted an interest form but does not describe the results of the form or why the
+      property might redevelop in the planning period. To address this requirement, the
+      element should address the extent to which existing uses may constitute an
+      impediment to additional residential development; the County’s past experience with
+      assisting San Jose annexations and similar sites with converting existing uses to
+      higher density residential development; the current market demand for the existing
+      use; an analysis of any existing leases or other contracts that would perpetuate the
+      existing use or prevent redevelopment of the site for additional residential
+      development; development trends; market conditions, and regulatory or other
+      incentives or standards to encourage additional residential development on these on
+      Parkmoor/Burbank Neighborhood, Cambrian Park Neighborhood, and Pleasant Hills
+      sites.
+      To provide sufficient capacity for the RHNA during the planning period and as part of
+      identifying sites with potential for development, the element should consider public
+      comments received regarding the inclusion of sites from property owners written
+      interest in residential development in the planning period.
+      For your information, if the housing element relies upon nonvacant sites to
+      accommodate more than 50 percent of the RHNA for lower-income households the
+      housing element must demonstrate existing uses are not an impediment to additional
+      residential development and will likely discontinue in the planning period. (Gov. Code,
+      § 65583.2, subd. (g)(2).) Absent findings (e.g., adoption resolution) based on
+      substantial evidence, the existing uses will be presumed to impede additional
+      residential development and will not be utilized toward demonstrating adequate sites
+      to accommodate the RHNA.
+
+      Pleasant Hills Golf Course: The housing element relies on the potential redevelopment
+      of the Pleasant Hills Golf Course (Golf Course) to accommodate the lower-income
+      housing for 855 units. The two parcels identified include a 70.5-acre parcel and a 43.5 -
+      acre parcel. The element must demonstrate the potential for this site to accommodate
+      residential development within the planning period. For example, the element should
+      describe if the use as a golf course discontinuing within the planning period; interest in
+      development of this site; any required rezones or specific plans required prior to
+      development, and any programs to facilitate the development of the Golf Course. In
+      addition, as you are aware, Sites larger than ten acres in size are deemed inadequate
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element               Page 6
+August 2, 2023
+      to accommodate housing for lower-income housing unless it is demonstrated that sites
+      of equivalent size were successfully developed during the prior planning period for an
+      equivalent number of lower-income housing units as projected for the site or unless the
+      housing element describes other evidence to HCD that the site is adequate to
+      accommodate lower-income housing (Gov. Code, § 65583.2, subd. (c)(2)(A).). In
+      particular, the element could describe plans to subdivide or parcel the 70.5-acre site to
+      support residential development affordable to lower-income households.
+
+      Stanford Specific Plan: The element relies upon the Stanford Specific Plan area to
+      accommodate the County’s regional housing need for all income groups. While the
+      housing element indicates the Specific Plans’ residential capacity and estimates the
+      number of units by income group, it should demonstrate the suitability for
+      development in the planning period. To utilize residential capacity in the specific plan,
+      the element must:
+
+         •   Describe necessary approvals or steps for entitlements for new development
+             (e.g., design review, site plan review, etc.), including any known barriers to
+             development in the planning period; and
+         •   Analyze any requirements such as phasing or timing requirements that impact
+             development in the planning period and large sites, if applicable, with policies
+             and programs.
+
+      County-Owned Sites: While the element briefly describes its strategy to use County-
+      Owned sites to accommodate a portion of the RHNA for lower-income households
+      (p. 62), the analysis should include an analysis of necessary steps, any known
+      barriers to development in the planning period, development schedule, including
+      anticipated completion dates and add or modify programs based on the analysis.
+
+      Infrastructure: While the element states that there is sufficient water and sewer
+      capacity to address the RHNA, it also states that there are limitations and constraints
+      in certain areas of the unincorporated County. Given the lack of capacity, the element
+      should include programs to address water and sewer infrastructure capacity such as
+      pursuing funding and other opportunities to expand supply through conservation or
+      employing strategies to secure additional water capacity.
+
+      For your information, the County is required to immediately deliver the housing
+      element to water and sewer service providers. HCD recommends including a cover
+      memo describing the County’s housing element, including the County’s housing
+      needs and regional housing need. For additional information and sample cover
+      memo, see the Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/priority-water-and-sewer.
+
+      Environmental Constraints: While the element generally describes some potential
+      environmental constraints, it must also describe any other known environmental or
+      other conditions that could impact housing development on identified sites in the
+      planning period. (e.g., shape, agricultural preservation strategies, Williamson Act
+
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                Page 7
+August 2, 2023
+      contracts, contamination, easements, conditions, airport compatibility, planning
+      horizons or other factors affecting the availability of proposed annexation areas).
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the County must submit an electronic sites inventory with its adopted housing
+      element. The County must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions. The County can reach out to HCD at sitesinventory@hcd.ca.gov for
+      technical assistance.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element should describe the development standards of
+             the zones that permit emergency shelters without discretionary action and should
+             provide an analysis of sufficient and realistic capacity to accommodate the need
+             for emergency shelters, proximity to transportation and services for these sites,
+             hazardous conditions, and any conditions in appropriate for human habitability.
+
+             In addition, the element should describe how emergency shelter parking
+             requirements comply with AB139/Government Code section 65583, subdivision
+             (a)(4)(A) or include a program to comply with this requirement. Lastly, Chapter
+             654, Statutes of 2022 (AB 2339), adds specificity on how cities and counties plan
+             for emergency shelters and ensure sufficient and suitable capacity. Future
+             submittals of the housing element may need to address these statutory
+             requirements. For additional information and timing requirements, please see
+             HCD’s memo at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+             community/ab2339-notice.pdf.
+         •   Transitional and Supportive Housing: Transitional housing and supportive
+             housing are permitted as a residential use and only subject to those restrictions
+             that apply to other residential dwellings of the same type in the same zone. The
+             element must demonstrate compliance with this requirement or include a
+             program if necessary.
+         •   Permanent Supportive Housing: By-right permanent supportive housing shall be
+             a use by-right in zones where multifamily and mixed uses are permitted,
+             including nonresidential zones permitting multifamily uses pursuant to
+             Government Code section 65651. The element must demonstrate compliance
+             with this requirement and include programs as appropriate.
+         •   Low Barrier Navigation Centers: Low Barrier Navigation Centers shall be a use
+             by-right in zones where multifamily and mixed uses are permitted, including
+             nonresidential zones permitting multifamily uses pursuant to Government Code
+             section 65660. The element must demonstrate compliance with this requirement
+             and include programs as appropriate.
+         •   Single Room Occupancy (SRO) Units: The element generally lists SROs as
+             allowed uses with a conditional use permit (CUP) in some zones but should also
+             discuss development standards and permit procedures that facilitate the uses
+             and add or modify programs as appropriate to address any constraint.
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element               Page 8
+August 2, 2023
+          •   Employee Housing: While the element demonstrates the County permits
+              employee housing for six or fewer employees pursuant to Health and Safety code
+              section 17021.5, it should also demonstrate zoning in compliance with Health and
+              Safety code sections 17021.6 and 17021.8. For example, Section 17021.6
+              requires employee housing consisting of no more than 12 units or 36 beds to be
+              permitted in the same manner as other agricultural uses in the same zone.
+          •   Accessory Dwelling Unit (ADU): The element indicates the County modifies its
+              zoning code to ease barriers to the development of ADU’s. However, after a
+              cursory review of the County’s ordinance, HCD discovered several areas which
+              are not consistent with State ADU Law. HCD will provide a complete listing of
+              ADU noncompliance issues under a separate cover. As a result, the element
+              should add a program to update the County’s ADU ordinance to comply with
+              state law. For more information, please consult HCD’s ADU Guidebook,
+              published in December 2020, which provides detailed information on new state
+              requirements surrounding ADU development.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types. The analysis should
+      analyze land use controls independently and cumulatively with other land use controls.
+      The analysis should specifically address requirements related to parking for multifamily
+      smaller bedroom types (e.g., studio and one bedroom), two family and caretakers’
+      residence, open space requirements and minimum lot sizes. The analysis should
+      address any impacts on cost, supply, housing choice, affordability, timing, approval
+      certainty and ability to achieve maximum densities and include programs to address
+      identified constraints. In addition, the element should list the typical densities allowed in
+      each zone.
+
+      In addition, while the element notes the County refers to State Density Bonus Law
+      (SDBL), it should also describe how the County complies with SDBL through its
+      ordinance. Specifically, while the County may refer to SDBL, its ordinance should have
+      at least implementing provisions such as application requirements, eligibility criteria and
+      decision making and processing criteria. Based on the outcomes of this analysis, the
+      element should add or modify programs.
+
+      Local Processing and Permit Procedures: The analysis must evaluate the processing
+      and permit procedures’ impact as potential constraints on housing supply and
+      affordability. For example, the analysis should consider processing and approval
+      procedures and time for typical single- and multi-family developments, including type of
+      permit, level of review, approval findings and any discretionary approval procedures. In
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                 Page 9
+August 2, 2023
+      particular, the element should evaluate the Building Site Approval and Architectural and
+      Site Approval requirements for multifamily in zones designated for multifamily uses
+      (R3S, and R3) and include programs to remove or mitigate constraints as necessary.
+
+      In addition, the element should address public comments on this revised draft submittal
+      and discuss compliance with the Permit Streamlining Act and intersections with CEQA
+      and timing requirements, including streamlining determinations and add or modify
+      programs as appropriate.
+
+      Design Review: The element must describe and analyze the architecture and site
+      approval review guidelines and process, including approval procedures and decision-
+      making criteria, for their impact as potential constraints on housing supply and
+      affordability. For example, the analysis could describe required findings and discuss
+      whether objective standards and guidelines improve development certainty and mitigate
+      cost impacts. The element must demonstrate this process is not a constraint or include
+      a program to address this permitting requirement, as appropriate.
+
+      Inclusionary Housing: The element generally mentions the County’s inclusionary zoning
+      ordinance, but it must also analyze the County’s inclusionary housing requirements,
+      including its impacts as potential constraints on the development of housing for all
+      income levels. The analysis should evaluate the inclusionary broader policy’s
+      implementation framework, including the percentage of new residential construction that
+      is dedicated to affordable housing, the types of options and incentives offered,
+      relationships with SDBL and any other factors that may impact housing costs.
+
+      SB 35 Streamlined Ministerial Approval Process: Despite whether the County triggers
+      requirements in the fifth cycle of the housing element, the element must clarify whether
+      there are written procedures for the SB 35 (Chapter 366, Statutes of 2017) Streamlined
+      Ministerial Approval Process and add a program to address these requirements.
+
+      SB 330: The element should demonstrate how the City complies with SB 330 and add
+      or modify programs if necessary. For example, the element should address actions that
+      result in lesser intensification pursuant to Government Code section 66300 as well as
+      provisions related to the Housing Accountability and Permit Streamlining Acts.
+
+      Constraints on Housing for Persons with Disabilities: The element must include an
+      analysis of zoning, development standards, building codes, and process and permit
+      procedures as potential constraints on housing for persons with disabilities, as follows:
+         •   Family Definition: The element must describe and analyze any definitions of
+             family used in zoning and land use for impacts on housing for persons with
+             disabilities and add or modify programs as appropriate.
+         •   Reasonable Accommodation: The element lists some decision-making criteria
+             and appears to place the burden on applicants to demonstrate the request
+             necessitates deviations and cannot be achieved through other means. However,
+             the intent of a procedure is to proactively promote housing more inclusive to
+             persons with disabilities. The element should closely evaluate these decision-
+             making criteria and their application and add or modify programs as appropriate.
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element              Page 10
+August 2, 2023
+         •   Group Homes for Seven or More Persons: Group homes for seven or more
+             persons appears to be excluded from several zones allowing residential uses and
+             subject to a CUP. The element should evaluate these requirements as constraints
+             and include specific commitment to amend zoning and permit procedures to allow
+             these uses in all zones allowing residential with objectivity to facilitate approval
+             certainty similar to other residential uses of the same type in the same zone. For
+             more information on group homes, please see HCD’s Group Home Technical
+             Advisory at https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+             community/group-home-technical-advisory-2022.pdf.
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning and development standards and
+      associated fees for each parcel on the jurisdiction’s website pursuant to Government
+      Code section 65940.1(a)(1).
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability
+      of financing, the price of land, the cost of construction, the requests to develop housing
+      at densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval
+      for a housing development and submittal of an application for building permits for that
+      housing development that hinder the construction of a locality’s share of the regional
+      housing need in accordance with Government Code section 65584... (Gov. Code, §
+      65583, subd. (a)(6).)
+
+      Approval Time and Requests Lesser Densities: The element must include analysis of
+      requests to develop housing at densities below those identified in the sites inventory,
+      and the length of time between receiving approval for a housing development and
+      submittal of an application for building permits that potentially hinder the construction of
+      a locality’s share of the regional housing need and include programs as appropriate.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and achieve the goals and objectives
+      of the housing element, program must have discrete timing (e.g., annually) and specific
+      commitment, as follows:
+
+         •   Program 1.24 (Community Plan to End Homelessness): The Program should go
+             beyond describing the plan and annually reporting and commit to how and when
+             the plan will be implemented throughout the planning period.
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                Page 11
+August 2, 2023
+          •   Program 1.29 (Farmworker Affordable Homeownership): The Program should
+              commit to how often the Program will be implemented throughout the planning
+              period.
+          •   Program 2.08 (Housing Adjacent to Transit): The Program should include
+              discrete timing (e.g., at least annually) and commit to how the County will support
+              development near transit.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the County may need to add or revise
+      programs to address a shortfall of sites or zoning available to encourage a variety of
+      housing types. In addition, the element should be revised as follows:
+
+          •   Program 2.01 (Housing Suitability and Prioritization Tool for County-Owned
+              Properties): The element mentions County-Owned lands, but these programs
+              should include specific commitment to facilitate development on these sites in the
+              planning period. For example, instead of stating the County complete the GIS
+              tool, the element should include a schedule of actions; the actual actions and
+              milestones toward development (e.g., coordination, disposition, funding,
+              incentives, entitlements, building permits and alternative actions).
+          •   Annexation: The element must have specific commitment and discrete timing to
+              facilitate annexation on identified sites. Examples include coordinating zoning
+              and land use; collaboration with local governments and developers; assisting
+              with funding; facilitating all entitlements as necessary and alternative actions if
+              annexations do not occur by a specified date in the planning period (e.g., by
+              2028).
+          •   Stanford Specific Plan: The element must include actions to facilitate
+              development in the proposed Stanford area. Examples include coordinating
+              zoning and land use; collaboration with local governments and developers;
+              assisting with funding; facilitating all entitlements as necessary and alternative
+              actions if annexations do not occur by a specified date in the planning period
+              (e.g., by 2028).
+          •   Sites Identified in Prior Planning Periods: If necessary, the element must include
+              a program for vacant sites identified in two of more consecutive planning periods’
+              housing elements or nonvacant sites identified in a prior housing element, that
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element              Page 12
+August 2, 2023
+              are currently identified to accommodate housing for lower-income households.
+              The program must be implemented within the first year or three years; whichever
+              is appropriate, of the planning period and commit to zoning that will meet the
+              density requirements for housing for lower-income households (30 units per acre)
+              and allow by-right approval (without discretionary action) for housing
+              developments that include 20 percent or more of its units affordable to lower-
+              income households.
+          •   Replacement Housing Requirements: The housing element must include a
+              program to provide replacement housing. (Gov. Code, § 65583.2, subd. (g)(3).)
+              The replacement housing program must adhere to the same requirements as set
+              forth in Government Code section 65915, subdivision (c), paragraph (3).
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The element must include program(s) with specific actions and timelines to assist in the
+      development of housing for extremely low-income households and households with
+      special needs. The element included programs 1.01-1.31; however, these Programs
+      should include tangible deliverables beyond coordination and utilizing existing efforts.
+      The element should be revised with programs such as proactive and annual outreach
+      with developers to identify development opportunities, establishing priority processing,
+      granting fee waivers or deferrals, modifying development standards, granting
+      concessions and incentives for housing developments that include units affordable to
+      extremely low-income households; assisting, supporting or pursuing funding
+      applications; and outreach and coordination with affordable housing developers. For
+      additional information, see the Building Blocks https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements/building-blocks/assist-development-housing.
+
+      In addition, based on the outcomes of a complete analysis, the element must have
+      specific actions to assist in the development of housing for farmworkers.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the County may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element                  Page 13
+August 2, 2023
+      As noted in Finding B1, the element requires a complete AFFH analysis. Depending
+      upon the results of that analysis, the County may need to revise or add programs. In
+      addition, goals and actions must specifically respond to the analysis and to the identified
+      and prioritized contributing factors to fair housing issues and must be significant and
+      meaningful enough to overcome identified patterns and trends. Actions must have
+      specific commitment, milestones, geographic targeting and metrics or numerical targets
+      and, as appropriate, address housing mobility enhancement, new housing choices and
+      affordability in higher opportunity or higher income areas, place-based strategies for
+      community revitalization and displacement protection. For example, the element must
+      add significant and meaningful housing mobility actions to overcome the existing
+      patterns in the County related to the broader region.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      While Program 2.7 (Streamline Accessory Dwelling Unit (ADU) Processing) commits to
+      amend the ordinance to comply with SB 9; it should also commit to comply with ADU
+      law; establish incentives such as modifying development standards (e.g., heights),
+      pursuing funding; making prototype plans available; waiving fees beyond ADU law;
+      proactive marketing and establishing points of contact to ease permitting processes. In
+      addition, the element should monitor the production of affordability of ADUs at least
+      twice in the planning period and commit to act within a specified time (e.g., six months)
+      if assumptions are not realized.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for new construction, it must also include
+   objectives for units that will be rehabilitation for income groups beyond ELI households. In
+   addition, the element should include conservation objectives by income group.
+   Conservation objectives may include other activities intended to conserve housing such
+   strategies employed by the County to promote tenant stability, code enforcement and
+   energy conservation.
+
+
+
+
+County of Santa Clara’s 6th Cycle (2023-2031) Draft Housing Element              Page 14
+August 2, 2023

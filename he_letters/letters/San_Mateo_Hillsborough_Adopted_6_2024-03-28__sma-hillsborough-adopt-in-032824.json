@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Hillsborough",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-03-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-hillsborough-adopt-in-032824.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-hillsborough-adopt-in-032824.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 175951,
+  "text_chars": 4450,
+  "text_empty": false
+}

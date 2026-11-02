@@ -1,0 +1,14 @@
+{
+  "county": "Napa",
+  "jurisdiction": "Napa County",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-02-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/nap-napa-county-adopted-out-022224.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/nap-napa-county-adopted-out-022224.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 160345,
+  "text_chars": 5618,
+  "text_empty": false
+}

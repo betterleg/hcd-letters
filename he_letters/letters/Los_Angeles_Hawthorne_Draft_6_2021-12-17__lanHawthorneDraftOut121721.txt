@@ -1,0 +1,647 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 17, 2021
+
+
+         Gregg McClain, Interim Planning Director
+         Planning and Community Development
+         City of Hawthorne
+         4455 W. 126th Street
+         Hawthorne, CA 90250
+
+         Dear Gregg McClain:
+
+         RE: City of Hawthorne’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Hawthorne’s (City) draft housing element received
+         for review on October 20, 2021. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a telephone
+         conversation on December 14, 2021 with you and Perry Banner, your consultant.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i).
+Gregg McClain, Interim Planning Director
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+Additionally, some general plan element updates are triggered by housing element
+adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates you and Perry Banner’s diligent efforts provided during the review. We
+are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Jamillah Williams, of our staff, at Jamillah.Williams@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                          APPENDIX
+                                     CITY OF HAWTHORNE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A.   Review and Revision
+
+     Review the previous element to evaluate the appropriateness, effectiveness, and progress
+     in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+     § 65588 (a) and (b).)
+
+     As part of the review of programs in the past cycle, the element must provide an evaluation
+     of the effectiveness of goals, policies, and related actions in meeting the housing needs of
+     special needs populations (e.g., elderly, persons with disabilities, large households, female-
+     headed households, farmworkers and persons experiencing homelessness).
+
+
+B.   Housing Needs, Resources, and Constraints
+
+     1.   Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+          Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+          the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+          The element includes the Assessment of Fair Housing (AFH) that was prepared in
+          2020; however, utilizes data from the 2015 Analysis of Impediments (AI). Where
+          possible, updated data should be included to provide the affirmatively furthering fair
+          housing (AFFH) analysis. In addition, the following information is necessary to address
+          the requisite AFFH analysis requirement, including local contributing factors to the fair
+          housing issues and develop strong programs and strategies to address the identified
+          fair housing issues:
+
+          Fair Housing Enforcement and Outreach: The element must include the City’s
+          enforcement and outreach capacity which can consist of actions such as the ability
+          to investigate complaints, obtain remedies, or the City’s ability to engage in fair
+          housing testing. Given the diversity of the City, the element should specify if
+          outreach was conducted in different languages and made accessible to those with
+          limited mobility options. Additionally, the element should describe any lawsuits,
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                                Page 1
+December 17, 2021
+         enforcement actions, settlements, or judgments related to fair housing or civil rights
+         For additional information, please refer to the page 28 of the AFFH Guidance Memo.
+
+         Integration and Segregation: The element includes some data on integration and
+         segregation (p. 104) at the regional and local level; however, the comparison of
+         segregation and integration levels for all categories (race and ethnicity, familial status,
+         income, and persons with disabilities) at the regional and local level must be
+         complemented by analysis of patterns and trends, be complemented by local data and
+         knowledge, other relevant factors and conclude with a summary of issues. For
+         example, the City could provide local knowledge to explain the increase in dissimilarity
+         between non-White and White communities in Hawthorne and identify any geographic
+         concentrations of minorities in the City. To strengthen the analysis of familial status, the
+         element could describe how the rate of single-parent and female-headed households
+         compare to the region or county. For persons with disabilities, the element could
+         provide local knowledge to explain why census tracts with higher proportions of people
+         living with disabilities are primarily concentrated on the eastern side of the City (as
+         shown in figure 6-8) which also seem to be a lower resource areas.
+
+         Racial/Ethnic Areas of Concentration of Poverty (R/ECAP): While the element includes
+         information relative to R/ECAP, both the local and regional analyses must be
+         complemented by additional local data, knowledge, and other relevant factors. In
+         addition, the City should also provide and analyze existing patterns and trends as it
+         relates to the region. The combination in the R/ECAP and areas of affluence analyses
+         will help guide goals and actions to address fair housing issues.
+
+         Disparities in Access to Opportunity: The element provides some information (pp. 119-
+         131) on the access to opportunity but must include analyses for each component of
+         this section. A complete analysis should include the locally and regional disparities of
+         the educational, environmental, and economic scores through local, federal, and/or
+         state data. The element should also clarify Figure 6-16. The analysis should describe
+         any disparities by protected characteristics, including the housing and community
+         development needs of persons with disabilities, and geographic area and how that
+         affects their ability to access employment, quality education, transit, and live in
+         environmentally safe areas. Please refer to page 35 of the AFFH guidebook (link:
+         https://www.hcd.ca.gov/community-development/affh/index.shtml#guidance) for
+         specific factors that should be considered when analyzing access to opportunities as it
+         pertains to educational, employment, environmental, transportation, and any factors
+         that are unique to Hawthorne.
+
+         Disproportionate Housing Needs and Displacement Risk: While the element includes
+         some data and analysis on overcrowded households, substandard housing conditions,
+         and cost burdened households, it must also address the disproportionate housing
+         needs of the homeless, analyze local and regional trends, patterns, and other local
+         knowledge for all categories, and conclude with a summary of issues. Additionally,
+         since overpayment for housing was identified as a significant issue in Hawthorne, the
+         element should include a program to address cost burden, especially for lower-income
+         households.
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                                Page 2
+December 17, 2021
+         Site Inventory: The element must include an analysis demonstrating whether sites
+         identified to meet the RHNA are distributed throughout the community in a manner that
+         AFFH. A full analysis should address the income categories of identified sites with
+         respect to location, the number of sites and units by all income groups and how that
+         effects the existing patterns for all components of the assessment of fair housing (e.g.,
+         segregation and integration, access to opportunity). The element should also discuss
+         whether the distribution of sites improves or exacerbates conditions. If sites exacerbate
+         conditions, the element should identify further program actions for mitigations (e.g.,
+         anti-displacement strategies).
+
+         Contributing Factors: The element must list and prioritize contributing factors to fair
+         housing issues. Contributing factors create, contribute to, perpetuate, or increase the
+         severity of fair housing issues and are fundamental to adequate goals and actions.
+         Examples include community opposition to affordable housing, housing discrimination,
+         land use and zoning laws, lack of regional cooperation, location and type or lack of
+         affordable housing and lack of public or private investment in areas of opportunity or
+         affordable housing choices. The analysis shall result in strategic approaches to inform
+         and connect goals and actions to mitigate contributing factors to affordable housing.
+
+         Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+         overcome contributing factors to fair housing issues. Currently, the element identifies
+         program(s) to encourage and promote affordable housing; however, most of these
+         programs do not appear to facilitate any meaningful change nor address AFFH
+         requirements. Furthermore, the element must include metrics and milestones for
+         evaluating progress on programs, actions, and fair housing results. For example,
+         Program 19 should describe how the City will work to transform RECAPs into areas of
+         opportunity and how often will the City recruit residents of RECAPs to serve on boards.
+         Program 20 (Economic Displacement Risk Analysis) should go beyond “considering”
+         programs and commit to specific actions to address displacement risk in Hawthorne.
+
+         Programs must be based on identified contributing factors, be significant and
+         meaningful. The element must add, and revise programs based on a complete analysis
+         and listing and prioritization of contributing factors to fair housing issues. Furthermore,
+         the element must include metrics and milestones for targeting significant outcomes to
+         overcome segregation and foster inclusive communities results. For more information,
+         please see HCD’s guidance at https://www.hcd.ca.gov/community-
+         development/affh/index.shtm.
+
+    2.   Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+         Housing Conditions: While the element includes an estimate of the number of units in
+         need of rehabilitation and replacement, it also indicates some trends in neighborhoods
+         but should include the actual data. Specifically, the element notes “…the City’s
+         Planning Division has identified XX areas of the City which appear to have a significant
+         amount of housing that is in need of major repair. These areas include: XX.” The
+         element should complete this information to better formulate policies and programs.
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                               Page 3
+December 17, 2021
+    3.   An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         The City has a RHNA of 1,734 housing units, of which 649 are for lower-income
+         households. To address this need, the element relies on vacant and nonvacant sites,
+         including sites in Specific Plan Areas and within the Mixed-Use Overlay area. To
+         demonstrate the adequacy of these sites and strategies to accommodate the City’s
+         RHNA, the element must include complete analyses:
+
+         Realistic Capacity (Nonresidential Zones): For sites zoned for nonresidential uses, e.g.,
+         commercial and mixed-use zones, the element must describe how the estimated
+         number of residential units for each site was determined. The estimate must account
+         for land use controls such as allowing 100 percent nonresidential uses. To
+         demonstrate the likelihood for residential development in nonresidential zones, the
+         element could describe any performance standards mandating a specified portion of
+         residential and any factors increasing the potential for residential development such as
+         incentives for residential use, and residential development trends in the same
+         nonresidential zoning districts.
+
+         Suitability of Nonvacant Sites: While the element identifies nonvacant sites to
+         accommodate the regional housing need for lower-income households, it provides no
+         description of how the potential for redevelopment. The element must describe the
+         methodology used to determine the additional development potential within the
+         planning period. The methodology must consider factors including the extent to which
+         existing uses may impede additional residential development, development trends,
+         market conditions, any existing leases or other contracts that would perpetuate the
+         existing use or prevent redevelopment of the site for additional residential
+         development, and regulatory or other incentives or standards to encourage additional
+         residential development on these sites. (Gov. Code, § 65583.2, subd. (g).) For sites
+         with residential uses, the inventory could also describe structural conditions or other
+         circumstances and trends demonstrating the redevelopment potential to more intense
+         residential uses. For nonresidential sites, the inventory could also describe whether the
+         use is operating, marginal or discontinued, and the condition of the structure or could
+         describe any expressed interest in redevelopment. For example, the element could
+         provide details about the closed mall, the City’s plans for the redevelopment of the site,
+         and expected timing for buildout.
+
+         In addition, if the housing element relies upon nonvacant sites to accommodate more
+         than 50 percent of the RHNA for lower-income households, the housing element must
+         demonstrate that the existing use is not an impediment to additional residential
+         development in the planning period. This can be demonstrated by providing substantial
+         evidence that the existing use is likely to be discontinued during the planning period.
+         (Gov. Code, § 65583.2, subd. (g)(2).)
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                               Page 4
+December 17, 2021
+         Replacement Housing Requirements: If the sites inventory identifies sites with existing
+         residential uses, it must identify whether they are affordable to lower-income
+         households or describe whether the additional residential development on the site
+         requires the demolition of the existing residential use. For nonvacant sites with existing,
+         vacated, or demolished residential uses and occupied by, or subject to an affordability
+         requirement for, lower-income households within the last five years there must be a
+         replacement housing program for units affordable to lower-income households. (Gov.
+         Code, § 65583.2, subd. (g)(3).) Absent a replacement housing program, these sites are
+         not adequate sites to accommodate lower-income households. The replacement
+         housing program has the same requirements as set forth in Gov. Code section. 65915,
+         subdivision (c)(3). The housing element must be revised to include such analysis and a
+         program, if necessary.
+
+         Accessory Dwelling Units (ADU): The element incorrectly calculates accessory dwelling
+         unit (ADU) potential for the planning period by considering a rate of 28.7 ADUs per
+         year based on the last three years’ (2018-2020) production. While the element states
+         15 units were approved in 2018, 13 units in 2019, and 58 units in 2020 for an average
+         of 28, HCD’s record of the City’s past production between 2018 to 2020, shows an
+         average of 14 units per year. The element must reconcile the difference and provide
+         additional supporting information for the assumption of 28.7 ADUs per year such as
+         how community needs, and demand are likely to increase production and include
+         programs that aggressively promote and incentivize ADU construction.
+
+         Zoning for a Variety of Housing Types:
+
+             •   Transitional and Supportive Housing: The element describes transitional and
+                 supportive housing as requiring a conditional use permit (CUP) in a zone that
+                 permits single-family homes by right. Transitional housing and supportive
+                 housing must be permitted as a residential use in all zones allowing residential
+                 uses and only subject to those restrictions that apply to other residential
+                 dwellings of the same type in the same zone. (Gov. Code, § 65583, subd.
+                 (a)(5).) The element must describe and analyze the City’s transitional and
+                 supportive housing standards and codes and demonstrate consistency with
+                 Section 65583(a)(5) or add or revise programs to comply with the statutory
+                 requirements.
+
+             •   Employee Housing: The element must demonstrate the zoning is consistent with
+                 the Employee Housing Act (Health and Safety Code, § 17000 et seq.),
+                 specifically, sections 17021.5 and 17021.6. Section 17021.5 requires employee
+                 housing for six or fewer employees to be treated as a single-family structure and
+                 permitted in the same manner as other dwellings of the same type in the same
+                 zone. Section 17021.6 requires employee housing consisting of no more than
+                 12 units or 36 beds to be permitted in the same manner as other agricultural
+                 uses in the same zone.
+
+    4.   An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                                Page 5
+December 17, 2021
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures.
+
+         Land-Use Controls: The element must identify and analyze all relevant land use
+         controls impacts as potential constraints on a variety of housing types (e.g., multifamily
+         rental housing, mobilehomes, transitional housing). The analysis must also evaluate
+         the cumulative impacts of land use controls on the cost and supply of housing,
+         including the ability to achieve maximum densities and cost and supply of housing. The
+         analysis should also describe past or current efforts to remove identified governmental
+         constraints and the element should include programs to address or remove the
+         identified constraints. The element should be revised as follows:
+
+             •   The majority of the sites to accommodate the lower-income need are within
+                 the mixed-use overlay. The element must analyze the requirement that
+                 commercial development is required for projects within the Mixed-Use (MU)
+                 overlay as a potential constraint on the cost and supply of multifamily housing
+                 and analyze the suitability of this overlay to facilitate housing for lower-income
+                 households. To support this analysis, the element could provide examples of
+                 affordable housing developments developed within the overlay or include a
+                 program to allow 100 percent residential development for affordable housing.
+             •   The minimum lot area for the MU zone is three acres, but the sites inventory
+                 does not identify any sites greater than three acres in this zone which means
+                 all sites would require consolidation to be developed. The element should
+                 analyze this lot acreage requirement as a constraint and add or revise
+                 programs as needed to address this.
+             •   The element describes a height limit of 22 feet in the R-3 zone, which would
+                 not allow for three stories. The element should analyze this restriction as a
+                 constraint and add or revise programs as needed.
+             •   The element should describe the development standards of the City’s new
+                 housing overlay zone.
+         Parking Requirements: The element must identify and analyze the parking
+         requirements (p. 60) two spaces plus one guest space for studio and one-bedroom
+         apartments for its impact as a potential constraint on housing. Should the analysis
+         determine the parking standards or permit procedures are a constraint on residential
+         development, it must include a program to address or remove any identified
+         constraints.
+
+         Fees and Exactions: The element must describe all required fees for single family and
+         multifamily housing development, including impact fees, and analyze their impact as
+         potential constraints on housing supply and affordability. For example, the analysis
+         could identify the total amount of fees and their proportion to the development costs for
+         both single family and multifamily housing.
+
+         Zoning and Fees Transparency: The element must clarify its compliance with new
+         transparency requirements for posting all zoning and development standards for each
+
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                                 Page 6
+December 17, 2021
+         parcel on the jurisdiction’s website pursuant to Government Code section 65940.1,
+         subdivision (a)(1).
+
+         Permitting and Processing Procedures: The element indicates multifamily development
+         in zones (R-3 and C-M) permitting multifamily development requires a CUP. The
+         element must analyze the CUP process as a potential constraint on housing supply
+         and affordability. The analysis should identify findings of approval for the CUP and their
+         potential impact on development approval certainty, timing, and cost. The element
+         must demonstrate this process is not a constraint or it must include a program to
+         address and remove or mitigate the CUP requirement.
+
+         Design Review: The element must describe and analyze the design review guidelines
+         and process, including approval procedures and decision-making criteria, for their
+         impact as potential constraints on housing supply and affordability. For example, the
+         analysis could describe required findings and discuss whether objective standards and
+         guidelines improve development certainty and mitigate cost impacts. The element must
+         demonstrate this process is not a constraint or it must include a program to address
+         this permitting requirement, as appropriate.
+
+         On/Off-Site Improvements: The element must identify subdivision level improvement
+         requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+         analyze their impact as potential constraints on housing supply and affordability.
+
+         Constraints on Housing for Persons with Disabilities: The element describes its plan to
+         address residential care facilities (RCFs) for seven or more persons through Program
+         17 (p. 57). However, as proposed, the program could present a constraint to housing
+         for persons with disabilities by only allowing in RCFs two zones and with a CUP. The
+         element should evaluate these requirements as constraints and modify Program 17, as
+         appropriate.
+
+    5.   An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a locality’s
+         share of the regional housing need in accordance with Government Code section
+         65584. The analysis shall also demonstrate local efforts to remove nongovernmental
+         constraints that create a gap between the locality’s planning for the development of
+         housing for all income levels and the construction of that housing. (Gov. Code, §
+         65583, subd. (a)(6).)
+
+         Developed Densities and Permit Times: The element must be revised to include
+         analysis of requests to develop housing at densities below those anticipated, and the
+         length of time between receiving approval for a housing development and submittal of
+         an application for building permits that potentially hinder the construction of a locality’s
+         share of the regional housing need.
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                                 Page 7
+December 17, 2021
+C.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the Housing Element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Government Code section 65583, subdivision
+          (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+          the City’s specific role in implementation; (2) definitive implementation timelines; (3)
+          objectives, quantified where appropriate; and (4) identification of responsible agencies
+          and officials. Programs to be revised include the following:
+
+             •   General: The element must evaluate all programs to provide discrete timing. While
+                 timing of “ongoing” may be appropriate for some programs, programs with quantified
+                 objectives or specific implementation actions must include completion dates
+                 (including month and year) resulting in beneficial impacts within the planning period.
+             •   Program 3 (Public Property Conversion to Housing) should describe when the
+                 City will work with non-profits and public agencies to evaluate the feasibility of
+                 transferring surplus city-owned lands for development of affordable housing by
+                 the private sector.
+             •   Program 5 (Facilitate Affordable and Special Needs Housing Construction)
+                 should describe how often the City will monitor existing affordable housing stock
+                 and how often it will monitor options for special needs groups.
+             •   Program 6 (Mixed-Use Development) should indicate when the City will
+                 establish specific and objective criteria.
+             •   Program 8 (Density Bonus Implementation) should describe when the City will
+                 review state law updates that impact density bonuses and modify local plans
+                 and programs.
+             •   Program 9 (Multi-Family Acquisition and Rehabilitation) should describe how the
+                 City will support CHDOs.
+             •   Program 13 (Single-Family Residential Rehabilitation) should describe how
+                 often the City will pursue funding.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                               Page 8
+December 17, 2021
+         to comply with the requirements of Government Code section 65584.09. Sites shall be
+         identified as needed to facilitate and encourage the development of a variety of types
+         of housing for all income levels, including multifamily rental housing, factory-built
+         housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+         room occupancy units, emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+         As noted in Finding B3, the element does not include a complete site analysis,
+         therefore, the adequacy of sites and zoning were not established. Based on the results
+         of a complete sites inventory and analysis, the City may need to add or revise
+         programs to address a shortfall of sites or zoning available to encourage a variety of
+         housing types. In addition, the element should be revised as follows:
+
+         Rezone Program for Adequate Sites: As noted in Finding B3, the element includes
+         Program 1 (Shortfall Rezone Program) to address a shortfall of sites, but the program
+         does not meet statutory requirements. (Gov. Code, § 65583.2, subd. (h) and (i).) The
+         rezone program must commit to:
+
+             •   permit owner-occupied and rental multifamily uses by-right for developments in
+                 which 20 percent or more of the units are affordable to lower-income
+                 households. By-right means local government review must not require a CUP,
+                 planned unit development permit, or other discretionary review or approval.
+             •   accommodate a minimum of 16 units per site;
+             •   require a minimum density of 20 units per acre;
+             •   at least 50 percent of the lower-income need must be accommodated on sites
+                 designated for residential use only or on sites zoned for mixed uses that
+                 accommodate all of the very low and low-income housing need, if those sites:
+                     o allow 100 percent residential use, and
+                     o require residential use occupy 50 percent of the total floor area of a
+                        mixed-use project.
+
+         Nonvacant Sites Reliance to Accommodate RHNA: As the element relies upon
+         nonvacant sites to accommodate the regional housing need for lower-income
+         households, it should include a program(s) to promote residential development of those
+         sites. The program could commit to provide financial assistance, regulatory
+         concessions, or incentives to encourage and facilitate new, or more intense, residential
+         development on the sites. Examples of incentives include identifying and targeting
+         specific financial resources and reducing appropriate development standards.
+
+         Lot Consolidation/Small Sites: As the element relies on consolidated small sites to
+         accommodate the RHNA for lower-income households, it should include a program(s)
+         to facilitate lot consolidation and development of housing on small sites. For example,
+         the program could commit to (1) granting density bonuses above state density bonus
+         law (Gov. Code, § 65915.); (2) deferring fees specifically for consolidation; (3)
+         expediting permit processing; (4) identifying and targeting specific financial resources;
+         and (5) modifying development standards.
+
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                               Page 9
+December 17, 2021
+    3.   The Housing Element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+         While the element includes programs to assist in the development of very low-, low-,
+         and moderate-income households, it must also include a program(s) to assist in the
+         development of housing affordable extremely low-income (ELI) households. Programs
+         must be revised or added to the element to assist in the development of housing for
+         ELI households. Program actions could include prioritizing some funding for housing
+         developments affordable to ELI households and offering financial incentives or
+         regulatory concessions to encourage the development of housing types, such as
+         multifamily, single-room occupancy (SRO) units, to address the identified housing
+         needs for ELI households.
+
+    4.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Findings B4 and B5, the element requires a complete analysis of potential
+         governmental and nongovernmental constraints. Depending upon the results of that
+         analysis, the City may need to revise or add programs and address and remove or
+         mitigate any identified constraints. In addition:
+
+         Program to Mitigate Nongovernmental Constraints: The element must be revised to
+         include a program that mitigates nongovernmental constraints that create a gap in the
+         jurisdictions ability to meet RHNA by income category (Gov. Code, § 65583.2, subd.
+         (c)(3).).
+
+    5.   Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race, religion,
+         sex, marital status, ancestry, national origin, color, familial status, or disability, and
+         other characteristics protected by the California Fair Employment and Housing Act
+         (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+         any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+         (c)(5).)
+
+         As noted in Finding B1, the element must include a complete assessment of fair
+         housing. Based on the outcomes of that analysis, the element must add or modify
+         programs. While the element includes Program 18 (Fair Housing Services) which
+         describes the City’s approach to providing fair housing services, it must also include
+         actions that promote and AFFH opportunities. For example, the element could include
+         a program committing to implement Government Code section 8899.50(b) which
+         requires the City to administer its programs and activities relating to housing and
+         community development in a manner to AFFH and take no action that is materially
+         inconsistent with its obligation to AFFH.
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                             Page 10
+December 17, 2021
+D.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the Housing Element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+     While the element includes a general summary of the public participation process (page 23),
+     it must also demonstrate diligent efforts were made to involve all economic segments of the
+     community in the development of the housing element. The element could describe the
+     efforts to circulate the housing element among low- and moderate-income households and
+     organizations that represent them and to involve such groups and persons in the element
+     throughout the process. In addition, the element should also summarize the public
+     comments and describe how they were considered and incorporated into the element.
+
+     In addition, the element should indicate whether the draft element was made available to the
+     public before submittal to HCD. When housing elements are submitted concurrently with the
+     public comment period, stakeholders miss the opportunity to participate in the housing
+     element process. By not providing an opportunity for the public to review and comment on a
+     draft of the element in advance of submission, the City has not yet complied with statutory
+     mandates to make a diligent effort to encourage the public participation in the development
+     of the element and it reduces HCD’s ability to consider public comments in the course of its
+     review. The availability of the document to the public and opportunity for public comment
+     prior to submittal to HCD is essential to the public process and HCD’s review. The City must
+     proactively make future revisions available to the public, including any commenters, prior to
+     submitting any revisions to HCD and diligently consider and address comments, including
+     making revisions to the document where appropriate. HCD’s future review will consider the
+     extent to which the revised element documents how the City solicited, considered, and
+     addressed public comments in the element. The City’s consideration of public comments
+     must not be limited by HCD’s findings in this review letter.
+
+E.   Consistency with General Plan
+
+     The Housing Element shall describe the means by which consistency will be achieved with
+     other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+     The housing element affects a locality’s policies for growth and residential land uses. The
+     goals, policies and objectives of an updated housing element may conflict with those of the
+     land-use, circulation, open space elements as well as zoning and redevelopment plans. The
+     general plan is required to be “internally consistent.” As part of the housing element update,
+     the element must describe how consistency was achieved and how it will be maintained
+     during the planning period. For example, the element could include a program to conduct an
+     internal consistency review of the general plan as part of the annual general plan
+     implementation report required by Government Code section 65400. The annual report can
+     also assist future updates of the housing element.
+
+
+
+
+City of Hawthorne’s 6th Cycle Draft Housing Element                              Page 11
+December 17, 2021

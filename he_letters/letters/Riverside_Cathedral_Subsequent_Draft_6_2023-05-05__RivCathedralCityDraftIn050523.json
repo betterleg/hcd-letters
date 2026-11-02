@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Cathedral",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-05-05",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/RivCathedralCityDraftIn050523.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/RivCathedralCityDraftIn050523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 150396,
+  "text_chars": 3222,
+  "text_empty": false
+}

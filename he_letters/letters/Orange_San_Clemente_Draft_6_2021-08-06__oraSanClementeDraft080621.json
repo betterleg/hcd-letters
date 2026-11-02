@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "San Clemente",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-08-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraSanClementeDraft080621.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraSanClementeDraft080621.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 240726,
+  "text_chars": 36422,
+  "text_empty": false
+}

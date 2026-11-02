@@ -1,0 +1,14 @@
+{
+  "county": "Imperial",
+  "jurisdiction": "Holtville",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-04-08",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ColHoltvilleAdoptedOut040822.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ColHoltvilleAdoptedOut040822.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 193244,
+  "text_chars": 5024,
+  "text_empty": false
+}

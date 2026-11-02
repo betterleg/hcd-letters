@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Kingsburg",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-08-30",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-kingsburg-draft-out-083023.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-kingsburg-draft-out-083023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 241962,
+  "text_chars": 22353,
+  "text_empty": false
+}

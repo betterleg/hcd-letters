@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Los Alamitos",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-10-21",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/OraLosAlamitosAdoptOut102122.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/OraLosAlamitosAdoptOut102122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 198012,
+  "text_chars": 11838,
+  "text_empty": false
+}

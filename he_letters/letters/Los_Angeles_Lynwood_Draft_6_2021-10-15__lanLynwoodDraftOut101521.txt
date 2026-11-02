@@ -1,0 +1,876 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 15, 2021
+
+
+         Michelle Ramirez, Community Development Director
+         Department of Community Development
+         City of Lynwood
+         11750 Alameda St,
+         Lynwood, CA 90262
+
+         Dear Michelle Ramirez:
+
+         RE: City of Lynwood’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Lynwood’s (City) draft housing element received for
+         review on August 19, 2021. Pursuant to Government Code section 65585, subdivision
+         (b), the California Department of Housing and Community Development (HCD) is
+         reporting the results of its review. Our review was facilitated by a telephone
+         conversation on September 15, 2021 with you, Albert Armijo, Malia Durand, and Andre
+         Dupret of your staff. In addition, HCD considered comments from YIMBY Law pursuant
+         to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         The City’s statutory deadline to adopt a housing element is October 15, 2021. For your
+         information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a local
+         government fails to adopt a compliant housing element within 120 days of this statutory
+         deadline, then any rezoning to accommodate the regional housing needs allocation,
+         including for lower-income households, shall be completed no later than one year from
+         the statutory deadline. Otherwise, the local government’s housing element will no longer
+         comply with State Housing Element Law, and HCD may revoke its finding of substantial
+         compliance pursuant to Government Code section 65585, subdivision (i).
+
+         For your information, some general plan element updates are triggered by housing
+         element adoption. HCD reminds the County to consider timing provisions and welcomes
+         the opportunity to provide assistance. For information, please see the Technical
+         Advisories issued by the Governor’s Office of Planning and Research at:
+         http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+         http://opr.ca.gov/docs/Final_6.26.15.pdf.
+Michelle Ramirez, Community Development Director
+Page 2
+
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+HCD appreciates your efforts as well as those that Albert Armijo, Malia Durand, and
+Andre Dupret provided during the course of our review. We are committed to assisting
+the City in addressing all statutory requirements of State Housing Element Law. If you
+have any questions or need additional technical assistance, please contact Jamillah
+Williams, of our staff, at Jamillah.Willliams@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF LYNWOOD
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      A thorough program-by-program review is necessary to evaluate City's performance in
+      addressing housing goals. As part of this analysis, the element should describe the actual
+      results of the prior element’s programs, compare those results to the objectives projected
+      or planned, and based on an evaluation of any differences between what was planned
+      versus achieved, provide a description of how the objectives and programs of the updated
+      element incorporate changes resulting from the evaluation. This information and analysis
+      provide the basis for developing a more effective housing program. The element should be
+      revised as follows:
+
+         •   Program 2.1 should discuss actions the City took during the 5th cycle planning
+             period.
+         •   Programs 2.2, 2.3, and 3.3 must describe each program’s implementation status
+             and the success of the programs.
+         •   Program 3.7 should describe the results of the program.
+         •   Program 4.1 should describe the results of the program and whether or not the
+             development code was revised.
+         •   Program 4.2 should describe the success of the program and if it was continued
+             into the 6th cycle element.
+         •   Program 5.1 should describe in what way the 2,060 households were assisted.
+
+      In addition, as part of the evaluation of programs in the past cycle, the element must
+      provide an explanation of the effectiveness of goals, policies, and related actions in
+      meeting the housing needs of special needs populations (e.g., elderly, persons with
+      disabilities, large households, female headed households, farmworkers and persons
+      experiencing homelessness).
+
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                 Page 1
+October 14, 2021
+   B. Housing Needs, Resources, and Constraints
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+         the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+         The element includes the Assessment of Fair Housing (AFH); however, additional
+         information is necessary to address the requisite affirmatively furthering fair housing
+         (AFFH) analysis requirement, including local contributing factors to the fair housing
+         issues and develop strong programs and strategies to address the identified fair
+         housing issues. Specifically, the element provides data regarding the patterns of
+         various socio-economic characteristics across components of the required analysis
+         (e.g., segregation and integration, access to opportunity, displacement); however the
+         element should also analyze trends for potential fair housing specific to Lynwood. In
+         addition, the following analysis is required:
+         Fair Housing Enforcement and Outreach: The element must include the City’s ability to
+         provide enforcement and outreach capacity which can consist of actions such as the
+         City’s ability to investigate complaints, obtain remedies, or the City’s ability to engage
+         in fair housing testing. The analysis must also describe compliance with existing fair
+         housing laws and regulations and include information on fair housing outreach
+         capacity. Furthermore, the revisions should address:
+             • Degree of outreach to all sectors of the community,
+             • Ongoing outreach and public participation throughout the planning period,
+             • Indicate any findings, lawsuits or enforcement actions taken.
+             • Describe how many fair housing complaints the City has received over the past
+                 few years
+         Racial/Ethnic Concentrated Areas of Poverty (R/ECAP): While the element includes
+         information and analysis relative to local R/ECAP), it should also include regional
+         trends and patterns. The analysis must be complemented by quantitative evidence for
+         the regional comparison and describe how the City’s R/ECAP compares to the rest of
+         the City. In addition, the City should also analyze local and regional trends and
+         patterns of racial concentrations as it relates to areas of affluence. The analysis
+         should evaluate the patterns and changes over time and consider other relevant
+         factors, such as public participation, past policies, practices, and investments and
+         demographic trends.
+         Access to Opportunity: The element provides some information on the access to
+         opportunity but failed to provide a local and regional analysis of trends and patterns for
+         all components. A complete analysis should include the local and regional disparities of
+         the educational, environmental, and economic scores through local, federal, and/or state
+         data; and provide a description of education, environment, and employment. It should
+         also include analyses for persons with disabilities as well as access to transit. Please
+         refer to page 35 of the AFFH guidebook (link: https://www.hcd.ca.gov/community-
+         development/affh/index.shtml#guidance) for specific factors that should be considered
+         when analyzing access to opportunities as it pertains to educational, employment,
+         environmental, transportation, and any factors that are unique to Lynwood. The element
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                 Page 2
+October 14, 2021
+         should provide sources for the environmental scores and educational scores listed in the
+         element. The element should also analyze proximity to jobs for residents and provide
+         programs as appropriate.
+
+         Integration and Segregation: While the element includes some data on integration and
+         segregation (p. II-29), the element must include more substantial local data as well as
+         include a regional analysis of trends and patterns. Furthermore, the element should
+         describe any local knowledge on the decrease in diversity, dissimilarity index data, and
+         a regional analysis for income describing similar concentrations and trends of poverty
+         in surrounding areas. The element must also analyze regional trends and patterns of
+         segregation and integration based on race, familial status, and persons with
+         disabilities, as well as local and regional trends and patterns for income, and conclude
+         with a summary of issues. Figure II-9 shows a concentration of poverty in a few areas,
+         the City must provide an analysis and programs as appropriate.
+
+         Disproportionate Housing Needs and Displacement Risk: While the element does
+         include data on overcrowded households, cost burden, and flooding, it must also
+         include an analysis of substandard housing conditions, homelessness, and
+         displacement (including to disaster–fire and earthquake). It must also provide a
+         regional analysis for all disproportionate housing needs and analyze the data including
+         looking at trends, patterns, and other local knowledge, and conclude with a summary of
+         issues. High levels of overpayment and overcrowding were identified throughout the
+         City, the element must strengthen the analysis as well as provide programs to address
+         the identified issues.
+
+         Site Inventory: The element includes a map of the site inventory and states that the
+         proposed sites to meet lower-income regional housing needs allocation (RHNA) are
+         geographically distributed which results in AFFH. However, the accompanying analysis
+         shall also be reflective of housing development at all income-levels and evaluate the
+         sites relative to socio-economic patterns. The site inventory analysis should address
+         how the sites are identified to improve conditions (or if sites exacerbate conditions, how
+         a program can mitigate the impact), whether the sites are isolated by income group
+         and should be supported by local data and knowledge. In addition, the element should
+         address the public comments regarding all lower-income sites being located in low
+         resource areas and whether that exacerbates fair housing issues in the City.
+
+         Contributing Factors: The element must list and prioritize contributing factors to fair
+         housing issues. Contributing factors create, contribute to, perpetuate, or increase the
+         severity of fair housing issues and are fundamental to adequate goals and actions.
+         Examples include community opposition to affordable housing, housing discrimination,
+         land use and zoning laws, lack of regional cooperation, location and type or lack of
+         affordable housing and lack of public or private investment in areas of opportunity or
+         affordable housing choices. The analysis shall result in strategic approaches to inform
+         and connect goals and actions to mitigate contributing factors to affordable housing.
+         While the element lists two contributing factors, it must tie them to the analysis. In
+         addition, the element must clarify the first contributing factor that was identified as well
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                   Page 3
+October 14, 2021
+         as tie it to programs to assist persons with disabilities who experience housing
+         discrimination.
+
+         Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+         overcome contributing factors to fair housing issues. Currently, the element identifies
+         program(s) to encourage and promote affordable housing; however, most of these
+         programs do not appear to facilitate any meaningful change nor address AFFH
+         requirements. Furthermore, the element must include metrics and milestones for
+         evaluating progress on programs, actions, and fair housing results. For more
+         information, please see HCD’s guidance at https://www.hcd.ca.gov/community-
+         development/affh/index.shtm.
+
+      2. Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+         Overpayment: While the element identifies the total percentage of overpaying
+         households, it must quantify and analyze the number of overpaying households by
+         tenure (i.e., renter and owner) and include the number of lower-income households
+         overpaying by tenure.
+
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         The City has a RHNA of 1,558 housing units, of which 516 are for lower-income
+         households. To address this need, the element relies on vacant and nonvacant sites,
+         including sites in Specific Plan Areas. To demonstrate the adequacy of these sites and
+         strategies to accommodate the City’s RHNA, the element must include complete
+         vacant and nonvacant analyses:
+
+         Progress in Meeting the RHNA: The element indicates (page B147-148) that one unit
+         affordable to very low-income households and 66 units affordable to low-income
+         household have “some form of approval,” but does not specify if the projects are built,
+         under construction or entitled. It also provides no information documenting how
+         affordability of the units was determined. As you know, the City’s RHNA may be
+         reduced by the number of new units built since June 30, 2021; however, the element
+         must describe the City’s methodology for assigning these units to the various income
+         groups based on actual sales price, rent level, or deed restriction of the units and
+         demonstrate their availability in the planning period. Additionally, approved projects
+         should list the status of projects and their anticipated completion dates.
+
+         Sites Inventory: While the sites inventory includes most requirements, it must clarify if
+         the general plan and zoning have the same designations. The element must also
+         clarify the sites identified as vacant but also include a year built are actually vacant.
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                  Page 4
+October 14, 2021
+         The element must also clarify whether the potential units in the inventory is the realistic
+         capacity of each site or the maximum potential units based on allowable densities.
+
+         Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+         standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+         Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml for a copy of the form and instructions. The
+         City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+         Please note, upon adoption of the housing element, the City must submit an electronic
+         version of the sites inventory with its adopted housing element to
+         sitesinventory@hcd.ca.gov.
+
+         Realistic Capacity: The element must provide assumptions of buildout for sites
+         included in the inventory, and also provide support for these assumptions. For
+         example, the element should demonstrate what specific trends, factors, and other
+         evidence led to the assumptions. The estimate of the number of units for each site
+         must be adjusted as necessary, based on the land use controls and site improvements,
+         typical densities of existing or approved residential developments at a similar
+         affordability level in that jurisdiction, and on the current or planned availability and
+         accessibility of sufficient water, sewer, and dry utilities. The element also needs to
+         analyze the likelihood that the identified units will be developed as noted in the
+         inventory in zones that allow nonresidential uses (e.g., mixed-use). This analysis
+         should consider the likelihood of nonresidential development, performance standards,
+         and development trends supporting residential development.
+
+         Zoning for Lower-Income Households: Pursuant to Section 65583.2(c)(3)(A) and (B),
+         the element must identify sites with zoning and densities appropriate to encourage
+         and facilitate the development of housing for lower-income households based on
+         factors such as market demand, financial feasibility and development experience
+         within zones. For communities with densities that meet specific standards (at least
+         30 units per acre for Lynwood), this analysis is not required (Section
+         65583.2(c)(3)(B)). The element must indicate the City’s default density. The element
+         should include a complete analysis to demonstrate how the zoning encourages the
+         development of units affordable for lower-income households.
+
+         Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre
+         in size are deemed inadequate to accommodate housing for lower-income
+         households unless it is demonstrated, with sufficient evidence, that sites are suitable
+         to accommodate housing for lower-income households. The element must provide
+         data and analysis as evidence these small and large sites can adequately
+         accommodate the city’s lower-income housing need. For example, the analysis of
+         small sites should include additional information regarding recent development such
+         as overall development trends (e.g., proportion of total development on small sites),
+         zoning, allowable density and a nexus to sites identified in the inventory. If the sites
+         are expected to be consolidated, the element must demonstrate the potential for lot
+         consolidation. For example, analysis describing the City role or track record in
+         facilitating small-lot consolidation, policies or incentives offered or proposed to
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                  Page 5
+October 14, 2021
+         encourage and facilitate lot consolidation, conditions rendering parcels suitable and
+         ready for redevelopment, recent trends of lot consolidation, and information on the
+         owners of each aggregated site.
+
+         Suitability of Nonvacant Sites: While the element identifies nonvacant sites to
+         accommodate the regional housing need for lower-income households and provides
+         some description of the potential for redevelopment, the element must describe the
+         methodology used to determine the additional development potential within the
+         planning period. The methodology must consider factors including the extent to which
+         existing uses may impede additional residential development; development trends;
+         market conditions; and regulatory or other incentives or standards to encourage
+         additional residential development on these sites. (Gov. Code, § 65583.2, subd. (g).).
+         For sites with residential uses, the inventory could also describe structural conditions
+         or other circumstances and trends demonstrating the redevelopment potential to
+         more intense residential uses. For nonresidential sites, the inventory could also
+         describe whether the use is operating, marginal or discontinued, and the condition of
+         the structure or could describe any expressed interest in redevelopment. To support
+         this analysis, the element should describe the City’s experience redeveloping
+         underutilized sites and provide recent examples.
+
+         In addition, the element identified vacant sites in the inventory that list the year built.
+         The element should clarify if those sites are truly vacant. If they are not, the element
+         must list the existing use and describe the potential for redevelopment as well as the
+         methodology used to determine the additional development potential within the
+         planning period. Additional sites that need clarification of uses are site 58 (listed as
+         vacant but has a parking lot) and 59 (listed as vacant, in development). The analysis
+         should clarify if the entire nonvacant site will be redeveloped, or if only portions of the
+         site are identified for redevelopment, for example large parking lots.
+
+         In addition, Lynwood’s housing element relies upon nonvacant sites to accommodate
+         more than 50 percent of the RHNA for lower-income households, the housing element
+         must demonstrate that the existing use is not an impediment to additional residential
+         development in the planning period (Gov. Code, § 65583.2, subd. (g)(2).). This can be
+         demonstrated by providing substantial evidence that the existing use is likely to be
+         discontinued during the planning period (Gov. Code, § 65583.2, subd. (g)(2).
+
+         Previously Identified Nonvacant and Vacant Sites: If nonvacant sites identified in a
+         prior adopted housing element or vacant sites identified in two or more consecutive
+         planning periods, the sites are inadequate to accommodate housing for lower-income
+         households unless:
+
+             •   The site’s current zoning is appropriate for the development of housing
+                 affordable to lower-income households by either including analysis or meeting
+                 the appropriate density. See Government Code section 65583.2, subdivision
+                 (c)(3), and
+
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                    Page 6
+October 14, 2021
+             •   The site is subject to a housing element program that requires rezoning within
+                 three years of the beginning of the planning period to allow residential use by-
+                 right for housing developments in which at least 20 percent of the units are
+                 affordable to lower-income households
+                 (Gov. Code, § 65583.2, subd. (c).).
+
+         Replacement Housing Requirements: If the sites inventory identifies sites with existing
+         residential uses, it must identify whether they are affordable to lower-income
+         households or describe whether the additional residential development on the site
+         requires the demolition of the existing residential use. For nonvacant sites with existing,
+         vacated, or demolished residential uses and occupied by, or subject to an affordability
+         requirement for, lower-income households within the last five years there must be a
+         replacement housing program for units affordable to lower-income households (Gov.
+         Code, § 65583.2, subd. (g)(3)). Absent a replacement housing program, these sites are
+         not adequate sites to accommodate lower-income households. The replacement
+         housing program has the same requirements as set forth in Government Code section.
+         65915, subdivision (c)(3). The housing element must be revised to include such
+         analysis and a program, if necessary.
+
+         Accessory Dwelling Units (ADU): The element assumes an ADU build out of 27 ADUs
+         per year based on the most recent (2020) production. Given that the City has only
+         produced an average of 9 units per year between 2018 and 2020, it is not clear if this
+         production level will be achievable in the planning period. As a result, the element
+         should be updated to include a realistic estimate of the potential for ADUs and include
+         policies and programs that incentivize the production of ADUs. Depending on the
+         analysis, the element must commit to monitor ADU production throughout the course of
+         the planning period and implement additional actions if not meeting target numbers
+         anticipated in the housing element. In addition to monitoring production, this program
+         should also monitor affordability. Additional actions, if necessary, should be taken in a
+         timely manner (e.g., within 6 months). Finally, if necessary, the degree of additional
+         actions should be in stride with the degree of the gap in production and affordability.
+         For example, if actual production and affordability of ADUs is far from anticipated
+         trends, then rezoning or something similar would be an appropriate action. If actual
+         production and affordability is near anticipated trends, then measures like outreach and
+         marketing might be more appropriate.
+         Suitability and Availability of Infrastructure: The element must demonstrate sufficient
+         existing or planned water, sewer, and other dry utilities supply capacity, including the
+         availability and access to distribution facilities to accommodate the City’s regional
+         housing need for the planning period, and should mention if water, sewer, and dry
+         utilities are city owned. (Gov. Code, § 65583.2, subd. (b).) For additional information,
+         see the Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/site-inventory-analysis/analysis-of-sites-and-zoning.shtml#environmental.
+
+         For your information, water and sewer service providers must establish specific
+         procedures to grant priority water and sewer service to developments with units
+         affordable to lower-income households. (Gov. Code, § 65589.7.) Local governments
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                  Page 7
+October 14, 2021
+         are required to immediately deliver the housing element to water and sewer service
+         providers. HCD recommends including a cover memo describing the City’s housing
+         element, including the City’s housing needs and regional housing need.
+
+         Environmental Constraints: The element describes seismic, flooding, and soil/water
+         contamination as environmental constraints that could impact housing development
+         during the planning period but did not describe the City’s plans to address these
+         constraints or how these constraints could impact the development potential of the
+         sites identified in the inventory.
+
+         Sites with Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: While the element identified a zone in which emergency
+             shelters are a permitted use, it must describe the development standards, describe
+             where the nearest emergency shelter is located within (or nearest to) the City, and
+             demonstrate the R-3 and M zones have sufficient capacity to accommodate the
+             identified housing need for emergency shelters. (Gov. Code, § 65583, subd. (a)(4).)
+             For example, identifying the number of parcels, typical parcels sizes, whether the
+             sites are nonvacant, and the potential capacity for adaptive reuse. Also, the parking
+             standards for emergency shelters must comply with AB 139 (Gov. Code, § 65583,
+             subd. (a)(4)(A)) and the building license requirement should be removed. The
+             element must demonstrate consistency with these statutory requirements and
+             include a program, as appropriate.
+
+         •   Transitional and Supportive Housing: Transitional housing and supportive housing
+             must be permitted as a residential use in all zones allowing residential uses and
+             only subject to those restrictions that apply to other residential dwellings of the
+             same type in the same zone. (Gov. Code, § 65583, subd. (a)(5).) The element must
+             describe and analyze the City’s transitional and supportive housing standards and
+             codes and demonstrate consistency with Section 65583(a)(5) or add or revise
+             programs which comply with the statutory requirements.
+
+         •   Single Room Occupancy (SRO) Units: The element should describe the permit
+             procedures for SROs.
+
+         •   Housing for Farmworkers: The element states that the Lynwood Municipal Code
+             does not address Low Farmworker Housing (6 or fewer) by definition (page IV-100).
+             However, the element must demonstrate the zoning is consistent with the
+             Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically,
+             sections 17021.5 and 17021.6. Section 17021.5 requires employee housing for six
+             or fewer employees to be treated as a single-family structure and permitted in the
+             same manner as other dwellings of the same type in the same zone. Section
+             17021.6 requires employee housing consisting of no more than 12 units or 36 beds
+             to be permitted in the same manner as other agricultural uses in the same zone.
+             The element use includes a program to address farmworker housing.
+
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                 Page 8
+October 14, 2021
+         •   Manufactured Housing: The element should describe how the City permits mobile
+             homes. In addition, the element must also describe whether mobile homes on a
+             permanent foundation are treated as a single-family home.
+
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land-use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis shall
+         also demonstrate local efforts to remove governmental constraints that hinder the
+         locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7). Transitional housing and supportive housing shall
+         be considered a residential use of property and shall be subject only to those
+         restrictions that apply to other residential dwellings of the same type in the same zone.
+         (Gov. Code, § 65583, subd. (a)(5).)
+
+         Land-Use Controls: The element must identify and analyze all relevant land-use
+         controls impact as potential constraints on a variety of housing types (e.g., multifamily
+         rental housing, mobilehomes, transitional housing). The analysis must also evaluate
+         the cumulative impacts of land-use controls on the cost and supply of housing,
+         including the ability to achieve maximum densities and cost and supply of housing. The
+         analysis should also describe past or current efforts to remove identified governmental
+         constraints and the element should include programs to address or remove the
+         identified constraints. The element must address the following:
+
+         •   The element should describe the development standards imposed on multifamily
+             homes.
+         •   Policy LU 1.4 lists densities based on population density per acre as well as dwelling
+             units per acre. The element must analyze how the population density requirement is
+             determined for a project, how it interacts with the dwelling unit per acre standard,
+             and weather it acts as a development cap for proposed projects.
+         •   Mixed Use Zones: Policy LU-6.1 (Page IV-79) states that a mixed-use area must be
+             at least 10 acres of land. The element must address whether this criteria constrains
+             any of the mixed-use areas identified in the inventory or if it is general guidance. The
+             element should also clarify the highest density allowed in residential zones and if
+             100 percent residential or 100 percent commercial allowed in the MU zone.
+         •   The element lists development standards the studio, 1-bedroom, and 2-bedroom
+             units for the SCHD Zoning District but does not describe any development standards
+             for single-family homes. The element should describe the standards for single-family
+             homes as well as describe the location of the SCHD zoning district within the City.
+         •   Table IV-3 should indicate if three-story buildings are allowed in each zone that
+             allows for multifamily developments (p. IV-81) and should also identify if the 35-ft
+             maximum height is applicable in the specific plan areas with high densities.
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                   Page 9
+October 14, 2021
+         •   The element should indicate if there are minimum unit sizes other than in the specific
+             plan (listed at 500 square feet).
+         •   The element should analyze the three-car garage requirement for single family
+             homes with four or more bedrooms as a constraint and the two space requirement
+             for multifamily development within the R-3 zone (Page IV-88). The element should
+             also specify the parking garage requirements in the R-2 zone and analyze for
+             constraints. Should the analysis determine the parking standards or permit
+             procedures are a constraint on residential development, it must include a program to
+             address or remove any identified constraints.
+
+         Fees and Exaction: The element must describe all required fees for single-family and
+         multifamily housing development, including impact fees, and analyze their impact as
+         potential constraints on housing supply and affordability. For example, the analysis
+         could identify the total amount of fees and their proportion to the development costs for
+         both single-family and multifamily housing as well as their cumulative impact on the
+         development of housing. For additional information and a sample analysis and tables,
+         see the Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/constraints/fees-and-exactions.shtml.
+
+         Zoning and Fees Transparency: The element must clarify its compliance with new
+         transparency requirements for posting all zoning and development standards and
+         associated fees for each parcel on the jurisdiction’s website pursuant to Government
+         Code section 65940.1(a)(1).
+
+         SB 35 Streamlined Ministerial Approval Process: The element must include a program
+         to adhere to the SB 35 Ministerial Approval Process for development projects that meet
+         specific requirements.
+
+         Local Processing and Permit Procedures: While the element describes some permit
+         procedures, it failed to describe the site plan approval and planned development
+         processes, as well as processing time for variances. The element also indicates that
+         plans are approved at the discretion of the Director, which could be a constraint and
+         needs additional analysis on the level of certainty for approval. The element must
+         describe and analyze the City’s permit processing and approval procedures by zone
+         and housing type (e.g., multifamily rental housing, mobilehomes, housing for
+         agricultural employees, supportive housing). The analysis must evaluate the
+         processing and permit procedures’ impacts as potential constraints on housing supply
+         and affordability. For example, the analysis should consider processing and approval
+         procedures and time for typical single- and multi-family developments, including type of
+         permit, level of review, approval findings and any discretionary approval procedures.
+         For additional information and sample analysis, see the Building Blocks at
+         http://www.hcd.ca.gov/community-development/building-blocks/constraints/processing-
+         permitting-procedures.shtml.
+
+         Design Review: The element must describe and analyze the design review guidelines
+         and process, including approval procedures and decision-making criteria, for their
+         impact as potential constraints on housing supply and affordability. For example, the
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                 Page 10
+October 14, 2021
+         analysis could describe required findings and discuss whether objective standards and
+         guidelines improve development certainty and mitigate cost impacts. The element must
+         demonstrate this process is not a constraint or it must include a program to address
+         this permitting requirement, as appropriate.
+
+         On/Off-Site Improvements: The element must identify subdivision level improvement
+         requirements, such as minimum street widths (e.g., 40-foot minimum street width) and
+         analyze their impact as potential constraints on housing supply and affordability.
+
+         Codes and Enforcement: The element must describe the City’s building and zoning
+         code enforcement processes and procedures, including any local amendments to the
+         building code, and analyze their impact as potential constraints on housing supply and
+         affordability.
+
+         Constraints on Housing for Persons with Disabilities: The element must include an
+         analysis of zoning, development standards, building codes, and process and permit
+         procedures as potential constraints on housing for persons with disabilities. For
+         example, the analysis must describe any spacing or concentration requirements for
+         housing for persons with disabilities. The element must also demonstrate the City has
+         a reasonable accommodation procedure for providing exception in zoning and land
+         use or include a program to do so. (Gov. Code, § 65583, subd. (c)(1)(3).)
+
+         In addition, the element currently details that residential care facilities and group
+         homes are permitted in all residential zones. However, the element should clarify if
+         residential care facilities and group home of all sizes are permitted or just 6 or fewer
+         residents. Additionally, the element should discuss if group homes are also allowed in
+         mixed use zones and describe how group homes of seven or more are allowed. The
+         element should analyze the process as a potential constraint on housing for persons
+         with disabilities and add or modify programs as appropriate to ensure zoning permits
+         group homes objectively with approval certainty.
+
+         Local Ordinances: The element must specifically analyze locally adopted ordinances
+         such as inclusionary ordinances or short-term rental ordinances that directly impact
+         the cost and supply of residential development. The analysis should demonstrate local
+         efforts to remove governmental constraints that hinder the locality from meeting its
+         share of the regional housing need and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters.
+
+      5. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a
+         locality’s share of the regional housing need in accordance with Government Code
+         section 65584. The analysis shall also demonstrate local efforts to remove
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                   Page 11
+October 14, 2021
+          nongovernmental constraints that create a gap between the locality’s planning for the
+          development of housing for all income levels and the construction of that housing.
+          (Gov. Code, § 65583, subd. (a)(6).)
+
+          The element must be revised to include analysis of requests to develop housing at
+          densities below those anticipated, and the length of time between receiving approval
+          for a housing development and submittal of an application for building permits that
+          potentially hinder the construction of a locality’s share of the regional housing need.
+          The element must also identify local efforts to address nongovernmental constraints
+          that create a gap in the jurisdiction’s ability to meet RHNA by income category.
+
+      6. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+
+          While the element quantifies the City’s special needs populations, it must also analyze
+          their special housing needs. For a complete analysis of each population group, the
+          element should discuss challenges faced by the population, the existing resources to
+          meet those needs (availability senior housing units, # of large units, # of deed
+          restricted units, etc.,), an assessment of any gaps in resources, and proposed
+          policies, programs, and funding to help address those gaps.
+
+          Farmworkers: The element must quantify the number of permanent and seasonal
+          farmworkers in the City, for example data obtained from the USDA agricultural census.
+          In addition, the element must demonstrate the zoning is consistent with the Employee
+          Housing Act (Health and Safety Code, § 17000 et seq.), specifically, sections 17021.5
+          and 17021.6. Section 17021.5 requires employee housing for six or fewer employees
+          to be treated as a single-family structure and permitted in the same manner as other
+          dwellings of the same type in the same zone. Section 17021.6 requires employee
+          housing consisting of no more than 12 units or 36 beds to be permitted in the same
+          manner as other agricultural uses in the same zone.
+
+          Homelessness: While the element includes a current local estimate of the number
+          homeless individuals and families in need of emergency shelter, the element should
+          clarify if the 85 homeless count are all unsheltered or if that number includes sheltered
+          homeless persons or families. Information regarding homeless individuals and families
+          within the community can be found by contacting local Continuum of Care or service
+          providers. When possible, the estimate should be divided into single males, single
+          females, and families (one or more adults with children) as the shelter needs of each
+          subgroup differ significantly.
+
+C.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                  Page 12
+October 14, 2021
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Government Code section 65583,
+          subdivision (c)(1-6), and to facilitate implementation, programs should include: (1) a
+          description of the City’s specific role in implementation; (2) definitive implementation
+          timelines; (3) objectives, quantified where appropriate; and (4) identification of
+          responsible agencies and officials. Programs to be revised include the following:
+
+          •   Program 1 (Code Enforcement and Housing Rehab) should indicate a specific
+              implementation timeline. It should also describe what actions to City commits to
+              taking, its outreach process, and how frequently the City will apply for funds
+              throughout the planning period (p. V-119).
+          •   Specific implementation timelines must be included for programs 4 (Residential
+              Energy Conservation), 6 (Developer Partnership Program), 9 (Housing Choice
+              Voucher/Section 8), 10 (Los Angeles County Partnership) and 11 (First-time
+              Homebuyer Program), 15 (Residential Density Bonus Ordinance) (p. V-121-128).
+          •   Program 5 (Housing Opportunity Sites) needs to be strengthened and should
+              provide proactive outreach to developers regarding development incentives (p. V-
+              122).
+          •   Program 7 (Incentives for Large Multifamily Units) should indicate a specific
+              timeline and list the determining factors to qualify for incentives (p. V-123).
+          •   Program 12 (Housing Element Implementation) should indicate a specific
+              timeframe and describe the incentives that are in place (p. V-126).
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+          to comply with the requirements of Government Code section 65584.09. Sites shall be
+          identified as needed to facilitate and encourage the development of a variety of types
+          of housing for all income levels, including multifamily rental housing, factory-built
+          housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+          room occupancy units, emergency shelters, and transitional housing.
+          (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding B3, the element does not include a complete site analysis;
+          therefore, the adequacy of sites and zoning were not established. Based on the
+          results of a complete sites inventory and analysis, the City may need to add or revise
+
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                   Page 13
+October 14, 2021
+         programs to address a shortfall of sites or zoning available to encourage a variety of
+         housing types. In addition, the element should be revised as follows:
+
+         Nonvacant Sites Reliance to Accommodate RHNA: As the element relies upon
+         nonvacant sites to accommodate the regional housing need for lower-income
+         households, it should include a program(s) to promote residential development of
+         those sites. The program could commit to provide financial assistance, regulatory
+         concessions, or incentives to encourage and facilitate new, or more intense,
+         residential development on the sites. Examples of incentives include identifying and
+         targeting specific financial resources and reducing appropriate development
+         standards.
+
+    3.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Finding(s) B4 and B5, the element requires a complete analysis of
+         potential governmental and nongovernmental constraints. Depending upon the results
+         of that analysis, the City may need to revise or add programs and address and
+         remove or mitigate any identified constraints.
+
+         Program 13 (Residential Development Standards Review): This program should
+         address constraints in development procedures and include a specific timeframe. It
+         should also address the frequency of which standards will be reviewed (p. V-127).
+
+         Program 16 (Small Lot Consolidation): The program should include a specific
+         timeframe. While the current program commits to promotes itself on a website,
+         stronger action items should be included such as proactive outreach. Additionally, the
+         program should describe what determines eligibility and approval of funding.
+
+         Program 19 (Special Needs Housing): The program must clarify if transitional and
+         supportive housing are allowed in all zones allowing residential, not just residential
+         zones Additionally, implementation to adopt the zoning changes should be sooner in
+         the planning period (p. V-130).
+
+         Program to Mitigate Nongovernmental Constraints: The element must be revised to
+         include a program that mitigates nongovernmental constraints that create a gap in the
+         jurisdictions ability to meet RHNA by income category (Gov. Code, § 65583.2, subd.
+         (c)(3).).
+
+    4.   Promote AFFH opportunities and promote housing throughout the community or
+         communities for all persons regardless of race, religion, sex, marital status, ancestry,
+         national origin, color, familial status, or disability, and other characteristics protected
+         by the California Fair Employment and Housing Act (Part 2.8 (commencing with
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                    Page 14
+October 14, 2021
+         Section 12900) of Division 3 of Title 2), Section 65008, and any other state and federal
+         fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+         Program to AFFH: While the element includes Program 18 which describes how the
+         City responds to fair housing complaints, it must include specific timeframes for
+         outreach and how often workshops will occur throughout the planning period. The
+         element must also include actions that promote AFFH opportunities as stated in
+         Finding B1. For example, the element could include a program committing to
+         implement Government Code section 8899.50(b) which requires the City to administer
+         its programs and activities relating to housing and community development in a
+         manner to AFFH and take no action that is materially inconsistent with its obligation to
+         AFFH. Affirmatively furthering fair housing means taking meaningful actions that,
+         taken together, address significant disparities in housing needs and in access to
+         opportunity, replacing segregated living patterns with truly integrated and balanced
+         living patterns, transforming R/ECAP into areas of opportunity, and fostering and
+         maintaining compliance with civil rights and fair housing laws. Programs should
+         address enhancing housing mobility strategies; encouraging development of new
+         affordable housing in high resource areas; improving place-based strategies to
+         encourage community conservation and revitalization, including preservation of
+         existing affordable housing; and protecting existing residents from displacement. The
+         programs should also include metrics and milestones for evaluating progress on
+         programs, actions, and fair housing results.
+
+    5.   The housing program shall preserve for low-income household the assisted housing
+         developments identified pursuant to paragraph (9) of subdivision (a). The program for
+         preservation of the assisted housing developments shall utilize, to the extent
+         necessary, all available federal, state, and local financing and subsidy programs
+         identified in paragraph (9) of subdivision (a), except where a community has other
+         urgent needs for which alternative funding sources are not available. The program
+         may include strategies that involve local regulation and technical assistance. (Gov.
+         Code, § 65583, subd. (c)(6).)
+
+         Program 3 (Monitor and Preserve Affordable Housing) must go beyond considering an
+         action and should include a definitive implementation timeframe, quantified objectives,
+         and a commitment to include actions regarding state preservation notice law
+         requirements such as outreach to owners (Gov. Code, § 65863.10, 65863.11, and
+         65863.13) (p. V-120).
+
+    6.   Develop a plan that incentivizes and promotes the creation of ADUs that can be
+         offered at affordable rent, as defined in Section 50053 of the Health and Safety Code,
+         for very low, low-, or moderate-income households. For purposes of this paragraph,
+         “accessory dwelling units” has the same meaning as “accessory dwelling unit” as
+         defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, § 65583,
+         subd. (c)(7).)
+
+         Program 8 (ADUs) should be revised, or a new program added to update the City’s
+         ADU ordinance in order to comply with state law within one year of adoption. The
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                Page 15
+October 14, 2021
+          program should also provide incentives to homeowners. Once the ordinance is
+          adopted, it must be submitted to HCD for review and incorporate HCD’s ADU findings
+          on the ordinance. For more information, please consult HCD’s ADU Guidebook,
+          published in December 2020, which provides detailed information on new state
+          requirements surrounding ADU development.
+
+D.   Quantified Objectives
+
+     Establish the number of housing units, by income level, that can be constructed,
+     rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+     & 2).)
+
+     While the element included quantified objectives for the 5th cycle, the element must include
+     quantified objectives for the 6th cycle to establish an estimate of housing units by income
+     category that can be constructed, rehabilitated, and conserved over the planning period.
+
+E.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all
+     economic segments of the community in the development of the housing element, and the
+     element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+     While the element includes a general summary of the public participation process (pages 1-
+     4, C-229), it must also demonstrate diligent efforts were made to involve all economic
+     segments of the community in the development of the housing element. The element could
+     describe the efforts to circulate the housing element among low- and moderate-income
+     households and organizations that represent them and to involve such groups and persons
+     in the element throughout the process; the number of workshops held and the number of
+     attendees at each, and if translation services were available. The element should also
+     summarize the public comments and describe how they were considered and incorporated
+     into the element. In addition, the element should include the date that the draft of the
+     housing element was available on the City’s website to ensure that the public was provided
+     time to review and comment on a draft of the element in advance of submission to HCD.
+     For additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+     development/building-blocks/getting-started/public-participation.shtml.
+
+
+
+
+City of Lynwood’s 6th Cycle Draft Housing Element                                 Page 16
+October 14, 2021

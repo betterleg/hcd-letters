@@ -1,0 +1,14 @@
+{
+  "county": "Butte",
+  "jurisdiction": "Paradise",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2022-04-18",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/butParadiseDraft041822.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/butParadiseDraft041822.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 216555,
+  "text_chars": 16374,
+  "text_empty": false
+}

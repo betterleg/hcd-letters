@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Banning",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-09-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivBanningDraftOut091721.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivBanningDraftOut091721.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 261433,
+  "text_chars": 28605,
+  "text_empty": false
+}

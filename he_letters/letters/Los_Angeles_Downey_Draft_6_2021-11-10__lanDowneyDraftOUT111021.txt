@@ -1,0 +1,545 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+       November 10, 2021
+
+
+
+      Aldo Schindler, Director
+      Community Development Department
+      City of Downey
+      11111 Brookshire Avenue
+      Downey, CA 90241
+
+      Dear Aldo Schindler:
+
+      RE: City of Downey’s 6th Cycle (2021-2029) Draft Housing Element
+
+      Thank you for submitting the City of Downey’s (City) draft housing element received for
+      review on September 15, 2021. Pursuant to Government Code section 65585, subdivision
+      (b), the California Department of Housing and Community Development (HCD) is
+      reporting the results of its review. Our review was facilitated by a conversation on
+      November 8, 2021 with Senior Planner Crystal Landavazo, Associate Planner
+      Irving Anaya, and consultant, Diana Gonzalez, of MIG. In addition, HCD considered
+      comments from Californians for Homeownership pursuant to Government Code section
+      65585, subdivision (c).
+
+      The draft element addresses many statutory requirements; however, revisions will be
+      necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+      The enclosed Appendix describes the revisions needed to comply with State Housing
+      Element Law.
+
+      The City’s statutory deadline to adopt a housing element was October 15, 2021. For your
+      information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a local
+      government fails to adopt a compliant housing element within 120 days of this statutory
+      deadline, then any rezoning to accommodate the Regional Housing Needs Allocation
+      (RHNA), including for lower-income households, shall be completed no later than one
+      year from the statutory deadline. Otherwise, the local government’s housing element will
+      no longer comply with State Housing Element Law, and HCD may revoke its finding of
+      substantial compliance pursuant to Government Code section 65585, subdivision (i).
+
+      Several federal, state, and regional funding programs consider housing element
+      compliance as an eligibility or ranking criterion. For example, the CalTrans Senate Bill
+      (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+      Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+      Local Housing Allocation consider housing element compliance and/or annual reporting
+ Aldo Schindler, Director
+ Page 2
+
+
+
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+We are committed to assist the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Colin Cross, of our staff, at colin.cross@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                       CITY OF DOWNEY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+       Outreach: The element describes outreach efforts for the broader housing element, but it
+       should also incorporate outreach relative to affirmatively furthering fair housing (AFFH).
+       This outreach is particularly important to informing fair housing issues, contributing factors
+       and appropriate goals and actions. Outreach should consider a variety of methods to
+       gather input on the various components of the assessment of fair housing (e.g.,
+       segregation and integration, disparities in access to opportunity, disproportionate housing
+       needs) and may utilize information from the 2020 Analysis of Impediments to Fair
+       Housing Choice.
+
+       Patterns and Trends: The element reports data regarding the patterns of various socio-
+       economic characteristics across all components of the required analysis (e.g.,
+       segregation and integration, access to opportunity, displacement). However, the element
+       should also generally analyze the various socio-economic characteristics. An analysis
+       should generally address patterns at a regional and local level and trends in patterns over
+       time. Patterns at a regional level must compare conditions at the local level to the rest of
+       the region. This analysis should compare the locality at a county level or other regional
+       level such as a Council of Governments, where appropriate, for the purposes of
+       promoting more inclusive communities. Patterns at a local level must address whether
+       certain areas strongly differ from other areas. The analysis should also address any
+       coincidence with other components of the assessment of fair housing and local data and
+       knowledge and other relevant factors as described below.
+
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                           Page 1
+November 10, 2021
+       Disparities in Access to Opportunity: The element reports data from the TCAC/HCD
+       Opportunity maps at a composite level, but it should also separately report and analyze
+       data, patterns and trends related to education, economy and transportation.
+
+       Disproportionate Housing Need, Including Displacement Risk: The element describes
+       displacement relative to tenure; however, it could also consider information from the HCD
+       AFFH Data Viewer and provide analysis as described above, including overlapping
+       coincidence with other components of the assessment of fair housing.
+
+       Local Data and Knowledge: The element should incorporate local data and knowledge of
+       the jurisdiction into the AFFH section. To assist in meeting this requirement, the element
+       should provide local data not captured in regional, state, or federal data analysis,
+       including information obtained through community participation or consultation.
+
+       Other Relevant Factors: The element must include other relevant factors that contribute to
+       fair housing issues in the jurisdiction. For instance, the element can analyze historical
+       land use, zoning, governmental and nongovernmental spending including transportation
+       investments, history of lending practices and demographic trends.
+
+       Sites Inventory: The element discusses identified sites relative to the TCAC/HCD
+       Opportunity Map at a compositive level but should also address the other components of
+       the assessment of fair housing (e.g., segregation and integration, disproportionate
+       housing need, including displacement risk), identified sites by income group and location,
+       magnitude of the impact and any isolation of the RHNA by income group.
+
+       Contributing Factors to Fair Housing Issues: The element should re-visit and prioritize
+       contributing factors to fair housing based on the outcomes of a complete analysis.
+       Contributing factors create, contribute to, perpetuate, or increase the severity of fair
+       housing issues and are fundamental to adequate goals and actions. Examples include
+       community opposition to affordable housing, housing discrimination, land use and zoning
+       laws, lack of regional cooperation, location and type or lack of affordable housing and lack
+       of public or private investment in areas of opportunity or affordable housing choices. The
+       analysis shall result in strategic approaches to inform and connect goals and actions to
+       mitigate contributing factors to affordable housing.
+
+       Strategies and Actions: Goals and actions must significantly seek to overcome
+       contributing factors to fair housing issues. Current program actions include the City’s
+       already existing strategies to provide adequate sites and do not demonstrate a
+       connection to the fair housing issues and contributing factors identified. This is not
+       adequate to satisfy the requirement for specific and meaningful actions. Program actions
+       should be proactive, facilitate meaningful change, and respond directly to the contributing
+       factors to fair housing issues that were identified. Furthermore, the element must include
+       metrics and milestones for evaluating progress on programs, actions, and fair housing
+       results. The element must add and revise programs based on a complete analysis and
+       connect to prioritized contributing factors to fair housing issues.
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                         Page 2
+November 10, 2021
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The City’s RHNA may be reduced by the number of new
+      units built since June 30, 2021, but the element must describe the City’s methodology for
+      assigning these units to the various income groups based on actual sales price or rent
+      level of the units and demonstrate their availability in the planning period. Specifically, the
+      element credits 28 townhomes (12850 Woodruff Avenue), of which 2 will be affordable to
+      very low-income households. However, it must demonstrate affordability as described
+      above. In addition, the element lists 600 approved units, of which 300 are expected to be
+      affordable to very low-income households, from the Rancho Los Amigos South Campus
+      Specific Plan. The element must address the status of these proposed units, including
+      potential availability in the planning period and demonstrate anticipated affordability as
+      described above.
+
+      Realistic Capacity: The methodology for calculating residential capacity on identified sites
+      must account for land use controls, site improvements and typical densities of existing or
+      approved residential developments at a similar affordability level. While the element
+      utilizes various potential unit yields, it must still support these assumptions. For example,
+      for higher-density sites that do not require rezoning, the element assumes 80 percent of
+      potential yield. The element supports this assumption by referring to two high-density
+      developments, one of which dates back to 2014. Further support is needed to justify this
+      assumption. The element does not clarify what zones these two high-density projects were
+      developed in, or whether density bonus projects such as these are typical of residential
+      development in those zones. The element should demonstrate what specific trends,
+      factors, and other evidence led to the assumptions, including a more holistic view of
+      development trends.
+
+      In addition, for sites where zoning allows 100 percent nonresidential uses, this analysis
+      must adjust for the likelihood of 100 percent nonresidential development. For example, the
+      element could describe the underlying zoning, whether 100 percent nonresidential
+      development is allowed in these zones, analyze all development activity in these non-
+      residential zones, how often residential development occurs and adjust residential
+      capacity calculation, policies and program accordingly. The element could also incorporate
+      any relevant programs or policies the City is undertaking to facilitate residential
+      development in zones allowing 100 percent nonresidential uses.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. To address this requirement, the element
+      states that sites were selected based on “potential capacity increase available to property
+      owners” and on location and existing uses (p. 4-8); the element also generally describes
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                            Page 3
+November 10, 2021
+      some existing uses, but it must include analysis to demonstrate the potential for additional
+      development. The analysis should consider factors including the extent to which existing
+      uses may constitute an impediment to additional residential development, the City’s past
+      experience with converting existing uses to higher density residential development, the
+      current market demand for the existing use, an analysis of any existing leases or other
+      contracts that would perpetuate the existing use or prevent redevelopment of the site for
+      additional residential development, development trends, market conditions, and regulatory
+      or other incentives or standards to encourage additional residential development on these
+      sites. For example, the element could clarify what is meant by “potential for intensification”
+      (p. 4-6) and consider additional indicators such as age and condition of the existing
+      structure, presence of expiring leases, expressed developer interest in residential
+      development, low improvement to land value ratio, and other factors.
+
+      In addition, because the housing element relies upon nonvacant sites to accommodate
+      more than 50 percent of the RHNA for lower-income households, it must demonstrate
+      existing uses are not an impediment to additional residential development and will likely
+      discontinue in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) Absent findings
+      (e.g., adoption resolution) based on substantial evidence, the existing uses will be
+      presumed to impede additional residential development and will not be utilized toward
+      demonstrating adequate sites to accommodate the RHNA.
+
+      Small Sites: The element identifies many sites at less than a half-acre. These sites are
+      not eligible absent a demonstration that sites of equivalent size were successfully
+      developed during the prior planning period for an equivalent number of lower-income
+      housing units as projected for the site or unless other evidence is provided. If the
+      inventory indicates some sites can be consolidated it should also provide analysis
+      demonstrating the potential for consolidation. For example, the analysis could describe
+      the City’s role or track record in facilitating small-lot consolidation, policies or incentives
+      offered or proposed to encourage and facilitate lot consolidation, conditions rendering
+      parcels suitable and ready for lot consolidation, or information from the owners of each
+      aggregated site.
+
+      Accessory Dwelling Units (ADUs): The element assumes an average of 125 ADUs per
+      year will be constructed during the planning period, for a total of 1,038 ADUs. The
+      element’s analysis and programs do not support this assumption. Based on HCD records
+      and numbers reported in the element, the City is averaging about 24 ADU permits per year
+      since 2018. To include a realistic estimate of the potential for ADUs, the element must
+      reduce the number of ADUs assumed per year and include analysis, policies and
+      programs as appropriate. The element must commit to monitor ADU production and
+      affordability throughout the course of the planning period and implement additional actions
+      if not meeting target numbers anticipated in the housing element by a certain date.
+      Additional actions, if necessary, should be taken in a timely manner (e.g., within 6
+      months). Finally, if necessary, the degree of additional actions should be in stride with the
+      degree of the gap in production and affordability. For example, if actual production and
+      affordability of ADUs is far from anticipated trends, then rezoning or something similar
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                              Page 4
+November 10, 2021
+      would be an appropriate action. If actual production and affordability is near anticipated
+      trends, then measures like outreach and marketing might be more appropriate.
+
+      Environmental Constraints: While the element generally describes a few environmental
+      conditions within the City, it must describe any known environmental constraints or
+      other conditions that could impact housing development on identified sites in the
+      planning period.
+
+      Infrastructure: The element generally describes infrastructure. However, it must also
+      demonstrate sufficient total water and sewer capacity (existing and planned) to
+      accommodate the regional housing need by community plan area.
+
+      In addition, water and sewer service providers must establish specific procedures to
+      grant priority water and sewer service to developments with units affordable to lower-
+      income households. (Gov. Code, § 65589.7.) The element should discuss compliance
+      with this requirement and if necessary, add or modify programs to establish a written
+      procedure by a date early in the planning period.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+      assistance.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element describes that emergency shelters are permitted
+             in the H-M zone without discretionary action. The element should also describe
+             development standards, including parking requirements, for compliance with
+             statutory requirements. In addition, the element states that no properties are
+             available in the areas zoned to permit emergency shelters. As a result, the element
+             should identify another zone and area to accommodate the need for emergency
+             shelters, including a description of capacity and add or modify Program 2.7
+             (Address Homelessness) to amend zoning as appropriate.
+         •   Employee Housing: The element must demonstrate zoning is consistent with the
+             Employee Housing Act (Health and Safety Code, § 17000 et seq.) or add or modify
+             programs. Specifically, section 17021.5 requires employee housing for six or fewer
+             employees to be treated as a single-family structure and permitted in the same
+             manner as other dwellings of the same type in the same zone. Section 17021.6
+             requires employee housing consisting of no more than 12 units or 36 beds to be
+             permitted in the same manner as other agricultural uses in the same zone.
+
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                          Page 5
+November 10, 2021
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures… (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land-use controls
+      as potential constraints on a variety of housing types, both independently and cumulatively
+      with other land-use controls. Further analysis is needed of the City’s requirements related
+      to heights in multifamily zones, particularly the Downtown Core, and parking requirements.
+      The analysis should address any impacts on cost, supply, housing choice, affordability,
+      timing, approval certainty and ability to achieve maximum densities and include programs
+      to address identified constraints.
+
+      Site Plan Review: The element must analyze the City’s Site Plan Review, including
+      approval procedures and decision-making criteria, for their impact as potential constraints
+      on housing supply, cost and approval certainty. Specifically, certain approval findings,
+      such as that a proposed development should “integrate harmoniously”, prevent “extremes
+      of dissimilarity or monotony”, and focus on the compatibility of the design, appear
+      subjective and should be analyzed as a potential constraint. A full analysis should discuss
+      whether approval findings, standards and guidelines provide for development certainty and
+      impact the cost and timing of approvals. The element must add or modify programs as
+      appropriate to address identified constraints.
+
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning and development standards on the
+      City’s website and include programs if appropriate.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval for
+      a housing development and submittal of an application for building permits for that housing
+      development that hinder the construction of a locality’s share of the regional housing need
+      in accordance with Government Code section 65584… (Gov. Code, § 65583, subd.
+      (a)(6).)
+
+      The element must include analysis of requests to develop housing at densities below
+      those anticipated in the site inventory. The element notes that the City does not
+      discourage developers who choose to develop at lower densities, but it still must analyze
+      any such requests and address any hinderances on the construction of the RHNA.
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                           Page 6
+November 10, 2021
+   5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+      While the element quantifies various special needs groups, it must also analyze those housing
+      needs. The analysis should include, but is not limited to, factors such as household income,
+      tenure, housing types, overpayment, trends, zoning and related strategies, available resources
+      and gaps in addressing housing needs. Local officials, special needs service providers, or
+      City/County social and health service providers may be able to assist with information to
+      complete the analysis. For additional information and a sample analysis, see the Building
+      Blocks at http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/large-
+      families-female-head-household.shtml.
+
+      In addition, to supplement analysis and better formulate policies and programs, the element
+      should also identity and analyze persons with disabilities by type (e.g., ambulatory, vision
+      difficulty, cognitive) and permanent and seasonal farmworkers at a county level (e.g., USDA
+      Agricultural Census).
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, programs must be revised with discrete timelines, objectives and specific and
+      clear commitment to outcomes.
+
+      Programs to be revised with discrete timelines (e.g., annually, Spring 2022) include
+      Programs 1.4 (Accessory Dwelling Units), 1.5 (Density Bonus), 2.1 (Special Needs
+      Housing), 2.3 (Affordable Housing Development Incentives), 2.4 (Affordable Housing
+      Technical Assistance), 2.6 (First-Time Home Buyer Assistance), 2.7 (Address
+      Homelessness), 2.8 (County and Regional Partnerships) and 3.5 (Special Needs
+      Housing Law).
+
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                       Page 7
+November 10, 2021
+      Programs to be revised with objectives include Programs 1.5 (Density Bonus), 2.3
+      (Affordable Housing Development Incentives), 2.6 (First-Time Homebuyer Assistance)
+      and 3.8 (Energy Conservation).
+
+      Programs to be revised with specific and clear commitment to outcomes include:
+
+         •   Program 1.3 (Land Use Policy Changes) commits to revise residential standards, “if
+             needed”; however, the program should specifically commit to making revisions
+             consistent with the feedback of expert practitioners as noted on page 1-8.
+         •   Program 2.2 (Housing for Persons with Disabilities) should go beyond reviewing
+             procedures and revise procedures to ensure objective procedures that promote
+             approval certainty and address barriers to housing for persons with disabilities.
+         •   Program 3.1 (Lot Consolidation) should commit to additional actions given the lack
+             of progress in the prior planning period (p. 5-8) and reliance on small sites.
+         •   Program 3.6 (Definition of Family) commits to evaluate and amend the definition of
+             family if appropriate. Based on the information in the element, the definition of
+             family is a constraint on housing for persons with disabilities and the Program
+             should clearly commit to amend the definition.
+         •   Program 3.9 (Water and Sewer Providers) simply commits to confirm procedures
+             are available for the eight-year planning period. However, confirmation should occur
+             as part of the housing element update and clear commitment should be included to
+             establish procedures, particularly if the City plays a role in granting water and sewer
+             service.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition:
+
+         •   Program 1.1 (Adequate Sites) commits to rezoning and satisfies many
+             requirements, but it should also clarify by-right and minimum densities consistent
+             with Government Code sections 65583.2, subdivisions (h) and (i) and commit to
+
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                          Page 8
+November 10, 2021
+             establish incentives to encourage intended uses consistent with the overlay given
+             allowable uses by the base zoning.
+         •   City-owned Sites: The element should consider a schedule of actions to facilitate
+             development of City-owned site(s). Additional actions include outreach with
+             developers, incentives, fee waivers, priority processing and financial assistance.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A3 and A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element does not contain programs that satisfy the AFFH
+      requirements for specific and meaningful actions to overcome fair housing issues. Based
+      on a complete analysis, the element must add or revise programs.
+
+   5. Develop a plan that incentivizes and promotes the creation of ADUs that can be offered at
+      affordable rent, as defined in Section 50053 of the Health and Safety Code, for very low,
+      low-, or moderate-income households. For purposes of this paragraph, “accessory
+      dwelling units” has the same meaning as “accessory dwelling unit” as defined in paragraph
+      (4) of subdivision (i) of Section 65852.2. (Gov. Code, § 65583, subd. (c)(7).)
+
+      Program 1.4 (Accessory Dwelling Units) generally includes outreach and some other actions
+      but should consider additional commitment to incentives, particularly if the City continues to
+      utilize ADUs toward a significant portion of the RHNA. Examples could include exploring and
+      pursuing funding, modifying development standards and homeowner/applicant assistance
+      tools. In addition, Program 1.4 (Accessory Dwelling Units) should monitor affordability in
+      addition to productions and must commit to take alternative actions beyond incentives if
+      necessary (e.g., rezoning) and by a specified date (e.g., within 6 months).
+
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                         Page 9
+November 10, 2021
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   HCD understands the City made the element available to the public two weeks prior its
+   submittal to HCD. By not providing ample opportunity for the public to review and comment on
+   a draft of the element in advance of submission, the City has not yet complied with statutory
+   mandates to make a diligent effort to encourage the public participation in the development of
+   the element. This reduces HCD’s ability to consider public comments in its review. The
+   availability of the document to the public and opportunity for public comment prior to submittal
+   to HCD is essential to the public process and HCD’s review. The City must proactively make
+   future revisions available to the public, including any commenters, prior to submitting any
+   revisions to HCD and diligently consider and address comments, including making revisions
+   to the document where appropriate. HCD’s future review will consider the extent to which the
+   revised element documents how the City solicited, considered, and addressed public
+   comments in the element. The City’s consideration of public comments must not be limited by
+   HCD’s findings in this review letter.
+
+
+
+
+City of Downey’s 6th Cycle Draft Housing Element                                         Page 10
+November 10, 2021

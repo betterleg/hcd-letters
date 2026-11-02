@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Monrovia",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-08-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanMonroviaDraftout082021.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanMonroviaDraftout082021.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 259743,
+  "text_chars": 29926,
+  "text_empty": false
+}

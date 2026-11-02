@@ -1,0 +1,14 @@
+{
+  "county": "Marin",
+  "jurisdiction": "Novato",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-04-12",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/MarNovatoDraftOut041223.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/MarNovatoDraftOut041223.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 253531,
+  "text_chars": 38223,
+  "text_empty": false
+}

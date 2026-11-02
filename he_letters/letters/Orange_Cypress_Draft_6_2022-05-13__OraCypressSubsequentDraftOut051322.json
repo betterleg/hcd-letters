@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Cypress",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2022-05-13",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/OraCypressSubsequentDraftOut051322.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/OraCypressSubsequentDraftOut051322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 236466,
+  "text_chars": 16550,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Orange Cove",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-12-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-orange-cove-draft-out-122223.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-orange-cove-draft-out-122223.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 238978,
+  "text_chars": 29986,
+  "text_empty": false
+}

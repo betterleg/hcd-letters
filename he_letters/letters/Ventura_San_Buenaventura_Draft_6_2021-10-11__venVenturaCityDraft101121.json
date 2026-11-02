@@ -1,0 +1,25 @@
+{
+  "county": "Ventura",
+  "jurisdiction": "San Buenaventura",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venVenturaCityDraft101121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venVenturaCityDraft101121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 298399,
+  "text_chars": 39125,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "county": "Ventura",
+      "jurisdiction": "Ventura",
+      "type": "Draft",
+      "cycle": "6",
+      "reviewed": "2021-10-11",
+      "linktext": "Click to Download Letter",
+      "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/venVenturaCityDraft101121.pdf"
+    }
+  ]
+}

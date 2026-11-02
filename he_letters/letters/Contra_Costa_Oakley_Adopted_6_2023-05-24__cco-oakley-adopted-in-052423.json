@@ -1,0 +1,14 @@
+{
+  "county": "Contra Costa",
+  "jurisdiction": "Oakley",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-05-24",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/cco-oakley-adopted-in-052423.pdf",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/cco-oakley-adopted-in-052423.pdf",
+  "fetched_from": "hcd_website_fallback",
+  "pdf_bytes": 194999,
+  "text_chars": 5864,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Modoc",
+  "jurisdiction": "Alturas",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2020-03-10",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/monAlturas03102020.pdf",
+  "source_url": "https://www.hcd.ca.gov/community-development/housing-element/docs/modAlturas03102020.pdf",
+  "fetched_from": "url_override",
+  "pdf_bytes": 161966,
+  "text_chars": 3158,
+  "text_empty": false
+}

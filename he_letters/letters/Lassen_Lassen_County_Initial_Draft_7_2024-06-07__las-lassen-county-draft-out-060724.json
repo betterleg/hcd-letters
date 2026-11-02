@@ -1,0 +1,14 @@
+{
+  "county": "Lassen",
+  "jurisdiction": "Lassen County",
+  "type": "Initial Draft",
+  "cycle": "7",
+  "reviewed": "2024-06-07",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/las-lassen-county-draft-out-060724.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/las-lassen-county-draft-out-060724.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 221620,
+  "text_chars": 18568,
+  "text_empty": false
+}

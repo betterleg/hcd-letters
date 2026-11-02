@@ -1,0 +1,14 @@
+{
+  "county": "Sutter",
+  "jurisdiction": "Live Oak",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-06-09",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sut-live-oak-adopted-in-060926-068cs000026oayMAAQ.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sut-live-oak-adopted-in-060926-068cs000026oayMAAQ.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 146628,
+  "text_chars": 4273,
+  "text_empty": false
+}

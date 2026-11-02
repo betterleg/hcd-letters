@@ -1,0 +1,634 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 13, 2021
+
+
+
+         Anna Pehoushek, Assistant Community Development Director
+         Planning Division
+         City of Orange
+         300 E. Chapman Ave.
+         Orange, CA 92866
+
+         Dear Anna Pehoushek:
+
+         RE: Review of the City of Orange’s 6th Cycle (2019-2021) Draft Housing Element
+
+         Thank you for submitting the City of Orange’s draft housing element received for review on
+         July 15, 2021. Pursuant to Government Code section 65585, subdivision (b), the California
+         Department of Housing and Community Development (HCD) is reporting the results of its
+         review. Our review was facilitated by a telephone conversation on September 9, 2021 with
+         you, Senior Planner Chad Ortlieb, and the City’s consultants Nick Chen and Ines Galmiche of
+         Kimley-Horn. In addition, HCD considered comments from the Kennedy Commission; the
+         Law Office of Richard L. Spix; and Elder Law & Disability Rights Center pursuant to
+         Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). The
+         enclosed Appendix describes these, and other revisions needed to comply with State
+         Housing Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element within
+         120 calendar days from the statutory due date of October 15, 2021 for Southern California
+         Association of Governments (SCAG) localities. If adopted after this date, Government Code
+         section 65588, subdivision (e)(4), requires the housing element be revised every four years
+         until adopting at least two consecutive revisions by the statutory deadline. For more
+         information on housing element adoption requirements, please visit HCD’s website at:
+         http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+         memos/docs/sb375_final100413.pdf.
+
+         For your information, some general plan element updates are triggered by housing
+         element adoption. HCD reminds the County to consider timing provisions and welcomes
+         the opportunity to provide assistance. For information, please see the Technical
+         Advisories issued by the Governor’s Office of Planning and Research at:
+Anna Pehoushek, Assistant Community Development Director
+Page 2
+
+
+
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+Public participation in the development, adoption and implementation of the housing element
+is essential to effective housing planning. Throughout the housing element process, the City
+should continue to engage the community, including organizations that represent lower-
+income and special needs households, by making information regularly available and
+considering and incorporating comments where appropriate.
+
+Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+standards, forms, and definitions adopted by HCD when preparing the sites inventory. Please
+see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+development/housing-element/index.shtml for a copy of the form and instructions. The City
+can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance. Upon adoption
+of the housing element, the City must submit an electronic version of the sites inventory with
+its adopted housing element to sitesinventory@hcd.ca.gov.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Mashal Ayobi, of our staff, at Mashal.Ayobi@hcd.ca.gov or (916) 776-7421.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+Enclosure
+                                                   APPENDIX
+                                                CITY OF ORANGE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s latest
+technical assistance tool, Building Blocks for Effective Housing Elements (Building Blocks),
+available at http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and
+includes the Government Code addressing State Housing Element Law and other resources.
+A.      Review and Revision
+        Review the previous element to evaluate the appropriateness, effectiveness, and
+        progress in implementation, and reflect the results of this review in the revised element.
+        (Gov. Code, § 65588 (a) and (b).)
+
+        As part of the evaluation of programs in the past cycle (Appendix A: 5th Cycle Review),
+        the element must provide an explanation of the effectiveness of goals, policies, and
+        related actions in meeting the housing needs of special needs populations (e.g., elderly,
+        persons with disabilities, large households, female headed households, farmworkers and
+        persons experiencing homelessness).
+B.      Housing Needs, Resources, and Constraints
+        1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+           (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+           assessment of fair housing in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+            The element includes information on pages H-79 to H-85 on AFFH. However,
+            additional information is required as follows:
+
+            Enforcement and Outreach: The element must include the City’s ability to provide
+            enforcement and outreach capacity at a geographic level. Page 28 of the AFFH
+            Guidance Memo 1 states, “Wherever possible, the summary should include a
+            discussion of fair housing enforcement and outreach (FHEO) at a geographic level
+            appropriate to better determine any locational trends—simply reporting information at
+            a city-wide level will not fully display patterns and impacts on protected
+            characteristics. Examples of appropriate geographic levels include census tracts,
+            block groups, neighborhoods, housing development, or any other sub-section of a
+            locality.” Additionally, there are some missing required pieces of the FHEO section:
+
+              •   Lawsuits
+              •   Enforcement actions
+
+1
+    HCD’s AFFH Guidance Memo: https://hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-2021.pdf
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                                   Page 1
+September 13, 2021
+         •   Settlements
+         •   Judgments related to fair housing or civil rights
+
+        Pursuant to page 29 of the AFFH Guidance Memo, the element should include a
+        description of state and local fair housing laws and how the locality complies with
+        these laws. This page gives an example list of state and local fair housing laws.
+
+        Integration and Segregation: The housing element only analyzes integration/segregation
+        patterns & trends for race and ethnicity. Per page 31 of the AFFH Guidance Memo, “At
+        minimum, the analysis must discuss levels of segregation and integration for race and
+        ethnicity, income, familial status, persons with disabilities, and identify the groups that
+        experience the highest levels of segregation.”
+
+        Racially/Ethnically Concentrated Areas of Poverty (R/ECAP): While there are no
+        R/ECAPs in the jurisdiction, the element must describe whether there are any
+        Racially Concentrated Areas of Affluence (RCAAs). Page 33 of the AFFH Guidance
+        Memo gives more information about RCAAs.
+
+        Disproportionate Housing Needs: The element needs a disproportionate housing
+        needs analysis on homelessness. Please refer to page 39 of the AFFH Guidance
+        Memo for more information on this.
+
+        Access to Opportunity: The element discusses the overall high/low opportunity
+        indicators based on census tract but doesn’t give an in-depth discussion of the
+        opportunity variables nor compare to Opportunities at a regional level. Please refer to
+        page 35 of the AFFH Guidance Memo for more info to include to strengthen this
+        section.
+
+        In addition, the element is missing an analysis on Disparities in Access to Opportunity
+        for Persons with Disabilities. Pages 36-38 of the AFFH Guidance Memo give more
+        information on what’s required for this part of the analysis.
+
+        Contributing Factors: On pages 3-82 of the housing element, it mentions that the
+        County’s Analysis of Impediments (AI) identifies the regional goals for mitigating
+        impediments to fair housing. However, the City must create its own list of contributing
+        factors resulting from the AFFH analysis and must prioritize them. Per page 49 of the
+        AFFH Guidance Memo, “The housing element must include an identification and
+        prioritization of significant contributing factors to segregation, racially or ethnically
+        concentrated areas of poverty, disparities in access to opportunity, and
+        disproportionate housing needs.”
+
+        Local Data and Knowledge and Other Relevant Factors: The element generally does
+        not address this requirement. Although the element provides some data in the areas
+        of Fair Housing Enforcement and Capacity, Segregation and Integration,
+        Racially/Ethnically Concentrated Areas of Poverty (R/ECAP), Access to Opportunity,
+        and Disproportionate Housing Needs and Displacement Risk, the City’s analysis for
+        each of these areas must also be informed by regional and local data and knowledge
+        from stakeholders within the City. For example, the analysis could utilize outreach as
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                     Page 2
+September 13, 2021
+        described above through surveys, interviews, etc. from local non-profit organizations
+        and advocacy groups engaged in housing issues. In addition, the element must
+        include other relevant factors that contribute to fair housing issues in the jurisdiction.
+        For instance, the element can analyze historical governmental and nongovernmental
+        land use, zoning, and investment practices (e.g., infrastructure) or other information
+        and demographic trends.
+
+        Sites Inventory: The element discusses the proposed number of sites and units
+        relative to racial segregation (p. 3-84) but must also address other components of the
+        assessment of fair housing (e.g., R/ECAP, Access to Opportunity, Disproportionate
+        Housing Need, including Displacement). The analysis must also include discussion of
+        all regional housing needs allocation (RHNA) categories, including above moderate-
+        income households, in relation to areas with a higher proportion of white residents
+        and higher median incomes and address how the sites are identified to improve
+        conditions (or if sites exacerbate conditions, how a program can mitigate the impact),
+        whether the sites are isolated by income group and should be supported by local data
+        and knowledge.
+
+        Goals, Priorities, Metrics, and Milestones: The element must be revised to add or
+        modify goals and actions based on the outcomes of a complete analysis. Goals and
+        actions must specifically respond to the analysis and to the identified and prioritized
+        contributing factors to fair housing issues and must be significant and meaningful
+        enough to overcome identified patterns and trends. Actions must have metrics and
+        milestones as appropriate and must address housing mobility enhancement, new
+        housing choices and affordability in high opportunity areas, place-based strategies for
+        community preservation and revitalization and displacement protection.
+
+    2. Include an analysis and documentation of household characteristics, including level
+       of payment compared to ability to pay, housing characteristics, including
+       overcrowding, and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+        The element identifies the age of the housing stock (p. 2-32). However, this data is
+        insufficient to estimate the number of units in need of rehabilitation and replacement.
+        The analysis could supplement this information with estimates from a recent
+        windshield survey or sampling, estimates from the code enforcement agency, or
+        information from knowledgeable builders/developers, including non-profit housing
+        developers or organizations. For additional information, see the Building Blocks at
+        http://www.hcd.ca.gov/community-development/building-blocks/housing-
+        needs/housing-stock-characteristics.shtml.
+
+    3. An inventory of land suitable and available for residential development, including
+       vacant sites and sites having realistic and demonstrated potential for redevelopment
+       during the planning period to meet the locality’s housing need for a designated
+       income level, and an analysis of the relationship of zoning and public facilities and
+       services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+        The City has a RHNA of 3,936 housing units, of which 1,671 are for lower-income
+        households. To address this need, the element relies on sites that are residentially
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                       Page 3
+September 13, 2021
+        zoned or in a mixed-use zone that permits residential uses. To demonstrate the
+        adequacy of these sites and strategies to accommodate the City’s RHNA, the
+        element must include complete analyses:
+
+        Realistic Capacity: For sites in commercial and mixed-use zones, the element must
+        consider the likelihood of residential development of the estimated number of
+        residential units determined for each site. To demonstrate the likelihood for
+        residential development in nonresidential zones, the element could describe any
+        performance standards mandating a specified portion of residential and any factors
+        increasing the potential for residential development such as incentives for residential
+        use, and residential development trends in the same nonresidential zoning districts.
+        For additional information, see the Building Blocks at
+        http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+        analysis/analysis-of-sites-and-zoning.shtml#zoning.
+
+        Suitability of Nonvacant Sites: While the element provides a description of existing
+        uses on nonvacant and underutilized sites, the element needs to also analyze the
+        extent that existing uses may impede additional residential development. For
+        example, the element includes sites owned by the Regents of the University of
+        California, shopping and commercial centers with active retail, and an Outlet Mall.
+        The element can summarize past experiences converting existing uses to higher
+        density residential development, include current market demand for the existing use,
+        provide analysis of existing leases or contracts that would perpetuate the existing use
+        or prevent additional residential development and include current information on
+        development trends and market conditions in the City and relate those trends to the
+        sites identified. The element could also consider indicators such as age and condition
+        of the existing structure expressed developer interest, low improvement to land value
+        ratio, and other factors. In addition, the element should indicate if the sites owned by
+        the Regents of the University of California are expected to be put on a surplus list or if
+        conversations with the Regents have occurred related to potential residential
+        development of this site.
+
+        For your information, if the housing element relies upon nonvacant sites to
+        accommodate more than 50 percent of the RHNA for lower-income households, the
+        housing element must demonstrate that the existing use is not an impediment to
+        additional residential development in the planning period (Gov. Code, § 65583.2,
+        subd. (g)(2).). This can be demonstrated by providing substantial evidence that the
+        existing use is likely to be discontinued during the planning period (Gov. Code, §
+        65583.2, subd. (g)(2).
+
+        Large Sites: The 1547 W Katella Ave site is 13.37 acres, and 1 City Blvd West is
+        11.30 acres. Sites larger than ten acres in size are deemed inadequate to
+        accommodate housing for lower-income housing unless it is demonstrated that sites
+        of equivalent size were successfully developed during the prior planning period for an
+        equivalent number of lower-income housing units as projected for the site or unless
+        the housing element describes other evidence to HCD that the site is adequate to
+        accommodate lower-income housing (Gov. Code, § 65583.2, subd. (c)(2)(A).). As
+
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                      Page 4
+September 13, 2021
+        part of this analysis the element could indicate if a part or whole of the site will be
+        developed and how the site is expected to be redeveloped.
+
+        Accessory Dwelling Units (ADU): The element projects 320 ADUs over the planning
+        period or approximately 40 ADUs per year over the eight-year planning period.
+        According to HCD records, ten units were permitted in 2018, ten were permitted in
+        2019, and 39 permitted in 2020. These trends do not support an assumption of 40
+        ADUs per year. To support assumptions for ADUs in the planning period, the
+        element should reconcile trends with HCD records, adjust assumptions as
+        appropriate and include additional information such as more recent permitted units
+        and inquiries, resources and incentives, other relevant factors and modify policies
+        and programs as appropriate.
+
+        Sites with Zoning for a Variety of Housing Types:
+
+        Emergency Shelters: While the element notes emergency shelters are allowed in the
+        M-1 and M-2 zones, it must demonstrate the City still has sufficient capacity to
+        accommodate the identified housing need for emergency shelters and evaluate the
+        available acreage for characteristics like parcel size or potential redevelopment or
+        reuse opportunities, proximity to services and describe development standards.
+
+        Accessory Dwelling Units: The element should clarify whether ADUs are permitted in
+        all zones that allow residential uses. Table 3-6 on page 3-22 appears to indicate that
+        ADUs are only allowed in single family residential zones.
+
+    4. An analysis of potential and actual governmental constraints upon the maintenance,
+       improvement, or development of housing for all income levels, including the types of
+       housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+       as identified in the analysis pursuant to paragraph (7), including land use controls,
+       building codes and their enforcement, site improvements, fees and other exactions
+       required of developers, and local processing and permit procedures. The analysis
+       shall also demonstrate local efforts to remove governmental constraints that hinder
+       the locality from meeting its share of the regional housing need in accordance with
+       Government Code section 65584 and from meeting the need for housing for persons
+       with disabilities, supportive housing, transitional housing, and emergency shelters
+       identified pursuant to paragraph (7). Transitional housing and supportive housing
+       shall be considered a residential use of property and shall be subject only to those
+       restrictions that apply to other residential dwellings of the same type in the same
+       zone. (Gov. Code, § 65583, subd. (a)(5).)
+
+        Processing and Permitting Procedures: While the element describes the application
+        process, it must describe and analyze the City permit processing and approval
+        procedures by zone and housing type (e.g., multifamily rental housing, mobilehomes,
+        housing for agricultural employees, supportive housing). The analysis must evaluate
+        the processing and permit procedures’ impacts as potential constraints on housing
+        supply and affordability. For example, the analysis should consider processing and
+        approval procedures and time for typical single- and multi-family developments,
+
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                       Page 5
+September 13, 2021
+        including type of permit, level of review, approval findings and any discretionary
+        approval procedures.
+        Design Review: The element must describe and analyze the design review guidelines
+        and process, including approval procedures and decision-making criteria, for their
+        impact as potential constraints on housing supply and affordability. For example, the
+        analysis could describe required findings and discuss whether objective standards
+        and guidelines improve development certainty and mitigate cost impacts. The
+        element must demonstrate this process is not a constraint or it must include a
+        program to address this permitting requirement, as appropriate.
+        Zoning and Fees Transparency: The element must clarify its compliance with new
+        transparency requirements for posting all zoning and development standards for each
+        parcel on the jurisdiction’s website pursuant to Government Code section 65940.1,
+        subdivision (a), paragraph (1).
+        Constraints on Housing for Persons with Disabilities: The element currently details
+        that residential care facilities serving six or fewer persons are permitted in all
+        residential zones. However, residential care facilities serving seven or more persons
+        are limited to the same zones with the approval of a conditional use permit. The
+        element should analyze the process as a potential constraint on housing for persons
+        with disabilities and add or modify programs as appropriate to ensure zoning permits
+        group homes objectively with approval certainty.
+        Local Ordinances: The element must specifically analyze locally adopted ordinances
+        such as inclusionary ordinances or short-term rental ordinances that directly impact
+        the cost and supply of residential development. The analysis should demonstrate
+        local efforts to remove governmental constraints that hinder the locality from meeting
+        its share of the regional housing need and from meeting the need for housing for
+        persons with disabilities, supportive housing, transitional housing, and emergency
+        shelters.
+    5. An analysis of potential and actual nongovernmental constraints upon the
+       maintenance, improvement, or development of housing for all income levels,
+       including the availability of financing, the price of land, the cost of construction, the
+       requests to develop housing at densities below those anticipated in the analysis
+       required by subdivision (c) of Government Code section 65583.2, and the length of
+       time between receiving approval for a housing development and submittal of an
+       application for building permits for that housing development that hinder the
+       construction of a locality’s share of the regional housing need in accordance with
+       Government Code section 65584. The analysis shall also demonstrate local efforts to
+       remove nongovernmental constraints that create a gap between the locality’s
+       planning for the development of housing for all income levels and the construction of
+       that housing. (Gov. Code, § 65583, subd. (a)(6).)
+        The element must be revised to include analysis of requests to develop housing at
+        densities below those anticipated, and the length of time between receiving approval
+        for a housing development and submittal of an application for building permits that
+        potentially hinder the construction of a locality’s share of the regional housing need.
+        The analysis must also include an analysis regarding local efforts to address
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                    Page 6
+September 13, 2021
+        nongovernmental constraints.
+    6. Analyze any special housing needs such as elderly; persons with disabilities,
+       including a developmental disability; large families; farmworkers; families with female
+       heads of households; and families and persons in need of emergency shelter. (Gov.
+       Code, § 65583, subd. (a)(7).)
+        While the element quantifies the City’s special needs populations, it must also
+        analyze their special housing needs. The element does not include analysis of
+        available resources nor draw any conclusions on housing need that would lead
+        towards programs. For a complete analysis of each population group, the element
+        should discuss challenges faced by the population, the existing resources to meet
+        those needs (e.g., availability senior housing units, number of large units, number of
+        deed restricted units, etc.), an assessment of any gaps in resources, and proposed
+        policies, programs, and funding to help address those gaps. In particular, the element
+        should analyze and address how the City is addressing the housing and service
+        needs of the 341 persons identified as experiencing homelessness. It is HCD’s
+        understanding that the City is terminating its contract with Mary’s Kitchen which
+        provides meals and other services within the City of Orange. The element should
+        discuss how the City will be replacing these services or filling the needs gap resulting
+        from the of loss of Mary’s Kitchen within the City.
+    7. Analyze existing assisted housing developments that are eligible to change to non-
+       low-income housing uses during the next ten years due to termination of subsidy
+       contracts, mortgage prepayment, or expiration of use restrictions. (Gov. Code, §
+       65583, subd. (a)(9) through 65583(a)(9)(D).)
+        According to the California Housing Partnership, four properties that are at-risk:
+        Friendly Center (8 units), Casas Del Rio (40 units), Walnut-Pixley (Site A) (22 units),
+        and the Knolls Apartments (260 units) of converting to market rate within a ten-year
+        period. As a result, the element must provide an analysis on units identified as at-risk
+        of converting to market-rate housing. The analysis of “at-risk” units must include the
+        following (Gov. Code, § 65583, subd. (a)(9).):
+         •   Listing of each development by project name and address
+         •   Type of governmental assistance received
+         •   Earliest date of change from low-income use
+         •   Total number of elderly and non-elderly units
+         •   Estimated total cost for producing, replacing, and preserving the units at-risk
+         •   Identification of public and private non-profit corporations known to the City to
+             have the legal and managerial capacity to acquire and manage at-risk units
+         •   Identification and consideration of use of federal, state, and local financing and
+             subsidy programs.
+        For additional information and sample analysis, see the Building Blocks at
+        http://www.hcd.ca.gov/community-development/building-blocks/housing-
+        needs/assisted-housing-developments.shtml and for more information on identifying
+        units at-risk, see the California Housing Partnership Corporation at
+        http://www.chpc.net.
+
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                     Page 7
+September 13, 2021
+C.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+          Programs must demonstrate that they will have a beneficial impact within the
+          planning period. Beneficial impact means specific commitment to deliverables,
+          measurable metrics or objectives, definitive deadlines, dates, or benchmarks for
+          implementation. Programs containing unclear language (e.g., “Evaluate”;
+          “Consider”; “Encourage”; etc.) should be amended to include more specific and
+          measurable actions. Deliverables should occur early in the planning period to
+          ensure actual housing outcomes.
+          To address the program requirements of Government Code section 65583,
+          subdivision (c)(1-6), and to facilitate implementation, all programs should be revised to
+          include: (1) a description of the City’s specific role in implementation including
+          meaningful actions the city will take to achieve the identified goals, policies, and
+          program objectives; (2) definitive implementation timelines (e.g., December 31, 2024);
+          (3) objectives, quantified where appropriate; and (4) identification of responsible
+          agencies and officials (e.g., Planning Assistant, Community Development, etc.). For
+          example, Policy Action 1A (Acquisition/Rehabilitation of Multifamily Residential
+          Development), Policy Action 2C (Development of Housing for Large Families), 2L
+          (Candidate Sites Used in Previous Housing Elements) all requires specific timeframes
+          for identified actions. In addition, the following programs require additional information:
+          Policy Action 2G (Support Community Housing Development Organization New
+          Construction Projects): The element must describe how the City will seek qualified
+          organizations and more general information on this program.
+          Policy Action 4B (Homeless Services). The Policy Action states the City provides
+          support for navigation centers in Buena Park and Placentia. The element must
+          describe how the City supports these navigation centers and how these navigation
+          centers address and support the housing and service needs of those individuals
+          experiencing homelessness in the City of Orange.
+          Policy Action 4E (Support for Persons with Disabilities): Describe how the City will
+          support housing for persons with disabilities and work with the regional center to
+          promote opportunities for supportive living services.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities
+          to accommodate that portion of the city’s or county’s share of the regional housing
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                      Page 8
+September 13, 2021
+         need for each income level that could not be accommodated on sites identified in
+         the inventory completed pursuant to paragraph (3) of subdivision (a) without
+         rezoning, and to comply with the requirements of Government Code section
+         65584.09. Sites shall be identified as needed to facilitate and encourage the
+         development of a variety of types of housing for all income levels, including
+         multifamily rental housing, factory-built housing, mobilehomes, housing for
+         agricultural employees, supportive housing, single-room occupancy (SRO) units,
+         emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+         As noted in Finding B3, the element does not include a complete site analysis;
+         therefore, the adequacy of sites and zoning were not established. Based on the
+         results of a complete sites inventory and analysis, the City may need to add or
+         revise programs to address a shortfall of sites or zoning available to encourage a
+         variety of housing types. In addition, the element should be revised as follows:
+
+         Policy Action 2E (Facilitate Infill Construction): Provide a specific timeline for
+         evaluating provisions in the Zoning Code for feasibility of providing additional
+         regulatory relief (i.e., streamlined review, reduced and objective development
+         standards, lot consolidations, etc.) In addition, this program could be expanded to
+         provide specific provisions to support development of housing on the sites identified
+         in the inventory including the redevelopment of sites with existing uses identified to
+         accommodate the lower-income RHNA. As existing leases have been identified as
+         a potential constraint to developing the nonvacant sites for the lower-income RHNA,
+         the program could also monitor development on sites with existing leases as it
+         relates to the provision of housing affordable to lower-income households and
+         commit to the provision of additional actions as necessary to facilitate development
+         or identify additional sites.
+
+         Policy Action 2K (Create ADU Monitoring Program): The program states that the
+         City will monitor ADU development progress after 2 years of adopting the 6th cycle
+         housing element and will take action within six months to ensure adequate capacity
+         at each income level. The program should also commit to monitor by affordability
+         assumptions.
+
+    3.   The housing element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and
+         moderate-income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+         Policy Action 2B (Promotion of Affordable Housing) indicates the development of
+         housing for lower- and moderate-income households will be assisted primarily by
+         applying state density bonus law (SDBL). However, in addition to complying with
+         SDBL, the element must include a program(s) describing specific actions the City
+         will take to assist in the development of housing affordable to lower- and moderate-
+         income households, including extremely low-income households (ELI). For
+         example, programs could prioritize some funding for the development of housing
+         affordable to ELI households and offer financial incentives or regulatory
+         concessions to encourage the development of a variety of housing types, such as
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                   Page 9
+September 13, 2021
+         multifamily, SRO units, and supportive housing, to address the identified housing
+         needs for ELI households. The inclusion of specific programs to assist in the
+         development of housing affordable to lower-income households is critical as, per
+         third party comments received from the Kennedy Commission, the number of units
+         affordable to moderate- and above moderate-income households approved in the
+         last seven years was 23 times greater than those approved for low- and very low-
+         income households.
+
+    4.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development
+         of housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd.
+         (c)(3).)
+
+         As noted in Findings B4 and B5, the element requires a complete analysis of
+         potential governmental and nongovernmental constraints. Depending upon the
+         results of that analysis, the City may need to revise or add programs and address
+         and remove or mitigate any identified constraints.
+
+      5. The housing program shall preserve for low-income household the assisted housing
+         developments identified pursuant to paragraph (9) of subdivision (a). The program
+         for preservation of the assisted housing developments shall utilize, to the extent
+         necessary, all available federal, state, and local financing and subsidy programs
+         identified in paragraph (9) of subdivision (a), except where a community has other
+         urgent needs for which alternative funding sources are not available. The program
+         may include strategies that involve local regulation and technical assistance. (Gov.
+         Code, § 65583, subd. (c)(6).)
+
+         The element includes Policy Action 1B (Monitoring and Preservation of “at-risk”
+         Units) to monitor the units and provide technical assistance. However, the element
+         must include specific and proactive actions to preserve the at-risk units. For
+         example, the program could support applications by non-profits for funding to
+         purchase at-risk units, strengthen relationships with the listed non-profits and
+         develop a plan or strategy for quickly moving forward in the case units are noticed
+         to convert to market-rate uses in the planning period, and consider pursuing funding
+         on at least an annual basis. The program could also commit to contacting non-
+         profits immediately to develop a preservation strategy by a date certain and be
+         ready to quickly act when notice of conversion is received and monitoring the units
+         to ensure tenants receive proper notifications.
+
+    6.   Develop a plan that incentivizes and promotes the creation of ADUs that can be
+         offered at affordable rent, as defined in Section 50053 of the Health and Safety
+         Code, for very low, low-, or moderate-income households. For purposes of this
+         paragraph, “accessory dwelling units” has the same meaning as “accessory
+         dwelling unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2.
+         (Gov. Code, § 65583, subd. (c)(7).)
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                 Page 10
+September 13, 2021
+          The element is required to include a program that incentivizes or promotes ADU
+          development for very low-, low-, and moderate-income households. This can take
+          the form of flexible zoning requirements, development standards, or processing and
+          fee incentives that facilitate the creation of ADUs, such as reduced parking
+          requirements, fee waivers and more. Other strategies could include developing
+          information packets to market ADU construction, targeted advertising of ADU
+          development opportunities or establishing an ADU specialist within the planning
+          department.
+
+D.   Quantified Objectives
+
+     Establish the number of housing units, by income level, that can be constructed,
+     rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd.
+     (b)(1 & 2).)
+
+     The element must include quantified objectives to establish an estimate of housing units
+     by individual income category that can be constructed, rehabilitated, and conserved over
+     the planning period.
+
+E.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all
+     economic segments of the community in the development of the housing element, and
+     the element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+     While the element includes a general summary of the public participation efforts, it must
+     also demonstrate diligent efforts were made to involve all economic segments of the
+     community in the development of the housing element. The element should be revised to
+     discuss outreach to lower-income and special needs groups during the public
+     participation efforts, solicitation efforts for survey responses, and participation in
+     community workshops. In addition, the element should also summarize the public
+     comments and describe how they were considered and incorporated into the element.
+     For additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+     development/building-blocks/getting-started/public-participation.shtml.
+
+
+
+
+Review of the City of Orange’s 6th Cycle Draft Housing Element                 Page 11
+September 13, 2021

@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Fowler",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-05-14",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-fowler-draft-out-051424.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-fowler-draft-out-051424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 221983,
+  "text_chars": 8198,
+  "text_empty": false
+}

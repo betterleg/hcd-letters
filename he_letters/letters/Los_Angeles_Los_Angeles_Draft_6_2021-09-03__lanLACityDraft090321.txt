@@ -1,0 +1,535 @@
+-STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 3, 2021
+
+
+
+         Vincent Bertoni, Director
+         Department of City Planning
+         City of Los Angeles
+         Los Angeles City Hall
+         200 North Spring Street, Suite 525
+         Los Angeles, CA 90012
+
+         Dear Vincent Bertoni:
+
+         RE: Review of City of Los Angeles 6th Cycle (2021-2029) Draft Housing Element Update
+
+         Thank you for submitting the City of Los Angeles’ (City) draft housing element received
+         for review on July 7, 2021. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. In addition, HCD considered comments from Abundant Housing
+         LA and YIMBY Law pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes revisions needed to comply with State Housing
+         Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element
+         within 120 calendar days from the statutory due date of October 15, 2021 for Southern
+         California Association of Governments (SCAG) localities. If adopted after this date,
+         Government Code section 65588, subdivision (e)(4), requires the housing element be
+         revised every four years until adopting at least two consecutive revisions by the statutory
+         deadline. For more information on housing element adoption requirements, please visit
+         HCD’s website at: http://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos/docs/sb375_final100413.pdf.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+         Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+         Local Housing Allocation consider housing element compliance and/or annual reporting
+         requirements pursuant to Government Code section 65400. With a compliant housing
+Vincent Bertoni, Director
+Page 2
+
+
+
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+HCD appreciates the dedication and effort of the City’s cross-departmental team
+including Blair Smith, Matthew Glesne, Cally Hardy, Jackie Cornejo, Maya Abood, Nancy
+Twum-Akwaboah and Ann Sewill. We are committed to assist the City in addressing all
+statutory requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact Sohab Mehmood, of our staff, at
+Sohab.Mehmood@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+Enclosure
+                                          APPENDIX
+                                    CITY OF LOS ANGELES
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      The element must include an analysis of the cumulative effectiveness of programs in
+      addressing the housing needs of special needs populations (e.g., elderly, persons with
+      disabilities, large households, female headed households, farmworkers, and persons
+      experiencing homelessness).
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+         The element provides a general overview of AFFH including an analysis on the sites
+         inventory related to fair housing topics (p. 4-27), outreach efforts to all segments of the
+         community, and goals and actions to address fair housing issues. However, it generally
+         does not address this requirement. The element, among other things, must include an
+         assessment of fair housing, identification and prioritization of contributing factors, and
+         goals and actions to address fair housing issues. For further guidance, please visit
+         HCD’s AFFH in California webpage at https://www.hcd.ca.gov/community-
+         development/affh/index.shtml. In addition:
+
+             •   Sites Inventory: The element includes an analysis of whether the identified sites
+                 exacerbate or improve current fair housing conditions related to segregation and
+                 integration and access to economic, educational, and environmental
+                 opportunities (p. 4-27); however, the element should also analyze the sites
+                 relative to access to transportation opportunities. Additionally, the element must
+                 analyze sites related to Racially/Ethnically Concentrated Areas of Poverty
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                   Page 1
+September 3, 2021
+                 (R/ECAP) and affluence and disproportionate housing needs, including
+                 displacement risk. This analysis should also be revised to account for a
+                 complete assessment of fair housing and candidate sites for rezoning.
+             •   Goals, Actions, Metrics, and Milestones: The element must be revised to add or
+                 modify goals and actions based on the outcomes of a complete analysis. Goals
+                 and actions must specifically respond to the analysis and to the identified and
+                 prioritized contributing factors to fair housing issues and must be significant and
+                 meaningful enough to overcome identified patterns and trends. Actions must
+                 have specific commitment, metrics and milestones as appropriate and must
+                 address housing mobility enhancement, new housing choices and affordability in
+                 high opportunity areas, place-based strategies for community preservation and
+                 revitalization and displacement protection.
+
+      2. An analysis of population and employment trends and documentation of projections
+         and a quantification of the locality’s existing and projected housing needs for all income
+         levels, including extremely low-income households… (Gov. Code, § 65583, subd.
+         (a)(1).)
+
+         Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+         Extremely Low-Income Households (ELI): While the element identifies the projected
+         number of ELI households, it must still analyze their existing housing needs. This is
+         particularly important given the unique and disproportionate needs of ELI households.
+         For example, the element could analyze tenure, cost burden, overcrowding and other
+         household characteristics and then examine the availability of resources to determine
+         the magnitude of gaps in housing needs. Policies and programs should be revised as
+         appropriate based on the outcomes of this analysis. For additional information, see the
+         Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/housing-needs/extremely-low-income-housing-needs.shtml.
+
+         Overpayment: While the element identifies the total number of households overpaying
+         for housing (p.1-41), it must quantify and analyze the number of lower-income
+         households overpaying for housing by tenure (i.e., renter and owner) and add or
+         modify policies and programs as appropriate.
+
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         Progress towards the Regional Housing Needs Allocation (RHNA): As you know, the
+         City’s RHNA may be reduced by the number of pending, approved, permitted and units
+         built since July 1, 2021 by demonstrating availability in the planning period and
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                   Page 2
+September 3, 2021
+         affordability based on rents, sale prices or other mechanisms ensuring affordability
+         (e.g., deed restrictions). The element utilizes planned and approved projects
+         (Development Pipeline) toward the RHNA but should include additional discussion and
+         analysis, as follows:
+
+            •   Other Pipeline: The element mentions (p. 4-19) the City examined and applied
+                past completion rates to pipeline projects to estimate project completion in the
+                planning period but should include additional discussion to demonstrate the
+                availability of pipeline projects. For example, the element could include
+                supporting information for past completion rates and identify the actual
+                completion rate applied to pipeline project. In addition, the element must
+                demonstrate the affordability of pipeline projects based on anticipated or actual
+                sale prices, rent levels, or other mechanisms ensuring affordability (e.g., deed
+                restrictions).
+            •   Publicly Owned Land: HCD understands these units are part of pending or
+                approved projects and are not counted as sites based on zoning and other
+                statutory factors. The element should include supporting information such as
+                anticipated schedules to demonstrate the availability of these sites in the
+                planning period and demonstrate affordability as described above.
+            •   Warner Center 2035 Specific Plan: The element identifies 10,491 units for
+                above moderate-income households in the Warner Center Specific Plan as
+                credit towards RHNA allocation (pp. 4-6 and 4-19). Additionally, the element
+                assumes that based on current production trends in that specific plan area, it is
+                likely that projects will be proposed and built during the planning period to meet
+                part of the above-moderate income RHNA requirement. However, to credit this
+                specific plan as progress towards meeting the RHNA allocation, the element
+                must describe whether there are pending, approved, or permitted projects in the
+                pipeline equating to 10,491 units. If the element cannot identify specific projects
+                to qualify as credit towards RHNA, sites in the specific plan may be counted as
+                part of the sites inventory.
+
+         Adequate Sites Alternative (Project Homekey Expansion): The element describes the
+         significant opportunities through Project Homekey, and HCD is fully supportive of the
+         City’s efforts. However, to utilize this potential for converting existing space toward the
+         RHNA, the element must demonstrate how these units will meet the requirements of
+         Government Code section 65583.1, subdivision (c)(1), including but not limited to
+         identifying sources of committed assistance and various other requirements.
+         Alternatively, if existing spaces are nonresidential uses being converted to residential
+         use and counted as a unit as part of annual reporting, the City may utilize a
+         methodology similar to accessory dwelling units based on past permitted units,
+         affordability and other relevant factors.
+
+         Public Lands Program: The element uses the Public Lands Program to meet 10,000
+         units of City’s RHNA allocation (p. 4-25). While the Public Lands Program does not
+         include any specific sites, the element assumes the program will produce 10,000 units
+         based on the past success of the program building 7,000 units (p. 4-25). To utilize this
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                   Page 3
+September 3, 2021
+         program toward the RHNA, the element must (1) demonstrate pending projects based
+         on affordability and availability in the planning period as described above; (2) list
+         parcels and analyze their suitability to meet all statutory requirements including zoning
+         with appropriate densities; or (3) list parcels, analyze their suitability and include
+         programs to rezone sites with appropriate zoning; and (4) Revise Program 15 (Public
+         Land for Affordable Housing), as appropriate.
+
+         Accessory Dwelling Units (ADUs): The City is counting 45,340 ADUs towards
+         accommodating the RHNA allocation during the planning period. This equates to an
+         average of 5,667 ADUs per year (p. 4-22). However, the element is utilizing ADU
+         building permit data from 2018-2020 that is inconsistent with HCD’s records provided
+         through annual progress reports. For example:
+
+            •   2018 – 4,079 ADUs (HCD records) versus 4,646 ADUs (element)
+            •   2019 – 4,792 ADUs (HCD records) versus 4,766 ADUs (element)
+            •   2020 – 3,425 ADUs (HCD records) versus 4,190 ADUs (element)
+
+         The element must be revised to reconcile these figures and adjust assumptions for the
+         number of ADUs in the planning period as appropriate.
+
+         Candidate Sites for Rezoning: The element identifies a current shortfall in
+         accommodating the 6th cycle RHNA. Specifically, the City has a shortfall of 103,409
+         units for lower-income households, 61,375 units for moderate-income households, and
+         25,212 units for above-moderate households. The element must identify and analyze
+         the candidate sites that will be considered for rezoning and include an analysis of
+         suitability and availability to address all components pursuant to Government Code
+         section 65583.2.
+
+         Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+         accommodate housing for lower-income households unless it is demonstrated, with
+         sufficient evidence, that sites are suitable to accommodate housing for lower-income
+         households. The element mentions a few projects on smaller sites (p. 4-11) but should
+         include additional supporting information and relate this information to the sites
+         inventory. For example, all the 100 percent affordable projects on smaller sites were at
+         least 20 units in size. Assuming additional information supports this trend, the element
+         could utilize a 20-unit threshold for sites to accommodate lower-income households.
+
+         Suitability of Nonvacant Sites: For your information, the housing element relies upon
+         nonvacant sites to accommodate more than 50 percent of the RHNA for lower-income
+         households. While the element includes adequate analysis to demonstrate additional
+         development potential on sites with existing uses, the adopted housing element must
+         be accompanied by findings (e.g., through resolution) based on substantial evidence
+         that the use is likely to be discontinued during the planning period. (Gov. Code, §
+         65583.2, subd. (g)(2).)
+
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                  Page 4
+September 3, 2021
+         Electronic Sites Inventory: For your information, pursuant to Government Code section
+         65583.3, the City must submit an electronic sites inventory with its adopted housing
+         element. The City must utilize standards, forms, and definitions adopted by HCD.
+         Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml#element for a copy of the form and
+         instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+         assistance.
+
+         Water and Sewer Priority: Water and sewer service providers must establish specific
+         procedures to grant priority water and sewer service to developments with units
+         affordable to lower-income households. (Gov. Code, § 65589.7.) Local governments
+         are required to immediately deliver the housing element to water and sewer service
+         providers. The element should discuss compliance with these requirements and if
+         necessary, add or modify programs to establish a written procedure by a date early in
+         the planning period. For additional information and sample cover memo, see the
+         Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/other-requirements/priority-for-water-sewer.shtml.
+
+         Sites with Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element states that emergency shelters are allowed by-
+             right in several zones and that performance standards require shelters to be located
+             at least 600 feet from another shelter (App. 2.1-14). This standard may be
+             inconsistent with spacing requirements pursuant to Government Code section
+             65583, subdivision (a)(4). The element should clarify if this standard applies to all
+             zones permitting emergency shelters without discretion or if other zones are
+             available in compliance with statutory requirements. Additionally, the element
+             should clarify parking requirements for emergency shelters, determine whether
+             parking requirements comply with AB 139 (Chapter 335, Statutes of 2019) which
+             limits parking requirements to employee parking and add or modify programs as
+             appropriate.
+         •   Low Barrier Navigation Centers (LBNC): Government Code section 65660 requires
+             LBNC be a use by right in areas zoned for mixed use and nonresidential zones
+             permitting multifamily uses. The element should clarify consistency with this
+             requirement or add or modify programs as appropriate.
+         •   Housing for Farmworkers: The element must demonstrate compliance with the
+             Employee Housing Act, specifically Health and Safety Code sections 17021.5,
+             17021.6, and 17021.8. For example, section 17021.5 requires employee housing
+             for six or fewer employees to be treated as a single-family structure and permitted
+             in the same manner as other dwellings of the same type in the same zone.
+
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                   Page 5
+September 3, 2021
+         required of developers, and local processing and permit procedures... (Gov. Code, §
+         65583, subd. (a)(5).)
+
+         An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a locality’s
+         share of the regional housing need in accordance with Government Code section
+         65584… (Gov. Code, § 65583, subd. (a)(6).)
+
+         On and Off-Site Improvements: While the element includes a general discussion of the
+         type of improvements required by a housing development (App. 2.1-58), it must identify
+         actual site improvement standards and analyze it for any constraints to development.
+
+         Local Processing and Permit Procedures: The element states that a site plan review is
+         required for most multifamily projects proposing 50 or more new residential units (App.
+         2.1-40). While the element describes some of the review process, it should also
+         analyze approval findings and other requirements that may impact housing cost,
+         supply, timing, and approval certainty and add or modify programs as appropriate.
+
+         Based on inquiries from developers, HCD is aware of circumstances where zoning
+         densities are inconsistent with minimum allowable densities in the General Plan. To
+         address this issue, the City is relying on a 1991 clarifying resolution from the City
+         Council to address when these inconsistencies occur. The element should describe
+         how the City is maintaining consistency between the General Plan and zoning
+         ordinances pursuant to Government Code section 65860 and Senate Bill 1333
+         (Chapter 856, Statutes of 2018) and include programs and policies as appropriate.
+
+         Codes and Enforcement: The element states the City amended the California Building
+         Code; however it must identity and analyze local amendments for impacts on the cost
+         and supply of housing.
+
+         Constraints on Housing for Persons with Disabilities: The element should describe and
+         analyze the reasonable accommodation procedures, particularly approval findings, for
+         impacts on approval certainty.
+
+         Nongovernmental Constraints: The element should analyze nongovernmental
+         constraints including the cost of land, requests to develop housing at densities below
+         those anticipated in the inventory, and the length of time between receiving approval
+         for a housing development and submittal of an application for building permits. The
+         analysis must address any hinderances to the construction of a locality’s share of the
+         regional housing need.
+
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                   Page 6
+September 3, 2021
+      5. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+
+         Households with Special Needs: The element includes some quantification but
+         generally does not provide analysis such as trends, characteristics of needs such as
+         tenure, existing resources to meet those needs and the magnitude of unmet needs. For
+         example, the analysis should address persons with developmental disabilities and
+         permanent and seasonal farmworkers (e.g., USDA county level data). For more
+         information, see the Building Blocks at https://www.hcd.ca.gov/community-
+         development/building-blocks/index.shtml.
+
+   C. Housing Programs
+
+      1. Include a program which sets forth a schedule of actions during the planning period,
+         each with a timeline for implementation, which may recognize that certain programs
+         are ongoing, such that there will be beneficial impacts of the programs within the
+         planning period, that the local government is undertaking or intends to undertake to
+         implement the policies and achieve the goals and objectives of the housing element
+         through the administration of land use and development controls, the provision of
+         regulatory concessions and incentives, and the utilization of appropriate federal and
+         state financing and subsidy programs when available. The program shall include an
+         identification of the agencies and officials responsible for the implementation of the
+         various actions. (Gov. Code, § 65583, subd. (c).)
+
+         To have a beneficial impact in the planning period and address the goals of the
+         housing element, programs must be revised with specific commitment and discrete
+         timelines. For example, many programs “explore”, “review” and “evaluate”, which may
+         be appropriate, but should also commit to completing an action that will have an actual
+         impact on housing such as “amend”, “revise” or “establish”. In addition, many of the
+         programs do not have discrete timelines or specified dates and should be revised.
+         Finally, community plan updates are key to some central issues within the housing
+         element, for example affirmatively furthering fair housing, and the element should add
+         or modify programs with a schedule and priority for community plan updates.
+
+      2. Identify actions that will be taken to make sites available during the planning period
+         with appropriate zoning and development standards and with services and facilities to
+         accommodate that portion of the city’s or county’s share of the regional housing need
+         for each income level that could not be accommodated on sites identified in the
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+         to comply with the requirements of Government Code section 65584.09. Sites shall be
+         identified as needed to facilitate and encourage the development of a variety of types
+         of housing for all income levels, including multifamily rental housing, factory-built
+         housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+         room occupancy units, emergency shelters, and transitional housing. (Gov. Code, §
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                 Page 7
+September 3, 2021
+         65583, subd. (c)(1).)
+
+         As noted in Finding B3, the element does not include a complete site analysis;
+         therefore, the adequacy of sites and zoning were not established. Based on the results
+         of a complete sites inventory and analysis, the City may need to add or revise
+         programs to address a shortfall of sites or zoning available to encourage a variety of
+         housing types.
+
+      3. Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Finding B4, the element requires a complete analysis of potential
+         governmental and nongovernmental constraints. Depending upon the results of that
+         analysis, the City may need to revise or add programs and address and remove or
+         mitigate any identified constraints.
+
+      4. Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race, religion,
+         sex, marital status, ancestry, national origin, color, familial status, or disability, and
+         other characteristics protected by the California Fair Employment and Housing Act
+         (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+         any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+         (c)(5).)
+
+         As noted in Finding B1, the element requires a complete analysis of AFFH. Depending
+         upon the results of that analysis, the City will need to revise or add programs to
+         affirmatively further fair housing.
+
+      5. The housing program shall preserve for low-income household the assisted housing
+         developments identified pursuant to paragraph (9) of subdivision (a). The program for
+         preservation of the assisted housing developments shall utilize, to the extent
+         necessary, all available federal, state, and local financing and subsidy programs
+         identified in paragraph (9) of subdivision (a), except where a community has other
+         urgent needs for which alternative funding sources are not available. The program may
+         include strategies that involve local regulation and technical assistance. (Gov. Code, §
+         65583, subd. (c)(6).)
+
+         Program 27 (Preservation of Restricted Units At-risk of Converting to Market Rate)
+         should be revised with specific commitment to comply with noticing requirements,
+         coordinate with qualified entities to purchase properties and provide education and
+         support to tenants.
+
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                  Page 8
+September 3, 2021
+   D. Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+      & 2).)
+
+      While the element includes quantified objectives by income group for very low-, low-,
+      moderate- and above-moderate income, it must also include objectives for the number of
+      housing units that will be rehabilitated and conserved/preserved for extremely low-income
+      households. In addition, the element identifies a quantified objective of 1,000 new units for
+      moderate-income households during the planning period (p. 1-51). Quantified objectives
+      represent a target goal for the jurisdiction based on needs and programs. The objectives
+      may also consider anticipated nongovernmental actions. Given the RHNA for moderate-
+      income households and the many actions in the element that could facilitate housing
+      affordable to moderate income households, HCD encourages the City to consider
+      increasing this quantified objective for moderate-income households.
+
+   E. Public Participation
+
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the housing element, and the
+      element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      While the element includes a general summary of the public participation process
+      (beginning on page 3-6 and Appendix E), it should also summarize public comments and
+      describe how they were considered and will be considered and incorporated into the
+      element. Further, the element could describe the language and culturally inclusive
+      outreach program (p. 28) to demonstrate that the City engaged in meaningful outreach
+      efforts to all segments of the community.
+
+      In addition, HCD understands the City made the housing element available to the public
+      on July 1, 2021 without sufficient time for the public to comment prior to HCD submittal
+      on July 7, 2021. By not providing an opportunity for the public to review and comment
+      on a draft of the element in advance of submission, the City has not yet complied with
+      statutory mandates to make a diligent effort to encourage the public participation in the
+      development of the element and it reduces HCD’s ability to consider public comments in
+      its review. The availability of the document to the public and opportunity for public
+      comment prior to submittal to HCD is essential to the public process and HCD’s review.
+      The City must proactively make future revisions available to the public, including any
+      commenters, prior to submitting any revisions to HCD and diligently consider and
+      address comments, including revising the document where appropriate. HCD’s future
+      review will consider the extent to which the revised element documents how the City
+      solicited, considered, and addressed public comments in the element. The City’s
+      consideration of public comments must not be limited by HCD’s findings in this review
+      letter.
+
+
+
+
+Review Los Angeles City’s 6th Cycle Draft Housing Element Update                  Page 9
+September 3, 2021

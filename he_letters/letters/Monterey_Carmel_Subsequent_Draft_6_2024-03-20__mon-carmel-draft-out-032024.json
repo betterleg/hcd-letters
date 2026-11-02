@@ -1,0 +1,14 @@
+{
+  "county": "Monterey",
+  "jurisdiction": "Carmel",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-03-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mon-carmel-draft-out-032024.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mon-carmel-draft-out-032024.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 177744,
+  "text_chars": 11981,
+  "text_empty": false
+}

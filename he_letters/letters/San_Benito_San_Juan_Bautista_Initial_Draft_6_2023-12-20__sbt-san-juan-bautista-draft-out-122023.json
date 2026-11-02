@@ -1,0 +1,14 @@
+{
+  "county": "San Benito",
+  "jurisdiction": "San Juan Bautista",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2023-12-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbt-san-juan-bautista-draft-out-122023.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbt-san-juan-bautista-draft-out-122023.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 266988,
+  "text_chars": 36939,
+  "text_empty": false
+}

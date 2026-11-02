@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "Chula Vista",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2021-08-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiChulaVistaAdoptedReplaceDraft082021.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiChulaVistaAdoptedReplaceDraft082021.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 134727,
+  "text_chars": 1836,
+  "text_empty": false
+}

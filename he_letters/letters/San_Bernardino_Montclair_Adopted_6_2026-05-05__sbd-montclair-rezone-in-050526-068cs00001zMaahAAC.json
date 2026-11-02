@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Montclair",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-05-05",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbd-montclair-rezone-in-050526-068cs00001zMaahAAC.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbd-montclair-rezone-in-050526-068cs00001zMaahAAC.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186146,
+  "text_chars": 5311,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Torrance",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-10-12",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanTorranceAdoptIn101222.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanTorranceAdoptIn101222.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 136670,
+  "text_chars": 4597,
+  "text_empty": false
+}

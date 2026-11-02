@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Rancho Mirage",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-05-13",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivRanchoMirageAdopt051322.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivRanchoMirageAdopt051322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 183613,
+  "text_chars": 4780,
+  "text_empty": false
+}

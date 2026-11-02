@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Colma",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-03-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-colma-adopt-in-031124.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-colma-adopt-in-031124.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 181956,
+  "text_chars": 4297,
+  "text_empty": false
+}

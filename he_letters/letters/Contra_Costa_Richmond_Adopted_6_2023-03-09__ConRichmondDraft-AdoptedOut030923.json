@@ -1,0 +1,25 @@
+{
+  "county": "Contra Costa",
+  "jurisdiction": "Richmond",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-03-09",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ConRichmondDraft-AdoptedOut030923.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ConRichmondDraft-AdoptedOut030923.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 267299,
+  "text_chars": 38660,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "county": "Contra Costa",
+      "jurisdiction": "Richmond",
+      "type": "Initial Draft",
+      "cycle": "6",
+      "reviewed": "2023-03-09",
+      "linktext": "Click to Download Letter",
+      "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ConRichmondDraft-AdoptedOut030923.pdf"
+    }
+  ]
+}

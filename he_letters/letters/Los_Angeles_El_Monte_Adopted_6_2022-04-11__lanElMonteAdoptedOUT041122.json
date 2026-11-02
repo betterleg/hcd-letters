@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "El Monte",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-04-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanElMonteAdoptedOUT041122.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanElMonteAdoptedOUT041122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227119,
+  "text_chars": 20212,
+  "text_empty": false
+}

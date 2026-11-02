@@ -1,0 +1,735 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                  GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 27, 2021
+
+
+
+         Justina L. Willkom, Community Development Director
+         Community Development Department
+         City of Tustin
+         300 Centennial Way
+         Tustin, CA 92780
+
+         Dear Justina L. Willkom:
+
+         RE: Review of the City of Tustin’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Tustin’s (City) draft housing element received for review
+         on July 1, 2021. Pursuant to Government Code section 65585, subdivision (b), the California
+         Department of Housing and Community Development (HCD) is reporting the results of its
+         review. Our review was facilitated by a telephone conversation on August 12, 2021 with you
+         and Senior Planner Erica Demkowicz. In addition, HCD considered comments from the
+         Tustin Planning Partnership and YIMBY Law pursuant to Government Code section 65585,
+         subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+         particular, the site inventory must demonstrate realistic capacity with further analysis, the
+         constraints section must adequately address a variety of governmental constraints to housing
+         development, and many programs require further information or stronger language and
+         timeframes. The enclosed Appendix describes these and other revisions needed to comply
+         with State Housing Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element within
+         120 calendar days from the statutory due date of October 15, 2021 for Southern California
+         Association of Governments (SCAG) localities. If adopted after this date, Government Code
+         section 65588, subdivision (e)(4), requires the housing element be revised every four years
+         until adopting at least two consecutive revisions by the statutory deadline. For more
+         information on housing element adoption requirements, please visit HCD’s website at:
+         http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+         memos/docs/sb375_final100413.pdf.
+
+         For your information, some general plan element updates are triggered by housing
+         element adoption. HCD reminds the City to consider timing provisions and welcomes
+      Justina L. Willkom, Community Development Director
+      Page 2
+
+
+
+      the opportunity to provide assistance. For information, please see the Technical
+      Advisories issued by the Governor’s Office of Planning and Research at:
+      http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+      http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+      Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+      standards, forms, and definitions adopted by HCD when preparing the sites inventory. Please
+      see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and instructions.
+      The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance. Please
+      note, upon adoption of the housing element, the City must submit an electronic version of the
+      sites inventory with its adopted housing element to sitesinventory@hcd.ca.gov.
+
+      Public participation in the development, adoption and implementation of the housing
+      element is essential to effective housing planning. Throughout the housing element process,
+      the City should continue to engage the community, including organizations that represent
+      lower-income and special needs households, by making information regularly available and
+      considering and incorporating comments where appropriate.
+
+      Several federal, state, and regional funding programs consider housing element
+      compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+      (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+      Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+      Local Housing Allocation consider housing element compliance and/or annual reporting
+      requirements pursuant to Government Code section 65400.
+
+      HCD is committed to assisting the City in addressing all statutory requirements of State
+      Housing Element Law. If you have any questions or need additional technical assistance,
+      please contact Colin Cross, of our staff, at (916) 820-1275 or colin.cross@hcd.ca.gov.
+
+      Sincerely,
+
+
+
+
+      Shannan West
+      Land Use & Planning Unit Chief
+
+
+      Enclosure
+
+
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                  Page 2
+August 27, 2021
+                                          APPENDIX
+                                       CITY OF TUSTIN
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          The element includes an Assessment of Fair Housing (AFH) that addresses most of
+          the statutory requirements. However, additional information and analysis is needed to
+          address the AFFH requirements in full, including a complete analysis of the element’s
+          site inventory and specific, meaningful program actions to address the identified fair
+          housing issues.
+
+          Fair Housing Enforcement and Outreach: The element describes the City’s capacity for
+          fair housing enforcement and outreach at a local level but must also provide
+          information and analysis regarding enforcement and outreach capacity and trends at a
+          regional level.
+
+          Site Inventory: The element contains an analysis of the site inventory that addresses
+          some AFFH requirements. However, the analysis does not fully account for how the
+          sites are identified to improve or exacerbate conditions or whether the sites are
+          isolated by income group. For example, a large portion of the lower-income regional
+          housing needs allocation (RHNA) is concentrated on a few large sites in the Tustin
+          Legacy Specific Plan. The analysis should address whether this concentration meets
+          the obligation for the sites inventory to affirmatively further fair housing.
+
+          Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+          overcome contributing factors to fair housing issues. Most of the goals contained in the
+          element (pp. D-86 – D-88), especially those that are specific to the City, do not appear
+          to facilitate meaningful change or address AFFH requirements. Currently, the element
+          identifies goals drawn from the 2020 Orange County Analysis of Impediments but
+          provides limited information about the City’s own goals (p. D-88). Goals and actions
+          included in the AFH should be drawn directly from the analysis and contributing factors.
+          For example, the element identifies lack of supply of affordable housing in high-
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                   Page 1
+August 27, 2021
+          opportunity areas as one contributing factor (p. D-86) but includes no program actions
+          that seek to address this.
+
+          Goals and actions should include the commitment of other programs in the element,
+          complete with timeframes, responsible parties, and objectives. These should also
+          replace unclear language (e.g., “explore”, “review”, “consider”) with specific,
+          meaningful, and measurable actions. The element must include metrics and milestones
+          for evaluating progress on programs, actions, and fair housing results.
+
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          The City has a RHNA of 6,782 housing units, of which 2,770 are for lower-income
+          households. To address this need, the element relies on vacant and nonvacant sites,
+          including sites in various specific plan areas. To demonstrate the adequacy of these
+          sites and strategies to accommodate the City’s RHNA, the element must include
+          complete analyses:
+
+          Progress in Meeting the RHNA: The element indicates (p. B-2) that 125 units
+          affordable to extremely low-income households in the Village of Hope project are
+          approved. However, on page A-3, the element describes this project as an emergency
+          and transitional housing project with capacity up to 387 beds (i.e. not units). Please be
+          aware, to count towards progress in meeting the RHNA, the additional approved
+          capacity must meet the Census definition of a unit. The element must clarify whether
+          this additional capacity is for beds or units. In addition, the element must describe the
+          City’s methodology for assigning these units to the extremely low-income groups based
+          on actual or projected sales price or rent level of the units or other mechanisms
+          establishing affordability and demonstrate their availability in the planning period.
+
+          Sites Inventory: The element must include an estimate of the number of units that can
+          be accommodated on each site in the inventory. Currently, the element provides these
+          estimates by grouping the sites into their respective specific plan areas and estimating
+          the number of units to be accommodated in each specific plan area. These estimates
+          should instead be made by income category for each individual site.
+
+          Zoning for Lower: Pursuant to Government Code section 65583.2, subdividion (c)(3)(A)
+          and (B), the element must identify sites with zoning and densities appropriate to
+          encourage and facilitate the development of housing for lower-income households
+          based on factors such as market demand, financial feasibility and development
+          experience within zones. For communities with densities that meet specific standards
+          (at least 30 units per acre for Tustin), this analysis is not required (Gov. Code, §
+          65583.2, subd. (c)(3)(B).). The element states that while some sites to accommodate
+          the lower-income RHNA have a maximum density of 25 units per acre based on the
+          general plan, higher densities including 30 units per acre are allowed as long as the
+          maximum units allocated in the specific plan has not been reached. However, on page
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                     Page 2
+August 27, 2021
+          B-13 the element states that no minimum nor maximum densities are specified in the
+          general plan and specific plan areas. The element must clarify what densities are
+          allowed on these sites and what approvals are required to reach at least 30 units per
+          acre. In addition, the element should specify what the remaining housing unit
+          allotments are in these specific plans and whether the capacity and zoning appropriate
+          to accommodate the lower income can be achieved within the remaining allotment and
+          describe requirements such as phasing or timing requirements that impact
+          development in the planning period. In particular, it is unclear what mechanism would
+          allow a development to exceed the stated maximum general plan density of 25 units
+          per acre. Please note that if the base allowable density does not allow for 30 units per
+          acre, then the element will need to analyze the zoning for appropriateness to
+          accommodate the lower-income RHNA per the above.
+
+          Realistic Capacity: The element provides various density assumptions for the sites in
+          the inventory, including several high assumptions that exceed 40 dwelling units per
+          acre. The element must provide support for these conclusions by demonstrating how
+          the City arrived at these assumptions for realistic capacity. This should be based on
+          and adjusted for land-use controls and site improvements; typical densities of existing
+          or approved residential developments at a similar affordability level in the City; and on
+          the current or planned availability and accessibility of sufficient water, sewer, and dry
+          utilities; among other factors. This analysis should describe in detail the zoning and
+          development standards applicable for each of the specific plan areas being utilized and
+          the underlying zoning, and how those inform the realistic capacity assumptions.
+
+          For sites zoned for nonresidential uses (e.g., commercial and mixed-use zones), the
+          element must describe how the estimated number of residential units for each site was
+          determined. This analysis must adjust for the likelihood of nonresidential development
+          in any zones that allow a mix of uses. For example, the element could describe the
+          underlying zoning for sites in the relevant specific plan areas, whether 100%
+          nonresidential development is allowed in these zones, and any relevant programs or
+          policies the City is undertaking to facilitate residential development in nonresidential
+          zones.
+
+          Suitability of Nonvacant Sites: The element must include an analysis demonstrating
+          the potential for redevelopment of nonvacant sites. To address this requirement, the
+          element describes in general the existing use of each nonvacant site. This alone is
+          not adequate to demonstrate the potential for redevelopment in the planning period.
+          The description of existing uses should be sufficiently detailed to facilitate an analysis
+          demonstrating the potential for additional development in the planning period.
+          The analysis shall consider factors including the extent to which existing uses may
+          constitute an impediment to additional residential development, the City’s past
+          experience with converting existing uses to higher density residential development, the
+          current market demand for the existing use, an analysis of any existing leases or other
+          contracts that would perpetuate the existing use or prevent redevelopment of the site
+          for additional residential development, development trends, market conditions, and
+          regulatory or other incentives or standards to encourage additional residential
+          development on these sites. For example, the element could consider indicators such
+          as age and condition of the existing structure, presence of expiring leases, expressed
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                     Page 3
+August 27, 2021
+          developer interest, low improvement to land value ratio, and other factors. The element
+          should describe and support (through development trends) the thresholds used to
+          identify sites for redevelopment.
+
+          In addition, a portion of Site 15 includes a 0.77-acre parcel owned by Caltrans. This
+          site does not appear to be on the State’s listing for excess properties. The element
+          must demonstrate that Caltrans has identified this property as surplus or otherwise
+          made it available for the development of housing within the planning period.
+
+          Large and Small Sites: Several sites consist of large parcels, including Site 1 (39.87
+          acres), Site 2 (50 acres), Site 10 (16.47 acres). Sites larger than 10 acres in size are
+          deemed inadequate to accommodate housing for lower-income households unless it is
+          demonstrated that sites of equivalent size were successfully developed during the prior
+          planning period for an equivalent number of lower-income housing units as projected
+          for the site or unless the housing element describes other evidence to HCD that the
+          site is adequate to accommodate lower-income housing (Gov. Code, § 65583.2, subd.
+          (c)(2)(A).). Please note, because the inventory has not yet estimated the number of
+          units by income category for each site, it is unclear whether Site 10 is intended to
+          accommodate the lower-income RHNA. This analysis could describe the
+          implementation of the various specific plans relied on in the inventory or provide
+          information on subdivision or other methods that will be used to facilitate housing
+          development on these sites.
+
+          Additionally, many sites (including 4, 5, 6, 7, 9, 11, 12, 13, 14 and 15) consist of
+          aggregated small parcels. For parcels anticipated to be consolidated, the element must
+          demonstrate the potential for lot consolidation. For example, the analysis could
+          describe the City’s role or track record in facilitating small-lot consolidation, policies or
+          incentives offered or proposed to encourage and facilitate lot consolidation, conditions
+          rendering parcels suitable and ready for redevelopment, recent trends of lot
+          consolidation, and/or information on the owners of each aggregated site. For parcels
+          anticipated to develop individually, the element must describe existing and proposed
+          policies or incentives the City will offer to facilitate development of small sites. Please
+          note sites smaller than a half-acre in size are deemed inadequate to accommodate
+          housing for lower-income housing unless it is demonstrated that sites of equivalent size
+          were successfully developed during the prior planning period for an equivalent number
+          of lower-income housing units as projected for the site or unless the housing element
+          describes other evidence to HCD that the site is adequate to accommodate lower-
+          income housing (Gov. Code, § 65583.2, subd. (c)(2)(A).).
+
+          Adequate Sites Alternatives: The City appears to be relying on preservation of 517
+          units to accommodate a portion of the City’s RHNA (p. B-3). The City may substitute up
+          to 25 percent of its adequate sites requirement by income group by counting existing
+          units preserved through the provision of “committed assistance” to that income
+          category’s households at affordable housing costs or affordable rents. (Gov. Code, §
+          65583.1, subd. (c).) However, the housing element must demonstrate compliance with
+          all the statutory requirements. This includes, but is not limited to, identification of the
+          specific funding sources that will provide committed assistance to the units whose
+          affordability the City seeks to preserve. Please note, preservation of moderate-income
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                       Page 4
+August 27, 2021
+          units cannot be counted towards the RHNA obligation. Please review and complete the
+          Adequate Sites Alternative Checklist at https://www.hcd.ca.gov/community-
+          development/building-blocks/site-inventory-analysis/adequate-sites-
+          alternatives/docs/adequate_site_alt_checklist.pdf.
+
+           Accessory Dwelling Units (ADU): The element assumes 100 ADUs will be constructed
+           during the planning period but does not demonstrate how the City calculated that
+           assumption. The element’s analysis and programs do not support the assumption that
+           100 ADUs will be constructed during the planning period. Specifically, in addition to
+           other methods, HCD accepts the use of trends in ADU construction since January 2018
+           to estimate new production. Based on past production between 2018 to 2020, the City is
+           averaging about 6 ADUs per year. To support assumptions for ADUs in the planning
+           period, the element could reduce the number of ADUs assumed per year or reconcile
+           trends with HCD records, including additional information such as more recent permitted
+           units and inquiries, resources and incentives, other relevant factors and modify policies
+           and programs as appropriate. Further, programs should commit to additional incentives
+           and strategies, frequent monitoring (every other year) and specific commitment to adopt
+           alternative measures such as rezoning or amending the element within a specific time
+           (e.g., 6 months) if ADU assumptions for the number of units and affordability are not
+           met. Additionally, the element credits 12 ADUs permitted in 2021 towards the RHNA but
+           does not clarify the income level or timeframe of those ADUs. These units must be
+           permitted since the beginning of the RHNA projection period (June 30, 2021) in order to
+           be credited towards the RHNA for the 6th Cycle.
+
+          Suitability and Availability of Infrastructure: The element must demonstrate sufficient
+          existing or planned water, sewer, and other dry utilities supply capacity, including the
+          availability and access to distribution facilities to accommodate the City’s regional
+          housing need for the planning period. To address this requirement, the element
+          provides a table (p. B-12) listing the availability of infrastructure for sites in the
+          inventory, where sites from the Tustin Legacy Specific Plan are labeled as having
+          “some [infrastructure] planned as part of Master Planned Community”. This alone is not
+          adequate information to demonstrate the suitability and availability of infrastructure.
+          The element should provide more information regarding the planned infrastructure for
+          the Tustin Legacy Specific Plan. Further, the element should confirm that the
+          infrastructure available for all sites in the inventory includes water, sewer, and dry
+          utilities.
+
+          For your information, water and sewer service providers must establish specific
+          procedures to grant priority water and sewer service to developments with units
+          affordable to lower-income households. (Gov. Code, § 65589.7.) Local governments
+          are required to immediately deliver the housing element to water and sewer service
+          providers. HCD recommends including a cover memo describing the City’s housing
+          element, including the City’s housing needs and regional housing need. For additional
+          information and sample cover memo, see the Building Blocks at
+          http://www.hcd.ca.gov/community-development/building-blocks/other-
+          requirements/priority-for-water-sewer.shtml.
+
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                   Page 5
+August 27, 2021
+          Environmental Constraints: Per comments from third party stakeholders, HCD
+          understands that some of the sites within the Tustin Legacy Specific Plan may have
+          contamination or need for environmental hazard mitigation. The element must describe
+          and analyze environmental constraints that may impede the development of housing
+          within the planning period on these sites.
+
+          Sites with Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: The element does not identify a zone in which emergency
+              shelters are a permitted use. The element must identify a zone(s) where emergency
+              shelters are permitted without a conditional use permit (CUP) or other discretionary
+              action and with sufficient capacity to accommodate the identified need for shelters.
+              (Gov. Code, § 65583, subd. (a)(4).) If the element cannot demonstrate compliance
+              with the statutory requirements, a program to amend the zoning ordinance to meet
+              the statutory requirements must be completed within one year of the adoption of the
+              housing element. See Finding C1 below for more information regarding a program
+              for compliance.
+
+          •   Transitional & Supportive Housing: The element does not adequately address
+              requirements for transitional housing and supportive housing. Pursuant to Senate
+              Bill 2 (Chapter 633, Statutes of 2007), transitional and supportive housing must
+              be permitted as a residential use in all zones and only subject to those
+              restrictions that apply to other residential dwellings of the same type in the same
+              zone. The element must demonstrate consistency with these statutory
+              requirements and include a program as appropriate.
+
+          •   Housing for Farmworkers: The element must identify sufficient sites to
+              accommodate the need for farmworker housing and include an analysis of potential
+              and actual governmental constraints upon the maintenance, improvement, or
+              development of housing for agricultural employees, permanent and seasonal. For
+              example, the analysis could describe zoning available to accommodate various
+              housing types, such as manufactured homes, apartments, boarding houses, or
+              single-room occupancy units, to address the needs of farmworkers. In addition, the
+              element must demonstrate the City’s zoning is consistent with the Employee
+              Housing Act (Health and Safety Code, § 17000 et seq.), specifically, sections
+              17021.5 and 17021.6. Section 17021.5 requires employee housing for six or fewer
+              employees to be treated as a single-family structure and permitted in the same
+              manner as other dwellings of the same type in the same zone. Section 17021.6
+              requires employee housing consisting of no more than 12 units or 36 beds to be
+              permitted in the same manner as other agricultural uses in the same zone.
+
+          •   Manufactured Housing: The element must address how and where manufactured
+              housing is allowed, including whether a CUP or other discretionary action is
+              required.
+
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                     Page 6
+August 27, 2021
+          as identified in the analysis pursuant to paragraph (7), including land use controls,
+          building codes and their enforcement, site improvements, fees and other exactions
+          required of developers, and local processing and permit procedures. The analysis shall
+          also demonstrate local efforts to remove governmental constraints that hinder the
+          locality from meeting its share of the regional housing need in accordance with
+          Government Code section 65584 and from meeting the need for housing for persons
+          with disabilities, supportive housing, transitional housing, and emergency shelters
+          identified pursuant to paragraph (7). Transitional housing and supportive housing shall
+          be considered a residential use of property and shall be subject only to those
+          restrictions that apply to other residential dwellings of the same type in the same zone.
+          (Gov. Code, § 65583, subd. (a)(5).)
+
+          Land-Use Controls: The element must identify and analyze all relevant land-use
+          controls impacts as potential constraints on a variety of housing types (e.g., multifamily
+          rental housing, mobilehomes, transitional housing). The analysis must also evaluate
+          the cumulative impacts of land-use controls on the cost and supply of housing,
+          including the ability to achieve maximum densities. In particular, the element should list
+          allowable densities in each zone, in addition to the development standards already
+          provided (p. II-24). The element should also analyze the requirement for two covered
+          spaces in all residential zones, particularly the multi-family zones, as a potential
+          constraint. The analysis should describe past or current efforts to remove identified
+          governmental constraints, and the element should include programs to address or
+          remove the identified constraints.
+
+          Fees and Exaction: The element must describe all required fees for single family and
+          multifamily housing development and analyze their impact as potential constraints on
+          housing supply and affordability. The element currently identifies impact fees but does
+          not provide information about planning fees and does not analyze either. The analysis
+          should identify the total amount of fees and their proportion to the development costs
+          for both single family and multifamily housing.
+
+          Local Processing and Permit Procedures: The element must describe and analyze the
+          City’s permit processing and approval procedures by zone and housing type (e.g.,
+          multifamily rental housing, mobilehomes, housing for agricultural employees,
+          supportive housing). The analysis must evaluate the processing and permit
+          procedures’ impacts as potential constraints on housing supply and affordability. For
+          example, the analysis should consider processing and approval procedures and time
+          for typical single- and multifamily developments, including type of permit, level of
+          review, approval findings and any discretionary approval procedures. In particular, the
+          element should clarify how and where multifamily development is allowed and what the
+          process and timing look like for a typical multi-family development, among other
+          details.
+
+          Design Review: The element must describe and analyze the City’s design review
+          guidelines and process, including approval procedures and decision-making criteria, for
+          their impact as potential constraints on housing supply and affordability. For example,
+          the analysis could describe required findings and discuss whether objective standards
+          and guidelines improve development certainty and mitigate cost impacts. The element
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                     Page 7
+August 27, 2021
+          must demonstrate this process is not a constraint or it must include a program to
+          address this permitting requirement, as appropriate.
+
+          Constraints on Housing for Persons with Disabilities: The element must demonstrate
+          that the City has a reasonable accommodation procedure for providing exception in
+          zoning and land use. While the element makes reference to reasonable
+          accommodation for persons with disabilities, it does not provide any information on the
+          City’s reasonable accommodation procedure. The element should describe the City’s
+          reasonable accommodation procedure, including how requests are made and
+          processed, and any approval findings.
+
+          In addition, the element details that residential care facilities serving six or fewer
+          persons are permitted in all residential zones. However, residential care facilities
+          serving seven or more persons require a CUP. The element should analyze the
+          process as a potential constraint on housing for persons with disabilities and add or
+          modify programs as appropriate to ensure zoning permits group homes objectively with
+          approval certainty.
+
+          Local Ordinances: The element must specifically analyze any locally adopted
+          ordinances such as inclusionary ordinances or short-term rental ordinances that
+          directly impact the cost and supply of residential development. The analysis should
+          demonstrate local efforts to remove governmental constraints that hinder the locality
+          from meeting its share of the regional housing need and from meeting the need for
+          housing for persons with disabilities, supportive housing, transitional housing, and
+          emergency shelters. If the City does not have such ordinances, the element should
+          confirm this.
+
+      4. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a locality’s
+         share of the regional housing need in accordance with Government Code section
+         65584. The analysis shall also demonstrate local efforts to remove nongovernmental
+         constraints that create a gap between the locality’s planning for the development of
+         housing for all income levels and the construction of that housing. (Gov. Code, §
+         65583, subd. (a)(6).)
+          The element must address requests to develop housing at densities below those
+          anticipated in the sites inventory and the length of time between receiving approval for
+          housing development and submittal of application for building permits. This analysis
+          must address any related constraints on housing development and programs should be
+          added as appropriate. Additionally, the element must identify any local efforts to
+          address nongovernmental constraints that create a gap in the jurisdiction’s ability to
+          meet the RHNA by income category.
+      5. Analyze any special housing needs such as elderly; persons with disabilities, including
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                     Page 8
+August 27, 2021
+          a developmental disability; large families; farmworkers; families with female heads of
+          households; and families and persons in need of emergency shelter. (Gov. Code, §
+          65583, subd. (a)(7).)
+
+          While the element quantifies the number of some special need populations, it must
+          also quantify the number of persons with disabilities, large households, and female-
+          headed households. In addition, the element must analyze the special housing needs
+          of these populations. For a complete analysis of each population group, the element
+          should discuss challenges faced by the population, the existing resources to meet
+          those needs (e.g., availability senior housing units, number of large units, number of
+          deed restricted units, etc.), an assessment of any gaps in resources, and proposed
+          policies, programs, and funding to help address those gaps.
+
+      6. Analyze existing assisted housing developments that are eligible to change to non-low-
+         income housing uses during the next 10 years due to termination of subsidy contracts,
+         mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+         (a)(9) through 65583(a)(9)(D).)
+
+          The element identifies four properties at risk of conversion to market rate. While the
+          element addresses some of these requirements, it does not estimate the costs of
+          replacement versus preservation, identify entities with the capacity to oversee
+          preservation, or identify specific funding sources that could be used to preserve the
+          affordability. The element must provide this analysis for the at-risk units identified.
+
+C.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Government Code section 65583, subdivision
+          (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+          the City’s specific role in implementation; (2) definitive implementation timelines; (3)
+          objectives, quantified where appropriate; and (4) identification of responsible agencies
+          and officials. Several programs contained in the element lack one or more of these
+          components. Programs to be revised include the following:
+
+           •   1.2a (Objective Design Standards): Modify timeframe to reflect completion date for
+               objective design standards.
+           •   2.1c (Emergency, Transitional, and Supportive Housing): Specify timeframe for
+               expansion by 125 beds.
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                     Page 9
+August 27, 2021
+           •   2.3a (Senior Housing): Modify to include further details regarding how senior units
+               will be preserved.
+           •   2.4a (Housing for Persons with Disabilities): Add timeframe for implementation of
+               outreach program and completion of related educational materials.
+           •   2.4b (Housing for Persons with Disabilities): Accelerate timeframe to ensure
+               beneficial impact within the planning period.
+
+          Additionally, all programs should be evaluated to ensure meaningful and specific
+          actions and objectives. Programs containing unclear language (e.g., “Evaluate”;
+          “Consider”; “Encourage”; etc.) should be amended to include more specific and
+          measurable actions. These include Programs 1.1b (Residential Development –
+          Available Sites), 1.5 (Zoning Code Streamlining Program), 1.6 (Mobile Home
+          Programs), 1.9 (Partnerships with Non-profit Organizations), 1.14 (Adaptive Reuse of
+          Historic Resources to Facilitate Affordable Housing Production), 1.19 (Fees, Exactions
+          and Permit Procedures), 2.1b (Emergency, Transitional, and Supportive Housing),
+          2.1c, 2.1d, 2.4b (Housing for Persons with Disabilities), 3.2b (Home Ownership
+          Assistance), and 3.8a (Membership of CalCHA).
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+          to comply with the requirements of Government Code section 65584.09. Sites shall be
+          identified as needed to facilitate and encourage the development of a variety of types
+          of housing for all income levels, including multifamily rental housing, factory-built
+          housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+          room occupancy units, emergency shelters, and transitional housing.
+          (Gov. Code, § 65583, subd. (c)(1).)
+          As noted in Finding A2, the element does not include a complete site analysis;
+          therefore, the adequacy of sites and zoning were not established. Based on the results
+          of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types. In addition, the element should be revised as follows:
+          Program 1.1a (Tustin Legacy Specific Plan Implementation): The program commits to
+          rezoning sites to accommodate the City’s RHNA but does not include the by-right
+          provisions found in statute (Gov. Code 65583.2(c), subd. (h) & (i).) The program must
+          commit to:
+
+          •    permit owner-occupied and rental multifamily uses by-right for developments in which
+               20 percent or more of the units are affordable to lower-income households. By-right
+               means local government review must not require a CUP, planned unit development
+               permit, or other discretionary review or approval.
+          •    accommodate a minimum of 16 units per site;
+          •    require a minimum density of 20 units per acre; and
+
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                   Page 10
+August 27, 2021
+          •   at least 50 percent of the lower-income need must be accommodated on sites
+              designated for residential use only or on sites zoned for mixed uses that accommodate
+              all of the very low and low-income housing need, if those sites:
+              o allow 100 percent residential use, and
+              o require residential use occupy 50 percent of the total floor area of a mixed-use
+                project.
+           Program 3.7 (Preservation of Assisted Housing): As stated above, the element appears to
+           rely on the preservation of four housing projects to accommodate a portion of the RHNA
+           for lower-income households pursuant to Government Code section 65583.1, subdivision
+           (c). The element must include a program that commits the City to provide committed
+           assistance through a legally enforceable agreement by the end of the third year of the
+           housing-element planning period. The dollar amount or related in-kind services of the
+           committed assistance must be substantial enough to make the targeted units available for
+           occupancy within two years of the execution date of the agreement. In addition, the
+           program must commit to report the status of the committed assistance program in the
+           annual progress report no later than the fourth year of the planning period. If the City does
+           not enter into an enforceable agreement of committed assistance for all the units initially
+           identified by the end of the third year of the planning period, the local government must
+           adopt an amendment to its housing element, no later than the end of the fourth year of the
+           planning period, identifying additional adequate sites sufficient to accommodate the
+           number of units for which committed assistance was not provided.
+
+           Program 2.1a (Emergency, Transitional and Supportive Housing): Specify the
+           changes being made to comply with Assembly Bill 2162 (Chapter 753, Statues of
+           2018) and all other statutory provisions regarding emergency shelters, supportive
+           housing, and transitional housing, including the requirements under Senate Bill 2
+           (Chapter 633, Statutes of 2007). Please be aware, actions to adopt zoning that
+           accommodates emergency shelters without discretionary action must be completed
+           within one year of adoption of the element. In addition, actions to amend the zoning
+           ordinance to comply with State law should also take place within one year of adoption.
+
+     3.   The housing element shall contain programs which assist in the development of
+          adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+          income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+          While the programs describe various actions to assist in the development of housing,
+          the element must include a program specifically to meet the needs of extremely low-
+          income households.
+
+     4.   Address and, where appropriate and legally possible, remove governmental and
+          nongovernmental constraints to the maintenance, improvement, and development of
+          housing, including housing for all income levels and housing for persons with
+          disabilities. The program shall remove constraints to, and provide reasonable
+          accommodations for housing designed for, intended for occupancy by, or with
+          supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                    Page 11
+August 27, 2021
+          As noted in Findings A3 and A4, the element requires a complete analysis of potential
+          governmental and nongovernmental constraints. Depending upon the results of that
+          analysis, the City may need to revise or add programs and address and remove or
+          mitigate any identified constraints.
+
+      3. Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race, religion,
+         sex, marital status, ancestry, national origin, color, familial status, or disability, and
+         other characteristics protected by the California Fair Employment and Housing Act
+         (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+         any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+         (c)(5).)
+
+          As noted in Finding A1, the element does not contain programs that satisfy the AFFH
+          requirements for specific and meaningful actions to overcome fair housing issues.
+          Based on a complete analysis, the element must add or revise programs.
+
+D.    Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+      & 2).)
+
+      Include quantified objectives estimating the number of housing units by income category
+      that can be constructed, rehabilitated, and conserved over a five-year time period. This
+      requirement could be addressed by utilizing a matrix like the one illustrated below:
+
+                                   New                                   Conservation/
+            Income              Construction       Rehabilitation        Preservation
+        Extremely Low-
+        Very Low-
+        Low-
+        Moderate-
+        Above
+        Moderate-
+                TOTAL
+
+      While the element demonstrates progress towards these objectives from the previous
+      housing element cycle (p. A-7), it must also provide quantified objectives for the 6th cycle.
+
+E.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the housing element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                    Page 12
+August 27, 2021
+     While the element includes a general summary of the public participation process (Appendix
+     E), it must also summarize the public comments and describe how they were considered
+     and incorporated into the element.
+
+     In addition, HCD understands the City made the element available to the public concurrent
+     with its submittal to HCD. By not providing an opportunity for the public to review and
+     comment on a draft of the element in advance of submission, the City has not yet complied
+     with statutory mandates to make a diligent effort to encourage the public participation in the
+     development of the element and it reduces HCD’s ability to consider public comments in the
+     course of its review. The availability of the document to the public and opportunity for public
+     comment prior to submittal to HCD is essential to the public process and HCD’s review. The
+     City must proactively make future revisions available to the public, including any
+     commenters, prior to submitting any revisions to HCD and diligently consider and address
+     comments, including making revisions to the document where appropriate. HCD’s future
+     review will consider the extent to which the revised element documents how the City
+     solicited, considered, and addressed public comments in the element. The City’s
+     consideration of public comments must not be limited by HCD’s findings in this review letter.
+
+
+
+
+Review of the City of Tustin’s 6th Cycle Draft Housing Element                    Page 13
+August 27, 2021

@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "Carlsbad",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2021-07-14",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiCarlsbadAdopted071421.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sdiCarlsbadAdopted071421.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 201362,
+  "text_chars": 9438,
+  "text_empty": false
+}

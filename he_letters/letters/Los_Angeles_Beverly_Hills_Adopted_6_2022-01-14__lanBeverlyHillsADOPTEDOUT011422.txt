@@ -1,0 +1,377 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 14, 2022
+
+
+         Ryan Gohlich, Director
+         Community Development Department
+         City of Beverly Hills
+         455 North Rexford Drive, First Floor
+         Beverly Hills, CA, 90210
+
+         Dear Ryan Gohlich:
+
+         RE: City of Beverly Hills’ 6th Cycle (2021-2029) Adopted Housing Element
+
+         Thank you for submitting the City of Beverly Hills’ (City) housing element adopted
+         October 12, 2021 and received for review on October 18, 2021. Pursuant to
+         Government Code section 65585, subdivision (h), the California Department of Housing
+         and Community Development (HCD) is reporting the results of its review.
+
+         The adopted housing element addresses most statutory requirements described in
+         HCD’s July 30, 2021 review; however, additional revisions are necessary to fully comply
+         with State Housing Element Law (Article 10.6 of the Gov. Code). The enclosed
+         Appendix describes the revisions needed to comply with State Housing Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i).
+
+         Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+         standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+         Please note, upon adoption of the housing element, the City must submit an electronic
+Ryan Gohlich, Director
+Page 2
+
+
+
+version of the sites inventory with its adopted housing element to
+sitesinventory@hcd.ca.gov. Please see HCD’s housing element webpage at
+https://www.hcd.ca.gov/community-development/housing-element/index.shtml for a copy
+of the form and instructions.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Chelsea Lee, of our staff, at Chelsea.Lee@hcd.ca.gov.
+
+
+Sincerely,
+
+
+
+
+Paul McDougall
+
+Senior Program Manager
+
+Enclosure
+                                        APPENDIX
+                                  CITY OF BEVERLY HILLS
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      The element now includes additional information on outreach conducted, a few maps,
+      and marginal sites analysis for some of the fair housing areas but generally does not
+      address this requirement. Please see HCD’s prior review for additional information and
+      HCD’s data viewer and guidance at https://www.hcd.ca.gov/community-
+      development/affh/index.shtml.
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Parcel Listing: The element now identifies the anticipated affordability levels of units on
+      identified sites, but still does not include revisions to clarify generic descriptions of
+      existing uses of sites identified in the inventory. Please see HCD’s prior review for
+      additional information.
+
+      Realistic Capacity: The element now includes minimal discussion that indicates
+      allowable densities in the Mixed-Use Overlay Zone are higher than the default density
+      for the City and lists recently approved projects in the R-4 zone that achieved densities
+      between 30-59 units per acre. However, the element provides no analysis based on
+      land-use controls, environmental constraints, infrastructure, and site improvements to
+      demonstrate the calculation of residential capacity on identified sites. Please see HCD’s
+      prior review for additional information.
+
+      Suitability of Nonvacant Sites: HCD’s prior review found the element must include
+      analysis that demonstrates the potential for additional development of nonvacant sites.
+
+City of Beverly Hills’ 6th Cycle Adopted Housing Element                            Page 1
+January 14, 2022
+      In response, the element adds some information on ILV ratios and market conditions of
+      sites in the Mixed-Use Overlay zone. However, the element does not provide sufficient
+      analysis to demonstrate existing uses will discontinue in the planning period, analyze
+      existing leases or contracts that would prevent redevelopment of sites, or provide
+      evidence of the City’s past experience with converting existing uses to higher density
+      residential development. Please see HCD’s prior review for additional information.
+
+      Environmental Constraints: HCD’s prior review found the element must describe any
+      known environmental constraints or other conditions on identified sites that could impact
+      housing development in the planning period. In response, the element now states,
+      “while environmental constraints will require development to incorporate measures to
+      mitigate potential hazards, these constraints are not expected to preclude housing
+      development consistent with the regional housing needs allocation (RHNA),” (p. B-56).
+      This statement indicates the presence of constraints on sites identified; therefore, the
+      element did not address this finding.
+
+      Replacement Requirements: HCD’s prior review found the element includes sites in the
+      Mixed-Use Overlay Zone with existing residential uses. The element was not revised to
+      address this requirement. Please see HCD’s prior review.
+
+      Accessory Dwelling Units (ADUs): The element now indicates that an additional 14 ADU
+      permit applications were submitted in September 2021 to justify its projection of 150
+      ADUs in the planning period. The analysis should be based on permitted ADUs.
+      Further, the City did not address discrepancies between the City and HCD’s records on
+      ADUs permitted in 2018, 2019, and 2020. The City must reconcile ADU figures with
+      HCD records and rescale assumptions based on permitted ADUs.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures. (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land-Use Controls: In response to HCD’s prior review to analyze development
+      standards for impacts on achieving maximum densities, the element now includes
+      additional examples of projects recently approved in the R-4 zone. In addition, the
+      element addresses lot assemblage issues, noting that some of the R-4 projects involved
+      singular lots and still achieved high densities. However, revisions added to Program
+      12.1 (Development Standards) to “study” and “consider” do not result in meaningful
+      actions to address potential constraints on multifamily housing and this analysis.
+
+      Fees: In response to HCD’s prior review to analyze fees for impacts on development
+      costs, the element now includes a statement that indicates Program 12.2 (Reduced
+      Fees for Affordable Housing) commits the City to conducting a fee study to assess
+      whether additional waivers can be granted for affordable housing projects. However,
+
+
+City of Beverly Hills’ 6th Cycle Adopted Housing Element                            Page 2
+January 14, 2022
+      there are no revisions found in Program 12.2, nor is there an evaluation of fees. Please
+      see HCD’s prior review.
+
+      Processing and Permit Procedures: In response to HCD’s prior review to analyze its
+      permit and processing procedures for impacts on cost, supply, and built density, the
+      element now adds minor revisions describing the design content of the “Residential
+      Design Style Catalog,” which includes architectural features, materials, and pictures of
+      each design style. These revisions do not address HCD’s findings. Please see HCD’s
+      prior review.
+
+      Constraints on Persons with Disabilities:
+
+          •   Family Definition: In response to HCD’s prior review, which found that the City’s
+              definition of family acts as a constraint on persons with disabilities and is
+              discriminatory, the City responded to HCD by noting that “the City believes that
+              the current definition complies with State law and that no revisions are necessary
+              or appropriate at this time. It is important to recognize that the existing definition
+              is part of an integrated set of land use regulations that has been carefully crafted
+              to protect the integrity of existing single-and-multi-family neighborhoods...”
+              (Exhibit 1, Housing Element Comments and Responses). Based upon the City’s
+              refusal to address these constraints, the adopted element still does not address
+              this finding. Please see HCD’s prior review.
+          •   Group Homes: Similarly, HCD’s prior review found that group homes for seven or
+              more persons are excluded from most residential zones and did not evaluate
+              approval requirements for impacts on objectivity and approval certainty. The City
+              responded to HCD by noting that “the City believes the regulations for group
+              homes for 7+ persons complies with State law” (Exhibit 1, Housing Element
+              Comments and Responses). Based upon the City’s response, the adopted
+              element still does not address this finding. Please see HCD’s prior review.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability
+      of financing, the price of land, the cost of construction, the requests to develop housing
+      at densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval
+      for a housing development and submittal of an application for building permits for that
+      housing development that hinder the construction of a locality’s share of the regional
+      housing need in accordance with Government Code section 65584. (Gov. Code, §
+      65583, subd. (a)(6).)
+
+      HCD’s prior review found the element must address requests to develop housing at
+      densities below those anticipated in the sites inventory and the length of time between
+      receiving approval for housing development and submittal of application for building
+      permits. The element was not revised to address this requirement. Please see HCD’s
+      prior review for additional information.
+
+   5. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+
+City of Beverly Hills’ 6th Cycle Adopted Housing Element                             Page 3
+January 14, 2022
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).)
+
+      HCD’s prior review found the element must estimate the total costs of preserving at-risk
+      units that are in danger of converting to market-rate during the next ten years. In
+      response, the element presents confounding information that the earliest date of
+      conversion for the Beverly Hills Senior Housing project is 2028 and is “technically
+      classified as being at-risk of conversion...”; however, the “City has the right to purchase
+      the upper floor for one dollar in 2041; therefore, this project is not at risk of conversion
+      to market rate.” These revisions do not address HCD’s findings. Please see HCD’s prior
+      review for additional information.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the housing element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      The element now includes revisions that satisfactorily addresses timeframes for
+      Programs 11.5 and 12.1. However, there are no revisions to Programs 9.3 (Home
+      Repair and Improvement) and 10.3 (Housing Trust Fund). In addition, Program 10,4
+      (Accessory Dwelling Units) still requires timeframes for creating pre-approved ADU
+      plans and for outreach materials, including an ADU webpage.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for
+      all income levels, including multifamily rental housing, factory built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis,
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+
+
+City of Beverly Hills’ 6th Cycle Adopted Housing Element                           Page 4
+January 14, 2022
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+   3. The housing element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      In response to HCD’s prior review, the element now includes revisions that identify
+      additional actions to assist low-, very low-, low- and moderate-income households in
+      Program 10.6 (Partnerships with Affordable Housing Developers). However, none of
+      these actions have corresponding timeframe commitments for implementation that will
+      result in beneficial impacts during the planning period.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A3 and A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to add programs and address and remove or mitigate any
+      identified constraints. In addition, while the element now includes revisions to Program
+      12.1 (Development Standards) that commit the City to amendments by 2024, it still
+      contains terms including “studying” and “evaluating” that do not result in beneficial
+      impacts during the planning period.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete analysis of affirmatively
+      furthering fair housing (AFFH). Based on the outcomes of that analysis, the element
+      must add or modify programs.
+
+   6. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd.
+      (c)(6).)
+
+
+City of Beverly Hills’ 6th Cycle Adopted Housing Element                               Page 5
+January 14, 2022
+      As noted in Finding A5, the element must complete an analysis of units at risk of
+      conversion to market rate during the planning period. The element must add or modify
+      programs based on the outcomes of that analysis.
+
+   7. Develop a plan that incentivizes and promotes the creation of ADU that can be offered
+      at affordable rent, as defined in Section 50053 of the Health and Safety Code, for very
+      low, low-, or moderate-income households. For purposes of this paragraph, “ADU” has
+      the same meaning as “ADU” as defined in paragraph (4) of subdivision (i) of Section
+      65852.2. (Gov. Code, § 65583, subd. (c)(7).)
+
+      The element now includes revisions that address some timeframes to actions identified
+      in Program 10.4 (Accessory Dwelling Units). However, other actions still lack specified
+      timeframes other than indicating “throughout the planning period,” including amending
+      the zoning code to remove barriers regarding ADUs in multi-family zones, pre-plan
+      checks and pre-approved ADU plans, and creating an ADU webpage.
+
+
+C. Public Participation
+
+   Include a diligent effort by the local government to achieve public participation of all
+   economic segments of the community in the development of the housing element, and the
+   program shall describe this effort. (Gov. Code, § 65583, subd. (c)(9).)
+
+   The element now includes revisions that address when the draft was disseminated and
+   how public comments were incorporated. The element also includes clarifying revisions on
+   the types of outreach conducted, including an additional Planning Commission meeting,
+   mailings to property owners, and an ADU survey. However, these revisions are insufficient
+   in demonstrating that all economic segments of the community, particularly low-and
+   moderate-income households and organizations that represent them, were involved in the
+   development of the housing element. Please see HCD’s prior review.
+
+
+
+
+City of Beverly Hills’ 6th Cycle Adopted Housing Element                        Page 6
+January 14, 2022

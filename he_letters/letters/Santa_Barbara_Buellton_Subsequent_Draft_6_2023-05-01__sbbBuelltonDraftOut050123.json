@@ -1,0 +1,14 @@
+{
+  "county": "Santa Barbara",
+  "jurisdiction": "Buellton",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-05-01",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbbBuelltonDraftOut050123.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbbBuelltonDraftOut050123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 222672,
+  "text_chars": 20091,
+  "text_empty": false
+}

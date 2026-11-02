@@ -1,0 +1,739 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 12, 2022
+
+
+         Dana Ayers, Director
+         Community Development Department
+         City of Clayton
+         6000 Heritage Trail
+         Clayton, CA 94517
+
+         Dear Dana Ayers:
+
+         RE: City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Clayton’s (City) draft housing element received for
+         review on July 14, 2022. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a conversation on October 7, 2022
+         with you and your consultants Reina Schwartz and Laura Stetson. In addition, HCD
+         considered comments from East Bay For Everyone, East Bay YIMBY, Greenbelt Alliance,
+         YIMBY Law, South Bay YIMBY pursuant to Government Code section 65585, subdivision
+         (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+         housing needs allocation, including for lower-income households, shall be completed no
+         later than one year from the statutory deadline. Otherwise, the local government’s
+         housing element will no longer comply with State Housing Element Law, and HCD may
+         revoke its finding of substantial compliance pursuant to Government Code section
+         65585, subdivision (i). Please be aware, if the City fails to adopt a compliant housing
+         element within one year from the statutory deadline, the element cannot be found in
+         substantial compliance until rezones to accommodate a shortfall of sites pursuant to
+         Government Code section 65583, subdivision (c)(1)(A) and Government Code section
+         65583.2, subdivision (c) are completed.
+Dana Ayers, Director
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Jamillah Williams, of our staff, at
+Jamillah.Williams@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                     CITY OF CLAYTON
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Enforcement: While the element includes analysis of fair housing complaints, it must
+      describe the City’s compliance with existing fair housing laws and regulations. For
+      additional information, please see pages 28-30 on HCD’s AFFH Guidance Memo at
+      https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+      Regional Analysis: While the element analyzed components of the fair housing
+      assessment and compared the City to neighboring and similar communities (i.e., Walnut
+      Creek, Concord, Pleasant Hill), the element must analyze the City compared to the
+      broader region and with nearby communities such as Unincorporated Contra Costa
+      County (Bay Point), Antioch, and Pittsburg, and evaluate the disparities and differences
+      in income, race, disparities in access to opportunity and other relevant components from
+      the assessment of fair housing. Additionally, the element should supplement this
+      analysis with local data and knowledge and other relevant factors (noted in the finding
+      below). Based on a complete analysis, the element must formulate meaningful actions
+      and programs in response to the analysis.
+
+      Racially Concentrated Areas of Affluence (RCAA): The element includes some general
+      analysis about whether parts of the City are considered an RCAA. However, HCD’s fair
+      housing data viewer indicates that the entire City is considered an RCAA. The analysis
+      should include updated data regarding the City’s RCAA designations and as noted
+      above this should be analyzed relative to the broader region, county, and neighboring
+      communities including the City’s eastern neighbors. For more information, please visit:
+      https://affh-data-resources-cahcd.hub.arcgis.com.
+
+      Disparities in Access to Opportunity: While the element identifies and describes local
+      and regional patterns and trends in disparities in access to opportunity for education,
+      transit, economic, and environmental quality, it also must analyze disparities in access
+      to opportunities for persons with disabilities. A complete analysis should include the
+
+      City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element               Page 1
+      October 12, 2022
+locally and regional disparities of the educational, environmental, and economic scores
+through local, federal, and/or state data and conclude with a summary of issues.
+
+Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element must
+include an analysis demonstrating whether sites identified to accommodate the regional
+housing need allocation (RHNA) are distributed throughout the community in a manner
+that AFFH. In the analysis, the element concludes that the distribution of sites improves
+fair housing conditions because of identification of sites in high-resource areas.
+However, the element should discuss the location and magnitude of impact to evaluate
+AFFH. A full analysis should address the income categories of identified sites with
+respect to location, the number of sites and units by all income groups and how that
+effects the existing patterns for all components of the assessment of fair housing (e.g.,
+segregation and integration, disparities in access to opportunity). The element should
+also discuss any isolation of the RHNA by income group and whether the distribution of
+sites improves or exacerbates conditions. If sites exacerbate conditions, the element
+should identify further program actions that will be taken to mitigate this (e.g., anti-
+displacement strategies).
+
+Local Data and Knowledge and Other Relevant Factors: As noted in the prior finding,
+the element must supplement the analysis and complement state and federal data with
+local data and knowledge to capture emerging trends and issues, including utilizing
+knowledge from local and regional advocates, public comments, and service providers.
+Additionally, the element should analyze historical land use, zoning, governmental and
+nongovernmental spending including transportation investments, demographic trends,
+historical patterns of segregation, or other information that may have impeded housing
+choices and mobility.
+
+Contributing Factors to Fair Housing Issues: The element includes contributing factors
+to fair housing issues but should re-evaluate and prioritize these factors based on a
+complete analysis to better respond to the fair housing issues.
+
+Goals, Priorities, Metrics, and Milestones: Goals and actions must significantly seek to
+overcome contributing factors to fair housing issues. Currently, the element identifies
+program(s) to encourage and promote affordable housing; however, most of these
+programs do not appear to facilitate any meaningful change nor address AFFH
+requirements. Furthermore, the element must include quantifiable metrics and
+milestones for evaluating progress on programs, actions, and fair housing results.
+Programs must generally address enhancing housing mobility, increasing housing
+opportunities in high resourced areas, place-based strategies for community
+revitalization, and addressing displacement risks. Programs also need to be based on
+identified contributing factors, be significant and meaningful. The element must add, and
+revise programs based on a complete analysis and listing and prioritization of
+contributing factors to fair housing issues.
+
+For your information, while the element still needs to include a complete analysis, based
+on the current information, relative to the City’s eastern neighbors and the broader
+County and region, the City is considered a higher resourced, higher-income, and
+racially homogenous (majority white population) community. As such, the element
+
+City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element              Page 2
+October 12, 2022
+   should focus on strong programs and actions that enhance housing mobility and
+   encourage development of more housing choices and affordable housing in an inclusive
+   manner.
+
+2. An inventory of land suitable and available for residential development, including vacant
+   sites and sites having realistic and demonstrated potential for redevelopment during the
+   planning period to meet the locality’s housing need for a designated income level, and
+   an analysis of the relationship of zoning and public facilities and services to these sites.
+   (Gov. Code, § 65583, subd. (a)(3).)
+
+   Progress in Meeting the RHNA: The element identified 109 units that have been
+   approved, entitled or under construction for lower and moderate-income households.
+   Specifically, the element includes “The Olivia Project” to accommodate seven lower-
+   income RHNA units. However, the element must demonstrate the affordability of this
+   project through actual or anticipated rents or sales prices or other mechanism ensuring
+   affordability such as inclusionary requirements or deed restrictions.
+
+   Availability of Zoning: HCD understands that zoning for multifamily parcels (M-R-M and
+   M-R-H) is inconsistent or does not have a corresponding General Plan land use
+   designation. The City acknowledges that these inconsistencies require projects to apply
+   for a general plan text amendment and a rezone request to implement the appropriate
+   zoning and densities. While the element includes a program to address this
+   inconsistency, for your information, for sites expected to accommodate the City’s lower-
+   income RHNA, if zoning is not in place by the beginning of the planning period (January
+   31, 2023), the element must include a program committing to adopting zoning changes
+   and comply with requirements pursuant to Government Code section 65583.2,
+   subdivisions (h) and (i).
+
+   Realistic Capacity: While the element provides assumptions of buildout for sites
+   included in the inventory, it must also provide support for these assumptions. For
+   example, the element should demonstrate what specific trends, factors, and other
+   evidence led to the assumptions. The estimate of the number of units for each site must
+   be adjusted as necessary, based on the land use controls and site improvements,
+   typical densities of existing or approved residential developments at a similar
+   affordability level in that jurisdiction. For example, the City surveyed recently approved
+   projects as a part of its methodology, but the element should identify and describe each
+   of those projects to support residential capacity assumptions. For additional information,
+   see the Building Blocks at https://www.hcd.ca.gov/analysis-of-sites-and-zoning.
+
+   Additionally, the inventory lists a number of sites in nonresidential zones. For sites with
+   zoning that allows 100 percent nonresidential uses (e.g., commercial and mixed-use
+   zones), the calculation of residential capacity must account for the likelihood of 100
+   percent nonresidential uses. The analysis should be based on factors such as
+   development trends including nonresidential, performance standards requiring
+   residential uses or other relevant factors such as enhanced policies and programs. For
+   example, the element could analyze all development activity in these nonresidential
+   zones, how often residential development occurs and adjust residential capacity
+   calculations, policies, and programs accordingly.
+
+   City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                 Page 3
+   October 12, 2022
+Nonvacant Sites: The element must demonstrate the potential for redevelopment on
+nonvacant sites. To address this requirement, the element notes some general criteria
+utilized for some but not all the identified nonvacant sites. For example, for some sites,
+the element notes where there is owner/developer interest. Additionally, the element
+includes a statement that sites have been chosen due to their location, existing uses,
+and potential for intensification. This statement should be supported by analysis. First,
+the element must clearly state the methodology used for identifying nonvacant sites,
+including describing all criteria. Second, to facilitate an analysis of redevelopment
+potential, the element should reflect the criteria in the actual sites inventory. For
+example, the element can list the various criteria utilized on a site-by-site basis. Third,
+the element must support the validity of the criteria, utilize other criteria, or remove sites
+if appropriate. For example, the element can discuss previous sites that shared similar
+characteristics to the methodology and were redeveloped in multifamily housing.
+
+Further, the element must analyze the extent that existing uses may impede
+additional residential development. The element also indicates that some sites are
+partially vacant including Sites T, N, and F. For your information, if a site has an
+existing use, it is considered nonvacant. This information must be reconciled in the
+element and sites inventory. To analyze the extent the existing use may impede
+additional residential development, the element can summarize past experiences
+converting existing uses to higher density residential development, include current
+market demand for the existing use, provide analysis of existing leases or contracts
+that would perpetuate the existing use or prevent additional residential development
+and include current information on development trends and market conditions in the
+City and relate those trends to the sites identified.
+
+In addition, based on the sites inventory, the housing element relies upon nonvacant
+sites to accommodate more than 50 percent of the RHNA for lower-income households.
+For your information, the housing element must demonstrate existing uses are not an
+impediment to additional residential development and will likely discontinue in the
+planning period. (Gov. Code, § 65583.2, subd. (g)(2).) Absent findings (e.g., adoption
+resolution) based on substantial evidence, the existing uses will be presumed to impede
+additional residential development and will not be utilized toward demonstrating
+adequate sites to accommodate the RHNA.
+
+Finally, if the element utilizes sites with existing residential uses. Absent a replacement
+housing policy, these sites are not adequate sites to accommodate lower-income
+households. The replacement housing policy must meet the requirements set forth in
+Government Code section 65915, subdivision (c) (3).
+
+Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+accommodate housing for lower-income housing unless it is demonstrated that sites of
+equivalent size and affordability were successfully developed during the prior planning
+period or unless the element describes other evidence demonstrating the suitability of
+these sites. The element is assuming lot consolidation for several smaller sites to
+accommodate a range of income levels including lower-income households. While the
+element mentions lot consolidation to facilitate development on these sites, it must
+
+City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                   Page 4
+October 12, 2022
+include an analysis to support this assumption. For example, the element must describe
+circumstances or criteria used to identify suites suitable for lot consolidation such as
+common ownership; the City’s role or track record in facilitating small-lot consolidation;
+policies or incentives offered or proposed to encourage and facilitate lot consolidation;
+specific examples of projects that were built for lower-income households on similarly
+sized sites, densities and affordability and relate those examples back to the sites
+inventory. Based on a complete analysis, the City should consider adding or revising
+programs to include incentives for facilitating development on small sites.
+
+Previously Identified Nonvacant and Vacant Sites: Nonvacant sites identified in the prior
+planning period or vacant sites identified in two or more consecutive planning periods
+are inadequate to accommodate housing for lower-income households unless the
+element includes a program that requires rezoning within one or three years (whichever
+is applicable) of the beginning of the planning period to allow residential use at
+appropriate densities by right for housing developments in which at least 20 percent of
+the units are affordable to lower-income households. (Gov. Code, § 65583.2, subd. (c).)
+While the element cites the government code related to sites identified in the previous
+planning period, it must clearly indicate which sites were identified in previous planning
+periods and include a program as appropriate.
+
+Zoning for Lower-Income Households: Pursuant to Section 65583.2(c)(3)(A) and (B),
+the element must identify sites with zoning and densities appropriate to accommodate
+the development of housing for lower-income households based on factors such as
+market demand, financial feasibility and development experience within zones. For
+communities with densities that meet specific standards (at least 20 units per acre for
+Clayton), this analysis is not required (Section 65583.2(c)(3)(B)). The element identifies
+Site B (Silver Oaks) in the inventory to accommodate a portion of the City’s lower-
+income RNHA; however the allowable density is five units per acre. A density of five
+units per acre will not be found appropriate to accommodate housing for lower-income
+households. The element must either remove the site from accommodating the lower-
+income RHNA or add a program to rezone the site at appropriate densities.
+
+Accessory Dwelling Units (ADU): The element is projecting 32 ADUs for an average of
+4 ADUs per year over the eight-year planning period to accommodate a portion of its
+RHNA. The projections are based off ADU building permit trends. Specifically, the
+element states that the City permitted 7 ADUs over the last four years averaging roughly
+2 ADUs per year. However, HCD’s records indicate that the City did not report ADU
+data for 2018 and 2019 and reported 3 ADUs in 2020 and 2 in 2021, averaging no more
+than 2 ADUs per year. First, to utilize past ADU permit data, the City must submit
+Annual Progress Reports for 2018 and 2019. Second, the City’s past performance on
+permitting ADUs do not support a two-fold increase. The element must reconcile these
+figures and adjust assumptions based on a realistic estimate of the potential for ADUs
+and include strong policies that commit to incentivizing ADUs. Depending on the
+analysis, the element must commit to monitor ADU production and affordability
+throughout the course of the planning period and implement additional actions if not
+meeting target numbers anticipated in the housing element. If necessary, additional
+actions, should be taken in a timely manner (e.g., within six months). The degree of
+additional actions should be in stride with the degree of the gap in production and
+
+City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element               Page 5
+October 12, 2022
+affordability. For example, if actual production and affordability of ADUs is far from
+anticipated trends, then rezoning or something similar would be an appropriate action. If
+actual production and affordability is near anticipated trends, then measures like
+outreach and marketing might be more appropriate.
+
+Environmental Constraints: While the element generally describes environmental
+conditions that exist in the City (e.g., stormwater, earthquakes, flood), it must relate
+those conditions to the identified sites including any other known conditions or other
+environmental constraints that could impact housing development on identified sites
+during the planning period.
+
+Availability of Infrastructure: While the element describes water and sewer
+infrastructure, it must also demonstrate sufficient existing or planned total water and
+sewer capacity to accommodate the RHNA.
+
+Zoning for a Variety of Housing Types:
+
+   •   Multifamily Zoning: While the element analyzed most zones discussing allowable
+       uses and development standards, it is relying entirely on sites zoned “PD” yet
+       provides no discussion or analysis of the zoning. The element must discuss and
+       analyze the PD zoning including listing allowable uses (p. 4-4) and applicable
+       development standards and processes.
+   •   Emergency Shelters: The element must describe compliance with Government
+       Code section 65583, subdivision a)(4)(A) or include a program to comply with
+       this requirement. For your information, pursuant to Government Code section
+       65583, subdivision a)(4)(A), parking requirements should be limited to allowing
+       sufficient parking to accommodate all staff working in the emergency shelter,
+       provided that the standards do not require more parking for emergency shelters
+       than other residential or commercial uses within the same zone.
+   •   Permanent Supportive Housing: Supportive housing shall be a use by-right in
+       zones where multifamily and mixed uses are permitted, including nonresidential
+       zones permitting multifamily uses pursuant to Government Code section 65651.
+       The element must demonstrate compliance with these requirements and include
+       programs as appropriate.
+   •   Employee Housing: In addition, the element must demonstrate zoning is
+       consistent with the Employee Housing Act (Health and Safety Code, § 17000 et
+       seq.), specifically, sections 17021.5 and 17021.6. Section 17021.5 requires
+       employee housing for six or fewer employees to be treated as a single-family
+       structure and permitted in the same manner as other dwellings of the same type
+       in the same zone. Section 17021.6 requires employee housing consisting of no
+       more than 12 units or 36 beds to be permitted in the same manner as other
+       agricultural uses in the same zone. The element must either demonstrate
+       consistency with these requirements or include programs to amend zoning as
+       appropriate. For additional information and sample analysis, see the Building
+       Blocks at https://www.hcd.ca.gov/farmworkers.
+   •   Manufactured Housing: The element describes site plan review and design
+       review requirements for mobile homes. According to state law, manufactured
+       homes on a permanent foundation are to be allowed the in the same as single-
+
+City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                 Page 6
+October 12, 2022
+          family homes. The element must demonstrate compliance with this requirement
+          or add or modify programs.
+
+3. An analysis of potential and actual governmental constraints upon the maintenance,
+   improvement, or development of housing for all income levels, including the types of
+   housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+   identified in the analysis pursuant to paragraph (7), including land use controls, building
+   codes and their enforcement, site improvements, fees and other exactions required of
+   developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+   (a)(5).)
+
+   Land Use Controls: The element must identify and analyze all relevant land use controls
+   impacts as potential constraints on a variety of housing types. The analysis should
+   evaluate land use controls independently and cumulatively with other land use controls,
+   the analysis should specifically address minimum unit sizes (e.g., 1,000-1800 square
+   feet), lot coverage requirements and height limits. The analysis should address any
+   impacts on cost, supply, housing choice, affordability, timing, approval certainty and
+   ability to achieve maximum densities and include programs to address identified
+   constraints. Based on a complete analysis, the element should include programs to
+   address or remove the identified constraints.
+
+   Local Permit and Processing Procedures: While the element included some discussion
+   of permitting procedures and requirements, it must specifically analyze the use permit
+   and site plan permit requirements. First, the element states that multifamily is allowed
+   by-right; however the element also indicates that multifamily is subject to a development
+   plan permit and site plan review which requires notification requirements to neighbors,
+   public hearings, City Council and Planning Commission review and examining
+   compatibility with surrounding uses – essentially a conditional use or exception process.
+   For your information, subjecting multifamily housing to an exception process is
+   considered a constraint. The analysis must evaluate the processing and permit
+   procedures’ impacts as potential constraints on housing supply (number of units), costs,
+   timing, feasibility and approval certainty. For example, the analysis should consider
+   level of review and actual approval findings. Secondly, the element listed several other
+   permits but should evaluate those processes including the development plan permit,
+   site plan review, and use permit. Lastly, the City requires a use permit for housing for
+   persons with disabilities (e.g., residential care facilities of seven or more). As referenced
+   below, these procedures must be analyzed as potential constraints.
+
+   The element also indicates that an affordable housing plan is required to implement the
+   City’s inclusionary requirement. It further states that the affordable housing plan
+   including unit mixes and other requirements are subject to City Council discretion. The
+   element must analyze this requirement for any potential constraints on housing supply,
+   cost, feasibility and affordability.
+
+   Design Review: The element references a number of specific plans that contain design
+   review standards respective to each Specific Plan Area (SPA). The element must
+   describe and analyze the design review guidelines and process, including approval
+   procedures and decision-making criteria for each SPA, for their impact as potential
+
+   City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                 Page 7
+   October 12, 2022
+constraints on housing supply and affordability. For example, the analysis could
+describe required findings and discuss whether objective standards and guidelines
+improve development certainty and mitigate cost impacts. The element must
+demonstrate this process is not a constraint or it must include a program to address this
+permitting requirement, as appropriate. In addition, the Housing Crisis Act of 2019 (SB
+330, 2019) was signed by Governor Newsom on October 9, 2019 and became effective
+on January 1, 2020. The Housing Crisis Act (Gov. Code, § 66300), under specified
+conditions, suspends the use of subjective design standards.
+
+The element should evaluate its design review process for consistency with these
+requirements and include actions as appropriate. For additional information and sample
+analysis, see the Building Blocks at https://www.hcd.ca.gov/processing-permitting-
+procedures.
+
+Fees and Exactions: The element indicates that the City imposes either the same fee
+costs for both multifamily and single-family housing or for certain fees, multifamily fees
+are more expensive than fees for single family developments. The element should
+closely evaluate these fees, including disproportionate impacts on housing types such
+as multifamily and include programs that specifically address and mitigate this
+constraint. For additional information and a sample analysis and tables, see the Building
+Blocks at http://www.hcd.ca.gov/community-development/building-
+blocks/constraints/fees-and-exactions.shtml.
+
+Zoning and Fees Transparency: While the element states that the City offers a
+development handbook to applicants that provides an overview of its development
+approval process, it must clarify compliance with new transparency requirements for
+posting all zoning, development standards and fees on the City’s website and add a
+program to address these requirements, if necessary.
+
+SB 35 Streamlined Ministerial Approval Process: The element must clarify whether
+there are written procedures for the SB 35 (Chapter 366, Statutes of 2017) Streamlined
+Ministerial Approval Process and add a program to establish written procedures, if
+necessary.
+
+Local Ordinances: The element must specifically identify and analyze locally adopted
+ordinances such as inclusionary ordinances or short-term rental ordinances that directly
+impact the cost and supply of residential development.
+
+On/Off-Site Improvements: While the element listed the types of improvements required
+for development, it must identify actual subdivision level improvement requirements,
+such as minimum street widths (e.g., 40-foot minimum street width), and analyze their
+impact as potential constraints on housing supply and affordability. For additional
+information and a sample analysis, see the Building Blocks at
+https://www.hcd.ca.gov/codes-and-enforcement-of-onsite-offsite-improvement-
+standards.
+
+
+
+
+City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element               Page 8
+October 12, 2022
+   Constraints on Housing for Persons with Disabilities –
+
+      •   Residential Care Facilities of Seven or More: The element indicates that this use
+          is permitted as a commercial use, allowed only with a use permit, requires that
+          these uses are 1,000 feet apart from each other, and must provide parking
+          spaces beyond the required spaces of a typical single-family home. For your
+          information, zoning should simply implement a barrier-free definition of family
+          instead of subjecting, potentially persons with disabilities, to special regulations
+          such as the number of persons, parking requirements, population types and
+          licenses. These housing types should not be excluded from residential zones,
+          most notably low-density zones, which can constrain the availability of housing
+          choices for persons with disabilities. Requiring these housing types to obtain a
+          special use or conditional use permit (CUP) could potentially subject housing for
+          persons with disabilities to higher discretionary standards where an applicant
+          must demonstrate compatibility with the neighborhood, unlike other residential
+          uses. The element must analyze these standards as potential constraints for
+          housing persons with disabilities and include a program to mitigate or remove
+          constraints. In addition, the element must address how the City permits and
+          allows unlicensed group homes of seven or more.
+      •   Definition of Family: The element stated that the City revised its definition of
+          family; however, the element must specifically describe and evaluate the actual
+          definition for impacts on housing for persons with disabilities.
+      •   Reasonable Accommodation: While the element stated that the City does utilize
+          a reasonable accommodation process, it must include a discussion and analysis
+          of the timing, process, fees, and approval findings for a reasonable
+          accommodation for any potential constraints on persons with disabilities. Based
+          on a complete analysis, the element may need to include a program to mitigate
+          or remove constraints.
+
+4. Analyze existing assisted housing developments that are eligible to change to nonlow-
+   income housing uses during the next 10 years due to termination of subsidy contracts,
+   mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+   (a)(9) through 65583(a)(9)(D).)
+
+   The element must identify public and private nonprofit corporations (qualified entities)
+   known to have the legal and managerial capacity to acquire and manage at-risk units.
+   For a list of qualified entities, please visit: https://www.hcd.ca.gov/policy-and-
+   research/preserving-existing-affordable-housing.
+
+5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+   developmental disability; large families; farmworkers; families with female heads of
+   households; and families and persons in need of emergency shelter. (Gov. Code, §
+   65583, subd. (a)(7).)
+
+   Special Needs Households: While the element includes data and a general discussion
+   of housing challenges faced by special needs households, it still must provide an
+   analysis of the existing needs and resources for each special needs group including
+
+   City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                Page 9
+   October 12, 2022
+     seniors, farmworkers, persons with disabilities, and female-headed households. For
+     example, the element should discuss the existing resources to meet housing needs
+     (availability of shelter beds, number of large units, number of deed restricted units, etc.),
+     an assessment of any gaps in resources, and proposed policies, programs, and funding
+     to help address those gaps.
+
+
+B. Housing Programs
+
+  1. Include a program which sets forth a schedule of actions during the planning period,
+     each with a timeline for implementation, which may recognize that certain programs are
+     ongoing, such that there will be beneficial impacts of the programs within the planning
+     period, that the local government is undertaking or intends to undertake to implement
+     the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+     § 65583, subd. (c).)
+
+     To have beneficial impacts and meet the goals and objectives of the housing element,
+     programs must have specific commitment and discrete timelines (e.g., at least annually
+     or by a specified date). Programs must be revised to address these requirements.
+     Examples include Programs A-1 Code Enforcement, B-1 Accessory Dwelling Units, B-2
+     Town Center Mixed-Use, B-3 Affordable Housing Development, E-1 Mortgage
+     Programs, H-1 Funding Assistance, and H-2 Reasonable Accommodation, and J-3
+     Proactive Actions. For additional information, see the Building Blocks at
+     https://www.hcd.ca.gov/program-overview-and-quantified-objectives.
+
+  2. Identify actions that will be taken to make sites available during the planning period with
+     appropriate zoning and development standards and with services and facilities to
+     accommodate that portion of the city’s or county’s share of the regional housing need
+     for each income level that could not be accommodated on sites identified in the
+     inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+     to comply with the requirements of Government Code section 65584.09. Sites shall be
+     identified as needed to facilitate and encourage the development of a variety of types of
+     housing for all income levels, including multifamily rental housing, factory-built housing,
+     mobilehomes, housing for agricultural employees, supportive housing, single-room
+     occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+     subd. (c)(1).)
+
+     As noted in Finding A2, the element does not include a complete site analysis;
+     therefore, the adequacy of sites and zoning were not established. Based on the results
+     of a complete sites inventory and analysis, the City may need to add or revise programs
+     to address a shortfall of sites or zoning available to encourage a variety of housing
+     types. In addition, the element should be revised as follows:
+
+     Shortfall of Sites: If the element does not identify adequate sites, including available
+     zoning and development standards, to accommodate the RHNA for lower-income
+     households, it must include a program(s) to specifically commit to rezoning sites
+     pursuant to Government Code section, 65583.2, subdivisions (h) and (i). While the
+
+
+     City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                 Page 10
+     October 12, 2022
+   element includes a rezoning program, it does not appear to meet these requirements.
+   For example, the program should:
+
+          Identifying acreage, allowable densities, and anticipated units.
+          permit owner-occupied and rental multifamily uses by-right for developments in
+           which 20 percent or more of the units are affordable to lower-income households.
+           By-right means local government review must not require a CUP, planned unit
+           development permit, or other discretionary review or approval.
+          accommodate a minimum of 16 units per site;
+          require a minimum density of 20 units per acre; and
+          at least 50 percent of the lower-income need must be accommodated on sites
+           designated for residential use only or on sites zoned for mixed uses that
+           accommodate all of the very low and low-income housing need, if those sites:
+               o allow 100 percent residential use, and
+               o require residential use occupy 50 percent of the total floor area of a mixed-
+                   use project.
+
+   For additional information, see the Building Blocks’ at https://www.hcd.ca.gov/identify-
+   adequate-sites.
+
+   City-Owned Sites: The element identified City-Owned sites to accommodate a portion of
+   the RHNA. The element should include a program with numerical objectives that
+   ensures compliance with the Surplus Land Act, provides incentives and actions along
+   with a schedule of actions to facilitate development. Actions should include outreach
+   with developers, issuing requests for proposals, incentives, fee waivers, priority
+   processing, financial assistance, completing entitlements and issuing building permits.
+
+3. Address and, where appropriate and legally possible, remove governmental and
+   nongovernmental constraints to the maintenance, improvement, and development of
+   housing, including housing for all income levels and housing for persons with
+   disabilities. The program shall remove constraints to, and provide reasonable
+   accommodations for housing designed for, intended for occupancy by, or with
+   supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+   As noted in Finding A3, the element requires a complete analysis of potential
+   governmental and nongovernmental constraints. Depending upon the results of that
+   analysis, the City may need to revise or add programs and address and remove or
+   mitigate any identified constraints.
+
+4. Promote and affirmatively further fair housing opportunities and promote housing
+   throughout the community or communities for all persons regardless of race, religion,
+   sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+   characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+   Program to AFFH: While the element includes Programs J-1, J-2, and J-3 to address
+   fair housing issues in Clayton, these programs do not address priorities discussed in the
+   AFFH section and do not appear intended toward a significant beneficial impact during
+   the planning period. For your information pursuant to Government Code section
+
+   City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                    Page 11
+   October 12, 2022
+   8899.50 “Affirmatively furthering fair housing” means taking meaningful actions, in
+   addition to combating discrimination, that overcome patterns of segregation and foster
+   inclusive communities free from barriers that restrict access to opportunity based on
+   protected characteristics. Specifically, AFFH means taking meaningful actions that,
+   taken together, address significant disparities in housing needs and in access to
+   opportunity, replacing segregated living patterns with truly integrated and balanced
+   living patterns, transforming racially and ethnically concentrated areas of poverty into
+   areas of opportunity, and fostering and maintaining compliance with civil rights and fair
+   housing laws. The duty to AFFH extends to all public agency’s activities and programs
+   relating to housing and community development.
+
+5. The housing program shall preserve for low-income household the assisted housing
+   developments identified pursuant to paragraph (9) of subdivision (a)... (Gov. Code, §
+   65583, subd. (c)(6).)
+
+   As noted in Finding A4, the element identifies five units at-risk of converting to market-
+   rate uses in the planning period. While Program I-1 (Monitor and Provide Options) will
+   monitor units, the program must also go beyond “considering” amending Chapter 17.92
+   and extending affordability covenants” and specifically commit to these actions. The
+   element must include a program that addresses preserving at-risk units and specifying
+   actions to monitor at-risk units, including contacting property owners within at least one
+   year of the affordability expiration dates on projects. The program for preserving at-risk
+   units should include noticing requirements within 3 years and 12 and 6 months of the
+   affordability expiration dates, in addition to coordinating with qualified entities such as
+   nonprofit organizations and establish specific time parameters around such actions.
+
+6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+   that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+   The element indicated that planning commission review for larger ADUs can be a
+   constraint for the overall development of these units. As such the element stated that it
+   will remove this constraint; however it did not include a program committing to remove
+   this requirement. The element should be revised with an action to remove planning
+   commission review of large ADU types.
+
+   Additionally, while Program D-1 (General Plan Amendments) commits to amending the
+   ADU ordinance to comply with state law, the element is required to include a program
+   that actively incentivizes or promotes ADU development for very low-, low-, and
+   moderate-income households. This can take the form of flexible zoning requirements,
+   development standards, or processing and fee incentives that facilitate the creation of
+   ADUs, such as reduced parking requirements, fee waivers and more. Other strategies
+   could include developing information packets to market ADU construction, targeted
+   advertising of ADU development opportunities or establishing an ADU specialist within
+   the planning department.
+
+
+
+
+   City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element                Page 12
+   October 12, 2022
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for new construction, rehabilitation, and
+   conservation by income group, it could consider quantified objectives for conservation
+   (beyond at-risk preservation). For your information, the quantified objectives do not
+   represent a ceiling, but rather set a target goal for the City to achieve, based on needs,
+   resources, and constraints.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element shall
+   describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a general summary of the public participation process, it should also
+   demonstrate diligent efforts were made to involve all economic segments of the community in the
+   development of the housing element. The element could describe the efforts to circulate the
+   housing element among low- and moderate-income households and organizations that represent
+   them and to involve such groups and persons in the element throughout the process. The element
+   should be revised to discuss outreach to lower-income and special needs groups during the public
+   participation efforts, solicitation efforts for survey responses, participation in community
+   workshops, and if translation services were provided. In addition, the element should also
+   summarize the public comments and describe how they were considered and incorporated into
+   the element.
+
+
+
+
+      City of Clayton’s 6th Cycle (2023-2031) Draft Housing Element               Page 13
+      October 12, 2022

@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "La Puente",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-08-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-la-puente-rezone-in-082826-068cs00002Tg2lPAAR.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-la-puente-rezone-in-082826-068cs00002Tg2lPAAR.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 180583,
+  "text_chars": 5159,
+  "text_empty": false
+}

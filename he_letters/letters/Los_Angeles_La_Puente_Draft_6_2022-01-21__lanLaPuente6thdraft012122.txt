@@ -1,0 +1,557 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 21, 2022
+
+
+         John Di Mario, Director
+         Development Services Department
+         City of La Puente
+         15900 Main Street
+         La Puente, CA 91744
+
+         Dear John Di Mario:
+
+         RE: City of La Puente’s 6th Cycle (2021-2029) Draft Housing Element Update
+
+         Thank you for submitting the City of La Puente’s (City) draft housing element received
+         for review on November 24, 2021. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of this
+         statutory deadline, then any rezoning to accommodate the regional housing needs
+         allocation (RHNA), including for lower-income households, shall be completed no later
+         than one year from the statutory deadline. Otherwise, the local government’s housing
+         element will no longer comply with State Housing Element Law and HCD may revoke its
+         finding of substantial compliance pursuant to Government Code section 65585,
+         subdivision (i).
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+John Di Mario, Director
+Page 2
+
+
+
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Sohab Mehmood, of our staff, at
+Sohab.mehmood@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                     CITY OF LA PUENTE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Enforcement: While the element includes analysis of fair housing complaints, it must
+      describe the City’s compliance with existing fair housing laws and regulations. For
+      additional information, please see pages 28-30 on HCD’s AFFH Guidance Memo at
+      https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+      Sites Inventory: While the element analyzed sites relative to most fair housing
+      components, it must analyze all sites by income group relative to disproportionate housing
+      needs (e.g., cost burdened, overcrowded households, substandard housing conditions,
+      displacement). Additionally, the analysis should address how the impacts of the sites by
+      income group relative to location, any isolation of the regional housing needs allocation
+      (RHNA) by income then incorporate local data and knowledge and other relevant factors
+      (see below) to evaluate whether sites improve fair housing conditions related to each
+      component of the analysis (if sites exacerbate conditions, programs that can mitigate
+      impact).
+
+      Local Knowledge and Data: The element should incorporate local data and knowledge of
+      the jurisdiction into the Affirmatively Furthering Fair Housing (AFFH) section. To assist in
+      meeting this requirement, the element should provide local data not captured in regional,
+      state, or federal data such as information from City’s records and expertise and comments
+      from community and stakeholder meetings.
+
+      Other Relevant Factors: The element must include other relevant factors that contribute to
+      fair housing issues in the jurisdiction. For instance, the element should analyze historical
+      land use, zoning, governmental and nongovernmental spending including transportation
+      investments, demographic trends, historical patterns of segregation, or other information
+      that may have impeded housing choices and mobility.
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                        Page 1
+January 21, 2022
+      Goals, Actions, Metrics, and Milestones: Programs and actions must specifically respond
+      to the factors that contributed to fair housing issues in the community. The element did not
+      include programs that will meaningfully overcome contributing factors and address fair
+      housing issues. At minimum, actions must have specific commitments, milestones and
+      metrics and should, based on the outcomes of the analysis, enhance housing mobility,
+      provide new housing choices and affordability in high opportunity areas, and place-based
+      strategies for community preservation and revitalization. For a list of sample strategies,
+      please see pages 72-74 of HCD’s AFFH Guidance Memo at
+      https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+      Extremely Low-Income (ELI) Households: While the element identified the total number of
+      ELI households by tenure, it must identify the projected number of ELI households. The
+      projected housing need for ELI households can be calculated by using available census
+      data to determine the number of very low-income households that qualify as ELI
+      households or presume that 50 percent of the RHNA for very low-income households
+      qualify as ELI households. For additional information, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/extremely-
+      low-income-housing-needs.shtml.
+
+      Additionally, while the element included information on general characteristics and
+      challenges faced by ELI household, it should examine trends and the availability of
+      resources to determine the magnitude of gaps in housing needs to appropriately formulate
+      policies and programs. For additional information, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/extremely-
+      low-income-housing-needs.shtml.
+
+   3. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Housing Stock Conditions: While the element identifies the age of the housing stock and
+      quantifies units that are lacking adequate plumbing or kitchen facilities, it must estimate
+      the number of units in need of rehabilitation and replacement. For additional information,
+      see the Building Blocks at http://www.hcd.ca.gov/community-development/building-
+      blocks/housing-needs/housing-stock-characteristics.shtml.
+
+   4. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Realistic Capacity: The element listed various adjustment factors to determine realistic
+      capacity and provided a general statement that adjustments are based on past
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                          Page 2
+January 21, 2022
+      development trends. However, the element should support these adjustments based on
+      recent projects. For example, the element could list these recent projects by zone,
+      allowable density, built density and affordability to support assumptions for residential
+      capacity assumption.
+
+      In addition, where applicable, the calculation of residential capacity should account for the
+      likelihood of 100 percent nonresidential development. For example, some zones appear to
+      allow 100 percent nonresidential development but must also account for that likelihood. To
+      address this requirement, the element should calculate residential capacity based on
+      recent trends, policies and programs or other factors that support the assumption of
+      residential capacity. For example, the analysis could examine all development activity or
+      anticipated activity in zones allowing 100 percent nonresidential uses and account for the
+      likelihood of 100 percent nonresidential uses in the calculation of residential capacity.
+
+      Zoning for Lower-Income Households: The element must identify zoning appropriate to
+      accommodate housing for lower-income households. The element may use zones meeting
+      default densities (i.e., 30 units per acre in La Puente) without analysis or include analysis
+      when utilizing zones that do not meet default densities. The City identifies sites with
+      religious institutions that allow for a maximum allowable density between 7-18 du/ac for
+      lower-income households and provided no supporting information for the feasibility of
+      developing at affordable housing at lower densities. The element must demonstrate
+      appropriate densities based on factors such as market demand, financial feasibility, and
+      development experience within identified zones.
+
+      Suitability of Nonvacant Sites and Candidate Sites for Rezoning: The element identifies
+      most of its lower-income RHNA on nonvacant sites and lists some factors utilized in
+      identifying sites, discusses the overall market trends for mixed-use development, and
+      provided three project examples from neighboring jurisdictions. However, the analysis
+      does not demonstrate the potential for development on nonvacant sites. The element
+      should clearly list any objective criteria used to identify sites, list the actual values of the
+      criteria in the inventory to relate it to the analysis, and discuss how these factors are
+      indicative of redevelopment potential.
+
+      To facilitate an analysis demonstrating potential for additional development, the element
+      must describe existing uses in sufficient detail. For example, the inventory uses generic
+      labels for existing uses (i.e., shopping center, commercial, etc.,). The description of
+      existing uses should be sufficiently detailed, and the element should analyze the extent
+      that the existing uses may impede additional residential development. The element can
+      summarize past experiences converting existing uses to higher density residential
+      development, include current market demand for the existing use, provide analysis of
+      existing leases or contracts that would perpetuate the existing use or prevent additional
+      residential development, include current information on development trends and market
+      conditions in the City and relate those trends to the sites identified. For example, while the
+      element provided few project examples from neighboring cities, it provided no analysis
+      demonstrating the applicability to existing uses in the sites inventory. The element should
+      discuss the characteristics of those project examples (e.g., existing uses, zoning,
+      affordability level, market area) and consider its applicability to the identified sites.
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                             Page 3
+January 21, 2022
+      In addition, the housing element appears to rely upon nonvacant sites to accommodate
+      more than 50 percent of the RHNA for lower-income households. For your information, the
+      housing element must demonstrate existing uses are not an impediment to additional
+      residential development and will likely discontinue in the planning period. (Gov. Code, §
+      65583.2, subd. (g)(2).) Absent findings (e.g., adoption resolution) based on substantial
+      evidence, the existing uses will be presumed to impede additional residential development
+      and will not be utilized toward demonstrating adequate sites to accommodate the RHNA.
+
+      Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+      accommodate housing for lower-income housing unless it is demonstrated that sites of
+      equivalent size were successfully developed during the prior planning period for an
+      equivalent number of lower-income housing units as projected for the site or unless the
+      housing element describes other evidence to HCD that the site is adequate to
+      accommodate lower-income housing. (Gov. Code, § 65583.2, subd. (c)(2)(A).) For
+      example, a site with a proposed and approved housing development that contains units
+      affordable to lower-income households would be an appropriate site to accommodate
+      housing for lower-income households. (Gov. Code, § 65583.2, subd. (c)(2)(C).). The
+      element identifies several sites consisting of aggregated small parcels and states that the
+      City expects these parcels to be consolidated into larger sites. However, the element
+      should include analysis as described above to demonstrate the suitability of these sites to
+      accommodate development with units affordable to lower-income households. For
+      example, while the element included local developer feedback that sites do not need
+      common ownership to facilitate lot consolidation, the analysis still must describe the
+      potential for consolidation such as policies or incentives offered or proposed to encourage
+      and facilitate lot consolidation, conditions rendering parcels suitable and ready for
+      redevelopment, recent trends of lot consolidation, information on the owners of each
+      aggregated site or other relevant factors to demonstrate the potential for consolidation.
+      Based on the outcomes of this analysis, the element should remove sites if appropriate
+      and add or modify programs.
+
+      Accessory Dwelling Units (ADUs): The City is counting 272 ADUs over the eight-year
+      planning period for an average of 34 ADUs per year to accommodate a portion of the
+      City’s RHNA. However, the City’s Annual Progress Reports (APR) indicate that the City
+      permitted 27 ADUs in 2018 and 23 in 2020 (no records were available for 2018) for an
+      average of 16 ADUs per year. The City’s past performance on permitting ADUs do not
+      support a two-fold increase. The element should reconcile these figures and adjust
+      assumptions, if necessary, based on a realistic estimate of the potential for ADUs and
+      include policies and programs that commit to incentivizing ADUs. Depending on the
+      analysis, the element must commit to monitor ADU production and affordability throughout
+      the course of the planning period and implement additional actions if not meeting target
+      numbers anticipated in the housing element. If necessary, additional actions should be
+      taken in a timely manner (e.g., within six months). The degree of additional actions should
+      be in stride with the degree of the gap in production and affordability. For example, if
+      actual production and affordability of ADUs is far from anticipated trends, then rezoning or
+      something similar would be an appropriate action. If actual production and affordability is
+      near anticipated trends, then measures like outreach and marketing might be more
+      appropriate.
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                       Page 4
+January 21, 2022
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision (b),
+      the City must utilize standards, forms, and definitions adopted by HCD when preparing the
+      sites inventory. Please note, upon adoption of the housing element, the City must submit
+      an electronic version of the sites inventory with its adopted housing element to
+      sitesinventory@hcd.ca.gov. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/community-development/housing-element/index.shtml for a copy
+      of the form and instructions.
+
+      Water Sewer Priority: Water and sewer service providers must establish specific
+      procedures to grant priority water and sewer service to developments with units affordable
+      to lower-income households. (Gov. Code, § 65589.7.) Local governments are required to
+      immediately deliver the housing element to water and sewer service providers. The
+      element should demonstrate compliance with these requirements and if necessary, add or
+      modify programs to establish a written procedure by a date early in the planning period.
+      For additional information and sample cover memo, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/other-
+      requirements/priority-for-water-sewer.shtml.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: While the element included a general statement that the CM
+              zone encompasses underutilized properties near services and transportation to
+              accommodate an emergency shelter (p. H-34), it must include an analysis of the
+              suitability and capacity of the CM zone to meet the need for emergency shelters.
+              For example, the element should identify the number of parcels, typical parcel
+              sizes, available acreage, whether sites are underutilized, existing uses, and any
+              potential for reusing existing buildings to emergency. The element should also
+              discuss any known hazardous conditions unfit for human habitation.
+
+          •   Employee Housing: The element indicates the City does not have agriculturally zoned
+              land or existing agricultural uses, and therefore, is not required to comply with the
+              Employee Housing Act (Health and Safety Code § 17000 et seq.). However, section
+              17021.5 requires employee housing for six or fewer employees to be treated as a
+              single-family structure and permitted in the same manner as other dwellings of the
+              same type in the same zone. The element must either demonstrate compliance with this
+              requirement or include programs to amend zoning as appropriate. For additional
+              information and sample analysis, see the Building Blocks at
+              http://www.hcd.ca.gov/community-development/building-blocks/housing-
+              needs/farmworkers.shtml.
+
+   5. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                          Page 5
+January 21, 2022
+      Land Use Controls: While the element analyzed most relevant land use controls, it must
+      specifically analyze requirements related to multifamily parking (number of required
+      spaces for small bedroom types and garage requirements). The analysis should address
+      any impacts on cost, supply, housing choice, affordability, timing, approval certainty and
+      ability to achieve maximum densities and include programs to address identified
+      constraints.
+
+      Processing and Permit Procedures: The element indicates that multifamily projects with
+      three more units must receive a Site Plan and Design Review permit and is subject to
+      planning commission approval. The element also discussed specific approval procedures
+      and findings. The required approval findings listed in the element (p. H-38) are related to
+      neighborhood character, aesthetic quality, and compatibility with neighboring
+      developments. The element should analyze these standards for impacts on timing, cost,
+      supply, and approval certainty and include programs to address identified constraints. For
+      example, the analysis could discuss the presence of objective criteria or guidelines to
+      promote approval certainty. The element must demonstrate this process is not a constraint
+      or it must include a program to address this permitting requirement, as appropriate.
+
+      On/Off-Site Improvements: While the element provides some information about on and
+      off-site improvements, it should identify actual standards for typical developments such
+      as street widths, sidewalks and curbs and analyze their impact as potential constraints
+      on housing cost, supply, and affordability.
+      Zoning, Development Standards and Fees: The element must clarify compliance with new
+      transparency requirements for posting all zoning, development standards and fees on the
+      City’s website and add a program to address these requirements, if necessary.
+      SB 35 Streamlined Ministerial Approval Process: The element should clarify whether the
+      City has procedures consistent with streamlining procedures pursuant to Government
+      Code section 65913.4 and include programs as appropriate.
+
+      Local Ordinances: The element must specifically analyze locally adopted ordinances (e.g.,
+      inclusionary ordinance, short-term rental ordinance) that directly impact the cost and
+      supply of residential development.
+
+   6. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …the requests
+      to develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2… (Gov. Code, § 65583, subd.
+      (a)(6).)
+
+      Densities: The element stated that market-rate developers propose products at the lower
+      end of the density range. The element specifically should identify requests to develop at
+      densities below those identified in the inventory.
+
+   7. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                       Page 6
+January 21, 2022
+      Special Needs Households: While the element includes data and a general discussion of
+      housing challenges faced by special needs households, it still must provide an analysis of
+      the existing needs and resources for each special needs group including seniors, large
+      households, female headed households, and persons experiencing homelessness. For
+      example, the element should discuss the existing resources to meet housing needs
+      (availability of shelter beds, number of large units, number of deed restricted units, etc.),
+      an assessment of any gaps in resources, and proposed policies, programs, and funding to
+      help address those gaps.
+
+      Farmworkers: While the element includes some data on farmworkers, it should specifically
+      quantify the number of permanent and seasonal farmworkers at the county level (i.e.,
+      USDA data) to better understand the broader and unique housing needs of farmworkers.
+
+   8. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd. (a)(9)
+      through 65583(a)(9)(D).).
+
+      The element states that the Nantes Manor affordability restrictions will expire in 2027;
+      however HCD’s records indicate an expiration date of 2023. The element should reconcile
+      these dates and modify programs committing to proactively reaching out to owners and
+      qualified entities. Additionally, the element must identify public and private entities known
+      to have the legal and managerial capacity to potentially acquire and preserve at-risk units
+      (i.e., qualified entities). For a list of organizations serving La Puente and the broader Los
+      Angeles County region, please see: https://www.hcd.ca.gov/policy-research/preserving-
+      existing-affordable-housing.shtml.
+
+
+B. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding A4, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                        Page 7
+January 21, 2022
+      Shortfall of Sites: The City must address a shortfall of sites to accommodate the RHNA for
+      lower-income households. While the element included Program 6 to complete rezoning
+      efforts within three years, the Program must specifically commit to acreage, allowable
+      densities, and anticipated units. In addition, to accommodate the housing needs of lower-
+      income households, the Program must specifically commit to rezoning pursuant to
+      Government Code section 65583.2, subdivisions (h) and (i). Specifically, the Program
+      must commit to:
+
+         •   permit owner-occupied and rental multifamily uses by-right for developments in
+             which 20 percent or more of the units are affordable to lower-income households.
+             By-right means local government review must not require a conditional use permit
+             (CUP), planned unit development permit, or other discretionary review or approval;
+         •   accommodate a minimum of 16 units per site;
+         •   require a minimum density of 20 units per acre; and
+         •   at least 50 percent of the lower-income need must be accommodated on sites
+             designated for residential use only or on sites zoned for mixed uses that
+             accommodate all the very low and low-income housing need under specified
+             conditions.
+
+      Program 4 – Facilitate Residential and Mixed-Use Development in the Downtown
+      Business District Specific Plan: The element assumes 50 units per acre in mixed-use
+      zones and states that it will increase height limits to facilitate reaching realistic capacity
+      assumptions. This Program should include a completion date for this action early in the
+      planning period.
+
+   2. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The element must include programs to assist in the development of housing for lower- and
+      moderate-income households, including ELI and special needs households. Program
+      actions could include proactive outreach and assistance to non-profit service providers and
+      developers, prioritizing some funding for housing developments affordable to special
+      needs households and offering financial incentives or regulatory concessions to encourage
+      a variety of housing types.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding(s) A5 and A6, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                            Page 8
+January 21, 2022
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete assessment of fair housing.
+      Based on the outcomes of that analysis, the element must add or modify programs.
+
+   5. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd. (c)(6).)
+
+      Program 9 – Preservation of Affordable Housing: In addition to other actions, this Program
+      should commit to coordinating with qualified entities to preserve and maintain the
+      affordability of at-risk units, providing education to tenants qualified entities, and complying
+      with noticing requirements within 3 years, 12 months, and 6 months of the affordability
+      expiration date.
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   The element must include quantified objectives for number of housing units that will be
+   conserved and rehabilitated for moderate and above moderate-income category.
+   Conservation objectives may include the variety of strategies employed by the city to promote
+   tenant stability, code enforcement and repair programs that conserve the housing stock, and
+   the preservation of units at-risk of conversion to market rate.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   HCD understands the City made the housing element available to the public only two
+   weeks prior to HCD submittal on November 24, 2021. By not providing an opportunity for
+   the public to review and comment on a draft of the element without sufficient time, in
+   advance of submission, the City has not yet complied with statutory mandates to make a
+   diligent effort to encourage the public participation in the development of the element and it
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                          Page 9
+January 21, 2022
+   reduces HCD’s ability to consider public comments in its review. The availability of the
+   document to the public and opportunity for public comment prior to submittal to HCD is
+   essential to the public process and HCD’s review. The City must proactively make future
+   revisions available to the public, including any commenters, prior to submitting any
+   revisions to HCD and diligently consider and address comments, including revising the
+   document where appropriate. HCD’s future review will consider the extent to which the
+   revised element documents how the City solicited, considered, and addressed public
+   comments in the element. The City’s consideration of public comments must not be limited
+   by HCD’s findings in this review letter.
+
+
+
+
+City of La Puente’s 6th Cycle Draft Housing Element Update                   Page 10
+January 21, 2022

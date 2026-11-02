@@ -1,0 +1,14 @@
+{
+  "county": "Ventura",
+  "jurisdiction": "Thousand Oaks",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-09-08",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ven-thousand-oaks-rev-draft-in-090823.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ven-thousand-oaks-rev-draft-in-090823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 136326,
+  "text_chars": 5332,
+  "text_empty": false
+}

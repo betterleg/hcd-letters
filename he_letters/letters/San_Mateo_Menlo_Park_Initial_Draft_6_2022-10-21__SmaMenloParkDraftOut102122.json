@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Menlo Park",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2022-10-21",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SmaMenloParkDraftOut102122.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SmaMenloParkDraftOut102122.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 300941,
+  "text_chars": 48795,
+  "text_empty": false
+}

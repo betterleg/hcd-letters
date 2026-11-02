@@ -1,0 +1,14 @@
+{
+  "county": "Colusa",
+  "jurisdiction": "Colusa",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2020-10-15",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/colColusaINdraft10152020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/colColusaINdraft10152020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191088,
+  "text_chars": 3614,
+  "text_empty": false
+}

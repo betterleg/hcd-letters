@@ -1,0 +1,626 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 12, 2023
+
+
+         Joel Paulson, Director
+         Community Development Department
+         Town of Los Gatos
+         110 E Main Street,
+         Los Gatos, CA 95030
+
+         Dear Joel Paulson:
+
+         RE: Town of Los Gatos’ 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the Town of Los Gatos draft housing element received for
+         review on October 14, 2022. Pursuant to Government Code section 65585, subdivision
+         (b), the California Department of Housing and Community Development (HCD) is
+         reporting the results of its review. In addition, HCD considered comments from YIMBY
+         Law and Greenbelt Alliance, Kylie Clark, Silicon Valley@Home and Campaign for Fair
+         Housing Elements and YIMBY Law, pursuant to Government Code section 65585,
+         subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation pursuant to
+         Government Code sections 65583, subdivision (c) and 65583.2, subdivision (c), shall be
+         completed no later than one year from the statutory deadline. Please be aware, if the
+         Town fails to adopt a compliant housing element within one year from the statutory
+         deadline, the element cannot be found in substantial compliance until any necessary
+         rezones are completed.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+         Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+         Local Housing Allocation consider housing element compliance and/or annual reporting
+Joel Paulson, Director
+Page 2
+
+
+
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the Town will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the Town to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates your hard work provided in the housing element update. We are
+committed to assisting the Town in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Jose Armando Jauregui, of our staff, at
+jose.jauregui@hcd.ca.gov .
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                       APPENDIX
+                                   TOWN OF LOS GATOS
+
+The following changes are necessary to bring the Town’s housing element into compliance
+with Article 10.6 of the Government Code. Accompanying each recommended change, we cite
+the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   The review requirement is one of the most important features of the element update. The
+   review of past programs should describe progress in implementation of previous actions,
+   including results compared to objectives and evaluate the effectiveness of actions to make
+   appropriate adjustments in the current planning period. In the most cases, the element
+   does not describe any progress in implementation and particularly housing related
+   outcomes and then simply concludes to continue or modify programs. For example, the
+   prior element had a program to implement the below market rate program and evaluate the
+   program as a constraint. The element reports the program was implemented. There is no
+   discussion of outcomes or an evaluation of constraints. Then, the element concludes the
+   program will be modified but the new program does not appear to adjust on past efforts.
+   The element must fully describe past commitments, progress in implementation, evaluate
+   effectiveness and then discuss appropriate adjustments in the current planning period.
+
+   In addition, the element must provide an evaluation of the cumulative effectiveness of past
+   goals, policies, and related actions in meeting the housing needs of special needs
+   populations (e.g., elderly, persons with disabilities, large households, female-headed
+   households, farmworkers, and persons experiencing homelessness) and revise programs
+   as appropriate.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                      Page 1
+January 12, 2023
+      Regional Level Patterns and Trends: While the element includes several maps and
+      tables and reports data, it generally must evaluate the data and especially at a regional
+      level, comparing the Town to the broader region. This is particularly important since the
+      Town appears far different from the rest of the region. The analysis should address all
+      components of the assessment of fair housing (e.g., segregation and integration,
+      disparities in access to opportunity) and should focus on race, income, and overall
+      access to opportunity). The analysis should address trends and incorporate local data
+      and knowledge and other relevant factors (See below).
+
+      Income and Racial Concentration of Affluence (RCAA): The element briefly mentions
+      incomes in the Town compared to the region and notes it is safe to speculate the Town
+      has neighborhoods that are RCAAs; however, the entire Town is a RCAA and the
+      element should incorporate this information. Please see HCD’s Affirmatively Furthering
+      Fair Housing (AFFH) Data Viewer at https://affh-data-resources-cahcd.hub.arcgis.com/.
+      The element should include specific analysis of income and RCAA at a regional level
+      (Town compared to the broader region). The analysis should at least address trends,
+      conditions, coincidence with other fair housing factors (e.g., race, highest resource,
+      overpayment), effectiveness or absence of past strategies (e.g., lack of publicly assisted
+      housing and lack of multifamily zoning), local data and knowledge and other relevant
+      factors. The element must add or modify meaningful programs based on the outcomes
+      of this analysis, including actions to improve housing mobility within and beyond Town
+      boundaries.
+
+      Disparities in Access to Opportunity: While the element provided a general analysis of
+      opportunity areas, and high-level conclusions about the Town’s disparities in access to
+      opportunity, it should analyze trends and patterns related to access to transportation on
+      a local and regional level.
+
+      Disproportionate Housing Needs, Including Displacement Risk: The element includes
+      some information on cost burden and overcrowding but should also discuss local
+      patterns of housing conditions. For example, the element should discuss areas of the
+      Town where proportions of housing units needing rehabilitation may be higher than
+      other areas and may utilize local knowledge such as qualitative information from code
+      enforcement staff.
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): The element must
+      include data on the location of regional housing need allocation (RHNA) sites by income
+      group relative to all fair housing components. The analysis should address the number
+      of units by income group and location, any isolation of the RHNA by income group,
+      magnitude of the impact on existing concentrations of socio- economic characteristics
+      and discuss how the sites improve fair housing conditions. The analysis should be
+      supported by local data and knowledge and other relevant factors and programs should
+      be added or modified as appropriate to promote inclusive and equitable communities.
+
+      Local Data and Knowledge: The element must include local data, knowledge, and other
+      relevant factors to discuss and analyze any unique attributes about the Town related to
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                     Page 2
+January 12, 2023
+      fair housing issues. The element should complement federal, state, and regional data
+      with local data and knowledge where appropriate to capture emerging trends and
+      issues, including utilizing knowledge from local and regional advocates and service
+      providers, Town staff and related local and County planning documents.
+
+      Other Relevant Factors: While the element includes some general background on
+      exclusionary practices, it should relate these situations to the Town and complement
+      data and mapping with other relevant factors that contribute to fair housing issues in the
+      Town. For instance, the element can analyze historical land use; zoning and barriers to
+      housing choices such as past denials of affordable housing, local land use initiatives or
+      proposed referendums; investment practices; seeking investment or lack of seeking
+      investment to promote affordability and inclusion; information about
+      redlining/greenlining, restrictive covenants and other discriminatory practices; land use
+      related lawsuits; local land use initiatives; demographic trends, or other information that
+      complements the state and federal data.
+      Contributing Factors to Fair Housing Issues: Upon a complete AFFH analysis, the
+      element must assess and prioritize contributing factors to fair housing issues and add or
+      modify programs as appropriate.
+
+   2. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Housing Conditions: The element provides some information on age of the housing
+      stock. However, it must estimate the number of units in need of rehabilitation and
+      replacement. For example, the analysis could include estimates from a recent
+      windshield survey or sampling, estimates from the code enforcement agency, or
+      information from knowledgeable organizations. For additional information, see the
+      Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/housing-stock-characteristics.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Pipeline Projects: The element includes a list of 176 units through pipeline projects on
+      page D-38. While the element may utilize pipeline and potential development projects
+      toward the RHNA, it must also demonstrate their affordability and availability in the
+      planning period. Affordability must be demonstrated based on actual sales price, rent
+      level or other mechanisms ensuring affordability (e.g., deed restrictions). Availability
+      should account for the likelihood of project completion in the planning period and should
+      address the status, necessary steps to issue permits, any barriers to development and
+      other relevant factors.
+
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                       Page 3
+January 12, 2023
+      Sites Inventory: The element must clarify what the allowable density is for the North
+      Forty Specific Plan identified in Table A. The inventory indicates sites zoned under the
+      North Forty Specific Plan where the minimum and maximum densities is the same (i.e.,
+      30 units per acre). If the densities are the same, the element should include a specific
+      analysis of the range as a potential constraint.
+
+      Realistic Capacity: The element must include a methodology for calculating the realistic
+      residential capacity of identified sites. The methodology must be adjusted as necessary,
+      based on the land use controls and site improvements and typical densities of existing
+      or approved residential developments at a similar affordability level in that jurisdiction.
+      For example, the element could clearly list other recent projects, the zone, acreage,
+      built density, allowable density, level of affordability and presence of exceptions such as
+      a density bonus.
+
+      In addition, the element must also account for the likelihood of 100 percent
+      nonresidential development. The element lists recent trends for residential development
+      in non-residential zones but should also consider the development activity of 100
+      percent nonresidential uses. For example, the element could analyze all development
+      activity in these nonresidential zones, how often residential development occurs and
+      adjust residential capacity calculations, policies, and programs accordingly. This
+      analysis may incorporate any proposed policies such as residential performance
+      standards and prohibition of commercial uses.
+      Nonvacant Sites: The element must include an analysis demonstrating the potential for
+      additional development on nonvacant sites. The element generally provides a
+      description of the properties like location and whether the property owner submitted an
+      interest form but does not describe the results of the form or why the property might
+      redevelop in the planning period. To address this requirement, the element should
+      address the extent to which existing uses may constitute an impediment to additional
+      residential development, the Town’s past experience with converting existing uses to
+      higher density residential development, the current market demand for the existing use,
+      an analysis of any existing leases or other contracts that would perpetuate the existing
+      use or prevent redevelopment of the site for additional residential development,
+      development trends, market conditions, and regulatory or other incentives or standards
+      to encourage additional residential development on these sites.
+      For your information, if the housing element relies upon nonvacant sites to
+      accommodate more than 50 percent of the RHNA for lower-income households the
+      housing element must demonstrate existing uses are not an impediment to additional
+      residential development and will likely discontinue in the planning period. (Gov. Code, §
+      65583.2, subd. (g)(2).) Absent findings (e.g., adoption resolution) based on substantial
+      evidence, the existing uses will be presumed to impede additional residential
+      development and will not be utilized toward demonstrating adequate sites to
+      accommodate the RHNA.
+      Replacement Housing Requirements: The element identifies sites with existing
+      residential uses. Absent a replacement housing program, these sites are not adequate
+      sites to accommodate lower-income households. The replacement housing program
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                      Page 4
+January 12, 2023
+      that has the same requirements as set forth in Government Code section 65915,
+      subdivision (c), paragraph (3). The housing element must be revised to include such
+      analysis and a program, if necessary.
+      Small Sites: The element identifies several sites smaller than a half-acre. Sites
+      smaller than a half-acre in size are deemed inadequate to accommodate housing for
+      lower-income housing unless it is demonstrated that sites of equivalent size and
+      affordability were successfully developed during the prior planning period or other
+      evidence demonstrates the suitability of the sites to accommodate housing for lower-
+      income households, including programs as appropriate.
+      Zoning for Lower-Income Households: The element must demonstrate zoning
+      appropriate to accommodate housing for lower-income households. The sites inventory
+      includes zones with densities of 14 to 22 units per acre (Medium Density Residential R-
+      M) that allocate units for lower income. However, the element does not include an
+      analysis evaluating the adequacy of the R-M zone to encourage and facilitate the
+      development of units affordable to lower-income households. For communities with
+      densities that meet specific standards (allow at least 30 units per acre for Los Gatos),
+      no analysis is required. Otherwise, the element must include an analysis based on,
+      including but not limited to, factors such as market demand, financial feasibility and
+      development experience within identified zones demonstrating how the adopted
+      densities can accommodate housing for lower-income households.
+
+      SB 9 Sites: The element identifies SB 9 as a strategy to accommodate the part of the
+      Town’s RHNA. To support these assumptions, the analysis must include experience,
+      trends and market conditions that allow lot splits. The analysis must also include a
+      nonvacant sites analysis demonstrating the affordability, likelihood of redevelopment and
+      the existing use will not constitute as an impediment for additional residential use. The
+      analysis should describe how the Town determined eligible properties, whether the
+      assumed lots will have turnover, if the properties are easy to subdivide, and the condition
+      of the existing structures or other relevant factors indicating additional development
+      potential. The analysis should also describe interest from property owners as well as
+      experience. The analysis should provide support for the assumption of eligible properties
+      being developed within the planning period. Based on the outcomes of this analysis, the
+      element should add or modify programs to establish zoning and development standards
+      early in the planning period and implement incentives to encourage and facilitate
+      development as well as monitor development every two years with and identify additional
+      sites within six months if assumptions are not being met. The element should support this
+      analysis with local information such as local developer or owner interest to utilize zoning
+      and incentives established through SB 9.
+
+
+      Availability of Infrastructure: The element must demonstrate sufficient existing or
+      planned water and sewer capacity to accommodate the Town’s RHNA for the planning
+      period.
+
+      Zoning for a Variety of Housing Types:
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                     Page 5
+January 12, 2023
+          •   Transitional and Supportive Housing: Transitional housing and supportive
+              housing are permitted as a residential use and only subject to those restrictions
+              that apply to other residential dwellings of the same type in the same zone. The
+              element must demonstrate compliance with this requirement or include a
+              program if necessary.
+          •   Permanent Supportive Housing: By right permanent supportive housing shall be
+              a use by-right in zones where multifamily and mixed uses are permitted,
+              including nonresidential zones permitting multifamily uses pursuant to
+              Government Code section 65651. The element must demonstrate compliance
+              with this requirement and include programs as appropriate.
+          •   Employee Housing: The element should clarify if there are any zones that allow
+              agriculture uses. If there are zones that allow agriculture uses, then the town
+              must comply with California Health and Safety Code Section 17021.6. Section
+              17021.6 requires employee housing consisting of no more than 12 units or 36
+              beds to be permitted in the same manner as other agricultural uses in the same
+              zone.
+          •   Manufactured Housing: The element must demonstrate zoning permits
+              manufactured housing on a permanent foundation in the same manner and in the
+              same zone as a conventional or stick-built structures are permitted (Government
+              Code Section 65852.3) or add or modify programs as appropriate.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the Town must submit an electronic sites inventory with its adopted housing
+      element. The Town must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      Town can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types. For example, the element
+      should analyze all development standards by zoning district for impacts on housing
+      costs and ability to achieve maximum densities. The element should also discuss any
+      local initiatives, referendums, moratoriums or other mechanisms (existing or proposed)
+      that impact housing supply, cost, feasibility, timing and ability to achieve maximum
+      densities. In addition, the analysis should specifically address the development
+      standards in the North Forty Specific Plan, Mixed Use Commercial, and the High-
+      Density Residential zone. The analysis must evaluate the cumulative impacts of land
+      use controls on the cost and supply of housing, including the ability to achieve
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                       Page 6
+January 12, 2023
+      maximum densities. The Town could engage the development community to assist with
+      this analysis.
+
+      Fees and Exaction: While the element lists the total fees per units for single-family and
+      multifamily development, it should also list the fees that comprise that total and
+      particularly impact fees then evaluate those total fees for impacts on development
+      costs.
+
+      Local Processing and Permit Procedures: The element must describe and analyze the
+      types of permits, extent of discretionary review including required approval findings,
+      number of public hearings and processing time required for a typical single family and
+      multifamily development that meets zoning requirements.
+
+      Housing for Persons with Disabilities: The element indicates the Town adopted a
+      procedure for requesting reasonable accommodation for persons with disabilities (p. C-
+      23) and describes the procedure; however, the element should address criteria related
+      to: “There would be no impact on surrounding uses” and include a program to address
+      the constraint. In addition, residential care facilities for seven or more require a
+      conditional use permit (CUP). The element should evaluate the CUP as a constraint and
+      add a program to allow group homes in all residential zones with an objective and
+      certain process similar to other residential uses.
+
+      Density Bonus: The element states the Town adopted a state density bonus program in
+      June 2012. The Town’s current density bonus program should be reviewed for
+      compliance with current State Density Bonus Law (SDBL). (Gov. Code, § 65915.). The
+      element should include a program to update density bonus program. Program V is
+      conducting a study to evaluate the existing Density Bonus Ordinance and recommend
+      changes to increase the number of units constructed, however it should specifically
+      commit to update the ordinance in compliance with state law.
+
+      Inclusionary Zoning Ordinance: The element mentions the Town’s inclusionary zoning
+      ordinance, but it must also analyze the Town’s inclusionary housing requirements,
+      including its impacts as potential constraints on the development of housing for all
+      income levels. The analysis must evaluate the inclusionary broader policy’s
+      implementation framework, including the percentage of new residential construction that
+      is dedicated to affordable housing, the types of options and incentives offered,
+      relationships with SDBL and any other factors that may impact housing costs.
+
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning, development standards and fees for
+      each parcel on the jurisdiction’s website.
+
+   5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                     Page 7
+January 12, 2023
+      Special Housing Needs: While the element quantifies some of the Town’s special needs
+      populations, it must also estimate the number of persons experiencing homelessness in
+      the Town. In addition, the element reports data but must also analyze the special
+      housing needs. For a complete analysis of each population group, the element should
+      quantify the needs, evaluate trends and characteristics (e.g., tenure, income) of housing
+      needs, discuss disproportionate challenges faced by the population, the existing
+      resources to meet those needs, assess any gaps in resources or effectiveness of past
+      strategies, describe the magnitude of the remaining need and appropriate propose
+      policies and programs.
+
+      For additional information and a sample analysis, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and achieve the goals and objectives
+      of the housing element, programs should have specific commitment toward housing
+      outcomes and discrete and early timing (e.g., at least annually or by Jan 2025).
+      Examples of programs to be revised include:
+
+             •   Program K Small Multi-Unit Housing: The Program should include a timeline
+                 of when zoning code will be updated.
+             •   M Lot Consolidation: The Program should include a quantification of
+                 approximately how many lot consolidations the town plans to facilitate.
+             •   Program R Development Impact and Permit Fees: The Program should
+                 include a completion timeline.
+             •   Program S Affordable Housing Development: The Program should include
+                 quantification of approximately how many units will be incentivized.
+             •   Program T Purchase Affordability Covenants in Existing Apartments: The
+                 element should clarify the timeline to establish and implement the program
+                 (e.g., by 2024 and at least annually).
+             •   Program AC Housing Opportunities for Persons Living with Disabilities: The
+                 Program must include a completion timeframe.
+             •   Program AK Housing Conditions Survey: Program should be revised to include a
+                 specific timeline for when the housing condition survey will be conducted.
+                 Additionally, the element should describe how often funding will be applied for (e.g.,
+                 annually).
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                      Page 8
+January 12, 2023
+             •   Program AR CDBG and Other Housing Rehabilitation Programs: The Program
+                 should clarify how often the Town will participate in the County of Santa Clara
+                 Community Development Block Grant Joint Powers Authority (e.g. annually,
+                 biannually).
+             •   AS Countywide Home Repair Programs: The Program should include a
+                 numerical target (e.g., how many minor home repairs).
+             •   AU Residential Rehabilitation Program: The Program should include a
+                 timeline commitment.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the Town may need to add or revise
+      programs to address a shortfall of sites or zoning available to encourage a variety of
+      housing types. In addition, the element should be revised as follows:
+
+      Program D Additional Housing Capacity: Currently the element identifies a shortfall of
+      adequate sites to accommodate the RHNA within the planning period. Program D
+      appears to be intended to rezone sites to accommodate a shortfall of sites for the lower-
+      income- RHNA. However, the Program must be revised to meet all requirements
+      pursuant to Government Code section 65583.2, subdivisions (h) and (i). For example,
+      the Program must commit to permit owner-occupied and rental multifamily uses by-right
+      (without discretionary action) for developments in which 20 percent or more of the units
+      are affordable to lower-income households.
+
+      Replacement Housing Requirements: The housing element must include a program to
+      provide replacement housing. (Gov. Code, § 65583.2, subd. (g)(3).) The replacement
+      housing program must adhere to the same requirements as set forth in Government
+      Code section 65915, subdivision (c), paragraph (3).
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Program S (Affordable Housing Development): While the program targets extremely low
+      income and other special needs groups, it should also include very low- and low-income
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                      Page 9
+January 12, 2023
+      households. The Program should be revised to include outcome-oriented commitments
+      such as annual outreach with developers and identification of development or housing
+      opportunities.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding B4, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the Town may
+      need to revise or add programs and address and remove or mitigate any identified
+      constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element requires a complete AFFH analysis. Depending
+      upon the results of that analysis, the Town may need to revise or add or modify goals
+      and actions. Goals and actions must specifically respond to the analysis and to the
+      identified and prioritized contributing factors to fair housing issues and must be
+      significant and meaningful enough to overcome identified patterns and trends. Actions
+      must have specific commitment, milestones, geographic targeting and metrics or
+      numerical targets and, as appropriate, address housing mobility enhancement, new
+      housing choices and affordability in higher opportunity or higher income areas, place-
+      based strategies for community revitalization and displacement protection. For example,
+      the element must add significant and meaningful housing mobility actions to overcome
+      the existing patterns in the Town related to the broader region.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      Program U Accessory Dwelling Units (ADU): While the element includes a program to
+      incentivize ADU development by waiving fees when an ADU is deed restricted for very
+      low-, and low-income households, it should also provide other incentives that incentivize
+      and promote the creation of ADUs that can be offered at affordable rent. The element
+      could consider other ADU incentives such as exploring and pursuing funding, modifying
+      development standards, and reducing fees beyond state law, pre-approved plans, and
+      homeowner/applicant assistance tools. Finally, the program should commit to monitor
+      the production and affordability of ADUs (e.g., every other year) and make adjustments,
+      if necessary, by a date certain (e.g., within six months).
+
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                          Page 10
+January 12, 2023
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   The element did not address this requirement. The element must include quantified
+   objectives to establish an estimate of housing units by income category, including
+   extremely low-income households, that can be constructed, rehabilitated, and conserved
+   over the planning period.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element described various efforts to achieve public participation in the
+   preparation of the housing element update, it should also describe how comments were
+   considered and incorporated into the element.
+
+   Public participation in the development, adoption and implementation of the housing
+   element is essential to effective housing planning. During the housing element revision
+   process, the Town must continue to engage the community, especially organizations that
+   represent lower-income and special needs households, including local neighborhood
+   groups and commenters on this review such as Silicon Valley@Home, by making
+   information regularly available while considering and incorporating comments where
+   appropriate. Please be aware, any revisions to the element must be posted on the local
+   government’s website and to email a link to all individuals and organizations that have
+   previously requested notices relating to the local government’s housing element at least
+   seven days before submitting to HCD.
+
+
+F. General Plan Consistency
+
+   The Housing Element shall describe the means by which consistency will be achieved with
+   other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   The Town must discuss how internal consistency will be maintained and achieved with
+   other elements of the general plan throughout the planning period.
+
+
+
+
+Town of Los Gatos 6th Cycle (2023-2031) Draft Housing Element                   Page 11
+January 12, 2023

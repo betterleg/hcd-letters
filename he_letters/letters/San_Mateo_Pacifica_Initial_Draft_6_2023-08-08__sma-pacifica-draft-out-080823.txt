@@ -1,0 +1,695 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                    GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 8, 2023
+
+
+         Christian Murdock, Planning Director
+         Planning Department
+         City of Pacifica
+         540 Crespi Drive, Address
+         Pacifica, CA 94044
+
+         Dear Christian Murdock
+
+         RE: City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Pacifica’s (City) draft housing element received for
+         review on May 10, 2023. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a site visit and conversations with
+         you and your staff on July 7 and 27, 2023. In addition, HCD considered comments from
+         Summer Lee, John Keener, CKS Environmental, Toll Brothers, YIMBY Law, Galla
+         Bradshaw, Jan Turner, Nancy Tierner, David Kellogg, Jeffrey E. Sinder, Remi Tan and
+         Suzanne Moore, pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code, §
+         65580 et seq). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due January 31, 2023. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021),
+         as the City failed to adopt a compliant housing element within 120 days of the statutory
+         deadline (January 31, 2023), sites to make prior identified sites available or
+         accommodate the regional housing needs allocation (RHNA) must be completed no
+         later than one year from the statutory deadline. Otherwise, the local government’s
+         housing element will no longer comply with State Housing Element Law, and HCD may
+         revoke its finding of substantial compliance pursuant to Government Code section
+         65585, subdivision (i). Please be aware, if the City fails to adopt a compliant housing
+element within one year from the statutory deadline, the element cannot be found in
+substantial compliance until all necessary rezones are completed pursuant to
+Government Code section 65583, subdivision (c)(1)(A) and Government Code section
+65583.2, subdivision (c).
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process the City should continue to engage the community; including organizations that
+represent lower-income and special needs households; by making information regularly
+available and considering and incorporating comments where appropriate. Please be
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities program, and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assist the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Sohab Mehmood, of our staff, at
+sohab.mehmood@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                        APPENDIX
+                                     CITY OF PACIFICA
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   The element must provide a cumulative evaluation of the effectiveness of past goals,
+   policies, and related actions in meeting the housing needs of special needs populations
+   (e.g., elderly, persons with disabilities, large households, female-headed households,
+   farmworkers, and persons experiencing homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Enforcement: While the element included an evaluation of local and regional patterns, trends,
+      and enforcement capacity, it must also identify and address past or current fair housing
+      lawsuits, findings, settlements, judgements, or complaints. For additional information, please
+      see pages 28-30 on HCD’s Affirmatively Furthering Fair Housing (AFFH) Guidance Memo at
+      https://www.hcd.ca.gov/community-development/affh/docs/AFFH_Document_Final_4-27-
+      2021.pdf.
+
+   2. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+      The element includes data and a general discussion of housing challenges faced by
+      special needs households. However, the element must be revised to include an analysis
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                    Page 1
+August 8, 2023
+      of the existing needs and resources for each special need group including seniors,
+      farmworkers, large households, and persons with disabilities including developmental
+      disabilities and extremely low-income (ELI) households. For example, the element
+      should discuss the existing resources to meet housing needs (availability of shelter
+      beds, number of large units, number of deed restricted units, etc.,), an assessment of
+      any gaps in resources, and proposed policies, programs, and funding to help address
+      those gaps.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the Regional Housing Need Allocation (RHNA): As you know, the
+      City’s RHNA may be reduced by the number of new units built since July 1, 2022.
+      However, the element must demonstrate the availability of these units in the planning
+      period. First, it is unclear how many units the City is counting as credit towards the
+      RHNA. For example, the element analyzes several potential projects equating 232 units
+      (Table F-5); however, Table F-7 only reflects credit for 139 units. The element should
+      reconcile these numbers and accurately reflect the number of units as credit towards
+      the RHNA. Second, while the element provided some general information regarding
+      each project’s status, it should still demonstrate the likelihood that these units will be
+      built during the planning period. To demonstrate the availability of these units, the
+      element could analyze infrastructure schedules, City’s past completion rates on pipeline
+      projects, outreach with project developers, describe any expiration dates on
+      entitlements, anticipated timelines for final approvals, and any remaining steps for
+      projects to receive final entitlements. Based on a complete analysis, the element may
+      need to add or modify programs committing to facilitating and encouraging the
+      development of these projects.
+
+      Realistic Capacity:
+
+          •   General – The element is generally assuming 80 percent of maximum allowable
+              densities to calculate residential capacity on identified sites. Further, the element
+              includes examples of recent projects that have developed between 25-100
+              percent of the maximum allowable density with an average density of 81 percent
+              (Table F-4). The element should analyze projects including information on typical
+              densities on all recent and pipeline projects, the zone, acreage, built density,
+              allowable density, level of affordability, outliers from the assumed densities and
+              presence of exceptions such as a density bonus. Further, the element should
+              analyze and evaluate this data to support its realistic capacity calculations.
+
+          •   AB 2011 Capacity Assumptions – The element is assuming additional capacity
+              on sites that will be rezoned during the planning period beyond the projected
+              densities that will be allowed once the rezoning is completed. Specifically, the
+              element assumes additional capacity pursuant to AB 2011 (Statues of 2022)
+              which allows sites and projects that meet specific criteria to qualify for additional
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                       Page 2
+August 8, 2023
+              densities and ministerial approvals. However, for the element to utilize AB 2011
+              capacity assumptions, the City must demonstrate the likelihood that the sites and
+              potential projects will qualify to utilize the provisions of AB 2011. The element
+              should include local examples of sites redeveloping with qualifications similar to
+              those required under AB 2011. Alternatively, the element could commit to
+              rezoning to similar densities allowed under AB 2011 (60 units per acre) as a
+              method to utilizing these capacity assumptions. Based on a complete analysis,
+              the element may need to adjust capacity assumptions and include or modify
+              programs committing to rezoning to appropriate densities.
+
+          •   Sites in Zones that Allow 100 Percent Nonresidential Uses – The element
+              identifies sites in zones that allow nonresidential uses. The element must analyze
+              the likelihood that the identified units will be developed as noted in the inventory
+              in zones that allow 100 percent nonresidential uses. This analysis should
+              consider the likelihood of nonresidential development, performance standards,
+              and development trends supporting residential development. For additional
+              information, see the Building Blocks at https://www.hcd.ca.gov/planning-and-
+              community-development/housing-elements/building-blocks/analysis-sites-and-
+              zoning.
+
+      Site Size: The element identifies several sites at less than a half-acre to accommodate
+      the lower-income RHNA. These sites are not eligible absent a demonstration that sites
+      of equivalent size and affordability were successfully developed during the prior
+      planning period or unless other evidence is provided. The inventory indicates that some
+      of the sites would be consolidated; however, the element should provide an analysis
+      demonstrating the potential for lot consolidation. For example, the analysis could
+      describe the City’s role or track record in facilitating small-lot consolidation; policies or
+      incentives offered or proposed to encourage and facilitate lot consolidation, conditions
+      rendering parcels suitable and ready for lot consolidation; or information from the
+      owners of each aggregated site.
+
+      Suitability of Nonvacant Sites: The element is utilizing nonvacant sites to accommodate
+      a portion of the RHNA. However, the element must demonstrate the potential for
+      additional development. The methodology for demonstrating additional development on
+      nonvacant sites must discuss existing uses, development trends, and policies and
+      programs to encourage additional residential development. For example, the element
+      indicates several factors that may have been utilized when demonstrating the likelihood
+      for redevelopment including the degree of underutilization based on the current build out
+      of the site, age of existing uses, vacancies, and other trends (p. F-15). However, the
+      element must provide support for these assumptions including analyzing and discussing
+      how these factors are indicative of redevelopment potential. Second, the element
+      should relate these factors to the actual sites and quantify where possible (e.g., age of
+      building, current vs. allowed floor area ration (FAR), etc.,). Based on a complete
+      analysis the element may need to add or revise programs to facilitate redevelopment.
+
+      Additionally, to provide sufficient capacity for the RHNA during the planning period and
+      as part of identifying sites with potential for development, the element should consider
+
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                       Page 3
+August 8, 2023
+      public comments received regarding the inclusion of sites from property owners written
+      interest in residential development in the planning period.
+
+      Finally, if the housing element relies upon nonvacant sites to accommodate more than
+      50 percent of the RHNA for lower-income households, the City must make findings
+      based on substantial evidence, the existing uses will be presumed to impede additional
+      residential development. (Gov. Code, § 65583.2, subd. (g)(2).) Absent findings (e.g.,
+      adoption resolution), the existing uses will be presumed to impede additional residential
+      development and will not be utilized toward demonstrating adequate sites to
+      accommodate the RHNA.
+
+      Publicly-Identified Sites: The element identifies several publicly-identified sites to
+      accommodate a portion of the RHNA including school district and City-Owned sites. The
+      element must include an analysis addressing address general plan designations,
+      allowable densities, support for residential capacity assumptions, existing uses, and any
+      known conditions that preclude development in the planning period and the potential
+      schedule for development. For example, the element should evaluate public comments
+      and other information to evaluate the likelihood of redevelopment of these sites during
+      the planning period. If zoning does not currently allow residential uses at appropriate
+      densities, then the element must include programs to rezone sites pursuant to
+      Government Code section 65583.2, subdivisions (h) and (i). In addition, the housing
+      element must include a description of whether there are any plans to sell the property
+      during the planning period and how the jurisdiction will comply with the Surplus Land
+      Act (Article 8 (commencing with Section 54220) of Chapter 5 of Part 1 of Division 2 of
+      Title 5).
+
+      CalTrans Sites: The element identifies multiple CalTrans sites to accommodate a
+      portion of the RHNA. The element should include additional information to determine
+      that these sites will be available for residential development with the appropriate zoning
+      and densities during the planning period. Additionally, the element should include a
+      commitment to the decertification of any applicable Caltrans sites within three years
+      from the start of the planning period and alternative actions if this does not occur (e.g.,
+      identify additional adequate sites) by January 31, 2026.
+
+      Availability of Zoning: The element indicates that several sites that do not have
+      appropriate zoning or densities to accommodate the RHNA (p. 12). As such, the
+      element shows a shortfall of 1,039 units including 510 units for lower-income
+      households. While the element includes programs committing to rezoning sites
+      (Program 1-1 General Plan and Zoning Amendments), because zoning was not in place
+      at the start of the planning period (January 31, 2023), the element must include a
+      program committing to housing element rezone requirements pursuant to Government
+      Code section 65583.2 (h) and (i). As part of these rezoning requirements, the element
+      must commit to establishing a minimum density of 20 units per acre (Gov. Code
+      65583.2 (h)). Please see the programs section of this review for additional information.
+
+      AB 725: For jurisdictions that are considered Metropolitan, the element must identify at
+      least 25 percent of the remaining moderate and above-moderate RHNA on sites that
+
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                     Page 4
+August 8, 2023
+      allow at least four units of housing (e.g., four plex or greater) (Gov. Code, § 65583.2,
+      subd. (c)(4)).
+
+      Availability of Infrastructure: The element states that “nearly” all housing sites have the
+      most efficient infrastructure except two areas that will need additional analysis and that
+      may impact the design and timing of the development (p. G-30). Additionally, the
+      element indicates that potential infrastructure constraints related to water pump stations,
+      among other things, may impact a projects ability to reach maximum capacity. First, the
+      element must specifically indicate if total infrastructure capacity (existing and planned) is
+      available to accommodate the RHNA. Second, the element must include a program
+      committing to actions and a timeline to make sufficient infrastructure available to
+      accommodate the RHNA.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: Zoning to permit emergency shelters without discretionary
+              action was required as part of the 4th cycle housing element and prior to the 5th
+              cycle housing element. The element states that the City’s zoning regulations
+              does not address emergency shelters (p. G-16) and the City will include a
+              program committing to comply with Government Code section 65583, subdivision
+              (a)(4).). Further, the City provided additional documentation indicating that the
+              City’s definition of special care facilities includes people experiencing
+              homelessness and is permitted by-right for six or fewer persons. However, the
+              City does not explicitly address emergency shelters and only allows by-right
+              approvals for similar uses in limited circumstances (e.g., six of fewer persons).
+              Additionally, because zoning for emergency shelters was supposed to be
+              completed two planning periods ago and the time to identify appropriate zoning
+              has lapsed, HCD cannot find the element in compliance until the appropriate
+              zoning to permit emergency shelters without discretionary action is demonstrated
+              or completed. For additional information, please see
+              https://www.hcd.ca.gov/planning-and-community-development/housing-
+              elements/building-blocks/zoning-variety-of-housing-types.
+
+              As part of implementing zoning changes to permit emergency shelters without
+              discretion, the City should address compliance with parking standards pursuant to
+              Government Code section 65583, subdivision (a)(4)(A) and additional
+              requirements regarding zoning, capacity and habitability pursuant to Chapter 654,
+              Statutes of 2022 (AB 2339). For additional information and timing requirements,
+              please see HCD’s memo at
+              https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/ab2339-
+              notice.pdf.
+
+          •   Transitional and Supportive Housing: Transitional housing and supportive
+              housing must be permitted as a residential use in all zones allowing residential
+              uses and only subject to those restrictions that apply to other residential
+              dwellings of the same type in the same zone. (Gov. Code, § 65583, subd.
+              (a)(5).). The element notes that the City does not currently address supportive
+              and transitional housing and includes Program HE 1-14 (State and Federal Law
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                      Page 5
+August 8, 2023
+              Conformance) committing to address this housing type. However, the Program
+              should be revised to amend zoning that specifically commits to permitting these
+              housing types as a residential use and only subject to those restrictions that
+              apply to other residential dwellings of the same type in the same zone pursuant
+              to Government Code Section 65583 (a)(5).
+
+          •   Accessory Dwelling Units (ADUs): After a cursory review of the City’s ordinance,
+              HCD discovered several areas which were not consistent with State ADU Law.
+              This includes, but is not limited to, definition of site, minimum landscaping
+              requirements, parking, and subjective standards, among others. HCD will provide
+              a complete listing of ADU non-compliance issues under a separate cover. As a
+              result, the element should add a program to update the City’s ADU ordinance in
+              order to comply with state law. For more information, please consult HCD’s ADU
+              Guidebook, published in December 2022, which provides detailed information on
+              new state requirements surrounding ADU development:
+              https://www.hcd.ca.gov/sites/default/files/2022-07/ADUHandbookUpdate.pdf.
+
+          •   Single-Room Occupancy (SRO) Units: The element indicates that SROs are
+              defined as a boardinghouse that includes lodging and meals. SROs provide a
+              valuable source of affordable housing especially for persons experiencing
+              homelessness and extremely low-income households. The element should
+              analyze any occupancy standards, length of stay, and whether SROs are
+              permitted as a residential use under the current definition. Based on complete
+              analysis, the element may need to add or modify programs with a commitment to
+              removing any potential constraints on the development of SROs. For additional
+              information, please see: https://www.hcd.ca.gov/planning-and-community-
+              development/housing-elements/building-blocks/zoning-variety-of-housing-types.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls (Parking): The element notes that one-bedroom multifamily units are
+      required to provide 1.5 spaces per unit, including one garage or carport space (p. G-11).
+      Requiring smaller bedroom types (e.g., one-bedroom units) to provide 1.5 parking
+      spaces is considered a constraint. Additionally, the element must analyze covered
+      parking requirements for impacts on cost, supply, housing choices, affordability and
+      achieving maximum densities. The element must include a program committing to
+      reducing parking requirements for smaller bedroom types (e.g., one space per one-
+      bedroom unit).
+
+
+
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                      Page 6
+August 8, 2023
+      Fees and Exaction: The element some general information regarding fees including total
+      amount of fees and their proportion to the development costs for both single family and
+      multifamily housing. However, a complete analysis must include a listing of all required fees
+      for single family and multifamily housing development, including impact fees, and analyze
+      their impact as potential constraints on housing supply and affordability. For additional
+      information and a sample analysis and tables, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+      blocks/fees-and-exactions.
+
+      Local Processing and Permit Procedures:
+
+          •   Multifamily Housing – The element indicates that multifamily housing is required
+              to obtain a Site Development Permit and listed the required approval findings (p.
+              G-23) illustrating constraints for multifamily development. For example, the
+              approval findings require multifamily housing to meet several subjective criteria
+              related to impacts on surrounding uses and character of the neighborhood. The
+              approval findings also indicates that the applicant must meet both the City’s
+              subjective findings in addition to the City’s design guidelines. Secondly, the
+              element notes that 1) clustered housing including zero lot line projects and
+              condominiums and 2) multifamily and mixed-use development in commercial
+              zones are required to obtain both a Site Development and Conditional Use
+              permits (CUP). However, several of the required CUP findings are similar to the
+              site development permit findings. Lastly, the analysis noted that a typical
+              multifamily project has a 9–24 month approval timeline (pg. G-22). The analysis
+              demonstrated that 1) multifamily housing is subjected to a highly discretionary
+              process with subjective findings and minimal guidance to promote certainty and
+              objectivity 2) the City subjects some multifamily housing and other housing types
+              to two types of processes that are subjective and potentially redundant of each
+              other and 3) multifamily housing is subjected to a lengthy approval process. The
+              element must include or modify a program addressing and removing or modifying
+              the Site Development Plan and CUP (beyond objective standards) for multifamily
+              housing in zones that are intended to permit multifamily housing (e.g.,
+              residential).
+
+          •   Planned Development (PD) – The element described the general process for
+              projects in the PD zoning, indicating that this process is highly discretionary
+              (p. G-22). However, the analysis should clearly explain whether PDs are
+              optional or required for areas intended for residential uses and whether there
+              are established development standards prior to the approval of the PD. If the
+              PD is mandatory in areas intended for residential uses without fixed
+              development standards, the element should specifically evaluate these
+              requirements for impacts on cost, supply, feasibility, and approval certainty of
+              housing. Based on a complete analysis, the element may need to add or
+              modify programs to address any potential constraints.
+
+
+
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                     Page 7
+August 8, 2023
+          •   Permit Streamlining Act (PSA) and CEQA – The element should address public
+              comments on this draft submittal and discuss compliance with the Permit
+              Streamlining Act and intersections with CEQA and timing requirements, including
+              streamlining determinations and add or modify programs as appropriate.
+
+      Inclusionary Housing: The element generally mentions the City’s inclusionary zoning
+      ordinance, but it must also analyze the City’s inclusionary housing requirements,
+      including its impacts as potential constraints on the development of housing for all
+      income levels. The analysis should evaluate the inclusionary broader policy’s
+      implementation framework, including the percentage of new residential construction that
+      is dedicated to affordable housing, the types of options and incentives offered,
+      relationships with State Density Bonus Law (SDBL) and any other factors that may
+      impact housing costs.
+
+      On/Off-Site Improvements: The element must identify subdivision level improvement
+      requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+      analyze their impact as potential constraints on housing supply and affordability. For
+      additional information and a sample analysis, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/codes-and-enforcement-and-onsite-offsite-improvement-
+      standards.
+
+      Constraints on Housing for Persons with Disabilities:
+
+          •   Reasonable Accommodation –The element briefly describes its reasonable
+              accommodation procedures (p. G-16). However, the element should also
+              describe the process and decision-making criteria such as approval findings and
+              analyze any potential constraints on housing for persons with disabilities.
+              Additionally, HCD understands that the City must make findings that the request
+              would not cause impacts on surrounding uses and coastal zone resources. In
+              addition to describing the reasonable accommodation process and listing the
+              required approval findings, the element must analyze these findings for potential
+              constraints on persons with disabilities. Based on a complete analysis, the
+              element may need to add or modify programs to remove any potential
+              constraints.
+
+          •   Group Homes of Seven or More Persons – The element notes that the City
+              defines group homes for seven or more persons as a “special care facility” and
+              that this use is subject to a discretionary use permit and must comply with a 500-
+              foot spacing requirements. For your information, zoning should simply implement
+              a barrier-free definition of family instead of subjecting, potentially persons with
+              disabilities, to special regulations such as the number of persons, population
+              types and licenses. These housing types should not be excluded from residential
+              zones, most notably low-density zones, which can constrain the availability of
+              housing choices for persons with disabilities. Requiring these housing types to
+              obtain a special use or CUP could potentially subject housing for persons with
+
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                     Page 8
+August 8, 2023
+             disabilities to higher discretionary standards where an applicant must
+             demonstrate compatibility with the neighborhood, unlike other residential uses.
+
+             As such, the element must include a program removing the spacing requirements
+             and commit to allowing these uses in any zone that permits residential uses and
+             only subject to those restrictions that apply to similar residential uses. Please see
+             HCD’s for more info https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+             community/group-home-technical-advisory-2022.pdf.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the length of
+      time between receiving approval for a housing development and submittal of an
+      application for building permits for that housing development that hinder the
+      construction of a locality’s share of the regional housing need in accordance with
+      Government Code section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+      The element must analyze the length of time between receiving approval for a housing
+      development and submittal of an application for building permits, and any local efforts to
+      address or mitigate nongovernmental constraints such as reduced fees, financing for
+      affordable housing or expedited processes. The analysis should address any
+      hinderances on the construction of a locality’s share of the regional housing need and
+      programs should be added or modified as appropriate.
+   6. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).).
+
+      The element indicates the City has 101 affordable units with expiring affordability
+      restrictions within the next eight years (e.g., 2025). The element must include an
+      assessment of conversion risk and estimate and analyze the cost for replacing versus
+      preserving the units. For more information on the analysis, please visit:
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/assisted-housing-developments-risk-conversion.
+
+
+C. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                     Page 9
+August 8, 2023
+      As noted in Finding B3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised as follows:
+
+      Shortfall of Sites: As noted above, because zoning was not in place at the start of the
+      planning period, the City is showing a shortfall of 1,039 units including 510 units for
+      lower-income households. While the element included Program 1-1 (General Plan and
+      Zoning Amendments) committing to rezoning to allow residential uses at appropriate
+      densities to accommodate the RHNA, programs to address the lower-income RHNA
+      must specifically commit to rezoning pursuant to Government Code sections 65583,
+      subdivision (c)(1) and 65583.2, subdivisions (h) and (i). Examples of requirements
+      include permitting, without discretionary action, multifamily developments in which 20
+      percent or more of the units are affordable to lower-income households, requiring
+      minimum densities and residential performance standards. For more information, please
+      see HCD’s site inventory guidance memo: https://www.hcd.ca.gov/community-
+      development/housing-element/docs/sites_inventory_memo_final06102020.pdf.
+
+      Additionally, since the City failed to adopt a compliant housing element within 120 days
+      of the statutory deadline (January 31, 2023), all rezones to accommodate the RHNA
+      must be completed no later than one year from the statutory deadline. As such,
+      Program 1-1 (General Plan and Zoning Amendments) to accommodate a shortfall and
+      rezones to address prior identified sites must be completed no later than one year from
+      the statutory deadline.
+
+      Program HE-1-4 (Accessory Dwelling Units (ADUs)): This Program commits to various
+      actions to facilitate the development of ADUs. However, given the City’s reliance on
+      ADUs, the element must include a commitment to adjusting projected assumptions if the
+      number of units and affordability do not actualize during the planning period.
+      Specifically, the degree of additional actions should be in stride with the degree of the
+      gap in production and affordability. For example, if actual production and affordability of
+      ADUs is far from anticipated trends, then the element must commit to amending the
+      housing element, identifying additional sites, and rezoning within a timely manner (e.g.,
+      within six months).
+
+      Publicly Identified Sites: While the element included Program 1-1 (General Plan and
+      Zoning Amendments) and 1-3 (Public Land Planning), these programs may need to be
+      revised based on a complete sites analysis (see above finding). Additionally, while
+      these programs commit to outreach and issuing requests for proposals (RFP), actions
+      need to be revised with additional actions, firm commitments, discrete timelines, and
+      quantifiable metrics. The element should also include specific actions, as needed, to
+      making the Caltrans sites available during the planning period. Additional actions to
+      facilitate development should include commitments to compliance with the Surplus Land
+      Act, annual outreach with developers, rezoning and financial assistance, issuing
+      requests for proposals, facilitating any subsequent entitlements, and numerical
+      objectives by affordability.
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                   Page 10
+August 8, 2023
+   2. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The element includes general commitments to addressing various special needs
+      populations. However, given the importance of farmworkers and the local and regional
+      needs, the element must include specific actions to addressing this population.
+      Examples of actions could include proactive outreach with developers and the
+      community, identifying potential sites, provide incentives (e.g., expediated permitting,
+      flexible development standards, gap funding, fee waivers), and applying for state and
+      federal funding.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      In addition, Program HE 1-2 (Zoning and Streamlining) identifies various changes to
+      development standards and other process to the facilitate development of housing.
+      However, several of the actions state that the City “will consider” addressing and
+      implementing including increasing heights, reducing parking, modifying densities
+      standards, changes to the City’s definition of family, etc., Given the importance and
+      need of several of these actions, the element should be revised to affirmatively commit
+      to these changes.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      Goals, Priorities, Metrics, and Milestones: Goals and actions must specifically respond
+      to the analysis and to the identified and prioritized contributing factors to fair housing
+      issues and must be significant and meaningful enough to overcome identified patterns
+      and trends. Actions must have specific commitment, metrics, and milestones as
+      appropriate and must address housing mobility enhancement, new housing choices and
+      affordability in high opportunity areas, place-based strategies for community
+      preservation and revitalization and displacement protection. Additionally, quantified
+      metrics that target beneficial impacts for people, households, and neighborhoods (e.g.,
+      number of people or households assisted, number of housing units built, number of
+      parks or infrastructure projects completed). Lastly, the City is considered a majority
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                       Page 11
+August 8, 2023
+      racially and concentrated area of affluence (RCAA). Therefore, the element must
+      include significant and meaningful programs (beyond the RHNA) that target RCAA and
+      relatively higher income neighborhoods to enhance housing mobility and provide
+      housing choices and affordability throughout the City.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for new construction, it currently targets no
+   objectives for housing rehabilitation and should be revised accordingly. In addition, the
+   element could increase its housing conservation and preservation objectives accordingly.
+   For your information, conservation objectives may include the variety of strategies
+   employed by the City to promote tenant stability, code enforcement, naturally affordable
+   housing, and the preservation of units at-risk of conversion to market rate use.
+
+
+E. Consistency with General Plan
+
+   Coastal localities shall document the number of low- and moderate-income units converted
+   or demolished, and the number of replacement units provided. (Gov. Code, § 65588, subd.
+   (d).)
+
+   The element analyzes the housing stock in the coastal zone. Specifically, the element stated
+   that 57 housing units were demolished within the coastal zone between 2015-2022 due to an
+   emergency natural disaster. In conversations with the City, it was noted that the City was not
+   able to identify the number of lower-income renters in these units due to the emergency and
+   that the owner generally did not maintain the property including complying with building
+   codes. Furthermore, the City noted that while these units were not deed-restricted, anecdotal
+   information indicates that there were a number of lower- and moderate -income households
+   living in these units. The element should include a program committing to actions that
+   preserve coastal housing units for lower-and moderate-income households. This Program
+   could commit to annual monitoring, commitment to complying with replacement requirements
+   and proactive noticing and outreach to non-profits and service providers in the event that
+   future coastal housing is at-risk.
+
+
+
+
+City of Pacifica’s 6th Cycle (2023-2031) Draft Housing Element                   Page 12
+August 8, 2023

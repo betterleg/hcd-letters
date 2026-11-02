@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Belmont",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-12-18",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-belmont-draft-out-121823.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-belmont-draft-out-121823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 245977,
+  "text_chars": 22105,
+  "text_empty": false
+}

@@ -1,0 +1,593 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 26, 2021
+
+
+
+         Nate Farnsworth, Planning Manager
+         Planning Division
+         City of Yorba Linda
+         4845 Casa Loma Avenue
+         Yorba Linda, CA 92886
+
+         Dear Nate Farnsworth:
+
+         RE: City of Yorba Linda’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Yorba Linda’s (City) draft housing element received
+         for review on August 27, 2021. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a conversation
+         on October 22, 2021 with you, City Manager Mark Pulone, Senior Planner David
+         Brantley, and consultant Karen Warner. In addition, HCD considered comments from the
+         Kennedy Commission, People for Housing Orange County, Josh Albrekston and Anne
+         Paulson pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+         particular, the site inventory must demonstrate the suitability and availability of identified
+         sites in the planning period, various program actions must be revised to fulfill statutory
+         requirements, and several constraints to housing development require further analysis.
+         The enclosed Appendix describes these, and other revisions needed to comply with
+         State Housing Element Law.
+
+         The City’s statutory deadline to adopt a housing element was October 15, 2021. For your
+         information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a local
+         government fails to adopt a compliant housing element within 120 days of this statutory
+         deadline, then any rezoning to accommodate the Regional Housing Needs Allocation
+         (RHNA), including for lower-income households, shall be completed no later than one
+         year from the statutory deadline. Otherwise, the local government’s housing element will
+         no longer comply with State Housing Element Law, and HCD may revoke its finding of
+         substantial compliance pursuant to Government Code section 65585, subdivision (i).
+Nate Farnsworth, Planning Manager
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the County to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Colin Cross, of our staff, at colin.cross@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                    CITY OF YORBA LINDA
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   As part of the review of programs in the past cycle, the element must provide a cumulative
+   evaluation of the effectiveness of goals, policies, and related actions in meeting the housing
+   needs of special needs populations (e.g., elderly, persons with disabilities, large households,
+   female headed households, farmworkers and persons experiencing homelessness).
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Outreach: The element describes some outreach efforts like a survey and a website and
+      briefly mentions a few stakeholders. The element also explains community participation as
+      part of the county-wide analysis of impediments to fair housing choices. The element
+      should also explain how that outreach relates to affirmatively furthering fair housing
+      (AFFH) in Yorba Linda. For example, the county-wide analysis should discuss what
+      comments resulted from the participation process and how those comments specifically
+      relate to AFFH in Yorba Linda. The City should also consider additional outreach and
+      methods specific to the assessment of fair housing.
+
+      Local Data and Knowledge and Other Relevant Factors: The element reports many data
+      points related to AFFH but generally, it lacks analysis. For example, the element reports
+      Yorba Linda is disproportionately white with higher incomes than the rest of the County but
+      then provides no analysis. To complement the data, the element should consider
+      characteristics and trends, local data and knowledge and other relevant factors. Local data
+      and knowledge should consider data not available through state or federal sources. For
+      example, the county-wide analysis of impediment and community participation could be a
+      source, or the City could specifically reach out to stakeholders and advocates regarding
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                             Page 1
+October 26, 2021
+      the analysis. Other relevant factors include historical land use and investment practices,
+      demographic trends, and other information. For example, the element includes some brief
+      mention of Yorba Linda maintaining its “small town” character but should also explain how
+      zoning has contributed (e.g., Measure B and downzoning of the entire City) to a lack of
+      housing choices and constrained regional housing mobility as shown by demographics
+      such as tenure, housing units by type (e.g., single family detached) and household
+      income. With a complete analysis, the element will better understand the fair housing
+      issues and contributing factors to formulate the appropriate policies and programs.
+
+      Identified Sites and Affirmatively Furthering Fair Housing: While the element discusses the
+      types of proposed site, it generally does not address this requirement. The element must
+      identify and analyze sites throughout the community to foster inclusive communities and
+      AFFH. For example, the analysis should address whether the identified sites improve or
+      exacerbate each of the fair housing issue areas (e.g., segregation and integration, access
+      to opportunity, disproportionate housing needs). For more information, See HCD’s
+      guidance at https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+      Strategies and Actions: Goals and actions must significantly seek to overcome contributing
+      factors to fair housing issues. Currently, the element includes Program 18, which commits
+      the City to conducting outreach and referring fair housing complaints to the proper
+      authority; the element also includes various similar actions in Appendix B. These are not
+      adequate to satisfy the requirement for specific and meaningful actions. Program actions
+      should be proactive, facilitate meaningful change, and respond directly to the contributing
+      factors to fair housing that were identified. For example, the element should include
+      significant and meaningful actions to improve housing mobility and choices such as
+      rezoning for multifamily and other housing choices beyond the regional housing need
+      allocation (RHNA). Furthermore, programs must include metrics and milestones to target
+      and follow through with meaningful outcomes and for evaluating progress on programs,
+      actions, and fair housing results. The element must add or revise programs based on a
+      complete analysis and drawn from the identified and prioritized contributing factors to fair
+      housing issues.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+      The element incudes some basic information regarding extremely low-income (ELI)
+      households such as the number of households (p. II-18) and projected housing needs (p. II-
+      32). However, given the unique and disproportionate needs of ELI households, the element
+      must include analysis to better formulate policies and programs. For example, the element
+      could analyze tenure, cost burden, overcrowding and other household characteristics then
+      examine the availability of resources to determine gaps in housing needs. For additional
+      information, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/housing-needs/extremely-low-income-housing-needs.shtml.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                              Page 2
+October 26, 2021
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Realistic Capacity: The element includes sites with zoning in place, sites to be rezoned,
+      and nonvacant sites, among others, but must also describe the methodology for
+      calculating residential capacity on identified sites. The methodology must account for land
+      use controls, site improvements and typical densities of existing or approved residential
+      developments at a similar affordability level.
+
+      In addition, the methodology should account for the likelihood of residential uses or
+      intended uses in the affordable housing overlay given the land use controls. For example,
+      in the case of the overlay, the methodology should address the likelihood that future
+      residential development will utilize the affordable housing overlay. In other cases, zoning,
+      or base zoning, where the overlay is proposed, appears to allow 100 percent
+      nonresidential uses. If so, the methodology must adjust residential calculations for the
+      likelihood of nonresidential development. For example, the element could analyze all
+      development activity in zones allowing nonresidential uses, how often residential
+      development occurs and adjust residential capacity calculation, policies, and program
+      accordingly.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment on nonvacant sites. To address this requirement, the element
+      describes the existing use of each nonvacant site and considers factors such as
+      improvement to land value ratio and condition of the structure. This alone is not adequate
+      to demonstrate the potential for redevelopment in the planning period. The analysis should
+      consider additional factors, such as the extent to which existing uses may constitute an
+      impediment to additional residential development, the City’s past experience with
+      converting existing uses to higher density residential development, the current market
+      demand for the existing use, an analysis of any existing leases or other contracts that
+      would perpetuate the existing use or prevent redevelopment of the site for additional
+      residential development, development trends, market conditions, and further describe
+      regulatory or other incentives or standards to encourage additional residential
+      development on these sites.
+
+      In addition, if the housing element relies upon nonvacant sites to accommodate more than
+      50 percent of the RHNA for lower-income households, the housing element must
+      demonstrate existing uses are not an impediment to additional residential development
+      and will likely discontinue in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).)
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+      uses will be presumed to impede additional residential development and will not be utilized
+      toward demonstrating adequate sites to accommodate the RHNA.
+
+      Accessory Dwelling Units (ADU): The element assumes an average of 138 ADUs per year
+      will be constructed during the planning period, for a total of 1,100 ADUs. The element’s
+      analysis and programs do not support this assumption. Based on HCD records and
+      numbers reported in the element, the City is averaging about 5 ADU permits per year
+      since 2018. To include a realistic estimate of the potential for ADUs, the element must
+      reduce the number of ADUs assumed per year and include analysis, policies and
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                               Page 3
+October 26, 2021
+      programs as appropriate. Depending on the analysis, the element must commit to monitor
+      ADU production and affordability throughout the course of the planning period and
+      implement additional actions if not meeting target numbers anticipated in the housing
+      element by a date certain. Additional actions, if necessary, should be taken in a timely
+      manner (e.g., within 6 months). Finally, if necessary, the degree of additional actions
+      should be in stride with the degree of the gap in production and affordability. For example,
+      if actual production and affordability of ADUs is far from anticipated trends, then rezoning
+      or something similar would be an appropriate action. If actual production and affordability
+      is near anticipated trends, then measures like outreach and marketing might be more
+      appropriate.
+
+      Large and Small Sites: The parcel listing appears to contain several sites smaller than
+      0.5acres or larger than 10 acres in size being used to accommodate the RHNA for lower
+      income households. Sites smaller than 0.5 acres in size or larger than 10 acres in size are
+      deemed inadequate to accommodate housing for lower-income housing unless it is
+      demonstrated that sites of equivalent size were successfully developed during the prior
+      planning period for an equivalent number of lower-income housing units as projected for
+      the site or unless the housing element describes other evidence to HCD that the site is
+      adequate to accommodate lower-income housing.
+
+      For small parcels, the element must describe whether these parcels are expected to
+      develop individually or consolidated with the other small parcels. For parcels anticipated to
+      be consolidated, the element must demonstrate the potential for lot consolidation. For
+      example, analysis describing the City’s role or track record in facilitating small-lot
+      consolidation, policies or incentives offered or proposed to encourage and facilitate lot
+      consolidation, conditions rendering parcels suitable and ready for redevelopment, recent
+      trends of lot consolidation, and information on the owners of each aggregated site. For
+      parcels anticipated to develop individually, the element must describe existing and
+      proposed policies or incentives the City will offer to facilitate development of small sites.
+      This is important given the necessary economies of scale to facilitate development of
+      housing affordable to lower-income households.
+
+      Infrastructure: The element must demonstrate sufficient existing or planned water, sewer,
+      and other dry utilities supply capacity, including the availability and access to distribution
+      facilities to accommodate the City’s RHNA for the planning period.
+
+      For your information, water and sewer service providers must establish specific
+      procedures to grant priority water and sewer service to developments with units affordable
+      to lower-income households. (Gov. Code, § 65589.7.) Local governments are required to
+      immediately deliver the housing element to water and sewer service providers. The
+      element must demonstrate compliance with these requirements or include programs as
+      appropriate. For additional information and sample cover memo, see the Building Blocks
+      at http://www.hcd.ca.gov/community-development/building-blocks/other-
+      requirements/priority-for-water-sewer.shtml.
+
+      Environmental Constraints: The element must describe any known environmental
+      constraints or other conditions that preclude housing development in the planning period.
+      While the element includes some general analysis of potential environmental constraints,
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                               Page 4
+October 26, 2021
+      should relate that analysis to identified sites. For example, the element analyzes slope
+      stability as a potential constraint and describes Site S5-008 as “constrained by
+      topography” but does address the impacts on development in the planning period.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD. Please
+      see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+      assistance.
+
+      Sites with Zoning for a Variety of Housing Types:
+
+          •   Employee Housing: The element must demonstrate the City’s zoning is
+              consistent with the Employee Housing Act (Health and Safety Code, § 17000 et
+              seq.) or include programs as appropriate. Specifically, section 17021.5 requires
+              employee housing for six or fewer employees to be treated as a single-family
+              structure and permitted in the same manner as other dwellings of the same type
+              in the same zone. Section 17021.6 requires employee housing consisting of no
+              more than 12 units or 36 beds to be permitted in the same manner as other
+              agricultural uses in the same zone. For additional information and sample
+              analysis, see the Building Blocks at http://www.hcd.ca.gov/community-
+              development/building-blocks/housing-needs/farmworkers.shtml.
+          •   Emergency Shelters: The element describes emergency shelters are allowed by-
+              right, but it should clarify the use is permitted without discretionary action. In
+              addition, the element should analyze development standards for consistency with
+              statutory requirements and for impacts as potential constraints. For example,
+              spacing criteria do not appear consistent with statutory requirements.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures… (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land-Use Controls: The element must identify and analyze all relevant land-use controls
+      as potential constraints on a variety of housing types, both independently and cumulatively
+      with other land-use controls. The analysis should further address the city-wide height
+      maximum of 35 feet, describing whether three or more stories is achievable in the
+      jurisdiction and for sites in the inventory. Additionally, the element should analyze
+      multifamily parking and minimum lot size requirements, including impacts on identified
+      sites and should specifically identify and analyze development standards for the proposed
+      affordable housing overlay.
+
+
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                               Page 5
+October 26, 2021
+      Measure B: The element describes the background and process of Measure B, which
+      subjects certain amendments to the City’s general plan to voter approval. However, the
+      element does not analyze Measure B as a potential constraint to housing development. An
+      analysis should address Measure B’s impact on housing cost, supply, affordability, timing
+      and approval certainty and the element must include programs as appropriate, in addition
+      to identifying sites for the RHNA, to address this constraint.
+
+      State Density Bonus Law: While the element includes some description of the City’s
+      affordable housing density bonus, it should demonstrate compliance with current statutory
+      requirements (Gov. Code § 65915) or include programs as appropriate.
+
+      Fees and Exaction: The element identifies planning and impact fees and provides an
+      estimate of the total amount of fees for a typical multifamily development. The analysis
+      should also identify the total amount of fees and their proportion to the development costs
+      for single family housing.
+
+      Local Processing and Permit Procedures: The element notes that a conditional use permit
+      (CUP) is required for any two-story structure within 70 feet of single-family residential
+      uses, but it should also analyze how this requirement potentially applies to identified sites
+      and should add or modify programs as appropriate. In addition:
+
+          •   Design Review: The element provides an overview of the City’s design review
+              process for multifamily residential development, but it should also address decision-
+              making criteria, including any approval findings, and analyze impacts on approval
+              certainty and housing cost.
+          •   SB 35 Streamlined Ministerial Approval Process: The element notes the City does
+              not have a written procedure to implement the SB 35 Streamlined Ministerial
+              Approval Process and as a result, should include a program as appropriate.
+
+      Zoning and Fee Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning and development standards for each
+      parcel on the jurisdiction’s website pursuant to Government Code section 65940.1,
+      subdivision (a)(1). If necessary, the element should add a program to ensure compliance.
+
+      Housing for Persons with Disabilities:
+
+          •   Reasonable Accommodation: The element describes the City’s reasonable
+              accommodation procedure and lists approval findings, but it should also analyze the
+              process for potential constraints. For example, the analysis should address whether
+              the procedure is limited to zoning as opposed to any pertinent land use policies or
+              procedures and any limits on adjustments such as standards related to floor area
+              and lot coverage.
+          •   Residential Care Facilities: The element notes that residential care facilities serving
+              seven or more persons require a CUP. The element should analyze this process as
+              a potential constraint on housing for persons with disabilities and add or modify
+              programs as appropriate to ensure zoning permits residential care facilities
+              objectively with approval certainty.
+
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                              Page 6
+October 26, 2021
+   5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+      While the element quantifies the number of most special-needs populations, it must also
+      quantify and analyze the number of permanent and seasonal farmworkers (e.g., USDA
+      county-level data), and persons with disabilities by type (e.g., ambulatory, cognitive,
+      hearing, vision).
+
+   6. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next ten years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd. (a)(9)
+      through 65583(a)(9)(D).)
+
+      The element states that no affordable units in Yorba Linda are at-risk of conversion to
+      market rate during the next ten years. However, Table II-23 (Assisted Rental Housing
+      Inventory, p. II-27) appears to list a potential conversion date of 2029 for the Archstone
+      Yorba Linda apartments. If units are identified at-risk within a ten-year period, the element
+      must include analysis and programs, including the following:
+
+             •   Listing of each development by project name and address
+             •   Type of governmental assistance received
+             •   Earliest date of change from low-income use; and
+             •   Total number of elderly and non-elderly units.
+             •   Estimated total cost for producing, replacing and preserving the units at-risk.
+             •   Identification of public and private non-profit corporations known to the City to
+                 have the legal and managerial capacity to acquire and manage at-risk units.
+             •   Identification and consideration of use of federal, state, and local financing and
+                 subsidy programs.
+
+      For additional information and sample analysis, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/assisted-
+      housing-developments.shtml and for more information on identifying units at-risk, see the
+      California Housing Partnership Corporation at http://www.chpc.net.
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the housing element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+
+
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                              Page 7
+October 26, 2021
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, programs must be revised with discrete timelines, including Programs 3 (Multifamily
+      Acquisition and Improvement), 5 (Affordable Housing Development Assistance) and 19
+      (Housing Opportunities for Persons Living with Disabilities).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+          •   Program 8 (Housing Opportunity Site and Rezone Program): The Program must
+              specifically commit to:
+              - Permit multifamily uses by-right for developments in which 20 percent or more of
+                   the units are affordable to lower-income households. By-right means local
+                   government review must not require a CUP, planned unit development permit,
+                   or other discretionary review or approval.
+              - Identify the shortfall of sites and minimum acreage to accommodate the RHNA
+                   by income group.
+              - Zoning, including allowable densities and development standards.
+              - Timeframes for actions upon completion of a Measure B election.
+          •   Programs 10 (Commercial Mixed-use Overlay) and 11 (Congregational Land
+              Overlay): If necessary, these Programs should be revised to comply with by-right
+              requirements pursuant to Government Code section 65583.2, subdivisions (h) and
+              (i). In addition, Program 11 should commit to allowable densities and development
+              standards.
+          •   Program 12 (Promote ADUs): This program should commit explicitly to monitoring
+              ADU affordability in addition to production, a specific timeframe for taking action
+              (e.g., rezoning within 6 months) if assumptions are not realized and to monitoring
+              and amending the ordinance if necessary. Finally, if the City continues to target
+              ADU production beyond recent trends, monitoring and evaluation should occur
+              more frequently (e.g., every two years) than a mid-cycle review.
+
+
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                            Page 8
+October 26, 2021
+   3. The housing element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      While the element includes programs to assist in the development of very low-, low-, and
+      moderate-income households, it must also include a program(s) to assist in the
+      development of housing affordable to ELI and all special needs households (e.g., elderly,
+      homeless, farmworkers, persons with disabilities, female-headed households). Program
+      actions could include proactive outreach and assistance to non-profit service providers
+      and developers, prioritizing some funding for housing developments affordable to ELI and
+      special needs households and offering financial incentives or regulatory concessions to
+      encourage a variety of housing types.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding B4, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the City may need
+      to revise or add programs and address and remove or mitigate any identified constraints.
+
+      In addition, Program 14 (Multifamily Development Standards) should commit to promote
+      approval certainty and mitigate development costs in addition to facilitating quality and
+      sustainability.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must be revised to add or modify goals and actions
+      based on the outcomes of a complete analysis. Actions must have specific commitment,
+      metrics, and milestones as appropriate and must address housing mobility enhancement,
+      new housing choices and affordability in high opportunity areas, place-based strategies for
+      community preservation and revitalization and displacement protection.
+
+   6. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd. (c)(6).)
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                            Page 9
+October 26, 2021
+      As noted in Finding B6, Yorba Linda may have units at risk of conversion to market rate
+      during the next ten years. If units are at risk, the element must include a program with
+      specific and proactive actions to preserve the at-risk units such as developing a plan or
+      strategy for quickly moving forward in the case units are noticed to convert to market-rate
+      uses in the planning period, and ensure tenants receive proper notifications.
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the housing element, and the element shall
+   describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   While the element profiles the strategies undertaken to achieve public participation, including
+   outreach to seniors, property owners, and religious institutions, the City should employ
+   additional methods for public outreach efforts in the future, particularly to include lower-
+   income and special needs households and neighborhoods with higher concentrations of
+   lower-income households. For example, the City could conduct targeted stakeholder
+   interviews or establish a committee representative of lower-income households in future
+   public outreach efforts. For additional information, see the Building Blocks at
+   http://www.hcd.ca.gov/community-development/building-blocks/getting-started/public-
+   participation.shtml.
+
+   Additionally, the element indicates that the City made the draft element available for public
+   review over one week prior to submission to HCD. The element is unclear how much longer
+   than one week the document was available. If the document was only marginally available
+   more than a week, the City has not provided an adequate opportunity for input. By providing
+   limited opportunity for the public to review and comment on a draft of the element in advance
+   of submission, the City will not have yet complied with statutory mandates to make a diligent
+   effort to achieve public participation in the development of the element. This also reduces
+   HCD’s ability to consider public comments in its review. The availability of the document to the
+   public and opportunity for public comment prior to submittal to HCD are essential to the public
+   process and HCD’s review. The City must proactively make future revisions available to the
+   public, including any commenters, prior to submitting any revisions to HCD and diligently
+   consider and address comments, including revising the document where appropriate. HCD’s
+   future review will consider the extent to which the revised element documents how the City
+   solicited, considered, and addressed public comments in the element. The City’s
+   consideration of public comments must not be limited by HCD’s findings in this review letter.
+
+
+
+
+City of Yorba Linda’s 6th Cycle Draft Housing Element                            Page 10
+October 26, 2021

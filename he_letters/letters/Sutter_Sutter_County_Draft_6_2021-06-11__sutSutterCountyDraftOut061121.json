@@ -1,0 +1,14 @@
+{
+  "county": "Sutter",
+  "jurisdiction": "Sutter County",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-06-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sutSutterCountyDraftOut061121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sutSutterCountyDraftOut061121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 246467,
+  "text_chars": 17913,
+  "text_empty": false
+}

@@ -1,0 +1,855 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 13, 2023
+
+
+         Alexis Morris, Community Development Director
+         Community Development Department
+         City of Brentwood
+         150 City Park Way
+         Brentwood, CA 94513
+
+         Dear Alexis Morris:
+
+         RE: City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Brentwood’s (City) draft housing element received
+         for review on October 17, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. In addition, HCD considered comments from
+         YIMBY Law pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA) shall be
+         completed no later than one year from the statutory deadline pursuant to Government
+         Code sections 65583, subdivision (c) (1) and 65583.2, subdivision (c). Otherwise, the
+         local government’s housing element will no longer comply with State Housing Element
+         Law, and HCD may revoke its finding of substantial compliance pursuant to
+         Government Code section 65585, subdivision (i). Please be aware, if the City fails to
+         adopt a compliant housing element within one year from the statutory deadline, the
+         element cannot be found in substantial compliance until these rezones are completed.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+Alexis Morris, Community Development Director
+Page 2
+
+
+
+aware, any revisions to the element must be posted on the local government’s website
+and to email a link to all individuals and organizations that have previously requested
+notices relating to the local government’s housing element at least seven days before
+submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Jamillah Williams, of our staff, at
+Jamillah.Williams@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                    CITY OF BRENTWOOD
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool, Building
+Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-blocks
+and includes the Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Enforcement: While the element includes analysis of fair housing complaints, it must
+      describe the City’s compliance with existing fair housing laws and regulations. For
+      additional information, please see pages 28-30 on HCD’s Affirmatively Furthering Fair
+      Housing (AFFH) Guidance Memo at https://www.hcd.ca.gov/community-
+      development/affh/docs/AFFH_Document_Final_4-27-2021.pdf
+
+      Integration and Segregation (Race): The element includes a short and brief description
+      about block group data related to the location of nonwhite residents. However, the element
+      must include additional data points and analyze that for patterns throughout the City and
+      trends over time. In addition to evaluating patterns and trends, the element should analyze
+      coincidences with other components of the assessment of fair housing.
+
+      Integration and Segregation (Income): The element provided some information on local
+      patterns and trends and a brief statement acknowledging disparities between incomes for
+      homeowners and renters. This is an incomplete analysis. While the element provided
+      some data, it should analyze this for local patterns and trends. Additionally, the analysis
+      should evaluate spatial trends and patterns such as differences in income groups across
+      neighborhoods. Lastly, the evaluation should analyze any coincidences with other fair
+      housing components.
+
+      Racially Concentrated Areas of Affluence (RCAA): The element concluded that the City
+      does not have any census tracts designated as an RCAA. However, HCD’s AFFH data
+      viewer indicates that the City does have an RCAA. The element must incorporate this data
+      and analyze this for patterns, trends, and other fair housing coincidences.
+
+
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                  Page 1
+January 13, 2023
+      To access additional data points regarding race, income, and other key components for
+      the fair housing assessment, please see HCD’s AFFH Data Viewer at https://affh-data-
+      resources-cahcd.hub.arcgis.com
+
+      Access to Opportunities: While the element included some data and high-level statements
+      regarding access to opportunities including education, economic, and environmental,
+      revisions will be needed to address this requirement. For example, to address the analysis
+      of access to educational opportunities, the element includes a statement that southern
+      census tracts has the highest educational outcomes. To provide an analysis of economic
+      opportunities, the element summarized the city-wide job proximity, commute times, and
+      unemployment rate. Lastly, to address analyzing environmental access and issues, the
+      element notes that certain parts of the City have less environmental scores compared to
+      other neighborhoods. A complete analysis includes identifying various data points,
+      analyzing that data for trends and patterns throughout the City, and identifying any
+      concentrations or coincidences with other fair housing components.
+
+      Disproportionate Housing Needs (Displacement Risks and Substandard Housing
+      Conditions): While the element included data regarding displacement risks and
+      substandard housing conditions, it must also analyze this data for trends and patterns
+      throughout the City and identifying any concentrations or coincidences with other fair
+      housing components.
+
+      Local Data, Knowledge, and Other Relevant Factors: The element included some high-
+      level information on hate crimes, lending patterns, and housing choice vouchers. However,
+      the element did not discuss how this data relates, supports, or supplements the existing
+      analysis, fair housing conclusions, or contributing factors. The element must consider
+      other relevant factors that have contributed to certain fair housing conditions. This analysis
+      must consider information that is unique to the City or region, such as governmental and
+      nongovernmental actions, historical land use and zoning practices (e.g., past
+      redlining/greenlining, restrictive covenants, etc.), disparities in investment to specific
+      communities, or other information that may have impeded housing choices and mobility.
+      The element should complement federal, state, and regional data with local data and
+      knowledge where appropriate to capture emerging trends and issues, including utilizing
+      knowledge from local and regional advocates, public comments, and service providers.
+
+      Sites Inventory: The element must include an analysis demonstrating whether sites
+      identified to meet the Regional Housing Needs Allocation (RHNA) are distributed
+      throughout the community in a manner that AFFH. A full analysis should address the
+      income categories of identified sites with respect to location, the number of sites and units
+      by all income groups and how that effects the existing patterns for all components of the
+      assessment of fair housing (e.g., segregation and integration, access to opportunity). The
+      element should also discuss whether the distribution of sites improves or exacerbates
+      conditions. If sites exacerbate conditions, the element should identify further program
+      actions that will be taken to mitigate this (e.g., anti-displacement strategies).
+
+      Contributing Factors to Fair Housing Issues: Upon a complete AFFH analysis, the
+      element must assess and prioritize contributing factors to fair housing issues and add or
+      modify programs as appropriate.
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                    Page 2
+January 13, 2023
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583,
+      subd. (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code,
+      § 65583, subd. (a)(7).)
+
+      Extremely Low-Income Households (ELI): The element must quantify the number of
+      existing ELI households by tenure and analyze their housing needs, including
+      overpayment, overcrowding and other characteristics, resources and strategies and the
+      magnitude of housing needs.
+
+      Additionally, the element must quantify the projected number of ELI households. The
+      projected housing need for ELI households can be calculated by using available census
+      data to determine the number of very low-income households that qualify as ELI
+      households or presume that 50 percent of the RHNA for very low-income households
+      qualify as ELI households. For additional information, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-
+      elements/building-blocks/extremely-low-income-housing-needs.
+
+      Housing Conditions: The element provides some information on age of the housing
+      stock. However, it must estimate the number of units in need of rehabilitation and
+      replacement. For example, the analysis could include estimates from a recent
+      windshield survey or sampling, estimates from the code enforcement agency, or
+      information from knowledgeable organizations. For additional information, see the
+      Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/housing-stock-characteristics.
+
+      Persons with Developmental Disabilities: The element stated the number of total
+      persons with developmental disabilities that was served by the East Bay Regional
+      Center (p. 2-15). This quantification represents the total population for persons with
+      disabilities in the County. However, the element must also provide a local estimate of
+      persons with disabilities.
+
+      Special Needs Households: The element includes data and a general discussion of
+      housing challenges faced by special needs households. However, the element must be
+      revised to include an analysis of the existing needs and resources for each special need
+      group including seniors, farmworkers, large households, persons with disabilities
+      including developmental disabilities, ELI households (also noted above), and persons
+      experiencing homelessness.. For example, the element should discuss the existing
+      resources to meet housing needs (availability of shelter beds, number of large units,
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                     Page 3
+January 13, 2023
+      number of deed restricted units, etc.,), an assessment of any gaps in resources, and
+      proposed policies, programs, and funding to help address those gaps.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Progress towards RHNA: The element is crediting 968 units including two units
+      affordable for lower-income households that are pending, approved, or under
+      construction towards the RHNA. The element states that for the two affordable units,
+      “no affordability information is available” (p. B-7). However, to credit these units
+      towards the City’s lower-income RHNA, the element must demonstrate affordability
+      based on actual or projected sales prices, rent levels, or other mechanisms
+      establishing affordability (e.g., deed restrictions) in the planning period.
+
+      Nonvacant Sites: The element must include an analysis demonstrating the potential for
+      redevelopment of nonvacant sites. The element included a short discussion stating that
+      agricultural and residential uses do not pose a constraint to development and the City
+      does not have past performance trends. This does not address the requirements.
+
+      The element should address the extent to which the existing uses may constitute an
+      impediment to additional residential development, past experiences converting existing
+      uses to higher density residential development, current market demand for the existing
+      use, existing leases or contracts that would perpetuate the existing use or prevent
+      additional residential development or other relevant information to demonstrate the
+      potential for redevelopment. The element could also consider indicators such as age and
+      condition of the existing structure, expressed developer interest, low improvement to land
+      value ratio, and other factors. Based on a complete analysis the element may need to add
+      or revise programs to facilitate redevelopment.
+
+      While the element does not currently rely upon nonvacant sites to accommodate more
+      than 50 percent of the RHNA for lower-income households, if future revisions and
+      modifications result in the City relying on nonvacant sites to accommodate more than 50
+      percent then the element must demonstrate existing uses are not an impediment to
+      additional residential development and will likely discontinue in the planning period. (Gov.
+      Code, § 65583.2, subd. (g)(2).) Absent findings (e.g., adoption resolution) based on
+      substantial evidence, the existing uses will be presumed to impede additional residential
+      development and will not be utilized toward demonstrating adequate sites to
+      accommodate the RHNA.
+
+      Sites Size: Sites larger than ten acres in size are deemed inadequate to accommodate
+      housing for lower-income households unless it is demonstrated, with sufficient evidence,
+      that sites of equivalent size with affordability were successfully developed during the prior
+      planning period or other evidence demonstrates the suitability of these sites. The element
+      identifies two large sites at 15 and 19 acres and indicates that these sites will be
+      developed as part of the specific plan development process possibly noting that the City
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                     Page 4
+January 13, 2023
+      still needs to initiate the development of a specific plan (p. B-9). The element must provide
+      analysis of past trends or present other evidence to demonstrate the suitability and
+      feasibility of developing of these sites. The element could also discuss whether or not a
+      specific plan is present, timing and phasing of any current or future specific plans, or other
+      evidence that indicates sites of these sizes can be redeveloped into lower-income housing
+      during the planning period.
+
+      Realistic Capacity: The element includes a methodology for assuming capacity. This
+      methodology utilizes the midpoint of the density range and multiplies that by the total
+      building acreage. Further, the element states that the City past performance is limited;
+      however they are currently processing seven projects that include affordable units.
+      However, this is an incomplete analysis and does not provide support for the assumptions
+      in the inventory. For example, the element should include projects and examples that are
+      reflective of the realistic capacity assumptions i.e., projects that have developed at the
+      midpoint of the density range. The element could also include comparable projects from
+      neighboring cities (Antioch, Oakley, etc.,). To support assumptions, the element should
+      demonstrate what specific criteria, trends, factors, and other evidence led to the
+      assumptions. The estimate of the number of units for each site must be adjusted as
+      necessary, based on the land use controls and site improvements, typical densities of
+      existing or approved residential developments at a similar affordability level in that
+      jurisdiction, and on the current or planned availability and accessibility of sufficient water,
+      sewer, and dry utilities.
+
+      Additionally, the element stated that realistic capacity assumptions was based on the
+      buildable acreage of the site and that buildable acreage was determined by discounting
+      sites for environmental constraints, infrastructure, or other necessary site improvements.
+      However, the sites inventory indicated that there were no discounts applied to sites i.e.,
+      gross and buildable acreage are listed as the same.
+
+      The element also identifies site in zones that allow nonresidential uses such as the City’s
+      transit village area. The element must analyze the likelihood that the identified units will be
+      developed as noted in the inventory in zones that allow 100 percent nonresidential uses.
+      This analysis should consider the likelihood of nonresidential development, performance
+      standards, and development trends supporting residential development. For additional
+      information, see the Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/analysis-sites-and-zoning.
+
+      AB 725: For jurisdictions that are considered Metropolitan, the element must identify at
+      least 25 percent of the remaining moderate and above-moderate RHNA on sites that
+      allow at least four units of housing (e.g., four plex or greater) (Gov. Code, § 65583.2,
+      subd. (c)(4)).
+
+      Accessory Dwelling Units (ADU): ADUs may be counted toward the RHNA based on past
+      trends and other factors. The City projects 135 ADUs during the planning period for an
+      average of 16 ADUs annually. The projection was based on the following figures provided
+      in the element: 9 ADUs in 2019, 20 in 2020, 16 in 2021, and 18 in 2022 equating to an
+      average of 15 ADUs per year. However, the City’s Annual Progress Reports (APR)
+      indicate that the City permitted 3 ADUs in 2019, 7 in 2020, 16 in 2021. Along with the data
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                     Page 5
+January 13, 2023
+      provided in the element for 18 ADUs in 2022, the City’s 4-year average is 11 ADUs per
+      year. The element should reconcile these figures and adjust assumptions based on a
+      realistic estimate of the potential for ADUs and include policies and programs that commit
+      to incentivizing ADUs. Depending on the analysis, the element must commit to monitor
+      ADU production and affordability throughout the course of the planning period and
+      implement additional actions if not meeting target numbers anticipated in the housing
+      element. If necessary, additional actions should be taken in a timely manner (e.g., within
+      six months). The degree of additional actions should be in stride with the degree of the
+      gap in production and affordability. For example, if actual production and affordability of
+      ADUs is far from anticipated trends, then rezoning or something similar would be an
+      appropriate action. If actual production and affordability is near anticipated trends, then
+      measures like outreach and marketing might be more appropriate
+
+      Previously Identified Nonvacant and Vacant Sites: It is unclear whether the element
+      identifies sites that were used in previously planning periods. For your information,
+      nonvacant sites identified in the prior planning period or vacant sites identified in two or
+      more consecutive planning periods are inadequate to accommodate housing for lower-
+      income households unless the element includes a program that requires rezoning within
+      one or three years (whichever is applicable) of the beginning of the planning period to
+      allow residential use at appropriate densities by right for housing developments in which
+      at least 20 percent of the units are affordable to lower-income households. (Gov. Code, §
+      65583.2, subd. (c).) The element should clarify which sites were used in the previous
+      planning periods (if any) and include a program as appropriate.
+
+      Infrastructure Availability: The element included a capacity analysis for water, sewer and
+      dry utilities. The analysis noted that at this time the City is currently in the process of
+      expanding their treatment capacity and that expansion should be sufficient for the buildout
+      (p. 3-12-14). Given this information, the element should clarify if there is sufficient
+      infrastructure capacity to accommodate the RHNA. In addition, if the City is dependent on
+      the expansion of water treatment facility to accommodate the RHNA, the element must
+      include a program committing to actions and a timeline to make sufficient infrastructure
+      available to accommodate the RHNA.
+
+      Environmental Constraints: While the element generally describes potential environmental
+      constraints, it must still describe any other known environmental or other conditions that
+      could impact housing development on identified sites in the planning period (e.g., shape,
+      contamination, easements, conditions, compatibility).
+
+      Sites Inventory Electronic Form: Please note, pursuant to Government Code section
+      65583.3, subdivision (b), the City must utilize standards, forms, and definitions adopted by
+      HCD when preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-elements for a copy of
+      the form and instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov
+      for technical assistance. Please note, upon adoption of the housing element, the City
+      must submit an electronic version of the sites inventory with its adopted housing element
+      to sitesinventory@hcd.ca.gov.
+
+
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                   Page 6
+January 13, 2023
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters – The element states that City requires emergency shelters
+              have a minimum of two off-street parking spaces plus one additional off street
+              parking space for each ten beds, or fraction thereof (p. 3-12). However, pursuant to
+              Government Code section 65583, subdivision a)(4)(A), parking for emergency
+              shelters should only be the number of spaces necessary for staff working in the
+              shelter and no more than other uses in the same zones. The element should
+              discuss compliance with this requirement or include a program, if necessary.
+          •   By-Right Permanent Supportive Housing (AB 2162): The element notes that a
+              conditional use permit (CUP) is required for supportive housing in mixed-use and
+              commercial zones (p. 3-12). However, supportive housing shall be a use by-right
+              in zones where multifamily and mixed uses are permitted, including
+              nonresidential zones permitting multifamily uses pursuant to Government Code
+              section 65651. The element must demonstrate compliance with these
+              requirements and include programs as appropriate.
+
+          •   Accessory Dwelling Unit (ADU) – The element notes that some zones allow ADUs
+              with a CUP. For your information, ADUs must be allowed ministerially and without
+              discretion. The element should analyze consistency with this requirement and
+              include a program, if appropriate. Additionally, after a cursory review of the City’s
+              ordinance, HCD discovered several areas which were not consistent with State
+              ADU Law. This includes, but is not limited to, height requirements and allowing
+              ADUs on multifamily lots. The element must include a program to update the City’s
+              ADU ordinance in compliance with state law.
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land-Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types (e.g., multifamily rental
+      housing, mobilehomes, transitional housing), as follows:
+
+          •   Zoning and Densities – The element includes a listing of the General Plan Land
+              Uses and the associated zoning and density ranges (p. 3-7). Specifically, it notes
+              that the Residential Very High Density (R-VHD zone) and R-3 zone allows for 20-30
+              units per acre. However, the element then states that multifamily structures shall not
+              exceed 16 units per gross acre (p. 3-8) effectively acting as a constraint to
+              achieving maximum densities. The element must analyze this requirement as a
+              potential constraint on achieving maximum densities, cost, feasibility and supply
+              (number of units) of housing. For your information, the element must demonstrate
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                     Page 7
+January 13, 2023
+             densities appropriate to accommodate housing for lower income households. For
+             communities with densities that meet specific standards (at least 30 units per acre
+             for Brentwood), no analysis is required. (Gov. Code, § 65583.2, subd. (c)(3).) While
+             the City may have zones that allow for up to 30 units per acre, as noted above,
+             requiring that developments cannot exceed the midpoint of the density range can
+             act as potential constraint to providing housing for lower-income households. The
+             element must include an analysis that evaluates how these requirements
+             specifically impact providing housing for lower-income households, in addition to the
+             analysis noted above. Based on a complete analysis, the element may need to add
+             or modify programs to mitigate or remove this constraint.
+
+         •   The element must include an analysis of all residential zones, especially those
+             identified to accommodate a variety of housing types and the RHNA. Specifically,
+             the element identified the Planned Development (PD) zone to accommodate a
+             portion of its RHNA. As part of the analysis, the element should identify all
+             applicable land use controls including development standards, allowable densities,
+             zoning, and any other relevant requirements. The analysis should evaluate these
+             requirements for impacts on achieving maximum densities, cost, feasibility and
+             supply (number of units) of housing. Lastly, the element should identify and analyze
+             any minimum unit size requirements.
+
+         •   Parking – The element notes that multifamily housing is required to provide two
+             parking spaces per unit and acknowledges that this requirement can act as a
+             constraint (p. 3-21). The element must analyze this requirement and its impact on
+             cost, supply, housing choice and affordability and include programs to address
+             identified constraints.
+
+      Local Processing and Permit Procedures: The element provides a description of some
+      types of permits that are “common” under the City’s processes including a design and site
+      development review and CUP. This is not a complete analysis and does not address the
+      requirements. The element must describe and analyze the City’s permit processing and
+      approval procedures by zone and housing type (e.g., multifamily rental housing,
+      mobilehomes, housing for agricultural employees, supportive housing. The analysis should
+      consider processing and approval procedures and time for typical single-family and
+      multifamily developments, including type of permit, level of review, approval findings and
+      any discretionary approval procedures. The analysis must evaluate the processing and
+      permit procedures’ impacts as potential constraints on approval certainty and timing,
+      promoting objectivity, feasibility, and housing supply and affordability. For additional
+      information and sample analysis, see the Building Blocks at
+      https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+      blocks/processing-and-permitting-procedures.
+
+      Additionally, the element indicates that City requires a design and site development review
+      process which includes evaluating criteria related to “good design” and compatibility with
+      surrounding uses (p. 3-38). The element must clearly detail the type of uses that are
+      subject to a design and site development review. Additionally and as noted above, the
+      element must identify and evaluate any approval findings or decision-making criteria for
+      this requirement. The analysis should address impacts on housing cost, supply, timing and
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                  Page 8
+January 13, 2023
+      approval certainty. Based on a complete analysis, the element should include programs to
+      address or remove the identified constraints.
+
+      Constraints on Housing for Persons with Disabilities:
+
+         •   Reasonable Accommodation – The element identifies approval findings for granting
+             a reasonable accommodation including finding related to impacts on surrounding
+             uses. Reasonable accommodation should be a unique exception process from a
+             CUP, especially given its importance in addressing barriers to housing for persons
+             with disabilities. The element should include a program to amend the Reasonable
+             Accommodation Ordinance and remove constraints, namely the “potential impact
+             on surrounding uses” approval finding.
+
+         •   Definition of Family – The element defines a Family as a traditional family who
+             jointly occupy a single dwelling unit with joint uses and responsibilities for common
+             areas and a rental unit but be jointly occupied under a single written lease. (p. 3-
+             23). The element should analyze the characteristic of having to require all residents
+             to be under a single written lease as a potential constraint on housing for persons
+             with disabilities and add or modify programs as appropriate
+
+         •   Residential Care Facilities of Seven or More – The element states that these uses
+             are permitted with a CUP in all zones. The element notes that parking requirements
+             are also subject to a CUP. For your information, excluding these uses from
+             residential zones, subjecting the uses to a CUP, and applying onerous
+             requirements is considered a constraint. Lastly, the element should identify any
+             spacing or siting requirements. The element must include or modify programs as
+             appropriate with specific commitment to allow the use in residential zones with
+             objectivity and certainty.
+
+      For more information on addressing constraints on housing for persons with disabilities,
+      please see HCD’s guidance: https://www.hcd.ca.gov/sites/default/files/docs/planning-and-
+      community/group-home-technical-advisory-2022.pdf.
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the length of time
+      between receiving approval for a housing development and submittal of an application for
+      building permits for that housing development that hinder the construction of a locality’s
+      share of the regional housing need in accordance with Government Code section 65584...
+      (Gov. Code, § 65583, subd. (a)(6).)
+
+      The element must analyze (1) requests to develop housing at densities below those
+      identified in the inventory, (2) the length of time between receiving approval for a housing
+      development and submittal of an application for building permits, and (3) any local efforts
+      to address or mitigate nongovernmental constraints such as reduced fees, financing for
+      affordable housing or expedited processes. The analysis should address any hinderances
+      on the construction of a locality’s share of the regional housing need and programs should
+      be added or modified as appropriate.
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                  Page 9
+January 13, 2023
+   6. Analyze existing assisted housing developments that are eligible to change to non-low-income
+      housing uses during the next 10 years due to termination of subsidy contracts, mortgage
+      prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd. (a)(9) through
+      65583(a)(9)(D).)
+
+      The element provides an analysis of 96 affordable units located in the City. However,
+      CHPC records indicate that the City’s affordable housing inventory includes 639 units. The
+      element should be revised to analyze all affordable housing units and assess their risks of
+      converting to market rate in the next ten years.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To address the program requirements of Government Code section 65583, subdivision
+      (c)(1-6), and to facilitate implementation, programs should include: (1) a description of the
+      City’s specific role in implementation; (2) definitive implementation timelines; (3)
+      objectives, quantified where appropriate; and (4) identification of responsible agencies and
+      officials. Programs to be revised include the following:
+
+         •   Proactive Efforts: Several programs focus on providing education and information
+             on City housing services through website updates. These actions are also repetitive
+             from the last planning period (as noted below). These programs should incorporate
+             and describe more proactive outreach efforts. This includes but is not limited to
+             Program H.1b, H.1e, H.1f, H.2c and H.3d. In addition, the following program should
+             be revised as follows:
+
+                    o Program H.2e (Partnerships Program) – This program states when
+                      entities show interest in development, the City will coordinate and
+                      consider partnerships with these entities. However, this program largely
+                      relies on the development community outreaching to the City. Instead,
+                      this program should be revised to commit the City to proactively build
+                      relationships and collaborative opportunities with these entities. For
+                      example, the program could commit to reaching out to local and regional
+                      nonprofits and other entities engaged in building affordable housing,
+                      hosting builder and developer roundtable meetings to identify
+                      opportunities, and to market sites and incentives to the development
+                      communities to build relationships and interest.
+
+         •   Responsiveness: As noted above, programs must achieve beneficial impact during
+             the planning period. The element included several programs and efforts recycled
+             from the last planning period. Many of these recycled programs indicated limited
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                  Page 10
+January 13, 2023
+             outcomes or results as noted in the review and revise section of the housing
+             element. Additionally, these recycled programs included little to no changes from
+             the previous planning period. While in certain instances, in may be appropriate to
+             continue existing efforts, the element highly relies on existing and recycling
+             previous programs and proposes little to no changes for this planning period. The
+             City should evaluate and incorporate changes where applicable to programs
+             including but not limited to Action H.1H, H.1g, H.1f, H.1i, H.1k, H.2a, H.2b, H.2c,
+             H.2k, H.3a and H.2n.
+
+         •   Specific Commitments: To achieve beneficial impact during the planning period,
+             programs should include, where appropriate, a commitment to implementation of
+             specific actions. The element includes several programs that largely rely on
+             “exploring”, “considering”, etc., While the element can include programs to study a
+             certain topic, it includes a preponderance of programs that do not go beyond
+             studying or exploring a particular action. The element should revise programs to
+             include more specific commitments and implementation actions. This includes but is
+             not limited to Program H.1a, H.1e, H.1g, H.2g, H.1n, H.2e, H.2h, H.2f, H.3b, H.3c
+             and H.2d. In addition, the following programs should be revised as follows:
+
+                   o Program H.1g (Residential Design Guidelines) and H.2g (Streamline
+                     Application Process) – Both of these programs commit to meeting with
+                     developers and solicitating input and feedback on the City’s design
+                     guidelines and approval process. However, the program should commit
+                     to taking actions as a result of the feedback from the development
+                     communities. For example, the program could include a commitment to
+                     solicitating feedback from developers and making revisions to the
+                     guidelines/approval process if any constraints are identified as part of the
+                     feedback received. This program should also be modified to include a
+                     timeline or frequency for those actions.
+                   o Program H.1n (Residential Incentives) – This program states that the City
+                     will encourage development on RHNA sites by promoting existing and
+                     new incentives. This program should be revised to include more
+                     information on the existing incentives the City already offers. In addition,
+                     the element should identify, at minimum, examples of possible incentives
+                     that would be developed and a timeline for development of these
+                     incentives.
+                   o Program H.2d (Affordable Housing Assistance) – This program states that it
+                     will consider and explore types of financial assistance available for affordable
+                     housing. This program needs specific commitments such as reviewing,
+                     applying, and accessing affordable housing funds. The element could
+                     consider including commitments to provide technical assistance for
+                     developers to access financial assistance and funding sources and sending
+                     staff to trainings for different funding programs to learn how to apply for these
+                     sources.
+                   o Program H.2f (Support Housing Sponsors) – This program includes very
+                     little commitment and states that the City “may” provide support and
+                     “may” collaborate with developers in developing city-owned parcels. This
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                 Page 11
+January 13, 2023
+                      program should be revised with firm commitments to specific actions and
+                      included quantified or numerical objectives.
+                    o Program H.1h (Code Enforcement) – This program commits to provide
+                      code enforcement. However, this program should include more proactive
+                      efforts such as assisting in homeowners in addressing code enforcement
+                      violations such as providing technical assistance or funding resources.
+
+             •   Timelines: The element commits to complying with various state laws including
+                 state density bonus law and replacement program for nonvacant sites within 2-3
+                 years of the planning period. However, given the importance of these programs,
+                 the element should commit to comply with these requirements sooner in the
+                 planning period (e.g., one year).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding A3, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+      Program H.1b (Accessory Dwelling Units) – This program commits to various actions to
+      facilitate the development of ADUs. Of these actions, this program commits to making
+      funding opportunities and FAQs publicly available. However, because the City is relying
+      on ADUs to accommodate a portion of its RHNA, the element must include strong
+      programs and actions. As such, this program should be revised to include more proactive
+      outreach and engagement efforts surrounding ADUs. For example, this program could
+      commit to advertising ADU resources in the City’s newsletters, sending out mailers, and
+      posting this information at public/community amenities.
+
+   3. The housing element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      ELI Households and Special Needs Populations – The element must include a program(s)
+      with specific actions and timelines to assist in the development of housing special needs
+      populations including ELI households and persons with disabilities. While the element
+      included some programs to possibly address the needs of these populations including
+      Program H.2d, H.3c, H.3f, several of these programs need revisions as noted above and
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                 Page 12
+January 13, 2023
+      do not commit to any significant actions. For example, Program H.3f include actions to
+      encourage affordable housing developers to utilize funding opportunities; however it is
+      likely that they do not need to be encouraged as they already actively apply for these
+      funding sources. Additionally, City’s ELI population is 2009 households and program H.2d
+      commits to helping 20 households during the 8 year planning period. To accurately
+      address the needs of the community, the element should aim to help additional
+      households. The element should include stronger program(s) such as commitments to
+      priority processing, granting fee waivers or deferrals, modifying development standards,
+      and granting concessions and incentives for housing developments that include units
+      affordable to ELI households.
+
+      Program H.1e (Community Education) – This program aims to encourage other entities
+      such as the Contra Costa County HOME consortium and CDBG urban county to educate
+      households about available programs. This program should be revised to commit the City
+      to proactively educating and outreaching with households and special needs populations
+      on available programs. This program could also commit to help households access
+      available resources. Additionally, the element includes a quantified objective of assisting
+      30 housing units with rehabilitation. However, program commitments do not demonstrate
+      how the City will accomplish this outcome. As such, the element should include actions
+      that can help assist with meeting this outcome.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A4 and A5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints. In addition, the element should be revised as follows:
+
+      Program H.1a (Biennial Evaluation) – this program states that in the event the City’s
+      growth management program is reinstated, the City shall evaluate this program for
+      constraints. Please Note, SB 330 (Gov. Code, § 66300) generally prohibits a locality from
+      enacting a development policy, standard or condition that reduces intensity, imposes
+      moratoriums, enforces subjective design standards, or implements any provision that limits
+      approvals or caps population. This program should include a commitment to evaluate this
+      program for consistency with SB 330 requirements, in the event the City may reinstate this
+      effort. Additionally, this program commits to evaluating various factors on a biennial basis
+      including processing times, development costs, and densities. However, the program only
+      commits to addressing constraints, if any, on the City’s mid-range density policy. If as part
+      of the evaluation, constraints are identified for other factors noted above, this program
+      should also commit to mitigating or removing those constraints. Lastly, this program
+      should include a timeline for implementation.
+
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                  Page 13
+January 13, 2023
+      Program H.1m (SB 35) – This program commits to establishing and implementing an SB
+      35 process if the City is subject to SB 35 at any point in the planning period. For your
+      information, the City is currently subject to SB 35 and as such, this process should be
+      developed and implemented within one year of the planning period.
+
+      Program H.4g (Reasonable Accommodation) – As noted in the program, the element must
+      include actions to remove constraints for persons with disabilities. In response to this
+      requirement, the element included an action to maintain information about the reasonable
+      accommodation procedure on the City’s website. The element should include additional
+      and more tangible actions with proactive efforts to address this requirement.
+
+   5 Promote and affirmatively further fair housing opportunities and promote housing
+     throughout the community or communities for all persons regardless of race, religion, sex,
+     marital status, ancestry, national origin, color, familial status, or disability, and other
+     characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element requires a complete AFFH analysis. Depending upon
+      the results of that analysis, the City may need to revise or add programs. Additionally,
+      while the element included some programs to address fair housing issues and contributing
+      factors, several programs will need to be revised. First, many of the programs listed were
+      not significant and meaningful to overcome contributing factors and address fair housing
+      issues. Second, programs had little to no commitment to specific actions or deliverables.
+      Several actions focused on simply “encouraging” “promoting” and considering”. Third,
+      programs did not include any geographic or neighborhood targeting. Fourth, programs did
+      not include quantified metrics. For your information, metrics should target beneficial
+      impacts for people, households and neighborhoods ( e.g., number of people or
+      households assisted, number of housing units built, number of parks or infrastructure
+      projects completed). Lastly, in addition to addressing fair housing issues and contributing
+      factors, programs must generally address enhancing housing mobility, providing new
+      housing choices and affordability in high opportunity areas, place-based strategies that
+      promote community preservation and revitalization, and displacement protection. For a list
+      of sample policies and programs, please visit page 73 of HCD’s AFFH Guidance:
+      https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-
+      2021.pdf.
+
+   6. The housing program shall preserve for low-income household the assisted housing
+      developments identified pursuant to paragraph (9) of subdivision (a). The program for
+      preservation of the assisted housing developments shall utilize, to the extent necessary,
+      all available federal, state, and local financing and subsidy programs identified in
+      paragraph (9) of subdivision (a), except where a community has other urgent needs for
+      which alternative funding sources are not available. The program may include strategies
+      that involve local regulation and technical assistance. (Gov. Code, § 65583, subd. (c)(6).)
+
+      Program H.1d (Monitor At-Risk) – This program states it will consider opportunities to
+      preserving ongoing affordability by providing financial resources and technical assistance.
+      However, this program should include a firm commitment and go beyond “consider”. This
+      program should also be modified to include noticing requirements within 3 years, 12
+      months and 6 months of the affordability expiration dates. Lastly, the program should
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                 Page 14
+January 13, 2023
+      commit to tenant education and assistance and coordinating with qualified entities such as
+      nonprofit organizations and establish specific time parameters around such actions.
+
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   The element included quantified objectives for each income level-based categories such as
+   “RHNA” and “Special needs units”. However, the element must include quantified objectives
+   based on the following categories: new construction, rehabilitation, and
+   conservation/preservation over the planning period.
+
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   The element did not demonstrate diligent efforts to involve all economic segments of the
+   community in the development of the housing element, specifically lower-income and special
+   needs populations. Based on the information provided in the element, the City employed
+   limited community engagement efforts. For example, the element summarizes a survey,
+   project website, and workshops targeting elected officials but open to the public. Additionally,
+   the survey employed indicates that a majority of responses were received by homeowners.
+   The City also relied heavily on workshops with elected officials present. These efforts do not
+   demonstrate diligent and proactive ways to engage all segments of the community. Lastly, the
+   element included copies of staff reports and information provided at these workshops. Much
+   of the materials were not provided and presented in manner that addresses language or
+   educational barriers. For example, attaching HCD’s sites inventory guidance and a factsheet
+   on new housing laws provided by attorneys will not be easily digestible by households that do
+   not have a technical degree in planning. One strategy to promote inclusive outreach and
+   engagement is reaching special needs populations is by ensuring the materials and
+   information provided is easily understandable and digestible.
+
+   Moving forward, the City must employ a variety of methods such as efforts to advertise and
+   engage lower-income households in workshops and additional methods, circulate the housing
+   element to low- and moderate-income households and organizations that represent them and
+   to involve such groups and persons in the element throughout the process.
+
+   In addition, the element must summarize the public comments and feedback and describe
+   how they were considered and incorporated into the element.
+
+
+
+
+City of Brentwood’s 6th Cycle (2023-2031) Draft Housing Element                  Page 15
+January 13, 2023

@@ -1,0 +1,474 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+           December 10, 2021
+
+
+          Alicia Velasco, Planning Director
+          Department of Community Development
+          Planning Division
+          City of Cypress
+          5275 Orange Avenue
+          Cypress, CA 90630
+
+          Dear Alicia Velasco:
+
+          RE: City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element
+
+          Thank you for submitting the City of Cypress’s (City) draft housing element received for
+          review on October 12, 2021. Pursuant to Government Code section 65585, subdivision
+          (b), the California Department of Housing and Community Development (HCD) is
+          reporting the results of its review. Our review was facilitated by a conversation on
+          December 8, 2021 with you; Veronica Tam, Lead Consultant; and Laura Vander Neut,
+          Staff Consultant. In addition, HCD considered comments from George Pardon pursuant
+          to Government Code section 65585, subdivision (c).
+
+          The draft element addresses many statutory requirements; however, revisions will be
+          necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+          The enclosed Appendix describes the revisions needed to comply with State Housing
+          Element Law.
+
+          For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a
+          local government fails to adopt a compliant housing element within 120 days of the
+          statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+          housing needs allocation (RHNA), including for lower-income households, shall be
+          completed no later than one year from the statutory deadline. Otherwise, the local
+          government’s housing element will no longer comply with State Housing Element Law,
+          and HCD may revoke its finding of substantial compliance pursuant to Government Code
+          section 65585, subdivision (i).
+
+          Public participation in the development, adoption and implementation of the housing
+          element is essential to effective housing planning. Throughout the housing element
+          process, the City should continue to engage the community, including organizations that
+Alicia Velasco, Planning Director
+Page 2
+
+
+
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Mashal.Ayobi of our staff, at Mashal.Ayobi@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                        APPENDIX
+                                     CITY OF CYPRESS
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+         the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+         Patterns and Trends: The draft element reports data regarding the patterns of various
+         socio-economic characteristics across all components of the required analysis (e.g.,
+         segregation and integration, access to opportunity, displacement). However, the
+         element should also generally analyze the various socio-economic characteristics. An
+         analysis should address patterns at the local and regional levels and trends in patterns
+         over time. The element must also analyze regional patterns and trends for each
+         category and subcategory of analysis. A regional analysis should compare conditions
+         at the local level to the rest of the region, for example at the level of the County,
+         Council of Governments, or other subregional geography.
+         Disparities in Access to Opportunity: The element is missing analysis on regional
+         disparities in access to opportunity through local, federal, and/or state data. The
+         element refers to Opportunity Maps to identify resource levels across the state without
+         providing additional analysis. However, the element must include analysis to address
+         this requirement. A complete analysis should address educational, economic,
+         transportation, and environmental scores at the regional levels and describe any
+         factors that are unique to Cypress.
+         Sites Inventory: The element provides information regarding the proportion of sites by
+         income group according to various concentrations of socio-economic characteristics. In
+         addition, the element should address the number of units by income group, magnitude of
+         impact on local patterns, any isolation of the regional housing needs allocation (RHNA) by
+         income group and address the placement of the sites such as concentrations of sites in key
+         areas and corridors. This is critical because both Alternative 1 and 2 concentrate the lower-
+         income need into two specific planning areas and Table B-2 show sites are located in area
+         of high concentration of minority populations.
+
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                    Page 1
+December 10, 2021
+         Contributing Factors: The element identifies many contributing factors to fair housing
+         issues. In addition, the element should consider prioritizing these factors to better
+         formulate policies and programs and carry out meaningful actions to affirmatively
+         further fair housing (AFFH).
+
+         Goals, Priorities, Metrics, and Milestones: While the element provides some analysis
+         and identifies contributing factors to fair housing issues in Cypress, it does not include
+         sufficient actions to overcome patterns of segregation and foster inclusive
+         communities. As a result, programs must be added and modified as appropriate to
+         sufficiently respond to contributing factors to fair housing issues based upon a
+         complete analysis. Goals and actions must be significant and meaningful enough to
+         overcome identified patterns and trends. Actions must have specific commitment,
+         metrics, and milestones as appropriate and must address housing mobility
+         enhancement, new housing choices and affordability in high opportunity areas, place-
+         based strategies for community preservation and revitalization and displacement
+         protection.
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+         The City has a RHNA of 3,936 housing units, of which 1,807 are for lower-income
+         households. To address this need, the element relies on nonvacant sites in either the
+         Cypress Town Center and Commons (CTCC) or Lincoln Specific Plan, pending voter
+         approval. To demonstrate the adequacy of these sites and strategies to accommodate
+         the City’s RHNA, the element must include complete analyses:
+         Using Density to Credit Projects in the Pipeline: The element credits 48 market rate
+         units and 50 units affordable to moderate income households’ units from the Citrus
+         Square Senior Community toward the regional housing need. The element should
+         describe what remaining entitlements are needed for the property and when approvals
+         are expected.
+         Realistic Capacity: The element appears to assume residential development on sites
+         with zoning that allows 100 percent nonresidential uses, but to support this
+         assumption, the element must analyze the likelihood of residential development in
+         zoning where 100 percent nonresidential uses are allowed. The analysis should be
+         based on factors such as development trends including nonresidential, performance
+         standards requiring residential uses or other relevant factors such as enhanced
+         policies and programs.
+         Nonvacant Sites: The element must demonstrate the potential for redevelopment of
+         nonvacant sites. To address this requirement, the element mentions feasibility of
+         development was determined by a high-level analysis and consideration of public input
+         on p. 65, but the assumptions are not supported. The analysis should consider factors
+         including the extent to which existing uses may constitute an impediment to additional
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                      Page 2
+December 10, 2021
+         residential development, the City’s past experience with converting existing uses to
+         higher density residential development, the current market demand for the existing use,
+         an analysis of any existing leases or other contracts that would perpetuate the existing
+         use or prevent redevelopment of the site for additional residential development,
+         development trends, market conditions, and regulatory or other incentives or standards
+         to encourage additional residential development on these sites. For example, the
+         element could consider indicators such as age and condition of the existing structure,
+         presence of expiring leases, expressed developer interest, low improvement to land
+         value ratio, and other factors. The element should describe and support (through
+         development trends) the thresholds used to identify sites for redevelopment.
+         In addition, specific analysis and actions are necessary if the housing element relies upon
+         nonvacant sites to accommodate more than 50 percent of the RHNA for lower-income
+         households. For your information, the housing element must demonstrate existing uses
+         are not an impediment to additional residential development and will likely discontinue in
+         the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) Absent findings (e.g., adoption
+         resolution) based on substantial evidence, the existing uses will be presumed to impede
+         additional residential development and will not be utilized toward demonstrating adequate
+         sites to accommodate the RHNA.
+         Large Sites: The element identifies a site with MAP ID #127 which is 11.63 acres. Sites
+         larger than ten acres in size are deemed inadequate to accommodate housing for
+         lower-income housing unless it is demonstrated that sites of equivalent size were
+         successfully developed during the prior planning period for an equivalent number of
+         lower-income housing units as projected for the site or unless the housing element
+         describes other evidence to HCD that the site is adequate to accommodate lower
+         income housing (Gov. Code, §65583.2,subd. (c)(2)(A).
+         Electronic Sites Inventory: For your information, pursuant to Government Code section
+         65583.3, the City must submit an electronic sites inventory with its adopted housing
+         element. The City must utilize standards, forms, and definitions adopted by HCD. This
+         is especially important for determining sites that have been utilized in multiple planning
+         periods and are subject to by-right provisions. Please see HCD’s housing element
+         webpage at https://www.hcd.ca.gov/community-development/housing-
+         element/index.shtml#element for a copy of the form and instructions. The City can
+         reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures... (Gov. Code, §
+         65583, subd. (a)(5).)
+
+         Parking: The element must identify and analyze all relevant land use controls impacts
+         as potential constraints on a variety of housing types. The analysis should address
+         enclosed garage parking requirements for multifamily development for impacts on cost,
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                      Page 3
+December 10, 2021
+           supply, housing choice and affordability and include programs to address identified
+           constraints.
+           Local Processing and Permit Procedures: While the element describes the general
+           permit procedure on p. 48, it must describe and analyze the City’s permit processing
+           and approval procedures by zone and housing type). For example, the analysis should
+           consider processing and approval procedures and time for typical single- and multi-
+           family developments, including type of permit, level of review, approval findings and
+           any discretionary approval procedures evaluate the processing and permit procedures’
+           impacts as potential constraints on approval certainty and transparency.
+           Design Review: The element must describe and analyze the design review guidelines
+           and process on p. 48, including approval procedures and decision-making criteria, for
+           their impact as potential constraints on housing supply and affordability. For example,
+           the analysis could describe thresholds for projects that require design review, required
+           findings and discuss whether objective standards and guidelines improve development
+           certainty and mitigate cost impacts.
+           Constraints on Housing for Persons with Disabilities: On p. 39, the element states large
+           residential care facilities (Serving 7 or more) are conditionally permitted in the City’s
+           multi-family zones. It must describe and analyze how residential care facilities serving
+           seven or more persons are approved including any approval findings. The element
+           should analyze the process for potential constraints on housing for persons with
+           disabilities and add or modify programs as appropriate to ensure zoning permits group
+           homes for seven or more persons objectively with approval certainty.
+      4. Analyze existing assisted housing developments that are eligible to change to nonlow-
+         income housing uses during the next 10 years due to termination of subsidy contracts,
+         mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+         (a)(9) through 65583(a)(9)(D).)
+
+           At-Risk Analysis: While page 24 of the element discusses preservation options, the
+           units identified as at-risk within a ten-year period must include a complete analysis.
+           Missing from the element is the following. (Gov. Code, § 65583, subd. (a)(9).):
+
+              •   Identification of public and private nonprofit corporations known to the City to
+                  have the legal and managerial capacity to acquire and manage at-risk units.
+              •   Identification and consideration of use of federal, state and local financing and
+                  subsidy programs.
+
+
+   B. Housing Programs
+
+      1.   Include a program which sets forth a schedule of actions during the planning period,
+           each with a timeline for implementation, which may recognize that certain programs
+           are ongoing, such that there will be beneficial impacts of the programs within the
+           planning period, that the local government is undertaking or intends to undertake to
+           implement the policies and achieve the goals and objectives of the Housing Element
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                       Page 4
+December 10, 2021
+           through the administration of land use and development controls, the provision of
+           regulatory concessions and incentives, and the utilization of appropriate federal and
+           state financing and subsidy programs when available. The program shall include an
+           identification of the agencies and officials responsible for the implementation of the
+           various actions. (Gov. Code, § 65583, subd. (c).)
+
+           Programs must demonstrate that they will have a beneficial impact within the planning
+           period. Beneficial impact means specific commitment to deliverables, measurable
+           metrics or objectives, definitive deadlines, dates, or benchmarks for implementation.
+           Deliverables should occur early in the planning period to ensure actual housing
+           outcomes. The element must provide quantified objectives where appropriate and all
+           programs should be evaluated to ensure provision of discrete timing (e.g., month and
+           year) to account for how often the action will occur as well as to ensure a beneficial
+           impact throughout the planning period.
+
+           Programs containing unclear commitment (e.g., “Continue to facilitate”; “Explore”;
+           “Consider”; “Encourage”; etc.) should be amended to include more specific and
+           measurable actions and how the city will achieve them. Examples include, but are not
+           limited to, Program 6 (Affordable Housing Assistance) and Program 7 (Accessory
+           Dwelling Units.
+
+      2.   Identify actions that will be taken to make sites available during the planning period
+           with appropriate zoning and development standards and with services and facilities to
+           accommodate that portion of the city’s or county’s share of the regional housing need
+           for each income level that could not be accommodated on sites identified in the
+           inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+           to comply with the requirements of Government Code section 65584.09. Sites shall be
+           identified as needed to facilitate and encourage the development of a variety of types
+           of housing for all income levels, including multifamily rental housing, factory-built
+           housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+           room occupancy units, emergency shelters, and transitional housing.
+           (Gov. Code, § 65583, subd. (c)(1).)
+
+           As noted in Finding A2, the element does not include a complete site analysis,
+           therefore, the adequacy of sites and zoning were not established. Based on the
+           results of a complete sites inventory and analysis, the City may need to add or revise
+           programs to address a shortfall of sites or zoning available to encourage a variety of
+           housing types. In addition, the element should be revised as follows:
+
+           Rezoning Plan: Pursuant to Government Code 65583.2, subdivisions (h) & (i),
+           Program 10 (Residential and Mixed-Use Sites Inventory), which rezones sites in the
+           CTCC to accommodate the City’s RHNA, is subject to voter approval and therefore
+           the program must detail any necessary steps, timing for completion of those steps and
+           alternative measures with dates if milestones are not met. Please be aware, if voter
+           approval is required and subsequently rejected, the housing element may no longer
+           comply with state law.
+
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                     Page 5
+December 10, 2021
+           Additionally, because the zoning is not yet in place, for sites accommodating lower
+           incomes, the rezone program must include all the provisions of Government Code
+           Section 65583.2 (h) and (i) as follows:
+
+             •   permit owner-occupied and rental multifamily uses by-right for developments in
+                 which 20 percent or more of the units are affordable to lower-income
+                 households. By-right means local government review must not require a
+                 conditional use permit (CUP), planned unit development permit, or other
+                 discretionary review or approval.
+             •   accommodate a minimum of 16 units per site;
+             •   require a minimum density of 20 units per acre; and
+             •   at least 50 percent of the lower-income need must be accommodated on sites
+                 designated for residential use only or on sites zoned for mixed uses that
+                 accommodate all of the very low and low-income housing need, if those sites:
+                     o allow 100 percent residential use, and
+                     o require residential use occupy 50 percent of the total floor area of a
+                        mixed-use project.
+
+           Housing Replacement: On p. 66 of the Technical Background Report, the element
+           states there are 5 identified sites that contain single family residences. For nonvacant
+           sites with existing, vacated, or demolished residential uses and occupied by, or
+           subject to an affordability requirement for, lower-income households within the last five
+           years there must be a replacement housing program for units affordable to lower-
+           income households. (Gov. Code, § 65583.2, subd. (g)(3).) Absent a replacement
+           housing program, these sites are not adequate sites to accommodate lower-income
+           households. The replacement housing program has the same requirements as set
+           forth in Gov. Code section. 65915, subdivision (c)(3). The housing element must be
+           revised to include such analysis and a program, if necessary
+
+      3.   Address and, where appropriate and legally possible, remove governmental and
+           nongovernmental constraints to the maintenance, improvement, and development of
+           housing, including housing for all income levels and housing for persons with
+           disabilities. The program shall remove constraints to, and provide reasonable
+           accommodations for housing designed for, intended for occupancy by, or with
+           supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+           As noted in Finding A3, the element requires a complete analysis of potential
+           governmental constraints. Depending upon the results of that analysis, the City may
+           need to revise or add programs and address and remove or mitigate any identified
+           constraints.
+      4.   Promote and affirmatively further fair housing opportunities and promote housing
+           throughout the community or communities for all persons regardless of race, religion,
+           sex, marital status, ancestry, national origin, color, familial status, or disability, and
+           other characteristics protected by the California Fair Employment and Housing Act
+           (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008,
+
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                        Page 6
+December 10, 2021
+           and any other state and federal fair housing and planning law. (Gov. Code, § 65583,
+           subd. (c)(5).)
+           As noted in Finding A1, the element must include a complete analysis of AFFH. The
+           element must be revised to add goals and actions based on the outcomes of a
+           complete analysis. Goals and actions must specifically respond to the analysis and to
+           the identified and prioritized contributing factors to fair housing issues and must be
+           significant and meaningful enough to overcome identified patterns and trends. Actions
+           must have specific commitment, metrics, and milestones as appropriate and must
+           address housing mobility enhancement, new housing choices and affordability in high
+           opportunity areas, place-based strategies for community preservation and
+           revitalization and displacement protection.
+           In addition, the element should include a program committing to implement
+           Government Code section 8899.50(b) which requires the City to administer its
+           programs and activities relating to housing and community development in a manner
+           to AFFH and take no action that is materially inconsistent with its obligation to AFFH.
+      5.   The housing program shall preserve for low-income household the assisted housing
+           developments identified pursuant to paragraph (9) of subdivision (a). The program for
+           preservation of the assisted housing developments shall utilize, to the extent
+           necessary, all available federal, state, and local financing and subsidy programs
+           identified in paragraph (9) of subdivision (a), except where a community has other
+           urgent needs for which alternative funding sources are not available. The program
+           may include strategies that involve local regulation and technical assistance. (Gov.
+           Code, § 65583, subd. (c)(6).)
+           The element identifies 121 affordable units at-risk of conversion to market rate. The
+           element must include a program that addresses preserving at-risk units and specifying
+           actions to monitor at-risk units, including contacting property owners within at least
+           one year of the affordability expiration dates on projects. The program for preserving
+           at-risk units should include noticing requirements within 3 years and 6 months of the
+           affordability expiration dates, in addition to coordinating with qualified entities such as
+           nonprofit organizations and establish specific time parameters around such actions.
+      6.   Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+           that can be offered at affordable rent, as defined in Section 50053 of the Health and
+           Safety Code, for very low, low-, or moderate-income households. For purposes of this
+           paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+           unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code,
+           § 65583, subd. (c)(7).)
+           The element is required to include a program that incentivizes or promotes accessory
+           dwelling unit (ADU) development for very low-, low-, and moderate-income
+           households. The element should go beyond “will research other potential tools to
+           encourage ADU development” and commit to specific actions that will encourage and
+           incentivize ADU production.
+
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                       Page 7
+December 10, 2021
+   C. Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+      & 2).)
+      Include quantified objectives estimating the number of housing units by income category
+      that can be constructed, rehabilitated, and conserved over a five-year time period. This
+      requirement could be addressed by utilizing a matrix like the one illustrated below:
+                                New                                   Conservation/
+          Income             Construction Rehabilitation              Preservation
+       Extremely
+       Low-
+       Very Low-
+       Low-
+       Moderate-
+       Above
+       Moderate-
+             TOTAL
+
+
+   D. Public Participation
+
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the Housing Element, and the
+      element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      While the element includes a general summary of the public participation process
+      (p. HOU-3), it must also demonstrate diligent efforts were made to involve all economic
+      segments of the community in the development of the housing element. The element
+      should be revised to discuss outreach to lower-income and special needs groups during
+      the public participation efforts, efforts to circulate the housing element among extremely
+      low- low- and moderate-income, and special needs households and organizations that
+      represent them, involve such groups and persons in the element throughout the process,
+      participation in community workshops, and if translation services were provided. In
+      addition, the element should also summarize the public comments and describe how they
+      were considered and incorporated into the element.
+
+
+
+
+City of Cypress’s 6th Cycle (2021-2029) Draft Housing Element                   Page 8
+December 10, 2021

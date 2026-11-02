@@ -1,0 +1,352 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 15, 2023
+
+
+
+
+         Benjamin Fu, Director
+         Department of Community Development
+         City of Cupertino
+         10300 Torre Avenue
+         Cupertino, CA 95014
+
+         Dear Benjamin Fu:
+
+         RE: City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element
+
+         Thank you for submitting the City of Cupertino’s (City) revised draft housing element
+         update received for review on October 7,2023, along with revisions received on
+         November 30,2023. Pursuant to Government Code section 65585, subdivision (b), the
+         California Department of Housing and Community Development (HCD) is reporting the
+         results of its review. Our review was facilitated by a conversation on November 7,2023
+         with you, Piu Gosh, and Cynthia Walsh, the City’s consultant.
+
+         The revised draft element addresses many statutory requirements described in HCD’s
+         May 4, 2023 letter; however, revisions will be necessary to substantially comply with State
+         Housing Element Law (Gov. Code, § 65580 et seq). The enclosed Appendix describes the
+         revisions needed to comply with State Housing Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021),
+         as the City failed to adopt a compliant housing element within 120 days of the statutory
+         deadline (January 31, 2023), programs to rezone and make prior identified sites
+         available or address a shortfall of capacity to accommodate the regional housing need
+         allocation (RHNA) (e.g., Program 1.3.2 Rezoning to Achieve) must be completed no
+         later than one year from the statutory deadline. Otherwise, the local government’s
+         housing element will no longer comply with State Housing Element Law, and HCD may
+         revoke its finding of substantial compliance pursuant to Government Code section
+         65585, subdivision (i). For your information, jurisdictions that do not have an adopted
+         element that was found in substantial compliance by HCD by January 31, 2024, will be
+         ineligible for housing element compliance until the necessary rezones are completed.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+Benjamin Fu, Director
+Page 2
+
+
+
+(SB) 1 Sustainable Communities grant, the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities program, and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the commitment and cooperation provided by the housing element
+update team during the update and review. HCD is committed to assisting the City in
+addressing all statutory requirements of State Housing Element Law. If you have any
+questions or need additional technical assistance, please contact Jose Armando Jauregui,
+of our staff, at jose.jauregui@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Proactive Housing Accountability Chief
+
+Enclosure
+                                          APPENDIX
+                                     CITY OF CUPERTINO
+
+The following changes are necessary to bring the City’s housing element into compliance with Article
+10.6 of the Government Code. Accompanying each recommended change, we cite the supporting
+section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other resources,
+the housing element section contains HCD’s latest technical assistance tool, Building Blocks for
+Effective Housing Elements (Building Blocks), available at https://www.hcd.ca.gov/planning-and-
+community-development/housing-elements/building-blocks and includes the Government Code
+addressing State Housing Element Law and other resources.
+
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+         the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          Local Data and Knowledge and other Relevant Factors: The element generally was not
+          revised to address this requirement. The element must include local data, knowledge,
+          and other relevant factors to discuss and analyze any unique attributes about the City
+          related to fair housing issues. The element should complement federal, state, and
+          regional data with local data and knowledge where appropriate to capture emerging
+          trends and issues, including utilizing knowledge from local and regional advocates and
+          service providers. Please see HCD’s prior review.
+
+          Contributing Factors to Fair Housing Issues: Based on a complete analysis, the
+          element should re-assess and prioritize contributing factors to fair housing issues. For
+          example, the City is highest resource and highest median incomes in contrast to the
+          rest of the region. As a result, fair housing issues such as the lack of affordable
+          housing should be a high priority.
+
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          Parcel Suitability of Nonvacant Sites: The element now generally concludes identified
+          sites have similar characteristics to past redevelopment projects and have potential for
+          redevelopment in the planning period but should still include analysis to support this
+          conclusion, as follows:
+
+             •   Indicators of Redevelopment Potential: The element lists sites by indicators of
+                 redevelopment potential, including Improvement land ratio, ratio, owner interest,
+
+City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element            Page 1
+December 15, 2023
+                 and the age of existing structures. However, the element must provide an
+                 explanation of these indicators and information to support the validity of these
+                 indicators, including the threshold value. For example, the element should
+                 explain the age of structure (e.g., 50 years or older) used to demonstrate
+                 redevelopment potential. This is particularly important since some existing uses
+                 appear less than 30 years old which typically indicates a structure in good
+                 condition.
+             •   Trends and Indicators of Redevelopment Potential: The element states recent
+                 developments are similar to identified sites but provides no analysis to support
+                 this conclusion. For example, Table 4-4 lists recent developments but does not
+                 describe the Improvement to Land to Land to Ratio, or age of existing structure
+                 or other factors that would relate to the characteristics of the sites identified in
+                 the inventory.
+             •   Existing Uses that Impede Additional Development: As noted in the prior review,
+                 the element must still evaluate the extent existing uses impede additional
+                 development. In response, the element evaluates existing leases, and
+                 expressed interest in redevelopment from owners or developers. For projects
+                 that do not include owner interest or existing lease information; the element
+                 should evaluate additional indicators of turnover such as properties for sale;
+                 vacant, abandoned, lacking recent investment or frequent turnover in
+                 occupancy; market conditions and trends; and other factors that demonstrate
+                 the uses are likely to discontinue in the planning period.
+
+         As the housing element appears to rely upon nonvacant sites to accommodate more
+         than 50 percent of the RHNA for lower-income households. For your information, the
+         housing element must demonstrate existing uses are not an impediment to additional
+         residential development and will likely discontinue in the planning period. (Gov. Code,
+         § 65583.2, subd. (g)(2).) Absent findings (e.g., adoption resolution) based on
+         substantial evidence, the existing uses will be presumed to impede additional
+         residential development and will not be utilized toward demonstrating adequate sites to
+         accommodate the RHNA.
+
+         Zoning for a Variety of Housing Types (Emergency Shelters): The element includes
+         Program 5.1.1 (Emergency Shelters) to amend the code to allow emergency shelters
+         without a discretionary review in the new R4 zoning; however, it must also include a
+         commitment to comply with AB 2339.
+
+         Electronic Sites Inventory: For your information, pursuant to Government Code section
+         65583.3, the City must submit an electronic sites inventory with its adopted housing
+         element. The City must utilize standards, forms, and definitions adopted by HCD.
+         Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+         community-development/housing-elements for a copy of the form and instructions. The
+         City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+
+City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element             Page 2
+December 15, 2023
+          building codes and their enforcement, site improvements, fees and other exactions
+          required of developers, and local processing and permit procedures. The analysis shall
+          also demonstrate local efforts to remove governmental constraints that hinder the
+          locality from meeting its share of the regional housing need in accordance with
+          Government Code section 65584 and from meeting the need for housing for persons
+          with disabilities, supportive housing, transitional housing, and emergency shelters
+          identified pursuant to paragraph (7). (Gov. Code, § 65583, subd. (a)(5).)
+
+          Local Processing and Permit Procedures: The element was revised to discuss the
+          decision-making bodies and lists approval findings for the Design Review and single-
+          family developments. However, the element must also analyze these processes for
+          multifamily developments to better inform programs to address identified constraint.
+          For example, the element should describe and analyze the types of multifamily projects
+          that require discretionary decision making, approval findings, and approval timeframes
+          and include programs to remove or mitigate constraints as necessary. In addition, the
+          element should also analyze its post entitlement phase procedures and timing
+          provisions are in accordance with Government Code section 65913.3.
+
+
+B.   Housing Programs
+
+     1.   Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the Housing Element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          Programs must demonstrate that they will have a beneficial impact within the planning
+          period. Beneficial impact means specific commitment to deliverables, measurable
+          metrics or objectives, definitive deadlines, dates, or benchmarks for implementation.
+          Examples of programs that should be revised with specific commitment include but not
+          limited to:
+
+             •   Program 2.3.5 Housing Resources: The program should commit to pursing
+                 identified housing resource funds at least annually.
+             •   Program 2.3.12 Live/Work Units: The program was revised to list actions to
+                 encourage disability providers to pursue housing opportunities; however, the
+                 City should make specific commitment to actual housing outcomes.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+
+City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element           Page 3
+December 15, 2023
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+         to comply with the requirements of Government Code section 65584.09. Sites shall be
+         identified as needed to facilitate and encourage the development of a variety of types
+         of housing for all income levels, including multifamily rental housing, factory-built
+         housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+         room occupancy units, emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+         As noted in Finding A2, the element does not include a complete site analysis;
+         therefore, the adequacy of sites and zoning were not established. Based on the results
+         of a complete sites inventory and analysis, the City may need to add or revise
+         programs to address a shortfall of sites or zoning available to encourage a variety of
+         housing types.
+
+    3.   The Housing Element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+         The element was revised to include (Programs 2.3.10 (Extremely Low-Income housing)
+         and Program 2.3.11 (Assistance for Persons with Development Disabilities) to assist in
+         the development of housing for extremely low-income (ELI) households, and
+         households with special needs. However, the element must include program (s) with
+         specific actions and timelines to assist in the development of housing for extremely
+         low-income households and households with special needs. For example, Program
+         1.3.10 should include a specific commitment to adopt amendments after outreach has
+         been conducted (e.g., one year). In addition, Program 1.3.11 should also be revised
+         with specific actions the City will consider such as establishing priority processing,
+         granting fee waivers or deferrals, modifying development standards, granting
+         concessions and incentives to facilitate development for persons with disabilities.
+    4.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+         As noted in Finding A3, the element requires a complete analysis of potential
+         governmental constraints. Depending upon the results of that analysis, the City may
+         need to revise or add programs and address and remove or mitigate any identified
+         constraints.
+    5.   Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race, religion,
+         sex, marital status, ancestry, national origin, color, familial status, or disability, and
+         other characteristics protected by the California Fair Employment and Housing Act
+         (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+         any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+         (c)(5).)
+
+
+City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element           Page 4
+December 15, 2023
+          Goals and Actions: As noted in Finding A1, the element must include a complete
+          analysis of affirmatively furthering fair housing (AFFH). The element must be revised to
+          add goals and actions based on the outcomes of a complete analysis.
+
+          In addition, while the element includes some actions toward AFFH and enhancing
+          housing mobility (e.g., choices and affordability), actions should be added, and
+          geographic targeting should be modified to better promote inclusive neighborhoods
+          throughout the City. As noted in HCD’s prior review and the assessment of fair
+          housing, the City is highest resource and highest median incomes.
+
+          These conditions and circumstances warrant significant and robust actions (not limited
+          to the RHNA) to promote housing mobility and increasing housing choices and
+          affordability throughout the City, including lower-density neighborhoods. Actions should
+          be added and revised with aggressive numeric targets and geographic targets
+          throughout the City, including lower-density neighborhoods. Examples include creating
+          more housing choices and affordability in single-family neighborhoods beyond
+          complying with law (e.g., SB 9, ADUs) such as missing middle housing types, targeting
+          affordable housing funding, homesharing, more than one unit of converted space within
+          a single-family structure, increased multifamily capacity, enhanced efforts on religious
+          institutional sites or city owned sites and other alternative land use and financing
+          strategies.
+
+     6.   Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+          that can be offered at affordable rent, as defined in Section 50053 of the Health and
+          Safety Code, for very low, low-, or moderate-income households. For purposes of this
+          paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+          unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, §
+          65583, subd. (c)(7).)
+
+          Program 1.3.8 Accessory Dwelling Units (ADU): While the Program now commits to
+          identify additional incentives to promote ADUs as well as monitoring the production and
+          affordability of ADUs. It should clarify when additional incentives will be implemented.
+          In addition, the program should include clarify that rezoning may be necessary as part
+          of alternative actions.
+
+C.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the Housing Element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd. (c)(9).)
+
+     Public participation in the development, adoption and implementation of the housing element
+     is essential to effective housing planning. Throughout the housing element process, the City
+     should continue to engage the community, including organizations that represent lower-
+     income and special needs households, by making information regularly available and
+     considering and incorporating comments where appropriate. HCD particularly encourages
+     the City to continue engaging commenters on this review. Public comments previously
+
+City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element           Page 5
+December 15, 2023
+    submitted contain valuable insights that can result in a more effective housing elements,
+    especially related to programs and specific commitment. HCD’s future reviews will continue
+    to consider the extent to which the revised element documents how the City solicited,
+    considered, and addressed public comments in the element. The City’s consideration of
+    public comments must not be limited by HCD’s findings in this review letter. Please be
+    aware, any revisions to the element must be posted on the local government’s website and
+    to email a link to all individuals and organizations that have previously requested notices
+    relating to the local government’s housing element at least seven days before submitting to
+    HCD.
+
+
+
+
+City of Cupertino’s 6th Cycle (2023-2031) Revised Draft Housing Element        Page 6
+December 15, 2023

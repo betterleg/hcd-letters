@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Palm Springs",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-10-01",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivPalmSpringsDraft100121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/rivPalmSpringsDraft100121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 245296,
+  "text_chars": 23486,
+  "text_empty": false
+}

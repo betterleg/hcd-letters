@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Rialto",
+  "type": "Draft",
+  "cycle": "5",
+  "reviewed": "2020-05-21",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdRialto05212020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdRialto05212020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 180836,
+  "text_chars": 4355,
+  "text_empty": false
+}

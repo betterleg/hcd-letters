@@ -1,0 +1,14 @@
+{
+  "county": "Kings",
+  "jurisdiction": "Avenal",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-06-04",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/kin-avenal-adopt-in-rezone-060426-068cs000025hhp5AAA.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/kin-avenal-adopt-in-rezone-060426-068cs000025hhp5AAA.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 147495,
+  "text_chars": 5162,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Monterey Park",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-12-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/monCityofMontereyPark6thCycledraft120621.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/monCityofMontereyPark6thCycledraft120621.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 303046,
+  "text_chars": 44206,
+  "text_empty": false
+}

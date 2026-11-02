@@ -1,0 +1,593 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         December 14, 2021
+
+
+
+         Matt Foulkes, Director
+         Department of Community Development
+         City of Buena Park
+         6650 Beach Blvd
+         Buena Park, CA 90622
+
+         Dear Matt Foulkes:
+
+         RE: City of Buena Park’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Buena Park’s (City) draft housing element received
+         for review on October 15, 2021. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. Our review was facilitated by a conversation
+         on December 14, 2021 with Swati Meshram, Planning Manager; and consultants
+         Veronica Tam, Brady Woods, and Diane Bathgate. In addition, HCD considered
+         comments from the Kennedy Commission; People for Housing California; Public
+         Interest Law; and Californians for Homeownership pursuant to Government Code
+         section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes these and other revisions needed to comply with
+         State Housing Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to
+         HCD to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+Matt Foulkes, Director
+Page 2
+
+
+  and HCD may revoke its finding of substantial compliance pursuant to Government
+  Code section 65585, subdivision (i).
+
+  Public participation in the development, adoption and implementation of the housing
+  element is essential to effective housing planning. Throughout the housing element
+  process, the City should continue to engage the community, including organizations that
+  represent lower-income and special needs households, by making information regularly
+  available and considering and incorporating comments where appropriate.
+
+  Several federal, state, and regional funding programs consider housing element
+  compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+  (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+  Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+  Local Housing Allocation consider housing element compliance and/or annual reporting
+  requirements pursuant to Government Code section 65400. With a compliant housing
+  element, the City meets housing element requirements for these and other funding
+  sources.
+
+  For your information, some general plan element updates are triggered by housing
+  element adoption. HCD reminds the City to consider timing provisions and welcomes
+  the opportunity to provide assistance. For information, please see the Technical
+  Advisories issued by the Governor’s Office of Planning and Research at:
+  http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+  http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+  We are committed to assist the City in addressing all statutory requirements of State
+  Housing Element Law. If you have any questions or need additional technical
+  assistance, please contact Mashal Ayobi, of our staff, at Mashal.Ayobi@hcd.ca.gov.
+
+  Sincerely,
+
+
+
+
+  Melinda Coy
+  Senior Housing Accountability Manager
+
+  Enclosure
+                                         APPENDIX
+                                    CITY OF BUENA PARK
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+      Outreach: The element must include information on how the City conducted meaningful
+      outreach with key stakeholders and the public. The element currently states that the City
+      conducted a workshop and survey and conducted stakeholder interviews. The element
+      should describe the results of this outreach specifically related to the affirmatively
+      furthering fair housing (AFFH) analysis. The element could discuss any outreach efforts
+      beyond public workshops to specific neighborhoods that are disproportionately impacted
+      by fair housing issues.
+
+      Sites Inventory: The element must include an analysis demonstrating whether sites
+      identified to meet the RHNA are distributed throughout the community in a manner that
+      affirmatively furthers fair housing. The City provides several maps of its site inventory in
+      relation to concentrations of various protected classes, demonstrating that the City largely
+      identifies its low-income sites in areas with greater concentrations of lower-income and
+      nonwhite households. The element should also discuss whether the distribution of sites
+      improves or exacerbates conditions. If sites exacerbate conditions, the element should
+      identify further program actions that will be taken to mitigate this (e.g., anti-displacement
+      strategies).
+
+      Integration and Segregation: The element provided some data on integration and
+      segregation across racial groups and one map displaying income by census tracts. The
+      element must discuss and analyze this data for trends over time and patterns across
+      census tracts. Additionally, it must evaluate patterns at a regional basis, comparing the
+      City to the region.
+
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                               Page 1
+December 14, 2021
+      Access to Opportunity: While the element provided a general analysis of opportunity
+      areas, and high-level conclusions about the City’s disparities in access to opportunity, it
+      must independently analyze trends and patterns related to access to opportunities. The
+      element should analyze opportunities as they impact protected classes and should
+      address the discrepancies that exist in Buena Park. The element does not address
+      discrepancies within Buena Park, such as school proficiency and low poverty rates of
+      Black and Hispanic/Latino populations when compared with White, Non-Hispanic/Latino
+      populations.
+
+      Local Data and Knowledge, and Other Relevant Factors: The element must include local
+      data, knowledge, and other relevant factors to discuss and analyze any unique attributes
+      about the City related to fair housing issues. The element should complement federal,
+      state, and regional data with local data and knowledge where appropriate to capture
+      emerging trends and issues, including utilizing knowledge from local and regional
+      advocates and service providers. Also, the element must include other relevant factors
+      that contribute to fair housing issues in the jurisdiction. For instance, the element can
+      analyze historical land use and investment practices or other information and demographic
+      trends.
+
+      Disproportionate Housing Needs: The element includes some local and regional data on
+      cost burdened households (overpayment), overcrowding, substandard housing, and
+      displacement. However, the element must provide data, analysis, and evaluate trends and
+      patterns within the City for persons experiencing homelessness.
+
+      Contributing Factors to Fair Housing Issues: The element includes the contributing
+      factors from the 2020 analysis of impediments to fair housing choice (AI). However, the
+      element must prioritize contributing factors and relate factors to the analysis found in
+      AFFH analysis.
+
+   2. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      The City has a regional housing need allocation (RHNA) of 8,919 housing units, of which
+      3,462 are for lower-income households. To address this need, the element relies on
+      vacant sites, ADUs, and sites within the Mixed-Use Overlay area. To demonstrate the
+      adequacy of these sites and strategies to accommodate the City’s RHNA, the element
+      must include complete analyses:
+
+      Progress in Meeting the RHNA: The element indicates (page 11-50) that 394 units have
+      been constructed or approved and of these, 67 units are affordable to very low-income
+      households and low-income households. However, it provides no information documenting
+      how affordability of the units was determined. As you know, the City’s RHNA may be
+      reduced by the number of new units built since June 30, 2021; however, the element must
+      describe the City’s methodology for assigning these units to the various income groups
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                                Page 2
+December 14, 2021
+      based on actual sales price or rent level of the units and demonstrate their availability in
+      the planning period.
+
+      Sites Inventory: The element must include an analysis demonstrating the potential for
+      redevelopment of nonvacant sites (page 11-56). To address this requirement, the
+      inventory describes in general the existing use of each nonvacant site such as
+      “commercial”. This alone is not adequate to demonstrate the potential for redevelopment
+      in the planning period. The description of existing uses should be sufficiently detailed to
+      facilitate an analysis demonstrating the potential for additional development in the planning
+      period. In addition, the sites inventory lacks complete information for all sites identified in
+      the inventory. In particular Site 137, which is anticipated to accommodate 250 units, is
+      missing information related to allowable densities and size.
+
+      Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+      standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and
+      instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+      assistance. Please note, upon adoption of the housing element, the City must submit an
+      electronic version of the sites inventory with its adopted housing element to
+      sitesinventory@hcd.ca.gov.
+
+      Suitability of NonVacant Sites: The element identifies nonvacant sites to accommodate the
+      regional housing need for lower-income households, but does not describe the
+      methodology used to determine the additional development potential within the planning
+      period. For example, the element includes single family homes, service club locations, a
+      fire station, existing motels, the Downtown Buena Park Mall, and a school site, among
+      others, but no analysis was provided to demonstrate whether these existing uses would
+      impede development of these sites within the planning period. The methodology must
+      consider factors including the extent to which existing uses may impede additional
+      residential development, development trends, market conditions, any existing leases or
+      other contracts that would perpetuate the existing use or prevent redevelopment of the site
+      for additional residential development, and regulatory or other incentives or standards to
+      encourage additional residential development on these sites. For sites with residential
+      uses, the inventory could also describe structural conditions or other circumstances and
+      trends demonstrating the redevelopment potential to more intense residential uses. For
+      nonresidential sites, the inventory could also describe whether the use is operating,
+      marginal or discontinued, and the condition of the structure or could describe any
+      expressed interest in redevelopment. (Gov. Code, § 65583.2, subd. (g).).
+
+      The element also relies on sites owned by religious institutions to satisfy a portion of the
+      RHNA. Further support and analysis are needed to demonstrate the feasibility of these sites.
+      For example, the element could describe whether property owners or developers have
+      expressed any interest in these sites, how residential uses are compatible with underlying
+      zoning, and what actions the City is taking to make such development more feasible.
+
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                               Page 3
+December 14, 2021
+      In addition, because the housing element relies upon nonvacant sites to accommodate
+      more than 50 percent of the RHNA for lower-income households, the housing element
+      must demonstrate that the existing use is not an impediment to additional residential
+      development in the planning period. (Gov. Code, § 65583.2, subd. (g)(2).) This can be
+      demonstrated by providing substantial evidence that the existing use is likely to be
+      discontinued during the planning period. (Gov. Code, § 65583.2, subd. (g)(2).)
+
+      Congregational Sites Overlay: On page 11-55, the element is relying on sites within the
+      CG overlay and assumes the maximum allowable density in these zones will be 40 units
+      per acre. However, the element only states that it will “seek to establish” the overlay, and
+      no program was included to develop this overlay. Unless the element commits to establish
+      the overlay, these sites cannot be used to meet the RHNA. Please note because zoning is
+      not already in place at the beginning of the planning period, rezoning for these sites must
+      be consistent with Government Code, § 65583.2, subdivision (h) and (i)
+
+      Realistic Capacity: While the element provides (p. 11-50 and 51) assumptions of buildout
+      for sites included in the inventory, it must also provide support for these assumptions.
+      For example, while the element identifies the actual residential densities of recent
+      projects, the built densities do not seem to support the base densities assumed. For
+      example, in the general mixed-use zone with a base density of 32, of the five projects
+      listed, only one project was built out at 32 units per acre. The element should also
+      analyze the likelihood that the identified units will be developed as noted in the inventory
+      in zones that allow 100 percent nonresidential uses (e.g., mixed-use). This analysis
+      should consider the likelihood of 100 percent nonresidential development, performance
+      standards, and development trends supporting residential development.
+
+      Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+      accommodate housing for lower-income households unless it is demonstrated, with
+      sufficient evidence, that site. While the element includes some analysis to support lot
+      consolidation, the element needs to relate this analysis and the characteristics of
+      selected sites. The element should provide specific examples with the densities,
+      affordability and, if applicable, circumstances leading to consolidation, such as common
+      ownership. The element should relate these examples to the sites identified to
+      accommodate the RHNA for lower-income households to demonstrate that these sites
+      can adequately accommodate the City’s lower-income housing need.
+
+      Accessory Dwelling Units (ADU): The element assumes an ADU build out of 30 ADUs per
+      year based on city data which shows 30 approvals in 2020. Given that the City has only
+      produced an average of 1 ADU per year since 2018, it is not clear if this production level
+      will be achievable in the planning period. The element should reconcile these figures and
+      adjust assumptions as appropriate.
+
+      Sites with Zoning for a Variety of Housing Types:
+
+      Employee Housing: The element must demonstrate the zoning is consistent with the
+      Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically, sections
+      17021.5 and 17021.6. Section 17021.5 requires employee housing for six or fewer
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                              Page 4
+December 14, 2021
+      employees to be treated as a single-family structure and permitted in the same manner as
+      other dwellings of the same type in the same zone.
+
+      Emergency Shelters: The element must clarify which zone(s) emergency shelters are
+      permitted without a conditional use permit or other discretionary action and demonstrate
+      these zones have sufficient capacity to accommodate the identified housing need for
+      emergency shelters. (Gov. Code, § 65583, subd. (a)(4).) For example, identifying the
+      number of parcels, typical parcels sizes, whether the sites are nonvacant, and the
+      potential capacity for adaptive reuse. In addition, while housing element law does allow a
+      jurisdiction to limit the number of beds or persons permitted to be served nightly by a
+      facility, standards must be designed to encourage and facilitate the development of, or
+      conversion to, an emergency shelter. The element must analyze the 30-bed limit as a
+      potential constraint for the development of emergency shelters.
+
+      Accessory Dwelling Units: After a cursory review of the City’s ordinance, HCD discovered
+      several areas which appear to be inconsistent with State ADU Law. For example, the
+      ordinance appears to limit ADUs to lots that are residentially zoned, imposes additional
+      requirements on parking spaces not found in state ADU law, identifies areas of the City
+      that restricts ADU and JADU development without findings to support this restriction,
+      amongst other items. As a result, the element should add a program to update the City’s
+      ADU ordinance to comply with state law. HCD will provide a complete listing of ADU
+      noncompliance issues under a separate cover.
+
+   3. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures. The analysis shall also
+      demonstrate local efforts to remove governmental constraints that hinder the locality from
+      meeting its share of the regional housing need in accordance with Government Code
+      section 65584 and from meeting the need for housing for persons with disabilities,
+      supportive housing, transitional housing, and emergency shelters identified pursuant to
+      paragraph (7). Transitional housing and supportive housing shall be considered a
+      residential use of property and shall be subject only to those restrictions that apply to other
+      residential dwellings of the same type in the same zone. (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land-Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types. The analysis should analyze
+      land use controls independently and cumulatively with other land use controls. While the
+      element many development standards it must also include setbacks, unit minimums, and
+      other development standards and must analyze the parking standards for studio and one-
+      bedroom units, height limits, and lot coverage requirements in multifamily zones. In
+      addition, the element should describe and analyze the standards for residential
+      development under the Housing Overlay Zone to ensure densities can be achieved.
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                                Page 5
+December 14, 2021
+      Site Plan Review: The element describes the Site Plan process for most development
+      including findings that “The site arrangement and improvements will not be detrimental to
+      the existing and intended character of the area…” (page 11-45). The element should
+      analyze these standards for impacts on timing, cost, supply and approval certainty and
+      include programs to address identified constraints.
+
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning and development standards for each
+      parcel on the jurisdiction’s website pursuant to Government Code section 65940.1,
+      subdivision (a), paragraph (1).
+
+      Codes and Enforcement: While the element describes the City building code, it must also
+      describe the zoning code enforcement processes and procedures and analyze their
+      impact as potential constraints on housing supply and affordability.
+
+      Constraints on Housing for Persons with Disabilities:
+
+      Reasonable Accommodation: The element briefly mentions the City adopting a reasonable
+      accommodation procedure in 2008 (page 11-42). The element should discuss the process
+      for requesting a reasonable accommodation and list the actual approval findings and
+      analyze these findings for potential constraints on housing for people with disabilities.
+
+      Residential Care Facilities for Seven or More Persons: Residential care facilities or group
+      homes for seven or more are always subject to a conditional use permit (page 11-37). The
+      element must describe and analyze how non-licensed residential care facilities serving
+      seven or more persons are approved including any approval findings. The element should
+      analyze the process for potential constraints on housing for persons with disabilities and
+      add or modify programs as appropriate to ensure zoning permits group homes for seven
+      or more persons objectively with approval certainty.
+
+   4. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval for
+      a housing development and submittal of an application for building permits for that housing
+      development that hinder the construction of a locality’s share of the regional housing need
+      in accordance with Government Code section 65584.
+
+      The element must be revised to include analysis of requests to develop housing at
+      densities below those anticipated, and the length of time between receiving approval for a
+      housing development and submittal of an application for building permits that potentially
+      hinder the construction of a locality’s share of the regional housing need. In addition, for a
+      more through analysis of the availability of financing, the element could include data on
+      how the availability of financing (or lack of) affects underserved groups.
+
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                               Page 6
+December 14, 2021
+   5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code,
+      § 65583, subd. (a)(7).)
+
+      While the element quantifies the City’s special needs populations, it must also analyze their
+      special housing needs. For a complete analysis of each population group, the element should
+      discuss challenges faced by the population, the existing resources to meet those needs
+      (availability senior housing units, # of large units, # of deed restricted units, etc.,), an
+      assessment of any gaps in resources, and proposed policies, programs, and funding to help
+      address those gaps. For example, the element could discuss the needs of seniors living under
+      poverty level, the effectiveness of the Home Improvement Program for large households.
+
+      The element indicates on Table 11 that there are 776 farmworkers employed in fulltime
+      farming occupations in Buena Park. However, farmworkers from the broader area and those
+      employed seasonally may also have housing needs, including within the City’s boundaries. As
+      a result, the element should acknowledge the housing needs of permanent and seasonal
+      farmworkers at a county-level (e.g., using USDA county-level farmworker data) and include
+      programs as appropriate.
+
+
+B. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element through the
+      administration of land use and development controls, the provision of regulatory
+      concessions and incentives, and the utilization of appropriate federal and state financing
+      and subsidy programs when available. The program shall include an identification of the
+      agencies and officials responsible for the implementation of the various actions. (Gov.
+      Code, § 65583, subd. (c).)
+
+      To address the program requirements of Gov. Code section 65583, subd. (c)(1-6), and to
+      facilitate implementation, programs should include: (1) a description of the City’s specific
+      role in implementation; (2) definitive implementation timelines; (3) objectives, quantified
+      where appropriate; and (4) identification of responsible agencies and officials. Programs to
+      be revised include the following:
+
+      The element must provide discrete timing for all programs (e.g., month, year) to account
+      for how often the action will occur as well as to ensure a beneficial impact throughout the
+      planning period and quantify objectives where feasible. Additionally, all programs should
+      be evaluated to ensure meaningful and specific actions and objectives. Programs
+      containing unclear language (e.g., “Evaluate”; “Consider”; “Encourage”; etc.) should be
+      amended to include more specific and measurable actions.
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                              Page 7
+December 14, 2021
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing.
+      (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding A2, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+      Housing Replacement: For nonvacant sites with existing, vacated, or demolished
+      residential uses and occupied by, or subject to an affordability requirement for, lower-
+      income households within the last five years there must be a replacement housing
+      program for units affordable to lower-income households. (Gov. Code, § 65583.2, subd.
+      (g)(3).) Absent a replacement housing program, these sites are not adequate sites to
+      accommodate lower-income households. The replacement housing program has the same
+      requirements as set forth in Gov. Code section. 65915, subdivision (c)(3). The housing
+      element must be revised to include such analysis and a program, if necessary
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings A3 and A4, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      Program 14 (Evaluate Development Standards): The program states that the City will
+      conduct a study to evaluate development standards and then based on the study results
+      amend zoning. The element identifies several parking regulations and processing
+      procedures that may constrain the development of housing. Rather than study the
+      constraint, the program should demonstrate clear commitments to mitigation or removal of
+      these constraints. For example, the study could identify options for mitigating the
+      identifying the parking constraint, or just commit to amending the zoning in the manner
+      that is outlined in the objectives.
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                             Page 8
+December 14, 2021
+   4. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The City should consider additional incentives and actions which assist in the development of
+      housing for lower-income households, including extremely low-income, and special needs
+      households. As part of Program 9 (Development of Housing for Extremely Low-Income
+      Households, the City could consider the development of an inclusionary housing ordinance or
+      additional land use incentives and concessions for projects that contain a certain percentage of
+      housing for extremely-low income housing. In addition, the following programs require revision:
+
+      Program 7 (Housing Choice Vouchers (Section 8 Rental Assistance) Program): Provide
+      specific timing related to objective c) updating the city website to redefine the term “source
+      of income”.
+
+      Program 13 (Special Needs Housing): Given the need for housing for persons with
+      disabilities and senior housing, this program should include specific objectives and actions
+      to address the housing needs for these population groups.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected by the California Fair Employment and Housing Act (Part 2.8
+      (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other
+      state and federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element must include a complete analysis of AFFH. The
+      element must be revised to add goals and actions based on the outcomes of a complete
+      analysis. Goals and actions must specifically respond to the analysis and to the identified
+      and prioritized contributing factors to fair housing issues and must be significant and
+      meaningful enough to overcome identified patterns and trends. Actions must have specific
+      commitment, metrics, and milestones as appropriate and must address housing mobility
+      enhancement, new housing choices and affordability in high opportunity areas, place-
+      based strategies for community preservation and revitalization and displacement
+      protection. In addition, currently the element only addresses AFFH in Program 17. The
+      element could revise the element to incorporate AFFH throughout the programs section
+      tying program actions to addressing trends and patterns identified in the analysis.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+      can be offered at affordable rent, as defined in Section 50053 of the Health and Safety
+      Code, for very low, low-, or moderate-income households. For purposes of this paragraph,
+      “accessory dwelling units” has the same meaning as “accessory dwelling unit” as defined
+      in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code,
+      § 65583, subd. (c)(7).)
+
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                               Page 9
+December 14, 2021
+      Program 5 (Preservation of At-Risk Housing): The element must specify actions to monitor
+      at-risk units, including contacting property owners within at least one year of the
+      affordability expiration dates on projects, noticing requirements within 3 years and 6
+      months of the affordability expiration dates, in addition to coordinating with qualified
+      entities such as nonprofit organizations and establish specific time parameters around
+      such actions. Specific funding must be identified as well. In considering use of
+      financing/subsidy programs, analysis should identify amounts of funds under each
+      available program that have not been legally obligated for other purposes.
+
+
+C. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   While the City made effort to include the public through a workshop, survey, and public
+   meeting, moving forward, the City should employ additional methods for public outreach
+   efforts in the future, particularly to include lower-income and special needs households and
+   neighborhoods with higher concentrations of lower-income households. The element should
+   summarize public comments received and describe how they were considered and
+   incorporated into the element.
+
+   HCD understands the City made the element available to the public only two weeks prior to its
+   submittal to HCD. By not providing an opportunity for the public to review and comment on a
+   draft of the element in advance of submission, the City has not yet complied with statutory
+   mandates to make a diligent effort to encourage the public participation in the development of
+   the element and it reduces HCD’s ability to consider public comments in the course of its
+   review. The availability of the document to the public and opportunity for public comment prior
+   to submittal to HCD is essential to the public process and HCD’s review. The City must
+   proactively make future revisions available to the public, including any commenters, prior to
+   submitting any revisions to HCD and diligently consider and address comments, including
+   making revisions to the document where appropriate. HCD’s future review will consider the
+   extent to which the revised element documents how the City solicited, considered, and
+   addressed public comments in the element. The City’s consideration of public comments must
+   not be limited by HCD’s findings in this review letter.
+
+
+
+
+City of Buena Park’s 6th Cycle Draft Housing Element                             Page 10
+December 14, 2021

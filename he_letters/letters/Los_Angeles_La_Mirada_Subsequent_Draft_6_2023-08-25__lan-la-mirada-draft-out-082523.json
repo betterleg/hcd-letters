@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "La Mirada",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-08-25",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-la-mirada-draft-out-082523.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-la-mirada-draft-out-082523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 212261,
+  "text_chars": 15575,
+  "text_empty": false
+}

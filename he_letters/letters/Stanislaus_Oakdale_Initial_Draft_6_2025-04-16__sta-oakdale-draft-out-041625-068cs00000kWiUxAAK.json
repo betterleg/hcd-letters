@@ -1,0 +1,14 @@
+{
+  "county": "Stanislaus",
+  "jurisdiction": "Oakdale",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2025-04-16",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-oakdale-draft-out-041625-068cs00000kWiUxAAK.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-oakdale-draft-out-041625-068cs00000kWiUxAAK.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 245196,
+  "text_chars": 35738,
+  "text_empty": false
+}

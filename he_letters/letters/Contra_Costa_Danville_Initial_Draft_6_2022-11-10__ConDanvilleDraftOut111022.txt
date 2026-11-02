@@ -1,0 +1,634 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 10, 2022
+
+
+         David Crompton, Chief of Planning
+         Development Services Department
+         Town of Danville
+         510 La Gonda Way
+         Danville, CA 94526
+
+         Dear David Crompton,
+
+         RE: Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the Town of Danville (Town) draft housing element update
+         received for review on August 15, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. HCD considered comments from YIMBY Law
+         and Greenbelt Alliance, East Bay for Everyone, South Bay YIMBY, Campaign for Fair
+         Housing Elements and YIMBY Law, and Ryan McNamara pursuant to Government Code
+         section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the town should continue to engage the community, including organizations
+         that represent lower-income and special needs households, by making information
+         regularly available and considering and incorporating comments where appropriate.
+         Please be aware, any revisions to the element must be posted on the local
+         government’s website and to email a link to all individuals and organizations that have
+         previously requested notices relating to the local government’s housing element at least
+         seven days before submitting to HCD.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+         lower-income households, shall be completed no later than one year from the statutory
+David Crompton, Chief of Planning
+Page 2
+
+
+
+deadline. Otherwise, the local government’s housing element will no longer comply with
+State Housing Element Law, and HCD may revoke its finding of substantial compliance
+pursuant to Government Code section 65585, subdivision (i). Please be aware, if the
+Town fails to adopt a compliant housing element within one year from the statutory
+deadline, the element cannot be found in substantial compliance until rezones to
+accommodate a shortfall of sites pursuant to Government Code section 65583,
+subdivision (c) (1) (A) and Government Code section 65583.2, subdivision (c) are
+completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the Town will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the Town to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assisting the Town in addressing all statutory requirements of
+State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Connor Finney, of our staff, at Connor.Finney@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                       APPENDIX
+                                    TOWN OF DANVILLE
+
+The following changes are necessary to bring the Town’s housing element into compliance
+with Article 10.6 of the Government Code. Accompanying each recommended change, we cite
+the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revise
+
+   Government Code (GC) Section 65588 requires: “Each local government shall review its
+   housing element as frequently as appropriate to evaluate all of the following: (1) The
+   appropriateness of the housing goals, objectives, and policies in contributing to the
+   attainment of the state housing goal. (2) The effectiveness of the housing element in
+   attainment of the community's housing goals and objectives. (3) The progress of the city,
+   county, or city and county in implementation of the housing element.” (4) The effectiveness
+   of goals, policies, and related actions to meet the community’s special housing needs. GC
+   65583(a)(7).”
+
+   As part of the review of programs in the past cycle, the element must analyze the
+   effectiveness of goals, policies, and related actions in meeting the housing needs of special
+   needs populations (e.g., elderly, persons with disabilities, large households, female headed
+   households, farmworkers and persons experiencing homelessness). Programs should be
+   revised as appropriate to reflect the results of this evaluation.
+
+
+B. Housing Needs Resources and Constraints
+
+   1. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code,
+      § 65583, subd. (a)(7).)
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                    Page 1
+November 10, 2022
+      Extremely Low-Income Households (ELI): The element includes some basic information
+      regarding ELI households such as the number of households. However, given the
+      unique and disproportionate needs of ELI households, the element must identify their
+      projected housing needs (e.g., 50 percent of the very low-income regional housing
+      needs allocation (RHNA)) and include analysis to better formulate policies and
+      programs. For example, the element should analyze tenure, cost burden and other
+      household characteristics, compare those characteristics to other income and special
+      needs groups then examine the availability of resources to determine gaps in housing
+      needs. Finally, the element should examine the success of past efforts and formulate an
+      appropriate programmatic response given the magnitude of the need. For additional
+      information, see the Building Blocks at http://www.hcd.ca.gov/community-
+      development/building-blocks/housing-needs/extremely-low-income-housing-
+      needs.shtml.
+
+      Overpayment: The element must quantify and analyze the number of lower-income
+      households overpaying by tenure (i.e., renter and owner).
+
+      Special Needs: While the element quantifies the Town’s special needs populations, it
+      must also analyze their special housing needs. For a complete analysis of each
+      population group, the element should discuss challenges faced by the population, the
+      existing resources to meet those needs (availability senior housing units, number of
+      large units, number of deed restricted units, etc.,), an assessment of any gaps in
+      resources, and proposed policies, programs, and funding to help address those gaps.
+
+   2. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Fair Housing Enforcement and Capacity: The element should discuss how the Town
+      complies with existing fair housing laws and regulations, any past fair housing lawsuits,
+      consent decrees or other related legal matters.
+
+      Local to Regional Patterns of Income and Racially Concentrated Areas of Affluence
+      (RCAA): While the element reports on County patterns of income and RCAA, it should
+      also compare the Town as a whole to the County and broader region and evaluate
+      differences. This evaluation should also consider local data and knowledge and other
+      relevant factors such as historical land use and other practices. Based on a complete
+      analysis, the element should formulate appropriate policies and programs (not limited to
+      the regional housing need allocation (RHNA)) to target significant and meaningful
+      affirmatively furthering fair housing (AFFH) outcomes. This evaluation should utilize
+      HCD’s RCAA’s data available at https://www.hcd.ca.gov/affirmatively-furthering-fair-
+      housing.
+
+      Disproportionate Housing Needs: The element includes some general information on
+      persons experiencing homelessness and housing conditions but should also evaluate
+      those needs, impacts and patterns within the Town, such as areas of higher need. For
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                    Page 2
+November 10, 2022
+      homelessness, the element should examine disproportionate impacts on protected
+      characteristics (e.g., race, disability) and patterns of need, including access to
+      transportation and services. For housing conditions, the element should discuss any
+      areas of potentially higher needs of rehabilitation and replacement. The element may
+      utilize local data and knowledge such as service providers and code enforcement
+      officials to assist this analysis.
+
+      AFFH and Sites Inventory: The element must analyze how the identified sites contribute
+      to or mitigate fair housing issues. An analysis should address all of the income
+      categories of identified sites with respect to location, the number of units by all income
+      groups and how that affects the existing patterns for all components of the assessment
+      of fair housing (e.g., segregation and integration, access to opportunity). If sites
+      exacerbate conditions or isolate the RHNA by income group, the element should identify
+      further program actions (not limited to the RHNA) that will be taken to promote equitable
+      quality of life throughout the community (e.g., housing mobility and new opportunities in
+      higher resource and income areas).
+
+      Local Data and Knowledge: The element must include local data, knowledge, and other
+      relevant factors to discuss and analyze any unique attributes about the Town related to
+      fair housing issues. The element should complement federal, state, and regional data
+      with local data and knowledge where appropriate to capture emerging trends and
+      issues, including utilizing knowledge from local and regional advocates and service
+      providers, Town staff and related local and county planning documents and should
+      include an analysis of the history of exclusionary zoning in the Town.
+
+      Other Relevant Factors: While the element mentions various other relevant factors, it
+      generally does not provide enough data or analysis. For example, land use and local
+      opposition does not discuss or examine past practice and experience. This is
+      particularly important given the tenure rates and housing types, trends and lack of
+      housing choices and affordability.
+
+      Contributing Factors to Fair Housing Issues: Based on the outcomes of a complete
+      analysis, the element must list and prioritize contributing factors to fair housing issues.
+      Contributing factors should result in strategic approaches to inform and connect
+      analysis, goals and actions to address and mitigate fair housing issues. For more
+      information, please see HCD’s Guidance Memo at https://www.hcd.ca.gov/planning-
+      and-community-development/affirmatively-furthering-fair-housing.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The Town’s RHNA may be reduced by the number of
+      new units built, approved, or pending since June 30, 2022; however, the element must
+      demonstrate their affordability and availability in the planning period. Affordability should
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                      Page 3
+November 10, 2022
+      be based on actual sales price, rent level or other mechanisms ensuring affordability
+      (e.g., deed restrictions). Availability should address the status, anticipated completion,
+      any barriers to development and other relevant factors such as build out horizons,
+      phasing and dropout rates to demonstrate the availability or likelihood of development in
+      the planning period.
+
+      Realistic Capacity: The estimate of the number of units for each site must be adjusted
+      as necessary, generally based on the land use controls and site improvements and
+      typical densities of existing or approved residential developments at a similar
+      affordability level. The element lists a few recent projects (pp. H-17, H-18 and B-12);
+      however, given the element is assuming 100 percent of maximum allowable densities, it
+      should list all recent projects. The listing should evaluate projects by zone, maximum
+      allowable density, parcel size, number of units, affordability and frequency of exceptions
+      such as density bonuses. This analysis should particularly examine trends based on
+      zones and size of projects and demonstrate those circumstances are similar to
+      circumstances of identified sites. Alternatively, the element could rescale assumptions
+      less than maximum allowable density (e.g., 80 to 90 percent and 50 percent).
+
+      In addition, where zoning allows 100 percent nonresidential uses, the calculation of
+      residential capacity should account for the likelihood of 100 percent nonresidential
+      development. For example, the element could analyze all development activity in
+      nonresidential zones allowing 100 percent nonresidential uses, how often residential
+      development occurs and adjust residential capacity calculations, policies, and programs
+      accordingly. This analysis may incorporate any proposed policies such as residential
+      performance standards, prohibition of commercial uses and should clarify that all zones
+      allow residential uses, particularly 100 percent residential uses.
+
+      Suitability of Nonvacant Sites: The element must include a description of identified sites
+      and their existing uses and include an analysis demonstrating the potential for additional
+      development on nonvacant sites. The element should analyze the extent that existing
+      uses may impede additional residential development. It can summarize past
+      experiences converting existing uses to higher density residential development, include
+      current market demand for the existing use, provide analysis of existing leases or
+      contracts that would perpetuate the existing use or prevent additional residential
+      development and include current information on development trends and market
+      conditions in the Town and relate those trends to the sites identified. The element could
+      also consider indicators such as age and condition of the existing structure expressed
+      developer or property owner interest, existing versus allowable floor area, low
+      improvement to land value ratio, and other factors. The element should also address
+      public comments about the feasibility of individual sites.
+
+      In addition, since nonvacant sites accommodate 50 percent or more of the lower-
+      income need, the housing element must describe “substantial evidence” that the
+      existing use does not constitute an impediment for additional residential use on the site.
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+      uses will be presumed to impede additional residential development and will not be
+      utilized toward demonstrating adequate sites to accommodate the RHNA.
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                    Page 4
+November 10, 2022
+      Finally, the element identifies sites with existing residential uses. Absent a replacement
+      housing policy, these sites are not adequate sites to accommodate lower-income
+      households. The replacement housing policy has the same requirements as set forth in
+      Government Code section 65915, subdivision (c) (3).
+
+      AB 725: To be incompliance, the element should demonstrate that at least 25 percent of
+      moderate-income units will be in areas zones for at least four units, but not more than
+      100 units per acre. And that at least 25 percent of above moderate-income units will be
+      located in areas zoned for at least four units of housing per parcel.
+
+      Infrastructure: The element should clarify that the Town has sufficient existing and
+      planned total water capacity to accommodate the RHNA.
+
+      Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+      accommodate housing for lower-income housing unless it is demonstrated that sites of
+      equivalent size and affordability were successfully developed during the prior planning
+      period or unless the housing element describes other evidence to HCD that the site is
+      adequate to accommodate lower-income housing. (Gov. Code, § 65583.2, subd.
+      (c)(2)(A).) The element lists small sites but must also evaluate whether those sites are
+      suitable to accommodate housing for lower income households and add or modify
+      programs as appropriate. For example, the element could list past consolidations by the
+      number of parcels, number of owners, zone, number of units, affordability and
+      circumstances leading to consolidation and then relate those trends to the identified
+      sites or could explain the potential for consolidation on a site-by-site basis.
+
+      Environmental Constraints: While the element mentions various environmental
+      conditions, it should also discuss whether those conditions impact or preclude
+      development on identified sites. This discussion should address any other known
+      conditions and impacts on identified sites (shape, easements, conditions, compatibility)
+      as well as public comments on identified sites (e.g., creeks).
+
+      Accessory Dwelling Units (ADUs): The element notes 27 ADUs were permitted in 2020
+      and 46 in 2021. However, HCD records (annual progress reports) indicate permitted
+      ADUs of 12 in 2018, 20 in 2019, 9 in 2020 and 34 in 2021. The Town should reconcile
+      these figures and adjust assumptions as appropriate (e.g., 20 ADUs per year). In
+      addition, the Town’s ADU ordinance may require amendment to comply with ADU law.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element should clarify by right is without discretionary
+             action, discuss acreage, potential for a shelter including reuse, proximity to
+             transportation and services and areas/sites are not in areas unfit for human
+             habitation (discuss other allowed uses). Also, list and analyze development
+             standards and analyze whether parking requirements comply with
+             AB139/Government Code section 65583, subdivision (a)(4)(A) or include a
+             program to comply with this requirement.
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                    Page 5
+November 10, 2022
+          •   Transitional and Supportive Housing: The element should clarify that transitional
+              and supportive Housing is allowed in all zones allowing residential, including
+              mixed use, and clearly identify the capacity limit as a constraint and specifically
+              commit to removing this constraint in Program 7.1e.
+
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision
+      (b), upon adoption of the housing element, the Town must submit an electronic version
+      of the sites inventory with its adopted housing element to sitesinventory@hcd.ca.gov.
+      Please note, the Town must utilize standards, forms, and definitions adopted by HCD
+      when preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/community-development/housing-element/index.shtml#element
+      for a copy of the form and instructions. The Town can reach out to HCD at
+      sitesinventory@hcd.ca.gov for technical assistance.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).).
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types (e.g., multifamily rental
+      housing, mobilehomes, transitional housing). In particular, the element should address
+      heights, setbacks and parking and add specific commitment to address constraints. The
+      analysis must also evaluate the cumulative impacts of land use controls on the cost and
+      supply of housing, including the ability to achieve maximum densities and cost and
+      supply of housing. The analysis should also describe past or current efforts to remove
+      identified governmental constraints.
+
+      Fees and Exaction: While the element includes entitlement, building and impact fees, it
+      must also include planning fees. The element must describe all required fees for single
+      family and multifamily housing development, including planning fees (e.g., general plan
+      amendment, rezone, conditional use permit, variance), and analyze their impact as
+      potential constraints on housing supply and affordability.
+
+      Building Codes and Code Enforcement: The element must clarify which building and
+      zoning code is enforced, including any local amendments to the building code, and
+      analyze their impact as potential constraints on housing supply and affordability.
+
+      Processing and Permit Procedures: The element should describe and analyze the total
+      permit and entitlement process for a typical single-family unit and multifamily
+      development. The analysis should address typical processes for a development that
+      complies with zoning, time to complete entitlements, decision-making body, number of
+      hearing and approval findings. The analysis should address impacts on cost, timing,
+      feasibility and approval certainty.
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                      Page 6
+November 10, 2022
+      In addition, the Planned Development process should be evaluated as a potential
+      constraint, including whether the process is required, presence or lack of fixed
+      development standards and any other relevant factors for impacts on housing cost,
+      timing, feasibility and approval certainty.
+
+      SB 35 Streamlined Ministerial Approval Process: The element must identify and analyze
+      written procedures for the SB 35 Streamlined Ministerial Approval Process and add a
+      program if necessary.
+
+      Housing for Persons with Disabilities: The element describes the Town currently has a
+      procedure for requesting and granting a reasonable accommodation for persons with
+      disabilities; however, the element should also describe and evaluate approval findings
+      and the process for providing reasonable accommodations. The element should also
+      include an evaluate the definition of family used in zoning and land use. In addition, the
+      Town should clarify where and how group homes of 7 or more persons are permitted
+      and, based on this analysis, modify Program 7.1.h with specific commitment to revise
+      zoning and procedures to permit with objective standards to facilitate approval certainty
+      similar to other residential uses.
+
+      Inclusionary Requirements: The element mentions some research on inclusionary
+      requirements and concludes the requirement is not a constraint, but it must also
+      describe and analyze the Town’s inclusionary housing requirements, including its
+      impacts as potential constraints on the development of housing for all income levels.
+      The analysis must evaluate the inclusionary policy’s implementation framework,
+      including levels of mandated affordability and the types of options and incentives offered
+      to encourage and facilitate compliance with the inclusionary requirements. The Town
+      could engage the development community to facilitate this analysis.
+
+      Zoning Fees and Transparency: The element must list all fees and clarify its compliance
+      with new transparency requirements for posting all zoning and development standards,
+      and fees for each parcel on the jurisdiction’s website pursuant to Government Code
+      section 65940.1(a)(1).
+
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability
+      of financing, the price of land, the cost of construction, the requests to develop housing
+      at densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval
+      for a housing development and submittal of an application for building permits for that
+      housing development that hinder the construction of a locality’s share of the regional
+      housing need in accordance with Government Code section 65584... (Gov. Code,
+      § 65583, subd. (a)(6).)
+
+      Identified Densities and Approval Times: The element must address requests to
+      develop housing at densities below those anticipated in the sites inventory and the
+      length of time between receiving approval for housing development and submittal of
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                    Page 7
+November 10, 2022
+      application for building permits. The analysis must address any hinderances on housing
+      development and programs should be added as appropriate.
+
+      Land Cost and Availability of Financing: The element must include an estimate of the
+      average cost or the range of costs per acre for single family and multifamily
+      development and available housing financing, including private financing and
+      government assistance programs generally available in the community.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element. (Gov. Code,
+      § 65583, subd. (c).)
+
+      Programs must be revised to demonstrate that they will have a beneficial impact within
+      the planning period. Beneficial impact means specific commitment to deliverables,
+      measurable metrics or objectives, definitive deadlines (month, year), dates, or
+      benchmarks for implementation. Deliverables should occur early in the planning period
+      to ensure actual housing outcomes. Examples of programs that should be revised with
+      discrete timing include Programs 6.1.d (Parking Standards for Different Housing Types)
+      and 6.3.b (Accessory Dwelling Unit Regulations).
+
+      In addition, examples of programs that should be revised with specific commitment
+      include Programs 1.1.a (Capital Improvement Program), 2.1.a (Downtown Specific
+      Plan), 2.1.b (New Mixed-Use Developments), 6.1.b (Funding Sources to Support
+      Affordable Housing Development), 6.1.d (Parking Standards for Different Housing
+      Types), 6.1.e (Waive Processing Fees for Multifamily Lot Consolidations), 6.3.b
+      (Retention of Affordable Rental Units), 6.3.c (ADU Fee Reductions), 7.1.b
+      (Developmentally Disabled), 7.1.c (Larger Units), 7.1.e (Transitional and Supportive
+      Housing Regulations), 8.1.b (Lot Consolidation and Redevelopment of Nonvacant
+      Sites), and 8.2.a (Building Height).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                     Page 8
+November 10, 2022
+      As noted in Finding B3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the Town may need to add or revise
+      programs to address a shortfall of sites or zoning available to encourage a variety of
+      housing types. In addition, the element should be revised as follows:
+
+      Program 10.3.a (Zoning to Accommodate RHNA): The program appears to commit to
+      rezoning to accommodate a shortfall for the 6th cycle housing element. If so, this
+      program must be revised to identify minimum acreage, commitment to appropriate
+      development standards to facilitate maximum densities and meet all by requirements
+      pursuant to Government Code section 65583.2, subdivisions (h) and (i). For example,
+      the program should commit to residential only performance standards and to permit
+      owner-occupied and rental multifamily residential use by-right (without discretionary
+      action) for developments in which at least 20 percent of the units are affordable to
+      lower-income households during the planning period.
+
+      Programs 6.1.e and 8.1.b (Lot Consolidation): The element is relying on the
+      consolidation of several small lots. The element includes these programs to encourage
+      lot consolidation; however, the program must specifically commit to outcomes beyond
+      reviewing, considering and exploring. This is particularly important given the lack of
+      implementation in the prior planning period. In addition, Program 8.1.b should commit to
+      a minimum menu that will be considered beyond fees to encourage lot consolidations
+      such as expedited review, financial assistance and modification of development
+      standards and density beyond State Density Bonus Law.
+
+      Program 7.1.g (Homeless Shelter Regulations): The program currently commits to
+      review and amend regulations where necessary. However, the element should review
+      the regulations as part of this update and based on the outcomes of a complete analysis
+      as noted in Finding B3, the program should specifically identify and commit to revise
+      regulations such as parking or other development standards.
+
+      Program 8.1.c (By-right for Prior Housing Sites): The program should commit to permit
+      residential uses by right pursuant to Government Code section 65583.2, subdivision (i)
+      at appropriate densities (e.g., at least up to 30 units per acre).
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Assist in Development Programs: The element must include a program(s) with specific
+      actions and timelines to assist in the development of housing for extremely low-, very
+      low-, low-, and moderate-income households, including specific actions to assist
+      housing for persons with special needs (e.g., farmworkers, elderly, homeless and
+      persons disabilities, including developmental). The program should commit the Town to
+      annual outreach with affordable developers to identify development opportunities and
+      further assist through actions such as adopting priority processing, granting fee waivers
+      or deferrals, granting concessions and incentives for housing developments (beyond
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                   Page 9
+November 10, 2022
+      density bonus law) that include units affordable to lower and moderate-income
+      households; assisting and supporting or pursuing funding applications.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding(s) B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the Town may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B2, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Goals and actions must specifically respond to the analysis and to the
+      identified and prioritized contributing factors to fair housing issues and must be
+      significant and meaningful enough to overcome identified patterns and trends. Actions
+      must have specific commitment, metrics, milestones, and geographic targeting as
+      appropriate and must address housing mobility enhancement (more choices and
+      affordability across geographies), new housing choices and affordability in higher
+      opportunity and income areas (e.g., missing middle housing types), place-based
+      strategies for community preservation and revitalization and displacement protection.
+      Housing mobility and new opportunities in higher resource areas should not be limited
+      to the RHNA and, instead, target meaningful change in terms of fair housing issues.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      The element includes Program 6.3.c to promote the development of ADU’s and reduce
+      the cost; however the program should commit rather than “consider” reducing
+      development impact fees for all ADU’s. In addition, the program should include
+      additional incentives and monitoring production and affordability every two years in the
+      planning period with alternative actions.
+
+      In addition, based on a cursory review, the Town’s ADU ordinance does not comply with
+      ADU law. As a result, Program 6.3.b should be revised with a discrete timeline for
+      amending the ordinance (e.g., within six months upon HCD review). HCD will send a
+      review letter under separate cover related to the ADU ordinance.
+
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                       Page 10
+November 10, 2022
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   While the element includes quantified objectives for new construction (p. H-33), it must also
+   include rehabilitation and conservation objectives by income group.
+
+
+E. Public Participation
+
+   The local government shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the housing element, and the
+   program shall describe this effort. (Government Code 65583(c)(7))
+
+   While the element includes a summary of the public participation process, the element
+   should also demonstrate diligent efforts were made to involve all economic segments of the
+   community in the development of the housing element. The element could describe the
+   efforts to circulate the housing element among low- and moderate-income households and
+   organizations that represent them and to involve such groups and persons in the element
+   throughout the process. In addition, the element should also summarize the public
+   comments and describe how they were considered and incorporated into the element. For
+   example, the element should address public comment received by HCD related to
+   environmental and government constraints and site feasibility and discuss how comments
+   were incorporated into the element.
+
+
+F. General Plan Consistency
+
+   In construing the provisions of this article, the Legislature intends that the general plan and
+   elements and parts thereof comprise an integrated, internally consistent and compatible
+   statement of policies for the adopting agency (Government Code Section 65300.5).
+
+   The element should add a discussion of how consistency was achieved and will be
+   maintained throughout the planning period.
+
+
+
+
+Town of Danville’s 6th Cycle (2023-2031) Draft Housing Element                     Page 11
+November 10, 2022

@@ -1,0 +1,534 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+        August 20, 2021
+
+
+
+        Cheryl Kitzerow, AICP
+        Community Development Director
+        City of Menifee
+        29844 Huan Road
+        Menifee, CA 92586
+
+        Dear Cheryl Kitzerow:
+
+        RE: Review of the City of Menifee’s 6th Cycle (2021-2029) Draft Housing Element
+
+        Thank you for submitting the City of Menifee’s (City) draft housing element received for review
+        on June 21, 2021. Pursuant to Government Code section 65585, subdivision (b), the
+        California Department of Housing and Community Development (HCD) is reporting the results
+        of its review. Our review was facilitated by a telephone conversation on August 12, 2021, with
+        Senior Planner Doug Darnell, Planning Manager Orlando Hernandez, and the City’s
+        consultant Candyce Burnett.
+
+        The draft element addresses many statutory requirements; however, revisions will be
+        necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). In
+        particular, the element must be revised to fully address statutory requirements regarding
+        Affirmatively Furthering Fair Housing (AFFH) as well as adequately analyzing the suitability of
+        sites and realistic capacity methodology, among other areas. The enclosed Appendix
+        describes these and other revisions needed to comply with State Housing Element Law.
+
+        To remain on an eight-year planning cycle, the City must adopt its housing element within
+        120 calendar days from the statutory due date of October 15, 2021 for West Riverside
+        Council of Governments (WRCOG) localities. If adopted after this date, Government Code
+        section 65588, subdivision (e)(4), requires the housing element be revised every four years
+        until adopting at least two consecutive revisions by the statutory deadline. For more
+        information on housing element adoption requirements, please visit HCD’s website at:
+        http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+        memos/docs/sb375_final100413.pdf.
+
+        Pursuant to Government Code section 65583.3, subdivision (b), the City must utilize
+        standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+        Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+        development/housing-element/index.shtml#element for a copy of the form and
+Cheryl Kitzerow, AICP
+Page 2
+
+
+instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+assistance. Please note, upon adoption of the housing element, the City must submit an
+electronic version of the sites inventory with its adopted housing element to
+sitesinventory@hcd.ca.gov.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes the
+opportunity to provide assistance. For information, please see the Technical Advisories
+issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+We are committed to assisting the City of Menifee in addressing all statutory requirements
+of State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Tristan Lanza, of our staff, at tristan.lanza@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+Enclosure
+                                          APPENDIX
+                                       CITY OF MENIFEE
+
+The following changes are necessary to bring the City of Menifee’s housing element into
+compliance with Article 10.6 of the Government Code. Accompanying each recommended
+change, we cite the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+A. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively Furthering Fair Housing (AFFH) in accordance with Chapter 15 (commencing
+      with Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing
+      in the jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+      Regional Trends and Patterns: The element describes local trends and patterns but must
+      analyze Menifee relative to the rest of the region regarding integration and segregation,
+      racially and ethnically concentrated areas of poverty, disparities in access to opportunity
+      and disproportionate housing needs, including displacement risks.
+
+      Racially/Ethnically Concentrated Areas of Poverty (R/ECAP): While the element includes
+      information relative to R/ECAP, the element must also include an analysis complemented
+      by quantitative evidence for the local and regional comparison and include local and
+      regional data on areas of affluence. The analysis should evaluate the patterns and
+      changes over time and consider other relevant factors, such as public participation, past
+      policies, practices, and investments and demographic trends.
+
+      Site Inventory: While the element includes a map of the site inventory and states that the
+      proposed sites meeting lower-income Regional Housing Needs Allocation (RHNA) are
+      geographically distributed, the element also requires an analysis of these sites to
+      demonstrate AFFH (Appendix B). The needed analysis should be reflective of housing
+      development at all income-levels and evaluate the sites relative to socio-economic
+      patterns. The sites inventory analysis should also address how the sites are identified to
+      improve conditions (or if sites exacerbate conditions, how a program can mitigate the
+      impact), whether the sites are isolated by income group, and the final analysis should be
+      supported by local data and knowledge.
+
+      Contributing Factors: While the element contains fair housing issues and contributing
+      factors retrieved from the Riverside County Analysis of Impediments (p. 3-59) the element
+      must also list and prioritize contributing factors to fair housing issues specific to the City
+      based on local data and the analysis in the element. Contributing factors create, contribute
+      to, perpetuate, or increase the severity of fair housing issues and are fundamental to
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                           Page 1
+August 20, 2021
+      adequate goals and actions. Examples include community opposition to affordable
+      housing, housing discrimination, land use and zoning laws, lack of regional cooperation,
+      location and type or lack of affordable housing and lack of public or private investment in
+      areas of opportunity or affordable housing choices. The element must include an
+      accompanying analysis demonstrating strategic approaches to inform and connect goals
+      and actions to mitigate contributing factors to affordable housing.
+
+      Goals, Priorities, Metrics, and Milestones: The element contains a program to AFFH
+      (Program Action 28) that addresses fair housing issues; however, the element must
+      contain goals and actions that significantly seek to overcome contributing factors to fair
+      housing issues (integration and segregation, racially and ethnically concentrated areas of
+      poverty, areas of opportunity and disproportionate housing needs including displacement).
+      Given that most of the City is considered a high and highest resource community, the
+      element could focus on programs that enhance housing mobility and encourage
+      development of more housing choices and affordable housing. Furthermore, the element
+      must include metrics and milestones for evaluating progress on programs, actions, and fair
+      housing results.
+
+   2. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Housing Stock Conditions: While the element provides a basic analysis of the condition of
+      housing stock and estimates based on data provided by Comprehensive Housing
+      Affordability Strategy data (CHAS), it must also include estimates from a recent windshield
+      survey or sampling, estimates from the code enforcement agency, or information from
+      knowledgeable builders/developers, including non-profit housing developers or
+      organizations. For additional information, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-needs/housing-
+      stock-characteristics.shtml.
+
+   3. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+      While the element quantifies the number of the elderly, persons with disabilities, large
+      families, farmworkers, families with female heads of households, and families and persons
+      in need of emergency shelter, the element must also analyze their special housing needs
+      using information specific to the City of Menifee. The current analyses should be
+      expanded where necessary to include factors such as household income, tenure, housing
+      types, zoning, available resources, and local programs, including housing element
+      programs, that assist these special populations. Local officials, special needs service
+      providers, or City social and health service providers may be able to assist with
+      information to complete the analysis.
+
+
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                          Page 2
+August 20, 2021
+      Farmworkers: The element provides a basic analysis of agricultural workers (p. 2-20) for
+      the City of Menifee and provides farmworker data specifically for Riverside County. In
+      addition to the revisions as stated above, the element should also provide Farmworker
+      data specific to the City of Menifee.
+
+   4. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+       The City has a RHNA of 6,609 housing units, of which 2,812 are for lower-income
+       households. To address this need, the element relies on vacant sites (Table B-4),
+       including sites in specific plan areas. To demonstrate the adequacy of these sites and
+       strategies to accommodate the City’s RHNA, the element must include complete analyses
+       of the following:
+
+       Realistic Capacity: While the element contains an estimate of the realistic capacity to
+       accommodate housing for low- and very low-income households (p. B-4), it must also
+       provide support for these assumptions. For example, the element should demonstrate
+       what specific trends, factors, and other evidence led to the assumptions. The estimate of
+       the number of units for each site must be adjusted as necessary, based on the land use
+       controls and site improvements, typical densities of existing or approved residential
+       developments at a similar affordability level in that jurisdiction, and on the current or
+       planned availability and accessibility of sufficient water, sewer, and dry utilities.
+
+       Zoning for Lower-Income Households: While the element appears to indicate housing
+       affordable to lower-income households can be accommodated on sites zoned High
+       Density Residential (HDR) with densities of 20 to 24 dwelling units per acre (p. B-5), it
+       does not include an analysis evaluating the adequacy of these zones to accommodate
+       housing affordable to lower-income households. The analysis should be based on factors
+       such as market demand, development experience within zones, and specifically address
+       the impacts of density on financial feasibility pursuant to Government Code section
+       65583.2, subdivision (c)(3)(A) and (B). For communities with densities that meet specific
+       standards (at least 30 units per acre for Menifee), this analysis is not required (Gov.
+       Code, § 65583.2, subd. (c)(3)(B)).
+
+       Large Sites: While the element includes an identification and accompanying analysis of
+       seven large sites (Table B-5) larger than 10 acres (Figure B-1), the element must also
+       demonstrate that these sites can accommodate the lower-income RHNA needs by
+       demonstrating that sites of equivalent size were successfully developed during the prior
+       planning period for an equivalent number of lower-income housing units as projected for
+       the site, or, unless the housing element provides other evidence to HCD that the site is
+       adequate to accommodate lower-income housing (Gov. Code, § 65583.2, subd.
+       (c)(2)(A).). For additional information, see the Building Blocks at
+       http://www.hcd.ca.gov/community-development/building-blocks/site-
+       inventoryanalysis/analysis-of-sites-and-zoning.shtml#analysis.
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                            Page 3
+August 20, 2021
+       Suitability of Nonvacant Sites: While the element identifies nonvacant sites to
+       accommodate the regional housing need for lower-income households, it provides no
+       description of the identified existing uses. The methodology must consider factors
+       including the extent to which identified existing uses may impede additional residential
+       development, development trends, market conditions, and regulatory or other incentives
+       or standards to encourage additional residential development on these sites. (Gov. Code,
+       § 65583.2, subd. (g).) For sites with residential uses, the inventory could also describe
+       structural conditions or other circumstances and trends demonstrating the redevelopment
+       potential to more intense residential uses. For nonresidential sites, the inventory could
+       also describe whether the use is operating, marginal or discontinued, and the condition of
+       the structure or could describe any expressed interest in redevelopment.
+
+    5. An analysis of potential and actual governmental constraints upon the maintenance,
+       improvement, or development of housing for all income levels, including the types of
+       housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+       identified in the analysis pursuant to paragraph (7), including land use controls, building
+       codes and their enforcement, site improvements, fees and other exactions required of
+       developers, and local processing and permit procedures. The analysis shall also
+       demonstrate local efforts to remove governmental constraints that hinder the locality from
+       meeting its share of the regional housing need in accordance with Government Code
+       section 65584 and from meeting the need for housing for persons with disabilities,
+       supportive housing, transitional housing, and emergency shelters identified pursuant to
+       paragraph (7). Transitional housing and supportive housing shall be considered a
+       residential use of property and shall be subject only to those restrictions that apply to
+       other residential dwellings of the same type in the same zone. (Gov. Code, § 65583,
+       subd. (a)(5).)
+
+       Design Review: The element details recently adopted design standards (p. 3-31).
+       However, the element must further describe and analyze the design review guidelines
+       and process, including approval procedures and decision-making criteria, for their impact
+       as potential constraints on housing supply and affordability. For example, the analysis
+       could describe required findings and discuss whether objective standards and guidelines
+       improve development certainty and mitigate cost impacts. The element must demonstrate
+       this process is not a constraint or it must include a program to address this permitting
+       requirement, as appropriate.
+
+       In addition, the Housing Crisis Act of 2019 (SB 330, 2019) was signed by Governor
+       Newsom on October 9, 2019 and became effective on January 1, 2020. The Housing
+       Crisis Act (Gov. Code, § 66300) prohibits the City from imposing or enforcing design
+       standards established on or after January 1, 2020 that are not objective design standards.
+       The element should evaluate consistency with these requirements and include actions as
+       appropriate.
+
+       On/Off-Site Improvements: The element must identify subdivision level improvement
+       requirements, such as minimum street widths (e.g., 40 feet minimum street width), and
+       analyze their impact as potential constraints on housing supply and affordability.
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                           Page 4
+August 20, 2021
+       Local Processing and Permit Procedures: While the element describes the use permit
+       procedure for mixed use housing, it must describe and analyze the City’s permit
+       processing and approval procedures by zone and housing type (e.g., multifamily rental
+       housing, mobilehomes, housing for agricultural employees, supportive housing). The
+       analysis must evaluate the processing and permit procedures’ impacts as potential
+       constraints on housing supply and affordability. For example, the analysis should consider
+       processing and approval procedures and time for typical single- and multi-family
+       developments, including type of permit, level of review, approval findings and any
+       discretionary approval procedures.
+
+       In addition, while the element identifies its ministerial review process for plot plan reviews,
+       the element requires a further description of this discretionary review process in detail as
+       well as an explanation of what the City considers to be a major plot plan versus a minor
+       plot plan as applied to multifamily housing and emergency shelters, and to detail the
+       typical standards for a plot plan review.
+
+       Constraints on Housing for Persons with Disabilities: The element currently details that
+       residential care facilities serving six or fewer persons are permitted in all residential
+       zones. However, residential care facilities serving seven or more persons are limited to
+       the same zones, except rural residential zones, with the approval of a conditional use
+       permit (CUP). The element should analyze the process as a potential constraint on
+       housing for persons with disabilities and add or modify programs as appropriate to ensure
+       zoning permits group homes objectively with approval certainty.
+
+       In addition, the element describes the City’s procedure for requesting and granting
+       reasonable accommodation to zoning and land use requirements for persons with
+       disabilities (p. 3-25). The element must analyze the findings for granting a reasonable
+       accommodation to determine if it is considered a constraint. Specifically, the element
+       should analyze the finding that “the request will not, under the specific facts of the case,
+       result in a direct threat to the health or safety of other individuals or substantial physical
+       damage to the property of others”. The element should also provide information on who is
+       the “approving authority” for reasonable accommodation requests.
+
+    6. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+       improvement, or development of housing for all income levels, including the availability of
+       financing, the price of land, the cost of construction, the requests to develop housing at
+       densities below those anticipated in the analysis required by subdivision (c) of
+       Government Code section 65583.2, and the length of time between receiving approval for
+       a housing development and submittal of an application for building permits for that
+       housing development that hinder the construction of a locality’s share of the regional
+       housing need in accordance with Government Code section 65584. The analysis shall
+       also demonstrate local efforts to remove nongovernmental constraints that create a gap
+       between the locality’s planning for the development of housing for all income levels and
+       the construction of that housing. (Gov. Code, § 65583, subd. (a)(6).)
+
+
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                             Page 5
+August 20, 2021
+        While the element provides analyses for availability of financing, price of land and cost of
+        construction, the element must also provide an analysis of the requests to develop
+        housing at densities below those anticipated in the analysis required by subdivision (c) of
+        Government Code section 65583.2, and the length of time between receiving approval
+        for a housing development and submittal of an application for building permits for that
+        housing development that hinder the construction of a locality’s share of the regional
+        housing need in accordance with Government Code section 65584. The analysis shall
+        also demonstrate local efforts to remove nongovernmental constraints that create a gap
+        between the locality’s planning for the development of housing for all income levels and
+        the construction of that housing (Gov. Code, § 65583, subd. (a)(6).
+
+B. Housing Programs
+
+   1.   Include a program which sets forth a schedule of actions during the planning period,
+        each with a timeline for implementation, which may recognize that certain programs are
+        ongoing, such that there will be beneficial impacts of the programs within the planning
+        period, that the local government is undertaking or intends to undertake to implement the
+        policies and achieve the goals and objectives of the housing element through the
+        administration of land use and development controls, the provision of regulatory
+        concessions and incentives, and the utilization of appropriate federal and state financing
+        and subsidy programs when available. The program shall include an identification of the
+        agencies and officials responsible for the implementation of the various actions. (Gov.
+        Code, § 65583, subd. (c).)
+
+        To address the program requirements of Government Code section 65583, subdivision
+        (c)(1-6), and to facilitate implementation, programs should include: (1) a description of
+        the City’s specific role in implementation; (2) definitive implementation timelines; (3)
+        objectives, quantified where appropriate; and (4) identification of responsible agencies
+        and officials. Programs to be revised include the following:
+
+        Program Action 7: Accessory Dwelling Unit (ADU) Tracking Program: This program
+        commits the City to creating an ADU tracking program to monitor ADU development and
+        report to the required entities. The timeline for development of the tracking program is
+        stated as “ongoing.” The program should be revised to include a definitive
+        implementation timeline and to clarify that the “tracking” program meets California State
+        Law requirements for a “monitoring” program.
+
+   2.   The housing element shall contain programs which assist in the development of
+        adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+        income households (Gov. Code, § 65583, subd. (c)(2)).
+
+        Program Action 17: Lower-Income Households: This program recognizes the need for
+        lower-income housing, particularly extremely low-income (ELI) housing. The program
+        then commits the City to evaluating “the need for and establish appropriate programs,
+        incentives [and] other methods to assist these households in acquiring affordable
+        housing opportunities.” However, the program is vague and does not adequately
+        describe what the City is evaluating, who the City is partnering with, and what the overall
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                           Page 6
+August 20, 2021
+        meaningful objectives are. The program also does not commit to any meaningful action
+        to promote the development of ELI housing. This program should be revised to clarify the
+        objectives and offer specificity as to what actions and partnerships the City is considering
+        and commit the City to meaningful actions to the promotion and development of ELI
+        housing.
+
+   3.   Identify actions that will be taken to make sites available during the planning period with
+        appropriate zoning and development standards and with services and facilities to
+        accommodate that portion of the city’s share of the regional housing need for each
+        income level that could not be accommodated on sites identified in the inventory
+        completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+        with the requirements of Government Code section 65584.09. Sites shall be identified as
+        needed to facilitate and encourage the development of a variety of types of housing for
+        all income levels, including multifamily rental housing, factory-built housing,
+        mobilehomes, housing for agricultural employees, supportive housing, single-room
+        occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+        subd. (c)(1).)
+
+        As noted in the Finding B2, the element does not include a complete sites inventory or
+        analysis; as a result, the adequacy of sites and zoning has not been established. Based
+        on the results of a complete sites inventory and analysis, programs may need to be
+        added, or revised, to address a shortfall of sites and zoning for a variety of housing
+        types. If the element does not identify adequate sites to accommodate the regional
+        housing need for lower-income households, it must include a program(s) to identify sites
+        with appropriate zoning to accommodate the regional housing need within the planning
+        period (Gov. Code, § 65583.2, subd. (h) and (i)).
+
+        For additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+        development/building-blocks/program-requirements/identify-adequate-sites.shtml.
+
+        Program Action 1: Adequate Sites to Accommodate 2021-2029 RHNA: This program
+        commits the City to further policy considerations regarding “opportunity” sites identified in
+        the 5th cycle housing element that are being utilized in the 6th cycle element. However,
+        the program is vague and does not specify what “policy considerations” the City is
+        considering nor timing for consideration. The program should be revised to have specific
+        actions and timeframes to meet the objectives of this program.
+
+        Program Action 3: Rezone Program to Accommodate Low and Very Low RHNA: This
+        program commits the City to rezoning eight vacant parcels in order to accommodate
+        the remaining RHNA and provide 50 percent vacant land. In addition to rezoning of the
+        identified parcels to the stated High-Density Residential zone, the program needs to
+        commit to including all the relevant rezone commitments required under Government
+        Code section 65583.2, subdivision (h)(i). Specifically, the program must commit to:
+        permit owner-occupied and rental multifamily uses by-right for developments in which
+        20 percent or more of the units are affordable to lower-income households. By-right
+        means local government review must not require a conditional use permit, planned unit
+        development permit, or other discretionary review or approval.
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                            Page 7
+August 20, 2021
+         •   accommodate a minimum of 16 units per site;
+         •   require a minimum density of 20units per acre; and
+         •   at least 50 percent of the lower-income need must be accommodated on sites
+             designated for residential use only or on sites zoned for mixed uses that accommodate
+             all of the very low- and low-income housing need, if those sites:
+             o allow 100 percent residential use, and
+             o require residential use occupy 50 percent of the total floor area of a mixed-use project.
+
+        Program 21: Emergency Shelters, Transitional and Supportive Housing: The element
+        should specify that each amendment that must be made to the Municipal Code must be
+        in compliance with State Law.
+
+        Program 22: This program, designed for people experiencing homelessness, speaks to
+        the requirements under SB 2 (Chapter 633, Statutes of 2007), then states that the City
+        adopted a comprehensive zoning update effective in January 2020 to address the
+        requirements for emergency shelters, then lists the zones wherein by-right emergency
+        shelters are allowed. The City then commits to amending the zoning code to allow
+        transitional and supportive housing subject to the requirements of SB 2. However, the
+        program is vague in its description of what is being amended regarding SB 2, and the
+        program does not contain an adequate timeframe for adoption and implementation; it
+        states “ongoing.” This program needs to be revised to address whether SB 2 was fully
+        implemented, and if not fully implemented, then specify what amendments to the zoning
+        code are necessary with regard to SB 2. Furthermore, if the City is amending the zoning
+        code, the program should commit to a definitive timeline for adoption of zoning code
+        amendments. Given that the City’s zoning ordinance is out of compliance with State
+        law, zoning should take place within one year of adoption.
+
+        Program Action 26: Farmworker and Employee Housing Act Compliance: This program
+        commits the City to updating Title 9 of the Menifee Municipal Code to comply with
+        California Health and Safety Code sections 17021.5 and 17021.6. The program should
+        be revised to also include compliance with Health and Safety Code section 17021.8.
+
+   4.   Promote AFFH opportunities and promote housing throughout the community or
+        communities for all persons regardless of race, religion, sex, marital status, ancestry,
+        national origin, color, familial status, or disability, and other characteristics protected by
+        the California Fair Employment and Housing Act (Part 2.8 (commencing with Section
+        12900) of Division 3 of Title 2), Section 65008, and any other state and federal fair
+        housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+        Program Action 28: Affirmatively Furthering Fair Housing: While this program addresses
+        AFFH findings, the program appears vague in the City’s commitments to AFFH. The only
+        meaningful action is that the City will conduct at least one workshop over the course of
+        the element period. HCD suggests revising this program to reference any and all
+        programs geared toward AFFH within the element, especially those programs with
+        beneficial impacts and definitive timelines for implementation of these programs.
+        Additionally, the program commits the City to collaborating with various entities to
+        address potential constraints to fair housing, including but not limited to an actions
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                               Page 8
+August 20, 2021
+        analysis of barriers to entry into ownership, policies and restrictions that may or may still
+        prevent disadvantaged groups from locating to Menifee, or specific actions that
+        contribute to Menifee’s ability to foster a more inclusive community. The program should
+        also commit to definitive timelines for these types of analyses which will have beneficial
+        impacts. Finally, depending upon any revised analyses provided for in Finding A1,
+        additional program revisions may be required.
+
+C. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   While the element includes quantified objectives estimating the number of housing units by
+   income category that can be constructed, it must be revised to include units that are expected
+   to be rehabilitated and/or conserved.
+
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the housing element, and the element shall
+   describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+   While the element includes a general summary of the public participation process, it must
+   also demonstrate diligent efforts were made to involve all economic segments of the
+   community in the development of the housing element. The element should be revised to
+   address how lower-income and special needs groups were outreached during the public
+   participation efforts, when the draft was released, and if translation services were offered.
+   The element could describe the efforts to circulate the housing element among low- and
+   moderate-income households and organizations that represent them and to involve such
+   groups and persons in the element throughout the process. Additionally, the element should
+   provide an analysis of how comments from all segments were considered and incorporated
+   into the draft element. For additional information, see the Building Blocks at
+   http://www.hcd.ca.gov/community-development/building-blocks/getting-started/public-
+   participation.shtml.
+
+
+
+
+Review of the City of Menifee’s 6th Cycle Draft Housing Element                             Page 9
+August 20, 2021

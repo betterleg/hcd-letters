@@ -1,0 +1,618 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 8, 2022
+
+
+         Mark Muenzer, Director
+         Community Development and Transportation Department
+         City of Redwood City
+         1017 Middlefield Road
+         Redwood City, CA 94063
+
+         Dear Mark Muenzer:
+
+         RE: Redwood City’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting Redwood City’s (City) draft housing element received for
+         review on April 11, 2022. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a conversation on June 8, 2022
+         with Diana O’Dell, Alin Lancaster, and consultants Genevieve Sharrow and Lisa
+         Brownfield. In addition, HCD considered comments from Housing Leadership Council
+         (HLC) of San Mateo County pursuant to Government Code section 65585, subdivision
+         (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i).
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+Mark Muenzer, Director
+Page 2
+
+
+
+aware, any revisions to the element must be posted on the local government’s website
+and an email with the link sent to all individuals and organizations that have previously
+requested notices relating to the local government’s housing element at least seven
+days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the dedication the City provided in the housing element update. We
+are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Hillary Prasad, of our staff, at Hillary.Prasad@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                   CITY OF REDWOOD CITY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   As part of the review of programs in the past cycle, the element must provide an evaluation of
+   the effectiveness of goals, policies, and related actions in meeting the housing needs of
+   special needs populations (e.g., elderly, persons with disabilities, large households, female
+   headed households, farmworkers, and persons experiencing homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Enforcement and Outreach: While the element provides some data, the element should
+      also describe whether there have been any fair housing lawsuits or enforcement actions
+      within the City.
+
+      Integration and Segregation: While the element includes some data on race, familial
+      status, disability, and income, it must also analyze this data such as addressing patterns,
+      trends, conditions, characteristics, coincidence with other fair housing components (e.g.,
+      disparities in access to opportunity, disproportionate housing needs), other relevant factors
+      and local data and knowledge. For race, the analysis should be geographic and describe
+      concentrations of different races throughout the City. Regarding disability, the data
+      showed one census tract where the concentration of persons with disabilities was higher;
+      the element should describe and analyze the data provided and relate it to other factors to
+      understand the quality of life conditions and better formulate appropriate policies and
+      programs. The analysis for familial status must analyze the data within the City as well as
+      how the City differs from the surrounding region. The element must also analyze income
+
+Redwood City’s 6th Cycle Draft Housing Element                                    Page 1
+July 8, 2022
+      and the concentration of poverty within the City that was identified. It should also compare
+      the City to the surrounding areas.
+
+      Racial/Ethnic Areas of Concentration of Poverty (R/ECAP) and Concentrated Areas of
+      Affluence: While the element identified R/ECAPs, it must provide an analysis. In addition,
+      the element should address concentrated areas of affluence (Please see HCD’s AFFH
+      Data Viewer). The combination of the R/ECAP and areas of affluence analyses will help
+      guide goals and actions to address fair housing issues. The analysis should evaluate the
+      patterns and changes over time at a local (e.g., neighborhood to neighborhood) and
+      regional level (e.g., city to region).
+
+      Disparities in Access to Opportunity: While the element provided some data, additional
+      data and analysis is needed. The element should relate the overall disparities in access to
+      opportunity in the City to the rest of the affirmatively furthering fair housing (AFFH)
+      analysis. In addition, the element included data on education, but it must analyze the data
+      on both a local and regional level as well as describe the proximity of proficient schools to
+      areas of segregation and R/ECAPs. The element must describe what affects the
+      disparities in access to jobs within the City and how it affects protected groups. While the
+      element describes transit plans in the region, it should describe and analyze local and
+      regional access to transit and provide a map of transit access. The element must analyze
+      local and regional disparities of environmental access to opportunity. While the local data
+      states where there are worse scores, it must describe the rest of the City and analyze the
+      data.
+
+      Disproportionate Housing Need, Including Displacement Risk: While the element included
+      some data, some additional data and analysis for cost burden, overcrowding, substandard
+      housing, homelessness and displacement are needed. The element must describe and
+      analyze cost burden geographically at a local and regional level. In addition, the element
+      must describe the concentrated area of overcrowding within the City as well as provide a
+      regional analysis. The element must describe any concentrations of substandard housing.
+      The element must also provide demographic information on the homeless population and
+      evaluate impacts on protected characteristics and disparities in access to opportunity (e.g.,
+      access to services). Lastly, the element must describe displacement due to disinvestment
+      and disaster.
+
+      Sites Inventory: While the element included some data on identified sites and AFFH, it
+      must evaluate whether sites improve or exacerbate conditions and whether sites are
+      isolated by income group. A full analysis should address the income categories of
+      identified sites with respect to location, the number of sites and units by all income groups
+      and how that affects the existing patterns for all components of the assessment of fair
+      housing (e.g., segregation and integration, access to opportunity). Almost all sites are
+      identified in moderate or low resource areas, the element must discuss whether the
+      distribution of sites improves or exacerbates conditions. If sites exacerbate conditions, the
+      element should identify further program actions that will be taken to promote equitable
+      quality of life throughout the community (e.g., anti-displacement and place-based
+      community revitalization strategies).
+
+
+
+
+Redwood City’s 6th Cycle Draft Housing Element                                    Page 2
+July 8, 2022
+      Contributing Factors to Fair Housing Issues: While the element identifies many
+      contributing factors to fair housing issues, it should prioritize these factors to better
+      formulate policies and programs and carry out meaningful actions to AFFH.
+
+      Goals, Priorities, Metrics, and Milestones: The element must be revised to add or modify
+      goals and actions based on the outcomes of a complete analysis. Goals and actions must
+      specifically respond to the analysis and to the identified and prioritized contributing factors
+      to fair housing issues and must be significant and meaningful enough to overcome
+      identified patterns and trends. Actions must have specific commitment, metrics, milestones
+      and geographic targeting and must address housing mobility enhancement, new housing
+      choices and affordability in high opportunity areas, place-based strategies for community
+      preservation and revitalization and displacement protection.
+
+   2. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Overcrowding: The element should include the rate of severe overcrowding, as well as
+      analyze and address the need of overcrowded households.
+
+      Housing Conditions: The element must include an analysis of the condition of the existing
+      housing stock and estimate the number of units in need of rehabilitation and replacement.
+      For example, the analysis could include estimates from a recent windshield survey or
+      sampling, estimates from the code enforcement agency, or information from
+      knowledgeable builders/developers, including non-profit housing developers or
+      organizations.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the Regional Housing Need Allocation (RHNA): The element lists
+      various approved and proposed projects by affordability. But in some cases, the element
+      must still discuss how affordability was determined based on actual or anticipated sales
+      prices and rents or other mechanisms ensuring affordability (e.g., deed-restrictions,
+      inclusionary requirements). Namely, the element should include additional affordability
+      information for 1601 El Camino, 1057 El Camino Real, 901 El Camino Real, 1900
+      Broadway and 2300 Broadway. In addition, the element lists several projects utilizing the
+      “Gatekeeper” process. Given the pending complexity of entitlements potentially associated
+      with these projects, the element should include discussion of their availability in the
+      planning period such as an anticipated schedule for development. Lastly, the element
+      should modify Program H1-1 to monitor approved and proposed projects and commit to
+      alternative actions within a reasonable time (e.g., within one year) of projects are not
+      moving toward completion as anticipated.
+
+
+
+
+Redwood City’s 6th Cycle Draft Housing Element                                        Page 3
+July 8, 2022
+      Realistic Capacity: The element provides various assumptions for calculating residential
+      capacity on identified sites and describes the assumptions are based on recent projects.
+      However, the element should list projects to support these assumptions. Similar to the
+      listing of recent projects in the Downtown Precise Plan (Table H3-12), the listing should
+      address acreage, zone, number of units built, maximum allowable density, built density
+      and percent of maximum allowable densities.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. To address this requirement, the sites
+      inventory includes a generic description of existing uses such as “restaurant” or “shopping
+      center”. However, the description of existing uses should be sufficiently detailed to
+      facilitate an analysis demonstrating the potential for additional development in the planning
+      period. For example, the inventory could list which sites have expressed interest from
+      developers or owners, age of structure and degree of underutilization. In addition, the
+      element should analyze recent experience in redevelopment and the extent that existing
+      uses may impede additional residential development. For example, the element includes
+      sites identified as single-family residents, restaurants, parks, open storage, service station,
+      and shopping center, but should discuss how these uses will discontinue or be
+      redeveloped in the planning period. The element should also expand the discussion of
+      existing uses in recent projects (including approved and proposed projects) and relate
+      those characteristics to sites identified. For example, many identified sites appear with
+      shopping and retail. The element could discuss how some recent, approved or pending
+      development had existing uses with similar characteristics (e.g., use, age of structure,
+      degree of underutilization, ample parking, vacancy, expiring leases).
+
+      In addition, as noted in the housing element, the housing element relies upon nonvacant
+      sites to accommodate more than 50 percent of the regional housing needs allocation
+      (RHNA) for lower-income households. For your information, the housing element must
+      demonstrate existing uses are not an impediment to additional residential development
+      and will likely discontinue in the planning period (Gov. Code, § 65583.2, subd. (g)(2).).
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+      uses will be presumed to impede additional residential development and will not be utilized
+      toward demonstrating adequate sites to accommodate the regional housing need
+      allocation.
+
+      SB 9 and Missing Middle Sites: The element identifies SB 9 and Missing Middle as
+      strategies to accommodate the part of the City’s need of moderate and above-moderate
+      RHNA. To support these assumptions, the analysis must include experience, trends and
+      market conditions that allow lot splits and missing middle uses. The analysis must also
+      include a nonvacant sites analysis demonstrating the likelihood of redevelopment and the
+      existing use will not constitute as an impediment for additional residential use. The
+      analysis should describe how the Terner Center study determined eligible properties,
+      whether the assumed lots will have turnover, if the properties are easy to subdivide, and
+      the condition of the existing structures. The analysis should also describe interest from
+      property owners as well as experience. The analysis should provide support for the
+      assumption of 25 percent of eligible properties being developed within the planning period.
+      Based on the outcomes of this analysis, the element should modify Programs H4-5 (SB 9
+      Zoning) and H4-3 (Middle Housing) to establish zoning and development standards early
+
+Redwood City’s 6th Cycle Draft Housing Element                                     Page 4
+July 8, 2022
+      in the planning period and implement incentives to encourage and facilitate development
+      as well as monitor development every two years with and identify additional sites within six
+      months if assumptions are not being met. The element should support this analysis with
+      local information such as local developer or owner interest to utilize zoning and incentives
+      established through SB 9. A similar analysis should also be completed for sites identified
+      as accommodating missing middle and clarify whether the sites identified under SB 9
+      overlap with the sites identified to accommodate missing middle.
+
+      City-owned Sites: Given the element identifies publicly-owned sites, it should include a
+      discussion of suitability and availability for development in the planning period, including
+      an anticipated schedule for development, any necessary steps to develop the properties
+      and any known constraints to development in the planning period. Lastly, the element
+      should add or modify programs based on the outcomes of this analysis and commit to a
+      schedule of action to facilitate development, numerical objectives consistent with
+      assumption and compliance with the Surplus Land Act.
+
+      Sites Identified in Prior Planning Periods: Sites identified in prior planning periods shall not
+      be deemed adequate to accommodate the housing needs for lower-income households
+      unless a program, meeting statutory requirements, requires rezoning within three years.
+      The element should include a program if utilizing previously identified sites in the current
+      planning period.
+
+      Availability of Infrastructure: The element includes a general statement on availability of
+      utilities. However, it must also analyze whether sufficient total water and sewer capacity
+      (existing and planned) can accommodate the regional housing need and add or modify
+      programs if necessary.
+
+      For your information, water and sewer service providers must establish specific
+      procedures to grant priority water and sewer service to developments with units affordable
+      to lower-income households. (Gov. Code, § 65589.7.) The element should clarify whether
+      the City is a water or sewer service provider and if so, demonstrate compliance with this
+      requirement either through discussion or a program to establish a procedure.
+
+      Zoning for a Variety of Housing Types (Manufactured Housing): As noted on page H2-16,
+      the element should include a program to amend zoning and procedures to permit
+      manufactured housing in compliance with state law.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: While the element identifies development standards on page H2-8, it
+      must analyze whether the development standards are a constraint to development. The
+      analysis should address all development standards (e.g., lot coverage, heights, setbacks,
+
+Redwood City’s 6th Cycle Draft Housing Element                                       Page 5
+July 8, 2022
+      parking) and any impacts on housing supply, cost, timing, ability to achieve maximum
+      densities and any preponderance of utilizing exception processes.
+
+      Local Processing and Permit Procedures: The element lists various permit procedures
+      (e.g., design review, conditional use permit (CUP), planned development), it should
+      clarify which procedures are typical for development, particularly developments
+      consistent with zoning and the general plan. The analysis should describe the
+      components of the procedure, list and evaluate approval findings and address any
+      impacts on housing supply (number of units), cost, timing, and approval certainty. If
+      exception processes such as CUPs or planned developments are typical or required, the
+      element should include specific analysis and programs to address constraint. For
+      example, the element should clarify whether the CUP is required for all developments
+      that exceed three stories or 35 feet in height and whether the planned development
+      permit is optional. Lastly, the element must analyze the significant discrepancies in
+      length of approval time for single family and multifamily projects under ministerial review.
+
+      Design Review: The element must describe and analyze the design review guidelines and
+      process, including approval procedures and decision-making criteria, for their impact as
+      potential constraints on housing supply and affordability. For example, the analysis could
+      describe required findings and discuss whether objective standards and guidelines
+      improve development certainty and mitigate cost impacts. The element must demonstrate
+      this process is not a constraint or it must include a program to address this permitting
+      requirement, as appropriate.
+
+      Inclusionary Requirements: The element must analyze the inclusionary requirement for
+      impacts on housing cost, supply and timing. The analysis should address the 20 percent
+      requirement, relationship to State Density Bonus Law, whether impact fees are imposed if
+      meeting inclusionary requirements and impacts of the live/work preference on housing
+      mobility.
+
+      On/Off-Site Improvements: The element must identify actual on and off-site requirements
+      for a typical development and evaluate the impacts on housing costs and timing.
+
+      Codes and Enforcement: The element must describe the City’s code enforcement process
+      and procedure (i.e., whether the City’s code enforcement is proactive or complaint based)
+      and analyze its impact as potential constraints on housing supply and affordability.
+
+      Constraints on Housing for Persons with Disabilities: The element briefly describes its
+      reasonable accommodation procedure. However, the element should also describe the
+      process and decision-making criteria such as approval findings and analyze any potential
+      constraints on housing for persons with disabilities.
+
+      Zoning, Development Standards and Fees: The element must clarify compliance with new
+      transparency requirements for posting all zoning, development standards, fees, and
+      inclusionary requirements on the City’s website and add a program to address these
+      requirements, if necessary.
+
+   5. Analyze any special housing needs such as elderly; persons with disabilities, including a
+
+Redwood City’s 6th Cycle Draft Housing Element                                     Page 6
+July 8, 2022
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+      Farmworkers: The element describes farmworkers are a small percentage of the City’s
+      labor force, that Redwood City has no farmland and; therefore, specific programs are not
+      needed. However, the housing needs of farmworkers are often under-counted and are not
+      limited to the amount of farmland in Redwood City. As a result, the element should at least
+      consider the housing needs at a county level and add or modify programs as appropriate
+      to address the specific and unique needs of farmworkers. The analysis may utilize United
+      States Department of Agricultural data (Agricultural Census) and information available
+      through the Department of Education to address this requirement.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element... (Gov. Code, §
+      65583, subd. (c).)
+
+      To have a beneficial impact on housing outcomes in the planning period, programs must
+      have specific commitment (beyond considering) to housing outcomes, discrete timing
+      (e.g., at least annually) and where appropriate numerical targets. To address this
+      requirement, programs should be revised, as follows:
+
+         •   Program H1-1 (Adequate Sites): The program should include annual
+             implementation.
+         •   Program H1-3 (Replacement Unit Requirements): The program should implement
+             revisions by a specified date (e. g., month and year).
+         •   Program H1-4 (Densities in High Opportunity Areas): The program should include
+             an implementation component beyond a study, especially if the City is relying on
+             the program to implement missing middle housing.
+         •   Program H1-5 (Accessory Dwelling Units): The program should include annual
+             reviews and updates as needed.
+         •   Programs H1-6 (Densities in Mixed Use Zoning Districts) and H2-6 (Rezone
+             Commercial Office): The timing of these programs should clarify amendments will
+             be completed by the housing element due date.
+         •   Program H2-3 (Preservation of At-Risk Affordable Housing): The program should
+             include specific timing as well as include proactive outreach to owners. The
+             program should also include outreach to owners to comply with Government Code
+             sections 65863.10, 65863.11, and 65863.13 beginning three years before
+             expiration of affordability for at-risk properties.
+
+
+
+
+Redwood City’s 6th Cycle Draft Housing Element                                  Page 7
+July 8, 2022
+         •   Program H2-5 (Fist-Time Homebuyer Opportunities): The program should include
+             proactive outreach to developers and homebuyers as well as other actions if the
+             code amendments are not adopted.
+         •   Program H4-1 (Site Improvements and Fees): The program should include
+             implementation beyond considering an action to revise undergrounding
+             requirements.
+         •   Program H4-3 (Middle Housing Development): The program should include timing
+             for implementing Phase two.
+         •   Program H4-4 (Density Bonuses): The program should include timing on how often
+             the ordinance will be reviewed during the planning period.
+         •   Program H4-9 (Housing Accountability Act): The program should include specific
+             timing (e.g., month and year).
+         •   Program H5-1 (Equity and Outreach Plan): The program should describe how often
+             the City will partner with advocates and organizations throughout the planning
+             period.
+         •   Program H5-2 (Consult with Public Agencies): The program should include annual
+             proactive outreach.
+         •   Program H5-3 (Affirmatively Market Accessible and Affordable Units): The program
+             should describe how often the list will be updated, how often coordination will occur,
+             as well as proactive outreach.
+         •   Program H6-1 (Anti-Displacement Strategy): The program should include
+             implementation timing.
+         •   Program H6-2 (Fair Housing Services): The program should describe how often
+             actions and outreach will occur.
+         •   Program H6-3 (Affirmatively Further Fair Housing): The program should include
+             implementation beyond “consider”.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning… (Gov. Code, §
+      65583, subd. (c)(1).)
+
+      As noted in Finding B4, the element does not include a complete site analysis; therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+      Programs H1-6 (Densities in Mixed Use Zoning Districts) and H2-6 (Rezone Commercial
+      Office): The programs commit to, among other things, increase allowable densities in
+      several mixed-use zones concurrently with adoption of the housing element. Please be
+      aware, if these changes to zoning are necessary to accommodate the RHNA for lower-
+      income households and adoption does not occur before the beginning of the planning
+      period, the element may need to address a shortfall of adequate sites and trigger meeting
+
+
+
+Redwood City’s 6th Cycle Draft Housing Element                                    Page 8
+July 8, 2022
+      by-right requirements pursuant to Government Code section 65583, subdivision (c)(1) and
+      section 65583.2, subdivisions (h) and (i).
+
+      Program H4-5 (SB 9 Zoning and Subdivision Ordinance Amendments): As the City is
+      relying on developing units utilizing SB 9, the program must commit to adopting updated
+      definitions, use regulations, and development standards beyond “considering” and
+      modified based on the outcomes of a complete analysis, including monitoring production
+      and affordability every two years and taking alternative action if necessary.
+
+   3. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Special Needs: While the element includes programs to assist in the development of very
+      low-, low-, and moderate-income households, it must also include a program(s) to assist in
+      the development of housing for all special needs households (e.g., elderly, homeless,
+      farmworkers, persons with disabilities, female-headed households). Specifically, programs
+      should be added or modified to address the needs of persons with disabilities. For
+      example, program actions could include proactive outreach and assistance to non-profit
+      service providers and developers, prioritizing some funding for housing developments
+      affordable to special needs households and offering financial incentives or regulatory
+      concessions to encourage a variety of housing types.
+
+      Program H3-1 (Senior Housing Needs): The program should include an action beyond
+      “consider” as well as describe how the City will support organizations and how often. As
+      the element identified a high need for senior housing, the program should specifically help
+      seniors stay in their homes to address the identified need. In addition, the program should
+      include timing to revise the definitions.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding B5, the element requires a complete analysis of potential
+      governmental constraints. Depending upon the results of that analysis, the City may need
+      to revise or add programs and address and remove or mitigate any identified constraints.
+      In addition, the element should be revised as follows:
+
+      Program H1-8 (Small Lots): The program should implement the incentives and changes to
+      development standards, as well as list out potential revisions that are being considered.
+
+      Program H3-2 (Residential Care Facilities and Group Homes): The program must clarify
+      what the City will do to allow group homes with seven or more residents. The program
+      should clearly address this constraint and commit to revise zoning and permit procedure to
+
+
+Redwood City’s 6th Cycle Draft Housing Element                                   Page 9
+July 8, 2022
+      permit group homes for seven or more persons with objectivity to facilitate approval
+      certainty in all residential zones.
+
+      Program H3-3 (Special Needs and Extremely-Low Income (ELI) Households): The
+      program should remove “consider” from the second action to amend zoning for ELI
+      housing options. In addition, the program should describe how the City will support the
+      homeless outreach team and how often they will consult with the County’s center on
+      homelessness. Lastly, the program must include specific timing and commitment for
+      completing zoning amendments earlier in the planning period (beyond presenting in a
+      study session in four years).
+
+      Program H4-2 (General Plan/Zoning Consistency): The program should specify timing as
+      well as describe what amendments will be made.
+
+      Program H4-6 (Permit Processing): The program should include specific timing to
+      implement the described actions. The program should also describe how often the process
+      will be evaluated and improved.
+
+      Program H4-7 (Revised Parking Standards): The program should go beyond considering
+      revised parking standards as the parking standards were identified as a potential
+      constraint. For example, the City currently requires two spaces per multifamily unit
+      regardless the number of bedrooms and “up to” a certain number of spaces in the
+      Downtown. The program should reduce parking constraints for multifamily units within the
+      City, as well as in the Downtown and Mixed-Use zones. In addition, the program should
+      include specific timing for implementation.
+
+      Program H4-8 (Employee Housing Act): The program should be implemented earlier in the
+      planning period (e.g., within one year).
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must include a complete analysis of AFFH. The
+      element must be revised to add goals and actions based on the outcomes of a complete
+      analysis.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+      can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+      Programs must be expanded to include incentives to promote the creation and affordability
+      of Accessory Dwelling Units (ADUs). Examples include exploring and pursuing funding,
+      modifying development standards and reducing fees beyond state law, increasing
+      awareness, pre-approved plans and homeowner/applicant assistance tools. In addition,
+      given the City’s assumptions for ADUs, the element should include a program to monitor
+      permitted ADUs and affordability every other year and take appropriate action such as
+      adjusting assumptions or rezoning within a specified time period (e.g., 6 months).
+
+Redwood City’s 6th Cycle Draft Housing Element                                  Page 10
+July 8, 2022
+D. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element describes public participation and key themes from public engagement, it
+   should describe how public comments were incorporated into the element.
+
+
+
+
+Redwood City’s 6th Cycle Draft Housing Element                                   Page 11
+July 8, 2022

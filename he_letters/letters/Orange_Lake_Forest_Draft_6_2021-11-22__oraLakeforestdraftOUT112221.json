@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Lake Forest",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-11-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraLakeforestdraftOUT112221.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraLakeforestdraftOUT112221.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 298689,
+  "text_chars": 33325,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Rialto",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-06-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbd-rialto-adopt-rezone-in-062326-068cs000029wCNZAA2.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbd-rialto-adopt-rezone-in-062326-068cs000029wCNZAA2.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 194415,
+  "text_chars": 6623,
+  "text_empty": false
+}

@@ -1,0 +1,580 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                   GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         August 29, 2022
+
+
+
+         Amanda Mager, City Manager
+         City of Blue Lake
+         PO Box 458
+         Blue Lake, CA 95525
+
+         Dear Amanda Mager:
+
+         RE: City of Blue Lake’s 6th Cycle (2019-2027) Draft Housing Element
+
+         Thank you for submitting the City of Blue Lake’s (City) draft housing element received
+         for review on May 31, 2022. Pursuant to Government Code section 65585, subdivision
+         (b), the California Department of Housing and Community Development (HCD) is
+         reporting the results of its review.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         For your information, some general plan element updates are triggered by housing
+         element adoption. HCD reminds the City to consider timing provisions and welcomes
+         the opportunity to provide assistance. For information, please see the Technical
+         Advisories issued by the Governor’s Office of Planning and Research at:
+         https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+Amanda Mager, City Manager
+Page 2
+
+
+
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+We are committed to assist the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Mashal Ayobi, of our staff, at Mashal.Ayobi@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF BLUE LAKE
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      Due to the lack of an adopted 5th cycle housing element, the element relies on the adopted
+      4th cycle housing element to analyze the effectiveness of past programs. However, the
+      element must still provide an explanation of the effectiveness of goals, policies, and
+      related actions in meeting the housing needs of special needs populations (e.g., elderly,
+      persons with disabilities, large households, female headed households, farmworkers and
+      persons experiencing homelessness).
+
+      In addition, the element should expand discussion on why the senior housing project that
+      was proposed in the 5th cycle (Programs 19 and 20) ultimately did not move forward. This
+      analysis could be utilized to identify potential constraints rendering project infeasible and
+      programmatic solutions to facilitate future development.
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in the
+         jurisdiction (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          Please be aware, while the element included an Affirmatively Furthering Fair Housing
+          Analysis (AFFH) analysis, HCD did not consider this part of its review as the analysis
+          was not required for housing elements due prior to January 1, 2021.
+
+      2. Include an analysis of population and employment trends and documentation of
+         projections and a quantification of the locality's existing and projected needs for all
+         income levels, including extremely low-income households. (Gov. Code, § 65583,
+         subd. (a)(1).)
+
+
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                 Page 1
+August 29, 2022
+          Employment: While the element includes data and analysis on employment trends
+          within the City, it should identify who the major employers are in the City as well as
+          clearly state the unemployment rate.
+
+      3. Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+          Housing Stock Condition: The element identifies the age of the housing stock. However, it
+          must include analysis of the condition of the existing housing stock and estimate the
+          number of units in need of rehabilitation and replacement. For example, the analysis could
+          include estimates from a recent windshield survey or sampling, estimates from the code
+          enforcement agency, or information from knowledgeable builders/developers, including
+          nonprofit housing developers or organizations. For additional information, see the Building
+          Blocks at https://www.hcd.ca.gov/housing-stock-characteristics.
+
+          Overpaying Households: While the element quantifies the number of overpaying
+          households, it must still provide an analysis of the data to determine if programs are
+          needed to address issues related to cost burden.
+
+      4. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          Sites Inventory: The City has a regional housing need allocation (RHNA) of 23 housing
+          units, of which 11 are for lower-income households. The element identifies an
+          unaccommodated need from the prior planning period of 11 housing units, 5- lower
+          income units. To address this need, the element relies on vacant site to meet the
+          RHNA. The element categorizes these sites into green (likely developable), yellow
+          (questionable), and red (not developable). While red category sites appear not to be
+          utilized to meet the RHNA, it is unclear if capacity on yellow sites is anticipated to
+          accommodate the RHNA. The element should also describe what factors are included
+          in the determination of likely developable, questionable, and not developable
+          assumptions associated with each site.
+
+          Additionally, sufficient sites must be identified for above-moderate households. The
+          element will have to either revise some moderate assumptions and allocate them
+          toward above moderate-income RHNA, identify additional sites, or rezone.
+
+          Realistic Capacity: While the element provides assumptions of buildout for sites
+          included in the inventory and details on site development (page 35), it must also
+          provide support for these assumptions. For example, the element should demonstrate
+          what specific trends, factors, and other evidence led to the assumptions. The realistic
+          unit potential may rely on established minimum density standards or include analysis
+          demonstrating how the number of units for each site was determined. (Gov. Code,
+          § 65583.2, subd. (c).) The estimate of the number of units for each site must be
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                Page 2
+August 29, 2022
+          adjusted as necessary, based on the land use controls and site improvements, typical
+          densities of existing or approved residential developments at a similar affordability level
+          in that jurisdiction, and on the current or planned availability and accessibility of
+          sufficient water, sewer, and dry utilities. The element also needs to analyze the
+          likelihood that the identified units will be developed as noted in the inventory in zones
+          that allow nonresidential uses (e.g., mixed-use). This analysis should consider the
+          likelihood of nonresidential development, performance standards, and development
+          trends supporting residential development.
+
+          Zoning to Accommodate Lower-Income RHNA: Pursuant to Section 65583.2(c)(3)(A) and
+          (B), the element must identify sites with zoning and densities appropriate to encourage and
+          facilitate the development of housing for lower-income households based on factors such
+          as market demand, financial feasibility and development experience within zones. For
+          communities with densities that meet specific standards (at least 15 units per acre for Blue
+          Lake), this analysis is not required (Section 65583.2(c)(3)(B)). While the element lists some
+          sites identified to accommodate the lower-income need at 17 units per acre, site
+          025-121-008 (designated to accommodate lower-income) appears to only allow 7 units per
+          acre. Therefore, if this site is relied on to meet the lower-income RHNA, element must
+          include a complete analysis.
+
+          Suitability of Nonvacant Sites: According to the footnote on page 43, it does not appear
+          that City is relying on capacity on nonvacant sites (Table 22) to meet the RHNA.
+          According to the footnote on page 43, it does not appear that City is relying on capacity
+          on nonvacant sites (Table 22) to meet the RHNA. If the City is relying on underutilized
+          land it must describe all existing uses (such as surplus school site, operating business,
+          nursery, etc.) and evaluate the extent these uses would constitute an impediment to
+          new residential development. Among other things, this analysis includes considerations
+          for the current market demand for the existing use, an analysis of any known existing
+          leases or other contracts that would perpetuate the existing use or prevent
+          redevelopment of the site for additional residential development and could include
+          other market conditions that would encourage redevelopment of the property like the
+          condition or age of existing uses, or valuation.
+
+          Large Sites: According to the footnote on page 43, it does not appear that City is
+          relying on capacity on APN 312-161-020 (Table 22) to meet the RHNA. As this site is
+          over ten acres, if the City relies on this site it must demonstrate that sites of equivalent
+          size were successfully developed during the prior planning period for an equivalent
+          number of lower-income housing units as projected for the site or unless the housing
+          element describes other evidence to HCD that the site is adequate to accommodate
+          lower income housing (Gov. Code, § 65583.2, subd. (c)(2)(A).).
+
+          Accessory Dwelling Units (ADU): While the element projects the development of 13
+          low-income ADUs and 7 low-income JADUs throughout the planning period, it does not
+          have trends to support this assumption. Given that the City has not produced any
+          ADUs since 2018, it is not clear if this production level will be achievable in the
+          planning period. As a result, the element should be updated to include a realistic
+          estimate of the potential for ADUs and include policies and programs that incentivize
+          the production of ADUs. Depending on the analysis, the element must commit to
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                  Page 3
+August 29, 2022
+          monitor ADU production throughout the course of the planning period and implement
+          additional actions if not meeting target numbers anticipated in the housing element. In
+          addition to monitoring production, this program should also monitor affordability.
+          Additional actions, if necessary, should be taken in a timely manner (e.g., within six
+          months). Finally, if necessary, the degree of additional actions should be in stride with
+          the degree of the gap in production and affordability. For example, if actual production
+          and affordability of ADUs is far from anticipated trends, then rezoning or something
+          similar would be an appropriate action. If actual production and affordability is near
+          anticipated trends, then measures like outreach and marketing might be more
+          appropriate.
+
+          Suitability and Availability of Infrastructure: While the element discusses the
+          wastewater plan, it must clarify the implementation date and whether it will be complete
+          and available for sites identified in the inventory. In addition, the element must add a
+          program to address sewer capacity needs accommodate the RHNA. If the requisite
+          infrastructure capacity is not available upon adoption of the housing element, the
+          housing element must include program actions (e.g,. implementation of capital
+          improvement plans, financing through general obligation or special district bonds, etc.)
+          to address infrastructure capacity limitations or shortfalls. The element must also clarify
+          whether there is sufficient water supply to accommodate the RHNA.
+
+          Environmental Constraints: While the element describes infrastructure and flooding
+          constraints on page 44 of the element, it must identify whether any of the sites in the
+          inventory are impacted and provide analysis or program actions to address the
+          constraints. For example, APNs 025-101-007, 025-101-013, and 025-111-007 have
+          large wetland areas which must be considered in realistic capacity and development
+          potential considerations.
+
+          Sites with Zoning for a Variety of Housing Types: While the element includes Table 26
+          (Housing Types Permitted by Zoning District), it does not describe each of the required
+          housing types. The element must analyze how development standards and processing
+          requirements facilitate development of each of the housing types. In addition:
+
+          •   Emergency Shelters: The element does not identify any zone which allows
+              emergency shelters as a permitted use without a conditional use or other
+              discretionary permit. As a result, the element cannot be found in full compliance
+              until City amends zoning to permit year-round emergency shelters without
+              discretionary action pursuant to Government Code section 65583, subdivision
+              (a)(4)(A). The identified zone(s) must have sufficient capacity to accommodate the
+              need for shelters and meet various other requirements related to site suitability and
+              development standards. The element must demonstrate the permit processing,
+              development, and management standards for emergency shelters are objective and
+              encourage and facilitate the development of, or conversion to, emergency shelters.
+              The element must demonstrate that emergency shelters are subject to the same
+              development and management standards applicable to residential or commercial
+              development within the same zone except for those standards prescribed by
+              Government Code section 65583 (a)(4)(A).
+
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                Page 4
+August 29, 2022
+      5. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis shall
+         also demonstrate local efforts to remove governmental constraints that hinder the
+         locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7). (Gov. Code, § 65583, subd. (a)(5).)
+          Land Use Controls: The element must identify and analyze all relevant land use
+          controls impacts as potential constraints on a variety of housing types (e.g., multifamily
+          rental housing, mobilehomes, transitional housing). The analysis must also evaluate
+          the cumulative impacts of land use controls on the cost and supply of housing,
+          including the ability to achieve maximum densities and cost and supply of housing.
+          Specifically, the element must analyze the maximum lot coverage of 40 percent in the
+          PDR zone as a constraint and add a program as appropriate. The element must also
+          describe and analyze whether three stories are allowed in the zones that limit height to
+          35 feet (I.e. R2, MU, PDR zones). The element should include programs to address or
+          remove the identified constraints.
+          Fees and Exaction: While the element lists three planning fees, it must describe all
+          required fees for single family and multifamily housing development, including impact
+          fees, and analyze their impact as potential constraints on housing supply and
+          affordability. For example, the analysis could identify the total amount of fees and their
+          proportion to the development costs for both single family and multifamily housing. For
+          additional information and a sample analysis and tables, see the Building Blocks at
+          https://www.hcd.ca.gov/fees-and-exactions.
+          Zoning and Fees Transparency: The element must clarify its compliance with new
+          transparency requirements for posting all zoning and development standards for each
+          parcel on the jurisdiction’s website pursuant to Government Code section
+          65940.1(a)(1).
+
+          Design Guidelines: While the element describes design guidelines in three categories
+          on page 73, it must describe and analyze the design review process and findings,
+          including approval procedures and decision-making criteria, for their impact as
+          potential constraints on housing supply and affordability. For example, the analysis
+          could describe required findings and discuss whether objective standards and
+          guidelines improve development certainty and mitigate cost impacts. The element must
+          demonstrate this process is not a constraint or it must include a program to address
+          this permitting requirement, as appropriate.
+
+          Local Processing and Permit Procedures: The element must describe and analyze the
+          City permit processing and approval procedures by zone and housing type (e.g.,
+          multifamily rental housing, mobile homes, housing for agricultural employees,
+          supportive housing).
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                Page 5
+August 29, 2022
+          The analysis must evaluate the processing and permit procedures’ impacts as potential
+          constraints on housing supply and affordability. For example, the analysis should
+          consider processing and approval procedures and time for typical single- and multi-
+          family developments, including type of permit, level of review, approval findings and
+          any discretionary approval procedures. In addition, the element indicates multifamily
+          development in zones permitting multifamily development requires a Conditional Use
+          Permit (CUP). The element must analyze the CUP process as a potential constraint on
+          housing supply and affordability. The analysis should identify findings of approval for
+          the CUP and their potential impact on development approval certainty, timing, and
+          cost. The element must demonstrate this process is not a constraint or it must include
+          a program to address and remove or mitigate the CUP requirement. While program HI-
+          14 adds actions surround the RHD combining zone, it only applies when at least 20
+          percent of the development is affordable to lower-income households. For additional
+          information and sample analysis, see the Building Blocks at
+          https://www.hcd.ca.gov/processing-permitting-procedures.
+          On/Off-Site Improvements: While the element lists site improvements, it must analyze
+          their impact as potential constraints on housing supply and affordability. For additional
+          information and a sample analysis, see the Building Blocks at
+          https://www.hcd.ca.gov/codes-and-enforcement-of-onsite-offsite-improvement-
+          standards.
+          Codes and Enforcement: While the element describes local amendments to the
+          building code, it must also describe code enforcement process and procedures (I.e.
+          whether it is proactive or complaint based).
+
+          Constraints on Housing for Persons with Disabilities: The element shows group homes
+          for seven or more are conditionally permitted in some zones. It must address how non-
+          licensed group home facilities that serve seven or more residences is permitted.
+          Zoning and standards should simply implement a barrier-free definition of family
+          instead of subjecting, potentially persons with disabilities, to special regulations. Zoning
+          code regulations that isolate and regulate various types of housing for persons with
+          disabilities based on the number of people and other factors may pose a constraint on
+          housing choice for persons with disabilities. The element should include specific
+          analysis of these and any other constraints for impacts on housing for persons with
+          disabilities and add or modify programs as appropriate.
+      6. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a locality’s
+         share of the regional housing need in accordance with Government Code section
+         65584. The analysis shall also demonstrate local efforts to remove nongovernmental
+         constraints that create a gap between the locality’s planning for the development of
+         housing for all income levels and the construction of that housing. (Gov. Code,
+         § 65583, subd. (a)(6).)
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                 Page 6
+August 29, 2022
+          Availability of Financing: The element must consider whether housing financing,
+          including private financing and government assistance programs, is generally available
+          in the community. This analysis could indicate whether mortgage deficient areas or
+          underserved groups exist in the community. The financing analysis may also identify
+          the availability of financing from private foundations (including bank foundations)
+          corporate sponsors, community foundations, community banks, insurance companies,
+          pension funds, and/or local housing trust funds.
+
+          Developed Densities and Permit Times: The element must be revised to include
+          analysis of requests to develop housing at densities below those anticipated, and the
+          length of time between receiving approval for a housing development and submittal of
+          an application for building permits that potentially hinder the construction of a locality’s
+          share of the regional housing need.
+
+      7. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code,
+         § 65583, subd. (a)(7).)
+
+          While the element quantifies the population and needs of seniors, female-headed
+          households, persons with disabilities, farmers, and individuals experiencing
+          homelessness, it must still analyze their housing needs and identify available
+          resources to assist each group. Additionally, the element should include both seasonal
+          and permanent data for farmworkers.
+
+   C. Housing Programs
+
+
+      1. Include a program which sets forth a schedule of actions during the planning period,
+         each with a timeline for implementation, which may recognize that certain programs
+         are ongoing, such that there will be beneficial impacts of the programs within the
+         planning period, that the local government is undertaking or intends to undertake to
+         implement the policies and achieve the goals and objectives of the Housing Element
+         through the administration of land use and development controls, the provision of
+         regulatory concessions and incentives, and the utilization of appropriate federal and
+         state financing and subsidy programs when available. The program shall include an
+         identification of the agencies and officials responsible for the implementation of the
+         various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Gov. Code section 65583, subd. (c)(1-6), and
+          to facilitate implementation, programs should include: (1) a description of the City’s
+          specific role in implementation; (2) definitive implementation timelines; (3) objectives,
+          quantified where appropriate; and (4) identification of responsible agencies and
+          officials. Programs to be revised include the following:
+
+          •   Program HI-3: The program must state how often noticing will be available.
+
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                  Page 7
+August 29, 2022
+          •   Program HI-5: The program should clarify whether the incentives are in place, and
+              add a definitive timeframe for implementation.
+          •   Program HI-6: the program should be strengthened to address conserving and
+              improving existing housing stock as well as include proactive outreach and
+              definitive timeframes.
+          •   Program HI-7: The element states a timeframe that is long passed, but did not
+              share SB 35 guidelines in the element. The element must be revised to address
+              implementation timing.
+          •   Program HI-9: The program should be revised to strengthen implementation by
+              removing terms like ‘consider’.
+          •   Program HI-10: This program should include more specific timeframes for
+              implementation of the AFFH program.
+          •   Program HI-12: The program should clarify how often outreach will occur during the
+              planning period.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+          to comply with the requirements of Government Code section 65584.09. Sites shall be
+          identified as needed to facilitate and encourage the development of a variety of types
+          of housing for all income levels, including multifamily rental housing, factory-built
+          housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+          room occupancy units, emergency shelters, and transitional housing.
+          (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding B4 the element does not include a complete site analysis,
+          therefore, the adequacy of sites and zoning were not established. Based on the results
+          of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types. In addition, the element should be revised as follows:
+
+          In addition, the element must include a program to provide capacity to accommodate
+          the Regional Housing Need and identify additional sites as needed.
+
+     3.   The Housing Element shall contain programs which assist in the development of
+          adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+          income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+          HI-16: This program includes priority water service for low-income units but should
+          clarify if sewer services are city-owned. If they are, sewer services should be included
+          in this program as well. If not, the City should inform the sewer provider with a copy of
+          the housing element.
+
+     4.   Address and, where appropriate and legally possible, remove governmental and
+          nongovernmental constraints to the maintenance, improvement, and development of
+
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                Page 8
+August 29, 2022
+          housing, including housing for all income levels and housing for persons with
+          disabilities. The program shall remove constraints to, and provide reasonable
+          accommodations for housing designed for, intended for occupancy by, or with
+          supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+          As noted in Findings B5 and B6, the element requires a complete analysis of potential
+          governmental and nongovernmental constraints. Depending upon the results of that
+          analysis, the City may need to revise or add programs and address and remove or
+          mitigate any identified constraints. In addition, the element should be revised as
+          follows:
+
+          Program HI-1: While this program commits to amending the Zoning Ordinance, actions
+          and objectives should be clarified. The program must create an implementation
+          timeframe to create a Reasonable Accommodation process as well as adopting an
+          updated density bonus program. The program must also include a timeframe of when
+          the brochures and other outreach material will be available. The program must be
+          revised to address the following:
+
+          •   ADUs: the City must revise the zoning ordinance to comply with all ADU laws. In
+              addition, the program should commit to submitting the City’s ADU ordinance to
+              HCD for review and make revisions for compliance if needed.
+          •   Manufactured Homes: the program should clarify that manufactured homes on a
+              permanent foundation will be allowed as a single-family use.
+          •   Transitional and Supportive Housing: the program must commit to transitional
+              housing and supportive housing permitted as a residential use in all zones allowing
+              residential uses and only subject to those restrictions that apply to other residential
+              dwellings of the same type in the same zone. (Gov. Code, § 65583, subd. (c)(3).)
+          •   Emergency Shelters: the program must identify a zone(s) where emergency
+              shelters are permitted without a conditional use permit or other discretionary action
+              and with sufficient capacity to accommodate the identified need for shelters. (Gov.
+              Code, § 65583, subd. (a)(4).)
+          •   Group Homes: the element must clarify how non-licensed group home facilities that
+              serve seven or more residences is permitted. Zoning and standards should simply
+              implement a barrier-free definition of family instead of subjecting, potentially
+              persons with disabilities, to special regulations. Zoning code regulations that isolate
+              and regulate various types of housing for persons with disabilities based on the
+              number of people and other factors may pose a constraint on housing choice for
+              persons with disabilities. The element should include specific analysis of these and
+              any other constraints for impacts on housing for persons with disabilities and add or
+              modify programs as appropriate.
+
+          Program HI-14: While the element commits to reviewing development standards, it
+          must commit to a more definitive action such as ‘amending’ development standards to
+          ensure they’re not constraining all multi-family development within the planning period.
+          In addition, while this program addresses land use constraints for multifamily
+          developments, this program should be revised or a new program added to address
+          constraints to fees, permitting processes, regulatory concessions, and incentives
+
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                                 Page 9
+August 29, 2022
+          identified as constraints in the analysis. As the City is already three years into the
+          6th cycle, to ensure a beneficial impact within planning period, the program should be
+          revised to include a completion date by the end of 2024.
+
+     5.   The Housing Element shall include programs to conserve and improve the condition of
+          the existing affordable housing stock. (Gov. Code, § 65583, subd. (c)(4).)
+
+          The element must include a program to conserve and improve the existing housing
+          stock. Improvement includes physical activities that upgrade the housing stock, such
+          as rehabilitation. Conservation includes both maintenance activity (such as code
+          enforcement in deteriorating buildings), improvements to the housing stock (such as
+          weatherization programs that reduce housing costs), and other actions, policies, and
+          programs that conserve the affordability of housing (such as a mobile home park
+          preservation ordinance). Policies and programs should be tailored to the results of
+          findings under B3 and specific local situations.
+
+     6.   Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+          that can be offered at affordable rent, as defined in Section 50053 of the Health and
+          Safety Code, for very low, low-, or moderate-income households. For purposes of this
+          paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+          unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code,
+          § 65583, subd. (c)(7).)
+
+          The element must include a program which incentivizes and promotes the creation of
+          ADUs that can be offered at affordable rent, as defined in Section 50053 of the Health
+          and Safety Code, for very low, low-, or moderate-income households.
+
+
+   D. Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the Housing Element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+     While the element includes a general summary of the public participation process, it must
+     also demonstrate diligent efforts were made to involve all economic segments of the
+     community in the development of the housing element. The element could describe the
+     efforts to circulate the housing element among low- and moderate-income households and
+     organizations that represent them and to involve such groups and persons in the element
+     throughout the process. The element should also describe whether translation services were
+     available. In addition, the element should also summarize the public comments and describe
+     how they were considered and incorporated into the element. For additional information, see
+     the Building Blocks at https://www.hcd.ca.gov/public-participation.
+
+
+
+
+City of Blue Lake’s 6th Cycle Draft Housing Element                              Page 10
+August 29, 2022

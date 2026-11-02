@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Banning",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-03-29",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/riv-banning-adopt-out-062924.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/riv-banning-adopt-out-062924.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186522,
+  "text_chars": 5973,
+  "text_empty": false
+}

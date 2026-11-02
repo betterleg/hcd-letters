@@ -1,0 +1,14 @@
+{
+  "county": "Humboldt",
+  "jurisdiction": "Blue Lake",
+  "type": "Due",
+  "cycle": "6",
+  "reviewed": "2020-01-24",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/BlueLake-6th-Cycle-Past-Due.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/BlueLake-6th-Cycle-Past-Due.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 188581,
+  "text_chars": 2838,
+  "text_empty": false
+}

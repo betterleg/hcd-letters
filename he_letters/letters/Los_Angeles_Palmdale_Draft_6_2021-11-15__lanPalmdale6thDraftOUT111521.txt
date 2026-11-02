@@ -1,0 +1,547 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 16, 2021
+
+
+         Luis Garibay, Director
+         Economic and Community Development Department
+         City of Palmdale
+         38250 Sierra Highway
+         Palmdale, CA 93550
+
+         Dear Luis Garibay:
+
+         RE: City of Palmdale’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Palmdale’s (City) draft housing element received for
+         review on September 17, 2021. Pursuant to Government Code section 65585, subdivision
+         (b), the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a meeting on November 10, 2021
+         with Brenda Magaña, Senior Planner, Megan Taggart, Planning Manager, and
+         Consultants: Simran Malhotra, Melissa Stark, and Veronica Tam.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+         today, the City has not completed the housing element process for the 6th cycle. The
+         City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+         encourages the City to revise the element as described above, adopt, and submit to HCD
+         to regain housing element compliance.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+         housing needs allocation (RHNA), including for lower-income households, shall be
+         completed no later than one year from the statutory deadline. Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+         Code section 65585, subdivision (i).
+Luis Garibay, Director
+Page 2
+
+
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations that
+represent lower-income and special needs households, by making information regularly
+available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Reid Miller, of our staff, at Reid.Miller@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF PALMDALE
+
+   The following changes are necessary to bring the City’s housing element into compliance
+   with Article 10.6 of the Government Code. Accompanying each recommended change, we
+   cite the supporting section of the Government Code.
+
+   Housing element technical assistance information is available on HCD’s website at
+   http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+   Among other resources, the housing element section contains HCD’s latest technical assistance
+   tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+   http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+   Government Code addressing State Housing Element Law and other resources.
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and
+      progress in implementation, and reflect the results of this review in the revised element.
+      (Gov. Code, § 65588 (a) and (b).)
+
+      The element must evaluate the effectiveness of prior programs and appropriately adjust
+      goals, objectives, policies, and programs. To meet this requirement, a thorough
+      program-by-program analysis is needed, including an indication of what programs
+      activities from the previous housing element are incorporated into the 6th cycle update.
+      For example, Programs 4 (Small Lot Consolidation Program) and 5 (Large Site
+      Development Program) were largely ineffective in the last housing element cycle but are
+      continued, without change, into the new draft element. This analysis is particularly
+      important given the fact that the City only produced 857 housing units in the last RHNA
+      Cycle from an expected 3,272, and only 161 units for lower-income residents.
+
+      In addition, as part of the review of programs in the past cycle, the element must
+      provide an evaluation of the cumulative effectiveness of goals, policies, and related
+      actions in meeting the housing needs of special needs populations (e.g., elderly,
+      persons with disabilities, large households, female-headed households, farmworkers,
+      and persons experiencing homelessness).
+
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing
+         with Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair
+         housing in the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+         Sites Inventory: The element discusses the proposed number of sites and units
+         relative to income, but it must also address other components of the assessment of
+         fair housing (e.g., R/ECAP, Access to Opportunity, Disproportionate Housing Need,
+         including Displacement). The accompanying analysis should also address how the
+         sites are identified to improve conditions (or if sites exacerbate conditions, how a
+
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                Page 1
+November 16, 2021
+         program can mitigate the impact) and whether the sites are isolated by income
+         group.
+
+         Additionally, the City should provide a map of the proposed sites in the sites
+         inventory to evaluate whether the sites (and particularly the sites reserved for lower
+         income residents) are distributed throughout the City or are concentrated in certain
+         areas. For example, Table D-8 seems to show that over 80 percent of the sites for
+         lower-income are in areas where at least 50 percent or more households are lower-
+         income, but this is difficult to properly analyze without a map of proposed sites.
+
+         Regional Patterns and Trends: The element generally describes local patterns and
+         trends but must also analyze Palmdale relative to the rest of the region regarding
+         integration and segregation, disparities in access to opportunity, particularly relating
+         to access to educational opportunities, and disproportionate housing needs and
+         displacement risks.
+
+         Local Data and Knowledge: While the City does note that a lack of adequate funding
+         and resources for outreach to gather local data and knowledge presents a problem,
+         State law still requires that all housing elements incorporate local data and
+         knowledge of the jurisdiction into the Affirmatively Furthering Fair Housing (AFFH)
+         section. To assist in meeting this requirement, the element should provide local data
+         not captured in regional, state, or federal data analysis. In addition, as noted in the
+         element, the City has recently undertaken a comprehensive general plan
+         amendment. The element should describe that process and whether the City
+         considered its obligation to AFFH per Government Code section 8899.50,
+         subdivision (b) when determining areas for new growth. This is particularly important
+         because, as noted in the element on Page D-23, the areas to be rezoned for high
+         density residential and accommodate the RHNA for lower-income seem to be areas
+         of high segregation and poverty.
+
+         Other Relevant Factors: The City notes that housing choice vouchers can show
+         patterns of concentration and integration. It also states that much of the housing
+         choice vouchers are concentrated in the downtown area, and in the areas east and
+         west of downtown. There is an additional note that even with these vouchers, many
+         of the households who apply for them are still cost-burdened. The City should
+         provide further analysis on how they plan to counteract these patterns in the AFFH
+         analysis, or in the Housing Programs section.
+
+         Contributing Factors to Fair Housing Issues: The element must identify and prioritize
+         contributing factors to fair housing issues. Contributing factors create, contribute to,
+         perpetuate, or increase the severity of fair housing issues and are fundamental to
+         adequate goals and actions. Examples include community opposition to affordable
+         housing, housing discrimination, land use and zoning laws, lack of regional
+         cooperation, location and type or lack of affordable housing and lack of public or
+         private investment in areas of opportunity or affordable housing choices. For
+         example, the City appears to be identifying a large portion of its lower-income RHNA
+         in the RN3 zone; the City should provide analysis as to whether these sites are
+         located in areas of high segregation and/or poverty, and whether the necessary land
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                 Page 2
+November 16, 2021
+         use element update and accompanying zoning will improve or exacerbate these
+         conditions. The City may also include further analysis to ensure that opportunities
+         exist in higher resource areas for multifamily housing.
+
+         Goals, Priorities, Metrics, and Milestones: Goals and actions must create meaningful
+         impact to overcome contributing factors to fair housing issues. Currently, programs are
+         not sufficient to facilitate meaningful change and address AFFH requirements. For
+         example, Program 6 is highlighted in Table 42 to work with developers to overcome
+         patterns of segregation, but Program 6 only commits to a land bank as funding
+         becomes available and does not provide any alternative mechanisms to work with
+         developers to build housing in other parts of the City. Based on the outcomes of a
+         complete analysis, the element must be revised to add or modify goals and actions.
+         Goals and actions must specifically respond to the analysis and to the identified and
+         prioritized contributing factors to fair housing issues and must be significant and
+         meaningful enough to overcome identified patterns and trends. Actions must have
+         metrics and milestones as appropriate and must address housing mobility
+         enhancement, new housing choices and affordability in high opportunity areas, place-
+         based strategies for community preservation and revitalization and displacement
+         protection. For further information about AFFH requirements, please refer to HCD’s
+         https://www.hcd.ca.gov/community-development/affh/docs/affh_document_final_4-27-
+         2021.pdf#page=7.
+
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated
+         income level, and an analysis of the relationship of zoning and public facilities and
+         services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         The City has a RHNA of 6,640 housing units, of which 2,712 are for lower-income
+         households. To address this need, the element relies on vacant sites, including sites in
+         Specific Plan Areas, Mixed-Use Overlay area, and the to be created Residential
+         Neighborhood 3 (RN3) designation, which will have an allowable density range of 20-30
+         dwelling units per acre. To demonstrate the adequacy of these sites and strategies to
+         accommodate the City’s RHNA, the element must include complete analyses:
+
+         “Pipeline” Projects: The element identifies a number of units in the pipeline per
+         planned development and specific plan communities on page 56 of the element.
+         However, it is unclear if actual projects have been proposed for these areas, or if the
+         capacity credited is based on the anticipated build out of these areas. If projects
+         have yet to be proposed in these areas, the element should include them in the sites
+         inventory rather than credit them toward the RHNA, and include information related
+         to any phasing or other development requirements that could impact buildout in the
+         planning period. If they are approved projects, the element should state whether the
+         units are expected to be built in the planning period.
+
+         Sites Inventory: The sites inventory lists sites by assessor parcel number, parcel
+         size, minimum density, maximum density, income level, and minimum number of
+         units, but it should also list each site’s proposed general plan designation. The
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                Page 3
+November 16, 2021
+         element must also include a map of the City indicating where each site in the
+         inventory is located as required by Government Code section 65583.2, subdivision
+         (b)(7). As a note, the information on Table 38 on page 55 and Table 41 on page 58
+         should be reviewed to ensure they accurately reflect the available sites and capacity
+         in Appendix B.
+
+         Electronic Site Inventory: For your information, pursuant to Government Code
+         section 65583.3, subdivision (b), the City must utilize standards, forms, and
+         definitions adopted by HCD when preparing the sites inventory. Please see HCD’s
+         housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml for a copy of the form and instructions.
+         The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical
+         assistance. Please note, upon adoption of the housing element, the City must submit
+         an electronic version of the sites inventory with its adopted housing element to
+         sitesinventory@hcd.ca.gov.
+
+         Small Sites: Sites smaller than a half-acre in size are deemed inadequate to
+         accommodate housing for lower-income households unless it is demonstrated, with
+         sufficient evidence, that sites are suitable to accommodate housing for lower-income
+         households. In addition, page 57 states that all sites to accommodate the lower
+         income will require rezoning to the Residential Neighborhood 3 and includes
+         Program 1 (Adequate Sites for RHNA and Monitoring of No Net Loss). However, in
+         order for rezoned sites to accommodate the lower-income RHNA, they must
+         accommodate at least 16 units. The City should provide analysis on efforts to
+         consolidate these lots and, based on a complete analysis, the City should consider
+         adding or revising programs to include incentives for facilitating development on
+         small sites. Alternatively, as the City seems to have adequate sites to accommodate
+         their lower income RHNA without these small sites, they might consider allocated
+         these smaller sites into the moderate income RHNA category.
+
+         Infrastructure: The element must demonstrate sufficient existing or planned water,
+         sewer, and dry utilities capacity to accommodate the RHNA in the planning period.
+         Particularly, the City notes on page 43 of the element that the Antelope Valley
+         Groundwater Basin is in overdraft, and that may affect the City’s water supply. The
+         City should provide analysis as to whether this situation will affect the sites in the
+         inventory and the overall ability of the City to meet its RHNA goals. If it is found that
+         the overdraft and water shortages will affect the sites inventory and curtail the City’s
+         ability to achieve its RHNA, the element must include programs to address this
+         constraint. For additional information, see the Building Blocks at
+         http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+         analysis/analysis-of-sites-and-zoning.shtml#environmental.
+
+         In addition, water and sewer service providers must establish specific procedures to
+         grant priority water and sewer service to developments with units affordable to
+         lower-income households. (Gov. Code, § 65589.7.) Local governments are required
+         to immediately deliver the housing element to water and sewer service providers.
+         The element must demonstrate compliance with these requirements or include a
+         program as appropriate.
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                  Page 4
+November 16, 2021
+         Accessory Dwelling Units (ADUs): The element projects that it will produce 160
+         ADUs in the planning period, 109 of which will be for lower income. However, the
+         City’s Annual Progress Reports (APR) submitted to HCD show no permitted ADUs.
+         The City must provide analysis demonstrating how 160 ADUs in the planning period
+         is reasonable based on past production, or alternatively, if the City’s APRs are
+         incorrect, it could modify the submitted APR to reflect production numbers more
+         aligned to the projected amount of 20 units per year in the planning period. In
+         addition, HCD would like to remind the City of HCD’s June 29, 2021 letter outlining
+         necessary revisions to the City’s ADU ordinance. HCD understands that the City is
+         working on revisions and looks forward to receiving the amended ordinance in the
+         first quarter of 2022.
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures… (Gov. Code, §
+         65583, subd. (a)(5).)
+
+         Land Use Controls: The element must identify and analyze all relevant land use
+         controls impacts as potential constraints on a variety of housing types. The analysis
+         should analyze land use controls independently and cumulatively with other land use
+         controls. Specifically, the City should describe when the land use element update
+         and accompanying zoning will go into effect, and if development standards are
+         available.
+
+         Zoning and Fee Transparency: The City must address whether it has complied with
+         new transparency laws requiring all zoning and development standards to be posted
+         on the City’s website (Gov. Code, § 65940.1 (a)(1)(B)). It should also provide
+         evidence that it complies with new transparency laws requiring all fees and
+         inclusionary requirements to be posted on the City’s website (Gov. Code, § 65940.1
+         (a)(1)(A)).
+         Streamlining Provisions: The element should clarify whether the City has procedures
+         consistent with streamlining procedures pursuant to Government Code section
+         65913.4 and include programs as appropriate.
+
+         Housing for Persons with Disabilities: The element briefly describes its reasonable
+         accommodation procedures. However, the element should also describe the process
+         and decision-making criteria such as approval findings and analyze any potential
+         constraints on housing for persons with disabilities. In addition, the processing and
+         allowance of group homes for seven or more persons does not appear to be
+         addressed. The element should evaluate these requirements as constraints and add
+         or modify programs as appropriate to ensure zoning permits group homes
+         objectively with approval certainty.
+
+
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                 Page 5
+November 16, 2021
+         “Partners Against Crime” Program: In Program 19, the City states that it will continue
+         to implement “Partners Against Crime”. This program could be potentially
+         problematic for a number of reasons, and the City should provide further analysis on
+         whether this program could constitute a constraint on providing housing for all
+         income levels throughout the community. Such analysis should address:
+
+         •   how the program is enforced or implemented;
+             what entity is charged with implementation and enforcement (e.g., police, code
+             enforcement);
+         •   whether the program applies to both renters and homeowners;
+         •   whether the program is enforced against federally subsidized properties, or
+             against housing that serves specific populations (e.g., people re-entering from
+             contact with the criminal legal system or housing serving people with mental
+             health or developmental disabilities);
+         •   whether the program requires or encourages property owners to conduct a
+             criminal background check; and
+         •   what conduct is covered by the policy, and what locations of alleged criminal
+             activity the ordinance covers (e.g., on the premises or off premises)
+
+      4. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a locality’s
+         share of the regional housing need in accordance with Government Code section
+         65584. The analysis shall also demonstrate local efforts to remove nongovernmental
+         constraints that create a gap between the locality’s planning for the development of
+         housing for all income levels and the construction of that housing. (Gov. Code, §
+         65583, subd. (a)(6).)
+
+         Approval Time and Requests Lesser Densities: The element must include analysis
+         of requests to develop housing at densities below those identified, the length of time
+         between receiving approval for a housing development and submittal of an
+         application for building permits that potentially. The element must address any
+         hinderance on the development of housing and include programs as appropriate.
+
+      5. Analyze existing assisted housing developments that are eligible to change to non-
+         low-income housing uses during the next ten years due to termination of subsidy
+         contracts, mortgage prepayment, or expiration of use restrictions. (Gov. Code, §
+         65583, subd. (a)(9) through 65583(a)(9)(D).)
+
+         The element identifies several properties at risk of conversion to market-rate during
+         the planning period (p. 28-29). While the element includes much of the required
+         analysis, it must also fully assess the risk of each property converting to market rate
+         during the planning period and identify qualified entities (e.g., public, and private
+
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                 Page 6
+November 16, 2021
+         nonprofit corporations) that have legal and managerial capacity to acquire and
+         manage these properties.
+
+   C. Housing Programs
+
+      1. Include a program which sets forth a schedule of actions during the planning period, each
+         with a timeline for implementation, which may recognize that certain programs are ongoing,
+         such that there will be beneficial impacts of the programs within the planning period, that
+         the local government is undertaking or intends to undertake to implement the policies and
+         achieve the goals and objectives of the housing element through the administration of land
+         use and development controls, the provision of regulatory concessions and incentives, and
+         the utilization of appropriate federal and state financing and subsidy programs when
+         available. The program shall include an identification of the agencies and officials
+         responsible for the implementation of the various actions. (Gov. Code, § 65583, subd. (c).)
+
+         Programs must demonstrate that they will have a beneficial impact within the planning
+         period. Beneficial impact means specific commitment to deliverables, measurable metrics
+         or objectives, definitive deadlines, dates, or benchmarks for implementation. Deliverables
+         should occur early in the planning period to ensure actual housing outcomes. All programs
+         must be evaluated to include discrete timing (e.g., month, year), as appropriate to account
+         when the action will be completed to ensure a beneficial impact throughout the planning
+         period.
+
+      2. Identify actions that will be taken to make sites available during the planning period
+         with appropriate zoning and development standards and with services and facilities
+         to accommodate that portion of the city’s or county’s share of the regional housing
+         need for each income level that could not be accommodated on sites identified in the
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning,
+         and to comply with the requirements of Government Code section 65584.09. Sites
+         shall be identified as needed to facilitate and encourage the development of a
+         variety of types of housing for all income levels, including multifamily rental housing,
+         factory-built housing, mobilehomes, housing for agricultural employees, supportive
+         housing, single-room occupancy units, emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+         As noted in Finding B2, the element does not include a complete site analysis,
+         therefore, the adequacy of sites and zoning were not established. Based on the
+         results of a complete sites inventory and analysis, the City may need to add or
+         revise programs to address a shortfall of sites or zoning available to encourage a
+         variety of housing types. In addition, the element should be revised as follows:
+
+         The element should reconcile the timing for Programs 1 (Adequate sites for RHNA
+         and Monitoring of No Net Loss), and 2 (By-Right Approval of Projects with 20
+         Percent Affordable Units). These programs are critical to demonstrating adequate
+         sites. Based on the programs as described, the new general plan land use
+         designation and by-right approval processing for certain affordable projects will be
+         completed in 2022, but the accompanying zoning code updates including
+         development standards will not be completed until October of 2024. The element
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                Page 7
+November 16, 2021
+         should describe how the City will process by-right applications under the new land
+         use designation on sites identified to accommodate the RHNA for lower-income
+         while the underlying zoning standards are inconsistent with the general plan. As the
+         City is aware, pursuant to Government Code section 65860, subdivision (c), in the
+         event that a zoning ordinance becomes inconsistent with a general plan by reason of
+         amendment to the plan, the zoning ordinance shall be amended within a reasonable
+         time so that it is consistent with the general plan as amended. In addition, the
+         element should provide specific timeframes for the implementation of these
+         programs (e.g., month and year) to demonstrate a beneficial impact within the
+         planning period.
+
+      3. Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Findings B3 and B4, the element requires a complete analysis of potential
+         governmental and non-governmental constraints. Depending upon the results of that
+         analysis, the City may need to revise or add programs and address and remove or
+         mitigate any identified constraints.
+
+      4. The housing element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+         While the element includes Program 7 (Affordable Housing Development) to assist
+         in the development of very low-, low-, and moderate-income households, it must
+         also include a program(s) to assist in the development of housing affordable to
+         extremely low-income (ELI) households. Program actions could include prioritizing
+         some funding for housing developments affordable to ELI households and offering
+         financial incentives or regulatory concessions to encourage the development of
+         housing types, such as multifamily, single-room occupancy (SRO) units, to address
+         the identified housing needs for ELI households.
+
+      5. Promote and Affirmatively Furthering Fair Housing opportunities and promote
+         housing throughout the community or communities for all persons regardless of
+         race, religion, sex, marital status, ancestry, national origin, color, familial status, or
+         disability, and other characteristics protected by the California Fair Employment and
+         Housing Act (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2),
+         Section 65008, and any other state and federal fair housing and planning law. (Gov.
+         Code, § 65583, subd. (c)(5).)
+
+         As noted in Finding B1, the element must include a complete assessment of fair
+         housing. Based on the outcomes of that analysis, the element must add or modify
+         programs. While the element includes Program 7 (Affordable Housing Development)
+         and Program 20 (Fair Housing Services), goals and actions must create meaningful
+
+City of Palmdale’s 6th Cycle Draft Housing Element                                   Page 8
+November 16, 2021
+         impact to overcome contributing factors to fair housing issues and actions must have
+         specific metrics and milestones. Each of the identified actions in Table 42 should
+         include specific commitment and timeframes. In addition, Program 20 (Fair Housing
+         services) should also describe how all the City’s housing programs comply with and
+         further the requirements and goals of Government Code section 8899.50,
+         subdivision (b).
+
+   D. Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd.
+      (b)(1 & 2).)
+
+      The element must include quantified objectives to establish an estimate of housing units
+      by income category, including extremely low-income households, that can be
+      constructed, rehabilitated, and conserved over the planning period. The City provides
+      numbers for the expected conservation and preservation of units on page 77 of the
+      element, but must also estimate the number of units that will be rehabilitated.
+
+   E. Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all
+     economic segments of the community in the development of the housing element, and
+     the element shall describe this effort. (Gov. Code, § 65583, subd. (c)(8).)
+
+     While the element includes a general summary of the public participation process as part
+     of the general plan update, it must also demonstrate diligent efforts were made to involve
+     all economic segments of the community specifically related to the development of the
+     housing element. While the City made effort to include the public through workshops and
+     surveys in the development of the general plan, moving forward, the City should employ
+     additional methods for public outreach efforts in subsequent drafts of the housing
+     element, particularly including lower-income and special needs households and
+     neighborhoods with higher concentrations of lower-income and special needs
+     households. For example, the City could conduct targeted stakeholder interviews or
+     establish a committee representative of lower-income and special needs households in
+     future public outreach efforts. The element should also describe when the draft was
+     made available to the public for review, the efforts to circulate the housing element
+     among low- and moderate-income households and organizations that represent them
+     and to involve such groups and persons in the element throughout the process. In
+     addition, the element should also summarize the public comments and describe how
+     they were considered and incorporated into the element. HCD encourages the City to
+     consider these comments. For additional information, see the Building Blocks at
+     http://www.hcd.ca.gov/community-development/building-blocks/getting-started/public-
+     participation.shtml.
+
+
+
+
+City of Palmdale’s 6th Cycle Draft Housing Element                               Page 9
+November 16, 2021

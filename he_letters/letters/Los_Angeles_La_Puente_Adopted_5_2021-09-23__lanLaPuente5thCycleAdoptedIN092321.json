@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "La Puente",
+  "type": "Adopted",
+  "cycle": "5",
+  "reviewed": "2021-09-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanLaPuente5thCycleAdoptedIN092321.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanLaPuente5thCycleAdoptedIN092321.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 161766,
+  "text_chars": 4571,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "San Diego",
+  "jurisdiction": "El Cajon",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-10-27",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SdiElCajonAdoptedIn102722.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SdiElCajonAdoptedIn102722.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 161293,
+  "text_chars": 4082,
+  "text_empty": false
+}

@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Fresno County",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2024-03-15",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-fresno-cou-draft-out-031534.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-fresno-cou-draft-out-031534.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 227309,
+  "text_chars": 23716,
+  "text_empty": false
+}

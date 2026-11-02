@@ -1,0 +1,504 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY          GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+                                                    *****CORRECTED COPY*****
+
+         September 3, 2020
+
+
+
+         Michael Codron, Director
+         Community Development
+         City of San Luis Obispo
+         919 Palm Street
+         San Luis Obispo, CA 93401-3218
+
+         Dear Michael Codron:
+
+         RE: City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element
+
+         Thank you for submitting the City of San Luis Obispo’s (City) draft housing element
+         received for review on July 7, 2020, along with revisions received on August 21, 2020.
+         Pursuant to Government Code section 65585, subdivision (b), the California
+         Department of Housing and Community Development (HCD) is reporting the results of
+         its review. Our review was facilitated by a telephone conversation on August 6, 2020
+         with Rachel Cohen, Associate Planner, and Tyler Corey, Principal Planner. In addition,
+         HCD considered comments from California Rural Legal Assistance pursuant to
+         Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element
+         within 120 calendar days from the statutory due date of December 31, 2020 for San
+         Luis Obispo Council of Governments (SLOCOG) localities. If adopted after this date,
+         Government Code section 65588, subdivision (e)(4) requires the housing element be
+         revised every four years until adopting at least two consecutive revisions by the
+         statutory deadline. For more information on housing element adoption requirements,
+         please visit HCD’s website at: http://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos/docs/sb375_final100413.pdf.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate.
+Michael Codron, Director
+Page 2
+
+
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities program; SB 2 Planning Grants as
+well as ongoing SB 2 funding (Permanent Local Housing Allocation) consider housing
+element compliance and/or annual reporting requirements pursuant to Government
+Code section 65400. With a compliant housing element, the City meets housing
+element requirements for these and other funding sources.
+
+HCD appreciates the cooperation Rachel Cohen and Tyler Corey provided during the
+course of our review. We are committed to assisting the City in addressing all statutory
+requirements of State Housing Element Law. If you have any questions or need
+additional technical assistance, please contact Shawn Danino, of our staff, at
+shawn.danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Megan Kirkeby
+Deputy Director
+
+Enclosure
+                                         APPENDIX
+                                  CITY OF SAN LUIS OBISPO
+
+The following changes would bring the City’s housing element into compliance with Article 10.6 of
+the Government Code. Accompanying each recommended change, we cite the supporting
+section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+          The element relies upon American Community Survey data to evaluate the condition of
+          the housing stock (page A-15 thru A-16). However, the element must include analysis of
+          the condition of the existing housing stock based upon a local estimate. For example,
+          the analysis could include estimates from a recent windshield survey or sampling,
+          estimates from the code enforcement agency, or information from knowledgeable
+          builders/developers, including non-profit housing developers or organizations. Further,
+          the analysis could collect information on unit type (single family, multifamily,
+          mobilehomes) to better guide policies and programs. For additional information, see the
+          Building Blocks at http://www.hcd.ca.gov/community-development/building-
+          blocks/housing-needs/housing-stock-characteristics.shtml.
+
+      2. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          The City has a regional housing need allocation (RHNA) of 3,354 housing units, of
+          which 1,345 are for lower-income households. To address this need, the element relies
+          on permitted and entitled projects, accessory dwelling units (ADUs), vacant and
+          nonvacant sites, sites with existing historic structures, and specific plan areas. To
+          demonstrate the adequacy of these sites and strategies to accommodate the City’s
+          RHNA, the element must include complete analyses, as follows:
+
+          Progress in Meeting the RHNA: The element indicates (page D-9) that 47 units
+          affordable to very low-income households, 49 units affordable to low-income
+          household, and 27 units affordable to moderate-income households have been built,
+          permitted or entitled. The element must also demonstrate affordability based on actual
+         or anticipated sales price or rent level of the units or other mechanisms ensuring
+         assumed affordability levels (e.g., financing, inclusionary requirements). Given the
+         City’s growth management and phasing requirements, the element must also
+         demonstrate their availability in the planning period. For additional information, see the
+         Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/housing-needs/projected-housing-needs.shtml.
+
+         Sites Inventory: The element appears to describe sites outside city limits. If utilizing
+         sites outside city limits toward the regional housing need allocation, the element must:
+
+         (1) identify and analyze the sites pursuant to statutory requirements,
+         (2) demonstrate suitability and availability for development in the planning period
+             including a schedule of anticipated milestones for annexation and accounting for
+             any phasing requirements, and
+         (3) add policies and programs with a schedule of actions to make the sites available for
+             development in the planning period, including alternative measures with specified
+             completion dates if the sites are not made available with zoning early in the
+             planning period.
+         Previously Identified Nonvacant and Vacant Sites: If nonvacant sites were identified in
+         a prior adopted housing element or vacant sites were identified in two or more
+         consecutive planning periods, the sites are inadequate to accommodate housing for
+         lower-income households unless:
+
+             •   The site’s current zoning is appropriate for the development of housing
+                 affordable to lower-income households by either including analysis or meeting
+                 the appropriate density. See Government Code section 65583.2, subdivision
+                 (c)(3), and
+
+             •   The site is subject to a housing element program that requires rezoning within
+                 three years of the beginning of the planning period to allow residential use by
+                 right for housing developments in which at least 20 percent of the units are
+                 affordable to lower-income households (Gov. Code, § 65583.2, subd. (c).).
+
+         The element should identify which sites, if any, have been identified in multiple
+         planning period and include the applicable program.
+
+         Suitability of Non-Vacant Sites: The element must describe the methodology used to
+         determine the additional development potential within the planning period. The
+         methodology must consider factors including the extent to which existing uses may
+         impede additional residential development, development trends, market conditions,
+         and regulatory or other incentives or standards to encourage additional residential
+         development on these sites. (Gov. Code, § 65583.2, subd. (g).) For sites with
+         residential uses, the inventory could also describe structural conditions or other
+         circumstances and trends demonstrating the redevelopment potential to more intense
+         residential uses. For nonresidential sites, the inventory could also describe whether the
+         use is operating, marginal or discontinued, and the condition of the structure or could
+
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                              2
+September 3, 2020
+         describe any expressed interest in redevelopment. The site inventory identifies multiple
+         sites that include “contributing historic structures” or “historic structures”. The element
+         should analyze the effect of historic structures on the ability to redevelop sites. For
+         example, the element should describe additional restrictions, costs, and processes
+         affiliated with redevelopment on these sites. Also, the element utilizes various factors
+         to indicate potential for redevelopment but must also support these assumptions with
+         analysis and development trends. For example, the element appears to assume
+         existing lot coverages to indicate potential for redevelopment but should also support
+         these assumptions with analysis and development trends. For additional information
+         and sample analysis, see the Building Blocks at: http://www.hcd.ca.gov/community-
+         development/building-blocks/site-inventory-analysis/analysis-of-sites-and-
+         zoning.shtml#analysis.
+
+         Specific Plans: The housing element relies upon sites within specific plan areas to
+         accommodate the City’s regional housing need for lower-income households. The
+         element should analyze the specific plan areas for their suitability and availability for
+         development in the planning period. The analysis must at least describe each overall
+         plan, impacts of phasing on availability for development in the planning, the timing for
+         overall buildout, and any affordability requirements.
+
+         Emergency Shelters: The element describes the Public Facilities zone as accommodating
+         emergency shelters without discretionary action. However, the element must analyze the
+         zone for its capacity (acreage, average lot size, vacant, non-vacant) and suitability
+         (proximity to transit and services and other uses allowed in the zone) to accommodate
+         emergency shelters. For more information, see the Building Blocks at
+         http://www.hcd.ca.gov/community-development/building-blocks/site-inventory-
+         analysis/zoning-for-variety-housing-types.shtml and HCD’s SB 2 memo at
+         http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+         memos/docs/sb2_memo050708.pdf.
+
+      3. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis shall
+         also demonstrate local efforts to remove governmental constraints that hinder the
+         locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7). Transitional housing and supportive housing shall
+         be considered a residential use of property and shall be subject only to those
+         restrictions that apply to other residential dwellings of the same type in the same zone.
+         (Gov. Code, § 65583, subd. (a)(5).)
+
+
+
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                            3
+September 3, 2020
+         Fees and Exaction: The element must describe all required fees for single family and
+         multifamily housing development, including impact fees, and analyze their impact as
+         potential constraints on housing supply and affordability. For example, the analysis
+         could identify the total amount of fees and their proportion to the development costs for
+         both single family and multifamily housing. For additional information and a sample
+         analysis and tables, see the Building Blocks at http://www.hcd.ca.gov/community-
+         development/building-blocks/constraints/fees-and-exactions.shtml.
+
+         Architectural Review: The element must describe and analyze the architectural review
+         process, including approval procedures and decision-making criteria, for their impact
+         as potential constraints on housing supply and affordability. The element describes
+         three levels of review. The element should analyze each level separately for its impacts
+         on housing development. For example, the analysis could describe required findings
+         and discuss whether objective standards and guidelines improve development
+         certainty and mitigate cost impacts. The element must demonstrate this process is not
+         a constraint or it must include a program to address this permitting requirement, as
+         appropriate. Also, any subjective design standards are suspended pursuant to
+         Government Code section 66300 (see below). For additional information and sample
+         analysis, see the Building Blocks at http://www.hcd.ca.gov/community-
+         development/building-blocks/constraints/processing-permitting-procedures.shtml.
+
+         Growth Caps: The element notes “the City’s housing supply shall grow no faster than
+         one percent per year.” The Housing Crisis Act of 2019 (SB 330, 2019) was signed by
+         Governor Newsom on October 9, 2019 and became effective on January 1, 2020. The
+         Housing Crisis Act (Gov. Code, § 66300) generally prohibits a locality from enacting a
+         development policy, standard or condition that reduces intensity, imposes moratoriums,
+         enforces subjective design standards or implements any provision that limits approvals
+         or caps population. These provisions remain in effect until January 1, 2025.
+         Specifically, Government Code section 66300, subdivision (b)(1)(D), with limited
+         exception not applicable here, does not allow affected jurisdictions to adopt new or
+         enforce existing limits on the number of land-use approvals or permits. The City should
+         evaluate consistency with these requirements and if necessary, immediately void or
+         suspend the annual growth cap.
+
+      4. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+
+         The element notes only 1.1 percent of the labor force in agriculture and other industries
+         and therefore the housing needs of farmworkers are not critical. However, the element
+         also notes close to 10,000 farmworkers in the County and appears to constrain
+         housing for farmworkers through local preference policies (Policy 10.2). As a result, the
+         element should acknowledge this significant need and include specific policies and
+         programs.
+
+
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                          4
+September 3, 2020
+B.   Housing Programs
+
+     1.   Identify actions that will be taken to make sites available during the planning period with
+          appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need for
+          each income level that could not be accommodated on sites identified in the inventory
+          completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply with
+          the requirements of Government Code section 65584.09. Sites shall be identified as
+          needed to facilitate and encourage the development of a variety of types of housing for all
+          income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+          housing for agricultural employees, supportive housing, single-room occupancy units,
+          emergency shelters, and transitional housing.
+          (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding A-2, the element does not include a complete site analysis,
+          therefore, the adequacy of sites and zoning were not established. Based on the results
+          of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types. In addition, the element should be revised as follows:
+
+          Replacement Housing Requirements: The housing element must include a program to
+          provide replacement housing. Non-vacant sites identified in the sites inventory with
+          existing, vacated, or demolished residential uses and occupied by, or subject to an
+          affordability requirement for, lower-income households within the last five years,
+          require a replacement housing program for units affordable to lower-income
+          households (Gov. Code, § 65583.2, subd. (g)(3)). Absent a replacement housing
+          program, these sites are not adequate sites to accommodate lower-income
+          households. The replacement housing program must adhere to the same requirements
+          as set forth in Government Code section 65915, subdivision (c)(3).
+
+          Sites Identified in Multiple Planning Periods: The element must include a program for
+          vacant sites identified in two of more consecutive planning periods’ housing elements
+          or non-vacant sites identified in a prior housing element, that are currently identified to
+          accommodate housing for lower-income households. The program must be
+          implemented within the first three years of the planning period and commit to zone for
+          the following:
+              • sites must meet the density requirements for housing for lower income
+                  households, and
+              • allow by-right approval for housing developments that include 20 percent or
+                  more of its units affordable to lower income households (Gov. Code, § 65583.2,
+                  subd. (c).).
+
+          Program 4.5: The City’s strategy to accommodate lower-income RHNA relies heavily
+          on mixed-use sites. Program 4.5 should be revised to quantify the number of mixed-
+          use projects the City hopes to incentivize through program actions and expedite project
+          reviews.
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                              5
+September 3, 2020
+         Program 8.18 (zoning for a variety of housing types): The program proposes to amend
+         zoning “if necessary” to facilitate a variety of housing types. However, based on
+         analysis in the element, these zoning amendments are necessary, and the conditional
+         language should be removed from the program.
+
+    2.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Finding A-3 the element requires a complete analysis of potential
+         governmental constraints. Depending upon the results of that analysis, the City may
+         need to revise or add programs and address and remove or mitigate any identified
+         constraints. In addition:
+
+         Program 2.6: Program 2.6 commits to reviewing policies and standards annually to
+         identify potential constraints to the development and preservation of affordable
+         housing. The program should be revised to include a commitment for mitigation and/or
+         removal of identified constraints within a specific timeframe when constraints are
+         identified.
+
+         Program 6.13: Program 6.13 commits the City to general plan amendments and
+         rezoning as projects are proposed on 12 specific sites. However, the program limits
+         actions to accommodate only two rezones per year. Limiting the number of rezones
+         and placing the burden on applicants is a constraint that must be addressed. The
+         program must be revised to eliminate any annual caps on rezoning and should not
+         rezone only when a project is proposed.
+
+         Program 8.23: Program 8.23 should be revised to clarify compliance with the Employee
+         Housing Act, Health and Safety Code sections 17021.5 and 17021.6. For example,
+         local zoning should allow single family uses for six or fewer employees in all zones
+         allowing single family uses, not limited to zones allowing High Occupancy Residential
+         Uses.
+
+         Policy 10.2: Policy 10.2 indicates the City’s interest in giving preference to individuals
+         employed in the geographic area, individuals residing in the County, and lastly,
+         individuals from outside of the County. This policy potentially erects barriers and
+         prevents access to housing opportunities, particularly to individuals from outside of the
+         City, and should be removed.
+
+         Program 10.4: Program 10.4 commits the City to work with developers to include
+         restrictions in Covenant Codes and Restriction’s requiring for-sale properties to be
+         restricted to owner-occupants for the first 5 years after sale. Given the shortage of
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                              6
+September 3, 2020
+         housing for students and other special-needs groups. The element should include
+         analysis describing why the actions are needed. In addition, the program should
+         commit to monitoring its impacts as a constraint on the availability of housing in the
+         City. If a constraint is identified, the program should also commit to mitigating the
+         constraint by a specific date.
+
+    3.   The housing element shall include programs to conserve and improve the condition of
+         the existing affordable housing stock. (Gov. Code, § 65583, subd. (c)(4).)
+
+         As noted in Finding A-1 the element requires a complete analysis of housing
+         conditions. Depending upon the results of that analysis, the City may need to revise or
+         add programs to address identified needs. In addition:
+
+         Program 1.5: Program 1.5 commits to improving “at least one” unsafe, unsanitary or
+         illegal housing condition, barrier to accessibility, energy efficiency, or unsafe
+         neighborhood annually. Given the severity of need in the City, the program should be
+         revised to commit greater assistance to households and could target some of its
+         funding toward lower-income households.
+
+         Program 1.6: Program 1.6 commits to code enforcement actions to expedite the
+         removal of illegal or unsafe dwellings, to eliminate hazardous site or property
+         conditions, and to resolve chronic building safety problem. The program should be
+         revised to include enforcement officers provide a list of potential resources to
+         homeowners when violations are cited.
+
+      4. Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race,
+         religion, sex, marital status, ancestry, national origin, color, familial status, or
+         disability, and other characteristics protected by the California Fair Employment and
+         Housing Act (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2),
+         Section 65008, and any other state and federal fair housing and planning law. (Gov.
+         Code, § 65583, subd. (c)(5).)
+
+         Reasonable Accommodation: The element describes the City currently has a
+         procedure for requesting and granting a reasonable accommodation to zoning and land
+         use requirements for persons with disabilities. To affirmatively further fair housing, the
+         element could include a program to provide outreach and education on the availability
+         of the reasonable accommodation procedure. For additional information, see the
+         Building Blocks at http://www.hcd.ca.gov/community-development/building-
+         blocks/constraints/constraints-for-people-with-disabilities.shtml .
+
+
+
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                             7
+September 3, 2020
+         Fair Housing: The element must demonstrate how fair housing complaints are resolved
+         and how fair housing information is disseminated in a variety of locations throughout
+         the City or include a program to do so. For example, the program could:
+
+             •   Contract with the Fair Housing Council to provide fair housing services to its
+                 residents and property owners
+             •   Distribute educational materials to property owners, apartment managers, and
+                 tenants every two years;
+             •   Make public service announcements through different media (e.g., newspaper
+                 ads and public service announcements at local radio and television channels) at
+                 least two times a year; and
+             •   Conduct public presentations with different community groups.
+
+         For additional information and a sample program, see the Building Blocks at
+         http://www.hcd.ca.gov/community-development/building-blocks/program-
+         requirements/equal-housing-opportunity.shtml .
+
+         Affirmatively Further Fair Housing: The element must include actions that promote and
+         affirmatively furthering fair housing opportunities. For example, the element could
+         include a program committing to implement Government Code section 8899.50(b)
+         which requires the City to administer its programs and activities relating to housing and
+         community development in a manner to affirmatively further fair housing and take no
+         action that is materially inconsistent with its obligation to affirmatively further fair
+         housing (Gov. Code, § 65583, subd. (c)(5).)
+
+         For your information pursuant to Government Code section 8899.50 “Affirmatively
+         furthering fair housing” means taking meaningful actions, in addition to combating
+         discrimination, that overcome patterns of segregation and foster inclusive communities
+         free from barriers that restrict access to opportunity based on protected characteristics.
+         Specifically, affirmatively furthering fair housing means taking meaningful actions that,
+         taken together, address significant disparities in housing needs and in access to
+         opportunity, replacing segregated living patterns with truly integrated and balanced living
+         patterns, transforming racially and ethnically concentrated areas of poverty into areas of
+         opportunity, and fostering and maintaining compliance with civil rights and fair housing
+         laws. The duty to affirmatively further fair housing extends to all public agency’s activities
+         and programs relating to housing and community development.”
+
+
+
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                             8
+September 3, 2020
+C.   Quantified Objectives
+
+     Establish the number of housing units, by income level, that can be constructed,
+     rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)
+     (1 & 2).)
+
+     The element must include quantified objectives to establish an estimate of housing units by
+     income category that can be constructed, rehabilitated, and conserved over the planning
+     period. While the element includes objectives for new construction and units at-risk of
+     conversion to market rate uses, it must also include rehabilitation objectives and additional
+     conservation objectives (e.g. rental inspections, mobilehomes, replacement requirements).
+
+D.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all economic
+     segments of the community in the development of the housing element, and the element
+     shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+     While the element includes a general summary of the public participation process
+     (Appendix G), it must also demonstrate diligent efforts were made to involve all economic
+     segments of the community in the development of the housing element. The element
+     includes a list of stakeholders that were invited to participate in the housing element update.
+     However, the list did not demonstrate diligent effort to reach out to all economic segments of
+     the community. While the City engaged many organizations, it should also include groups
+     representing special-needs populations and consider and respond to comments received by
+     HCD. During the period between the date of this review letter and the adoption of the final
+     housing element, the City should continue its diligent public participation efforts to include all
+     economic segments of the community. The element should be updated to describe
+     additional efforts to circulate the revised housing element among low- and moderate-income
+     households and organizations that represent them and consider and respond to comments
+     received by HCD. In addition, the element should also summarize additional public
+     comments and describe how they were considered and incorporated into the element. For
+     additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+     development/building-blocks/getting-started/public-participation.shtml.
+
+
+
+
+City of San Luis Obispo’s 6th Cycle (2020-2028) Draft Housing Element                               9
+September 3, 2020

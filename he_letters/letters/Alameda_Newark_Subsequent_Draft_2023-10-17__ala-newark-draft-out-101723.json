@@ -1,0 +1,14 @@
+{
+  "county": "Alameda",
+  "jurisdiction": "Newark",
+  "type": "Subsequent Draft",
+  "cycle": "",
+  "reviewed": "2023-10-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ala-newark-draft-out-101723.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ala-newark-draft-out-101723.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 167168,
+  "text_chars": 15619,
+  "text_empty": false
+}

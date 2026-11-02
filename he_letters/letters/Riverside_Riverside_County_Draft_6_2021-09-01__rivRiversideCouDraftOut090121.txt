@@ -1,0 +1,581 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         September 1, 2021
+
+
+
+         John Hildebrand, Director
+         Planning Department
+         County of Riverside
+         4080 Lemon Street, 12th Floor
+         Riverside, CA 92502-1629
+
+         Dear John Hildebrand:
+
+         RE: Review of Riverside County’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the County of Riverside’s (County) draft housing element received
+         for review on July 8, 2021. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting the
+         results of its review. Our review was facilitated by a conversation on August 11, 2021, with
+         you; Robert Flores, Principal Planner; Michael Zornes, Administrative Services Manager;
+         Paul Swancott, Contract Planner; and consultants Peter Minegar and Cynthia Walsh. In
+         addition, HCD considered comments from the Leadership Council of Justice and
+         Accountability, Public Interest Law Project, California Rural Legal Assistance, California
+         Institute for Rural Studies, Consejo de Federaciones Mexicanas, and Pueble Unido CDC
+         pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes revisions needed to comply with State Housing
+         Element Law.
+
+         To remain on an eight-year planning cycle, the County must adopt its housing element
+         within 120 calendar days from the statutory due date of October 15, 2021 for Southern
+         California Association of Governments (SCAG) localities. If adopted after this date,
+         Government Code section 65588, subdivision (e)(4), requires the housing element be
+         revised every four years until adopting at least two consecutive revisions by the
+         statutory deadline. For more information on housing element adoption requirements,
+         please visit HCD’s website at: http://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos/docs/sb375_final100413.pdf.
+
+         Pursuant to Government Code section 65583.3, subdivision (b), the County must utilize
+         standards, forms, and definitions adopted by HCD when preparing the sites inventory.
+John Hildebrand, Director
+Page 2
+
+
+
+Please see HCD’s housing element webpage at https://www.hcd.gov/community-
+development/housing-element/index.shtml#element for a copy of the form and
+instructions. The County can reach out to HCD at sitesinventory@hcd.ca.gov for
+technical assistance. Please note, upon adoption of the housing element, the County
+must submit an electronic version of the sites inventory with its adopted housing
+element to sitesinventory@hcd.ca.gov.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria.For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the County will meet housing element requirements for these and other
+funding sources.
+
+HCD appreciates the diligent efforts the housing element update team, particularly
+Robert Flores, provided during our review. We are committed to assisting the County in
+addressing all statutory requirements of State Housing Element Law. If you have any
+questions or need additional technical assistance, please contact Jamillah Williams, of
+our staff, at Jamillah.Williams@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+
+Enclosure
+                                      APPENDIX
+                                  COUNTY OF RIVERSIDE
+
+The following changes are necessary to bring the County’s housing element into compliance
+with Article 10.6 of the Government Code. Accompanying each recommended change, we cite
+the supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s latest
+technical assistance tool, Building Blocks for Effective Housing Elements (Building Blocks),
+available at http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and
+includes the Government Code addressing State Housing Element Law and other resources.
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing (AFFH) in accordance with Chapter 15
+         (commencing with Section 8899.50) of Division 1 of Title 2…shall include an
+         assessment of fair housing in the jurisdiction. (Gov. Code, § 65583, subd.
+         (c)(10)(A).)
+
+          Concentrated Areas of Poverty and Affluence: The element includes information
+          relative to Racially and Ethnically Concentrated Areas of Poverty (R/ECAP) but
+          should evaluate the characteristics of these areas, changes over time, comparisons
+          to other neighborhoods in terms of equitable quality of life and consider other
+          relevant factors, such as public participation, past policies, practices, and
+          investments and demographic trends. In addition, while the element states there are
+          no racially concentrated areas of affluence, it should at least evaluate concentrated
+          areas of affluence utilizing data, patterns, and trends for household incomes. The
+          combination in the R/ECAP and areas of affluence analyses will help guide goals
+          and actions to address fair housing issues. The analysis should also evaluate
+          changes over time and consider other relevant factors, such as public participation,
+          past policies, practices, and investments and demographic trends.
+
+          Access to Opportunity: The element includes information on the various components
+          of access to opportunity but should also analyze the information by (1) describing
+          any disparities in access to opportunity; and (2) discussing policies, practices, and
+          investments that impact access to environmentally healthy neighborhoods.
+
+          Disproportionate Housing Needs, including Displacement: The element does
+          include data and descriptions of substandard housing conditions, and cost
+          burdened households, but must also address local and regional patterns and
+          trends for overcrowded households, homelessness, and displacement.
+
+          Additionally, the element states that about 55 percent of the housing in the
+          unincorporated County are greater than 30 years old and in need of rehabilitation.
+          Local stakeholders also emphasized the poor housing conditions of farmworkers.
+          The element should include additional analysis of these issues in the element such
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                     Page 1
+September 1, 2021
+         as patterns and the severity of conditions and add or modify actions as appropriate
+         based on a complete analysis.
+
+         Local Data and Knowledge, and Other Relevant Factors: The element must include
+         local data, knowledge, and other relevant factors to discuss and analyze any unique
+         attributes about the County related to fair housing issues. The element should
+         complement federal, state, and regional data with local data and knowledge where
+         appropriate to capture emerging trends and issues, including utilizing knowledge
+         from local and regional advocates and service providers. While the element does
+         include some of this information, given the volume of comments on AFFH, the
+         element should include additional consideration from commenters on the housing
+         element. Also, the element must include other relevant factors that contribute to fair
+         housing issues in the jurisdiction. For instance, the element can analyze historical,
+         present and anticipated land use and investment practices or other information and
+         demographic trends. For example, the element describes the County’s 300 or so
+         specific plans and could discuss how those specific plans play a role in AFFH.
+
+         Site Inventory: The element includes a map of the site inventory and states that the
+         proposed sites to meet lower-income regional housing needs allocation (RHNA) are
+         geographically distributed which results in these sites AFFH (pp. 89-90, 122).
+         However, the accompanying analysis should also be reflective of housing
+         development at all income levels and evaluate the sites relative to all components of
+         the assessment of fair housing (e.g., segregation and integration, racially and
+         ethnically concentrated areas of poverty). The site inventory analysis should address
+         how the sites are identified to improve conditions (or if sites exacerbate conditions,
+         how a program can mitigate the impact), whether the sites are isolated by income
+         group and should be supported by local data and knowledge.
+
+         Contributing Factors: The element identifies many contributing factors to fair housing
+         issues. In addition, the element should consider prioritizing these factors to better
+         formulate policies and programs and carry out meaningful actions to AFFH.
+
+         Goals, Priorities, Metrics, and Milestones: The element must be revised to add or
+         modify goals and actions based on the outcomes of a complete analysis. Goals and
+         actions must specifically respond to the analysis and to the identified and prioritized
+         contributing factors to fair housing issues and must be significant and meaningful
+         enough to overcome identified patterns and trends. Actions must have metrics and
+         milestones as appropriate and must address housing mobility enhancement, new
+         housing choices and affordability in high opportunity areas, place-based strategies
+         for community preservation and revitalization and displacement protection.
+
+      2. Include an analysis and documentation of household characteristics, including level
+         of payment compared to ability to pay, housing characteristics, including
+         overcrowding, and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+         Housing Conditions: The element identifies the age of the housing stock (p. 59).
+         However, it must include analysis of the condition of the existing housing stock and
+         estimate the number of units in need of rehabilitation and replacement. For example,
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                      Page 2
+September 1, 2021
+         the analysis could include estimates from a recent windshield survey or sampling,
+         estimates from the code enforcement agency, or information from knowledgeable
+         organizations. This analysis should consider differences between eastern and
+         western County.
+
+         In addition, the element notes that a strong proportion of the housing stock in
+         eastern County is manufactured homes and mobilehomes and that this structure
+         type ages more rapidly than other structure types. The element should include more
+         discussion and analysis on these housing conditions to better formulate policies and
+         programs. For example, the element could discuss characteristics of conditions,
+         including infrastructure, whether located in mobilehome parks or other situations,
+         intersections with AFFH, past effectiveness of programs in addressing needs,
+         available resources such as the Mobilehome Park Rehabilitation and Resident
+         Ownership Program (MPRROP), an assessment of any gaps in resources, and
+         proposed policies, programs, and funding to help address those gaps.
+
+         Vacancy Rates: The element identifies a vacancy rate of approximately 42 percent
+         in eastern County and 9 percent in western County. The vacancy rate in eastern
+         County appears to be associated with seasonal, recreation and occasional use for
+         migrant workers or other vacancy situations. A vacancy rate of 42 percent is atypical
+         even in areas with significant seasonal influences. The element should include
+         analysis of this vacancy rate and add or modify policies and programs as
+         appropriate.
+
+      3. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated
+         income level, and an analysis of the relationship of zoning and public facilities and
+         services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         Specific Plans and Progress toward the RHNA: The County’s RHNA may be reduced
+         by the number of new units approved, permitted and built since July 1, 2021; however,
+         the element must demonstrate affordability based on actual or anticipated sales
+         prices, rents or other mechanisms ensuring affordability (e.g., deed restrictions). The
+         element must also demonstrate the availability of the units in the planning period.
+         Specifically, the element should address the following:
+
+             •   Availability of Specific Plans: While many of the listed projects and specific
+                 plans can reasonably be built in the planning period, based on HCD and
+                 County communications, some specific plans have an anticipated horizon
+                 longer than the 8-year planning period. As a result, the element should
+                 include discussion and adjustments to the anticipated number of units.
+             •   Specific Plans and Affordability: The element notes, except for Valante and
+                 Travertine Point Specific Plans, the affordability of specific plans is based on
+                 zoning and general plan densities. If utilizing zoning and general plan
+                 densities as a proxy for affordability, the element should list parcels by
+                 various statutory requirements such as parcel number, acreage, zone and
+                 general plan designation. If these specific plans have not been parceled
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                       Page 3
+September 1, 2021
+                 according to the approved land uses, then the element should include
+                 additional information such as describing acreages and planned uses by sub-
+                 areas to demonstrate the suitability of sites. If utilizing these specific plans as
+                 projects, the element should demonstrate affordability based on actual or
+                 anticipated sales prices, rents or other mechanisms ensuring affordability.
+             •   Valente and Travertine Specific Plans: Based on the HCD and County
+                 conversation, the affordability levels of Valente is ensured through approvals.
+                 As a result, the element should clarify the mechanisms ensuring affordability.
+                 Affordability for Travertine has not yet been determined, so the element
+                 should either (1) include additional information or policies to demonstrate
+                 current affordability assumptions, (2) rescale affordability assumptions to be
+                 conservative, or (3) count the affordability based on approved densities and
+                 list sites according to statutory requirements.
+
+         Parcel Listing: While the element lists sites by parcel number or unique reference,
+         parcel size, zoning, general plan designation, existing use and realistic capacity, it
+         must also list the anticipated affordability level on each parcel.
+
+         Realistic Capacity: While the element assumes 75 percent of maximum allowable
+         densities to calculate residential capacity, the element should include additional and
+         clear supporting information on typical densities of existing or approved residential
+         developments at a similar affordability level. For example, the element could clearly
+         list other recent projects, the zone, acreage, built density, allowable density, level of
+         affordability and presence of exceptions such as a density bonus.
+
+         Infrastructure Capacity: The element must demonstrate sufficient existing or planned
+         water, sewer, and other dry utilities’ supply capacity to accommodate the County’s
+         regional housing need. (Gov. Code, § 65583.2, subd. (b).) While the element
+         includes a summary table of infrastructure capacity by district and planned capacity,
+         that table must still be completed (Table P-53). In addition, the parcel listing (starting
+         on page P-98) identifies the water provider per site but should also identify the sewer
+         provider. Based on the outcomes of a complete analysis, the element should add or
+         modify programs as appropriate.
+
+         Suitability of Nonvacant Sites: While the element identifies minimal capacity for the
+         lower-income RHNA on nonvacant sites (2.1%), it must still demonstrate the
+         potential for additional development and evaluate the extent to which existing uses
+         may impede additional residential development. Specifically, several sites indicate
+         large portions of the site as vacant, used for parking or can be consolidated with
+         other sites to form a larger and more valuable project. Another site has an existing
+         use as a duplex with only a capacity for nine units. In all cases, the element must
+         include additional description of the existing uses to demonstrate whether the uses
+         impede additional development. The element should address past experience with
+         converting similar existing uses to higher density residential development, the
+         current market demand for the existing use, an analysis of any existing leases or
+         other contracts that would perpetuate the existing use or prevent redevelopment of
+         the site for additional residential development, development trends, market
+         conditions, and regulatory or other incentives or standards.
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                         Page 4
+September 1, 2021
+         Replacement Requirements: The element identifies sites with existing residential
+         uses. Absent a replacement housing policy, these sites are not adequate sites to
+         accommodate lower-income households. The replacement housing policy should
+         comply with same requirements as set forth in Government Code section 65915,
+         subdivision (c)(3).
+
+         In addition, the inventory identifies mobilehome parks (pp. P-115 and P-120) with
+         potential for redevelopment in the planning period and should include specific
+         discussion and programs given the importance of this housing type in addressing a
+         variety of housing needs. For example, the element should discuss if the
+         mobilehome parks are likely to be redeveloped or units are being added to the
+         existing sites and should include specific programs for replacement. Further, the
+         element should consider impacts on residents, consistency with County program
+         goals, Government Code section 66427.5 and provisions related to AB 2782
+         (Chapter 35, Statutes of 2020). AB 2782 requires, among other things, noticing to
+         homeowners prior to local approval of change in use and a replacement and
+         relocation plan and steps to mitigate impacts on displaced residents.
+
+         Sites with Zoning for a Variety of Housing Types:
+
+                •   Emergency Shelters: Zoning may impose development standards on
+                    emergency shelters including sufficient parking to accommodate all staff
+                    working in the emergency shelter, provided that the standards do not
+                    require more parking for emergency shelters than other residential or
+                    commercial uses within the same zone. The County’s parking standards
+                    require one space per six beds in addition to staff parking and as a result,
+                    appear inconsistent with statutory requirements. The element should add
+                    or modify programs as appropriate.
+                •   Supportive Housing: Government Code section 65651 requires
+                    jurisdictions to allow supportive housing by right in zones allowing
+                    multifamily housing, including mixed-use and nonresidential zones when
+                    the development meets certain requirements. The element should
+                    describe compliance with these requirements or add or modify programs
+                    as appropriate.
+
+         Accessory Dwelling Units (ADU): ADUs may be counted toward the RHNA based on
+         past permitted units and other factors. In the element, the County projects 1,328
+         ADUs to be constructed over the planning period, averaging 166 units per year. This
+         projection was based on doubling the average of ADUs permitted in 2018 and 2019
+         (83 ADUs). However, HCD’s records indicate 23, 93 and 33 ADUs for 2018, 2019,
+         and 2020, respectively. The element should reconcile these figures and adjust
+         assumptions as appropriate. In addition, while HCD appreciates the County’s efforts
+         to promote ADUs, these efforts do not support a doubling of permitted units,
+         especially a magnitude over 150 ADUs per year, and assumptions should be
+         adjusted accordingly.
+
+
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                      Page 5
+September 1, 2021
+         Manufactured Homes: The element may utilize the potential for manufactured housing
+         toward the RHNA based on permitted trends, anticipated affordability, and other
+         relevant factors. The element assumes an average of 233 mobile/manufactured
+         homes based on 2018 and 2019 records. However, given the magnitude of these
+         assumptions, the element should include additional records of permitted units back to
+         the beginning of the planning period (2013) and other evidence as appropriate. The
+         element further assumes approximately 60 percent of these units will be affordable to
+         lower-income households. The element must include additional analysis to
+         demonstrate the appropriate affordability. In addition to accounting for sales prices,
+         the analysis should also address costs related to land (residential), entitlement,
+         transportation, foundation, installation, utilities, financing, and other costs. Based on
+         the outcomes of a complete analysis, the element should adjust affordability
+         assumptions.
+
+      4. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures… (Gov. Code, §
+         65583, subd. (a)(5).)
+
+         Processing and Permit Procedures: While the element includes information about
+         processing times, it should also describe the procedures for a typical single family
+         and multifamily development. The analysis should address the approval body, the
+         number of public hearing if any, approval findings and any other relevant
+         information. The analysis should address impacts on housing cost, supply, timing,
+         and approval certainty. For example, the element should identify and analyze
+         approval findings for impacts on approval certainty, the presence of processes or
+         guidelines to promote certainty and add or modify programs as appropriate.
+
+      5. Analyze any special housing needs such as elderly; persons with disabilities,
+         including a developmental disability; large families; farmworkers; families with female
+         heads of households; and families and persons in need of emergency shelter. (Gov.
+         Code, § 65583, subd. (a)(7).)
+
+         Special Needs Populations: While the element quantifies and analyzes special
+         needs populations, it should consider distinguishing between eastern and western
+         County for large households and female headed households. In addition, given the
+         housing needs of farmworkers in the eastern Coachella Valley, the element should
+         expand the discussion and analysis of housing needs of farmworkers. For example,
+         the element could contain more information and evaluation from the 2007 Coachella
+         Valley Farm Worker Survey, effectiveness of past programs, lessons learned and
+         potential for future solutions. HCD will send additional resources under separate
+         cover.
+
+B.   Housing Programs
+
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                       Page 6
+September 1, 2021
+    1.    Include a program which sets forth a schedule of actions during the planning period,
+          each with a timeline for implementation, which may recognize that certain programs
+          are ongoing, such that there will be beneficial impacts of the programs within the
+          planning period, that the local government is undertaking or intends to undertake to
+          implement the policies and achieve the goals and objectives of the housing element
+          through the administration of land use and development controls, the provision of
+          regulatory concessions and incentives, and the utilization of appropriate federal and
+          state financing and subsidy programs when available. The program shall include an
+          identification of the agencies and officials responsible for the implementation of the
+          various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To have a beneficial impact in the planning period and address the goals of the
+          housing element, programs must be revised with discrete timelines, specific
+          commitment and lessons learned from the prior planning period. For example,
+          programs needing revisions with discrete timelines include but are not limited to
+          H20 (Persons with Disabilities) and H28 (Homeless Collaboration). Programs
+          needing revisions with specific commitment or based on lessons learned from the
+          prior planning period include but are not limited to H13 (Code Enforcement) which
+          should explicitly link rehabilitation financing and other resources to mitigate
+          displacement.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities
+          to accommodate that portion of the city’s or county’s share of the regional housing
+          need for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning,
+          and to comply with the requirements of Government Code section 65584.09. Sites
+          shall be identified as needed to facilitate and encourage the development of a
+          variety of types of housing for all income levels, including multifamily rental housing,
+          factory-built housing, mobilehomes, housing for agricultural employees, supportive
+          housing, single-room occupancy units, emergency shelters, and transitional housing.
+          (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding A3, the element does not include a complete site analysis;
+          therefore, the adequacy of sites and zoning were not established. Based on the
+          results of a complete sites inventory and analysis, the County may need to add or
+          revise programs to address a shortfall of sites or zoning available to encourage a
+          variety of housing types. In addition, the element should be revised as follows:
+
+             •   Program H-2 (Infrastructure Availability and Coordination): The program
+                 should be modified based on the outcomes of a complete analysis and
+                 lessons learned from the prior planning period. In addition, program actions
+                 should go beyond discussing plans for expansion and could consider actions
+                 such as pursuing improvements with a schedule of steps.
+             •   Program H-3 (Large Lot Development): For Program 1.2e in the prior
+                 planning period, the element describes large lot developments but based on
+                 the conversation between HCD and the County, the program did not appear
+                 to be well utilized to facilitate developments at appropriate sizes to encourage
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                       Page 7
+September 1, 2021
+                 housing for lower-income households. As a result, Program H-3 should be
+                 adjusted in some manner to address the lack of effectiveness in the prior
+                 planning period and the unique circumstances of identified sites. For
+                 example, the program could reach out to developers of affordable housing
+                 and incorporate necessary strategies such as ministerial lot splits or other
+                 incentives.
+             •   Replacement Housing Requirements: The housing element must include a
+                 program to provide replacement housing (Gov. Code, § 65583.2, subd.
+                 (g)(3)). The replacement housing program must adhere to the same
+                 requirements as set forth in Government Code section 65915, subdivision
+                 (c)(3).
+
+    3.   The housing element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and
+         moderate-income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+         Program H-18 (Farmworker Assistance) should be modified as appropriate based on
+         the outcomes of the complete analysis noted under Finding A5. In addition, the
+         program should be modified as appropriate based on the lessons learned from past
+         actions and should include steps to address needs upon completion of the survey.
+
+    4.   Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Finding A4, the element requires a complete analysis of potential
+         governmental constraints. Depending upon the results of that analysis, the County
+         may need to revise or add programs and address and remove or mitigate any
+         identified constraints. In addition, Program H-7 (Land Use Amendments) should go
+         beyond processing amendments and make a clear commitment to amend zoning.
+         Further, provisions for reasonable accommodation should make a clear commitment
+         to revise or remove findings of approval (beyond reviewing) and provisions for group
+         homes for seven or more persons should make a clear commitment to revise zoning
+         as appropriate to promote certainty and objective procedures regardless of state
+         licensing requirements and should not be limited to the specified health and safety
+         codes.
+
+    5.   Promote AFFH opportunities and promote housing throughout the community or
+         communities for all persons regardless of race, religion, sex, marital status, ancestry,
+         national origin, color, familial status, or disability, and other characteristics protected
+         by the California Fair Employment and Housing Act (Part 2.8 (commencing with
+         Section 12900) of Division 3 of Title 2), Section 65008, and any other state and
+         federal fair housing and planning law. (Gov. Code, § 65583, subd. (c)(5).)
+
+
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                         Page 8
+September 1, 2021
+          As noted in Finding A1, the element must include a complete analysis of AFFH.
+          Based on the outcomes of that analysis, the element must add or modify programs.
+
+     6.   The housing program shall preserve for low-income household the assisted housing
+          developments identified pursuant to paragraph (9) of subdivision (a). The program
+          for preservation of the assisted housing developments shall utilize, to the extent
+          necessary, all available federal, state, and local financing and subsidy programs
+          identified in paragraph (9) of subdivision (a), except where a community has other
+          urgent needs for which alternative funding sources are not available. The program
+          may include strategies that involve local regulation and technical assistance. (Gov.
+          Code, § 65583, subd. (c)(6).)
+
+          While the element includes a program to preserve the at-risk units, Program H-23
+          should be strengthened by committing to add funding assistance or assist with
+          funding applications. For additional information and a sample program, see the
+          Building Blocks at http://www.hcd.ca.gov/community-development/building-
+          blocks/housing-needs/assisted-housing-developments.shtml.
+
+     7.   Develop a plan that incentivizes and promotes the creation of ADUs that can be
+          offered at affordable rent, as defined in Section 50053 of the Health and Safety
+          Code, for very low, low-, or moderate-income households. For purposes of this
+          paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+          unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, §
+          65583, subd. (c)(7).)
+
+          While the element includes a program that incentivizes or promotes ADU
+          development for very low-, low-, and moderate-income households, Program H-9
+          should go beyond “exploring” options for establishing a loan program and commit to
+          its implementation. Additionally, this program should commit to subsequent
+          monitoring every two years and back up actions within a specified time.
+
+C.   Public Participation
+
+     Local governments shall make a diligent effort to achieve public participation of all
+     economic segments of the community in the development of the housing element, and
+     the element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+     HCD understands the County did not make the element available to the public with
+     sufficient time to comment prior to submittal to HCD. By not providing an opportunity for
+     the public to review and comment on a draft of the element in advance of submission, the
+     County has not yet complied with statutory mandates to make a diligent effort to
+     encourage the public participation in the development of the element and it reduces
+     HCD’s ability to consider public comments in its review. The availability of the document
+     to the public and opportunity for public comment prior to submittal to HCD is essential to
+     the public process and HCD’s review. The County must proactively make future revisions
+     available to the public, including any commenters, prior to submitting any revisions to
+     HCD and diligently consider and address comments, including revising the document
+     where appropriate. HCD’s future review will consider the extent to which the revised
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                      Page 9
+September 1, 2021
+     element documents how the County solicited, considered, and addressed public
+     comments in the element. The County’s consideration of public comments must not be
+     limited by HCD’s findings in this review letter.
+
+D.   Consistency with General Plan
+
+     The housing element shall describe the means by which consistency will be achieved with
+     other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+     The element notes the County is updating its safety element to comply with recent
+     changes to the law and will ensure internal consistency as updates occur throughout the
+     general plan. HCD also understands the County is preparing analysis to address
+     requirements related to unincorporated disadvantaged communities in the land use
+     element. HCD encourages the County to consider all the various other elements of the
+     general plan that may be triggered by the housing element update, including provisions
+     related to environmental justice, fire and flood risk and climate adaptation. For example,
+     HCD received several comments (commenters noted above) related to other elements of
+     the general plan including flood and fire risks and encourages the County to harmonize
+     these objectives as part of this housing element update such as addressing any known
+     conditions and issues that might impact the suitability of sites. HCD further encourages
+     the County to make appropriate adjustments as part of future updates to the general plan
+     to better harmonize environmental and equity goals and promote an integrated general
+     plan. For additional information, please see technical advisories issued by the Governor’s
+     Office of Planning and as follows: SB 244 Disadvantaged Unincorporated Communities
+     Technical Advisory (https://www.opr.ca.gov/docs/SB244_Technical_Advisory.pdf
+     [opr.ca.gov]), updated Fire Hazard Planning Technical Advisory (Nov 2020
+     draft) (http://opr.ca.gov/docs/20201109-Draft_Wildfire_TA.pdf), and the 2017 General
+     Plan Guidelines (http://opr.ca.gov/planning/general-plan/guidelines.html).
+
+
+
+
+Review of Riverside County’s 6th Cycle Draft Housing Element                    Page 10
+September 1, 2021

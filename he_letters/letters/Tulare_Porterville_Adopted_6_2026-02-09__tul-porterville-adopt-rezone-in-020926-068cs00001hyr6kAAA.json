@@ -1,0 +1,14 @@
+{
+  "county": "Tulare",
+  "jurisdiction": "Porterville",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-02-09",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tul-porterville-adopt-rezone-in-020926-068cs00001hyr6kAAA.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tul-porterville-adopt-rezone-in-020926-068cs00001hyr6kAAA.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186451,
+  "text_chars": 5205,
+  "text_empty": false
+}

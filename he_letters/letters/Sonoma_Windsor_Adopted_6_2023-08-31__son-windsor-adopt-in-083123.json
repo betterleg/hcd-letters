@@ -1,0 +1,14 @@
+{
+  "county": "Sonoma",
+  "jurisdiction": "Windsor",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-08-31",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/son-windsor-adopt-in-083123.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/son-windsor-adopt-in-083123.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 184466,
+  "text_chars": 5101,
+  "text_empty": false
+}

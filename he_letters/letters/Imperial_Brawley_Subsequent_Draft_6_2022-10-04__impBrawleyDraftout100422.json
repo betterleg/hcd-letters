@@ -1,0 +1,14 @@
+{
+  "county": "Imperial",
+  "jurisdiction": "Brawley",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2022-10-04",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/impBrawleyDraftout100422.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/impBrawleyDraftout100422.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 196627,
+  "text_chars": 8690,
+  "text_empty": false
+}

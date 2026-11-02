@@ -1,0 +1,14 @@
+{
+  "county": "Tulare",
+  "jurisdiction": "Woodlake",
+  "type": "Adopted",
+  "cycle": "",
+  "reviewed": "2020-11-20",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tulWoodlake5thCycleUpdateAdopted11202020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tulWoodlake5thCycleUpdateAdopted11202020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 128904,
+  "text_chars": 3394,
+  "text_empty": false
+}

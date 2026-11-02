@@ -1,0 +1,14 @@
+{
+  "county": "Stanislaus",
+  "jurisdiction": "Patterson",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-07-30",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-patterson-adopt-rezone-in-073026-068cs00002IirV5AAJ.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-patterson-adopt-rezone-in-073026-068cs00002IirV5AAJ.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 190466,
+  "text_chars": 6658,
+  "text_empty": false
+}

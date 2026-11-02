@@ -1,0 +1,14 @@
+{
+  "county": "San Luis Obispo",
+  "jurisdiction": "Pismo Beach",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2020-09-11",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sloPismoBeach-draft-6th-cycle09112020.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sloPismoBeach-draft-6th-cycle09112020.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 155278,
+  "text_chars": 4217,
+  "text_empty": false
+}

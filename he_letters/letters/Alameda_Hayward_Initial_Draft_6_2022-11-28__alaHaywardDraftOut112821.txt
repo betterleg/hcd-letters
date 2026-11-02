@@ -1,0 +1,409 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 28, 2022
+
+
+         Leigha Schmidt, Principal Planner
+         Development Services Department
+         City of Hayward
+         777 B Street, 1st Floor
+         Hayward, CA 94541
+
+         Dear Leigha Schmidt,
+
+         RE: City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Hayward (City) draft housing element update
+         received for review on August 30, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. HCD considered comments from YIMBY Law
+         and Greenbelt Alliance, East Bay for Everyone, TransForm and Campaign for Fair
+         Housing Elements and YIMBY Law, pursuant to Government Code section 65585,
+         subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+         lower-income households, shall be completed no later than one year from the statutory
+Leigha Schmidt, Principal Planner
+Page 2
+
+
+
+deadline. Otherwise, the local government’s housing element will no longer comply with
+State Housing Element Law, and HCD may revoke its finding of substantial compliance
+pursuant to Government Code section 65585, subdivision (i). Please be aware, if the
+City fails to adopt a compliant housing element within one year from the statutory
+deadline, the element cannot be found in substantial compliance until rezones pursuant
+to Government Code section 65583, subdivision (c)(1)(A) or Government Code section
+65583.2, subdivision (c) are completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Claire Sullivan-Halpern, of our staff, at Claire.Sullivan-
+Halpern@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                        APPENDIX
+                                    CITY OF HAYWARD
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Housing Needs Resources and Constraints
+   1. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+      Extremely Low-Income Households (ELI): The element includes some basic information
+      regarding ELI households such as the number of households. However, given the
+      unique and disproportionate needs of ELI households, the element must include
+      analysis to better formulate policies and programs. For example, the element should
+      analyze tenure, cost burden and other household characteristics, compare those
+      characteristics to other income and special needs groups then examine the availability
+      of resources to determine gaps in housing needs. Finally, the element should examine
+      the success of past efforts and formulate an appropriate programmatic response given
+      the magnitude of the need. For additional information, see the Building Blocks at
+      http://www.hcd.ca.gov/community-development/building-blocks/housing-
+      needs/extremely-low-income-housing-needs.shtml.
+   2. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+      Fair Housing Enforcement and Capacity: The element should discuss how the City
+      complies with existing fair housing laws and regulations, any past fair housing lawsuits,
+      consent decrees or other related legal matters.
+      Disproportionate Housing Needs: The element includes some general information on
+      persons experiencing homelessness and housing conditions but should also evaluate
+      those needs, impacts and patterns within the City, such as areas of higher need. For
+      homelessness, the element should examine disproportionate impacts on protected
+      characteristics (e.g., race, disability) and patterns of need, including access to
+      transportation and services. For housing conditions, the element should discuss any
+      areas of potentially higher needs of rehabilitation and replacement. The element may
+
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                     Page 1
+November 28, 2022
+      utilize local data and knowledge such as service providers and code enforcement
+      officials to assist this analysis.
+      Affirmatively Furthering Fair Housing (AFFH) and Sites Inventory: The element includes
+      some data regarding the regional housing need allocation (RHNA) by income group and
+      areas of the City. However, the element should analyze that data, including
+      relationships with other components of the assessment of fair housing (e.g., segregation
+      and integration, disproportionate housing needs) to support conclusions and guide an
+      appropriate programmatic response. Specifically, utilizing Table F-2, the element should
+      analyze how the RHNA by income group impacts the number of existing households
+      and socio-economic characteristics. For example, the element could examine the
+      absence of the lower-income RHNA in some areas of the City and concentration in
+      other areas such as the Mission Boulevard Area relative to higher concentrations of
+      lower-income households. Then, the element could formulate appropriate response
+      such as place-based strategies toward community revitalization and improvement of
+      housing mobility.
+      Other Relevant Factors: The element must include other relevant factors that contribute
+      to fair housing issues in the jurisdiction. For instance, the element can analyze historical
+      land use and investment practices or other information and demographic trends. Other
+      relevant factors should complement the state and federal data and complete an
+      analysis.
+      Contributing Factors to Fair Housing Issues: Based on the outcomes of a complete
+      analysis, the element must list and prioritize contributing factors to fair housing issues.
+      Contributing factors should result in strategic approaches to inform and connect
+      analysis, goals and actions to address and mitigate fair housing issues. For more
+      information, please see HCD’s Guidance Memo at https://www.hcd.ca.gov/planning-
+      and-community-development/affirmatively-furthering-fair-housing.
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+      Progress in Meeting the RHNA: The City’s RHNA may be reduced by the number of
+      new units built, approved, or pending since June 30, 2022; however, the element must
+      demonstrate their availability in the planning period. Availability should address the
+      status, anticipated completion, any barriers to development and other relevant factors
+      such as build out horizons, phasing, and dropout rates to demonstrate the availability or
+      likelihood of development in the planning period.
+      Suitability of Nonvacant Sites: The element must include a description of identified sites
+      and their existing uses and include an analysis demonstrating the potential for additional
+      development on nonvacant sites. The element should analyze the extent that existing
+      uses may impede additional residential development. The element explains that various
+      factors were utilized to identify sites with potential for redevelopment such as
+      improvement to land value ratio and also discusses some recent trends. However, the
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                       Page 2
+November 28, 2022
+      element should relate recent trends to the various factors to better support their validity.
+      For example, the element could list the prior improvement to land value and other
+      factors for pending and approved projects. In addition, the element mentions the factors
+      but does not explain the threshold or reflect the value of the factor on identified sites.
+      For example, the element mentions the improvement to land value, but not which ratio
+      was utilized and does not list the value for each of the sites.
+      Publicly-Owned Sites: The element must include additional discussion on each of the
+      publicly-owned sites identified to accommodate the RHNA, including the BART sites.
+      Specifically, the analysis should address general plan designations, allowable densities,
+      support for residential capacity assumptions, existing uses, any known conditions that
+      preclude or could promote development in the planning period, status, and potential
+      schedule for development. Based on this analysis, the element should add or modify
+      programs. Programs should include a schedule of actions to facilitate development in the
+      planning period in stride with assumptions in the inventory such as numerical objectives,
+      compliance with the Surplus Land Act, outreach with developers or property owners,
+      removing barriers to development, issuing requests for proposals, incentives, fee waivers,
+      priority processing and financial assistance.
+      Small and Large Sites: Sites smaller than a half-acre and larger than ten acres in size
+      are deemed inadequate to accommodate housing for lower-income housing unless it is
+      demonstrated that sites of equivalent size and affordability were successfully developed
+      during the prior planning period or unless the housing element describes other evidence
+      to HCD that the site is adequate to accommodate lower-income housing. If the City is
+      utilizing small or large sites, the element must include analysis and programs as
+      appropriate to demonstrate the suitability of these sites.
+      Infrastructure: The element should clarify that the City has sufficient existing and
+      planned total water and sewer capacity to accommodate the RHNA.
+      In addition, water and sewer service providers must establish specific procedures to
+      grant priority water and sewer service to developments with units affordable to lower-
+      income households. While the element explains the City will deliver the element to
+      water and sewer providers, it should also describe whether the City has specific
+      procedures to grant priority or add or modify programs to establish a written procedure
+      by a date early in the planning period.
+      Environmental Constraints: While the element mentions various environmental
+      conditions, it should also discuss whether those conditions impact or preclude
+      development on identified sites. This discussion should address any other known
+      conditions and impacts on identified sites (e.g., shape, easements, conditions, airport
+      and other compatibility).
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD. Please
+      see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+      development/housing-element/index.shtml#element for a copy of the form and instructions.
+      The City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                       Page 3
+November 28, 2022
+      Zoning for a Variety of Housing Types:
+          •   Emergency Shelters: The element should clarify if by right is without discretionary
+              action, discuss acreage such as typical parcel sizes, potential for a shelter
+              including reuse, proximity to transportation and services and areas/sites are not
+              in areas unfit for human habitation (discuss other allowed uses). Also, the
+              element should list and analyze development standards and analyze whether
+              parking requirements comply with AB139/Government Code section 65583,
+              subdivision (a)(4)(A) or include a program to comply with this requirement.
+          •   Low Barrier Navigation Centers: The element should clarify that by right or
+              permitted uses are permitted without discretionary action and which zones allow
+              the uses in compliance with Government Code section 65661 or add or modify
+              programs.
+          •   Employee Housing Act: The element must demonstrate zoning is consistent with
+              the Employee Housing Act (Health and Safety Code, § 17000 et seq.),
+              specifically, sections 17021.5 which requires employee housing for six or fewer
+              employees to be treated as a single-family structure and permitted in the same
+              manner as other dwellings of the same type in the same zone. Based on the
+              outcomes of this analysis, the element should add or modify programs.
+          •   Permanent Supportive Housing: Supportive housing shall be a use by-right in
+              zones where multifamily and mixed uses are permitted, including nonresidential
+              zones permitting multifamily uses pursuant to Government Code section 65651.
+              The element must demonstrate compliance with this requirement and include
+              programs as appropriate.
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).).
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts independently and cumulatively for impacts on housing supply (number of
+      units), costs, feasibility and ability to achieve maximum densities. For example, the
+      analysis should address heights, setbacks, floor area ratios, lot coverages and parking
+      and add specific commitment to address constraints.
+      Fees and Exaction: While the element includes some general discussion of fees, it
+      should list and analyze all planning fees (e.g., general plan amendments, subdivisions,
+      rezones, planned developments, variances, and conditional use permits (CUPs). In
+      addition, the element should list and analyze all impact fees for cumulative impacts
+      (e.g., fees per unit) on typical single family, multifamily and other housing development
+      as appropriate.
+      Processing and Permit Procedures: The element should describe and analyze the total
+      permit and entitlement process for a typical single-family unit and multifamily
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                       Page 4
+November 28, 2022
+      development. The analysis should address typical processes for a development that
+      complies with zoning, time to complete entitlements, decision-making body, number of
+      hearing and approval findings. The analysis should address impacts on cost, timing,
+      feasibility and approval certainty. The analysis should also specifically address the site
+      plan review and major site plan review and list and evaluate approval findings for
+      impacts on housing costs, supply and approval certainty.
+      In addition, the Planned Development process should be evaluated as a potential
+      constraint, including whether the process is required, presence or lack of fixed
+      development standards and any other relevant factors for impacts on housing cost,
+      timing, feasibility and approval certainty.
+      Housing for Persons with Disabilities: The element describes the City currently has a
+      procedure for requesting and granting a reasonable accommodation for persons with
+      disabilities; however, the element should also describe and evaluate approval findings
+      and the process for providing reasonable accommodations. The analysis should
+      specifically address findings that resemble CUP findings (e.g., impacts on surrounding
+      uses). The element should also include an evaluate the definition of family used in
+      zoning and land use. In addition, the City should clarify where and how group homes of
+      seven or more persons are permitted and, based on this analysis, add or modify
+      programs with specific commitment to revise zoning and procedures to permit with
+      objective standards to facilitate approval certainty similar to other residential uses.
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2, and the length of time between
+      receiving approval for a housing development and submittal of an application for
+      building permits for that housing development that hinder the construction of a locality’s
+      share of the regional housing need in accordance with Government Code section
+      65584... (Gov. Code, § 65583, subd. (a)(6).)
+      Identified Densities and Approval Times: The element must address requests to
+      develop housing at densities below those anticipated in the sites inventory and the
+      length of time between receiving approval for housing development and submittal of
+      application for building permits. The analysis must address any hinderances on housing
+      development and programs should be added as appropriate.
+   6. An analysis of opportunities for energy conservation with respect to residential
+      development. (Gov. Code, § 65583, subd. (a)(6).)
+      The element must include a description of opportunities for energy conservation,
+      including past efforts to better formulate appropriate policies and programs. Cities and
+      counties are encouraged to include weatherization and energy efficiency improvements
+      as part of publicly subsidized housing rehabilitation projects. This may include energy
+      efficiency measures that encompass the building envelope, its heating and cooling
+      systems, and its electrical system. For more information, see the Building Blocks.
+
+
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                      Page 5
+November 28, 2022
+B. Housing Programs
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory... (Gov. Code, § 65583, subd. (c)(1).)
+      As noted in Finding A3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised, as follows:
+      Publicly-Owned Sites: The element identifies City-Owned and BART owned sites to
+      accommodate the RHNA and includes minimal commitment to market and coordinate
+      on sites. However, the element should commit to a specific schedule of actions with
+      discrete timing to facilitate development on these public lands. Examples of actions
+      include coordination with property owners, disposing of land or leasing land, removing
+      barriers, assisting in site preparation, facilitating entitlements, assisting with funding,
+      issuing permits and alternative actions if lands do not move forward with development
+      by a specified date. HCD will send sample language under separate cover.
+      Program 11.1 (By-right for Prior Housing Sites): The program should commit to permit
+      residential uses by right pursuant to Government Code section 65583.2, subdivision (i)
+      at appropriate densities (e.g., at least up to 30 units per acre or consistent with
+      assumptions in the inventory).
+      Program 24 (Tenant Relocation): As noted in the element (pp. D24 to D26), this
+      program or another program should commit to promote various housing types, namely,
+      group homes, single room occupancy and by right permanent supportive housing.
+   2. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+      Programs 4.1 and 4.4 (Local, State and Federal Funds): The program should commit to
+      how often (e.g., at least annually) funds will be used or applied for and should also
+      commit to identify development opportunities on at least an annual basis.
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+      As noted in Findings A4 and A5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                       Page 6
+November 28, 2022
+      mitigate any identified constraints.
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+      As noted in Finding A2, the element must include a complete assessment of fair
+      housing. Based on the outcomes of that analysis, the element must add or modify
+      programs. Goals and actions must specifically respond to the analysis and to the
+      identified and prioritized contributing factors to fair housing issues and must be
+      significant and meaningful enough to overcome identified patterns and trends. Actions
+      must have specific commitment, metrics, milestones, and geographic targeting, and, as
+      appropriate, must address housing mobility enhancement (more choices and
+      affordability across geographies), new housing choices and affordability in higher
+      opportunity and income areas (e.g., missing middle housing types), place-based
+      strategies for community preservation and revitalization and displacement protection.
+
+
+C. Quantified Objectives
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+   While the element includes quantified objectives for new construction, rehabilitation, and
+   conservation (p. H-33), it could consider increasing objectives for all income groups given
+   the severity of existing and projected housing needs.
+
+
+D. Public Participation
+   The local government shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the housing element, and the
+   program shall describe this effort. (Government Code 65583(c)(7))
+   While the element includes a summary of the public participation process, it should
+   describe how comments were considered and incorporated into the element. For example,
+   the element generally lists and responds to comments (Appendix A) but not how those
+   comments were incorporated into the element.
+
+
+
+
+City of Hayward’s 6th Cycle (2023-2031) Draft Housing Element                          Page 7
+November 28, 2022

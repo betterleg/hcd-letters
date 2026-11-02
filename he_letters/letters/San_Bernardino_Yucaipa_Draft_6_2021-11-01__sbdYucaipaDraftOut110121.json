@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Yucaipa",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-11-01",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdYucaipaDraftOut110121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdYucaipaDraftOut110121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 305773,
+  "text_chars": 43715,
+  "text_empty": false
+}

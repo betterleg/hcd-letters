@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Inglewood",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-06-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-inglewood-adopted-out-062323.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-inglewood-adopted-out-062323.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 156054,
+  "text_chars": 5423,
+  "text_empty": false
+}

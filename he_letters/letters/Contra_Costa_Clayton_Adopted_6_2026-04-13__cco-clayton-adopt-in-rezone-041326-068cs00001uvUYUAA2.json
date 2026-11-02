@@ -1,0 +1,14 @@
+{
+  "county": "Contra Costa",
+  "jurisdiction": "Clayton",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-04-13",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/cco-clayton-adopt-in-rezone-041326-068cs00001uvUYUAA2.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/cco-clayton-adopt-in-rezone-041326-068cs00001uvUYUAA2.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 159770,
+  "text_chars": 5066,
+  "text_empty": false
+}

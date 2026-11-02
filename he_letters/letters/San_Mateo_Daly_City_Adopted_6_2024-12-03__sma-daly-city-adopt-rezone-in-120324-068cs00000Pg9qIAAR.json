@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Daly City",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-12-03",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-daly-city-adopt-rezone-in-120324-068cs00000Pg9qIAAR.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-daly-city-adopt-rezone-in-120324-068cs00000Pg9qIAAR.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185911,
+  "text_chars": 5278,
+  "text_empty": false
+}

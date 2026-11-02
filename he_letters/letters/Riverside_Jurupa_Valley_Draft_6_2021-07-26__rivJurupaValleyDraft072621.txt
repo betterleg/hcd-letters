@@ -1,0 +1,450 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         July 26, 2021
+
+
+         Joe Perez, Community Development Director
+         Community Development Department
+         City of Jurupa Valley
+         8930 Limonite Avenue
+         Jurupa Velley, CA 92509
+
+         Dear Joe Perez:
+
+         RE: Review of the City of Jurupa Valley’s 6th Cycle (2021-2029) Draft Housing Element
+
+         Thank you for submitting the City of Jurupa Valley’s draft housing element received for
+         review on May 27, 2021. Pursuant to Government Code section 65585, subdivision (b),
+         the California Department of Housing and Community Development (HCD) is reporting
+         the results of its review. Our review was facilitated by a conversation on July 23, 2021
+         with Mary Wright, Project Manager; Dianne Guevara, Deputy Community Development
+         Director; Jean Ward, Community Planning Services Manager; Elizabeth Yee, Senior
+         Planner and the City’s consultant Veronica Tam and Associates.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes revisions needed to comply with State Housing
+         Element Law.
+
+         To remain on an eight-year planning cycle, the City must adopt its housing element
+         within 120 calendar days from the statutory due date of October 15, 2021 for Southern
+         California Association of Governments (SCAG) localities. If adopted after this date,
+         Government Code section 65588, subdivision (e)(4), requires the housing element be
+         revised every four years until adopting at least two consecutive revisions by the
+         statutory deadline. For more information on housing element adoption requirements,
+         please visit HCD’s website at: http://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos/docs/sb375_final100413.pdf.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+         Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+         Local Housing Allocation consider housing element compliance and/or annual reporting
+         requirements pursuant to Government Code section 65400. With a compliant housing
+Joe Perez, Community Development Director
+Page 2
+
+
+
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+HCD appreciates the dedication and hard work the entire housing element update
+team provided during the course of our review. We are committed to assist the City in
+addressing all statutory requirements of State Housing Element Law. If you have any
+questions or need additional technical assistance, please contact Gianna Marasovich,
+of our staff, at Gianna.Marasovich@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Shannan West
+Land Use & Planning Unit Chief
+
+Enclosure
+                                          APPENDIX
+                                   CITY OF JURUPA VALLEY
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-
+memos.shtml. Among other resources, the housing element section contains HCD’s latest
+technical assistance tool, Building Blocks for Effective Housing Elements (Building Blocks),
+available at http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and
+includes the Government Code addressing State Housing Element Law and other resources.
+
+   A. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing
+         with Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair
+         housing in the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A))
+
+          The element must address this requirement. The element, among other things, must
+          include outreach, an assessment of fair housing, identification and prioritization of
+          contributing factors to fair housing issues and goals and actions sufficient to
+          overcome patterns of segregation and foster inclusive communities free from barriers
+          that restrict access to opportunity. For more information, please visit HCD’s Data
+          Viewer, guidance and other resources at https://www.hcd.ca.gov/community-
+          development/affh/index.shtml.
+
+      2. Include an analysis of population and employment trends and documentation of
+         projections and a quantification of the locality's existing and projected needs for all
+         income levels, including extremely low-income households. (Gov. Code, § 65583,
+         subd. (a)(1).)
+
+          The element incudes some basic information regarding extremely low-income (ELI)
+          households such as the number of households (pages 5-19 and 5-25) and projected
+          housing needs (page 5-56). However, given the unique and disproportionate needs of
+          ELI households, the element must include analysis to better formulate policies and
+          programs. For example, the element could consider tenure, cost burden,
+          overcrowding and other household characteristics then examine the availability of
+          resources to determine gaps in housing needs. For additional information, see the
+          Building Blocks at http://www.hcd.ca.gov/community-development/building-
+          blocks/housing-needs/extremely-low-income-housing-needs.shtml.
+
+      3. Include an analysis and documentation of household characteristics, including level
+         of payment compared to ability to pay, housing characteristics, including
+         overcrowding, and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                        Page 1
+July 26, 2021
+         The element documents households and housing stock characteristics but must still
+         be revised as follows:
+
+             •   Overpayment: The element generically describes the impacts of overpayment
+                 and mentions the availability of data (page 5-35) but should also include the
+                 actual data and a complete analysis such as examining the degree of
+                 overpayment for all households, lower-income households, differences across
+                 tenure (i.e., renter and owner), other characteristics such as overlap with
+                 special housing needs, trends, available resources and a conclusion of the
+                 magnitude of housing needs. For your consideration, this analysis may be
+                 combined with requirements under affirmatively furthering fair housing in
+                 Finding A1 above.
+             •   Housing Conditions: The element includes data on structural deficiencies from
+                 the American Community Survey and information on code enforcement
+                 complaints. However, this information may significantly underestimate the
+                 need for rehabilitation and replacement and the element should include
+                 additional quantification to better formulate policies and programs. For
+                 example, the element incudes some generic discussion about blighted
+                 neighborhood but could more closely examine and quantify the magnitude of
+                 needs. In addition, the element includes programs to conserve mobile homes
+                 but no quantification or explanation of the magnitude of needs to guide these
+                 programs.
+
+      4. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated
+         income level, and an analysis of the relationship of zoning and public facilities and
+         services to these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+         Regional Housing Need Allocation (RHNA) Progress: As noted on page 5-57, the
+         element should be updated to include entitled units between June 30, 2021 and
+         September 30, 2021 as appropriate, including accounting for actual or anticipated
+         affordability.
+
+         Parcel Listing: The element must identify the anticipated affordability level of the units
+         for each site identified in the sites inventory. (Gov. Code, § 65583.2, subd. (c).)
+
+         Specific Plans: The element describes several approved specific plans with
+         residential capacity (pages 5-59 to 5-62). To utilize this capacity toward the RHNA,
+         the element should account for the anticipated build-out of these specific plans in the
+         eight-year planning period. In addition, HCD understands much of this residential
+         capacity has not been parceled according to the approved land uses. To utilize these
+         sites, the element should include these specific plans in the parcel listing by various
+         statutory requirements such as parcel number, acreage and capacity by income and,
+         outside of the parcel listing, should further describe approved land uses by sub-
+         areas, planned capacity, acreage, zoning and anticipated affordability.
+
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                        Page 2
+July 26, 2021
+         Realistic Capacity: The element (page 5-63) mentions an assumption of 70 percent of
+         maximum allowable densities to calculate residential capacity on identified sites but
+         should also support this assumption based on typical densities of existing or
+         approved residential developments at a similar affordability level.
+
+         Infrastructure: While the element generally describes water and sewer infrastructure,
+         it must also demonstrate sufficient existing or planned total capacity to accommodate
+         the City’s RHNA for the planning period (Gov. Code, § 65583.2, subd. (b).). For
+         additional information, see the Building Blocks at http://www.hcd.ca.gov/community-
+         development/building-blocks/site-inventory-analysis/analysis-of-sites-and-
+         zoning.shtml#environmental.
+
+         Small and Large Sites: Sites less than 0.5 acres and larger than 10 acres in size are
+         deemed inadequate to accommodate housing for lower-income housing unless the
+         element demonstrates sites of equivalent size were successfully developed during
+         the prior planning period for an equivalent number of lower-income housing units as
+         projected for the site or unless the housing element describes other evidence to HCD
+         that the site is adequate to accommodate housing for lower-income households.
+         (Gov. Code, § 65583.2, subd. (c)(2)(A).) Since the element incudes a site larger than
+         10 acres and some sites less than 0.5 acres, it must include analysis and programs
+         as appropriate.
+
+         Accessory Dwelling Units (ADUs): The element projects 15 ADUs per year over the
+         eight-year planning period for a total of 120 ADUs. However, the element notes the
+         approval of 15 ADUs in 2018 and 10 in 2019 with an increase in inquiries in 2020.
+         These trends are inconsistent with HCD records (6 in 2018, nothing reported in 2019
+         and 6 in 2020) and do not support an assumption of 15 ADUs per year. To support
+         assumptions for ADUs in the planning period, the element should reduce the number
+         of ADUs assumed per year or reconcile trends with HCD records, include additional
+         information such as more recent permitted units and inquiries, resources and
+         incentives, other relevant factors and modify policies and programs as appropriate.
+         Additionally, programs should commit to frequent monitoring (every other year) and
+         specific commitment to adopt alternative measures such as rezoning or amending the
+         element within a specific time (e.g., 6 months) if ADU assumptions for the number of
+         units and affordability are not met.
+
+         Affirmatively Furthering Fair Housing: The element must demonstrate the sites
+         inventory affirmatively furthers fair housing. For more information, see the HCD’s
+         guidance at https://www.hcd.ca.gov/community-development/housing-
+         element/housing-element-memos.shtml.
+
+         Electronic Sites Inventory: For your information, pursuant to Government Code section
+         65583.3, the City must submit an electronic sites inventory with its adopted housing
+         element. The City must utilize standards, forms, and definitions adopted by HCD.
+         Please see HCD’s housing element webpage at https://www.hcd.ca.gov/community-
+         development/housing-element/index.shtml#element for a copy of the form and
+
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                     Page 3
+July 26, 2021
+         instructions. The City can reach out to HCD at sitesinventory@hcd.ca.gov for
+         technical assistance.
+
+         Zoning for a Variety of Housing Types: The element must include an analysis and
+         programs as appropriate to demonstrate zoning for a variety of housing types, as
+         follows:
+
+             • Emergency Shelters: The element describes the City has I-P zoned sites
+               totaling 439 acres but should include additional analysis to demonstrate the
+               suitability of acreage and the zoning. Specifically, the element should evaluate
+               the available acreage for characteristics like parcel size or potential
+               redevelopment or reuse opportunities, proximity to services. The analysis must
+               also address the appropriateness of other uses in the I-P zone for human
+               habitation and whether parking requirements are limited to staff working in the
+               emergency shelters and do not require more parking than other residential or
+               commercial uses in the zone. The element must include programs as
+               appropriate based on the outcomes of this analysis.
+             • Low Barrier Navigation Centers and Permanent Supportive Housing: Low
+                barrier navigation centers and permanent supportive housing shall be a use
+                by-right in zones where multifamily and mixed uses are permitted, including
+                nonresidential zones permitting multifamily uses pursuant to Government
+                Code sections 65651 and 65662. The element must demonstrate compliance
+                with this requirement and include programs as appropriate.
+             • Employee Housing: As noted on page 5-56, the element must include a
+                program to amend zoning consistent with the Employee Housing Act (Health
+                and Safety Code, § 17000 et seq.), specifically sections 17021.5, 17021.6 and
+                17021.8.
+
+      5. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. (Gov. Code, §
+         65583, subd. (a)(5).)
+
+         Local Processing and Permit Procedures: The element identifies approval findings for
+         the Site Development Permit; however, it should also analyze those findings for
+         impacts on approval certainty and timing. Specifically, the element should address
+         findings such as “…compatible with the present and future logical development of the
+         surrounding property.” Analysis may address how the City provides clarity and
+         certainty regarding this finding such as guidelines, pre-application reviews, objectives
+         standards or include programs to promote approval certainty. The element must also
+         describe and analyze the design guidelines for their impact as potential constraints
+         on housing supply and affordability and ensure consistency with the Housing Crisis
+         Act of 2019 (Gov. Code, § 66300), which among other things, requires design
+         requirements adopted after January 1,2020 to be objective.
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                        Page 4
+July 26, 2021
+         Constraints on Housing for Persons with Disabilities: The element must include an
+         analysis of zoning, development standards, building codes, and process and permit
+         procedures as potential constraints on housing for persons with disabilities, as
+         follows:
+
+             •   Family Definitions and Other Requirements: The analysis must describe
+                 zoning code definitions of family or absence of definitions and any spacing,
+                 concentration or other requirements that may constraint housing for persons
+                 with disabilities.
+             •   Group Homes: The element includes discussion and programs to amend
+                 zoning consistent with the Lanterman Act but should address group homes
+                 more broadly, including group homes for less than 6 persons beyond the
+                 Lanterman Act and seven or more persons. Specifically, the element should
+                 identify what zones permit this housing and evaluate approval requirements for
+                 impacts on objectivity and approval certainty. For example, excluding this
+                 housing from residential zones or imposing standards such as compatibility
+                 with surrounding uses without clarity would be considered a constraint. The
+                 element must include programs as appropriate to address identified
+                 constraints based on the outcomes of this analysis.
+             •   Reasonable Accommodation: As noted on page 5-73, the element must
+                 include a program to establish a written procedure for providing reasonable
+                 accommodation in zoning and land use.
+
+         Zoning Code and Fees Transparency: The element must clarify its compliance with
+         new transparency requirements for posting all zoning and development standards for
+         each parcel on the jurisdiction’s website pursuant to Government Code section
+         65940.1, subdivision (a)(1).
+
+      6. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels,
+         including the availability of financing, the price of land, the cost of construction, the
+         requests to develop housing at densities below those anticipated in the analysis
+         required by subdivision (c) of Government Code section 65583.2... (Gov. Code, §
+         65583, subd. (a)(6).)
+
+         Requests for Development at Lesser Densities: The element must address requests
+         to develop housing at densities below those anticipated in the sites inventory. The
+         analysis must address any hinderances on housing development and programs
+         should be added as appropriate.
+
+   B. Housing Programs
+
+    1.   Include a program which sets forth a schedule of actions during the planning period,
+         each with a timeline for implementation, which may recognize that certain programs
+         are ongoing, such that there will be beneficial impacts of the programs within the
+         planning period... (Gov. Code, § 65583, subd. (c).)
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                          Page 5
+July 26, 2021
+          To have a beneficial impact in the planning period and address the goals of the
+          housing element, programs should be revised as follows:
+             • Specific Commitment to Deliverables: The element includes several programs
+                where commitment to actions and timing include language such as “initiate”.
+                While starting an action is important, so is completion in order to have a
+                beneficial impact in the planning period. As a result, these programs should be
+                revised with language that commits to when actions will be complete such as
+                adoption, completion or implementation by a date certain.
+             • Discrete Timing: Programs must include discrete timing instead of “ongoing”
+                where appropriate. Examples of programs that should be revised include 1.1.2
+                (Housing Authority Coordination), 1.1.4 (Affordable Housing Incentives), 1.1.11
+                (Site Identification), 1.1.13 (Candidate Sites Mapping), 1.1.14 (Homeless
+                Shelter), 1.1.15 (Homelessness Strategy), 1.1.16 (Creative Housing
+                Solutions), 1.1.22 (Affordable Housing for Disabled Persons), 2.1.1 (Adaptive
+                Housing Solutions), 2.1.3 (Affordable Mobile Homes Conservation) and 3.1.5
+                (Multifamily Dwellings Standards).
+             • Special Needs: Programs 1.1.16 (Creative Housing Solutions) and 1.1.17
+                (Coordination with Non-profit Housing Providers) should be revised to explicitly
+                address all special needs categories including but not limited to persons with
+                developmental disabilities and farmworkers.
+
+     2.   Identify actions that will be taken to make sites available during the planning period
+          with appropriate zoning and development standards and with services and facilities to
+          accommodate that portion of the city’s or county’s share of the regional housing need
+          for each income level that could not be accommodated on sites identified in the
+          inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning,
+          and to comply with the requirements of Government Code section 65584.09. Sites
+          shall be identified as needed to facilitate and encourage the development of a variety
+          of types of housing for all income levels, including multifamily rental housing, factory-
+          built housing, mobilehomes, housing for agricultural employees, supportive housing,
+          single-room occupancy units, emergency shelters, and transitional housing. (Gov.
+          Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding A4, the element does not include a complete site analysis;
+          therefore, the adequacy of sites and zoning were not established. Based on the
+          results of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites to accommodate the RHNA or zoning
+          available to encourage a variety of housing types. In addition, (1) Program H.1.1 must
+          be revised to amend zoning within 3 years of the beginning of the planning period
+          instead of adoption and address all by right requirements pursuant to Government
+          Code section 65583.2, subdivisions (h) and (i); and (2) amend zoning as appropriate
+          to be consistent with the general plan.
+
+    4.    Address and, where appropriate and legally possible, remove governmental and
+          nongovernmental constraints to the maintenance, improvement, and development of
+          housing, including housing for all income levels and housing for persons with
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                        Page 6
+July 26, 2021
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+         As noted in Findings A5 and A6, the element requires a complete analysis of
+         potential governmental and nongovernmental constraints. Depending upon the
+         results of that analysis, the City may need to revise or add programs and address
+         and remove or mitigate any identified constraints.
+
+    5.   The housing element shall include programs to conserve and improve the condition
+         of the existing affordable housing stock. (Gov. Code, § 65583, subd. (c)(4).)
+
+         The element should include additional actions to conserve and improve the existing
+         stock such as rehabilitation or neighborhood revitalization programs and programs
+         should be added or modified based on a complete analysis as noted in Finding A3.
+    6.   Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race, religion,
+         sex, marital status, ancestry, national origin, color, familial status, or disability, and
+         other characteristics protected by the California Fair Employment and Housing Act
+         (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008,
+         and any other state and federal fair housing and planning law. (Gov. Code, § 65583,
+         subd. (c)(5).)
+
+         As noted in Finding A1, the element must include a complete assessment of fair
+         housing. Based on the outcomes of that analysis, the element must add or modify
+         programs. For additional guidance on program requirements to affirmatively further
+         fair housing, please see the HCD’s guidance at https://www.hcd.ca.gov/community-
+         development/housing-element/housing-element-memos.shtml.
+
+   C. Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd.
+      (b)(1 & 2).)
+
+      Include quantified objectives estimating the number of housing units by income category
+      that can be constructed, rehabilitated, and conserved over a five-year time period. This
+      requirement could be addressed by utilizing a matrix like the one illustrated below:
+
+                                                                                Conservation /
+     Income                New Construction            Rehabilitation            Preservation
+     Extremely Low-
+     Very Low-
+     Low-
+     Moderate-
+     Above Moderate-
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                        Page 7
+July 26, 2021
+     TOTAL
+
+   D. Public Participation
+
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the housing element, and
+      the element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      HCD understands the City made the element available approximately at the same time
+      of submittal to HCD. By not providing an opportunity for the public to review and
+      comment on a draft of the element in advance of submission to HCD, the City has not
+      yet complied with statutory mandates to make a diligent effort to encourage the public
+      participation in the development of the element and it reduces the HCD’s ability to
+      consider public comments in its review. The availability of the document to the public and
+      opportunity for public comment prior to submittal to HCD is essential to the public
+      process and HCD’s review. The City must proactively make future revisions available to
+      the public, including any commenters, prior to submitting any revisions to HCD and
+      diligently consider and address comments, including revising the document where
+      appropriate. HCD’s future review will consider the extent to which revisions to the
+      documents were circulated and how the City solicited, considered, and addressed public
+      comments in the element. The City’s consideration of public comments must not be
+      limited by HCD’s findings in this review letter.
+
+
+
+
+HCD Review of the City of Jurupa Valley’s 6th Cycle Housing Element                     Page 8
+July 26, 2021

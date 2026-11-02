@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Coalinga",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-10-02",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-coalinga-adopt-in-100224.pdf",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/fre-coalinga-adopt-in-100224.pdf",
+  "fetched_from": "hcd_website_fallback",
+  "pdf_bytes": 192069,
+  "text_chars": 4563,
+  "text_empty": false
+}

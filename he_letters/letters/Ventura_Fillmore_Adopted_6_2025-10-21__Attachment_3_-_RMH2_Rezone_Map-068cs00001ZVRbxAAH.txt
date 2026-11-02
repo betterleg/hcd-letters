@@ -1,0 +1,215 @@
+Legend
+   City Boundary
+Proposed Zoning
+   CBD
+
+
+
+
+                                                                    ±
+   Housing Overlay Zone
+   North Fillmore Specific Plan (NFSP)
+                                                                    Maxar
+   Residential Medium High 2             0   0.25   0.5   1 Miles
+RMH2 REZONE PARCELS
+                                 Proposed Rezone Sites
+
+                      Existing Zoning                               Max Density
+            GP Land
+  APN                                            Address                          Vacant
+              Use
+                        (Proposed                                   (Preferred
+                         Zoning)                                     Density)
+                            RM                                          20
+530091010     RM                          241 ORANGE GROVE AV
+                          (RMH2)                                        17
+                           RM                                           20
+530091020     RM                          237 ORANGE GROVE AV
+                          (RMH2)                                        17
+                           RM                                           20
+530091030     RM                          231 ORANGE GROVE AV
+                          (RMH2)                                        17
+                            CH                                          20
+530091050     CH                          219 ORANGE GROVE AV
+                          (RMH2)                                        17
+                            CH                                          20
+530091120     CH                                216 A ST
+                          (RMH2)                                        17
+                            CH                                          20
+530091130     CH                                222 A ST
+                          (RMH2)                                        17
+                            CH                                          20
+530091140     CH                                224 A ST
+                          (RMH2)                                        17
+                           RM                                           20
+530091150     RM                                230 A ST
+                          (RMH2)                                        17
+                           RM                                           20
+530091160     RM                                236 A ST
+                          (RMH2)                                        17
+                           RM                                           20
+530091180     RM                           660 SANTA CLARA ST
+                          (RMH2)                                        17
+                            CH                                          20
+530091200     CH                        227/227.5 ORANGE GROVE AV
+                          (RMH2)                                        17
+                           RM                                           20
+530092010     RM                           612 SANTA CLARA ST
+                          (RMH2)                                        17
+                           RM                                           20
+530092020     RM                           604 SANTA CLARA AV
+                          (RMH2)                                        17
+                           RM                                           20
+530092030     RM                           602 SANTA CLARA ST
+                          (RMH2)                                        17
+                           RM                                           20
+530092040     RM                              231 OLIVE ST
+                          (RMH2)                                        17
+                           RMH                                          20
+530092050    RMH                              229 OLIVE ST
+                          (RMH2)                                        17
+                           RMH                                          20
+530092060    RMH                              227 OLIVE ST
+                          (RMH2)                                        17
+                           RMH                                          20
+530092070    RMH                              223 OLIVE ST
+                          (RMH2)                                        17
+                           RMH                                          20
+530092090    RMH                              219 OLIVE ST
+                          (RMH2)                                        17
+                           RMH                                          20
+530092105    RMH                              215 OLIVE ST
+                          (RMH2)                                        17
+                            CH                                          20
+530092110     CH                              211 OLIVE ST
+                          (RMH2)                                        17
+                            CH                                          20
+530092160     CH                             627 VENTURA ST
+530092160   CH               627 VENTURA ST
+                  (RMH2)                         17
+                   CH                            20
+530092170   CH             212 ORANGE GROVE AV
+                  (RMH2)                         17
+                   RMH                           20
+530092180   RMH            216 ORANGE GROVE AV
+                  (RMH2)                         17
+                   RMH                           20
+530092190   RMH            222 ORANGE GROVE AV
+                  (RMH2)                         17
+                   RMH                           20
+530092200   RMH            226 ORANGE GROVE AV
+                  (RMH2)                         17
+                   RM                            20
+530092250   RM             236 ORANGE GROVE AV
+                  (RMH2)                         17
+                   RM                            20
+530092260   RM              238 ORANGE GROVE          YES
+                  (RMH2)                         17
+                   RM                            20
+530092280   RM               622 SANTA CLARA
+                  (RMH2)                         17
+                   CH                            20
+530093070   CH                 212 OLIVE ST
+                  (RMH2)                         17
+                   CH                            20
+530093080   CH                 216 OLIVE ST
+                  (RMH2)                         17
+                   CH                            20
+530093090   CH                 220 OLIVE ST
+                  (RMH2)                         17
+                   CH                            20
+530093100   CH                 226 OLIVE ST
+                  (RMH2)                         17
+                   CH                            20
+530094100   CH                 214 PALM ST
+                  (RMH2)                         17
+                   CH                            20
+530101050   CH               219 FILLMORE ST
+                  (RMH2)                         17
+                   CH                            20
+530103050   CH                 229 CLAY ST
+                  (RMH2)                         17
+                   CH                            20
+530103060   CH                 225 CLAY ST
+                  (RMH2)                         17
+                   CH                            20
+530103070   CH                 223 CLAY ST
+                  (RMH2)                         17
+                   CH                            20
+530103080   CH                 219 CLAY ST
+                  (RMH2)                         17
+                   CH                            20
+530103090   CH                 217 CLAY ST
+                  (RMH2)                         17
+                   CH                             20
+530103100   CH                 213 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530103110   CH                 211 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530103120   CH               345 VENTURA ST
+                  (RMH2)                          17
+                   CH                             20
+530103140   CH               218 SARATOGA ST
+                  (RMH2)                          17
+                   CH                             20
+530103150   CH               220 SARATOGA ST
+                  (RMH2)                          17
+                   CH                             20
+530103160   CH               226 SARATOGA ST
+                  (RMH2)                          17
+                   CH                             20
+530103180   CH               234 SARATOGA ST
+                  (RMH2)                          17
+                   CH                             20
+530103230   CH
+                  (RMH2)                          17
+                   CH                             20
+530103240   CH               228 SARATOGA ST
+                  (RMH2)                          17
+                   CH                             20
+530104080   CH             219 MOUNTAIN VIEW ST
+                  (RMH2)                          17
+                   CH                             20
+530104090   CH                 210 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104100   CH                 214 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104110   CH                 216 CLAY ST             YES
+                  (RMH2)                          17
+                   CH                             20
+530104120   CH                 218 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104130   CH                 220 CLAY ST             YES
+                  (RMH2)                          17
+                   CH                             20
+530104140   CH                 224 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104150   CH                 226 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104160   CH                 232 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104170   CH                 236 CLAY ST
+                  (RMH2)                          17
+                   CH                             20
+530104180   CH             237 MOUNTAIN VIEW ST
+                  (RMH2)                          17
+                   CH                             20
+530104190   CH             235 MOUNTAIN VIEW ST
+                  (RMH2)                          17
+                   CH                             20
+530102070   CH               227 SARATOGA ST
+                  (RMH2)                          17
+                   CH                             20
+530102080   CH               226 FILLMORE ST
+                  (RMH2)                          17
+                   RMH                            20
+530092080   RMH                223 OLIVE ST
+                  (RMH2)                          17

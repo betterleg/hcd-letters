@@ -1,0 +1,14 @@
+{
+  "county": "Orange",
+  "jurisdiction": "Los Alamitos",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-12-31",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraLosAlamitosDraftOut123121.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/oraLosAlamitosDraftOut123121.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 279899,
+  "text_chars": 38649,
+  "text_empty": false
+}

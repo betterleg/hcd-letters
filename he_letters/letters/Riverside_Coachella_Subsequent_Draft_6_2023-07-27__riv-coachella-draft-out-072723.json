@@ -1,0 +1,14 @@
+{
+  "county": "Riverside",
+  "jurisdiction": "Coachella",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2023-07-27",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/riv-coachella-draft-out-072723.pdf",
+  "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-element/riv-coachella-draft-out-072723.pdf",
+  "fetched_from": "hcd_website_fallback",
+  "pdf_bytes": 181117,
+  "text_chars": 5496,
+  "text_empty": false
+}

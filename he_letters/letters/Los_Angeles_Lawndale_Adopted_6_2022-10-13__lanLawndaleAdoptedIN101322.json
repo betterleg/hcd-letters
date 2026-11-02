@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Lawndale",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2022-10-13",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanLawndaleAdoptedIN101322.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lanLawndaleAdoptedIN101322.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 142154,
+  "text_chars": 5297,
+  "text_empty": false
+}

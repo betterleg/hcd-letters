@@ -1,0 +1,891 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         October 14, 2022
+
+
+         Jackie Young, Planning Director
+         Town of Woodside
+         2955 Woodside Road
+         Woodside, CA 94062
+
+         Dear Jackie Young:
+
+         RE: The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the Town of Woodside’s (Town) draft housing element received for
+         review on July 18, 2022. Pursuant to Government Code section 65585, subdivision (b), the
+         California Department of Housing and Community Development (HCD) is reporting the
+         results of its review. Our review was facilitated by a conversation on September 22, 2022 with
+         you, Sage Schaan, Kevin Bryant, Nancy Woltering, Sarah Harper, and consultant Kai Ruess.
+         In addition, HCD considered comments from YIMBY Law and Greenbelt Alliance, Housing
+         Leadership Council of San Mateo County, Campaign for Fair Housing Elements, Ben Gilad,
+         and Stephen Lubin pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code). The
+         enclosed Appendix describes the revisions needed to comply with State Housing Element
+         Law.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if a
+         local government fails to adopt a compliant housing element within 120 days of the statutory
+         deadline (January 31, 2023), then any rezoning to accommodate the regional housing needs
+         allocation (RHNA), including for lower-income households, shall be completed no later than
+         one year from the statutory deadline. Otherwise, the local government’s housing element will
+         no longer comply with State Housing Element Law, and HCD may revoke its finding of
+         substantial compliance pursuant to Government Code section 65585, subdivision (i). Please
+         be aware, if the Town fails to adopt a compliant housing element within one year from the
+         statutory deadline, the element cannot be found in substantial compliance until rezones to
+         accommodate a shortfall of sites pursuant to Government Code section 65583, subdivision
+         (c) (1) and Government Code section 65583.2, subdivision (c) are completed.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the Town should continue to engage the community, including organizations
+Jackie Young, Planning Director
+Page 2
+
+
+
+that represent lower-income and special needs households, by making information
+regularly available and considering and incorporating comments where appropriate.
+Please be aware, any revisions to the element must be posted on the local
+government’s website and to email a link to all individuals and organizations that have
+previously requested notices relating to the local government’s housing element at least
+seven days before submitting to HCD.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the Town will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the Town to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD is committed to assisting the Town in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical assistance,
+please contact Molivann Phlong, of our staff, at Molivann.Phlong@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                     TOWN OF WOODSIDE
+
+The following changes are necessary to bring the Town’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress in
+   implementation, and reflect the results of this review in the revised element. (Gov. Code, §
+   65588 (a) and (b).)
+
+   A thorough program-by-program review is necessary to evaluate Town’s performance in
+   addressing housing goals. As part of this analysis, the element should describe and quantify
+   the actual results of the prior element’s programs and evaluate effectiveness by, for example,
+   comparing those results to the planned objectives. This information and analysis provides the
+   basis for developing an effective housing program.
+
+   In addition, as part of the review of programs in the past cycle, the element must provide an
+   evaluation of the effectiveness of goals, policies, and related actions in meeting the housing
+   needs of special needs populations (e.g., elderly, persons with disabilities, large households,
+   female-headed households, farmworkers and persons experiencing homelessness).
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Fair Housing Enforcement and Outreach: The element must include the Town’s ability to
+      provide enforcement and outreach capacity which can consist of actions such as the
+      Town’s ability to investigate complaints, obtain remedies, or the Town’s ability to engage in
+      fair housing testing. Further, the element currently states that outreach consisted of Town
+      Council meetings, webinars, and commission meetings and does not describe efforts that
+      were made to communicate with protected classes or identify methods that were used to
+      perform outreach and engage the public. Finally, the analysis must also describe
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                Page 1
+October 14, 2022
+      compliance with existing fair housing laws and regulations and include information on fair
+      housing outreach capacity throughout the planning period.
+
+      Integration and Segregation: The element includes some data on integration and
+      segregation at the regional and local level; however, it must include an analysis of patterns
+      over time. The element must also analyze segregation and integration of familial status,
+      income, and persons with disabilities both locally (Comparing areas within the Town) and
+      regionally (Comparing the Town to the broader region) and concluding with a summary of
+      issues. For persons with disabilities, the element must include an analysis with local data
+      and knowledge and describe the issues within the Town. For familial status, the element
+      must describe concentrations of familial status within the Town and provide a regional
+      level analysis. For income, the regional analysis should also analyze how the Town relates
+      to immediate surrounding areas and incorporate local data and knowledge and other
+      relevant factors to specifically examine the significant differences in income patterns.
+      Lastly, the element must describe local concentrations of white residents within the Town
+      and evaluate the disparities and differences in race within the region.
+
+      Racial/Ethnic Areas of Concentration of Poverty and Affluence: While the element includes
+      information relative to Racially and Ethnically Concentrated Areas of Poverty (R/ECAP), it
+      must also address concentrated areas of affluence both locally and regionally. The Town
+      is predominantly a highest resource category according to TCAC/HCD Opportunity Maps
+      and is predominantly highest income. In addition, according to HCD data, the Town is a
+      Racially Concentrated Area of Affluence. These patterns differ from the surrounding region
+      and the element should include specific analysis of the Town compared to the region,
+      including local knowledge and other relevant factors such as past land use practices or the
+      lack of public investment in affordable housing, and should formulate policies and
+      programs to promote an inclusive community. For example, the Town should consider
+      additional actions (not limited to the regional housing need allocation (RHNA)) to promote
+      housing mobility and improve new housing choices and affordability throughout the Town.
+
+      Disparities in Access to Opportunity: The element provides some information on disparities
+      in access to opportunity but must include qualitative and quantitative support. A complete
+      analysis should include local and regional disparities of the educational, environmental,
+      and economic scores through local, federal, and/or state data. While the data for
+      education shows that school districts are the least diverse districts in the County, it should
+      analyze the factors that contribute to the disparities in access to education. The element
+      should also analyze what contributes to the high scores of access to economic opportunity
+      while having few employment opportunities per household within the Town and also
+      analyze the geographic difference in economic opportunity in the western part of the
+      Town, including impacts on protected classes. For transportation, the element must
+      analyze the access to transportation in the Town and regionally. This is particularly
+      imperative to analyze given the noted high elderly population in the jurisdiction and their
+      heightened potential for reliance on public transportation. The element states that the
+      Town scores moderately to poorly on environmental outcomes, however, it should provide
+      an analysis for the scores, include factors that contribute to these outcomes and describe
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                 Page 2
+October 14, 2022
+      how the Town is addressing this finding, as well as include a regional analysis. Lastly, the
+      element must analyze access to opportunity for persons with disabilities.
+
+      Disproportionate Housing Needs and Displacement: While the element states that the
+      Town has relatively good stability compared to the County, it must analyze displacement
+      risk in relation to the Town’s affluence and analyze displacement risks due to disasters
+      (i.e., fire, flood, and earthquake).
+
+      Sites Inventory: The element must include an analysis demonstrating whether sites
+      identified to meet the regional housing need allocation (RHNA) are distributed throughout
+      the community in a manner that affirmatively furthers fair housing. A full analysis should
+      address the income categories of identified sites with respect to location, the number of
+      sites and units by all income groups and how that effects the existing patterns for all
+      components of the assessment of fair housing (e.g., segregation and integration, access
+      to opportunity). The element should also discuss whether the distribution of sites improves
+      or exacerbates conditions, including any isolation of the RHNA by income group and
+      include appropriate policies and programs to promote a more inclusive and equitable
+      community.
+
+      Contributing Factors: The element must list and prioritize contributing factors to fair
+      housing issues. Contributing factors create, contribute to, perpetuate, or increase the
+      severity of fair housing issues and are fundamental to adequate goals and actions.
+      Examples include community opposition to affordable housing, housing discrimination,
+      land use and zoning laws, lack of regional cooperation, location and type or lack of
+      affordable housing and lack of public or private investment in areas of opportunity or
+      affordable housing choices. The analysis shall result in strategic approaches to inform and
+      connect goals and actions to mitigate contributing factors to affordable housing.
+
+      Goals, Actions, Metrics, and Milestones: The element must be revised to add or modify
+      goals and actions based on the outcomes of a complete analysis. Goals and actions must
+      specifically respond to the analysis and to the identified and prioritized contributing factors
+      to fair housing issues and must be significant and meaningful enough to overcome
+      identified patterns and trends. Actions must have specific commitment, milestones,
+      geographic targeting, and metrics or numerical targets and, as appropriate, address
+      housing mobility enhancement, new housing choices and affordability in high opportunity
+      areas, place-based strategies for community preservation and revitalization and
+      displacement protection. Given that most of the Town is considered a highest resource
+      community and concentrated area of affluence, the element should include a significant
+      suite of programs that enhance broader housing mobility and encourage development of
+      more housing choices and affordability throughout the community.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)\
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                  Page 3
+October 14, 2022
+      Extremely Low-Income Households (ELI): The element must quantify existing and
+      projected ELI households and analyze their housing needs. The analysis of ELI housing
+      needs should consider tenure and overpayment, examine the disproportionate impacts on
+      housing affordability and magnitude of housing needs and describe the effectiveness of
+      resources and strategies the formulate an appropriate programmatic response.
+
+   3. Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding, and
+      housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Overpayment: While the element identifies (Appendix B) the percentage of lower income
+      households overpaying, it must quantify and analyze the number of lower-income
+      households overpaying by tenure.
+
+      Housing Conditions: While the element includes federal data on lack of plumbing and
+      other factors and the age of the housing stock, it must also include analysis of the
+      condition of the existing housing stock and estimate the number of units in need of
+      rehabilitation and replacement. For example, the analysis could include estimates from a
+      recent windshield survey or sampling, estimates from the code enforcement agency, or
+      information from knowledgeable builders/developers, including non-profit housing
+      developers or organizations.
+
+   4. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Progress in Meeting the RHNA: The Town’s RHNA may be reduced by the number of new
+      units pending, approved, under construction or built since June 30, 2022; however, the
+      element must demonstrate their affordability and availability in the planning period.
+      Affordability should be based on actual sales price, rent level or other mechanisms
+      ensuring affordability (e.g., deed restrictions). Availability should discuss the likelihood of
+      the units being completed in the planning period, including status, any barriers to
+      development, phasing build out horizons and other relevant factors. In addition, Table 3-5
+      (page 3-34) includes pipeline ADUs, single family development assumptions, and land
+      divisions. The element must clarify whether the units and land divisions listed are current
+      applications being processed, or the basis for the assumptions.
+
+      Sites Inventory: The element must list sites by parcel number, parcel size, zoning, general
+      plan designation, describing existing uses for any nonvacant sites and include a
+      calculation of the realistic capacity of each site. While the element includes most of these
+      requirements, the inventory should include the calculation of units in whole number
+      increments. In addition, the description of existing uses should be sufficiently detailed to
+      facilitate an analysis demonstrating the potential for additional development in the planning
+      period. Finally, Table 3-5 and page G-10 demonstrate a deficit of capacity for above-
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                  Page 4
+October 14, 2022
+      moderate units, the element must ensure there are sufficient sites identified in the
+      inventory, either with existing zoning or proposed rezones to meet the RHNA by income
+      category.
+
+      Cañada College Site: While the element describes Cañada College, owned by the San
+      Mateo County Community College District, as a potential site for housing affordable to
+      lower-income households, it must clarify whether there is an existing development
+      application for the Cañada College site. If there is a pending project, the element must
+      describe the proposed affordability based on proposed sale prices or rents or other
+      mechanism to ensure affordability such as deed restrictions and demonstrate their
+      availability in the planning period.
+
+      If there is no current pending application, the element must analyze the feasibility for new
+      residential development and availability of the site during the planning period including
+      affordability assumptions on the large site (over ten acres) and redevelopment potential
+      (see below). The element must also describe the status of the College ‘s plan related to
+      the development of this site and expected development timing according to that plan.
+      Finally, the element must indicate whether the development will be restricted to students
+      or open to faculty or publicly available. Given the element’s reliance on this site to
+      accommodate the RHNA, and its inclusion in the previous 5th cycle housing element, the
+      element must include programs with actions that commit to facilitating development and
+      monitoring approvals (e.g., coordination with applicant to approve remaining entitlements,
+      supporting funding applications, expediting approvals, rezoning or identification of
+      additional sites should the applications not be approved).
+
+      Realistic Capacity: While the element provides assumptions of residential buildout for sites
+      included in the inventory, it must also provide support for these assumptions. For example,
+      the element should demonstrate what specific trends, factors, and other evidence led to
+      the residential capacity assumptions. The estimate of the number of units for each site
+      must be adjusted as necessary, based on the land use controls and site improvements,
+      typical densities of existing or approved residential developments at a similar affordability
+      level in that jurisdiction, and on the current or planned availability and accessibility of
+      sufficient water, sewer, and dry utilities. In addition, currently, the rezone sites assume
+      residential capacity at maximum allowable densities which do not appear to account for
+      land use controls The element must support this with past residential development trends
+      as described above or revise residential capacity assumptions as appropriate. Finally, the
+      calculation of residential capacity must also account for the likelihood of 100 percent non-
+      residential uses in zones that allow 100 percent non-residential uses. This analysis should
+      consider development trends and may utilize residential performance standards or policies
+      and programs that ensure a residential component.
+
+      Small and Large Sites: Sites smaller than a half acre and larger than ten acres in size are
+      deemed inadequate to accommodate housing for lower-income housing unless it is
+      demonstrated that sites of equivalent size and affordability were successfully developed
+      during the prior planning period or unless the element includes other evidence supporting
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                Page 5
+October 14, 2022
+      the suitability of these sites. Based on the outcomes of the analysis, the element should
+      add or modify programs.
+
+      Zoning for Lower-Income Households: Pursuant to Section 65583.2(c)(3)(A) and (B), the
+      element must identify sites with zoning and densities appropriate to accommodate housing
+      for lower-income households based on factors such as market demand, financial
+      feasibility, and development experience within zones. For communities with densities that
+      meet specific standards (at least 20 units per acre for Woodside), this analysis is not
+      required (Section 65583.2(c)(3)(B)). The element currently allocates units for lower income
+      on sites that will be rezoned with densities of up to ten dwelling units an acre, the element
+      does not currently support those assumptions. In addition, if rezones are not completed by
+      January 31, 2023, then the element must include a program(s) to make appropriate zoning
+      and development standards available in the planning period, including meeting by right
+      and other requirements pursuant to Government Code sections 65583, subdivision (c)(1)
+      and 65583.2, subdivisions (h) and (i).
+
+      Town-Owned Sites: The element must include additional discussion on each of the Town-
+      Owned sites identified to accommodate the RHNA. Specifically, the analysis should
+      address general plan designations, allowable densities, support for residential capacity
+      assumptions, existing uses, anticipated schedule for making the sites available and any
+      known conditions that preclude development in the planning period. If zoning does not
+      currently allow residential uses at appropriate densities, then the element must include
+      programs to rezone sites pursuant to Government Code section 65583.2, subdivisions (h)
+      and (i). In addition, the housing element must include a description of whether there are
+      any plans to sell the property during the planning period and how the jurisdiction will
+      comply with the Surplus Land Act.
+
+      Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+      potential for redevelopment of nonvacant sites. The demonstration must consider factors
+      including the extent to which existing uses may impede additional residential development,
+      development trends, market conditions, any existing leases or other contracts that would
+      perpetuate the existing use or prevent redevelopment of the site for additional residential
+      development, regulatory or other incentives or standards to encourage additional
+      residential development on these sites, and the jurisdiction’s past experience converting
+      existing uses to higher density residential development. For sites with residential uses, the
+      inventory could also describe structural conditions or other circumstances and trends
+      demonstrating the redevelopment potential to more intense residential uses. For
+      nonresidential sites, the inventory could also describe whether the use is operating,
+      marginal or discontinued, and the condition of the structure or could describe any
+      expressed interest in redevelopment.
+
+      In addition, if the housing element relies upon nonvacant sites to accommodate more than
+      50 percent of the RHNA for lower income households, the housing element must
+      demonstrate existing uses are not an impediment to additional residential development
+      and will likely discontinue in the planning period (Gov. Code, § 65583.2, subd. (g)(2).).
+      Absent findings (e.g., adoption resolution) based on substantial evidence, the existing
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                Page 6
+October 14, 2022
+      uses will be presumed to impede additional residential development and will not be utilized
+      toward demonstrating adequate sites to accommodate the RHNA.
+
+      SB 9 Sites: The element identifies SB 9 as a strategy to accommodate part of the
+      moderate and above-moderate income RHNA. To support this strategy, the analysis
+      must include experience, trends and market conditions that allow lot splits. To address
+      this requirement, the Town may survey property owners to gather interest in
+      development in the planning period. The analysis must also address whether the existing
+      use will not constitute an impediment for additional residential development. For
+      example, the analysis should describe whether the use will continue or discontinue, how
+      parcels were selected, account for land use controls such as development standards,
+      potential for parceling if applicable, age and condition of structure and other relevant
+      factors. Based on the outcomes of this analysis, the element should add or modify
+      programs to establish zoning and development standards early in the planning period
+      and implement incentives to encourage and facilitate development as well as monitor
+      development every two years with and identify additional sites within six months if
+      assumptions are not being met. The element should support this analysis with local
+      information such as local developer or owner interest to utilize zoning and incentives
+      established through SB 9.
+
+      Replacement Housing Requirements: If the element utilizes sites with existing residential
+      uses, absent a replacement housing policy, these sites are not adequate sites to
+      accommodate lower-income households. The replacement housing policy must meet the
+      requirements set forth in Government Code section 65915, subdivision (c) (3).
+
+      Accessory Dwelling Units (ADU): The element projects an ADU build out of 20 ADU and/or
+      junior accessory dwelling unit (JADU) per year. The element also appears to list an
+      additional ADU assumptions in the sites inventory. The element must clarify these
+      additional ADUs numbers in relationship to the projections, update projections as
+      appropriate and include policies and programs that incentivize the production of ADUs at
+      the affordability levels assumed in the element. Depending on the analysis, the element
+      must commit to monitor ADU production and affordability throughout the planning period
+      and implement additional actions if not meeting target numbers within a specified time
+      period (e.g., within six months). Finally, if necessary, the degree of additional actions
+      should be in stride with the degree of the gap in production and affordability. For example,
+      if actual production and affordability of ADUs is far from anticipated trends, then rezoning
+      or something similar would be an appropriate action. If actual production and affordability
+      is near anticipated trends, then measures like outreach and marketing might be more
+      appropriate.
+
+      Previously Identified Nonvacant and Vacant Sites: Nonvacant sites identified in the prior
+      planning period or vacant sites identified in two or more consecutive planning periods
+      are inadequate to accommodate housing for lower-income households unless the
+      element includes a program that requires rezoning within one or three years (whichever
+      is applicable) of the beginning of the planning period. The program must allow
+      residential use at appropriate densities by right for housing developments in which at
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element               Page 7
+October 14, 2022
+      least 20 percent of the units are affordable to lower-income households. (Gov. Code, §
+      65583.2, subd. (c).) If utilizing sites identified in prior planning periods, the element must
+      clearly indicate which sites were identified in previous planning periods and include a
+      program as describe above.
+
+      Infrastructure: While the element includes a general discussion of sewer capacity, it must
+      demonstrate sufficient existing or planned water, sewer, and dry utility capacity to
+      accommodate the RHNA for the planning period. In addition, the element mentions water,
+      sewer, and dry utilities are not available for all sites. The element must describe and
+      analyze the constraints as well as their impacts on the identified sites to meet the RHNA
+      and add a program as needed.
+
+      For your information, water and sewer service providers must establish specific
+      procedures to grant priority water and sewer service to developments with units affordable
+      to lower-income households. (Gov. Code, § 65589.7.) Local governments are required to
+      immediately deliver the housing element to water and sewer service providers. The
+      element should demonstrate compliance with these requirements and add or modify
+      programs, if necessary.
+
+      Environmental Constraints: The element must describe the identified environmental
+      constraints or other conditions that could impact housing development on identified sites
+      including, but not limited to, the open space covenant on the Farm Hill site and the
+      identified constraints on the Highroad site.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element must clarify that emergency shelters are allowed
+             without discretionary action in the CC zone and describe sufficient and suitable
+             capacity in the identified zone. In addition, the element should list and evaluate
+             development standards, including parking requirements for compliance with
+             Government Code section 65583, subdivision (a)(4)(A) and add or modify programs
+             as appropriate.
+         •   Transitional Housing and Supportive Housing: Transitional housing and supportive
+             housing must be permitted as a residential use in all zones allowing residential uses
+             and only subject to those restrictions that apply to other residential dwellings of the
+             same type in the same zone. (Gov. Code, § 65583, subd. (c)(3).) The element must
+             demonstrate compliance with these requirements and include programs as
+             appropriate.
+         •   By-Right Permanent Supportive Housing: Supportive housing shall be a use by-
+             right in zones where multifamily and mixed uses are permitted, including
+             nonresidential zones permitting multifamily uses pursuant to Government Code
+             section 65651. The element must demonstrate compliance with these requirements
+             and include programs as appropriate.
+         •   Low Barrier Navigation Centers: Low Barrier Navigation Centers shall be a use by-
+             right in zones where multifamily and mixed uses are permitted, including
+             nonresidential zones permitting multifamily uses pursuant to Government Code
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                   Page 8
+October 14, 2022
+              section 65660. The element must demonstrate compliance with this requirement
+              and include programs as appropriate.
+          •   Single Room Occupancy (SRO) Units: The element must describe where and how
+              SROs are allowed or add a program as appropriate.
+          •   Housing for Farmworkers: The Employee Housing Act permits housing under
+              specific provisions. Section 17021.5 requires employee housing for six or fewer
+              employees to be treated as a single-family structure and permitted in the same
+              manner as other dwellings of the same type in the same zone. Section 17021.6
+              requires employee housing consisting of no more than 12 units or 36 beds to be
+              permitted in the same manner as other agricultural uses in the same zone. The
+              element must demonstrate compliance with these requirements and include
+              programs as appropriate.
+          •   Manufactured Housing: The element must describe whether manufactured
+              homes are allowed as a single-family use if on a permanent foundation
+              consistent with Government Code section 65852.3 or include program if
+              needed.
+          •   ADUs: The element indicates the Town modified its zoning code to ease barriers to
+              the development of ADU’s. However, after a cursory review of the Town’s
+              ordinance, HCD discovered several areas which were not consistent with State
+              ADU Law. HCD will provide a complete listing of ADU non-compliance issues under
+              a separate cover. As a result, the element should add a program to update the
+              Town’s ADU ordinance in order to comply with state law.
+
+   5. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures. (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      impacts as potential constraints on a variety of housing types. The analysis must also
+      evaluate the impacts of land use controls independently and cumulatively on housing cost
+      and supply, feasibility, ability to achieve maximum densities, timing, and approval
+      certainty. The analysis should also describe past or current efforts to remove identified
+      governmental constraints and the element should include programs to address or remove
+      the identified constraints. In addition, the element must describe and analyze the
+      development standards for the Multifamily Residential Development (MFRD) Overlay
+      zone. The element must also describe what densities and use types are allowed in each
+      zone, including the MFRD Overlay zone, that allows residential and whether any zone
+      meets default density requirements. The element must also clarify whether residential
+      uses are allowed in commercial zones in Community Commercial by-right. The element
+      states housing can be developed in the SCP zones, but states there are several
+      constraints. The element must analyze these constraints for their impact on the
+      development of housing and include programs as appropriate. In addition, the element
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                  Page 9
+October 14, 2022
+      describes a height restriction due to Measure J. The element must clarify whether the
+      Town allows residential or mixed-use in that area, and whether there are plans to revise
+      the measure and allow increased heights; the element should add or revise a program to
+      address the constraint.
+
+      Fees and Exaction: The element must describe all required fees for single-family and
+      multifamily housing development, including impact fees, and analyze their impact as
+      potential constraints on housing cost, supply and affordability. For example, the analysis
+      could identify the total amount of fees and their proportion to the development costs for
+      both single family and multifamily housing. While the element includes the total fees for
+      single-family, it must also include multifamily fees as well as the percent of total
+      development costs for multifamily housing. In addition, the element must list all permit and
+      impact fees related to housing development.
+
+      Zoning and Fees Transparency: The element must clarify its compliance with new
+      transparency requirements for posting all zoning, development standards, and fees for
+      each parcel on the jurisdiction’s website pursuant to Government Code section
+      65940.1(a)(1).
+
+      Local Processing and Permit Procedures: While the element includes some information
+      about processing times for single family development, it should also describe the
+      procedures for a typical single family and multifamily development. The analysis should
+      address the type of permit, discretionary approval procedure, design review processes,
+      approval body, the number of public hearings if any, approval findings and any other
+      relevant information. The analysis should address impacts on housing cost, supply, timing
+      and approval certainty. For example, the element should identify and analyze approval
+      findings for impacts on approval certainty, the presence of processes or guidelines to
+      promote certainty and add or modify programs as appropriate.
+
+      State Density Bonus Law: The Town’s current density bonus ordinance should be
+      reviewed for compliance with current state density bonus law (Gov. Code, § 65915) and
+      programs should be added as necessary.
+
+      On/Off-Site Improvements: The element must identify subdivision level improvement
+      requirements, such as minimum street widths (e.g., 40-foot minimum street width), and
+      analyze their impact as potential constraints on housing supply and affordability.
+
+      Codes and Enforcement: The element must describe the Town’s building and zoning code
+      enforcement processes and procedures, including any local amendments to the building
+      code, and analyze their impact as potential constraints on housing supply and affordability.
+
+      Constraints on Housing for Persons with Disabilities: The element must include an
+      analysis of zoning, development standards, building codes, and process and permit
+      procedures as potential constraints on housing for persons with disabilities. For example,
+      the analysis must describe any zoning code definitions of family and any spacing or
+      concentration requirements for housing for persons with disabilities. The element must
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element              Page 10
+October 14, 2022
+      also demonstrate the Town has a reasonable accommodation procedure for providing
+      exception in zoning and land use or include a program to do so. Lastly, the element must
+      describe and analyze how group homes for six or fewer and seven or more are allowed
+      within the Town and add programs as appropriate. For your information, zoning should
+      simply implement a barrier-free definition of family instead of subjecting, potentially
+      persons with disabilities, to special regulations such as the number of persons, population
+      types and licenses. These housing types should not be excluded from residential zones,
+      most notably low-density zones, which can constrain the availability of housing choices for
+      persons with disabilities. Requiring these housing types to obtain a special use or
+      conditional use permit (CUP) could potentially subject housing for persons with disabilities
+      to higher discretionary exceptions processes and standards where an applicant must, for
+      example, demonstrate compatibility with the neighborhood, unlike other residential uses.
+
+      Other Local Ordinances: The element identifies a short-term rental ordinance, it must
+      analyze any locally adopted ordinances that directly impacts the cost and supply or
+      residential development (e.g., inclusionary requirements, short term rentals, growth
+      controls).
+
+   6. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval for
+      a housing development and submittal of an application for building permits for that housing
+      development that hinder the construction of a locality’s share of the regional housing need
+      in accordance with Government Code section 65584. The analysis shall also demonstrate
+      local efforts to remove nongovernmental constraints that create a gap between the
+      locality’s planning for the development of housing for all income levels and the
+      construction of that housing. (Gov. Code, § 65583, subd. (a)(6).)
+
+      The element generally did not address this requirement. The element must include an
+      analysis of potential non-governmental constraints, including availability of financing, the
+      cost of construction for multifamily, the requests to develop housing at densities below
+      those anticipated in the analysis required by subdivision (c) of Government Code section
+      65583.2, and the length of time between receiving approval for a housing development
+      and submittal of an application for building permits. In addition, the analysis must identify
+      local efforts to address non-governmental constraints that create a gap in the jurisdiction’s
+      ability to meet RHNA by income category. The analysis should address any hinderances
+      on the jurisdiction’s ability to accommodate RHNA by income category and include
+      programs as appropriate.
+
+   7. Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, § 65583,
+      subd. (a)(7).)
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element               Page 11
+October 14, 2022
+      Special Housing Needs: While the element includes (p. 1-14) some information on special
+      needs residents it must quantify the number of seniors. In addition, while the element lists
+      seniors with disabilities, it must also quantify and analyze all persons with disabilities
+      within the Town. The element must also analyze the special housing needs for all groups
+      including available resources (e.g., the elderly, persons with disabilities, large families,
+      farmworkers, families with female-heads of households, youths, and families and persons
+      in need of emergency shelter). Local officials, special needs service providers, or Town
+      social and health service providers may be able to assist with information to complete the
+      analysis.
+
+   8. Analyze the opportunities for energy conservation with respect to residential development.
+      (Gov. Code, § 65583(a)(8).)
+
+      The element must include analysis of energy conservation opportunities in residential
+      development. The analysis should facilitate the adoption of housing element policies and
+      programs. For example, programs could provide incentives to promote higher density
+      housing along transit, encourage green building techniques and materials in new
+      construction and remodels, promote energy audits and participation in utility conservation
+      programs, and facilitate energy conserving retrofits upon resale of homes.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element... (Gov. Code, §
+      65583, subd. (c).)
+
+      To have a beneficial impact and achieve the goals and objectives of the housing
+      element, programs must have specific commitment and discrete timelines, as follows:
+
+         •   Program H2.1c (Provide Public Transit): The program should include timing of how
+             often the Town will reach out regarding transit.
+         •   Program H3.1a (Administer and Support New Independent Housing At Cañada
+             College): The program should describe types of resources that will be provided,
+             affordability levels, current status, and the timing associated with incentives.
+         •   Program H3.1b (Streamline Cañada College Housing Development Standards):
+             The program should provide the affordability levels for units.
+         •   Program H3.3a (Consider Reducing Town Permit Fees for Higher Density
+             Housing): The program must include specific commitment to housing outcomes. In
+             addition, it should clarify whether the implementation actions will be complete by
+             2022; and provide densities that will be allowed.
+         •   Program H3.3b (Expedite Processing of Higher Density Housing): The program
+             should describe what is considered higher density as well as provide outreach for
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element              Page 12
+October 14, 2022
+             the program. The program should also revise the metric to address the program
+             actions instead of ADUs.
+         •   Program H4.1a (Continue to Enable Access to Housing for People with Disabilities):
+             The program must state if the Town has a Reasonable Accommodation procedure
+             or add a commitment to create one. The program should also include specific
+             metrics and proactive outreach.
+         •   Program H4.1b (Amend Zoning Ordinance to Expand Exceptions for People with
+             Disabilities): The program should specify what amendments are needed.
+         •   Program H4.1c (Group Homes): The program must be revised to allow six or fewer
+             persons in all zones allowing residential use and must allow group homes for seven
+             or more persons objectively to facilitate approval certainty. The program must also
+             add timing of implementation.
+         •   Program H4.2: The programs in this section should include programs for persons
+             with special needs (farmworkers, persons with disabilities, etc.).
+         •   Program H4.2b (Employee Housing): The description of employee housing in this
+             program does not match state requirements; it must clarify if the Town complies
+             with Employee Housing Act as well as include proactive outreach, describe specific
+             actions to be taken, and add timing and metrics or numerical objectives.
+         •   Program H4.1b (Amend Zoning Ordinance to Expand Exceptions for People with
+             Disabilities): The program should provide specific actions, as well as clarify program
+             implementation and timing.
+         •   Program H4.3a (Cooperate with Agencies Providing Emergency Shelter): The
+             program should include specific implementation, how often coordination will occur,
+             and describe services and funding that will be provided.
+         •   Program H5.1c (Facilitate and Encourage Neighborhood Preparedness): The
+             program should describe how often it will occur, include outreach to residents, and
+             include specific actions with timing.
+         •   Program H5.2a (Provide Sewer to Address Waste Disposal Failures): The program
+             should describe how often information will be provided and commit to efforts and
+             actions to improve sewer access.
+         •   Program H5.2B (Prioritize Sewer for Higher Density Residential Development): The
+             program should prioritize developments with affordable housing.
+         •   Program H5.2c (Coordinate with Cal Water to Ensure Adequate Water Supplies):
+             The program should clarify if current water supplies are sufficient for identified sites
+             and provide the occurrence for coordination.
+         •   H6.2 (Rehabilitate the Existing Housing Stock): All programs in this section should
+             have specific metrics; provide outreach to residents with properties in need of
+             rehabilitation.
+         •   Program H6.2b (Provide Exceptions and Variances): The program should clarify if
+             this program will result in discretionary actions and clarify what determines project
+             qualification.
+         •   Program H6.2c (Evaluate Development Standards in The Western Hills): The
+             program should include clear implementation of revised development standards
+             and describe what will be completed by the implementation date.
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element                Page 13
+October 14, 2022
+         •   Program H6.2d (Utilize Rehabilitation Programs): The program should include
+             proactive outreach and if the information is available on the Town’s website.
+         •   Program H6.3 (Promote Sustainability Including Energy Efficiency): The programs
+             should include proactive outreach; specify adoption timing for Program 6.3a; clarify
+             and provide how energy efficiency will be encouraged.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding B4, the element does not include a complete site analysis, therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the Town may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types. In addition,
+      the element should be revised as follows:
+
+      Program H2.1a (Establish Higher Density Zoning Near Freeway Access): The program
+      must meet by-right rezone requirements (Gov. Code, § 65583.2, subd. (h) and (i)) if
+      needed to accommodate the lower-income RHNA.
+
+      Program H3.2a (Rezone Town-Owned Sites Identified in The Housing Element, Table 3-
+      5): must meet rezone requirements (Gov. Code, § 65583.2, subd. (h) and (i).); In addition,
+      the element must clarify whether if these sites are the same sites as program H2.1a.
+
+   3. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      The element must include a program(s) with specific actions and timelines to assist in the
+      development of housing for extremely low-income households. The program(s) could
+      commit the Town to adopting priority processing, granting fee waivers or deferrals,
+      modifying development standards, granting concessions and incentives for housing
+      developments that include units affordable to extremely low-income households; assisting,
+      supporting, or pursuing funding applications; and outreach and coordination with
+      affordable housing developers.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element               Page 14
+October 14, 2022
+      The program shall remove constraints to, and provide reasonable accommodations for
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B5 and B6, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the Town may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics… (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element must include a complete analysis of AFFH. The
+      element must be revised to add goals and actions based on the outcomes of a complete
+      analysis. Goals and actions must specifically respond to the analysis and to the identified
+      and prioritized contributing factors to fair housing issues and must be significant and
+      meaningful enough to overcome identified patterns and trends. Actions must have specific
+      commitment, metrics, and milestones as appropriate and must address housing mobility
+      enhancement, new housing choices and affordability in high opportunity areas, place-
+      based strategies for community preservation and revitalization and displacement
+      protection.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+      can be offered at affordable rent… (Gov. Code, § 65583, subd. (c)(7).)
+
+    Programs related to encouraging ADUs should be revised, as follows:
+
+         •   Program H1.1b (Outreach to Encourage ADUs): The program should be revised to
+             include specific implementation timing, quantify how often the website will be
+             updated, and include specific metrics.
+         •   Program H1.2a (Prepare and Distribute Brochures on ADUs/JADUs): The program
+             should quantify how often distribution will occur.
+         •   Program H1.2c (Conduct ADU Workshops by New Town Council Districts): The
+             program should specify the current status of implementation.
+         •   Programs H1.3a (Consider Modifying Local Regulations to Permit Additional ADUs
+             On Properties Exceeding Two Acres), H1.3b (Consider Modifying Local Regulations
+             to Remove Barriers To Constructing ADUs and JADUs), H1.3C (Consider Reducing
+             Town Permit Fees For ADUs and JADUs): must include specific commitment to
+             housing outcomes beyond “consider” and specify what will be completed by the
+             implementation date.
+         •   Program H1.3d (Expedite Permitting for ADUs And JADUs): The program should
+             provide program objectives including outreach.
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element              Page 15
+October 14, 2022
+         •   Program H1.3e (Develop Amnesty Program for ADUs and JADUs): The program
+             should provide proactive outreach as well as specify what actions will be taken as a
+             result of the program.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   The element must include quantified objectives for construction, rehabilitation, and
+   conservation by income group, including extremely low-income households. Please see the
+   Building Blocks for additional information.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a general summary of the public participation process (p. 3-4), it
+   must also demonstrate diligent efforts were made to involve all economic segments of the
+   community in the development of the housing element. The element could describe the efforts
+   to circulate the housing element among low- and moderate-income households and
+   organizations that represent them and to involve such groups and persons in the element
+   throughout the process and include translation services. In addition, the element should also
+   summarize the public comments and describe how they were considered and incorporated
+   into the element.
+
+
+F. Consistency with General Plan
+
+   The Housing Element shall describe the means by which consistency will be achieved with other
+   general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   While the element discusses how internal consistency will be achieved with other elements of the
+   general plan as part of the housing element update, it should also discuss how internal
+   consistency will be maintained throughout the planning period.
+
+
+
+
+The Town of Woodside’s 6th Cycle (2023-2031) Draft Housing Element               Page 16
+October 14, 2022

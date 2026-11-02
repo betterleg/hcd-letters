@@ -1,0 +1,14 @@
+{
+  "county": "San Joaquin",
+  "jurisdiction": "Escalon",
+  "type": "Initial Draft",
+  "cycle": "6",
+  "reviewed": "2024-03-28",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sjo-escalon-draft-out-032824-068cs00002D9PEtAAN.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sjo-escalon-draft-out-032824-068cs00002D9PEtAAN.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 265913,
+  "text_chars": 35829,
+  "text_empty": false
+}

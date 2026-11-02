@@ -1,0 +1,25 @@
+{
+  "county": "Contra Costa",
+  "jurisdiction": "San Ramon",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-02-27",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ConSanRamonAdoptIn022723.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ConSanRamonAdoptIn022723.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 158559,
+  "text_chars": 5054,
+  "text_empty": false,
+  "also_listed_as": [
+    {
+      "county": "Contra Costa",
+      "jurisdiction": "San Ramon",
+      "type": "Subsequent Draft",
+      "cycle": "6",
+      "reviewed": "2023-02-27",
+      "linktext": "Click to Download Letter",
+      "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/ConSanRamonAdoptIn022723.pdf"
+    }
+  ]
+}

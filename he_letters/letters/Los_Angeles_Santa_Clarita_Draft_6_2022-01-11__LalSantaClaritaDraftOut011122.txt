@@ -1,0 +1,885 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         January 11, 2022
+
+
+          Tom Cole, Director
+          Community Development Department
+          City of Santa Clarita
+          23920 W. Valencia Blvd. Suite 302
+          Santa Clarita, CA 91355
+
+          Dear Tom Cole:
+
+          RE: City of Santa Clarita’s 6th Cycle (2021-2029) Draft Housing Element
+
+          Thank you for submitting the City of Santa Clarita’s (City) draft housing element
+          received for review on November 12, 2021. Pursuant to Government Code section
+          65585, subdivision (b), the California Department of Housing and Community
+          Development (HCD) is reporting the results of its review. Our review was facilitated by
+          a conversation on January 7, 2022 with consultants Jane Riley, Elliot Pickett, and
+          Jackie Criger. In addition, HCD considered comments from Cindy Russo, Herb
+          Johnston, Malissa Cindrich, and John Zirkel pursuant to Government Code section
+          65585, subdivision (c).
+
+          The draft element addresses many statutory requirements; however, revisions will be
+          necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+          The enclosed Appendix describes the revisions needed to comply with State Housing
+          Element Law.
+
+          As a reminder, the City’s 6th cycle housing element was due October 15, 2021. As of
+          today, the City has not completed the housing element process for the 6th cycle. The
+          City’s 5th cycle housing element no longer satisfies statutory requirements. HCD
+          encourages the City to revise the element as described above, adopt, and submit to
+          HCD to regain housing element compliance.
+
+          For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+          a local government fails to adopt a compliant housing element within 120 days of the
+          statutory deadline (October 15, 2021), then any rezoning to accommodate the regional
+          housing needs allocation (RHNA), including for lower-income households, shall be
+          completed no later than one year from the statutory deadline. Otherwise, the local
+          government’s housing element will no longer comply with State Housing Element Law,
+Tom Cole, Director
+Page 2
+
+
+
+and HCD may revoke its finding of substantial compliance pursuant to Government
+Code section 65585, subdivision (i).
+
+Public participation in the development, adoption and implementation of the housing
+element is essential to effective housing planning. Throughout the housing element
+process, the City should continue to engage the community, including organizations
+that represent lower-income and special needs households, by making information
+regularly available and considering and incorporating comments where appropriate.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City meets housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and
+http://opr.ca.gov/docs/Final_6.26.15.pdf.
+
+HCD appreciates the hard work and dedication the City’s housing element team
+provided during the review. We are committed to assist the City in addressing all
+statutory requirements of State Housing Element Law. If you have any questions or
+need additional technical assistance, please contact Reid Miller, of our staff, at
+Reid.Miller@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                   CITY OF SANTA CLARITA
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+http://www.hcd.ca.gov/community-development/housing-element/housing-element-memos.shtml.
+Among other resources, the housing element section contains HCD’s latest technical assistance
+tool, Building Blocks for Effective Housing Elements (Building Blocks), available at
+http://www.hcd.ca.gov/community-development/building-blocks/index.shtml and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+   A. Review and Revision
+
+      Review the previous element to evaluate the appropriateness, effectiveness, and progress
+      in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+      § 65588 (a) and (b).)
+
+      A thorough program-by-program review is necessary to evaluate City's performance in
+      addressing housing goals. While the element generally describes the results of the prior
+      element’s programs, the element must also provide an explanation of the effectiveness of
+      goals, policies, and related actions in meeting the housing needs of special needs
+      populations (e.g., elderly, persons with disabilities, large households, female headed
+      households, farmworkers and persons experiencing homelessness). Programs should be
+      revised as appropriate to reflect the results of this evaluation. The element should also be
+      revised as follows:
+
+      Program H 1.1 (Affordable Housing Density Bonus): The analysis should explain why the
+      program was not advertised, and how the new program will provide adequate advertising
+      to make it more successful in the current housing element.
+
+      Program H 1.5 (Inclusionary Housing Program- Mixed Income Housing): Analysis of this
+      program should include an explanation of why this program was deemed infeasible, as
+      well as why the updated iteration of the program will be more successful.
+
+      Special Needs Populations: As part of the review of programs in the past cycle, the
+      element must provide cumulative evaluation of the effectiveness of goals, policies, and
+      related actions in meeting the housing needs of special needs populations (e.g., elderly,
+      persons with disabilities, large households, female headed households, farmworkers and
+      persons experiencing homelessness).
+
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                           Page 1
+January 11, 2022
+   B. Housing Needs, Resources, and Constraints
+
+      1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+         Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+         the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+          Enforcement & Outreach: The element generally describes past outreach efforts and
+          fair housing services with the Housing Rights Center (HRC). However, largely, the
+          element does not address this requirement. For example, the element describes
+          outreach from 2019 but provides no information on the results of that outreach and how
+          it relates to affirmatively furthering fair housing (AFFH). Also, the element contains little
+          information on fair housing enforcement nor local knowledge from the fair housing
+          service provider. Enforcement should include data and evaluation (e.g., characteristics
+          of complaints) of any past or current fair housing lawsuits, findings, settlements,
+          judgements, and complaints as well as compliance with fair housing laws and a
+          description of ongoing outreach. The analysis could also evaluate data and the results
+          from any fair housing testing.
+
+          Integration and Segregation: The element provided some data on integration and
+          segregation across racial groups, familial status, disabilities, and income, but the
+          element must discuss and analyze this data for trends over time and patterns across
+          areas such as census tracts. Additionally, it must evaluate patterns at a regional basis,
+          comparing the City to the region.
+
+          Areas of Concentrated Poverty and Affluence: While the element included data on
+          Racially and Ethnically Concentrated Areas of Poverty (R/ECAP), it must provide an
+          analysis and tie the analysis to the concentrations of poverty in the segregation and
+          integration section. In addition, while the element included a map of Racially
+          Concentrated Areas of Affluence, it must also analyze it. The combination of the
+          R/ECAP and areas of affluence analyses will help guide goals and actions to address
+          fair housing issues. The analysis should evaluate the patterns and changes over time
+          at a local (e.g., neighborhood to neighborhood) and regional level (e.g., city to region).
+
+          Disparities in Access to Opportunity: While the element does provide data on
+          disparities in access to opportunity for residents of Santa Clarita, it should provide
+          analysis on access to transit throughout different areas of the City, as well as an
+          analysis of access to transit by protected group. This same methodology should be
+          employed to access to economic opportunity throughout the City. Access to economic
+          opportunity analysis should also include information on job proximity and employment
+          trends in relation to other factors such as patterns of segregation and poverty. In
+          addition, the education analysis should include a map to support the analysis. The
+          environmental analysis should address place-based strategies for Newhall and Canyon
+          Country.
+
+          Disproportionate Housing Needs including Displacement Risks: The element includes
+          some local and county data on cost burdened households (overpayment) and
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                              Page 2
+January 11, 2022
+          overcrowding (pp. 3-52 to 3-57). However, the element must evaluate trends and
+          patterns within the City for these subtopics. The element must also provide a local and
+          regional analysis for substandard housing and homelessness. In addition, the element
+          briefly mentions displacement but must still provide data, analysis and conclusions,
+          including analysis of displacement risk relating to disinvestment and disasters.
+
+          Site Inventory: The element must include an analysis demonstrating whether sites
+          identified to meet the RHNA are distributed throughout the community in a manner that
+          affirmatively furthers fair housing. A full analysis should address the income categories
+          of identified sites with respect to location, the number of sites and units by all income
+          groups and how that effects the existing patterns for all components of the assessment
+          of fair housing (e.g., segregation and integration, access to opportunity). The element
+          should also discuss whether the distribution of sites improves or exacerbates
+          conditions. If sites exacerbate conditions, the element should identify further program
+          actions that will be taken to mitigate this (e.g., anti-displacement strategies).
+
+          Local Data and Knowledge, and Other Relevant Factors: The element must include
+          local data, knowledge, and other relevant factors to discuss and analyze any unique
+          attributes about the City related to fair housing issues. The element should
+          complement federal, state, and regional data with local data and knowledge where
+          appropriate to capture emerging trends and issues, including utilizing knowledge from
+          local and regional advocates and service providers. Also, the element must include
+          other relevant factors that contribute to fair housing issues in the jurisdiction. For
+          instance, the element can analyze historical land use and investment practices or other
+          information and demographic trends.
+
+          Contributing Factors to Fair Housing Issues: While the element identifies contributing
+          factors to fair housing issues, it should prioritize these factors to better formulate
+          policies and programs and carry out meaningful actions to AFFH. The element should
+          link contributing factors to specific programs where possible. In addition, many of the
+          strategies “consider” actions but do not provide implementation components to mitigate
+          the fair housing issues identified in the analysis.
+
+          Goals, Actions, Metrics, and Milestones: The element must be revised to add or modify
+          goals and actions based on the outcomes of a complete analysis. Goals and actions
+          must specifically respond to the analysis and to the identified and prioritized
+          contributing factors to fair housing issues and must be significant and meaningful
+          enough to overcome identified patterns and trends. Actions must have specific
+          commitment, metrics and milestones as appropriate, and must address housing
+          mobility enhancement, new housing choices and affordability in high opportunity areas,
+          place-based strategies for community preservation and revitalization and displacement
+          protection.
+
+      2. Include an analysis of population and employment trends and documentation of
+         projections and a quantification of the locality's existing and projected needs for all
+         income levels, including extremely low-income households. (Gov. Code, § 65583,
+         subd. (a)(1).)
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                             Page 3
+January 11, 2022
+          Extremely Low-Income (ELI) Households: The element incudes some basic information
+          regarding ELI households such as the methodology of calculating the number of
+          projected ELI households for the 6th cycle RHNA. However, the element should also
+          clearly state the projected number of ELI households. Additionally, given the unique
+          and disproportionate needs of ELI households, the element must include analysis to
+          better formulate policies and programs.
+
+          Housing Costs: While the element includes information on sales prices, the element
+          must also include average rental cost information. Please note that the American
+          Community Survey does not fully reflect current market conditions and the element
+          should include additional data sources.
+
+          Overpayment: While the element identifies the total number of households overpaying
+          for housing, it must also quantify and analyze the number of households overpaying by
+          tenure (i.e., renter and owner), including lower-income households.
+
+      3. Include an analysis and documentation of household characteristics, including level of
+         payment compared to ability to pay, housing characteristics, including overcrowding,
+         and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+          Housing Conditions: The element identifies the age of the housing stock (p. 53 & 54).
+          However, it must include analysis of the condition of the existing housing stock and
+          estimate the number of units in need of rehabilitation and replacement. For example,
+          the analysis could include estimates from a recent windshield survey or sampling,
+          estimates from the code enforcement agency, or information from knowledgeable
+          builders/developers, including non-profit housing developers or organizations.
+
+      4. An inventory of land suitable and available for residential development, including
+         vacant sites and sites having realistic and demonstrated potential for redevelopment
+         during the planning period to meet the locality’s housing need for a designated income
+         level, and an analysis of the relationship of zoning and public facilities and services to
+         these sites. (Gov. Code, § 65583, subd. (a)(3).)
+
+          The City has a regional housing need allocation (RHNA) of 10,031 housing units, of
+          which 5,131 are for lower-income households. To address this need, the element relies
+          on vacant and nonvacant sites, including sites in Specific Plan Areas and within Mixed-
+          Use areas. To demonstrate the adequacy of these sites and strategies to
+          accommodate the City’s RHNA, the element must include complete analyses:
+
+          Progress in Meeting the RHNA: The City’s RHNA may be reduced by the number of
+          new units built since June 30, 2021. The element indicates (p. 57) 9,135 planned,
+          approved pending units toward the RHNA, but it must indicate where each project is in
+          the development process. It must also demonstrate the affordability of the units.
+          Specifically, the element must assign these units to the various income groups based
+          on actual or anticipated sales price or rent level of the units or other mechanisms
+
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                            Page 4
+January 11, 2022
+          ensuring affordability (e.g., deed-restrictions) and demonstrate their availability in the
+          planning period.
+
+          Sites Inventory: The element must include the general plan designation for all sites
+          listed in the sites inventory. In addition, the element should include a map of the sites.
+
+          Realistic Capacity: The element (p. 58) mentions an assumption of 75 percent of
+          maximum allowable densities to calculate residential capacity on identified sites and
+          includes a few examples of recent developments. However, the element should include
+          supporting information on typical densities of existing or approved residential
+          developments at a similar affordability level for all affordability levels. For example, the
+          element could clearly list other recent projects, the zone, acreage, built density,
+          allowable density, level of affordability and presence of exceptions such as a density
+          bonus. The realistic capacity analysis should provide examples to support development
+          assumptions for all income levels and must also clarify whether the assumptions are
+          for both vacant and nonvacant sites. The estimate of the number of units for each site
+          must be adjusted as necessary, based on the land use controls and site improvements,
+          typical densities of existing or approved residential developments at a similar
+          affordability level in that jurisdiction, and on the current or planned availability and
+          accessibility of sufficient water, sewer, and dry utilities.
+
+          In addition, the element appears to assume residential development on sites with
+          zoning that allow 100 percent nonresidential uses. The element must account for the
+          likelihood of nonresidential uses. For example, the element could analyze all
+          development activity in these nonresidential zones, how often residential development
+          occurs and adjust residential capacity calculation, policies and program accordingly.
+          The element should include analysis based on factors such as development trends,
+          performance standards or other relevant factors.
+
+          Suitability of Nonvacant Sites: The element must include an analysis demonstrating the
+          potential for redevelopment of nonvacant sites. The description of existing uses should
+          be sufficiently detailed to facilitate an analysis demonstrating the potential for additional
+          development in the planning period. In addition, the element needs to analyze the
+          extent that existing uses may impede additional residential development. The element
+          can summarize past experiences converting existing uses to higher density residential
+          development, include current market demand for the existing use, provide analysis of
+          existing leases or contracts that would perpetuate the existing use or prevent additional
+          residential development and include current information on development trends and
+          market conditions in the City and relate those trends to the sites identified. The element
+          could also consider indicators such as age and condition of the existing structure
+          expressed developer interest, low improvement to land value ratio, and other factors.
+
+          Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre in
+          size is deemed inadequate to accommodate housing for lower-income households
+          unless it is demonstrated, with sufficient evidence, that sites are suitable to
+          accommodate housing for lower-income households. The element must provide
+          specific examples of sites with similar densities and affordability and should relate
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                              Page 5
+January 11, 2022
+          these examples to the sites identified to accommodate the RHNA for lower-income
+          households to demonstrate that these sites can adequately accommodate the City’s
+          lower-income housing need. Based on a complete analysis, the City should consider
+          adding or revising programs to include incentives for facilitating development on small
+          sites.
+
+          Replacement Housing Requirements: If the sites inventory identifies sites with existing
+          residential uses, it must identify whether the current residential uses are affordable to
+          lower-income households or describe whether the additional residential development
+          on the site requires the demolition of the existing residential use. For nonvacant sites
+          with existing, vacated, or demolished residential uses and occupied by, or subject to an
+          affordability requirement for, lower-income households within the last five years there
+          must be a replacement housing program for units affordable to lower-income
+          households. (Gov. Code, § 65583.2, subd. (g)(3).) Absent a replacement housing
+          program, these sites are not adequate sites to accommodate lower-income
+          households. The replacement housing program has the same requirements as set forth
+          in Government Code section 65915, subdivision (c)(3). The housing element must be
+          revised to include such analysis and a program, if necessary.
+
+          Sites Identified in Multiple Planning Periods: The element must include a program for
+          vacant sites identified in two of more consecutive planning periods’ housing elements
+          or nonvacant sites identified in a prior housing element, that are currently identified to
+          accommodate housing for lower income households. The program must be
+          implemented within the first three years of the planning period and commit to zone for
+          the following:
+
+                 •   sites must meet the density requirements for housing for lower income
+                     households, and
+                 •   allow by-right approval for housing developments that include 20 percent or
+                     more of its units affordable to lower income households. (Gov. Code, §
+                     65583.2, subd. (c).)
+
+          Accessory Dwelling Units (ADU): The element projects 400 ADUs over the planning
+          period or approximately 50 ADUs per year over the eight-year planning period. Given
+          that the City has only produced an average of 28 units per year since 2018, it is not
+          clear if this production level will be achievable in the planning period. As a result, the
+          element should be updated to include a realistic estimate of the potential for ADUs and
+          include policies and programs that incentivize the production of ADUs. Depending on
+          the analysis, the element must commit to monitor ADU production throughout the
+          course of the planning period and implement additional actions if not meeting target
+          numbers anticipated in the housing element. In addition to monitoring production, this
+          program should also monitor affordability. Additional actions, if necessary, should be
+          taken in a timely manner (e.g., within six months). Finally, if necessary, the degree of
+          additional actions should be in stride with the degree of the gap in production and
+          affordability. For example, if actual production and affordability of ADUs is far from
+          anticipated trends, then rezoning or something similar would be an appropriate action.
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                             Page 6
+January 11, 2022
+          If actual production and affordability is near anticipated trends, then measures like
+          outreach and marketing might be more appropriate.
+
+          Availability of Infrastructure: The element includes some discussion on water and
+          sewer providers in the City. However, it must also clarify whether sufficient total water,
+          sewer, and dry utility capacity (existing and planned) can accommodate the regional
+          housing need for each income category and include programs if necessary. In addition,
+          the element must clarify when the two new sewer facilities will be available and
+          whether the water reclamation plants (p. 109) are needed to accommodate wastewater
+          to meet RHNA over the planning period.
+
+          Environmental Constraints: While the element generally describes a few environmental
+          conditions within the City (p. 64), it must relate those conditions to identified sites and
+          describe any other known environmental or other constraints that could impact housing
+          development on identified sites in the planning period.
+
+          Zoning for a Variety of Housing Types:
+
+             •   Emergency Shelters: The element should describe the development standards
+                 of the P/I zone that allows emergency shelters by-right and must also describe
+                 the characteristics and suitability of the zone. In addition, the element should
+                 describe how emergency shelter parking requirements are in line with
+                 AB139/Government Code section 65583, subdivision (a)(4)(A) or include a
+                 program as necessary.
+             •   Transitional and Supportive Housing: The element includes some information on
+                 transitional housing (p. 70 & 97), but the City only allows the use in residential
+                 zoning districts. Transitional housing and supportive housing must be permitted
+                 as a residential use in all zones allowing residential uses and only subject to
+                 those restrictions that apply to other residential dwellings of the same type in the
+                 same zone. (Gov. Code, § 65583, subd. (a)(5).) The element must add or revise
+                 programs to comply with the statutory requirements.
+             •   Permanent Supportive Housing: Supportive housing shall be a use by-right in
+                 zones where multifamily and mixed uses are permitted, including nonresidential
+                 zones permitting multifamily uses pursuant to Government Code section 65651.
+                 The element must demonstrate compliance with this requirement and include
+                 programs as appropriate.
+             •   Low Barrier Navigation Centers: Low Barrier Navigation Centers shall be a use
+                 by-right in zones where multifamily and mixed uses are permitted, including
+                 nonresidential zones permitting multifamily uses pursuant to Government Code
+                 section 65660. The element must demonstrate compliance with this requirement
+                 and include programs as appropriate.
+             •   Employee Housing: The element must demonstrate zoning is consistent with the
+                 Employee Housing Act (Health and Safety Code, § 17000 et seq.), specifically,
+                 sections 17021.5 and 17021.6. Section 17021.5 requires employee housing for
+                 six or fewer employees to be treated as a single-family structure and permitted
+                 in the same manner as other dwellings of the same type in the same zone.
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                             Page 7
+January 11, 2022
+                 Section 17021.6 requires employee housing consisting of no more than 12 units
+                 or 36 beds to be permitted in the same manner as other agricultural uses in the
+                 same zone. The element should add programs as appropriate.
+             •   Manufactured Housing: Table 21 (p. 95) must clarify that manufactured housing
+                 is allowed as a single-family residence if on a permanent foundation. If the
+                 zoning does not comply, a program should be added.
+             •   Accessory Dwelling Units (ADUs): After a cursory review of the City’s ordinance,
+                 the department discovered several areas which were not consistent with State
+                 ADU law. This includes, but is not limited to, not allowing ADUs by right in all
+                 residential zones, and side and rear setback requirements. The Department will
+                 provide a complete listing of ADU non-compliance issues under a separate
+                 cover. As a result, the element should add a program to update the City’s ADU
+                 ordinance in order to comply with State law. For more information, please
+                 consult HCD’s ADU Guidebook, published in December 2020, which provides
+                 detailed information on new state requirements surrounding ADU development.
+
+      5. An analysis of potential and actual governmental constraints upon the maintenance,
+         improvement, or development of housing for all income levels, including the types of
+         housing identified in paragraph (1) of subdivision (c), and for persons with disabilities
+         as identified in the analysis pursuant to paragraph (7), including land use controls,
+         building codes and their enforcement, site improvements, fees and other exactions
+         required of developers, and local processing and permit procedures. The analysis shall
+         also demonstrate local efforts to remove governmental constraints that hinder the
+         locality from meeting its share of the regional housing need in accordance with
+         Government Code section 65584 and from meeting the need for housing for persons
+         with disabilities, supportive housing, transitional housing, and emergency shelters
+         identified pursuant to paragraph (7).
+
+          Land Use Controls: The element must identify and analyze all relevant land use
+          controls impacts as potential constraints on a variety of housing types. The analysis
+          should analyze land use controls independently and cumulatively with other land use
+          controls. The element must specifically include requirements related to heights, set-
+          backs, lot coverage, unit sizes and limits on allowable densities. The analysis should
+          address any impacts on cost, supply, housing choice, affordability, timing, approval
+          certainty and ability to achieve maximum densities and include programs to address
+          identified constraints. In addition, the element discusses parking requirements including
+          enclosed spaces, two spaces for one-bedroom units for multifamily development, high
+          guest parking requirements, and specific parking standards for residential care
+          services. These parking requirements must be analyzed as a constraint and addressed
+          with a program.
+
+          Fees and Exaction: The element should clarify if all fees are the same for single and
+          multifamily developments, and whether multifamily fees listed are per unit. In addition,
+          the element must list fees for subdivisions, specific plans, and environmental review.
+          The element should describe typical total fees for single-family and multifamily
+          development as a percent of the total cost of the development. Lastly, the element
+          identifies impact fees as a constraint and therefore must add a program to mitigate it.
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                           Page 8
+January 11, 2022
+          Local Processing and Permit Procedures: While the element includes information about
+          processing times, it should also describe the procedures for a typical single family and
+          multifamily development. The analysis should address the approval body, the number
+          of public hearing if any, approval findings and any other relevant information. The
+          analysis should address impacts on housing cost, supply, timing and approval
+          certainty. The element should also address whether permits and other requirements
+          can be processed concurrently, whether processing times are the same for single and
+          multifamily developments, as well as address the long length of time to process
+          reasonable accommodation and conditional use permits. Additionally, while the
+          element provides a description (p. 104) of the Conditional use permit (CUP) required
+          for housing developments, it must describe and analyze the CUP process, including
+          typical findings and approval procedures by zone and housing type. The analysis must
+          evaluate the processing and permit procedures’ impacts as potential constraints on
+          housing supply and affordability. Lastly, the element should describe the process and
+          findings for a development review permit.
+
+          Design Review: The element must describe and analyze the design review guidelines
+          and process, including approval procedures and decision-making criteria, for their
+          impact as potential constraints on housing supply and affordability. For example, the
+          analysis could describe required findings and discuss whether objective standards and
+          guidelines improve development certainty and mitigate cost impacts. The element must
+          demonstrate this process is not a constraint or it must include a program to address
+          this permitting requirement, as appropriate.
+
+          On/Off-Site Improvements: The element must identify subdivision level improvement
+          requirements, such as minimum street widths (e.g., 40-foot minimum street width) and
+          analyze their impact as potential constraints on housing supply and affordability.
+
+          Constraints on Housing for Persons with Disabilities: The element excludes group
+          homes for seven or more persons from some residential zones and subjects the use to
+          a conditional use permit, unlike other similar uses. The element should specifically
+          analyze these constraints for impacts on housing supply and choices and approval
+          certainty and objectivity for housing for persons with disabilities and include programs
+          as appropriate. The element also requires a development review permit, not an
+          administrative permit for group homes with six or fewer persons. The element must
+          include a program to revise the requirements for group homes. Additionally, the
+          element briefly describes its reasonable accommodation procedures, but it should also
+          describe the process and decision-making criteria such as approval findings and
+          analyze any potential constraints on housing for persons with disabilities. The element
+          should also provide a clear definition of “family”. Lastly, the element must clarify
+          whether specific plans allow for residential care facilities as well as transitional and
+          supportive housing.
+
+          Zoning, Development Standards and Fees: The element must clarify compliance with
+          new transparency requirements for posting all zoning, development standards and fees
+          on the City’s website and add a program to address these requirements, if necessary.
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                          Page 9
+January 11, 2022
+          Local Ordinances: The element must specifically analyze locally adopted ordinances
+          such as short-term rental ordinances that directly impact the cost and supply of
+          residential development. The analysis should demonstrate local efforts to remove
+          governmental constraints that hinder the locality from meeting its share of the regional
+          housing need and from meeting the need for housing for persons with disabilities,
+          supportive housing, transitional housing, and emergency shelters.
+
+          SB 35 Streamlined Ministerial Approval Process: The element must clarify whether
+          there are written procedures for the SB 35 (Chapter 366, Statutes of 2017) Streamlined
+          Ministerial Approval Process and add a program to address these requirements.
+
+      6. An analysis of potential and actual nongovernmental constraints upon the
+         maintenance, improvement, or development of housing for all income levels, including
+         the availability of financing, the price of land, the cost of construction, the requests to
+         develop housing at densities below those anticipated in the analysis required by
+         subdivision (c) of Government Code section 65583.2, and the length of time between
+         receiving approval for a housing development and submittal of an application for
+         building permits for that housing development that hinder the construction of a locality’s
+         share of the regional housing need in accordance with Government Code section
+         65584. The analysis shall also demonstrate local efforts to remove nongovernmental
+         constraints that create a gap between the locality’s planning for the development of
+         housing for all income levels and the construction of that housing. (Gov. Code,
+         § 65583, subd. (a)(6).)
+
+          Land Costs: The element describes the median home value but must list the cost of
+          land zoned for single and multifamily developments.
+
+          Approval Time and Requests Lesser Densities: The element must be revised to include
+          analysis of requests to develop housing at densities below those anticipated, and the
+          length of time between receiving approval for a housing development and submittal of
+          an application for building permits that potentially hinder the construction of a locality’s
+          share of the regional housing need. The analysis should also include efforts by the City
+          to address identified nongovernmental constraints.
+
+      7. Analyze any special housing needs such as elderly; persons with disabilities, including
+         a developmental disability; large families; farmworkers; families with female heads of
+         households; and families and persons in need of emergency shelter. (Gov. Code, §
+         65583, subd. (a)(7).)
+
+          While the element quantifies (Appendix A) the City’s special needs populations, it must
+          also analyze their special housing needs. For a complete analysis of each population
+          group, the element should discuss challenges faced by the population, the existing
+          resources to meet those needs (availability senior housing units, number of large units,
+          number of deed restricted units, etc.,), an assessment of any gaps in resources, and
+          proposed policies, programs, and funding to help address those gaps.
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                            Page 10
+January 11, 2022
+      8. Analyze the opportunities for energy conservation with respect to residential
+         development. (Gov. Code, § 65583(a)(8).)
+
+          The element must provide an analysis of opportunities for energy conservation in
+          residential development. For example, the element could describe the “green Santa
+          Clarita” program and could include incentives the City offers to encourage green
+          building practices, or policies the City implements to encourage higher density
+          developments and compact infill development, or passive solar design.
+
+      9. Analyze existing assisted housing developments that are eligible to change to nonlow-
+         income housing uses during the next 10 years due to termination of subsidy contracts,
+         mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+         (a)(9) through 65583(a)(9)(D).).
+
+          The element must clarify when the use restriction for Orchard Arms expires. If the
+          restriction ends within the next 10 years, the element must include an at-risk analysis
+          (Gov. Code, § 65583, subd. (a)(9).).
+
+
+   C. Housing Programs
+
+      1. Include a program which sets forth a schedule of actions during the planning period,
+         each with a timeline for implementation, which may recognize that certain programs
+         are ongoing, such that there will be beneficial impacts of the programs within the
+         planning period, that the local government is undertaking or intends to undertake to
+         implement the policies and achieve the goals and objectives of the Housing Element
+         through the administration of land use and development controls, the provision of
+         regulatory concessions and incentives, and the utilization of appropriate federal and
+         state financing and subsidy programs when available. The program shall include an
+         identification of the agencies and officials responsible for the implementation of the
+         various actions. (Gov. Code, § 65583, subd. (c).)
+
+          To address the program requirements of Gov. Code section 65583, subd. (c)(1-6), and
+          to facilitate implementation, programs should include: (1) a description of the City’s
+          specific role in implementation; (2) definitive implementation timelines (i.e. month and
+          year); (3) objectives, quantified where appropriate; and (4) identification of responsible
+          agencies and officials. Programs to be revised include the following:
+
+          Program HP-1.4 (Affordable Housing Density Bonus): Program should clarify if the
+          existing density bonus ordinance will be updated and/or implemented by 2023. If not,
+          the program should include a timeline of when the ordinance will be updated. The
+          portion of the program that will be “considered” should also be modified to include a
+          more discrete implementation component.
+
+          Program HP-1.5 (Mixed Use Overlay Zone): If the program is continuing from the past
+          element, the element should describe what will be implemented by 2024. It should also
+          specify whether the listed incentives are currently in place, or if they are yet to be
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                           Page 11
+January 11, 2022
+          implemented. If they are not currently in place, the program should include a timeline
+          as to when they will be available.
+
+          Program HP-1.6 (Graduated Density Zoning and Site Consolidation—Old Town
+          Newhall): Program should be revised to provide a clear timeline as to what will be
+          accomplished by 2024. Specifically, this program should clarify whether the offered
+          incentives are only applicable if the whole block develops, and how likely this is.
+
+          Program HP-1.7 (Inclusionary Housing Program- Mixed Income Housing): The
+          program should be revised to include implementation element, not just “consider”, as
+          well as what incentives are being considered, and what will be accomplished by 2024.
+
+          Program HP-1.8 (Affordable Sites Incentive Program): The program should clarify if the
+          City already offers the incentives described in the program, whether the approval of
+          incentives is discretionary and include an implementation date for the incentives.
+
+          Program HP-1.12 (First Time Homebuyer Programs and Developers): This program
+          should describe the implementation goal of the program, and whether any proactive
+          outreach has or will be included as a part of this implementation.
+
+          Program HP-2.1 (Funding Priority to Extremely Low-income Affordable Housing): This
+          program should describe how projects be prioritized, which programs are included, and
+          also describe how often programs will be reviewed or added as a part of this program.
+
+          Program HP-2.3 (Collaboration with Non-Profit Affordable Housing Developers): This
+          program should clarify when the RFP will be made available, as well as how often it will
+          occur. The program should also include a proactive outreach component.
+
+          Program HP-2.4 (Flexible Development Standards): This program should clarify
+          whether the incentives included in the program are currently in place, and if not, it
+          should give a date as to when such incentives will be available. The program should
+          include a specific timeline for implementation and a proactive outreach component.
+
+          Program HP-2.5 (Fee Reductions or Deferrals for Affordable and Special Needs
+          Housing): This program should describe what determines eligibility and whether the
+          eligibility determination is discretionary. The program should also strengthen the
+          implementation language beyond “consider” being that fees were identified as a
+          constraint. A specific timeframe for implementation should also be included.
+
+          Program HP-2.6 (Expedited Processing for Affordable Housing Projects): The program
+          should be modified to include outreach to developers as well as how often.
+
+          Program HP-3.2 (Handyworker Program): The program should be modified to explain if
+          there will be proactive outreach to residents, clarify if the program will occur annually,
+          and include a specific timeframe for implementation.
+
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                          Page 12
+January 11, 2022
+          Program HP-3.3 (Property Rehabilitation Program): The program should be modified to
+          provide proactive outreach to residents as well as often outreach will be conducted.
+
+          Program HP-3.6 (Workforce Housing Program): This program should include proactive
+          outreach, a description of how often properties will be considered for the program, and
+          specific implementation timing.
+
+          Program HP-4.2 (Monitoring of Codes and Ordinances to Remove Barriers): The
+          program should be revised to include an implementation component and should
+          discuss if codes and ordinances be revised, and how often they will be monitored.
+
+          Program HP-4.3 (Homeless Case Management): The program timeframe should be
+          revised to state how often the City will apply for financial assistance.
+
+          Program HP-4.10 (Proactive Community Preservation): The program should describe
+          how repairs and maintenance are funded, quantify how many houses will be assisted
+          by the program (e.g. is it only available in listed neighborhoods?), as well as specify
+          how often program activities will occur.
+
+      2. Identify actions that will be taken to make sites available during the planning period
+         with appropriate zoning and development standards and with services and facilities to
+         accommodate that portion of the city’s or county’s share of the regional housing need
+         for each income level that could not be accommodated on sites identified in the
+         inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+         to comply with the requirements of Government Code section 65584.09. Sites shall be
+         identified as needed to facilitate and encourage the development of a variety of types
+         of housing for all income levels, including multifamily rental housing, factory-built
+         housing, mobilehomes, housing for agricultural employees, supportive housing, single-
+         room occupancy units, emergency shelters, and transitional housing.
+         (Gov. Code, § 65583, subd. (c)(1).)
+
+          As noted in Finding B4, the element does not include a complete site analysis,
+          therefore, the adequacy of sites and zoning were not established. Based on the results
+          of a complete sites inventory and analysis, the City may need to add or revise
+          programs to address a shortfall of sites or zoning available to encourage a variety of
+          housing types.
+
+      3. The Housing Element shall contain programs which assist in the development of
+         adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+         income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+          While the element includes programs to assist in the development of very low-, low-,
+          and moderate-income households, it must also include a program(s) to assist in the
+          development of housing for all special needs households (e.g., elderly, homeless,
+          farmworkers, persons with disabilities, female-headed households). Program actions
+          could include proactive outreach and assistance to non-profit service providers and
+          developers, prioritizing some funding for housing developments affordable to special
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                          Page 13
+January 11, 2022
+          needs households and offering financial incentives or regulatory concessions to
+          encourage a variety of housing types.
+
+      4. Address and, where appropriate and legally possible, remove governmental and
+         nongovernmental constraints to the maintenance, improvement, and development of
+         housing, including housing for all income levels and housing for persons with
+         disabilities. The program shall remove constraints to, and provide reasonable
+         accommodations for housing designed for, intended for occupancy by, or with
+         supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+          As noted in Findings B5 and B6, the element requires a complete analysis of potential
+          governmental and nongovernmental constraints. Depending upon the results of that
+          analysis, the City may need to revise or add programs and address and remove or
+          mitigate any identified constraints. In addition, the following programs must be revised:
+
+          Program HP-4.4 (Housing for Persons with Disabilities): The program should describe
+          how the City will encourage development and whether the offered incentives are
+          already in place. It should also describe any proactive outreach plans for developers,
+          and how often funding for the program will be sought.
+
+          Program HP-4.7 (Administrative Process for Reasonable Accommodations): This
+          program should be modified to eliminate fees for applicants in the reasonable
+          accommodation process.
+
+      5. Promote and affirmatively further fair housing opportunities and promote housing
+         throughout the community or communities for all persons regardless of race, religion,
+         sex, marital status, ancestry, national origin, color, familial status, or disability, and
+         other characteristics protected by the California Fair Employment and Housing Act
+         (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and
+         any other state and federal fair housing and planning law. (Gov. Code, § 65583, subd.
+         (c)(5).)
+
+          As noted in Finding B1, the element must include a complete analysis of AFFH. The
+          element must be revised to add goals and actions based on the outcomes of a
+          complete analysis. Goals and actions must specifically respond to the analysis and to
+          the identified and prioritized contributing factors to fair housing issues and must be
+          significant and meaningful enough to overcome identified patterns and trends. Actions
+          must have specific commitment, metrics and milestones as appropriate and must
+          address housing mobility enhancement, new housing choices and affordability in high
+          opportunity areas, place-based strategies for community preservation and revitalization
+          and displacement protection. Currently the element addresses AFFH in Program
+          HP-4.12. while this program includes some action items, many are vague and include
+          actions that will only be considered. Program HP-4.12 must also include
+          implementation components, timeframes, responsible parties, as well as metrics and
+          milestones. In addition, Program 5A should also describe how all the City’s housing
+          programs comply with and further the requirements and goals of Government Code
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                          Page 14
+January 11, 2022
+          section 8899.50, subdivision (b). Lastly, Program HP-4.6 (Fair Housing Programs)
+          should describe how often training and outreach be provided.
+
+      6. The housing program shall preserve for low-income household the assisted housing
+         developments identified pursuant to paragraph (9) of subdivision (a). The program for
+         preservation of the assisted housing developments shall utilize, to the extent
+         necessary, all available federal, state, and local financing and subsidy programs
+         identified in paragraph (9) of subdivision (a), except where a community has other
+         urgent needs for which alternative funding sources are not available. The program may
+         include strategies that involve local regulation and technical assistance. (Gov. Code, §
+         65583, subd. (c)(6).)
+
+          Program HP-3.5 (Preservation of At-Risk Housing) should include proactive outreach
+          to owners at least three years before expiration of affordability to inform owners of state
+          preservation notice law requirements (Gov. Code Sections 65863.10, 65863.11,
+          65863.13). It should also assist in outreach to qualified entities with potential interest to
+          try and maintain affordability levels and clarify how often funding will be monitored.
+
+      7. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+         that can be offered at affordable rent, as defined in Section 50053 of the Health and
+         Safety Code, for very low, low-, or moderate-income households. For purposes of this
+         paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling
+         unit” as defined in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code,
+         § 65583, subd. (c)(7).)
+
+          Programs must be expanded to include incentives to promote the creation and
+          affordability of ADUs. Examples include exploring and pursuing funding, modifying
+          development standards and reducing fees beyond state law, increasing awareness,
+          pre-approved plans and homeowner/applicant assistance tools. In addition, given the
+          City’s assumptions for ADUs exceed recent trends, the element should include a
+          program to monitor permitted ADUs and affordability every other year and take
+          appropriate action such as adjusting assumptions or rezoning within a specified time
+          period (e.g., six months).
+
+
+   D. Quantified Objectives
+
+      Establish the number of housing units, by income level, that can be constructed,
+      rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+      & 2).)
+
+      Quantified objectives should take into account the impact of all programs on the estimated
+      number of housing units to be constructed. Additionally, the element must include the
+      number of ELI units for new construction in the quantified objectives analysis.
+
+
+   E. Public Participation
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                             Page 15
+January 11, 2022
+      Local governments shall make a diligent effort to achieve public participation of all
+      economic segments of the community in the development of the Housing Element, and the
+      element shall describe this effort. (Gov. Code, § 65583, subd.(c)(8).)
+
+      While the City made effort to include the public through workshops and surveys, moving
+      forward, the City should employ additional methods for public outreach efforts to include all
+      economic segments of the community, particularly lower-income and special needs
+      households and neighborhoods with higher concentrations of lower-income and special
+      needs households. For example, the City could conduct targeted stakeholder interviews or
+      establish a committee representative of lower-income and special needs households in
+      future public outreach efforts. In addition, the element must clarify when the draft was
+      made available to the public. If the City did not make the draft available to the public prior
+      to submitting to HCD, the City has not yet complied with statutory mandates to make a
+      diligent effort to encourage the public participation in the development of the element and
+      it reduces HCD’s ability to consider public comments in the course of its review. The
+      availability of the document to the public and opportunity for public comment prior to
+      submittal to HCD is essential to the public process and HCD’s review. The City must
+      proactively make future revisions available to the public, including any commenters, prior
+      to submitting any revisions to HCD and diligently consider and address comments,
+      including making revisions to the document where appropriate. HCD’s future review will
+      consider the extent to which the revised element documents how the City solicited,
+      considered, and addressed public comments in the element. The City’s consideration of
+      public comments must not be limited by HCD’s findings in this review letter.
+
+
+
+
+City of Santa Clarita’s 6th Cycle Draft Housing Element                          Page 16
+January 11, 2022

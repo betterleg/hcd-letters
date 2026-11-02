@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Rancho Palos Verdes",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2025-01-23",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-rancho-palos-verdes-draft-in-012325-068cs00000X5dU1AAJ.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-rancho-palos-verdes-draft-in-012325-068cs00000X5dU1AAJ.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 177717,
+  "text_chars": 4256,
+  "text_empty": false
+}

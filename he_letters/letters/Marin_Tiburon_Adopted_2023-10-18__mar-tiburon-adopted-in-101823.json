@@ -1,0 +1,14 @@
+{
+  "county": "Marin",
+  "jurisdiction": "Tiburon",
+  "type": "Adopted",
+  "cycle": "",
+  "reviewed": "2023-10-18",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-tiburon-adopted-in-101823.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-tiburon-adopted-in-101823.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186859,
+  "text_chars": 6676,
+  "text_empty": false
+}

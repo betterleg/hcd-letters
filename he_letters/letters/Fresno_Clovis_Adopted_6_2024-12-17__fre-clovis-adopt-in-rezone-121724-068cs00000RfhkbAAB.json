@@ -1,0 +1,14 @@
+{
+  "county": "Fresno",
+  "jurisdiction": "Clovis",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-12-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-clovis-adopt-in-rezone-121724-068cs00000RfhkbAAB.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/fre-clovis-adopt-in-rezone-121724-068cs00000RfhkbAAB.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185230,
+  "text_chars": 5799,
+  "text_empty": false
+}

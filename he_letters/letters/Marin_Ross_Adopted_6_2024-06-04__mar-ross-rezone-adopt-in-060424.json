@@ -1,0 +1,14 @@
+{
+  "county": "Marin",
+  "jurisdiction": "Ross",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2024-06-04",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-ross-rezone-adopt-in-060424.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/mar-ross-rezone-adopt-in-060424.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 157113,
+  "text_chars": 4269,
+  "text_empty": false
+}

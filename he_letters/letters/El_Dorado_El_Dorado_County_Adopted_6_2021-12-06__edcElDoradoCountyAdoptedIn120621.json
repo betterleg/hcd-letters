@@ -1,0 +1,14 @@
+{
+  "county": "El Dorado",
+  "jurisdiction": "El Dorado County",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2021-12-06",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/edcElDoradoCountyAdoptedIn120621.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/edcElDoradoCountyAdoptedIn120621.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 175736,
+  "text_chars": 3043,
+  "text_empty": false
+}

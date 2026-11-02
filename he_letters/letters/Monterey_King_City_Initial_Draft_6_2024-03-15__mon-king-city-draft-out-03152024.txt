@@ -1,0 +1,691 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 15, 2024
+
+
+         Doreen Liberto, Director
+         Community Development Department
+         City of King
+         212 South Vanderhurst Ave
+         King City, CA 93930
+
+         Dear Doreen Liberto:
+
+         RE: City of King’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of King’s draft housing element that was received for
+         review on December 18, 2023. Pursuant to Government Code section 65585, the
+         California Department of Housing and Community Development (HCD) is reporting the
+         results of its review. In addition, HCD considered comments from LandWatch and David
+         Kellogg pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Gov. Code, § 65580 et seq). The
+         enclosed Appendix describes these, and other revisions needed to comply with State
+         Housing Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         Several federal, state, and regional funding programs consider housing element
+         compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+         (SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+         Communities program, and HCD’s Permanent Local Housing Allocation consider
+         housing element compliance and/or annual reporting requirements pursuant to
+         Government Code section 65400. With a compliant housing element, the City will meet
+         housing element requirements for these and other funding sources.
+Doreen Liberto, Director
+Page 2
+
+
+
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the effort and cooperation provided during the review. We are
+committed to assisting the City in addressing all statutory requirements of State Housing
+Element Law. If you have any questions or need additional technical assistance, please
+contact Mao Lee, of our staff, at Mao.Lee@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                        CITY OF KING
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   The element must evaluate the previous element and implementation for progress in
+   implementation, effectiveness of programs in achieving objectives and conclude the
+   appropriateness of programs for the new planning cycle. The element includes some
+   discussion of past programs but in some cases does not discuss progress in
+   implementation and in most cases, does not evaluate the effectiveness of programs in
+   achieving objectives. To address this requirement, the element could utilize a format that
+   clearly addresses all three of these evaluation criteria. HCD will send samples under
+   separate cover.
+
+   In addition, the element includes some discussion of programs intended to address special
+   housing needs but should still include an explanation of the effectiveness of goals, policies,
+   and related actions in meeting the housing needs of all special needs populations (e.g.,
+   elderly, persons with disabilities, large households, female-headed households,
+   farmworkers, and persons experiencing homelessness). Programs should be revised as
+   appropriate to reflect the results of this evaluation.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                         Page 1
+March 15, 2024
+      Enforcement and Outreach: The element must describe capacity to provide
+      enforcement and outreach which can consist of actions such as the ability to investigate
+      complaints, obtain remedies, or engage in fair housing testing. The element currently
+      described the City will obtain and disseminate information provided by the Fair Housing
+      Council of Monterey County (Housing Resource Center) but should also describe the
+      number and characteristics of housing discrimination complaints (page 141). The
+      analysis could evaluate data and the results from any fair housing testing. In addition,
+      the analysis must address compliance with existing fair housing laws as well as any
+      past or current fair housing lawsuits, findings, settlements, judgements, or complaints.
+      The city should also compare city data to surrounding jurisdictions. For additional
+      information, please see pages 28-30 on HCD’s Affirmatively Furthering Fair Housing
+      (AFFH) Guidance Memo at https://www.hcd.ca.gov/community-
+      development/affh/docs/AFFH_Document_Final_4-27-2021.pdf.
+
+      Assessment of Fair Housing: The element did not address this requirement. A complete
+      analysis should include data and maps on all fair housing components and analyze this
+      data for patterns and trends at a local (neighborhoods within the City) and regional level
+      (the City compared to the region) including disparities in access to opportunity,
+      segregation and integration, racially/ethnically concentrated areas of poverty and
+      disproportionate housing needs, including displacement risk. In addition to evaluating
+      trends and patterns, the element should analyze coincidences across components of
+      the assessment of fair housing. For example, an area of higher poverty may coincide
+      with high displacement risk. Lastly, the assessment should be complemented by local
+      data and knowledge and other relevant factors and add or modify goals and actions as
+      appropriate.
+
+      Identified Sites and AFFH: While the element provided a map of identified sites, it must
+      evaluate sites relative to the full scope of assessment of fair housing (e.g., segregation and
+      integration, disparities in access to opportunity and disproportionate housing needs). In
+      addition, the element should discuss how identified sites AFFH. This analysis should
+      discuss the regional housing need allocation (RHNA) by income group for identified sites,
+      including approved and pending development, the location of identified sites compared to all
+      components of the assessment of fair housing and analyze whether the location of sites
+      AFFH, including whether identified sites improve or exacerbate socio-economic
+      concentrations.
+
+      Local Data and Knowledge, and Other Relevant Factors: The element does not address
+      this requirement. The element must include local data, knowledge, and other relevant
+      factors to discuss and analyze any unique attributes about the City related to fair
+      housing issues. The element should complement federal, state, and regional data with
+      local data and knowledge where appropriate to capture emerging trends and issues,
+      including utilizing knowledge from local and regional advocates and service providers.
+      Also, the element must include other relevant factors that contribute to fair housing
+      issues in the jurisdiction. For instance, the element can analyze historical land use and
+      investment practices or other information and demographic trends.
+
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                           Page 2
+March 15, 2024
+      Contributing Factors to Fair Housing Conditions: Upon a complete analysis of AFFH,
+      the element should assess and prioritize contributing factors to fair housing issues.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Include an analysis and documentation of household characteristics, including level of
+      payment compared to ability to pay, housing characteristics, including overcrowding,
+      and housing stock condition. (Gov. Code, § 65583, subd. (a)(2).)
+
+      Analyze any special housing needs such as elderly; persons with disabilities, including a
+      developmental disability; large families; farmworkers; families with female heads of
+      households; and families and persons in need of emergency shelter. (Gov. Code, §
+      65583, subd. (a)(7).)
+
+      Extremely Low-Income (ELI) Households: The element must analyze the existing and
+      projected housing needs of ELI households. For projected housing needs, the element
+      can calculate ELI households by using available census data to determine the number
+      of very low-income households that qualify as ELI households or presume that 50
+      percent of the RHNA for very low-income households qualify as ELI households. For
+      existing housing needs, the element should analyze trends, cost burden, overcrowding
+      and other household characteristics then examine the effectiveness of policies and
+      resources to determine gaps in addressing housing needs. For additional information,
+      see the Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/extremely-low-income-housing-needs.
+
+      Housing Conditions: The element mentions the building official routinely inspects
+      housing and that most multifamily is in satisfactory condition but should also include an
+      estimate of the number of units in need of rehabilitation and replacement in the City.
+      The estimate can be based on building officials’ inspection and could also distinguish
+      between single-family, multifamily and mobile homes to better formulate appropriate
+      policies and programs.
+
+      Housing Costs: The element includes information on sales prices and rents based on
+      data from the American Community Survey (ACS) but should also utilize more current
+      data (e.g., Zillow, Apartments.com) to better reflect market conditions.
+
+      Special Housing Needs: The element should quantify and analyze the needs of persons
+      with developmental disabilities and persons experiencing homelessness in the City.
+      Further, while the element includes data on farmworkers, it should analyze their housing
+      needs to better formulate policies and programs. The analysis should address trends,
+      characteristics, disproportionate needs, the effectiveness of resources and strategies,
+      the magnitude of the housing need, including disproportionate housing need and the
+      effectiveness of past policies, programs, and funding to help address those gaps. The
+      analysis may utilize past farmworker housing studies and other studies generally
+      applicable to their special housing needs.
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                        Page 3
+March 15, 2024
+      For example, the element could utilize past studies and plans in the Monterey region or
+      a recent study conducted by University California at Merced that is available at
+      https://clc.ucmerced.edu/sites/clc.ucmerced.edu/files/page/documents/fwhs_report_2.2.
+      2383.pdf. Based on the outcomes of the analysis, the element should add or modify
+      programs to address this special housing need in the region.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+      Progress toward the RHNA: The element may utilize pending, approved or permitted
+      projects (Pipeline) since June 30, 2023 toward the RHNA. The element includes
+      discussion of some pending and approved projects but does not clearly list which
+      projects are being utilized toward the RHNA and appears to list some pipeline projects
+      as identified sites. The element should clearly list which pipeline projects are being
+      utilized toward the 6th cycle RHNA and then demonstrate their affordability and
+      availability or likelihood of being built in the planning period. The element should
+      demonstrate affordability based on anticipated or actual sales or rents or other
+      mechanisms that ensure affordability (e.g., deed-restrictions). For availability, the
+      element should discuss status, remaining steps and any know barriers to development
+      in the planning period. Lastly, given the reliance on pipeline projects, the element
+      should include a program to monitor progress toward completion in the planning period
+      and at a specified date (e.g., 2027) evaluate whether the pipeline projects will likely be
+      completed in the planning period and if not, identify alternative measures (e.g.,
+      rezoning) by a specified date.
+
+      Parcel Listing: The element lists parcels by various factors such as size and zoning.
+      However, the element must also list sites by existing uses for nonvacant sites, number
+      of units that can be realistically accommodated and anticipated affordability (lower-,
+      moderate- and above moderate-income).
+
+      Realistic Capacity: While the element provided assumptions of buildout for sites
+      included in the inventory, it must also provide support for these assumptions. For
+      example, the element should demonstrate what specific trends, factors, and other
+      evidence led to the assumptions. The estimate of the number of units for each site must
+      be adjusted as necessary, based on land use controls and site improvements and
+      typical densities of existing or approved residential developments at a similar
+      affordability level.
+
+      In addition, the element appears to assume residential development on sites with
+      zoning that allow 100 percent nonresidential uses. The calculation of realistic residential
+      capacity must account for the likelihood of 100 percent nonresidential uses. For
+      example, the element could analyze all development activity in these nonresidential
+      zones, how often residential development occurs and adjust residential capacity
+      calculation, policies and program accordingly.
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                          Page 4
+March 15, 2024
+      Suitability of Nonvacant Sites: The element did not address this requirement. The
+      element must include an analysis to demonstrate the potential for redevelopment. The
+      analysis shall consider factors including, but not limited to, the extent existing uses
+      constitute an impediment, recent developments, development trends and market
+      conditions.
+
+      Small and Large Sites: Sites larger than ten acres in size or smaller than a half-acre in
+      size are deemed inadequate to accommodate housing for lower-income households
+      unless sites of equivalent size and affordability were developed in the prior planning
+      period or the element demonstrates, with sufficient evidence, that sites are suitable to
+      accommodate housing for lower-income households. For small sites, the element
+      should provide specific examples with the densities, affordability and, if applicable,
+      circumstances leading to consolidation. The element should relate these examples to
+      the sites identified to accommodate the RHNA for lower-income households to
+      demonstrate that these sites can adequately accommodate the City’s lower-income
+      housing need. For large sites, the element must provide evidence to demonstrate the
+      suitability of sites larger than ten acres to accommodate housing for lower-income
+      households. The evidence could include additional discussion on how development
+      might occur on the sites, analysis of prior redevelopment of large sites for affordable
+      housing, or other evidence to demonstrate the suitability of these sites. Based on a
+      complete analysis, the City should consider adding or revising programs to include
+      incentives for facilitating development on small and large sites.
+
+      Infrastructure: While the element generally describes infrastructure, it should clarify
+      whether there is sufficient total capacity (existing and planned) to accommodate the
+      RHNA. Further, based on the outcomes of a complete analysis, the element should add
+      or modify programs to address any infrastructure challenges.
+
+      In addition, while the element includes Program 1 (Emphasize Infill Development) to
+      coordinate with water and sewer providers, it should clarify whether the City is the City
+      sewer provider and if so, modify programs to establish a written procedure to grant
+      priority service to development with units affordable to lower-income households.
+
+      Environmental Constraints: While the element discussed environmental constraints, it
+      should also relate these constraints to identified sites and address any other conditions
+      that could preclude development in the planning period. Examples of other conditions
+      include shape, access, contamination, relocation, title conditions, historic preservation,
+      easements, conservation easements, agricultural easements, Williamson Act contracts
+      and airport compatibility.
+
+      Sites Identified in Prior Planning Periods: Sites identified in prior planning periods
+      generally shall not be deemed adequate to accommodate the housing needs for lower-
+      income households unless a program, meeting statutory requirements, requires
+      rezoning within one or three years. The element should clarify if sites were identified in
+      prior planning periods and if so, which sites and include a program if utilizing previously
+      identified sites in the current planning period. The program should rezone and permit
+      housing developments with 20 percent affordability by-right (without discretionary
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                         Page 5
+March 15, 2024
+      action) at appropriate densities pursuant to Government Code section 65583.2,
+      subdivision (c)).
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+      Zoning for a Variety of Housing Types:
+
+          •   Emergency Shelters: While the City mentions emergency shelters are permitted
+              by-right in the C-2 zoning district, it must still demonstrate appropriate zoning and
+              adequate capacity to accommodate the need for emergency shelters. The
+              analysis should:
+
+                 -   Clarify whether shelters are permitted without discretionary action.
+                 -   Analyze the actual development standards, including parking
+                     requirements that should be limited to the number needed for staff.
+                 -   Describe the suitability of capacity, including acreage, parcel sizes and
+                     whether existing uses impede additional development and proximity of
+                     acreage to transportation and services.
+                 -   Describe the definition of emergency shelters and consistency with
+                     statutory requirements to include interim interventions.
+
+          •   Low Barrier Navigation Centers: Low Barrier Navigation Centers shall be a use by-
+              right in zones where multifamily and mixed uses are permitted, including
+              nonresidential zones permitting multifamily uses pursuant to Government Code
+              section 65660. The element must demonstrate compliance with this requirement and
+              include programs as appropriate.
+
+          •   Supportive and Transitional Housing: The element noted that supportive and
+              transitional housing are permitted in the C-2 Zoning District. However, the analysis
+              should be revised to indicate whether transitional and supportive housing are
+              allowed in all other zones that allow for residential uses (e.g., R-1, R-2, R-3, R-4
+              zones, etc.). The element should clarify whether the City permits these types of
+              housing as a residential use and only subject to those restrictions that apply to other
+              residential dwellings of the same type in the same zone pursuant to Government
+              Code section 65583 (a)(5).
+
+          •   By-right Permanent Supportive Housing: By-right Permanent supportive housing
+              shall be a use by-right in zones where multifamily and mixed uses are permitted,
+              including nonresidential zones permitting multifamily uses pursuant to Government
+              Code section 65651. The element must demonstrate compliance with these
+              requirements and include programs as appropriate.
+
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                            Page 6
+March 15, 2024
+          •   Accessory Dwelling Units (ADUs): The element notes the City recently adopted
+              an ADU ordinance. However, the element should contain a program that modifies
+              the ADU ordinance as necessary upon HCD review.
+
+          •   Employee Housing: The element must demonstrate zoning is consistent with the
+              Employee Housing Act (Health and Safety Code, § 17000 et seq.), Section
+              17021.6 requires employee housing consisting of no more than 12 units or 36
+              beds to be permitted in the same manner as other agricultural uses in the same
+              zone. The element appears to indicate (Table 6.3.1) that these uses are subject
+              to a conditional use permit (CUP). The element should either clarify these uses
+              are not subject to a CUP or add or modify programs to comply with these
+              requirements. In addition, section 17021.8 requires that a development is subject
+              to a streamlined, ministerial approval process and is not subject to a CUP if the
+              development is an eligible agricultural employee housing development. Based on
+              a complete analysis, the element should add or modify programs.
+
+          •   Single Room Occupancy (SRO): The element should describe whether the City
+              allows SROs, clarify which zones allow the use, analyze whether development
+              standards encourage the use and add or modify programs as appropriate.
+
+          •   Manufactured Housing: The element appears to include a program (Program 7 –
+              allow mobile homes) intended to amend zoning to permit manufactured housing
+              on a foundation as a single-family use but does not clearly commit to comply with
+              statutory requirements. The element should clarify whether zoning complies with
+              Government Code section 65852.3 and modify programs, as appropriate.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).)
+
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      as potential constraints on housing cost, supply (number of units) and ability to achieve
+      maximum densities. The element lists development standards but should also analyze
+      those development standards. For example, the element could seek input from the
+      development community or utilize a hypothetical project to demonstrate the
+      appropriateness of land use controls. The analysis should specifically address heights
+      for multifamily uses and parking requirements for smaller bedroom types (e.g., studios
+      and one bedrooms). Based on the outcomes of a complete analysis, the element should
+      add or modify programs to mitigate or remove any identified constraints.
+
+      State Density Bonus Law (SDBL): The element should describe the City’s ordinance to
+      implement SDBL (Gov. Code, § 65915), evaluate compliance and, if necessary, add or
+      modify programs to revise the ordinance.
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                          Page 7
+March 15, 2024
+      Local Processing and Permit Procedures: While the element included information about
+      processing timelines and permit procedures, it should also address the number of public
+      hearing if any, approval findings and any other relevant information (pp. 106-109). The
+      analysis should also specifically address approval findings (e.g., architectural review) for
+      typical development that are consistent with zoning. Further, the analysis should
+      specifically address CUP requirements for multifamily developments as a constraint.
+      Based on the outcomes of a complete analysis, the element should include programs to
+      address or mitigate identified constraints.
+
+      In addition, the element should clarify whether the City has procedures consistent with
+      streamlining procedures pursuant to Government Code section 65913.4 (SB 35) and
+      include programs as appropriate.
+
+      Finally, the element should address public comments on this revised draft submittal and
+      discuss compliance with the Permit Streamlining Act and intersections with CEQA and
+      timing requirements, including streamlining determinations and add or modify programs
+      as appropriate.
+
+      Fees: The element discusses the cumulative impact of fees on development costs but
+      should also list the fees that comprise the cumulative amount of fees per unit and
+      analyze those fees individually and cumulatively. In addition, the element should list and
+      analyze planning fees (e.g., rezone, CUP, variance) for impacts on development costs.
+
+
+      On-/Off-Site Improvements: While the element includes a general discussion of on-/off-
+      site improvements (p. 100), it must specifically identify subdivision level improvement
+      requirements for a typical development, such as minimum street widths (e.g., 40-foot
+      minimum street width), and analyze their impact as potential constraints on housing
+      supply and cost.
+
+      Zoning and Fees Transparency: The element discussed posting permitting process and
+      code enforcement on the City’s website but should clarify its compliance with new
+      transparency requirements for posting fees, all zoning and development standards for
+      each parcel on the jurisdiction’s website (pp. 136-137).
+
+      Housing for Persons with Disabilities (Large Residential Care Facilities Seven or more
+      persons): While the element revised Program 12 (Group Home Program) to permit large
+      residential facilities with a Conditional Use Permit (CUP) based on objective standards,
+      the element must also allow large residential care facilities in all zones that allow
+      residential uses. Currently, the element limits this housing type to General Commercial
+      District zones (page 94).
+
+      Constraints on Housing for Persons with Disabilities (Family Definition): Zoning should
+      implement a barrier-free definition of family. The element must identify and analyze the
+      City’s definition of family as a potential constraint on housing for persons with disabilities
+      and include programs as appropriate.
+
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                           Page 8
+March 15, 2024
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2, and the length of time between
+      receiving approval for a housing development and submittal of an application for
+      building permits for that housing development that hinder the construction of a locality’s
+      share of the regional housing need in accordance with Government Code section
+      65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Requests for Lesser Densities and Time between Approval and Building Permit: The
+      element must include an analysis of requests to develop housing at densities below
+      those identified in the site inventory; and must analyze the length of time between
+      receiving approval for a housing development and submittal of an application for
+      building permits. The element should analyze any hinderances on the construction of a
+      locality’s share of the regional housing need and add or modify programs as
+      appropriate.
+
+   6. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).).
+
+      The element lists some at-risk units and as a result, should include analysis including an
+      assessment of risk, estimate of replacement versus preservation costs, identification of
+      qualified entities that can acquire and manage at-risk properties (qualified entities) and
+      potential funding resources. Further, based on the outcomes of a complete analysis, the
+      element may need to add or modify programs to preserve at-risk properties. Examples
+      of actions include ensuring compliance with noticing requirements, coordinating with
+      qualified entities, assisting with funding, or supporting applications for funding and
+      educating and supporting tenants.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period,
+      each with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement
+      the policies and achieve the goals and objectives of the Housing Element... (Gov. Code,
+      § 65583, subd. (c).)
+
+      To have a beneficial impact in the planning period and address the goals of the housing
+      element, the following programs must be revised with discrete timelines (e.g., by 2027,
+      annually).
+
+          •   Program 1 (Emphasize Infill Development): The Program should commit to when
+              heights will be revised.
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                       Page 9
+March 15, 2024
+          •   Program 3 (Future Housing Sites for Lower-income Residents): The Program
+              timeframe of 2016 should be updated for the current planning period.
+          •   Program 4 (Partner with the Development Community): The Program should
+              proactively commit to identify development opportunities at least every other
+              year.
+          •   Program 5 (Reduce Barriers to Creating Multifamily Housing): The Program
+              should specifically commit to amending land use and zoning designations
+              (beyond reviewing) and when designations will be amended.
+          •   Program 7 (Allow Mobile Homes): The Program timeframe of 2016 should be
+              updated for the current planning period.
+          •   Program 10 (Agricultural Employee Housing): The Program should commit to a
+              discrete timeline (e.g., by 2025).
+          •   Program 13 (Reasonable Accommodation): The Program should commit to a
+              discrete timeline (e.g., by 2025).
+          •   Program 16 (Smart Planning Initiative): The Program should commit to a discrete
+              timeline (e.g., by 2025).
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types.
+
+   3. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Special Housing Needs: While the element includes programs to assist in the
+      development of very low-, low-, and moderate-income households, it must also include
+      a program(s) to assist in the development of housing for all special needs households
+      (e.g., elderly, homeless, farmworkers, persons with disabilities, including developmental
+      disabilities, female-headed households). Program actions could include proactive
+      outreach and assistance to non-profit service providers and developers, prioritizing
+      some funding for housing developments affordable to special needs households and
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                       Page 10
+March 15, 2024
+      offering financial incentives or regulatory concessions to encourage a variety of housing
+      types.
+
+      In addition, based on the outcomes of a complete analysis, the element should add or
+      modify specific actions to assist in the development, conservation, and improvement of
+      housing for farmworkers. Examples of actions include proactive outreach with non-profit
+      developers to identify development opportunities, targeted rehabilitation, and other
+      efforts to conserve and improve the existing housing stock, assisting with funding and
+      incentives, integrating housing for farmworker into affordable housing, regional
+      coordination with stakeholders and employers on strategies and approaches and
+      addressing zoning and land use that can constrain housing types.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      In addition, Program 11 (Group Home) should specifically commit to permit group
+      homes for seven or persons (regardless of licensing) in all zones allowing residential
+      uses with objectivity to promote approval certainty and similar to other residential uses
+      of the same type in the same zone.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics protected... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding A1, the element requires a complete AFFH analysis. Depending
+      upon the results of that analysis, the City may need to revise or add programs. Goals
+      and actions must specifically respond to the analysis and to the identified and prioritized
+      contributing factors to fair housing issues and must be significant and meaningful
+      enough to overcome identified patterns and trends. Actions must have specific
+      commitment, milestones, geographic targeting and metrics or numerical targets and, as
+      appropriate, address housing mobility enhancement, new housing choices and
+      affordability in higher opportunity or higher income areas, place-based strategies for
+      community revitalization and displacement protection.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units
+      that can be offered at affordable rent... (Gov. Code, § 65583, subd. (c)(7).)
+
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                           Page 11
+March 15, 2024
+      Programs must be expanded to include incentives to promote the creation and
+      affordability of ADUs. Examples include exploring and pursuing funding, modifying
+      development standards, and reducing fees beyond state law, increasing awareness,
+      pre-approved plans, and homeowner/applicant assistance tools.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   The element includes quantified objectives by some income groups but should also include
+   objectives for ELI households. Further, while the element includes quantified objectives for
+   rehabilitation, it should also include conservation objectives. Conservation objectives may
+   include units at-risk of conversion and a variety of activities that promote safe and stable
+   housing such as code enforcement and tenant protections.
+
+
+E. Public Participation
+
+   Local governments shall make a diligent effort to achieve public participation of all
+   economic segments of the community in the development of the Housing Element, and the
+   element shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   The element describes some outreach methods such as surveys and public workshops but,
+   moving forward, should consider additional methods of public participation such as steering
+   committees or stakeholder interviews. In addition, the City must make specific efforts to
+   reach lower-income and special needs households, including outreach to representative
+   organizations and affordable housing developers. In addition, the element briefly describes
+   input but should also discuss how the input was incorporated into the element.
+
+
+F. General Plan Consistency
+
+   The Housing Element shall describe the means by which consistency will be achieved with
+   other general plan elements and community goals. (Gov. Code, § 65583, subd. (c)(7).)
+
+   While the element includes some general discussion of needed amendments to the general
+   plan, it should also discuss how internal consistency will be achieved as part of the housing
+   element update and how internal consistency will be maintained throughout the planning
+   period. For example, the City could consider an internal consistency review as part of its
+   annual general plan implementation report required under Government Code section
+   65400.
+
+
+
+
+City of King’s 6th Cycle (2023-2031) Draft Housing Element                      Page 12
+March 15, 2024

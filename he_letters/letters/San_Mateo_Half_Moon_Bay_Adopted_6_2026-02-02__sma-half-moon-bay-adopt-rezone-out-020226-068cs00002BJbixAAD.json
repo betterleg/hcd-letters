@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "Half Moon Bay",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-02-02",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-half-moon-bay-adopt-rezone-out-020226-068cs00002BJbixAAD.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sma-half-moon-bay-adopt-rezone-out-020226-068cs00002BJbixAAD.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 188388,
+  "text_chars": 6920,
+  "text_empty": false
+}

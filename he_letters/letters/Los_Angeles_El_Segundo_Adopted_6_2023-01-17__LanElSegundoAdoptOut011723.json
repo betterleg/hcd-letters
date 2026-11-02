@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "El Segundo",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-01-17",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanElSegundoAdoptOut011723.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/LanElSegundoAdoptOut011723.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 181658,
+  "text_chars": 4654,
+  "text_empty": false
+}

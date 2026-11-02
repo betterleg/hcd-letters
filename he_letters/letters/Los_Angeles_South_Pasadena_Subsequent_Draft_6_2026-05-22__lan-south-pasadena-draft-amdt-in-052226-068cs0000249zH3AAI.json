@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "South Pasadena",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2026-05-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-south-pasadena-draft-amdt-in-052226-068cs0000249zH3AAI.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-south-pasadena-draft-amdt-in-052226-068cs0000249zH3AAI.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182213,
+  "text_chars": 6336,
+  "text_empty": false
+}

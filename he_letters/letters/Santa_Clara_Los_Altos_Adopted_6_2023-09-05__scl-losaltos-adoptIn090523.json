@@ -1,0 +1,14 @@
+{
+  "county": "Santa Clara",
+  "jurisdiction": "Los Altos",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-09-05",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-losaltos-adoptIn090523.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/scl-losaltos-adoptIn090523.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 157993,
+  "text_chars": 5040,
+  "text_empty": false
+}

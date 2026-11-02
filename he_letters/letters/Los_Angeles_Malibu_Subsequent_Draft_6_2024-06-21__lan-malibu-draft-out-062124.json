@@ -1,0 +1,14 @@
+{
+  "county": "Los Angeles",
+  "jurisdiction": "Malibu",
+  "type": "Subsequent Draft",
+  "cycle": "6",
+  "reviewed": "2024-06-21",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-malibu-draft-out-062124.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/lan-malibu-draft-out-062124.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 211589,
+  "text_chars": 15729,
+  "text_empty": false
+}

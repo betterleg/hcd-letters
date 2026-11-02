@@ -1,0 +1,389 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         March 1, 2024
+
+
+         Jay Schlosser, Director
+         Development Services
+         City of Tehachapi
+         115 South Robinson Street
+         Tehachapi, CA 93561
+
+         Dear Jay Schlosser:
+
+         RE: City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Tehachapi’s (City) draft housing element received
+         for review on December 4, 2023. Pursuant to Government Code section 65585, the
+         California Department of Housing and Community Development (HCD) is reporting the
+         results of its review.
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to substantially comply with State Housing Element Law (Gov. Code, §
+         65580 et. seq.). The enclosed Appendix describes the revisions needed to comply with
+         State Housing Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government does not adopt a compliant housing element within 120 days of the
+         statutory deadline (December 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA) shall be
+         completed no later than one year from the statutory deadline pursuant to Government
+         Code sections 65583, subdivision (c) and 65583.2, subdivision (c). Otherwise, the local
+         government’s housing element will no longer comply with State Housing Element Law,
+         and HCD may revoke its finding of substantial compliance pursuant to Government
+Jay Schlosser, Director
+Page 2
+
+
+Code section 65585, subdivision (i). Please be aware, if the City does not adopt a
+compliant housing element within one year from the statutory deadline, the element
+cannot be found in substantial compliance until these rezones are completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant, the Affordable Housing and Sustainable
+Communities program, and HCD’s Permanent Local Housing Allocation consider
+housing element compliance and/or annual reporting requirements pursuant to
+Government Code section 65400. With a compliant housing element, the City will meet
+housing element requirements for these and other funding sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+HCD appreciates the hard work and diligence of the City in preparing a housing element
+update and is committed to assist the City in addressing all statutory requirements of
+State Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Shawn Danino, of our staff, at Shawn.Danino@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                         APPENDIX
+                                    CITY OF TEHACHAPI
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/planning-and-community-development/hcd-memos. Among other
+resources, the housing element section contains HCD’s latest technical assistance tool,
+Building Blocks for Effective Housing Elements (Building Blocks), available at
+https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-
+blocks and includes the Government Code addressing State Housing Element Law and other
+resources.
+
+
+A. Review and Revision
+
+   Review the previous element to evaluate the appropriateness, effectiveness, and progress
+   in implementation, and reflect the results of this review in the revised element. (Gov. Code,
+   § 65588 (a) and (b).)
+
+   Special Housing Needs: While the element lists some programs that target special housing
+   needs, it should also evaluate the cumulative effectiveness of programs in addressing
+   special housing needs (e.g., elderly, persons with disabilities, large households,
+   farmworkers, female-headed households, and persons experiencing homelessness). For
+   example, the element could discuss prior objectives related to special housing needs, any
+   accomplishments or implementation and whether programs were effective in addressing
+   special housing needs. Based on the outcome of this evaluation, the element should add or
+   modify programs to address special housing needs.
+
+
+B. Housing Needs, Resources, and Constraints
+
+   1. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Identified Sites and Affirmatively Furthering Fair Housing (AFFH): While the element
+      lists and discusses identified sites by income group and various fair housing
+      characteristics, it should consider a different geography. Specifically, the element
+      should analyze identified sites and the regional housing need allocation (RHNA) by a
+      geography smaller than census tracts given the size of the City. For example, the
+      analysis could be conducted on a neighborhood level, planning area or smaller sections
+      of the City. The analysis should address any isolation of the RHNA by income group
+      and add or modify programs as appropriate to promote equitable and inclusive
+      neighborhoods.
+
+
+City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element                   Page 1
+March 1, 2024
+      Local Data and Knowledge and Other Relevant Factors: With factors such as a smaller
+      population and the census tract extending well beyond the City limits, the state and
+      federal data is influenced by demographic information beyond the City limits. For these
+      and other reasons, the analysis of fair housing should particularly emphasize local data
+      and knowledge and other relevant factors to better understand any local patterns or
+      differences or lack of differences from neighborhood to neighborhood. Local data and
+      knowledge and other relevant factors should be used across all of the fair housing
+      analysis components (e.g., segregation and integration, disparities in access to
+      opportunity and disproportionate housing needs). Examples of local data and
+      knowledge include information from City officials (e.g., planners, code enforcement, civil
+      engineers, local legislators), past surveys and assessments, infrastructure investments
+      to inform capital improvement plans, data used for applications for funding, service
+      providers, developers, school representatives, regional planners, service districts and
+      other sources. For example, the recent housing condition survey; City officials and
+      service providers could better inform any local patterns or differences in housing
+      conditions and access to opportunity for persons experiencing homelessness.
+      Examples of other relevant factors include land use, zoning, development patterns,
+      state, and federal investment, physical or social barriers and access to schools (e.g.,
+      safe routes to school), community amenities, facilities, and programs. For example, the
+      element could discuss any differences between neighborhoods that might have been
+      influenced by any major roadways. HCD will send an analysis guide to assist the City
+      with this analysis.
+
+      Contributing Factors: Based on the outcome of a complete analysis, the element should
+      reassess and prioritize contributing factors to fair housing issues and prioritize those
+      factors and then formulate appropriate policies and programs.
+
+   2. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all
+      income levels, including extremely low-income households. (Gov. Code, § 65583, subd.
+      (a)(1).)
+
+      Extremely Low-Income (ELI) Households: While the element includes some basic
+      information about ELI households, given the unique and disproportionate needs of ELI
+      households, the element must include analysis to better formulate policies and
+      programs. For example, the element could analyze trends, cost burden, overcrowding
+      and other household characteristics then examine the effectiveness of policies and
+      resources to determine gaps in housing needs. For additional information, see the
+      Building Blocks at https://www.hcd.ca.gov/planning-and-community-
+      development/housing-elements/building-blocks/extremely-low-income-housing-needs.
+
+   3. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and
+      an analysis of the relationship of zoning and public facilities and services to these sites.
+      (Gov. Code, § 65583, subd. (a)(3).)
+
+
+
+
+City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element                     Page 2
+March 1, 2024
+      Infrastructure: The element briefly states the City has adequate sewer capacity to
+      accommodate future development but should clarify whether there is sufficient total
+      capacity to accommodate the RHNA and if not, add programs to address the lack of
+      capacity. In addition, the element describes various constraints related to total water
+      capacity and as a result, should add or modify programs to address identified
+      constraints.
+
+      Finally, water and sewer service providers must establish specific written procedures
+      to grant priority water and sewer service to developments with units affordable to
+      lower-income households. (Gov. Code, § 65589.7.) While Program 3.1 (Water and
+      Sewer Providers) states the City will grant priority service, the element should clarify
+      whether a written procedure is available and if not, add or modify Program 3.1 to
+      establish a written procedure by a date early in the planning period.
+
+      Environmental Constraints: The element generally describes some potential
+      environmental constraints but should also relate those constraints to identified sites. In
+      addition, the element mentions other potential constraints such as shape and access
+      but should also address any other known conditions that preclude development in the
+      planning period. Examples of other known conditions include property conditions,
+      easements, Williamson Act contract and airport or other overlays.
+
+      Electronic Sites Inventory: For your information, pursuant to Government Code section
+      65583.3, the City must submit an electronic sites inventory with its adopted housing
+      element. The City must utilize standards, forms, and definitions adopted by HCD.
+      Please see HCD’s housing element webpage at https://www.hcd.ca.gov/planning-and-
+      community-development/housing-elements for a copy of the form and instructions. The
+      City can reach out to HCD at sitesinventory@hcd.ca.gov for technical assistance.
+
+   4. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement... (Gov. Code, § 65583, subd. (a)(5).)
+      Land Use Controls: The element must identify and analyze all relevant land use controls
+      as potential constraints on housing cost, supply (number of units) and ability to achieve
+      maximum densities. The element makes a statement that development standards do
+      not impede the ability to achieve maximum densities but should also provide analysis to
+      support this statement. For example, the element could provide a survey of recent or
+      sample projects, seek input from the development community or utilize a hypothetical
+      project to demonstrate the appropriateness of land use controls and add or modify
+      programs to mitigate or remove any identified constraints.
+      Processing and Permit Procedures: The element notes that multifamily uses are subject
+      to a minor use permit (MUP) in zones intended for multifamily uses. The element should
+      specifically analyze this requirement as a constraint and add or modify programs to
+      address the constraint. For example, the element should discuss potential impacts on
+      approval certainty as a result of a MUP and add or modify a program to replace the
+      procedure.
+
+City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element                     Page 3
+March 1, 2024
+      Housing for Persons with Disabilities: The element generally describes the City’s
+      reasonable accommodation procedure, including listing approval findings. However, the
+      element should also analyze the procedure for potential constraints. For example, the
+      element should analyze approval findings such as alternatives to waiver requests. In
+      addition, the element appears to exclude group homes for seven or more persons from
+      all zones allowing residential uses, unlike other similar residential uses. The element
+      should specifically analyze the exclusion of these uses as a constraint and add or
+      modify a program to allow group homes for seven or more persons in all zones allowing
+      residential uses with zoning and procedures similar to other residential uses of the
+      same type in the same zone.
+   5. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including… …requests to
+      develop housing at densities below those anticipated in the analysis required by
+      subdivision (c) of Government Code section 65583.2... (Gov. Code, § 65583, subd.
+      (a)(6).)
+      Request for Lesser Densities: The element should describe the typical amount of time
+      between receiving approval for housing development and submittal of application for
+      building permits and discuss any hindrances on construction.
+   6. Analyze existing assisted housing developments that are eligible to change to non-low-
+      income housing uses during the next 10 years due to termination of subsidy contracts,
+      mortgage prepayment, or expiration of use restrictions. (Gov. Code, § 65583, subd.
+      (a)(9) through 65583(a)(9)(D).).
+      The element lists some at-risk units and concludes there are no units at-risk of conversion
+      to market rate uses in the next ten years. However, based on HCD records, the City does
+      have units at-risk of conversion to market rate uses (Mulberry Villa Apartments – 44 units).
+      The element should reconcile this information and revise the element as appropriate,
+      including an assessment of risk, estimate of replacement versus preservation costs,
+      identification of qualified entities that can acquire and manage at-risk properties (qualified
+      entities) and potential funding resources. HCD will send additional information on at-risk
+      properties under separate cover.
+
+      If necessary, based on the outcomes of a complete analysis, the element may need to add
+      or modify programs to preserve at-risk properties. Examples of actions include ensuring
+      compliance with noticing requirements, coordinating with qualified entities, assisting with
+      funding or supporting applications for funding and educating and supporting tenants.
+
+
+C. Housing Programs
+
+   1. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need
+      for each income level that could not be accommodated on sites identified in the
+      inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and
+
+
+City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element                    Page 4
+March 1, 2024
+      to comply with the requirements of Government Code section 65584.09. Sites shall be
+      identified as needed to facilitate and encourage the development of a variety of types of
+      housing for all income levels, including multifamily rental housing, factory-built housing,
+      mobilehomes, housing for agricultural employees, supportive housing, single-room
+      occupancy units, emergency shelters, and transitional housing. (Gov. Code, § 65583,
+      subd. (c)(1).)
+
+      As noted in Finding B3, the element does not include a complete site analysis;
+      therefore, the adequacy of sites and zoning were not established. Based on the results
+      of a complete sites inventory and analysis, the City may need to add or revise programs
+      to address a shortfall of sites or zoning available to encourage a variety of housing
+      types. In addition, the element should be revised, as follows:
+
+         •   Program 5.1 (Monitoring of Project Pipeline): Instead of approvals, the Program
+             should monitor progress toward completion and at a specific date, evaluate
+             whether projects will likely be completed in the planning period and commit to
+             alternative strategies (e.g., rezoning) by a specified date if necessary to maintain
+             adequate sites to accommodate the RHNA.
+         •   Prior Identified Sites: The element indicates sites identified in prior planning
+             period are being utilized toward the RHNA and states a program is not necessary
+             since sites allow residential uses by right. However, these sites are not eligible
+             for to be utilized toward the lower-income RHNA unless the element denotes
+             which sites are being utilized and includes a program to rezone the sites to
+             permit development with 20 percent affordability by right (without discretionary
+             action) pursuant to Government Code section 65583.2, subdivision (c).
+         •   Program 4.6 (Transitional and Supportive Housing): The Program appears to be
+             conflating to separate requirements. The Program should specifically commit to
+             permit transitional and supportive housing in the T2 zone, as noted on p. C-20)
+             and to permit permanent supportive housing in zones that allow multifamily uses
+             without discretionary action pursuant to Government Code section 65651.
+         •   Emergency Shelters: The element should include a program to amend the
+             definition of emergency shelters in compliance with new statutory requirements.
+             In addition, the element notes that parking requirements are consistent with
+             statutory requirements. However, parking should be limited to the amount of
+             parking only sufficient to accommodate staff. As a result, the element should add
+             a program to revise parking requirements for emergency shelters.
+   2. The Housing Element shall contain programs which assist in the development of
+      adequate housing to meet the needs of extremely low-, very low-, low- and moderate-
+      income households. (Gov. Code, § 65583, subd. (c)(2).)
+      Program 3.4 (Proactive Partnerships for Affordable Housing): The Program should
+      specifically commit to identify development opportunities every year and assist in the
+      development of housing for lower-income households, including ELI and special
+      housing needs.
+      Program 4.2 (Persons with Disabilities): The Program should commit to when and how
+      often the City will conduct various activities to assist housing for persons with
+      disabilities.
+
+City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element                    Page 5
+March 1, 2024
+      ELI Households: The element should include actions beyond weatherization for ELI
+      households. Examples of actions include proactively identifying development
+      opportunities, prioritizing funding, enhancing zoning and incentives, targeting resources
+      to existing households.
+
+   3. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with
+      disabilities. The program shall remove constraints to, and provide reasonable
+      accommodations for housing designed for, intended for occupancy by, or with
+      supportive services for, persons with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Findings B4 and B5, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+      In addition, Program 4.7 (Community Care Facilities) commits to allow group homes for
+      six or fewer persons in all residential zones but should also commit to permit these uses
+      similar to single-family residential uses.
+
+   4. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion,
+      sex, marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B1, the element requires a complete AFFH analysis. Depending upon
+      the results of that analysis, the City may need to revise or add programs. Goals and
+      actions must specifically respond to the analysis and to the identified and prioritized
+      contributing factors to fair housing issues and must be significant and meaningful enough
+      to overcome identified patterns and trends. Actions must have specific commitment,
+      milestones, geographic targeting and metrics or numerical targets and, as appropriate,
+      address housing mobility enhancement (housing choices and affordability across
+      geographies), new housing choices and affordability in higher opportunity or income areas
+      (throughout the City), place-based strategies for community preservation and
+      revitalization, and displacement protection.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed,
+   rehabilitated, and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1
+   & 2).)
+
+   Upon a complete analysis of units at-risk, the element should update the quantified objectives
+   for the planning period to include at-risk units. In addition, quantified objectives for ELI
+   households should be included for new construction, rehabilitation, and conservation.
+
+City of Tehachapi’s 6th Cycle (2023-2031) Draft Housing Element                        Page 6
+March 1, 2024

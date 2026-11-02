@@ -1,0 +1,14 @@
+{
+  "county": "San Bernardino",
+  "jurisdiction": "Rancho Cucamonga",
+  "type": "Draft",
+  "cycle": "6",
+  "reviewed": "2021-08-02",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdRanchoCucamongaDraft080221.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sbdRanchoCucamongaDraft080221.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 243447,
+  "text_chars": 27506,
+  "text_empty": false
+}

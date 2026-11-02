@@ -1,0 +1,14 @@
+{
+  "county": "San Mateo",
+  "jurisdiction": "San Carlos",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2023-03-22",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SmaSanCarlosAdoptOut032223.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/SmaSanCarlosAdoptOut032223.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 180765,
+  "text_chars": 13435,
+  "text_empty": false
+}

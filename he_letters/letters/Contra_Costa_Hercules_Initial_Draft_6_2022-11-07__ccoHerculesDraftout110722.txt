@@ -1,0 +1,561 @@
+STATE OF CALIFORNIA - BUSINESS, CONSUMER SERVICES AND HOUSING AGENCY                 GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+2020 W. El Camino Avenue, Suite 500
+Sacramento, CA 95833
+(916) 263-2911 / FAX (916) 263-7453
+www.hcd.ca.gov
+
+
+
+
+         November 7, 2022
+
+
+         Timothy Rood, Director
+         Community Development Department
+         City of Hercules
+         111 Civic Drive
+         Hercules, CA 94547
+
+         Dear Timothy Rood,
+
+         RE: City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element
+
+         Thank you for submitting the City of Hercules (City) draft housing element update
+         received for review on August 9, 2022. Pursuant to Government Code section 65585,
+         subdivision (b), the California Department of Housing and Community Development
+         (HCD) is reporting the results of its review. HCD considered comments from YIMBY Law
+         and Greenbelt Alliance, pursuant to Government Code section 65585, subdivision (c).
+
+         The draft element addresses many statutory requirements; however, revisions will be
+         necessary to comply with State Housing Element Law (Article 10.6 of the Gov. Code).
+         The enclosed Appendix describes the revisions needed to comply with State Housing
+         Element Law.
+
+         Public participation in the development, adoption and implementation of the housing
+         element is essential to effective housing planning. Throughout the housing element
+         process, the City should continue to engage the community, including organizations that
+         represent lower-income and special needs households, by making information regularly
+         available and considering and incorporating comments where appropriate. Please be
+         aware, any revisions to the element must be posted on the local government’s website
+         and to email a link to all individuals and organizations that have previously requested
+         notices relating to the local government’s housing element at least seven days before
+         submitting to HCD.
+
+         For your information, pursuant to Assembly Bill 1398 (Chapter 358, Statutes of 2021), if
+         a local government fails to adopt a compliant housing element within 120 days of the
+         statutory deadline (January 31, 2023), then any rezoning to make prior identified sites
+         available or accommodate the regional housing needs allocation (RHNA), including for
+         lower-income households, shall be completed no later than one year from the statutory
+         deadline. Otherwise, the local government’s housing element will no longer comply with
+         State Housing Element Law, and HCD may revoke its finding of substantial compliance
+Timothy Rood, Community Development Director
+Page 2
+
+
+
+pursuant to Government Code section 65585, subdivision (i). Please be aware, if the
+City fails to adopt a compliant housing element within one year from the statutory
+deadline, the element cannot be found in substantial compliance until rezones to
+accommodate a shortfall of sites pursuant to Government Code section 65583,
+subdivision (c) (1) (A) and Government Code section 65583.2, subdivision (c) are
+completed.
+
+Several federal, state, and regional funding programs consider housing element
+compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill
+(SB) 1 Sustainable Communities grant; the Strategic Growth Council and HCD’s
+Affordable Housing and Sustainable Communities programs; and HCD’s Permanent
+Local Housing Allocation consider housing element compliance and/or annual reporting
+requirements pursuant to Government Code section 65400. With a compliant housing
+element, the City will meet housing element requirements for these and other funding
+sources.
+
+For your information, some general plan element updates are triggered by housing
+element adoption. HCD reminds the City to consider timing provisions and welcomes
+the opportunity to provide assistance. For information, please see the Technical
+Advisories issued by the Governor’s Office of Planning and Research at:
+https://www.opr.ca.gov/planning/general-plan/guidelines.html.
+
+We are committed to assisting the City in addressing all statutory requirements of State
+Housing Element Law. If you have any questions or need additional technical
+assistance, please contact Connor Finney, of our staff, at Connor.Finney@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Paul McDougall
+Senior Program Manager
+
+
+Enclosure
+                                          APPENDIX
+                                      CITY OF HERCULES
+
+The following changes are necessary to bring the City’s housing element into compliance with
+Article 10.6 of the Government Code. Accompanying each recommended change, we cite the
+supporting section of the Government Code.
+
+Housing element technical assistance information is available on HCD’s website at
+https://www.hcd.ca.gov/hcd-memos. Among other resources, the housing element section
+contains HCD’s latest technical assistance tool, Building Blocks for Effective Housing Elements
+(Building Blocks), available at https://www.hcd.ca.gov/building-blocks and includes the
+Government Code addressing State Housing Element Law and other resources.
+
+
+A. Review and Revise
+
+   Government Code (GC) Section 65588 requires: “Each local government shall review its
+   housing element as frequently as appropriate to evaluate all of the following: (1) The
+   appropriateness of the housing goals, objectives, and policies in contributing to the attainment
+   of the state housing goal. (2) The effectiveness of the housing element in attainment of the
+   community's housing goals and objectives. (3) The progress of the city, county, or city and
+   county in implementation of the housing element.” (4) The effectiveness of goals, policies, and
+   related actions to meet the community’s special housing needs. GC 65583(a)(7).”
+
+   As part of the review of programs in the past cycle, the element must analyze the
+   effectiveness of goals, policies, and related actions in meeting the housing needs of special
+   needs populations (e.g., elderly, persons with disabilities, large households, female headed
+   households, farmworkers and persons experiencing homelessness). Programs should be
+   revised as appropriate to reflect the results of this evaluation.
+
+
+B. Housing Needs Resources and Constraints
+
+   1. Include an analysis of population and employment trends and documentation of
+      projections and a quantification of the locality's existing and projected needs for all income
+      levels, including extremely low-income households. (Gov. Code, § 65583, subd. (a)(1).)
+
+      Overcrowding: The element must quantify and analyze the number of households by
+      tenure (rental and ownership) that live in overcrowded and severely overcrowded
+      conditions.
+
+   2. An analysis of any special housing needs, such as those of the elderly, persons with
+      disabilities, including a developmental disability, as defined in Section 4512 of the Welfare
+      and Institutions Code; large families, farmworkers, families with female heads of
+      households, and families and persons in need of emergency shelter…(Gov. Code,
+      § 65583, subd. (a)(7).)
+
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                     Page 1
+November 7, 2022
+      Persons with Disabilities: The element should include a discussion of resources, including
+      existing housing and services for people with disabilities. The element should identify
+      housing types (e.g., residential care facilities) that can accommodate people with
+      disabilities and zoning and capacity available to facilitate these housing types.
+
+      Developmental Disabilities: While the element quantified the number of persons with
+      developmental disabilities, it should analyze the special housing needs of persons with
+      developmental disabilities. The term developmental disability refers to a severe and
+      chronic disability attributable to a mental or physical impairment, such as cerebral palsy,
+      epilepsy, or autism, that begins before individuals reach adulthood. (Welfare and
+      Institutions Code, § 4512.) The analysis could include the following:
+
+            a description of the types of developmental disabilities;
+            a description of the housing need, including a description of the potential housing
+             problems; and
+            a discussion of resources, policies and programs including existing housing and
+             services, for persons with developmental disabilities.
+
+      Elderly: While the element provided a quantification of the elderly, it must also analyze
+      their special housing needs. The analysis should include, but is not limited to, factors such
+      as household income, tenure, housing types, zoning, and available resources. Local
+      officials, special needs service providers, or City social and health service providers may
+      be able to assist with information to complete the analysis.
+
+      Homeless: While the element provided a quantification of the homeless based on local
+      estimates and anecdotal information, this information could be supported by the Point-in-
+      Time Count, or PIT Count survey of homeless individuals conducted by the local
+      Continuums of Care provider. When possible, the estimate should be divided into single
+      males, single females and families (one or more adults with children) as the shelter needs
+      of each subgroup differ significantly.
+
+   3. Affirmatively further[ing] fair housing in accordance with Chapter 15 (commencing with
+      Section 8899.50) of Division 1 of Title 2…shall include an assessment of fair housing in
+      the jurisdiction. (Gov. Code, § 65583, subd. (c)(10)(A).)
+
+      Fair Housing Enforcement and Capacity: While the housing element includes a summary
+      of fair housing enforcement and outreach capacity at the county level, it does not provide
+      information at the City level to adequately compare fair housing enforcement and capacity
+      to the County. In addition, the element should provide details on how the City complies
+      with existing fair housing laws and regulations.
+
+      Integration and Segregation: The element includes data on integration and segregation at
+      the regional level for race, disability, familial status, and income; however, it does not
+      include sufficient local information to adequately compare patterns and trends at a regional
+      and local level. The element must include additional information related to race, disability,
+      familial status, and income on a local level.
+
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                    Page 2
+November 7, 2022
+      Racial/Ethnic Areas of Concentration of Poverty (R/ECAP) and Affluence (RCAA): The
+      element provides analysis on the County and how it compares to the region; however, no
+      information was included on the local level to compare RCAA and poverty at a regional
+      and local level. The analysis should evaluate the patterns and changes over time at the
+      local (e.g., neighborhood to neighborhood) and regional level (e.g., City to region) and
+      include programs as appropriate.
+
+      Disparities in Access to Opportunity: The element provides analysis on education,
+      economic, transportation and environment on the County, but no trends and patterns on
+      the local level to compare significant disparities in access to opportunity at a local and
+      regional level. A complete analysis should include the local and regional disparities of the
+      educational, transportation, environmental, and economic scores through local, federal,
+      and/or state data.
+
+      Disproportionate Housing Needs, Including Displacement Risk: The element provides
+      analysis on the County for cost burden, overcrowding, substandard housing, and
+      displacement; however, no information was provided on the local level to compare
+      patterns and trends to the regional. In addition, no information was provided on
+      homelessness on the local or regional level.
+
+      Local Data and Knowledge: The element must include local data, knowledge, and other
+      relevant factors to discuss and analyze any unique attributes about the City related to fair
+      housing issues. The element should complement federal, state, and regional data with
+      local data and knowledge where appropriate to capture emerging trends and issues,
+      including utilizing knowledge from local and regional advocates and service providers, City
+      staff and related local and county planning documents and should include an analysis of
+      the history of exclusionary zoning in the City.
+
+      Affirmatively Furthering Fair Housing (AFFH) and Sites Inventory: The element must
+      analyze how the identified sites contribute to or mitigate fair housing issues. An analysis
+      should address all of the income categories of identified sites with respect to location, the
+      number of units by all income groups and how that affects the existing patterns for all
+      components of the assessment of fair housing (e.g., segregation and integration, access
+      to opportunity). If sites exacerbate conditions or isolates the RHNA by income group, the
+      element should identify further program actions (not limited to the RHNA) that will be taken
+      to promote equitable quality of life throughout the community (e.g., housing mobility and
+      new opportunities in higher resource areas).
+
+      Contributing Factors to Fair Housing Issues: The element must list and prioritize
+      contributing factors to fair housing issues. Contributing factors create, contribute to,
+      perpetuate, or increase the severity of fair housing issues and are fundamental to
+      adequate goals and actions. Examples include community opposition to affordable
+      housing, housing discrimination, land use and zoning laws, lack of regional cooperation,
+      location and type or lack of affordable housing and lack of public or private investment in
+      areas of opportunity or affordable housing choices. The analysis shall result in strategic
+      approaches to inform and connect goals and actions to mitigate contributing factors to
+      affordable housing.
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                    Page 3
+November 7, 2022
+      Goals, Priorities, Metrics, and Milestones: Goals and actions must create meaningful
+      impact to overcome contributing factors to fair housing issues. Currently, programs are not
+      sufficient to facilitate meaningful change and address AFFH requirements. Based on the
+      outcomes of a complete analysis, the element must be revised to add or modify goals and
+      actions accordingly. Goals and actions must specifically respond to the analysis and to the
+      identified and prioritized contributing factors to fair housing issues and must be significant
+      and meaningful enough to overcome identified patterns and trends. Actions must have
+      metrics and milestones as appropriate and must address housing mobility enhancement,
+      new housing choices and affordability in high opportunity areas, place-based strategies for
+      community preservation and revitalization and displacement protection. For further
+      guidance, please visit HCD’s Affirmatively Furthering Fair Housing in California webpage
+      at https://www.hcd.ca.gov/community-development/affh/index.shtml.
+
+   4. An inventory of land suitable and available for residential development, including vacant
+      sites and sites having realistic and demonstrated potential for redevelopment during the
+      planning period to meet the locality’s housing need for a designated income level, and an
+      analysis of the relationship of zoning and public facilities and services to these sites. (Gov.
+      Code, § 65583, subd. (a)(3).)
+
+      Approved/Pending Sites: The housing element appears to rely on approved/pending
+      projects to accommodate a portion the City’s regional housing need for lower-income
+      households. While the housing element includes the number of units for each project by
+      income group, it does not provide an analysis demonstrating the affordability and
+      availability in the planning period. For availability, the element should describe the status
+      of the project, including any necessary approvals or steps prior to development,
+      development agreements, conditions, or requirements such as phasing or timing
+      requirements that impact development in the planning period. For affordability, the element
+      should utilize anticipated or actual rents, sales prices, or other mechanisms (e.g.,
+      financing, affordability restrictions) ensuring their affordability.
+
+      Sites Inventory: The element must list sites by parcel number, parcel size, zoning, general
+      plan designation, affordability level of units, describing existing uses for any non-vacant
+      sites and include a calculation of the realistic capacity of each site. The element on page 6
+      states Appendix B provides more detail on the sites inventory; however, there was no
+      Appendix B included in the element with a list of sites available to determine whether there
+      are sufficient sites to accommodate the City’s regional housing need allocation (RHNA) in
+      total, and by income category.
+
+      Suitability of Nonvacant Sites: The element must include a description of identified sites
+      and their existing uses and include an analysis demonstrating the potential for additional
+      development on nonvacant sites. The element should analyze the extent that existing
+      uses may impede additional residential development. It can summarize past
+      experiences converting existing uses to higher density residential development, include
+      current market demand for the existing use, provide analysis of existing leases or
+      contracts that would perpetuate the existing use or prevent additional residential
+      development and include current information on development trends and market
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                      Page 4
+November 7, 2022
+      conditions in the City and relate those trends to the sites identified. The element could
+      also consider indicators such as age and condition of the existing structure expressed
+      developer or property owner interest, existing versus allowable floor area, low
+      improvement to land value ratio, and other factors.
+
+      In addition, since nonvacant sites accommodate 50 percent or more of the lower-income
+      need, the housing element must describe “substantial evidence” that the existing use does
+      not constitute an impediment for additional residential use on the site. Absent findings
+      (e.g., adoption resolution) based on substantial evidence, the existing uses will be
+      presumed to impede additional residential development and will not be utilized toward
+      demonstrating adequate sites to accommodate the RHNA.
+
+      Water and Sewer Priority: For your information, water and sewer service providers must
+      establish specific procedures to grant priority water and sewer service to developments
+      with units affordable to lower-income households. (Gov. Code, § 65589.7.) Local
+      governments are required to immediately deliver the housing element to water and sewer
+      service providers. HCD recommends including a cover memo describing the City’s
+      housing element, including the City’s housing needs and regional housing need.
+
+      Zoning for a Variety of Housing Types:
+
+         •   Emergency Shelters: The element should analyze whether parking requirements
+             comply with AB139/Government Code section 65583, subdivision (a)(4)(A) or
+             include a program to comply with this requirement.
+         •   Housing for Agricultural Employees: The element mentions the City amended
+             zoning to allow six or fewer employees as a single-family structure and is subject
+             only to the zoning requirements that are required of a dwelling of the same type
+             in the same zone. However, the element should clarify if the City allows
+             agriculture uses. Section 17021.6 requires employee housing consisting of no
+             more than 12 units or 36 beds to be permitted in the same manner as other
+             agricultural uses in the same zone. The element must demonstrate compliance
+             with this requirement and include a program as appropriate.
+         •   Manufactured Housing: The element states mobile homes built on a permanent
+             foundation may be located in any residential zone where a conventional single-
+             family detached dwelling is permitted subject to the same restrictions on density
+             and to the same property development regulations, provided that the mobile home
+             has received approval of the Planning Director or Planning Commission and
+             received a Certificate of Compatibility. The element should clarify whether these
+             procedures are similar to other single-family detached dwellings and include a
+             program as appropriate.
+         •   Multifamily Housing: The element states that Multifamily is only allowed through a
+             conditional use permit (CUP) or administrative use permit (AUP). The element must
+             analyze the AUP process as a potential constraint on housing supply and
+             affordability. The analysis should identify findings of approval for the AUP and their
+             potential impact on development approval certainty, timing, and cost.
+
+
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                     Page 5
+November 7, 2022
+          •   Accessory Dwelling Units (ADUs): The element indicates the City amended its
+              zoning ordinance on January 2021 to address changes in State housing law.
+              However, after a cursory review of the City’s ordinance, HCD discovered several
+              areas which are not consistent with State ADU Law. HCD will provide a complete
+              listing of ADU non-compliance issues under a separate cover. As a result, the
+              element should include a new or revise a program to update the City’s ADU
+              ordinance to comply with state law. For more information, please consult HCD’s
+              ADU Guidebook, published in December 2020, which provides detailed information
+              on new state requirements surrounding ADU development.
+
+      Electronic Sites Inventory: Pursuant to Government Code section 65583.3, subdivision (b),
+      upon adoption of the housing element, the City must submit an electronic version of the
+      sites inventory with its adopted housing element to sitesinventory@hcd.ca.gov. Please
+      note, the City must utilize standards, forms, and definitions adopted by HCD when
+      preparing the sites inventory. Please see HCD’s housing element webpage at
+      https://www.hcd.ca.gov/community-development/housing-element/index.shtml#element for
+      a copy of the form and instructions. The City can reach out to HCD at
+      sitesinventory@hcd.ca.gov for technical assistance.
+
+   5. An analysis of potential and actual governmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the types of
+      housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as
+      identified in the analysis pursuant to paragraph (7), including land use controls, building
+      codes and their enforcement, site improvements, fees and other exactions required of
+      developers, and local processing and permit procedures... (Gov. Code, § 65583, subd.
+      (a)(5).).
+
+      Fees and Exaction: The element lists planning and development fees and their costs, for
+      all developments; however, there are several fees in Table H-5.11, page 5-32, that say
+      “Actual + 20 %.” The element should clarify what this means and should list all the
+      planning and development fees associated with development.
+
+      Processing and Permit Procedures: The element indicates all proposals for subdivisions or
+      developments requires a Planned Development Plan (PDP). However, it must describe
+      and analyze the permit processing procedures impacts as potential constraints on housing
+      supply and affordability, particularly for residential development affordable to lower-income
+      households. The element describes the findings required for approval; however the finding
+      regarding “the area surrounding the project site can be planned and zoned in coordination
+      and substantial compatibility with the proposed development” should be analyzed as a
+      potential constraint on housing supply and affordability and should include a program(s) to
+      address or remove the identified constraints.
+
+      Housing for Persons with Disabilities: The element describes the City currently has a
+      procedure for requesting and granting a reasonable accommodation for persons with
+      disabilities; however the element should also describe approval findings and the process
+      for providing reasonable accommodations. In addition, it appears based on Table H-5.9,
+      page 5-15 that that residential care facilities for seven or more persons are permitted in all
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                      Page 6
+November 7, 2022
+      residential zones subject to a CUP. The element should analyze the process as a potential
+      constraint on housing for persons with disabilities and add or modify programs as
+      appropriate to ensure zoning permits group homes objectively with approval certainty.
+
+      Zoning Fees and Transparency: The element must list all fees and clarify its compliance
+      with new transparency requirements for posting all zoning and development standards,
+      and fees for each parcel on the jurisdiction’s website pursuant to Government Code
+      section 65940.1(a)(1).
+
+   6. An analysis of potential and actual nongovernmental constraints upon the maintenance,
+      improvement, or development of housing for all income levels, including the availability of
+      financing, the price of land, the cost of construction, the requests to develop housing at
+      densities below those anticipated in the analysis required by subdivision (c) of
+      Government Code section 65583.2, and the length of time between receiving approval for
+      a housing development and submittal of an application for building permits for that housing
+      development that hinder the construction of a locality’s share of the regional housing need
+      in accordance with Government Code section 65584... (Gov. Code, § 65583, subd. (a)(6).)
+
+      Approval Time and Requests for Lesser Densities: The element must address requests to
+      develop housing at densities below those anticipated in the sites inventory and the length
+      of time between receiving approval for housing development and submittal of application
+      for building permits. The analysis must address any hinderances on housing development
+      and programs should be added as appropriate.
+
+      Price of Land: The element should provide an estimate of the average cost or range of
+      costs per acre for single-family and multifamily-zoned developable parcels in the city.
+
+      Cost of Construction: The element provides national averages for costs per square foot;
+      however, it should provide estimates of cost of typical total construction costs, including
+      materials and labor in the City.
+
+
+C. Housing Programs
+
+   1. Include a program which sets forth a schedule of actions during the planning period, each
+      with a timeline for implementation, which may recognize that certain programs are
+      ongoing, such that there will be beneficial impacts of the programs within the planning
+      period, that the local government is undertaking or intends to undertake to implement the
+      policies and achieve the goals and objectives of the Housing Element. (Gov. Code, §
+      65583, subd. (c).)
+
+      Programs must be revised to demonstrate that they will have a beneficial impact within the
+      planning period. Beneficial impact means specific commitment to deliverables, measurable
+      metrics or objectives, definitive deadlines (month, year), dates, or benchmarks for
+      implementation. Deliverables should occur early in the planning period to ensure actual
+      housing outcomes. Examples of programs that should be revised include but are not
+      limited to Program H1-1: First-Time Homebuyer Assistance Programs, Program H1-2:
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                     Page 7
+November 7, 2022
+      Affordable Housing Partnerships and Funding Sources, Program H1-3: Section 8 Housing
+      Choice Voucher Program, Program H1-5: Code Enforcement, Program H2-2: Mixed-Use
+      and TOD Sites Lot Consolidation, Program H2-8: Development on Nonvacant Sites,
+      Program H4-2: Fair Housing Services, and Program H4-4: Outreach Plan.
+
+   2. Identify actions that will be taken to make sites available during the planning period with
+      appropriate zoning and development standards and with services and facilities to
+      accommodate that portion of the city’s or county’s share of the regional housing need for
+      each income level that could not be accommodated on sites identified in the inventory
+      completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply
+      with the requirements of Government Code section 65584.09. Sites shall be identified as
+      needed to facilitate and encourage the development of a variety of types of housing for all
+      income levels, including multifamily rental housing, factory-built housing, mobilehomes,
+      housing for agricultural employees, supportive housing, single-room occupancy units,
+      emergency shelters, and transitional housing. (Gov. Code, § 65583, subd. (c)(1).)
+
+      As noted in Finding B4, the element does not include a complete site analysis; therefore,
+      the adequacy of sites and zoning were not established. Based on the results of a complete
+      sites inventory and analysis, the City may need to add or revise programs to address a
+      shortfall of sites or zoning available to encourage a variety of housing types.
+
+   3. The Housing Element shall contain programs which assist in the development of adequate
+      housing to meet the needs of extremely low-, very low-, low- and moderate-income
+      households. (Gov. Code, § 65583, subd. (c)(2).)
+
+      Assist in Development Programs: The element must include a program(s) with specific
+      actions and timelines to assist in the development of housing for extremely low-, very low-,
+      low-, and moderate-income households, including specific actions to assist housing for
+      persons with special needs (e.g., farmworkers, elderly, homeless and persons disabilities,
+      including developmental). While the element includes Program H4-1 for Special Needs
+      Housing, it does not commit to assisting in the development of housing. The program
+      could commit the City to annual outreach with affordable developers to identify
+      development opportunities and further assist through actions such as adopting priority
+      processing, granting fee waivers or deferrals, granting concessions and incentives for
+      housing developments (beyond density bonus law) that include units affordable to lower
+      and moderate-income households; assisting and supporting or pursuing funding
+      applications.
+
+      Program H3-2: Housing for Extremely Low-Income (ELI) Households: While the program
+      commits to prioritize funding toward ELI, it does not include an outcome. Program should
+      be revised to include a proposed measurable outcome.
+
+   4. Address and, where appropriate and legally possible, remove governmental and
+      nongovernmental constraints to the maintenance, improvement, and development of
+      housing, including housing for all income levels and housing for persons with disabilities.
+      The program shall remove constraints to, and provide reasonable accommodations for
+
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                    Page 8
+November 7, 2022
+      housing designed for, intended for occupancy by, or with supportive services for, persons
+      with disabilities. (Gov. Code, § 65583, subd. (c)(3).)
+
+      As noted in Finding(s) B5 and B6, the element requires a complete analysis of potential
+      governmental and nongovernmental constraints. Depending upon the results of that
+      analysis, the City may need to revise or add programs and address and remove or
+      mitigate any identified constraints.
+
+   5. Promote and affirmatively further fair housing opportunities and promote housing
+      throughout the community or communities for all persons regardless of race, religion, sex,
+      marital status, ancestry, national origin, color, familial status, or disability, and other
+      characteristics... (Gov. Code, § 65583, subd. (c)(5).)
+
+      As noted in Finding B3, the element must include a complete assessment of fair housing.
+      Based on the outcomes of that analysis, the element must add or modify programs. Goals
+      and actions must specifically respond to the analysis and to the identified and prioritized
+      contributing factors to fair housing issues and must be significant and meaningful enough
+      to overcome identified patterns and trends. Actions must have specific commitment,
+      metrics, milestones, and geographic targeting as appropriate and must address housing
+      mobility enhancement, new housing choices and affordability in high opportunity areas,
+      place-based strategies for community preservation and revitalization and displacement
+      protection.
+
+   6. Develop a plan that incentivizes and promotes the creation of accessory dwelling units that
+      can be offered at affordable rent, as defined in Section 50053 of the Health and Safety
+      Code, for very low, low-, or moderate-income households. For purposes of this paragraph,
+      “accessory dwelling units” has the same meaning as “accessory dwelling unit” as defined
+      in paragraph (4) of subdivision (i) of Section 65852.2. (Gov. Code, § 65583, subd. (c)(7).)
+
+      While the element includes Program H2-4: Accessory Dwelling Units (ADUs), which
+      includes a commitment to create a public outreach program to encourage ADU
+      development, it does not include a timeline of when or how often the outreach will occur.
+      Program should be revised to include a timeline which sets forth a schedule of actions
+      during the planning period.
+
+
+D. Quantified Objectives
+
+   Establish the number of housing units, by income level, that can be constructed, rehabilitated,
+   and conserved over a five-year time frame. (Gov. Code, § 65583, subd. (b)(1 & 2).)
+
+   While the element provides an estimate of the number of anticipated new construction and
+   conservation/preservation units, it must also include rehabilitation objectives by income
+   group.
+
+
+
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                   Page 9
+November 7, 2022
+E. Public Participation:
+
+   Local governments shall make a diligent effort to achieve public participation of all economic
+   segments of the community in the development of the Housing Element, and the element
+   shall describe this effort. (Gov. Code, § 65583, subd.(c)(9).)
+
+   While the element includes a general summary of the public participation process, the element
+   should also demonstrate diligent efforts were made to involve all economic segments of the
+   community in the development of the housing element. The element could describe the efforts to
+   circulate the housing element among low- and moderate-income households and organizations
+   that represent them and to involve such groups and persons in the element throughout the
+   process. In addition, the element should also summarize the public comments and describe how
+   they were considered and incorporated into the element.
+
+
+
+
+City of Hercules’s 6th Cycle (2023-2031) Draft Housing Element                   Page 10
+November 7, 2022
