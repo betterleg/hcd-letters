@@ -1,0 +1,10 @@
+{
+  "requested_pdf": "requested/del-mar-rezone-corr-action-101626.pdf",
+  "pdf_sha256": "6298239bd4ffc77d40f10008372dfcb3bd6bb6c8a61d7efb8d8d197af57e3798",
+  "text_method": "pdf_text",
+  "text_chars": 7213,
+  "text_empty": false,
+  "fetched_from": "requested_from_hcd",
+  "match": "no_match",
+  "match_note": "no dashboard row for a jurisdiction named in it within 3 days of 2026-10-16"
+}

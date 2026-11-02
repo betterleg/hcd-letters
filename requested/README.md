@@ -2,12 +2,21 @@
 
 PDFs of letters that HCD's dashboards list as "Contact HCD for a copy", obtained by request. Each weekly job (and any push to this folder) extracts their text, matches them to the dashboard and adds them to the indexes and the website, marked *requested from HCD*. Instructions are at the bottom of this page.
 
-**0 PDFs**: 0 matched to a dashboard letter, 0 to check. Updated 2026-11-01.
+**1 PDFs**: 0 matched to a dashboard letter, 1 to check. Updated 2026-11-02.
+
+## Need a look
+
+Fix these in [`manifest.csv`](manifest.csv) (see below).
+
+| File | Status | What the script found |
+|---|---|---|
+| [del-mar-rezone-corr-action-101626.pdf](del-mar-rezone-corr-action-101626.pdf) | no_match | no dashboard row for a jurisdiction named in it within 3 days of 2026-10-16 |
 
 ## All requested letters
 
 | File | Source | Jurisdiction | Letter date | Type / task | Match | Text |
 |---|---|---|---|---|---|---|
+| [del-mar-rezone-corr-action-101626.pdf](del-mar-rezone-corr-action-101626.pdf) |  |  |  |  | no_match | [text](text/del-mar-rezone-corr-action-101626.txt) |
 
 ## How to add letters
 
