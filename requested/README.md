@@ -2,7 +2,7 @@
 
 PDFs of letters that HCD's dashboards list as "Contact HCD for a copy", obtained by request. Each weekly job (and any push to this folder) extracts their text, matches them to the dashboard and adds them to the indexes and the website, marked *requested from HCD*. Instructions are at the bottom of this page.
 
-**1 PDFs**: 0 matched to a dashboard letter, 1 to check. Updated 2026-11-02.
+**4 PDFs**: 0 matched to a dashboard letter, 4 to check. Updated 2026-11-02.
 
 ## Need a look
 
@@ -10,13 +10,19 @@ Fix these in [`manifest.csv`](manifest.csv) (see below).
 
 | File | Status | What the script found |
 |---|---|---|
+| [culver-city-sb79-101226.pdf](culver-city-sb79-101226.pdf) | no_match | no dashboard row for a jurisdiction named in it within 3 days of 2026-10-12 |
 | [del-mar-rezone-corr-action-101626.pdf](del-mar-rezone-corr-action-101626.pdf) | no_match | no dashboard row for a jurisdiction named in it within 3 days of 2026-10-16 |
+| [oceanside-hau-3630-sb-79-out-101526.pdf](oceanside-hau-3630-sb-79-out-101526.pdf) | no_match | no dashboard row for a jurisdiction named in it within 3 days of 2026-10-15 |
+| [palo alto-hau-3614-sb-79-in-101326 (1).pdf](palo%20alto-hau-3614-sb-79-in-101326%20%281%29.pdf) | no_match | no dashboard row for a jurisdiction named in it within 3 days of 2026-10-13 |
 
 ## All requested letters
 
 | File | Source | Jurisdiction | Letter date | Type / task | Match | Text |
 |---|---|---|---|---|---|---|
+| [palo alto-hau-3614-sb-79-in-101326 (1).pdf](palo%20alto-hau-3614-sb-79-in-101326%20%281%29.pdf) |  |  |  |  | no_match | [text](text/palo%20alto-hau-3614-sb-79-in-101326%20%281%29.txt) |
+| [oceanside-hau-3630-sb-79-out-101526.pdf](oceanside-hau-3630-sb-79-out-101526.pdf) |  |  |  |  | no_match | [text](text/oceanside-hau-3630-sb-79-out-101526.txt) |
 | [del-mar-rezone-corr-action-101626.pdf](del-mar-rezone-corr-action-101626.pdf) |  |  |  |  | no_match | [text](text/del-mar-rezone-corr-action-101626.txt) |
+| [culver-city-sb79-101226.pdf](culver-city-sb79-101226.pdf) |  |  |  |  | no_match | [text](text/culver-city-sb79-101226.txt) |
 
 ## How to add letters
 

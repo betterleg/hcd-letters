@@ -1,0 +1,10 @@
+{
+  "requested_pdf": "requested/culver-city-sb79-101226.pdf",
+  "pdf_sha256": "0e300ab5b3a6c362c4c5524aa2f05afd66284366bb1eddb12bc9cb713c27e527",
+  "text_method": "pdf_text",
+  "text_chars": 4506,
+  "text_empty": false,
+  "fetched_from": "requested_from_hcd",
+  "match": "no_match",
+  "match_note": "no dashboard row for a jurisdiction named in it within 3 days of 2026-10-12"
+}

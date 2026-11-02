@@ -1,0 +1,10 @@
+{
+  "requested_pdf": "requested/oceanside-hau-3630-sb-79-out-101526.pdf",
+  "pdf_sha256": "c499c77ed9833dd8cf5a24eeeb21a9afdcb1f3f6fb21ddb3fbcd432c83b8a634",
+  "text_method": "pdf_text",
+  "text_chars": 21312,
+  "text_empty": false,
+  "fetched_from": "requested_from_hcd",
+  "match": "no_match",
+  "match_note": "no dashboard row for a jurisdiction named in it within 3 days of 2026-10-15"
+}
