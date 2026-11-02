@@ -1,5 +1,7 @@
 case_number,letter_date,jurisdiction,housing_law,letter_type,hcd_letter,task,letter_url
+HAU0002057,2026-10-30,Menlo Park,Housing Element Law,Technical Assistance Letter,Contact HCD for a copy of the Menlo Park Technical Assistance Letter 10/30/2026,CSTASK0027471,
 HAU0003473,2026-10-29,Beverly Hills,Transit Oriented Development Zones (SB 79 of 2025),Technical Assistance Letter,Contact HCD for a copy of the Beverly Hills Technical Assistance Letter 10/29/2026,CSTASK0027678,
+HAU0002681,2026-10-28,Los Angeles,Affordable Housing and High Road Jobs Act (AB 2011 of 2022),Technical Assistance Letter,Contact HCD for a copy of the Los Angeles Technical Assistance Letter 10/28/2026,CSTASK0024638,
 HAU0003609,2026-10-27,San Marcos,Transit Oriented Development Zones (SB 79 of 2025),SB 79 Ordinance/Alternative Plan Findings Letter,Contact HCD for a copy of the San Marcos SB 79 Ordinance/Alternative Plan Findings Letter 10/27/2026,CSTASK0027670,
 HAU0003503,2026-10-26,San Dimas,Starter Home Revitalization Act (SB 684 of 2023),Technical Assistance Letter,San Dimas Technical Assistance Letter 10/26/2026,CSTASK0027654,https://calhcd.service-now.com/api/cdohm/public_attachment/1bbffffbfb885350dcacffa405efdc51
 HAU0003663,2026-10-23,Glendale,Transit Oriented Development Zones (SB 79 of 2025),SB 79 Ordinance/Alternative Plan Findings Letter,Glendale SB 79 Ordinance/Alternative Plan Findings Letter 10/23/2026,CSTASK0027624,https://calhcd.service-now.com/api/cdohm/public_attachment/6b873733fb885350dcacffa405efdc22
@@ -1375,4 +1377,3 @@ HAU0000178,2018-05-07,Fillmore,Housing Element Law,Letter of Inquiry,Fillmore Le
 ADU0006521,,Lemon Grove,Accessory Dwelling Unit Law,Technical Assistance Letter,Contact HCD for a copy of the Lemon Grove Technical Assistance Letter,CSTASK0027263,
 ADU0008940,,Los Angeles,Accessory Dwelling Unit Law,Technical Assistance Letter,Contact HCD for a copy of the Los Angeles Technical Assistance Letter,CSTASK0027328,
 ADU0009168,,Ventura County,Accessory Dwelling Unit Law,Ordinance Findings Letter,Ventura County Ordinance Findings Letter,CSTASK0027343,https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/ordinance-review-letters/ventura-county-adu-findings-082626.pdf
-HAU0002681,,Los Angeles,Affordable Housing and High Road Jobs Act (AB 2011 of 2022),Technical Assistance Letter,Contact HCD for a copy of the Los Angeles Technical Assistance Letter,CSTASK0024638,

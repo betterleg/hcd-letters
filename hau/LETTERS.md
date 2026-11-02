@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,377 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,326 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,378 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,326 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -8,8 +8,8 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Year | Letters |
 |---|---|
-| [undated](index/undated.md) | 4 |
-| [2026](index/2026.md) | 263 |
+| [undated](index/undated.md) | 3 |
+| [2026](index/2026.md) | 265 |
 | [2025](index/2025.md) | 461 |
 | [2024](index/2024.md) | 279 |
 | [2023](index/2023.md) | 185 |
@@ -24,7 +24,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Letter type | Letters |
 |---|---|
 | Letter of Inquiry | 347 |
-| Technical Assistance Letter | 334 |
+| Technical Assistance Letter | 335 |
 | Ordinance Findings Letter | 234 |
 | Technical Assistance Letter - Repeal Request | 211 |
 | Notice of Violation | 79 |
@@ -42,7 +42,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Housing law | Letters |
 |---|---|
-| Housing Element Law | 601 |
+| Housing Element Law | 602 |
 | Accessory Dwelling Unit Law | 487 |
 | Density Bonus Law | 103 |
 | Housing Accountability Act | 98 |
@@ -54,8 +54,8 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Anti-Discrimination in Land Use Law | 13 |
 | Streamlined Ministerial Approval Process (SB 35 of 2017) | 12 |
 | By-Right Supportive Housing Provisions | 11 |
-| Starter Home Revitalization Act (SB 684 of 2023) | 10 |
 | Affordable Housing and High Road Jobs Act (AB 2011 of 2022) | 10 |
+| Starter Home Revitalization Act (SB 684 of 2023) | 10 |
 | Other | 10 |
 | Minimum Parking Requirements (AB 2097 of 2022) | 5 |
 | No Net Loss | 4 |
@@ -68,7 +68,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Statute | Letters |
 |---|---|
-| 66316 | 458 |
+| 66316 | 459 |
 | 65585 | 329 |
 | 66314 | 313 |
 | 66315 | 313 |
