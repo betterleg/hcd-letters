@@ -1,0 +1,14 @@
+{
+  "county": "Tulare",
+  "jurisdiction": "Tulare",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-11-04",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tul-tulare-city-rezone-in-110426-068cs00002hKAj1AAG.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/tul-tulare-city-rezone-in-110426-068cs00002hKAj1AAG.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186021,
+  "text_chars": 4683,
+  "text_empty": false
+}

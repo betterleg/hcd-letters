@@ -196,7 +196,7 @@ Los Angeles,SIERRA MADRE,6th Cycle,Adopted,In,2022-07-28,2022-08-10,In
 Los Angeles,SIGNAL HILL,6th Cycle,Adopted,In,2022-09-28,2022-10-13,In
 Los Angeles,SOUTH EL MONTE,6th Cycle,Adopted,In,2024-06-07,2024-06-19,In
 Los Angeles,SOUTH GATE,6th Cycle,Adopted,In,2024-01-24,2024-02-28,In
-Los Angeles,SOUTH PASADENA,6th Cycle,Adopted,In Review,2026-09-14,,In
+Los Angeles,SOUTH PASADENA,6th Cycle,Adopted,In,2026-09-14,2026-11-03,In
 Los Angeles,TEMPLE CITY,6th Cycle,Adopted,In,2022-10-19,2022-12-16,In
 Los Angeles,TORRANCE,6th Cycle,Adopted,In,2022-08-15,2022-10-12,In
 Los Angeles,VERNON,6th Cycle,Adopted,In,2025-09-22,2025-09-23,In
@@ -393,6 +393,7 @@ San Joaquin,ESCALON,6th Cycle,Adopted,In,2026-08-11,2026-09-03,In
 San Joaquin,LATHROP,6th Cycle,Adopted,In,2025-02-21,2025-04-22,In
 San Joaquin,LODI,6th Cycle,Adopted,In,2024-03-27,2024-04-11,In
 San Joaquin,MANTECA,6th Cycle,Adopted,In,2024-10-11,2024-11-06,In
+San Joaquin,MOUNTAIN HOUSE,6th Cycle,Initial Draft,In Review,2026-10-30,,Out
 San Joaquin,RIPON,6th Cycle,Adopted,In,2025-06-11,2025-08-07,In
 San Joaquin,SAN JOAQUIN COUNTY,6th Cycle,Adopted,In,2026-07-13,2026-07-29,In
 San Joaquin,STOCKTON,6th Cycle,Adopted,In,2024-07-16,2024-09-09,In
@@ -413,7 +414,7 @@ San Mateo,COLMA,6th Cycle,Adopted,In,2024-01-11,2024-03-11,In
 San Mateo,DALY CITY,6th Cycle,Adopted,In,2024-11-13,2024-12-03,In
 San Mateo,EAST PALO ALTO,6th Cycle,Adopted,In,2024-03-21,2024-04-29,In
 San Mateo,FOSTER CITY,6th Cycle,Adopted,In,2024-03-21,2024-04-18,In
-San Mateo,HALF MOON BAY,6th Cycle,Adopted,Out,2025-12-05,2026-02-02,Out
+San Mateo,HALF MOON BAY,6th Cycle,Adopted,In Review,2026-11-04,,Out
 San Mateo,HILLSBOROUGH,6th Cycle,Adopted,In,2024-02-01,2024-03-28,In
 San Mateo,MENLO PARK,6th Cycle,Adopted,In,2024-01-24,2024-03-20,In
 San Mateo,MILLBRAE,6th Cycle,Adopted,In,2024-02-28,2024-03-01,In
@@ -513,8 +514,8 @@ Tulare,EXETER,6th Cycle,Adopted,In,2026-08-18,2026-10-08,In
 Tulare,FARMERSVILLE,6th Cycle,Adopted,In,2026-02-11,2026-02-12,In
 Tulare,LINDSAY,6th Cycle,Adopted,In,2025-12-26,2026-01-16,In
 Tulare,PORTERVILLE,6th Cycle,Adopted,In,2026-01-26,2026-02-09,In
-Tulare,TULARE,6th Cycle,Adopted,Out,2026-06-04,2026-08-03,Out
-Tulare,TULARE COUNTY,6th Cycle,Adopted,In Review,2026-10-26,,Out
+Tulare,TULARE,6th Cycle,Adopted,In,2026-10-26,2026-11-04,In
+Tulare,TULARE COUNTY,6th Cycle,Adopted,In,2025-01-29,2025-02-04,In
 Tulare,VISALIA,6th Cycle,Adopted,In,2025-03-03,2025-05-02,In
 Tulare,WOODLAKE,6th Cycle,Adopted,In,2025-06-27,2025-07-07,In
 Tuolumne,SONORA,7th Cycle,Adopted,In,2026-03-19,2026-04-06,In

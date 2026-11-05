@@ -1,6 +1,6 @@
 # Standard language in HCD's housing element review letters
 
-From 2,158 letters with text and 52,498 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 2,160 letters with text and 52,512 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 
@@ -35,8 +35,8 @@ From 2,158 letters with text and 52,498 paragraphs of 20+ words, by `scripts/let
 | Analyze the opportunities for energy conservation with … | 21 |
 | Conserve and improve the condition of the … | 21 |
 | Housing Needs Resources and Constraints | 18 |
-| The number of new housing units approved … | 16 |
 | The number of housing units for persons … | 16 |
+| The number of new housing units approved … | 16 |
 | An analysis of existing assisted housing developments … | 16 |
 | The number of residential dwelling units for … | 15 |
 | The number of existing residential dwelling units … | 15 |
@@ -45,14 +45,14 @@ From 2,158 letters with text and 52,498 paragraphs of 20+ words, by `scripts/let
 
 ## Recurring paragraphs
 
-### Group 1: 2,029 letters (94%), 1993–2026; 60% of these letters are Out findings
+### Group 1: 2,031 letters (94%), 1993–2026; 60% of these letters are Out findings
 
 > Several federal, state, and regional funding programs consider housing element compliance as an eligibility or ranking criteria. For example, the CalTrans Senate Bill (SB) <N> Sustainable Communities grant; the Strategic Growth Council and HCD’s Affordable Housing and Sustainable Communities programs; and HCD’s Permanent Local Housing Allocation consider housing element compliance and/or annual reporting requirements pursuant to Government Code section 65400. With a compliant housing element, the <JTYPE> will meet housing element requirements for these and other funding sources.
 
 | Variant | Letters | Years |
 |---|---|---|
-| 1 | 1,281 | 2020–2026 |
-| 2 | 421 | 1993–2026 |
+| 1 | 1,282 | 2020–2026 |
+| 2 | 422 | 1993–2026 |
 | 3 | 47 | 2020–2024 |
 | 4 | 30 | 2021–2025 |
 
@@ -75,7 +75,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > Thank you for submitting the <JTYPE> of <JUR> (<JTYPE>) **revised draft** housing element ~~adopted <DATE> and~~ received for review on <DATE>. Pursuant to Government Code section 65585, ~~subdivision (h),~~ the California Department of Housing … the results of its review.
 
-### Group 3: 1,475 letters (68%), 1993–2026; 63% of these letters are Out findings
+### Group 3: 1,476 letters (68%), 1993–2026; 63% of these letters are Out findings
 
 > For your information, some general plan element updates are triggered by housing element adoption. HCD reminds the <JTYPE> to consider timing provisions and welcomes the opportunity to provide assistance. For information, please see the Technical Advisories issued by the Governor’s Office of Planning and Research at: https://www.opr.ca.gov/planning/general-plan/guidelines.html.
 
@@ -83,14 +83,14 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 |---|---|---|
 | 1 | 848 | 2021–2026 |
 | 2 | 306 | 2020–2022 |
-| 3 | 205 | 1993–2026 |
+| 3 | 206 | 1993–2026 |
 | 4 | 27 | 2021–2022 |
 
 How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > For your information, some general … of Planning and Research at: ~~https://www.opr.ca.gov/planning/general-plan/guidelines.html.~~ **http://opr.ca.gov/docs/OPR_Appendix_C_final.pdf and http://opr.ca.gov/docs/Final_6.26.15.pdf.**
 
-### Group 4: 1,442 letters (67%), 2020–2026; 67% of these letters are Out findings
+### Group 4: 1,443 letters (67%), 2020–2026; 67% of these letters are Out findings
 
 > We are committed to assisting the <JTYPE> in addressing all statutory requirements of State Housing Element Law. If you have any questions or need additional technical assistance, please contact Jamillah <JUR>, of our staff, at Jamillah.<JUR>@hcd.ca.gov.
 
@@ -299,13 +299,13 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > As a reminder, the <JTYPE> … HCD encourages the <JTYPE> to ~~revise the element as described above, adopt,~~ **adopt** and submit to HCD to regain housing element compliance.
 
-### Group 18: 512 letters (24%), 1993–2026; 8% of these letters are Out findings
+### Group 18: 513 letters (24%), 1993–2026; 8% of these letters are Out findings
 
 > The <JTYPE> must monitor and report on the results of these and other programs through the annual progress report, required pursuant to Government Code section 65400. Please be aware, Government Code section 65585, subdivision (i) grants HCD authority to review any action or failure to act by a local government that it determines is inconsistent with an adopted housing element or housing element law. This includes failure to implement program actions included in the housing element. HCD may revoke housing element compliance if the local government’s actions do not comply with state law.
 
 | Variant | Letters | Years |
 |---|---|---|
-| 1 | 439 | 1993–2026 |
+| 1 | 440 | 1993–2026 |
 | 2 | 37 | 2022–2026 |
 | 3 | 20 | 2021–2025 |
 | 4 | 18 | 2022–2025 |
