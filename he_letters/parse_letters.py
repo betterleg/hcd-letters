@@ -8,6 +8,8 @@ D = rf"((?:{MON})\.?\s+\d{{1,2}}\s*,?\s*\d{{4}})"
 RX_RECEIVED = re.compile(rf"received\s+(?:for\s+(?:review\s+)?)?(?:on\s+)?{D}", re.I)
 RX_ADOPTED = re.compile(rf"adopted\s+(?:on\s+)?{D}", re.I)
 RX_REVISION = re.compile(rf"revisions?\s+(?:received\s+)?(?:on\s+)?(?:through\s+)?{D}", re.I)
+RX_RECEIVED_FOR_REVIEW = re.compile(rf"received\s+for\s+review\s+(?:on\s+)?{D}", re.I)
+RX_DEADLINE = re.compile(rf"statutory\s+(?:due\s+date|deadline)\s*\(?\s*(?:of\s+)?{D}", re.I)
 IN_PH = [r"meets\s+(?:most\s+of\s+)?(?:all\s+)?(?:the\s+)?statutory\s+requirements", r"met\s+(?:the\s+)?statutory\s+requirements", r"in\s+(?:full|substantial)\s+compliance", r"substantially\s+compl(?:y|ies)\s+with", r"meets\s+the\s+statutory\s+requirements",
          r"pleased\s+to\s+find", r"complies\s+with\s+State\s+Housing\s+Element\s+Law", r"addresses\s+the\s+statutory\s+requirements"]
 OUT_PH = [r"revisions\s+(?:will\s+be|are)\s+necessary", r"additional\s+revisions\s+are\s+(?:necessary|required)", r"does\s+not\s+(?:substantially\s+)?comply",
@@ -30,19 +32,35 @@ def to_date(s):
         return None
 
 
-def parse(text):
+def parse(text, letter_date=None):
+    """letter_date (ISO) bounds the received dates: a letter reviews a submittal received before it."""
     t = re.sub(r"\s+", " ", text)
     i = t.lower().find("thank you for")
     body = t[i:] if i >= 0 else t[300:]
     head = body[:1500]
     out = {}
-    m = RX_RECEIVED.search(head)
-    out["received_date"] = to_date(m.group(1)) if m else None
+    # Which received date is the submittal under review:
+    #  - A letter on later modifications names the original receipt first and the new submittal later, marked
+    #    "for review" ("adopted October 23, 2023 and received March 21, 2024, along with modifications received
+    #    for review on December 9, 2024"): use the latest "received for review" date.
+    #  - A draft review usually reads "received for review on July 2, 2025, along with revisions received on
+    #    August 26, 2025": the revisions arrived during the review, and HCD's 60/90-day clock and the Download
+    #    Tool submittal run from July 2. Those "revisions received" dates are not "for review", so they're skipped
+    #    here (they stay in last_revision_date). Taking the latest of all received dates would cut review times
+    #    for ~400 letters to a few days.
+    #  - Dates after the letter can't be the submittal it reviewed.
+    ok = lambda d: d and (not letter_date or d <= letter_date)
+    recv = [d for d in (to_date(x) for x in RX_RECEIVED.findall(head)) if ok(d)]
+    for_review = [d for d in (to_date(x) for x in RX_RECEIVED_FOR_REVIEW.findall(head)) if ok(d)]
+    out["first_received_date"] = recv[0] if recv else None
+    out["received_date"] = max(for_review) if for_review else (recv[0] if recv else None)
     m = RX_ADOPTED.search(head)
     out["adopted_date"] = to_date(m.group(1)) if m else None
     revs = [to_date(x) for x in RX_REVISION.findall(head)]
     revs = [r for r in revs if r]
     out["last_revision_date"] = max(revs) if revs else None
+    m = RX_DEADLINE.search(body[:6000])
+    out["statutory_due_date"] = to_date(m.group(1)) if m else None
     finding_zone = body[:3500]
     mi, mo, mp = RX_IN.search(finding_zone), RX_OUT.search(finding_zone), RX_PENDING.search(finding_zone)
     now_in = RX_NOW_IN.search(finding_zone)
@@ -80,11 +98,13 @@ if __name__ == "__main__":
     for r in rows:
         rec = {k: r[k] for k in ("county", "jurisdiction", "type", "cycle", "reviewed", "linktext", "status", "fetched_from")}
         rec["pdf_url"] = r["weblink"] if r["weblink"].startswith("http") else ""
-        rec.update(received_date=None, adopted_date=None, last_revision_date=None, finding=None, filename_hint=None, text_finding=None, finding_source=None, review_days=None)
+        rec.update(received_date=None, first_received_date=None, adopted_date=None, last_revision_date=None,
+                   statutory_due_date=None, finding=None, filename_hint=None, text_finding=None, finding_source=None,
+                   review_days=None)
         if r["status"] == "downloaded" and r["text_file"]:
             p = root / r["text_file"]
             if p.exists():
-                rec.update(parse(p.read_text(encoding="utf-8", errors="replace")))
+                rec.update(parse(p.read_text(encoding="utf-8", errors="replace"), r["reviewed"] or None))
                 rec["filename_hint"] = filename_hint(r["weblink"])
                 rec["text_finding"] = rec["finding"]
                 if rec["filename_hint"]:

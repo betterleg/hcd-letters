@@ -15,6 +15,8 @@ Outputs:
                              requirements, issues and commitments (he_letters/letter_outcomes.csv), and programs
   site/data/language.json    Language tab: standard paragraph groups (*/patterns.json) and hashes of standard
                              sentences, so the letter reader can dim them
+  site/data/milestones.json  jurisdiction timelines (he_letters/milestones.csv): submittals, revisions, adoption,
+                             meetings, due dates, HCD letters with the review period from the submittal
   site/data/citations.json   the citation strings that rows' "cites" lists point to (from */citations.csv)
   site/data/meta.json        build time, repo name, counts
 Rows are arrays with value dictionaries to keep the files small; app.js unpacks them.
@@ -254,6 +256,24 @@ def build_language(hau, he, min_letters=25):
     return out
 
 
+def build_milestones():
+    """Jurisdiction timelines: he_letters/milestones.csv (scripts/letter_milestones.py)."""
+    rows = read("he_letters/milestones.csv")
+    if not rows:
+        return None
+    D = {k: Dict() for k in ("jur", "county", "event", "type", "detail", "source")}
+    out = []
+    for r in rows:
+        days = r.get("review_days", "")
+        out.append([D["jur"](r["jurisdiction"]), D["county"](r.get("county")), r.get("cycle", ""), r["date"], D["event"](r["event"]),
+                    D["detail"](r.get("detail")), r.get("letter_date", ""), D["type"](r.get("letter_type")), r.get("finding", ""),
+                    r.get("review_start", ""), int(float(days)) if days.replace(".", "").lstrip("-").isdigit() else None,
+                    D["source"](r.get("source")), (r.get("phrase") or "")[:260]])
+    return {"cols": ["jur", "county", "cycle", "date", "event", "detail", "letterDate", "letterType", "finding", "reviewStart",
+                     "reviewDays", "source", "phrase"],
+            "dict": {k: d.values for k, d in D.items()}, "jurKey": [jkey(j) for j in D["jur"].values], "rows": out}
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     cites = load_cites()
@@ -264,9 +284,9 @@ def main():
         "repo": os.environ.get("GITHUB_REPOSITORY", "betterleg/hcd-letters"),
         "counts": {"hau": len(hau["rows"]), "he": len(he["rows"]), "compliance": len(comp["rows"])},
     }
-    reqs, lang = build_requirements(), build_language(hau, he)
+    reqs, lang, ms = build_requirements(), build_language(hau, he), build_milestones()
     for name, obj in (("hau", hau), ("he", he), ("compliance", comp), ("citations", cit), ("requirements", reqs),
-                      ("language", lang), ("meta", meta)):
+                      ("language", lang), ("milestones", ms), ("meta", meta)):
         if obj is None:
             continue
         p = OUT / f"{name}.json"

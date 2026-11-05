@@ -69,7 +69,7 @@
     KW_VARIANTS = hau?.keywordVariants || {};
     const C = (comp?.rows || []).map(([county, jurisdiction, cycle, recordType, reviewStatus, received, reviewed, status, key]) =>
       ({ county, jur: jurisdiction, cycle, recordType, reviewStatus, received, reviewed, status, key }));
-    return { H, E, C, meta, A: H.concat(E) };
+    return { H, E, C, meta, A: H.concat(E), Ec: E.filter(inCycle), Ac: H.concat(E.filter(inCycle)) };
   }
 
   // ---------- chart primitives ----------
@@ -250,6 +250,16 @@
 
   let DATA = null;
   const DRAW = {};
+  // ---------- cycles (TODO #14): every view of review letters follows this; HAU letters have no cycle ----------
+  const CYC_OPTS = [['6,7', '6th + 7th cycles'], ['6', '6th cycle'], ['7', '7th cycle'], ['all', 'All cycles'], ['5,4,3,2,1,', '5th cycle and earlier']];
+  let CYC = (() => { try { return localStorage.getItem('hcd.cycles') || '6,7'; } catch { return '6,7'; } })();
+  if (!CYC_OPTS.some(([v]) => v === CYC)) CYC = '6,7';
+  const inCycle = (r) => CYC === 'all' || CYC.split(',').includes(r.cycle || '');
+  const cycLabel = (c) => (c ? `${c}th` : 'no cycle');
+  const cycList = () => (CYC === 'all' ? [...new Set(DATA.E.map((r) => r.cycle || ''))].sort().reverse() : CYC.split(',')).filter((c) => DATA.E.some((r) => (r.cycle || '') === c));
+  function applyCycles() { DATA.Ec = DATA.E.filter(inCycle); DATA.Ac = DATA.H.concat(DATA.Ec); }
+  /** "HAU" or the review letter's cycle: used to break totals down in tables (TODO #15) */
+  const bucketOf = (r) => (r.src === 'HAU' ? 'HAU' : cycLabel(r.cycle));
   const lawsAll = () => [...new Set(DATA.H.flatMap((r) => r.laws))].sort();
   const groupColors = () => ({ 'Technical assistance': css('--s1'), Enforcement: css('--out'), 'Ordinance review': css('--s2'), 'Resolution & support': css('--s4'), Other: css('--s5'), 'Housing element review': css('--s3') });
   const GROUPS = ['Enforcement', 'Technical assistance', 'Ordinance review', 'Resolution & support', 'Other'];
@@ -258,7 +268,8 @@
 
   // Overview
   DRAW.overview = () => {
-    const { H, E, C } = DATA;
+    const { H, C } = DATA;
+    const E = DATA.Ec;
     const maxDate = d3.max(H.concat(E), (r) => r.date);
     const since = (days) => d3.utcFormat('%Y-%m-%d')(d3.utcDay.offset(parse(maxDate), -days));
     const recent90 = H.filter((r) => r.date >= since(90)).length;
@@ -267,7 +278,7 @@
     const kpi = (label, value, sub, alert) => el('div', { class: `kpi${alert ? ' alert' : ''}` }, el('span', { class: 'label' }, label), el('span', { class: 'value' }, value), el('span', { class: 'sub' }, sub));
     $('#kpis').replaceChildren(
       kpi('HAU letters', fmt(H.length), `${fmt(recent90)} in the last 90 days`),
-      kpi('Housing element review letters', fmt(E.length), `${fmt(E.filter((r) => r.text).length)} with full text`
+      kpi('Housing element review letters', fmt(E.length), `${cycList().map((c) => `${cycLabel(c)} cycle ${fmt(E.filter((r) => (r.cycle || '') === c).length)}`).join(', ')}; ${fmt(E.filter((r) => r.text).length)} with full text`
         + (H.concat(E).some((r) => r.req) ? `; ${fmt(H.concat(E).filter((r) => r.req).length)} letters requested from HCD` : '')),
       kpi('Out of compliance now', fmt(outNow.length), `of ${fmt(C.length)} jurisdictions on HCD's report`, true),
       kpi('Median review time', recentDays.length ? `${d3.median(recentDays)} days` : '—', 'submittal to HCD letter, last 12 months'),
@@ -303,16 +314,20 @@
 
     const fc = { Out: css('--out'), In: css('--in'), 'No finding': css('--muted') };
     legend($('#tr-he-legend'), Object.entries(fc));
-    const cyc = $('#tr-cycle');
-    const drawHe = () => {
-      const c = cyc.value;
-      const rows = DATA.E.filter((r) => r.date >= '2018' && (!c || r.cycle === c));
-      const qs = quarters(2018, lastQ().slice(0, 4)).filter((q) => q <= lastQ());
+    // one chart per cycle (TODO #15: trends are split, not blended)
+    const host = $('#tr-he');
+    host.replaceChildren();
+    for (const c of cycList()) {
+      const rows = DATA.Ec.filter((r) => (r.cycle || '') === c && r.date);
+      if (!rows.length) continue;
+      // start at the 1st percentile date so a few stray early letters don't stretch the axis
+      const ds = rows.map((r) => r.date).sort(), start = ds[Math.floor(ds.length * 0.01)];
+      const qs = quarters(+start.slice(0, 4), lastQ().slice(0, 4)).filter((q) => q <= lastQ() && q >= quarter(start));
       const cnt = d3.rollup(rows, (v) => v.length, (r) => quarter(r.date), (r) => r.finding || 'No finding');
-      stackedBars($('#tr-he'), { cats: qs, keys: ['Out', 'In', 'No finding'], colors: fc, value: (q, k) => cnt.get(q)?.get(k) || 0, tickEvery: 4, height: 300, label: 'Review letters per quarter' });
-    };
-    cyc.onchange = drawHe;
-    drawHe();
+      const box = el('div', { class: 'chart tall' });
+      host.append(el('h3', { class: 'sub' }, `${cycLabel(c)} cycle: ${fmt(rows.length)} letters`), box);
+      stackedBars(box, { cats: qs, keys: ['Out', 'In', 'No finding'], colors: fc, value: (q, k) => cnt.get(q)?.get(k) || 0, tickEvery: 4, height: 260, label: `${cycLabel(c)} cycle review letters per quarter` });
+    }
 
     // law x year heat table
     const years = [...new Set(DATA.H.map((r) => r.year).filter((y) => /^\d{4}$/.test(y)))].sort();
@@ -344,8 +359,8 @@
   const codeQuery = (tag) => tag.replace(/^ADU Law.*$/, '66310-66342');
   DRAW.statutes = () => {
     let kind = 'statutes', picked = null;
-    const years = d3.range(2018, +d3.max(DATA.A, (r) => r.year) + 1).map(String);
-    const maxDate = d3.max(DATA.A, (r) => r.date);
+    const years = d3.range(2018, +d3.max(DATA.Ac, (r) => r.year) + 1).map(String);
+    const maxDate = d3.max(DATA.Ac, (r) => r.date);
     const yearAgo = d3.utcFormat('%Y-%m-%d')(d3.utcDay.offset(parse(maxDate), -365));
     const NOTES = {
       statutes: 'The Statutory Reference tags HCD assigns to each HAU letter on its dashboard. Click a row for its letters.',
@@ -361,7 +376,7 @@
     const pool = () => {
       if (kind !== 'cites') return DATA.H;
       const src = $('#st-src').value;
-      return src === 'HAU' ? DATA.H : src === 'HE' ? DATA.E : DATA.A;
+      return src === 'HAU' ? DATA.H : src === 'HE' ? DATA.Ec : DATA.Ac;
     };
     const table = () => {
       const q = '';
@@ -373,7 +388,7 @@
         if (!m.has(tag)) m.set(tag, []);
         m.get(tag).push(r);
       }
-      let rows = [...m].map(([tag, rs]) => ({ tag, rs, n: rs.length, recent: rs.filter((r) => r.date >= yearAgo).length,
+      let rows = [...m].map(([tag, rs]) => ({ tag, rs, n: rs.length, by: d3.rollup(rs, (v) => v.length, bucketOf), recent: rs.filter((r) => r.date >= yearAgo).length,
         first: d3.min(rs, (r) => r.date), last: d3.max(rs, (r) => r.date), byYear: years.map((y) => rs.filter((r) => r.year === y).length) }));
       if (q) rows = rows.filter((r) => r.tag.toLowerCase().includes(q) || (KW_VARIANTS[r.tag] || []).some((v) => v.toLowerCase().includes(q)));
       rows.sort((a, b) => b.n - a.n || a.tag.localeCompare(b.tag));
@@ -382,7 +397,10 @@
       dataTable($('#st-table'), { id: `st${kind}`, rows, sort: 'n-', pageSize: 100, csvName: `hcd-${kind}`,
         columns: [{ key: 'tag', label: kind === 'keywords' ? 'Keyword' : 'Statute', cls: kind === 'keywords' ? '' : 'code',
           render: (r) => (KW_VARIANTS[r.tag] ? el('span', { title: `Groups: ${KW_VARIANTS[r.tag].join('; ')}` }, r.tag) : r.tag) },
-          { key: 'n', label: 'Letters', num: true }, { key: 'recent', label: 'Last 12 mo.', num: true },
+          { key: 'n', label: 'Letters', num: true },
+          ...(kind === 'cites' ? [...new Set(pool().map(bucketOf))].sort((a, b) => (a === 'HAU' ? -1 : b === 'HAU' ? 1 : b.localeCompare(a)))
+            .map((b) => ({ key: `b_${b}`, label: b === 'HAU' ? 'HAU' : `${b} cycle`, num: true, value: (r) => r.by.get(b) || 0, render: (r) => (r.by.get(b) ? fmt(r.by.get(b)) : ''), hideSm: true })) : []),
+          { key: 'recent', label: 'Last 12 mo.', num: true },
           { key: 'spark', label: 'By year', value: (r) => r.n, render: (r) => sparkline(r.byYear, smax), csv: (r) => r.byYear.join(' '), hideSm: true },
           { key: 'first', label: 'First', value: (r) => r.first || '', render: (r) => r.first?.slice(0, 4) || '' },
           { key: 'last', label: 'Latest', value: (r) => r.last || '', render: (r) => fdate(r.last), cls: 'd' }],
@@ -424,7 +442,8 @@
 
   // Compliance
   DRAW.compliance = () => {
-    const { C, E } = DATA;
+    const { C } = DATA;
+    const E = DATA.Ec;
     const status = d3.rollup(C, (v) => v.length, (c) => c.status);
     const inReview = C.filter((c) => /review/i.test(c.reviewStatus)).length;
     const box = (label, n, cls) => el('div', { class: `kpi${cls === 'out' ? ' alert' : ''}` }, el('span', { class: 'label' }, label), el('span', { class: 'value' }, fmt(n)));
@@ -501,7 +520,7 @@
     q.oninput = go;
   };
   function renderPlace(p, name) {
-    const hau = DATA.H.filter((r) => r.key === p.key), he = DATA.E.filter((r) => r.key === p.key);
+    const hau = DATA.H.filter((r) => r.key === p.key), he = DATA.Ec.filter((r) => r.key === p.key);
     const c = DATA.C.find((x) => x.key === p.key);
     const all = hau.concat(he).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
     const findings = he.filter((r) => r.finding);
@@ -512,7 +531,10 @@
       el('span', {}, el('b', {}, fmt(hau.length)), ' HAU letters'),
       el('span', {}, el('b', {}, fmt(he.length)), ' review letters', findings.length ? ` (${findings.filter((r) => r.finding === 'Out').length} out, ${findings.filter((r) => r.finding === 'In').length} in)` : ''));
     const host = el('div');
-    $('#pl-body').replaceChildren(head, facts, all.length ? host : el('p', { class: 'empty' }, 'No letters on file.'));
+    const tl = el('div', { class: 'tl' });
+    $('#pl-body').replaceChildren(head, facts, el('h3', { class: 'sub' }, 'Timeline'), tl, el('h3', { class: 'sub' }, 'Letters'),
+      all.length ? host : el('p', { class: 'empty' }, 'No letters on file.'));
+    renderTimeline(tl, p.key, hau);
     if (all.length) {
       dataTable(host, { id: 'pl', rows: all, sort: 'date-', csvName: `hcd-letters-${name}`,
         columns: [{ key: 'date', label: 'Date', render: (r) => fdate(r.date), csv: (r) => r.date, cls: 'd' },
@@ -524,6 +546,89 @@
           { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (r) => tdContent(readCell(r)), csv: (r) => r.pdf || '' }] });
     }
   }
+  // ---------- jurisdiction timeline (milestones.json from scripts/letter_milestones.py) ----------
+  const LANES = [
+    ['Statutory due date', 'Due date'],
+    ['Submittal received for review', 'Submittals'],
+    ['Revisions received', 'Revisions & other'],
+    ['Other material received', 'Revisions & other'],
+    ['Posted for public review', 'Revisions & other'],
+    ['Adopted', 'Adopted'],
+    ['Meeting with HCD', 'Meetings with HCD'],
+    ['HCD letter', 'HCD reviews'],
+    ['Posted on Download Tool', 'Download Tool'],
+  ];
+  const laneOf = Object.fromEntries(LANES);
+  let MS = null;
+  async function milestonesFor(key) {
+    if (!MS) {
+      const j = await getJSON('milestones');
+      MS = j ? j.rows.map((r) => ({ jur: j.dict.jur[r[0]], key: j.jurKey[r[0]], county: j.dict.county[r[1]], cycle: r[2], date: r[3],
+        event: j.dict.event[r[4]], detail: j.dict.detail[r[5]], letterDate: r[6], letterType: j.dict.type[r[7]], finding: r[8],
+        reviewStart: r[9], reviewDays: r[10], source: j.dict.source[r[11]], phrase: r[12] })) : [];
+    }
+    return MS.filter((m) => m.key === key && inCycle(m));
+  }
+  async function renderTimeline(host, key, hauRows) {
+    host.replaceChildren(el('p', { class: 'busy' }, 'Loading timeline…'));
+    const all = await milestonesFor(key);
+    // the same milestone named in several letters is shown once
+    const seen = new Set();
+    const ms = all.filter((m) => { const k = `${m.event}|${m.date}|${m.event === 'HCD letter' ? m.letterType : ''}`; if (seen.has(k)) return false; seen.add(k); return true; });
+    const hau = hauRows.map((r) => ({ event: 'HAU letter', date: r.date, detail: r.type, lane: 'HAU letters' })).filter((m) => m.date);
+    if (!ms.length && !hau.length) { host.replaceChildren(el('p', { class: 'empty' }, 'No milestones for the cycles chosen.')); return; }
+    const items = ms.map((m) => ({ ...m, lane: laneOf[m.event] || 'Revisions & other' })).concat(hau);
+    const lanes = [...new Set(LANES.map(([, l]) => l).concat(['HAU letters']))].filter((l) => items.some((m) => m.lane === l));
+    const parseD = (s) => parse(s);
+    const reviews = items.filter((m) => m.event === 'HCD letter' && m.reviewStart);
+    const dates = items.map((m) => parseD(m.date)).concat(reviews.map((m) => parseD(m.reviewStart))).filter(Boolean);
+    const node = el('div', { class: 'chart timeline' });
+    const leg = el('div', { class: 'legend' });
+    host.replaceChildren(leg, node);
+    const W = Math.max(340, node.clientWidth || host.clientWidth || 900), rowH = 30, m = { t: 8, r: 16, b: 26, l: Math.min(150, W * 0.3) };
+    const H = m.t + m.b + lanes.length * rowH;
+    const [d0, d1] = d3.extent(dates);
+    const x = d3.scaleUtc([d3.utcMonth.offset(d0, -2), d3.utcMonth.offset(d1, 2)], [m.l, W - m.r]);
+    const y = (l) => m.t + lanes.indexOf(l) * rowH + rowH / 2;
+    const svg = d3.select(node).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Timeline of housing element milestones');
+    svg.append('g').attr('class', 'grid').attr('transform', `translate(0,${H - m.b})`)
+      .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l) / 90))).tickSize(-(H - m.t - m.b))).call(axisStyle);
+    svg.append('g').selectAll('text').data(lanes).join('text').attr('x', m.l - 8).attr('y', y).attr('dy', '0.35em').attr('text-anchor', 'end').text((d) => d);
+    const fcol = (f) => (f === 'Out' ? css('--out') : f === 'In' ? css('--in') : css('--muted'));
+    // review periods: from the submittal HCD reviewed to its letter; ticks at 60 and 90 days after the submittal
+    const rv = svg.append('g');
+    for (const r of reviews) {
+      const a = parseD(r.reviewStart), b = parseD(r.date), yy = y('HCD reviews');
+      rv.append('line').attr('x1', x(a)).attr('x2', x(b)).attr('y1', yy).attr('y2', yy).attr('stroke', fcol(r.finding)).attr('stroke-width', 4).attr('stroke-opacity', 0.45);
+      for (const dd of [60, 90]) {
+        const t = d3.utcDay.offset(a, dd);
+        rv.append('line').attr('class', 'ref').attr('x1', x(t)).attr('x2', x(t)).attr('y1', yy - 8).attr('y2', yy + 8).append('title').text(`${dd} days after the submittal`);
+      }
+    }
+    const shape = (mm) => (mm.event === 'HCD letter' ? d3.symbolCircle : mm.event === 'Adopted' ? d3.symbolDiamond : mm.event === 'Statutory due date' ? d3.symbolTriangle
+      : mm.event === 'Submittal received for review' ? d3.symbolSquare : mm.event === 'HAU letter' ? d3.symbolStar : d3.symbolCross);
+    const color = (mm) => (mm.event === 'HCD letter' ? fcol(mm.finding) : mm.event === 'HAU letter' ? css('--s3') : mm.event === 'Statutory due date' ? css('--amber')
+      : mm.event === 'Submittal received for review' ? css('--accent') : mm.event === 'Adopted' ? css('--s4') : css('--s5'));
+    svg.append('g').selectAll('path').data(items.filter((mm) => parseD(mm.date))).join('path')
+      .attr('transform', (mm) => `translate(${x(parseD(mm.date))},${y(mm.lane)})`)
+      .attr('d', (mm) => d3.symbol(shape(mm), mm.event === 'HCD letter' ? 90 : 60)())
+      .attr('fill', color).attr('stroke', css('--panel')).attr('stroke-width', 1)
+      .on('mousemove', (ev, mm) => showTip(ev, `${fdate(mm.date)} · ${mm.event}`, [mm.detail, mm.event === 'HCD letter' && mm.reviewDays != null ? `Review: ${mm.reviewDays} days from the submittal (${fdate(mm.reviewStart)})` : '', mm.phrase && mm.source === 'letter text' ? `“${mm.phrase.replace(/^…/, '')}”` : ''].filter(Boolean)))
+      .on('mouseleave', hideTip);
+    legend(leg, [['HCD letter: out', css('--out')], ['HCD letter: in', css('--in')], ['Submittal received for review', css('--accent')], ['Adopted', css('--s4')],
+      ['Revisions, other material, meetings', css('--s5')], ['Statutory due date', css('--amber')], ['HAU letter', css('--s3')]]);
+    host.append(el('p', { class: 'note' }, 'Bars run from the submittal HCD reviewed to its letter; the small ticks mark 60 and 90 days after that submittal. Revisions sent during a review don’t restart it. Hover a mark for the letter’s wording.'));
+    const tbl = el('div');
+    host.append(tbl);
+    dataTable(tbl, { id: 'ms', rows: items.filter((mm) => mm.event !== 'HAU letter'), sort: 'date-', csvName: 'hcd-milestones',
+      columns: [{ key: 'date', label: 'Date', render: (mm) => fdate(mm.date), csv: (mm) => mm.date, cls: 'd' },
+        { key: 'event', label: 'Milestone', filter: 'select' },
+        { key: 'detail', label: 'Detail' },
+        { key: 'cycle', label: 'Cycle', filter: 'select', value: (mm) => mm.cycle || '' },
+        { key: 'reviewDays', label: 'Review days', num: true, value: (mm) => (mm.reviewDays ?? -1), render: (mm) => (mm.reviewDays != null ? `${mm.reviewDays}` : ''), csv: (mm) => mm.reviewDays ?? '' },
+        { key: 'phrase', label: 'In the letter', hideSm: true, render: (mm) => (mm.source === 'Download Tool' && mm.phrase ? link(mm.phrase, 'Document') || '' : (mm.phrase || '').replace(/^…/, '')) }] });
+  }
+
   function goPlace(name) {
     location.hash = '#place';
     show('place');
@@ -574,7 +679,6 @@
     const label = { reqs: (k) => `${R.reqLabels[k] || k} (${k})`, issues: (k) => k, commits: (k) => k };
     const P = params();
     let view = P.get('view') || 'reqs';
-    $('#rq-cycle').value = P.get('cycle') || '6,7';
     const cs = $('#rq-county');
     if (cs.options.length < 2) cs.append(...[...new Set(ALL.map((r) => r.county).filter(Boolean))].sort().map((c) => el('option', { value: c }, c)));
     cs.value = P.get('county') || '';
@@ -588,8 +692,10 @@
       'Draft meets requirements': css('--s4'), 'In compliance, adopted': css('--in'), 'Other, in compliance': css('--s1'), 'No finding': css('--rule') });
 
     function render() {
-      const cyc = new Set($('#rq-cycle').value.split(',')), county = cs.value;
-      setParams({ cycle: $('#rq-cycle').value === '6,7' ? '' : $('#rq-cycle').value, county, view: view === 'reqs' ? '' : view });
+      // follows the cycle choice in the header; this analysis covers the 6th and 7th cycles
+      const cyc = new Set(CYC === 'all' ? ['6', '7'] : CYC.split(',').filter((c) => c === '6' || c === '7')), county = cs.value;
+      setParams({ county, view: view === 'reqs' ? '' : view });
+      if (!cyc.size) { $('#rq-facts').textContent = 'The requirements analysis covers the 6th and 7th cycles. Choose one of them in the Cycles menu at the top.'; return; }
       const L = ALL.filter((r) => cyc.has(r.cycle) && (!county || r.county === county));
       const full = L.filter((r) => r.kind === 'Revisions needed');
       // first In per jurisdiction and cycle
@@ -617,8 +723,8 @@
       const nB = d3.rollup(full, (v) => v.length, (r) => roundOf(r.round));
       const cnt = new Map();
       for (const r of full) for (const k of r[view]) {
-        if (!cnt.has(k)) cnt.set(k, { key: k, n: 0, b: Object.fromEntries(ROUNDS.map((x) => [x, 0])), letters: [] });
-        const c = cnt.get(k); c.n++; c.b[roundOf(r.round)]++; c.letters.push(r);
+        if (!cnt.has(k)) cnt.set(k, { key: k, n: 0, b: Object.fromEntries(ROUNDS.map((x) => [x, 0])), byc: {}, letters: [] });
+        const c = cnt.get(k); c.n++; c.b[roundOf(r.round)]++; c.byc[r.cycle] = (c.byc[r.cycle] || 0) + 1; c.letters.push(r);
       }
       const rows = [...cnt.values()].map((c) => {
         const sh = Object.fromEntries(ROUNDS.map((b) => [b, nB.get(b) ? c.b[b] / nB.get(b) : 0]));
@@ -636,7 +742,9 @@
       const heatCol = (b) => ({ key: b, label: b, num: true, value: (r) => r.sh[b], render: (r) => heat(r.sh[b]), csv: (r) => r.sh[b].toFixed(3) });
       dataTable($('#rq-table'), { id: 'rq', sort: 'n-', csvName: `hcd-${view}-by-round`, rows,
         columns: [{ key: 'label', label: view === 'reqs' ? 'Requirement' : view === 'issues' ? 'Issue' : 'Commitment' },
-          { key: 'n', label: 'Letters', num: true }, ...ROUNDS.map(heatCol),
+          { key: 'n', label: 'Letters', num: true },
+          ...(cyc.size > 1 ? [...cyc].sort().reverse().map((c) => ({ key: `c${c}`, label: `${c}th cycle`, num: true, value: (r) => r.byc[c] || 0, hideSm: true })) : []),
+          ...ROUNDS.map(heatCol),
           { key: 'stay', label: 'Staying power', num: true, value: (r) => r.stay ?? -1, render: (r) => (r.stay == null ? '' : r.stay.toFixed(2)), csv: (r) => (r.stay == null ? '' : r.stay.toFixed(2)) }],
         onRow: (r) => detail(r.label, r.letters, `${fmt(r.n)} "revisions needed" letters in which HCD wrote about this.`) });
       // shade heat cells after render
@@ -671,7 +779,6 @@
           { key: 'kind', label: 'Letter', value: (r) => r.kind || '', filter: 'select' }]) });
       $('#rq-detail').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
-    $('#rq-cycle').onchange = render;
     cs.onchange = render;
     $$('#requirements .seg button').forEach((b) => { b.onclick = () => { view = b.dataset.view; render(); }; });
     $('#rq-d-close').onclick = () => { $('#rq-detail').hidden = true; };
@@ -1089,6 +1196,19 @@
       Object.keys(drawn).filter((k) => k !== 'search').forEach((k) => delete drawn[k]);
       if (tab !== 'search') show(tab);
     }, 250);
+  });
+  // header Cycles menu: redraw every tab for the new choice
+  $('#cyc').replaceChildren(...CYC_OPTS.map(([v, l]) => el('option', { value: v }, l)));
+  $('#cyc').value = CYC;
+  $('#cyc').addEventListener('change', () => {
+    CYC = $('#cyc').value;
+    try { localStorage.setItem('hcd.cycles', CYC); } catch { /* private mode: keep for this visit only */ }
+    if (!DATA) return;
+    applyCycles();
+    const tab = (location.hash.slice(1) || 'overview').split('?')[0];
+    Object.keys(drawn).filter((k) => k !== 'search').forEach((k) => delete drawn[k]);
+    show(tab);
+    if (tab === 'place' && $('#pl-q').value) $('#pl-q').dispatchEvent(new Event('change'));
   });
   $('#qs').addEventListener('submit', (e) => {
     e.preventDefault();

@@ -55,6 +55,7 @@ jobs:
       - name: Findings, submittal dates and review time
         working-directory: he_letters
         run: |
+          python3 ../tests/test_parse_letters.py
           python3 parse_letters.py . letters_parsed.json
           python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv
 
@@ -68,6 +69,7 @@ jobs:
         run: |
           python3 scripts/letter_patterns.py he
           python3 scripts/letter_requirements.py
+          python3 scripts/letter_milestones.py
 
       - name: Summary
         run: cat he_letters/CHANGES.md >> "$GITHUB_STEP_SUMMARY"

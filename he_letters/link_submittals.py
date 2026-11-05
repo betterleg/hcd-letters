@@ -42,8 +42,8 @@ def main(letters_json, he_csv, out_json, out_csv):
             x["review_days"] = d if 0 <= d <= 400 else None
     json.dump(L, open(out_json, "w"))
     cols = ["county","jurisdiction","type","cycle","reviewed","finding","finding_source","submittal_date","review_days",
-            "received_date","adopted_date","last_revision_date","he_received_date","he_type","he_pdf_url","submittal_match",
-            "linktext","status","fetched_from","pdf_url"]
+            "received_date","first_received_date","adopted_date","last_revision_date","statutory_due_date",
+            "he_received_date","he_type","he_pdf_url","submittal_match","linktext","status","fetched_from","pdf_url"]
     with open(out_csv, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["letter_date" if c == "reviewed" else c for c in cols])
         for x in L: w.writerow([x.get(c) if x.get(c) is not None else "" for c in cols])

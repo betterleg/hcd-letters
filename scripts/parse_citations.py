@@ -271,6 +271,8 @@ def main(which):
     rows_out = []
     stats = Counter()
     found_by_key = defaultdict(set)
+    ranges_by_key = defaultdict(list)
+    text_by_key = {}
     for r in idx:
         tf = r.get("text_file", "")
         if not (r.get("status", "").startswith("downloaded") and tf):
@@ -280,6 +282,8 @@ def main(which):
             continue
         text = p.read_text(encoding="utf-8", errors="replace")
         cites, T = parse(text)
+        if which == "hau":
+            text_by_key[r.get(cfg["key"], "")] = T
         cites = fix_inferred(cites)
         stats["letters"] += 1
         if cites:
@@ -297,6 +301,8 @@ def main(which):
         key = r.get(cfg["key"], "")
         for n, c in agg.items():
             found_by_key[key].add(level(c, 0))
+            if c["range_end"] and c["code"] == "GOV":
+                ranges_by_key[key].append((c["section"], c["range_end"]))
             rows_out.append({
                 "letter_key": key, "jurisdiction": r.get("jurisdiction", ""), "letter_date": r.get(cfg["date"], ""),
                 "text_file": tf, "code": c["code"], "section": c["section"], "subdivision_path": c["path"],
@@ -312,10 +318,18 @@ def main(which):
         w.writerows(rows_out)
     print(f"{d.name}/citations.csv: {len(rows_out):,} rows from {stats['letters']:,} letters "
           f"({stats['letters_with_citations']:,} with at least one citation)")
-    write_report(which, d, rows_out, stats, found_by_key)
+    write_report(which, d, rows_out, stats, found_by_key, ranges_by_key, text_by_key)
 
 
-def write_report(which, d, rows, stats, found_by_key):
+def secnum(s):
+    try:
+        return float(s)
+    except ValueError:
+        return None
+
+
+def write_report(which, d, rows, stats, found_by_key, ranges_by_key=None, text_by_key=None):
+    ranges_by_key, text_by_key = ranges_by_key or {}, text_by_key or {}
     def letters(col, keep=lambda r: True):
         return Counter(k for k, _ in {(r[col], r["letter_key"]) for r in rows if keep(r)})
     sec = letters("level_section")
@@ -335,20 +349,46 @@ def write_report(which, d, rows, stats, found_by_key):
                 if m and "-" not in x:
                     t.add(m.group(1))
             tags[r["task"]] = t
-        both = tagged = hit = extra = 0
+        both = tagged = hit = extra = in_range = parser_miss = not_in_text = 0
+        misses = Counter()
+        examples = {}
         for k, found in found_by_key.items():
             t = tags.get(k, set())
             f = {x for x in found if " " not in x}
-            if t:
-                tagged += 1
-                both += len(t & f)
-                hit += len(t)
-                extra += len(f - t)
+            if not t:
+                continue
+            tagged += 1
+            hit += len(t)
+            both += len(t & f)
+            extra += len(f - t)
+            text = text_by_key.get(k, "")
+            for tag in t - f:
+                n = secnum(tag)
+                if n is not None and any(secnum(a) is not None and secnum(e) is not None and secnum(a) <= n <= secnum(e)
+                                         for a, e in ranges_by_key.get(k, [])):
+                    in_range += 1
+                elif re.search(r"(?<![\d.])" + re.escape(tag) + r"(?![\d]|\.\d)", text):
+                    parser_miss += 1
+                    misses[tag] += 1
+                    if tag not in examples:
+                        i = re.search(r"(?<![\d.])" + re.escape(tag) + r"(?![\d]|\.\d)", text).start()
+                        examples[tag] = (k, " ".join(text[max(0, i - 100):i + 60].split()))
+                else:
+                    not_in_text += 1
         if hit:
             out += ["## Check against HCD's Statutory Reference tags", "",
-                    f"Of {hit:,} section tags HCD gave the {tagged:,} tagged letters with text, the parser found "
-                    f"**{both / hit:.0%}** in the letter text. It also found {extra:,} cited sections HCD didn't tag "
-                    "(HCD tags the main statutes, not every section a letter cites).", ""]
+                    f"HCD gave the {tagged:,} tagged letters with text {hit:,} section tags. For each tag:", "",
+                    "| Result | Tags | Share |", "|---|---|---|",
+                    f"| Found by the parser | {both:,} | {both / hit:.0%} |",
+                    f"| Covered by a range the letter cites (e.g. §§ 66310–66342) | {in_range:,} | {in_range / hit:.0%} |",
+                    f"| **Number appears in the text but the parser missed it** | {parser_miss:,} | {parser_miss / hit:.0%} |",
+                    f"| Not in the letter text at all (HCD tags the topic, not only what the letter cites) | {not_in_text:,} | {not_in_text / hit:.0%} |",
+                    "", f"The parser also found {extra:,} cited sections HCD didn't tag.", ""]
+            if misses:
+                out += ["### Parser misses to fix", "", "Tags whose number is in the text but wasn't read as a citation, most frequent first, "
+                        "with one example each (task number and the words around it):", "", "| Section | Letters | Example |", "|---|---|---|"]
+                out += [f"| `{tg}` | {n} | {examples[tg][0]}: …{examples[tg][1].replace('|', '/')}… |" for tg, n in misses.most_common(25)]
+                out.append("")
     for title, cnt in (("Most-cited sections", sec), ("Most-cited subdivisions", sub), ("Most-cited full citations", full)):
         out += [f"## {title}", "", "| Citation | Letters |", "|---|---|"]
         out += [f"| `{k}` | {v:,} |" for k, v in cnt.most_common(40)]

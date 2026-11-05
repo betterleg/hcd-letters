@@ -7,18 +7,23 @@
 <meta name="description" content="Trends in California HCD housing letters: Housing Accountability Unit technical assistance and enforcement letters, and housing element review letters, updated weekly.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="masthead">
   <div class="wrap masthead-inner">
     <div>
-      <p class="eyebrow">California Department of Housing and Community Development</p>
       <h1>HCD Letter Tracker</h1>
-      <p class="dek">What HCD's Housing Accountability Unit and housing element reviewers are writing to cities and counties, how often, and about which statutes.</p>
+      <p class="dek">Housing element review letters and Housing Accountability Unit letters from California HCD, collected weekly, with their full text.</p>
     </div>
-    <p class="stamp" id="stamp">Loading…</p>
+    <div class="mast-tools">
+      <div class="mast-row">
+        <label class="cyc">Cycles <select id="cyc" aria-label="Housing element cycles shown"></select></label>
+        <form class="qs" id="qs" role="search"><input type="search" id="qs-q" placeholder="Search letters" aria-label="Search letter text"></form>
+      </div>
+      <p class="stamp" id="stamp">Loading…</p>
+    </div>
   </div>
   <nav class="wrap tabs" role="tablist" aria-label="Sections">
     <a role="tab" href="#overview" data-tab="overview">Overview</a>
@@ -29,7 +34,6 @@
     <a role="tab" href="#statutes" data-tab="statutes">Statutes &amp; keywords</a>
     <a role="tab" href="#compliance" data-tab="compliance">Compliance</a>
     <a role="tab" href="#place" data-tab="place">Jurisdiction lookup</a>
-    <form class="qs" id="qs" role="search"><input type="search" id="qs-q" placeholder="Search letters" aria-label="Search letter text"></form>
   </nav>
 </header>
 
@@ -93,7 +97,6 @@
       <header class="row">
         <div><h2>What HCD requires</h2><p class="note">Housing element review letters, read finding by finding. Each finding is filed under the statutory requirement HCD quotes above it (Gov. Code § 65583 or § 65588) and tagged with HCD's topic label. <em>Round</em> is the letter's place among a jurisdiction's reviews in that cycle. Counts leave out HCD's standard sentences, so they reflect what HCD wrote for each place.</p></div>
         <div class="ctl-group">
-          <label class="ctl">Cycle <select id="rq-cycle"><option value="6,7">6th and 7th</option><option value="6">6th only</option><option value="7">7th only</option></select></label>
           <label class="ctl">County <select id="rq-county"><option value="">All counties</option></select></label>
         </div>
       </header>
@@ -179,8 +182,7 @@
     </article>
     <article class="card">
       <header class="row">
-        <div><h2>Housing element review letters per quarter</h2><p class="note">HCD's finding on each draft or adopted element. Findings come from HCD's "in"/"out" file label or the letter's wording.</p></div>
-        <label class="ctl">Cycle <select id="tr-cycle"><option value="">All cycles</option><option value="6" selected>6th</option><option value="7">7th</option><option value="5">5th</option></select></label>
+        <div><h2>Housing element review letters per quarter, by cycle</h2><p class="note">HCD's finding on each draft or adopted element, one chart per cycle chosen in the Cycles menu. Findings come from HCD's "in"/"out" file label or the letter's wording.</p></div>
       </header>
       <div class="legend" id="tr-he-legend"></div>
       <div class="chart tall" id="tr-he"></div>

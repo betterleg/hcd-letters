@@ -6,33 +6,7 @@ Add items at the bottom of **Open**. Move them to **Done** with the date when th
 
 ### 7. Review the citation parser against HCD's tags
 
-After the first weekly HAU run, check the agreement figure at the top of `hau/CITATIONS.md` and spot-check about 50 letters. Tune `scripts/parse_citations.py` where it misses.
-
-### 13. Restyle the website so it looks hand-made, not generated
-
-The site uses a common pattern (serif headline, card grid, teal accent, uppercase eyebrow labels, KPI tiles) that reads as AI-built. Give it its own identity:
-
-- A distinct look: e.g. a planning-document or civic-report style (strong grid, rules instead of rounded cards, a restrained palette tied to HCD/California planning documents, real typographic hierarchy).
-- Drop the generic elements: rounded card shadows, uppercase eyebrows, pill badges, KPI tiles with big serif numbers, "dek" subtitle under the title.
-- Charts: one consistent chart style with direct labels instead of legends where possible.
-- Copy: shorter, plainer headings and notes written the way you'd write them.
-- Decide with a mockup or two before changing the CSS.
-
-### 14. Default to the 6th and 7th cycles everywhere
-
-Every tab, chart, table and report (website and the `*.md` reports) starts with the 6th and 7th cycles. A cycle control on each lets you:
-
-- see the 6th cycle only, the 7th cycle only, or both together (the default);
-- bring in earlier cycles (5th, 4th, and letters with no cycle listed), each alone or with the others.
-
-HAU letters have no cycle; they stay in their own views, with a date range instead. The choice is kept in the page address so it can be shared. Done so far: the Requirements tab (6th and 7th, each or together).
-
-### 15. Show totals together, split trends
-
-- **Counts and overall topics** (letter frequency, most-cited requirements, issues, statutes, keywords): show one combined table, with the number of letters and the breakdown by cycle (and by source, HAU vs. review letters) side by side in the same row.
-- **Analysis and trends over time:** split by cycle, and by source, as separate series or small multiples, so 6th- and 7th-cycle patterns (and HAU vs. review letters) aren't blended.
-- **Search** stays combined, since it can already be narrowed to HAU letters, review letters, or a cycle.
-
+`hau/CITATIONS.md` now sorts every HCD tag the parser didn't find into: covered by a range the letter cites, **number in the text but missed by the parser**, or not in the letter at all (HCD tagged the topic). Only the middle group is a parser problem; the report lists the most frequent ones with an example each. After the next weekly HAU run, fix those patterns in `scripts/parse_citations.py`. (Oct 2026 run: 47% of tags found before this breakdown existed.)
 ### 16. Show requested PDFs in the browser
 
 Only for the PDFs in `requested/` (letters obtained from HCD by request and kept on GitHub); the PDF links to HCD's own site already open in the browser. GitHub doesn't display these PDFs in place: its page shows a preview inside GitHub, and the raw file downloads. Show them in a viewer on the site instead, e.g. PDF.js reading the file from GitHub, in the letter reader next to the text, with a fallback link to the file on GitHub.
@@ -57,6 +31,10 @@ The rules-based analysis files findings by requirement and topic but can't say *
 
 ## Done
 
+- 2026-11-05: **Jurisdiction timelines.** `scripts/letter_milestones.py` → `he_letters/milestones.csv`: each letter's milestones in HCD's wording (submittal received for review, revisions received during review, other material received, adopted, posted for public review, meetings with HCD, statutory due date, the HCD letter, Download Tool postings). The Jurisdiction lookup shows them on a timeline with each review period running from the submittal HCD reviewed (60- and 90-day marks from that date; revisions don't restart it), plus a sortable table.
+- 2026-11-05: **#14 cycles:** a Cycles menu in the header (6th + 7th by default; 6th, 7th, all, or 5th and earlier) applies to every view of review letters and is remembered. **#15:** count tables break totals down by HAU and cycle in the same row; review-letter trends are drawn one chart per cycle. **#13 restyle:** report style with one sans typeface, ruled sections instead of cards, plain figures instead of tiles, colored markers instead of pills, navy accent.
+- 2026-11-05: **#7 diagnostics** added to `hau/CITATIONS.md` (see #7 above for the remaining review).
+- 2026-11-05: **Letter–submittal pairing fix** for integration: letters on later modifications pair with the modification submittal (latest "received for review" date); new `first_received_date` and `statutory_due_date` columns in `letters_analysis.csv`; tests in `tests/test_parse_letters.py`.
 - 2026-11-01: Fresh-repo fixes: workflows and scripts skip cleanly before any letters are downloaded; runners pinned to Ubuntu 24.04; `setup-python` v6; privacy-check terms match whole words only.
 - 2026-11-01: **#18 Fresh repo:** old repo and its history deleted; rebuilt from the current code with one clean first commit. Letter text and data are re-downloaded by the first workflow runs; requested PDFs re-uploaded to `requested/`.
 - 2026-10-25: **Privacy:** personal details removed from the repo's files; commits use the GitHub no-reply address; `.env` and key files ignored; `scripts/check_public.py` blocks secrets and `PRIVATE_TERMS` before every commit (hook and Actions) and every deploy.

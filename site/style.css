@@ -1,35 +1,35 @@
 /* Layout: one column of cards under a masthead with tabs; two-up grid when wide. */
 :root {
-  --paper: #f4f5f2;
-  --panel: #ffffff;
-  --ink: #18212b;
-  --ink-2: #4a5663;
-  --rule: #d9ddd6;
-  --accent: #0d5c63;     /* deep teal: links, active tab, primary series */
-  --accent-soft: #d7e8e7;
-  --in: #2f7a4a;
-  --out: #b4412d;
-  --amber: #b07d14;
-  --muted: #9aa4ad;
-  --s1: #0d5c63; --s2: #c0841a; --s3: #6c5aa8; --s4: #8a9a3b; --s5: #9aa4ad;
-  --f-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --paper: #fafaf7;
+  --panel: #fafaf7;
+  --ink: #1b1f24;
+  --ink-2: #565d66;
+  --rule: #d4d7d9;
+  --accent: #1f4e79;     /* navy: links, active tab, primary series */
+  --accent-soft: #e2eaf2;
+  --in: #2e7d4f;
+  --out: #b03a2e;
+  --amber: #a86b00;
+  --muted: #9aa1a8;
+  --s1: #1f4e79; --s2: #c08a1e; --s3: #6a4c93; --s4: #5c8a3a; --s5: #8f979e;
+  --f-display: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
-  --r: 6px;
+  --r: 2px;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #12171c; --panel: #1a2128; --ink: #e8ece9; --ink-2: #a9b3bb; --rule: #2c353e;
-    --accent: #5fb7bd; --accent-soft: #1f3a3d; --in: #5fb37f; --out: #e07a64; --amber: #e0ae4a; --muted: #5d6871;
-    --s1: #5fb7bd; --s2: #e0ae4a; --s3: #a596e0; --s4: #b6c46a; --s5: #5d6871;
+    --paper: #121417; --panel: #121417; --ink: #e6e8ea; --ink-2: #a3abb3; --rule: #2d3237;
+    --accent: #7fb0de; --accent-soft: #1d2c3b; --in: #6cc08f; --out: #e3826f; --amber: #e0a84a; --muted: #6b737b;
+    --s1: #7fb0de; --s2: #e0b25a; --s3: #a891d8; --s4: #9cc27a; --s5: #6b737b;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --paper: #12171c; --panel: #1a2128; --ink: #e8ece9; --ink-2: #a9b3bb; --rule: #2c353e;
-  --accent: #5fb7bd; --accent-soft: #1f3a3d; --in: #5fb37f; --out: #e07a64; --amber: #e0ae4a; --muted: #5d6871;
-  --s1: #5fb7bd; --s2: #e0ae4a; --s3: #a596e0; --s4: #b6c46a; --s5: #5d6871;
+  --paper: #121417; --panel: #121417; --ink: #e6e8ea; --ink-2: #a3abb3; --rule: #2d3237;
+  --accent: #7fb0de; --accent-soft: #1d2c3b; --in: #6cc08f; --out: #e3826f; --amber: #e0a84a; --muted: #6b737b;
+  --s1: #7fb0de; --s2: #e0b25a; --s3: #a891d8; --s4: #9cc27a; --s5: #6b737b;
   color-scheme: dark;
 }
 
@@ -191,3 +191,60 @@ dialog#reader::backdrop { background: rgb(0 0 0 / .45); }
 .rd-body.dim .std { color: var(--muted); }
 .rd-body mark.cur { outline: 2px solid var(--amber); }
 .rd-body .label { font-weight: 600; }
+
+/* Cycles menu in the tab bar */
+.cyc { display: inline-flex; gap: 6px; align-items: center; font-size: 12px; color: var(--ink-2); margin-left: auto; padding-left: 12px; white-space: nowrap; }
+.cyc select { font-size: 13px; padding: 4px 6px; }
+.cyc + .qs { margin-left: 0; }
+h3.sub { font: 600 16px/1.3 var(--f-display); margin: 12px 0 4px; }
+.chart.timeline { min-height: 120px; }
+
+
+/* ---------- Report style (TODO #13): rules instead of cards, plain labels, one sans typeface ---------- */
+.masthead { background: var(--paper); border-bottom: 2px solid var(--ink); padding-top: max(18px, env(safe-area-inset-top)); }
+.masthead-inner { align-items: end; padding-bottom: 10px; }
+h1 { font: 700 clamp(26px, 3.2vw, 34px)/1.1 var(--f-display); letter-spacing: -0.015em; margin: 0 0 4px; }
+.dek { font-size: 14px; }
+.stamp { border-left: 0; padding-left: 0; font-size: 12.5px; }
+.tabs a { padding: 9px 12px 8px; font-weight: 500; }
+.tabs a[aria-selected="true"] { font-weight: 650; color: var(--ink); border-bottom-color: var(--accent); }
+main { padding-block: 8px 8px; }
+.panel { gap: 6px; }
+.card { background: transparent; border: 0; border-top: 1px solid var(--rule); border-radius: 0; padding: 18px 0 14px; }
+.panel > .card:first-child, .panel > .kpis + .grid2 > .card, .grid2 > .card { border-top: 1px solid var(--rule); }
+.grid2 { gap: 0 40px; }
+h2 { font: 650 18px/1.25 var(--f-display); letter-spacing: -0.005em; }
+h3.sub, .place-head h3 { font-family: var(--f-display); font-weight: 650; }
+.place-head h3 { font-size: 24px; }
+.note { font-size: 13px; }
+/* figures at a glance: a ruled row instead of tiles */
+.kpis { gap: 0; border-block: 1px solid var(--rule); margin-top: 8px; }
+.kpi, .statusbar .kpi { background: none; border: 0; border-radius: 0; border-left: 1px solid var(--rule); padding: 10px 14px; }
+.kpis .kpi:first-child, .statusbar .kpi:first-child { border-left: 0; padding-left: 0; }
+.kpi .label { text-transform: none; letter-spacing: 0; font-size: 13px; }
+.kpi .value { font: 650 26px/1.15 var(--f-display); }
+.kpi.alert .value { color: var(--out); }
+.statusbar { gap: 0; border-block: 1px solid var(--rule); }
+/* status: a small colored square, not a pill */
+.pill { border: 0; border-radius: 0; padding: 0; color: var(--ink); font-size: 13px; }
+.pill::before { content: ""; display: inline-block; width: 9px; height: 9px; margin-right: 6px; background: var(--c, var(--muted)); vertical-align: 0; }
+.pill.in { --c: var(--in); color: var(--ink); } .pill.out { --c: var(--out); color: var(--ink); } .pill.rev { --c: var(--amber); color: var(--ink); } .pill.na { --c: var(--muted); color: var(--ink-2); }
+.src { text-transform: none; letter-spacing: 0; font-size: 12px; }
+.btn, .seg, select, input[type="search"], input[type="date"] { border-radius: var(--r); }
+.btn { font-weight: 600; }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.quote { background: none; border-left: 2px solid var(--rule); }
+.legend i { border-radius: 0; }
+.t th { background: var(--paper); border-bottom: 1px solid var(--ink-2); }
+.tablebox { border-top: 0; }
+.tip { border-radius: var(--r); box-shadow: 0 2px 8px rgb(0 0 0 / .12); }
+dialog#reader { border-radius: var(--r); background: var(--paper); }
+.foot { border-top: 1px solid var(--rule); margin-top: 12px; padding-top: 12px; }
+.mast-tools { display: grid; gap: 6px; justify-items: end; }
+.mast-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+.mast-tools .cyc, .mast-tools .qs { margin: 0; padding: 0; }
+@media (max-width: 720px) {
+  .mast-tools { justify-items: start; }
+  .mast-row { justify-content: flex-start; }
+  .mast-tools .qs { display: none; }
+}

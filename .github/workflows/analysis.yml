@@ -36,8 +36,10 @@ jobs:
           python3 scripts/letter_patterns.py he
           python3 scripts/letter_patterns.py hau
 
-      - name: Requirements
-        run: python3 scripts/letter_requirements.py
+      - name: Requirements and milestones
+        run: |
+          python3 scripts/letter_requirements.py
+          python3 scripts/letter_milestones.py
 
       - name: Keywords
         run: python3 scripts/clean_keywords.py
@@ -50,5 +52,5 @@ jobs:
         run: |
           bash scripts/commit_and_push.sh \
             "Analysis: citations, standard language, requirements ($(date -u +%F))" \
-            "python3 scripts/parse_citations.py hau && python3 scripts/parse_citations.py he && python3 scripts/letter_patterns.py he && python3 scripts/letter_patterns.py hau && python3 scripts/letter_requirements.py && python3 scripts/clean_keywords.py" \
+            "python3 scripts/parse_citations.py hau && python3 scripts/parse_citations.py he && python3 scripts/letter_patterns.py he && python3 scripts/letter_patterns.py hau && python3 scripts/letter_requirements.py && python3 scripts/letter_milestones.py && python3 scripts/clean_keywords.py" \
             hau he_letters
