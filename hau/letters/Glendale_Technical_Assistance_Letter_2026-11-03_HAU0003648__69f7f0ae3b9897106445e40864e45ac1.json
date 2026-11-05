@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027754",
+  "case_number": "HAU0003648",
+  "letter_date": "2026-11-03",
+  "jurisdiction": "Glendale",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Accountability Act",
+  "statutes": "Government Code \u00a7\u202f65863, SB 166",
+  "n_statutes": "1",
+  "keywords": "No net loss",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/69f7f0ae3b9897106445e40864e45ac1",
+  "hcd_letter": "Glendale Technical Assistance Letter 11/03/2026",
+  "housing_law": "Housing Accountability Act",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/69f7f0ae3b9897106445e40864e45ac1",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 166956,
+  "text_chars": 2352,
+  "text_empty": false
+}

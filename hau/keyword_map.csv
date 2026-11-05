@@ -1,19 +1,19 @@
 raw,clean,rule,letters
-housing element,Housing element,auto,120
 ADU Ordinance,ADU ordinance,auto,119
+housing element,Housing element,auto,119
 housing element law,Housing element,auto,74
 Repeal Request,Repeal Request,auto,40
 LOI,Letter of inquiry,auto,27
 noncompliance,Noncompliance,auto,26
 ADU,ADU,auto,23
-Builder's Remedy,Builder's remedy,auto,18
+Builder's Remedy,Builder's remedy,auto,19
 base density,Base density,auto,15
 NOV,Notice of violation,auto,13
 objective standards,Objective standards,auto,13
 replacement,Replacement,auto,13
+No net loss,No net loss,auto,10
 density bonus,Density bonus,auto,9
 "LOI, Housing Element Law",Letter of inquiry | Housing element,auto,9
-No net loss,No net loss,auto,9
 owner occupancy,Owner occupancy,auto,9
 parking,Parking,auto,9
 Permit Streamlining Act,Permit Streamlining Act,auto,9
@@ -24,6 +24,7 @@ moratorium,Moratorium,auto,8
 findings of denial,Findings of denial,auto,7
 ordinance review,Ordinance review,auto,7
 rezone,Rezone,auto,7
+SB 79,SB 79,auto,7
 SB 9,SB 9,auto,7
 AB 2011,AB 2011,auto,6
 group homes,Group homes,auto,6
@@ -31,7 +32,6 @@ housing accountability act,Housing Accountability Act,auto,6
 major transit stop,Major transit stop,auto,6
 Ordinance,Ordinance,auto,6
 SB 35,SB 35,auto,6
-SB 79,SB 79,auto,6
 SDBL,Density bonus,auto,6
 urban lot split,Urban lot split,auto,6
 ballot measure,Ballot measure,auto,5
@@ -44,8 +44,10 @@ HAA,Housing Accountability Act,auto,5
 height,Height,auto,5
 housing element programs,Housing element program,auto,5
 notice of violation,Notice of violation,auto,5
+SB 79 Ordinance,SB 79 Ordinance,auto,5
 Sprinklers,Sprinklers,auto,5
 use by right,Use by right,auto,5
+VHFHSZ,VHFHSZ,auto,5
 90 day rule,90 day rule,auto,4
 AFFH,Affirmatively furthering fair housing,auto,4
 concessions,Concession,auto,4
@@ -60,7 +62,6 @@ inclusionary zoning,Inclusionary zoning,auto,4
 JADU,JADU,auto,4
 letter of inquiry,Letter of inquiry,auto,4
 Letter of Support,Letter of Support,auto,4
-SB 79 Ordinance,SB 79 Ordinance,auto,4
 Size,Size,auto,4
 substantial compliance,Substantial compliance,auto,4
 Surplus Land Act,Surplus Land Act,auto,4
@@ -69,13 +70,13 @@ AB 2162,AB 2162,auto,3
 ADU Ordinance Repeal Request.,ADU ordinance repeal request,auto,3
 AFFH Analysis,AFFH Analysis,auto,3
 anti-discrimination in land use law,Anti-discrimination in land use law,auto,3
+builders remedy,Builder's remedy,auto,3
 building moratorium,Building moratorium,auto,3
 completeness review,Completeness review,auto,3
 Condition of approval,Condition of approval,auto,3
 conditional use permit,Conditional use permit,auto,3
 Consistency Review,Consistency Review,auto,3
 Deed Restriction,Deed restriction,auto,3
-density bonus law,Density bonus,auto,3
 Development Standards,Development standard,auto,3
 displacement,Displacement,auto,3
 ED1,ED1,auto,3
@@ -111,7 +112,6 @@ TOD Alternative Plan,TOD Alternative Plan,auto,3
 Unit combination,Unit combination,auto,3
 Unlicensed Group Homes,Unlicensed Group Homes,auto,3
 unlimited density,Unlimited density,auto,3
-VHFHSZ,VHFHSZ,auto,3
 voter initiative,Voter initiative,auto,3
 waivers,Waiver,auto,3
 30-year deed restriction,30-year deed restriction,auto,2
@@ -126,7 +126,6 @@ affected city,Affected city,auto,2
 appeal,Appeal,auto,2
 Architectural requirements,Architectural requirements,auto,2
 Buena Vista Gardens Apartments Association v. City of San Diego,Buena Vista Gardens Apartments Association v. City of San Diego,auto,2
-builders remedy,Builder's remedy,auto,2
 by-right,By-right,auto,2
 by-right supportive housing,By-right supportive housing,auto,2
 by-right supportive housing law,By-right supportive housing law,auto,2
@@ -143,6 +142,7 @@ courtyards,Courtyards,auto,2
 criminal history,Criminal history,auto,2
 density,Density,auto,2
 density bonus calculation,Density bonus calculation,auto,2
+density bonus law,Density bonus,auto,2
 Density Bonus Ordinance,Density Bonus Ordinance,auto,2
 design review,Design review,auto,2
 Design Standards,Design Standards,auto,2
@@ -154,6 +154,7 @@ good neighbor policy,Good neighbor policy,auto,2
 governmental constraints,Governmental constraint,auto,2
 grandfathering,Grandfathering,auto,2
 Group Home,Group homes,auto,2
+group housing,Group housing,auto,2
 growth measure,Growth measure,auto,2
 highest available density,Highest available density,auto,2
 house manager,House manager,auto,2
@@ -201,6 +202,7 @@ sewer connection,Sewer connection,auto,2
 single-family,Single-family,auto,2
 sober living homes,Sober living homes,auto,2
 spacing requirement,Spacing requirement,auto,2
+special group residence,Special group residence,auto,2
 sphere of influence,Sphere of influence,auto,2
 State Density Bonus,State Density Bonus,auto,2
 State Density Bonus Law,Density bonus,auto,2
@@ -233,6 +235,7 @@ zoned for,Zoned for,auto,2
 30-foot height limit,30-foot height limit,auto,1
 4665 Lampson Ave,4665 Lampson Ave,auto,1
 5 Hearing Rule,5 Hearing Rule,auto,1
+50 percent capacity,50 percent capacity,auto,1
 90-day incompleteness period,90-day incompleteness period,auto,1
 AB 1233,AB 1233,auto,1
 AB 2097,AB 2097,auto,1
@@ -256,6 +259,7 @@ ADUs on unsplit lots,ADUs on unsplit lots,auto,1
 affected jurisdiction,Affected jurisdiction,auto,1
 affidavit,Affidavit,auto,1
 affidavit requirements,Affidavit requirements,auto,1
+affirmative obligation to lease,Affirmative obligation to lease,auto,1
 Affordability Calculation,Affordability Calculation,auto,1
 affordability percentage,Affordability percentage,auto,1
 Affordability Requirements,Affordability Requirements,auto,1
@@ -318,6 +322,7 @@ by-right processing,By-right processing,auto,1
 by-right use,By-right use,auto,1
 Calaveras County HEI LOI,Calaveras County HEI LOI,auto,1
 Calaveras County HEI TA Letter,Calaveras County HEI TA Letter,auto,1
+California constitution,California constitution,auto,1
 Calipatria Rezone LOI,Calipatria Rezone LOI,auto,1
 Calistoga Completion of Corrective Action Letter,Calistoga Completion of Corrective Action Letter,auto,1
 Calistoga Corrective Action Letter,Calistoga Corrective Action Letter,auto,1
@@ -337,6 +342,7 @@ Chula Vista HEI LOI,Chula Vista HEI LOI,auto,1
 City of Coronado v. San Diego Association of Governments,City of Coronado v. San Diego Association of Governments,auto,1
 City of Irvine v. Southern California Assn. of Governments,City of Irvine v. Southern California Assn. of Governments,auto,1
 City of Riverside,City of Riverside,auto,1
+city of Tracy,city of Tracy,auto,1
 City of Watsonville v. State Department of Health Services,City of Watsonville v. State Department of Health Services,auto,1
 Climate Emergency,Climate Emergency,auto,1
 Cloverdale Rezone LOI,Cloverdale Rezone LOI,auto,1
@@ -383,6 +389,7 @@ date of demolition,Date of demolition,auto,1
 Decertification,Decertification,auto,1
 "Decertification, housing element",Decertification | Housing element,auto,1
 deed restrict existing units,Deed restrict existing units,auto,1
+deed restricted ADUs,deed restricted ADUs,auto,1
 "Deed restrictions
 Height
 Unit Combinations
@@ -419,6 +426,7 @@ Distance between buildings,Distance between buildings,auto,1
 documentation of income,Documentation of income,auto,1
 Downey Rezone LOI,Downey Rezone LOI,auto,1
 Downtown Parking Lots,Downtown Parking Lots,auto,1
+draft ordinance review,Draft ordinance review,auto,1
 driveway,Driveway,auto,1
 Duarte Rezone LOI,Duarte Rezone LOI,auto,1
 dwelling units per acre,Dwelling units per acre,auto,1
@@ -510,7 +518,6 @@ gross vs. net acreage,Gross vs. net acreage,auto,1
 ground floor commercial,Ground floor commercial,auto,1
 Group Home Ordinance,Group Home Ordinance,auto,1
 Group Home Violation,Group Home Violation,auto,1
-group housing,Group housing,auto,1
 group R occupancy change,group R occupancy change,auto,1
 growth cap,Growth cap,auto,1
 growth management program,Growth management program,auto,1
@@ -533,6 +540,7 @@ height within underlying zone setbacks,Height within underlying zone setbacks,au
 Hemet Rezone LOI,Hemet Rezone LOI,auto,1
 highpoint,Highpoint,auto,1
 Hillsborough Rezone LOI,Hillsborough Rezone LOI,auto,1
+historic designation,Historic designation,auto,1
 historic preservation,Historic preservation,auto,1
 historic resources,Historic resources,auto,1
 historic sites,Historic sites,auto,1
@@ -611,6 +619,7 @@ Local historic registers,Local historic registers,auto,1
 local rapid bus line,Local rapid bus line,auto,1
 Locally Preferred Alternative,Locally Preferred Alternative,auto,1
 Lomita Rezone LOI,Lomita Rezone LOI,auto,1
+long beach,Long beach,auto,1
 Long Beach Rezone LOI,Long Beach Rezone LOI,auto,1
 look back,Look back,auto,1
 Loomis Rezone Corrective Action Letter,Loomis Rezone Corrective Action Letter,auto,1
@@ -820,6 +829,7 @@ RHNA shortfall,RHNA shortfall,auto,1
 RHNA transfer,RHNA transfer,auto,1
 Richmond Sewer Moratorium,Richmond Sewer Moratorium,auto,1
 right of first refusal,Right of first refusal,auto,1
+right to privacy,Right to privacy,auto,1
 Rio Dell HEI LOI,Rio Dell HEI LOI,auto,1
 Riverside,Riverside,auto,1
 Riverside Rezone LOI,Riverside Rezone LOI,auto,1
@@ -871,7 +881,10 @@ Sausalito Rezone LOI,Sausalito Rezone LOI,auto,1
 SB 330,Housing Crisis Act,auto,1
 SB 79 TOD Alternative Plan,SB 79 TOD Alternative Plan,auto,1
 SB 9 Ordinance,SB 9 Ordinance,auto,1
+sb 9 ordinance review,Sb 9 ordinance review,auto,1
 SB 9 review timeline,SB 9 review timeline,auto,1
+SB 9 units,SB 9 units,auto,1
+SB 9 urban lot split,SB 9 urban lot split,auto,1
 SB9 Allowances,SB9 Allowances,auto,1
 SBDL,SBDL,auto,1
 SCAG,SCAG,auto,1
@@ -888,6 +901,7 @@ senior farmworker housing,Senior farmworker housing,auto,1
 senior housing,Senior housing,auto,1
 Separate Sale,Separate Sale,auto,1
 Setback,Setback,auto,1
+shared housing,Shared housing,auto,1
 Shasta County HEI LOI,Shasta County HEI LOI,auto,1
 Shasta Lake HEI LOI,Shasta Lake HEI LOI,auto,1
 Sherwin-Williams Co. v. City of Los Angeles,Sherwin-Williams Co. v. City of Los Angeles,auto,1
@@ -908,7 +922,6 @@ SMAP eligibility,SMAP eligibility,auto,1
 Sonoma County Rezone LOI,Sonoma County Rezone LOI,auto,1
 Sonoma County Rezone TA Letter,Sonoma County Rezone TA Letter,auto,1
 Sonoma Rezone LOI,Sonoma Rezone LOI,auto,1
-special group residence,Special group residence,auto,1
 special needs,Special needs,auto,1
 Specific adverse impact,Specific adverse impact,auto,1
 specific plan,Specific plan,auto,1
@@ -943,11 +956,14 @@ Support letter,Support letter,auto,1
 supportive housing in housing element law,Supportive housing in housing element law,auto,1
 tax credits,Tax credits,auto,1
 Tax Equity and Fiscal Responsibility Act,Tax Equity and Fiscal Responsibility Act,auto,1
+"TEFRA, major development review",TEFRA | Major development review,auto,1
 Temple City Rezone LOI,Temple City Rezone LOI,auto,1
 term of affordability,Term of affordability,auto,1
 Termination of Exclusive Negotiation Agreement (ENA),Termination of Exclusive Negotiation Agreement (ENA),auto,1
 Tiburon Rezone LOI,Tiburon Rezone LOI,auto,1
+tolled timelines,Tolled timelines,auto,1
 Total vs. Overall,Total vs. Overall,auto,1
+Tracy,Tracy,auto,1
 train station,Train station,auto,1
 transit station,Transit station,auto,1
 transit stop,Transit stop,auto,1
@@ -977,7 +993,6 @@ Vesting,Vesting,auto,1
 vesting preliminary application,Vesting preliminary application,auto,1
 vesting state law,Vesting state law,auto,1
 Vesting tentative map,Vesting tentative map,auto,1
-VHFSZ,VHFSZ,auto,1
 Victorville Rezone LOI,Victorville Rezone LOI,auto,1
 Visalia Rezone LOI,Visalia Rezone LOI,auto,1
 Vista,Vista,auto,1

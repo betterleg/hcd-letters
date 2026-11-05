@@ -152,7 +152,6 @@ CSTASK0010707,Mission Springs Water Dist. v. Verjil
 CSTASK0010707,permanent supportive housing
 CSTASK0010707,Sherwin-Williams Co. v. City of Los Angeles
 CSTASK0010707,voter initiative
-CSTASK0010708,density bonus law
 CSTASK0010709,facilitate
 CSTASK0010709,ground floor commercial
 CSTASK0010709,mixed use
@@ -170,6 +169,7 @@ CSTASK0010712,substitutions
 CSTASK0010713,731 Harrison Ave Housing Project
 CSTASK0010715,SMAP eligibility
 CSTASK0010715,Streamlined Ministerial Approval Process (SB 35 Application)
+CSTASK0010715,VHFHSZ
 CSTASK0010717,right of first refusal
 CSTASK0010717,SDBL replacement requirements
 CSTASK0010718,noncompliance
@@ -890,7 +890,6 @@ CSTASK0020593,housing element
 CSTASK0020594,housing element
 CSTASK0020595,housing element
 CSTASK0020640,subdivision
-CSTASK0020679,housing element
 CSTASK0020730,Community Meetings
 CSTASK0020730,Economic Feasibility Analysis
 CSTASK0020730,Submittal Checklist
@@ -1047,7 +1046,7 @@ CSTASK0021398,access
 CSTASK0021398,driveway
 CSTASK0021398,easement
 CSTASK0021398,SB 9
-CSTASK0021398,VHFSZ
+CSTASK0021398,VHFHSZ
 CSTASK0021440,program completeness
 CSTASK0021479,ADU
 CSTASK0021479,Default Density
@@ -1933,6 +1932,7 @@ CSTASK0027314,HE NNL
 CSTASK0027314,"sufficient additional, adequate, and available sites"
 CSTASK0027329,SB 79 Ordinance
 CSTASK0027329,zoned for
+CSTASK0027470,"TEFRA, major development review"
 CSTASK0027471,Ballot Initiative
 CSTASK0027471,Downtown Parking Lots
 CSTASK0027480,SB 79
@@ -1949,3 +1949,25 @@ CSTASK0027624,SB 79
 CSTASK0027654,remainder parcel
 CSTASK0027670,Use
 CSTASK0027678,SB 79
+CSTASK0027747,California constitution
+CSTASK0027747,draft ordinance review
+CSTASK0027747,group housing
+CSTASK0027747,long beach
+CSTASK0027747,right to privacy
+CSTASK0027747,sb 9 ordinance review
+CSTASK0027747,SB 9 units
+CSTASK0027747,SB 9 urban lot split
+CSTASK0027747,shared housing
+CSTASK0027747,special group residence
+CSTASK0027747,tolled timelines
+CSTASK0027751,50 percent capacity
+CSTASK0027751,historic designation
+CSTASK0027751,SB 79 Ordinance
+CSTASK0027754,No net loss
+CSTASK0027761,SB 79
+CSTASK0027762,affirmative obligation to lease
+CSTASK0027762,builders remedy
+CSTASK0027762,Builder's Remedy
+CSTASK0027762,city of Tracy
+CSTASK0027762,deed restricted ADUs
+CSTASK0027762,Tracy

@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,378 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,326 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,382 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,329 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -9,11 +9,11 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Year | Letters |
 |---|---|
 | [undated](index/undated.md) | 3 |
-| [2026](index/2026.md) | 265 |
-| [2025](index/2025.md) | 461 |
+| [2026](index/2026.md) | 271 |
+| [2025](index/2025.md) | 460 |
 | [2024](index/2024.md) | 279 |
 | [2023](index/2023.md) | 185 |
-| [2022](index/2022.md) | 104 |
+| [2022](index/2022.md) | 103 |
 | [2021](index/2021.md) | 51 |
 | [2020](index/2020.md) | 20 |
 | [2019](index/2019.md) | 4 |
@@ -23,16 +23,16 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Letter type | Letters |
 |---|---|
-| Letter of Inquiry | 347 |
-| Technical Assistance Letter | 335 |
+| Letter of Inquiry | 346 |
+| Technical Assistance Letter | 338 |
 | Ordinance Findings Letter | 234 |
 | Technical Assistance Letter - Repeal Request | 211 |
 | Notice of Violation | 79 |
 | Housing Element Findings of Noncompliance/ Corrective Action | 46 |
 | Notice of Potential Violation | 27 |
 | Successful Completion of Corrective Action | 24 |
+| SB 79 Ordinance/Alternative Plan Findings Letter | 19 |
 | Letter of Support | 19 |
-| SB 79 Ordinance/Alternative Plan Findings Letter | 17 |
 | Decertification of Housing Element Compliance | 12 |
 | Recertification of Housing Element Compliance | 12 |
 | Technical Assistance Letter - Substantially Compliant Ordinance | 9 |
@@ -44,13 +44,13 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 |---|---|
 | Housing Element Law | 602 |
 | Accessory Dwelling Unit Law | 487 |
-| Density Bonus Law | 103 |
-| Housing Accountability Act | 98 |
+| Density Bonus Law | 102 |
+| Housing Accountability Act | 100 |
 | Housing Crisis Act of 2019 | 53 |
-| Duplexes and Urban Lot Splits (SB 9 of 2021) | 38 |
+| Duplexes and Urban Lot Splits (SB 9 of 2021) | 39 |
 | Affirmatively Further Fair Housing | 28 |
-| Portions of the Permit Streamlining Act | 22 |
-| Transit Oriented Development Zones (SB 79 of 2025) | 21 |
+| Transit Oriented Development Zones (SB 79 of 2025) | 23 |
+| Portions of the Permit Streamlining Act | 23 |
 | Anti-Discrimination in Land Use Law | 13 |
 | Streamlined Ministerial Approval Process (SB 35 of 2017) | 12 |
 | By-Right Supportive Housing Provisions | 11 |
@@ -69,7 +69,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Statute | Letters |
 |---|---|
 | 66316 | 459 |
-| 65585 | 329 |
+| 65585 | 328 |
 | 66314 | 313 |
 | 66315 | 313 |
 | 66317 | 313 |

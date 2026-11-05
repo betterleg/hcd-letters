@@ -1,6 +1,6 @@
 # Standard language in HCD's HAU letters
 
-From 1,265 letters with text and 19,100 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 1,269 letters with text and 19,134 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 
@@ -96,7 +96,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > If an existing ADU ordinance fails to meet the requirements of State ADU Law, the ordinance is “null and void” and the local jurisdiction must apply the standards set forth in State ADU Law until it adopts an ordinance that complies with state law (Gov. Code, § 66316). HCD recommends that a local jurisdiction with a noncompliant ADU ordinance repeal the ordinance to provide clarity for ADU applicants who may otherwise rely on the outdated ordinance.
 
-### Group 9: 184 letters (15%), 2021–2026
+### Group 9: 184 letters (14%), 2021–2026
 
 > Consequences apply if the <JTYPE> does not have a housing element in substantial compliance with Housing Element Law. First, noncompliance results in ineligibility or delay in receiving state funds that require a compliant housing element as a prerequisite, including, but not limited to, the following:
 
@@ -124,7 +124,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > • Permanent Local Housing Allocation … Infill Infrastructure Grant Program • ~~SB~~ **Senate Bill** <N> Caltrans Sustainable Communities Grants • Affordable Housing and Sustainable Communities Program
 
-### Group 11: 171 letters (14%), 2021–2026
+### Group 11: 171 letters (13%), 2021–2026
 
 > The Ordinance addresses many statutory requirements; however, HCD finds that the Ordinance does not comply with State ADU Law as follows:
 
