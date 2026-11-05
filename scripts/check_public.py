@@ -3,7 +3,7 @@ Privacy and secrets check for this public repo. Fails (exit 1) before anything i
 
   - a secrets file is tracked or about to be committed: .env, .env.*, *.pem, *.key, *.p12, *.pfx,
     id_rsa*, credentials*.json, secrets/ (".env.example" is allowed);
-  - code, docs or settings contain something that looks like a secret: private keys, GitHub / Anthropic /
+  - code, docs or settings contain something that looks like a secret: private keys, GitHub / AI-provider /
     OpenAI / AWS / Google tokens, or "API_KEY=..." / "TOKEN=..." / "PASSWORD=..." with a real value;
   - code, docs or settings contain a personal term you list in the PRIVATE_TERMS environment variable
     (comma-separated, e.g. your name and work email). Keep that list in a GitHub secret named PRIVATE_TERMS
@@ -26,7 +26,7 @@ SECRET_TEXT = [
     (re.compile(r"-----BEGIN [A-Z ]*PRIVATE KEY-----"), "private key"),
     (re.compile(r"\bgh[pousr]_[A-Za-z0-9]{30,}"), "GitHub token"),
     (re.compile(r"\bgithub_pat_[A-Za-z0-9_]{40,}"), "GitHub token"),
-    (re.compile(r"\bsk-ant-[A-Za-z0-9_\-]{20,}"), "Anthropic API key"),
+    (re.compile(r"\bsk-ant-[A-Za-z0-9_\-]{20,}"), "API key"),
     (re.compile(r"\bsk-[A-Za-z0-9]{32,}"), "API key"),
     (re.compile(r"\bAKIA[0-9A-Z]{16}\b"), "AWS access key"),
     (re.compile(r"\bAIza[0-9A-Za-z_\-]{35}\b"), "Google API key"),

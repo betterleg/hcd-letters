@@ -19,18 +19,20 @@ Each standardized citation (`65915(o)(8)`) can open the matching section in the 
 
 ## Wish list
 
-### AI extraction of what each letter requires (Claude API)
+### AI extraction of what each letter requires (AI model API)
 
-The rules-based analysis files findings by requirement and topic but can't say *what* HCD asked for in plain terms. Add a step that sends each new letter's findings (only the paragraphs HCD wrote for that jurisdiction, from `requirements.csv`) to Claude with a fixed JSON schema, and saves the answers to `he_letters/ai_findings.csv`:
+The rules-based analysis files findings by requirement and topic but can't say *what* HCD asked for in plain terms. Add a step that sends each new letter's findings (only the paragraphs HCD wrote for that jurisdiction, from `requirements.csv`) to an AI model with a fixed JSON schema, and saves the answers to `he_letters/ai_findings.csv`:
 
 - `requirement` (Gov. Code cite, checked against the rules-based one), `issue` (fixed list, e.g. nonvacant sites, realistic capacity, AFFH metrics), `deficiency` (one sentence: what is missing), `required_action` (analysis to add, or program commitment, with any deadline or number), `program_ref` (program named, if any), `severity` (new / repeated from prior review / carried over unchanged), `quote` (the sentence it came from, so every answer can be checked).
-- Run on new letters only in the weekly job; backfill the ~2,000 6th-cycle letters once. Needs an `ANTHROPIC_API_KEY` repository secret. Cache by letter so nothing is re-sent.
+- Run on new letters only in the weekly job; backfill the ~2,000 6th-cycle letters once. Needs an API key stored as a repository secret. Cache by letter so nothing is re-sent.
 - Check quality first on ~50 letters against a hand review; keep the rules-based numbers as the baseline.
 - Then: "what HCD asked for" tables by round and requirement, and per-letter summaries on the website and in the weekly issue.
 
 
 ## Done
 
+- 2026-11-05: HAU letters job runs daily (15:23 UTC) instead of Mondays. It commits only when something changed and opens an issue only when there are new letters; the website redeploys after each run. Review letters stay weekly.
+- 2026-11-05: Overview: Latest letters full width, HAU-by-quarter chart below. Jurisdiction lookup: timeline and letters merged into one table (letters and milestones, with a mark matching the timeline; Read/PDF on every row; milestone rows open the letter that names them); hovering a row or mark highlights its match, clicking a mark jumps to its row. "In the letter" column dropped (wording stays in the timeline tooltip). Plainer styling: heavy rules over sections, ink text links, mono dates, underlined table filters.
 - 2026-11-05: **Jurisdiction timelines.** `scripts/letter_milestones.py` → `he_letters/milestones.csv`: each letter's milestones in HCD's wording (submittal received for review, revisions received during review, other material received, adopted, posted for public review, meetings with HCD, statutory due date, the HCD letter, Download Tool postings). The Jurisdiction lookup shows them on a timeline with each review period running from the submittal HCD reviewed (60- and 90-day marks from that date; revisions don't restart it), plus a sortable table.
 - 2026-11-05: **#14 cycles:** a Cycles menu in the header (6th + 7th by default; 6th, 7th, all, or 5th and earlier) applies to every view of review letters and is remembered. **#15:** count tables break totals down by HAU and cycle in the same row; review-letter trends are drawn one chart per cycle. **#13 restyle:** report style with one sans typeface, ruled sections instead of cards, plain figures instead of tiles, colored markers instead of pills, navy accent.
 - 2026-11-05: **#7 diagnostics** added to `hau/CITATIONS.md` (see #7 above for the remaining review).

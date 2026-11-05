@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>HCD Letter Tracker</title>
-<meta name="description" content="Trends in California HCD housing letters: Housing Accountability Unit technical assistance and enforcement letters, and housing element review letters, updated weekly.">
+<meta name="description" content="Trends in California HCD housing letters: Housing Accountability Unit technical assistance and enforcement letters, and housing element review letters, updated regularly.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -15,7 +15,7 @@
   <div class="wrap masthead-inner">
     <div>
       <h1>HCD Letter Tracker</h1>
-      <p class="dek">Housing element review letters and Housing Accountability Unit letters from California HCD, collected weekly, with their full text.</p>
+      <p class="dek">Housing element review letters and Housing Accountability Unit letters from California HCD, with their full text. HAU letters are checked daily, review letters weekly.</p>
     </div>
     <div class="mast-tools">
       <div class="mast-row">
@@ -41,16 +41,14 @@
   <!-- OVERVIEW -->
   <section id="overview" class="panel" role="tabpanel">
     <div class="kpis" id="kpis"></div>
-    <div class="grid2">
-      <article class="card">
-        <header><h2>Latest letters</h2><p class="note">The 200 most recent letters from both sources. Click a column to sort.</p></header>
-        <div id="latest"></div>
-      </article>
-      <article class="card">
-        <header><h2>HAU letters by quarter</h2><p class="note">Technical assistance, enforcement and ordinance review letters. <a href="#trends">More in Trends</a>.</p></header>
-        <div class="chart" id="ov-chart"></div>
-      </article>
-    </div>
+    <section class="block">
+      <header><h2>Latest letters</h2><p class="note">The 200 most recent letters from both sources. Click a column heading to sort.</p></header>
+      <div id="latest"></div>
+    </section>
+    <section class="block">
+      <header><h2>HAU letters by quarter</h2><p class="note">Technical assistance, enforcement and ordinance review letters. <a href="#trends">More in Trends</a>.</p></header>
+      <div class="chart" id="ov-chart"></div>
+    </section>
   </section>
 
   <!-- SEARCH -->
@@ -260,7 +258,7 @@
 </main>
 
 <footer class="wrap foot">
-  <p>Data: HCD's <a href="https://www.hcd.ca.gov/hau/enforcement-letters">Technical Assistance and Enforcement Letters Dashboard</a>, <a href="https://www.hcd.ca.gov/housing-open-data-tools/housing-element-download-tool">Housing Element Download Tool</a> and <a href="https://www.hcd.ca.gov/housing-open-data-tools/housing-element-review-compliance-report">Review and Compliance Report</a>, pulled weekly. Letter text, CSVs and method: <a id="repo-link" href="#">GitHub repository</a>. Not affiliated with HCD; check the original PDF before relying on a letter.</p>
+  <p>Data: HCD's <a href="https://www.hcd.ca.gov/hau/enforcement-letters">Technical Assistance and Enforcement Letters Dashboard</a>, <a href="https://www.hcd.ca.gov/housing-open-data-tools/housing-element-download-tool">Housing Element Download Tool</a> and <a href="https://www.hcd.ca.gov/housing-open-data-tools/housing-element-review-compliance-report">Review and Compliance Report</a>, pulled daily (HAU) and weekly (review letters). Letter text, CSVs and method: <a id="repo-link" href="#">GitHub repository</a>. Not affiliated with HCD; check the original PDF before relying on a letter.</p>
 </footer>
 
 <div class="tip" id="tip" hidden></div>

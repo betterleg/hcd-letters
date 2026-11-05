@@ -4,13 +4,13 @@ This repo keeps two sets of California HCD letters up to date, with their full t
 
 | Folder | Source | Schedule |
 |---|---|---|
-| `hau/` | **HAU letters**: the Housing Accountability Unit's technical assistance, inquiry, ordinance findings and enforcement letters, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters) | Mondays 15:23 UTC |
+| `hau/` | **HAU letters**: the Housing Accountability Unit's technical assistance, inquiry, ordinance findings and enforcement letters, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters) | Daily 15:23 UTC |
 | `he_letters/` | **Housing element review letters**: HCD's findings on draft and adopted housing elements, from the review-letter page of the [Housing Element Download Tool](https://www.hcd.ca.gov/housing-open-data-tools/housing-element-download-tool) | Mondays 15:53 UTC |
 
 Each job does the following:
 
 1. Pulls the dashboard.
-2. Compares it with last week and stops if the letter count suddenly drops, which means the dashboard changed.
+2. Compares it with the last run and stops if the letter count suddenly drops, which means the dashboard changed.
 3. Downloads newly posted PDFs and saves their text.
 4. Rebuilds the indexes and commits everything.
 5. Opens an issue listing the new letters, which GitHub emails to you.
@@ -30,7 +30,7 @@ Each job does the following:
 
 The **Cycles** menu in the header (6th + 7th cycles by default) applies to every view of housing element review letters. Every table can be sorted by clicking a column, filtered, and downloaded as CSV; the page address keeps the sort and filters, so a view can be shared. **Read** opens a letter's text on the site, with a find box, the search words highlighted, and HCD's standard sentences dimmed so its findings for that place stand out; the reader has its own shareable address too.
 
-The **Website** workflow rebuilds the page after each Monday data job, so it stays current on its own. `scripts/build_site_data.py` turns the CSVs into `site/data/*.json`, and `scripts/build_search_index.py` builds the search index in `site/search/`, at build time; neither is committed. The search runs entirely in the browser (no outside service): the index is split into 512 small files, so a search downloads only the pieces for its own words, and snippets load each letter's text from this repo.
+The **Website** workflow rebuilds the page after each data job, so it stays current on its own. `scripts/build_site_data.py` turns the CSVs into `site/data/*.json`, and `scripts/build_search_index.py` builds the search index in `site/search/`, at build time; neither is committed. The search runs entirely in the browser (no outside service): the index is split into 512 small files, so a search downloads only the pieces for its own words, and snippets load each letter's text from this repo.
 
 **One-time setup:** go to **Settings** → **Pages** → **Build and deployment** → **Source** and choose **GitHub Actions**. Then go to **Actions** → **Website** → **Run workflow**. The page goes live in a minute or two. (GitHub Pages on a private repo needs a paid GitHub plan; on a public repo it's free.)
 
@@ -45,7 +45,7 @@ Letters the dashboards list as "Contact HCD for a copy" can be added once you ha
 3. saves the text with the public letters (`hau/letters/`, `he_letters/letters/`, file names ending `__requested`) and marks that row in `letters_index.csv` as downloaded, `fetched_from` = `requested_from_hcd`;
 4. updates the findings, indexes and website, where these letters show a **Requested** tag and a PDF link into this repo.
 
-`requested/README.md` lists every PDF and what it matched, with a **To check** list for any the matcher couldn't place. Fix those in `requested/manifest.csv` (instructions at the bottom of that README). The weekly jobs re-apply the folder after every dashboard pull, so a letter HCD lists later is picked up then. This also covers the five review letters missing from HCD's site (`TODO.md` #4). The repo is public, so anything in `requested/` is public.
+`requested/README.md` lists every PDF and what it matched, with a **To check** list for any the matcher couldn't place. Fix those in `requested/manifest.csv` (instructions at the bottom of that README). The scheduled jobs re-apply the folder after every dashboard pull, so a letter HCD lists later is picked up then. This also covers the five review letters missing from HCD's site (`TODO.md` #4). The repo is public, so anything in `requested/` is public.
 
 ## Where to start reading
 
@@ -164,4 +164,4 @@ cd he_letters && bash run_all.sh && python3 extract_letters.py --cycle 6 --count
 - **HAU letters:** "Contact HCD for a copy" letters have no public PDF; you can request them from HAUportal@hcd.ca.gov and add them to `requested/`. Surplus Land Act and Affordable Housing Preservation Law letters aren't on this dashboard.
 - **Housing element review letters, broken links:** about 5% of the dashboard's PDF links are broken. The downloader retries the same file name in two HCD website folders and applies `url_overrides.csv`, which together recovered 98 of 102 broken links in October 2026.
 - **Housing element review letters, "Contact HCD":** 3,434 of these letters, mostly before 2019, are listed as "Contact HCD" with no public copy.
-- **Cost:** GitHub Actions is free and unlimited for public repos. A private repo uses your account's monthly Actions minutes; two weekly runs of a few minutes each use very little.
+- **Cost:** GitHub Actions is free and unlimited for public repos. A private repo uses your account's monthly Actions minutes; a daily HAU run and a weekly review-letter run of a few minutes each use very little.

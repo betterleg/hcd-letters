@@ -152,7 +152,7 @@
    * Sortable, filterable table with CSV download and "show more".
    * columns: [{ key, label, value: r => sortable value, render?: r => Node|string, num?, cls?, filter?: 'select', csv?: r => string, hideSm? }]
    */
-  function dataTable(host, { id, columns, rows, sort, pageSize = 100, onRow, csvName, empty = 'Nothing to show.' }) {
+  function dataTable(host, { id, columns, rows, sort, pageSize = 100, onRow, rowAttrs, csvName, empty = 'Nothing to show.' }) {
     const P = params();
     const st = { q: P.get(`${id}.q`) || '', sort: P.get(`${id}.s`) || sort || '', f: {}, shown: pageSize };
     for (const c of columns) if (c.filter) st.f[c.key] = P.get(`${id}.f.${c.key}`) || '';
@@ -199,7 +199,7 @@
       const end = Math.min(view.length, reset ? st.shown : st.drawn + pageSize);
       for (let i = st.drawn; i < end; i++) {
         const r = view[i];
-        const tr = el('tr', { class: onRow ? 'click' : null, tabindex: onRow ? '0' : null },
+        const tr = el('tr', { class: onRow ? 'click' : null, tabindex: onRow ? '0' : null, ...(rowAttrs ? rowAttrs(r) : {}) },
           ...columns.map((c) => { const v = c.render ? c.render(r) : val(c, r); const td = el('td', { class: [c.num ? 'num' : '', c.cls || '', c.hideSm ? 'hide-sm' : ''].join(' ').trim() || null }); td.append(v instanceof Node ? v : document.createTextNode(c.num && typeof v === 'number' ? fmt(v) : String(v ?? ''))); return td; }));
         if (onRow) {
           tr.addEventListener('click', (e) => { if (!e.target.closest('a,button')) onRow(r, tr); });
@@ -522,7 +522,6 @@
   function renderPlace(p, name) {
     const hau = DATA.H.filter((r) => r.key === p.key), he = DATA.Ec.filter((r) => r.key === p.key);
     const c = DATA.C.find((x) => x.key === p.key);
-    const all = hau.concat(he).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
     const findings = he.filter((r) => r.finding);
     const head = el('div', { class: 'place-head' }, el('h3', {}, name), c ? pill(c.status) : null);
     const facts = el('p', { class: 'facts' },
@@ -530,23 +529,11 @@
       c ? el('span', {}, `${c.cycle}: `, el('b', {}, `${c.recordType}, ${c.reviewStatus}`), c.reviewed ? ` (reviewed ${fdate(c.reviewed)})` : '') : null,
       el('span', {}, el('b', {}, fmt(hau.length)), ' HAU letters'),
       el('span', {}, el('b', {}, fmt(he.length)), ' review letters', findings.length ? ` (${findings.filter((r) => r.finding === 'Out').length} out, ${findings.filter((r) => r.finding === 'In').length} in)` : ''));
-    const host = el('div');
-    const tl = el('div', { class: 'tl' });
-    $('#pl-body').replaceChildren(head, facts, el('h3', { class: 'sub' }, 'Timeline'), tl, el('h3', { class: 'sub' }, 'Letters'),
-      all.length ? host : el('p', { class: 'empty' }, 'No letters on file.'));
-    renderTimeline(tl, p.key, hau);
-    if (all.length) {
-      dataTable(host, { id: 'pl', rows: all, sort: 'date-', csvName: `hcd-letters-${name}`,
-        columns: [{ key: 'date', label: 'Date', render: (r) => fdate(r.date), csv: (r) => r.date, cls: 'd' },
-          { key: 'src', label: 'Source', filter: 'select', value: (r) => (r.src === 'HAU' ? 'HAU' : 'HE review'), render: (r) => el('span', { class: 'src' }, r.src === 'HAU' ? 'HAU' : 'HE review') },
-          { key: 'type', label: 'Letter', filter: 'select' },
-          { key: 'cycle', label: 'Cycle', filter: 'select', value: (r) => r.cycle || '' },
-          { key: 'details', label: 'Details', hideSm: true, value: (r) => (r.src === 'HAU' ? [r.laws.join('; '), r.statutes.length ? ` · ${r.statutes.slice(0, 6).join(', ')}${r.statutes.length > 6 ? '…' : ''}` : ''].join('')
-            : [r.finding ? r.finding : '', r.days != null ? ` · ${r.days} days` : ''].join('')) },
-          { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (r) => tdContent(readCell(r)), csv: (r) => r.pdf || '' }] });
-    }
+    const rec = el('div', { class: 'tl' });
+    $('#pl-body').replaceChildren(head, facts, el('h3', { class: 'sub' }, 'Letters and milestones'), rec);
+    renderRecord(rec, p.key, hau, he);
   }
-  // ---------- jurisdiction timeline (milestones.json from scripts/letter_milestones.py) ----------
+  // ---------- jurisdiction record: timeline + one table of letters and milestones (milestones.json from scripts/letter_milestones.py) ----------
   const LANES = [
     ['Statutory due date', 'Due date'],
     ['Submittal received for review', 'Submittals'],
@@ -556,6 +543,7 @@
     ['Adopted', 'Adopted'],
     ['Meeting with HCD', 'Meetings with HCD'],
     ['HCD letter', 'HCD reviews'],
+    ['HAU letter', 'HAU letters'],
     ['Posted on Download Tool', 'Download Tool'],
   ];
   const laneOf = Object.fromEntries(LANES);
@@ -569,64 +557,110 @@
     }
     return MS.filter((m) => m.key === key && inCycle(m));
   }
-  async function renderTimeline(host, key, hauRows) {
-    host.replaceChildren(el('p', { class: 'busy' }, 'Loading timeline…'));
-    const all = await milestonesFor(key);
-    // the same milestone named in several letters is shown once
+  const fcol = (f) => (f === 'Out' ? css('--out') : f === 'In' ? css('--in') : css('--muted'));
+  const mkShape = (mm) => (mm.event === 'HCD letter' ? d3.symbolCircle : mm.event === 'Adopted' ? d3.symbolDiamond : mm.event === 'Statutory due date' ? d3.symbolTriangle
+    : mm.event === 'Submittal received for review' ? d3.symbolSquare : mm.event === 'HAU letter' ? d3.symbolStar : d3.symbolCross);
+  const mkColor = (mm) => (mm.event === 'HCD letter' ? fcol(mm.finding) : mm.event === 'HAU letter' ? css('--s3') : mm.event === 'Statutory due date' ? css('--amber')
+    : mm.event === 'Submittal received for review' ? css('--accent') : mm.event === 'Adopted' ? css('--s4') : css('--s5'));
+  const mkSize = (mm) => (mm.event === 'HCD letter' ? 90 : 60);
+  /** The timeline mark drawn small, for the table. */
+  function glyph(mm) {
+    const s = d3.create('svg').attr('class', 'glyph').attr('viewBox', '-8 -8 16 16').attr('width', 14).attr('height', 14).attr('aria-hidden', 'true');
+    s.append('path').attr('d', d3.symbol(mkShape(mm), mkSize(mm) * 0.8)()).attr('fill', mkColor(mm));
+    return s.node();
+  }
+  async function renderRecord(host, key, hau, he) {
+    host.replaceChildren(el('p', { class: 'busy' }, 'Loading…'));
+    const ms = await milestonesFor(key);
+    // Letters are rows of their own; a milestone links to the earliest letter that names it.
+    const heAll = DATA.E.filter((r) => r.key === key);
+    const letterOf = new Map(heAll.map((r) => [`${r.date}|${r.type}`, r]));
+    const letters = he.map((r) => ({ event: 'HCD letter', date: r.date, letter: r, finding: r.finding, cycle: r.cycle,
+      reviewStart: r.submittal || '', reviewDays: r.days, what: `${r.type}${r.finding ? ` · ${r.finding}` : ''}`,
+      detail: r.submittal ? `Reviewed the submittal of ${fdate(r.submittal)}` : '' }))
+      .concat(hau.map((r) => ({ event: 'HAU letter', date: r.date, letter: r, cycle: '', what: r.type,
+        detail: [r.laws.join('; '), r.statutes.length ? `${r.statutes.slice(0, 6).join(', ')}${r.statutes.length > 6 ? '…' : ''}` : ''].filter(Boolean).join(' · ') })));
     const seen = new Set();
-    const ms = all.filter((m) => { const k = `${m.event}|${m.date}|${m.event === 'HCD letter' ? m.letterType : ''}`; if (seen.has(k)) return false; seen.add(k); return true; });
-    const hau = hauRows.map((r) => ({ event: 'HAU letter', date: r.date, detail: r.type, lane: 'HAU letters' })).filter((m) => m.date);
-    if (!ms.length && !hau.length) { host.replaceChildren(el('p', { class: 'empty' }, 'No milestones for the cycles chosen.')); return; }
-    const items = ms.map((m) => ({ ...m, lane: laneOf[m.event] || 'Revisions & other' })).concat(hau);
-    const lanes = [...new Set(LANES.map(([, l]) => l).concat(['HAU letters']))].filter((l) => items.some((m) => m.lane === l));
-    const parseD = (s) => parse(s);
+    const others = ms.filter((m) => m.event !== 'HCD letter').sort((a, b) => (a.letterDate || '').localeCompare(b.letterDate || ''))
+      .filter((m) => { const k = `${m.event}|${m.date}`; if (seen.has(k)) return false; seen.add(k); return true; })
+      .map((m) => {
+        const src = m.letterDate ? letterOf.get(`${m.letterDate}|${m.letterType}`) : null;
+        return { ...m, letter: src, what: m.event,
+          detail: [m.detail, src ? `named in HCD’s ${fdate(src.date)} letter` : ''].filter(Boolean).join(' · ') };
+      });
+    const items = letters.concat(others).filter((m) => m.date).sort((a, b) => b.date.localeCompare(a.date));
+    items.forEach((m, i) => { m.i = String(i); m.lane = laneOf[m.event] || 'Revisions & other'; });
+    if (!items.length) { host.replaceChildren(el('p', { class: 'empty' }, 'No letters or milestones for the cycles chosen.')); return; }
+
+    // timeline
+    const lanes = [...new Set(LANES.map(([, l]) => l))].filter((l) => items.some((m) => m.lane === l));
     const reviews = items.filter((m) => m.event === 'HCD letter' && m.reviewStart);
-    const dates = items.map((m) => parseD(m.date)).concat(reviews.map((m) => parseD(m.reviewStart))).filter(Boolean);
+    const dates = items.map((m) => parse(m.date)).concat(reviews.map((m) => parse(m.reviewStart))).filter(Boolean);
     const node = el('div', { class: 'chart timeline' });
     const leg = el('div', { class: 'legend' });
-    host.replaceChildren(leg, node);
-    const W = Math.max(340, node.clientWidth || host.clientWidth || 900), rowH = 30, m = { t: 8, r: 16, b: 26, l: Math.min(150, W * 0.3) };
+    const tbl = el('div');
+    host.replaceChildren(leg, node, el('p', { class: 'note' }, 'Bars run from the submittal HCD reviewed to its letter; ticks mark 60 and 90 days after that submittal. Revisions sent during a review don’t restart it. Point at a mark or a row to find its match; click a mark to jump to its row.'), tbl);
+    const W = Math.max(340, node.clientWidth || host.clientWidth || 900), rowH = 28, m = { t: 8, r: 16, b: 26, l: Math.min(150, W * 0.3) };
     const H = m.t + m.b + lanes.length * rowH;
     const [d0, d1] = d3.extent(dates);
     const x = d3.scaleUtc([d3.utcMonth.offset(d0, -2), d3.utcMonth.offset(d1, 2)], [m.l, W - m.r]);
     const y = (l) => m.t + lanes.indexOf(l) * rowH + rowH / 2;
-    const svg = d3.select(node).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Timeline of housing element milestones');
+    const svg = d3.select(node).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Timeline of letters and housing element milestones');
     svg.append('g').attr('class', 'grid').attr('transform', `translate(0,${H - m.b})`)
       .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l) / 90))).tickSize(-(H - m.t - m.b))).call(axisStyle);
     svg.append('g').selectAll('text').data(lanes).join('text').attr('x', m.l - 8).attr('y', y).attr('dy', '0.35em').attr('text-anchor', 'end').text((d) => d);
-    const fcol = (f) => (f === 'Out' ? css('--out') : f === 'In' ? css('--in') : css('--muted'));
-    // review periods: from the submittal HCD reviewed to its letter; ticks at 60 and 90 days after the submittal
+    const guide = svg.append('line').attr('class', 'guide').attr('y1', m.t).attr('y2', H - m.b).attr('visibility', 'hidden');
     const rv = svg.append('g');
     for (const r of reviews) {
-      const a = parseD(r.reviewStart), b = parseD(r.date), yy = y('HCD reviews');
-      rv.append('line').attr('x1', x(a)).attr('x2', x(b)).attr('y1', yy).attr('y2', yy).attr('stroke', fcol(r.finding)).attr('stroke-width', 4).attr('stroke-opacity', 0.45);
+      const a = parse(r.reviewStart), b = parse(r.date), yy = y('HCD reviews');
+      if (!a || !b) continue;
+      rv.append('line').attr('class', 'mk bar').attr('data-i', r.i).attr('x1', x(a)).attr('x2', x(b)).attr('y1', yy).attr('y2', yy).attr('stroke', fcol(r.finding)).attr('stroke-width', 4).attr('stroke-opacity', 0.45);
       for (const dd of [60, 90]) {
         const t = d3.utcDay.offset(a, dd);
-        rv.append('line').attr('class', 'ref').attr('x1', x(t)).attr('x2', x(t)).attr('y1', yy - 8).attr('y2', yy + 8).append('title').text(`${dd} days after the submittal`);
+        rv.append('line').attr('class', 'ref').attr('x1', x(t)).attr('x2', x(t)).attr('y1', yy - 7).attr('y2', yy + 7);
       }
     }
-    const shape = (mm) => (mm.event === 'HCD letter' ? d3.symbolCircle : mm.event === 'Adopted' ? d3.symbolDiamond : mm.event === 'Statutory due date' ? d3.symbolTriangle
-      : mm.event === 'Submittal received for review' ? d3.symbolSquare : mm.event === 'HAU letter' ? d3.symbolStar : d3.symbolCross);
-    const color = (mm) => (mm.event === 'HCD letter' ? fcol(mm.finding) : mm.event === 'HAU letter' ? css('--s3') : mm.event === 'Statutory due date' ? css('--amber')
-      : mm.event === 'Submittal received for review' ? css('--accent') : mm.event === 'Adopted' ? css('--s4') : css('--s5'));
-    svg.append('g').selectAll('path').data(items.filter((mm) => parseD(mm.date))).join('path')
-      .attr('transform', (mm) => `translate(${x(parseD(mm.date))},${y(mm.lane)})`)
-      .attr('d', (mm) => d3.symbol(shape(mm), mm.event === 'HCD letter' ? 90 : 60)())
-      .attr('fill', color).attr('stroke', css('--panel')).attr('stroke-width', 1)
-      .on('mousemove', (ev, mm) => showTip(ev, `${fdate(mm.date)} · ${mm.event}`, [mm.detail, mm.event === 'HCD letter' && mm.reviewDays != null ? `Review: ${mm.reviewDays} days from the submittal (${fdate(mm.reviewStart)})` : '', mm.phrase && mm.source === 'letter text' ? `“${mm.phrase.replace(/^…/, '')}”` : ''].filter(Boolean)))
-      .on('mouseleave', hideTip);
+    const tipLines = (mm) => [mm.what !== mm.event ? mm.what : '', mm.detail, mm.event === 'HCD letter' && mm.reviewDays != null ? `Review: ${mm.reviewDays} days from the submittal (${fdate(mm.reviewStart)})` : '',
+      mm.phrase && mm.source === 'letter text' ? `“${mm.phrase.replace(/^…/, '')}”` : ''].filter(Boolean);
+    const rowOf = (i) => tbl.querySelector(`tr[data-i="${i}"]`);
+    const hl = (i, on) => {
+      node.classList.toggle('hovering', on);
+      svg.selectAll(`.mk[data-i="${i}"]`).classed('hl', on);
+      const mm = items[+i];
+      if (on && mm) guide.attr('x1', x(parse(mm.date))).attr('x2', x(parse(mm.date))).attr('visibility', 'visible'); else guide.attr('visibility', 'hidden');
+      rowOf(i)?.classList.toggle('hl', on);
+    };
+    svg.append('g').selectAll('path').data(items.filter((mm) => parse(mm.date))).join('path')
+      .attr('class', 'mk').attr('data-i', (mm) => mm.i)
+      .attr('transform', (mm) => `translate(${x(parse(mm.date))},${y(mm.lane)})`)
+      .attr('d', (mm) => d3.symbol(mkShape(mm), mkSize(mm))())
+      .attr('fill', mkColor).attr('stroke', css('--paper')).attr('stroke-width', 1)
+      .on('mousemove', (ev, mm) => { showTip(ev, `${fdate(mm.date)} · ${mm.event}`, tipLines(mm)); hl(mm.i, true); })
+      .on('mouseleave', (ev, mm) => { hideTip(); hl(mm.i, false); })
+      .on('click', (ev, mm) => {
+        const tr = rowOf(mm.i);
+        if (!tr) return;
+        tr.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        tr.classList.remove('flash'); void tr.offsetWidth; tr.classList.add('flash');
+      });
     legend(leg, [['HCD letter: out', css('--out')], ['HCD letter: in', css('--in')], ['Submittal received for review', css('--accent')], ['Adopted', css('--s4')],
       ['Revisions, other material, meetings', css('--s5')], ['Statutory due date', css('--amber')], ['HAU letter', css('--s3')]]);
-    host.append(el('p', { class: 'note' }, 'Bars run from the submittal HCD reviewed to its letter; the small ticks mark 60 and 90 days after that submittal. Revisions sent during a review don’t restart it. Hover a mark for the letter’s wording.'));
-    const tbl = el('div');
-    host.append(tbl);
-    dataTable(tbl, { id: 'ms', rows: items.filter((mm) => mm.event !== 'HAU letter'), sort: 'date-', csvName: 'hcd-milestones',
+
+    // table: every letter and milestone, one row each
+    dataTable(tbl, { id: 'pl', rows: items, sort: 'date-', pageSize: 400, csvName: `hcd-record-${key}`,
+      rowAttrs: (mm) => ({ 'data-i': mm.i, class: mm.letter && mm.event.endsWith('letter') ? 'is-letter' : null }),
       columns: [{ key: 'date', label: 'Date', render: (mm) => fdate(mm.date), csv: (mm) => mm.date, cls: 'd' },
-        { key: 'event', label: 'Milestone', filter: 'select' },
-        { key: 'detail', label: 'Detail' },
-        { key: 'cycle', label: 'Cycle', filter: 'select', value: (mm) => mm.cycle || '' },
-        { key: 'reviewDays', label: 'Review days', num: true, value: (mm) => (mm.reviewDays ?? -1), render: (mm) => (mm.reviewDays != null ? `${mm.reviewDays}` : ''), csv: (mm) => mm.reviewDays ?? '' },
-        { key: 'phrase', label: 'In the letter', hideSm: true, render: (mm) => (mm.source === 'Download Tool' && mm.phrase ? link(mm.phrase, 'Document') || '' : (mm.phrase || '').replace(/^…/, '')) }] });
+        { key: 'mark', label: '', value: () => '', render: glyph, csv: () => '', cls: 'mark' },
+        { key: 'kind', label: 'Source', filter: 'select', value: (mm) => (mm.event === 'HAU letter' ? 'HAU letters' : mm.event === 'HCD letter' ? 'Review letters' : 'Milestones'),
+          render: (mm) => (mm.event === 'HAU letter' ? 'HAU' : mm.event === 'HCD letter' ? 'HE review' : ''), cls: 'src', hideSm: true },
+        { key: 'what', label: 'Letter or milestone', render: (mm) => (mm.event.endsWith('letter') ? el('b', {}, mm.what) : mm.what) },
+        { key: 'detail', label: 'Detail', hideSm: true, render: (mm) => (mm.source === 'Download Tool' && mm.phrase ? el('span', {}, mm.detail || 'Document', ' ', link(mm.phrase, 'Open')) : mm.detail || '') },
+        { key: 'cycle', label: 'Cycle', filter: 'select', hideSm: true, value: (mm) => mm.cycle || '' },
+        { key: 'reviewDays', label: 'Days', num: true, value: (mm) => (mm.event === 'HCD letter' && mm.reviewDays != null ? mm.reviewDays : -1),
+          render: (mm) => (mm.event === 'HCD letter' && mm.reviewDays != null ? `${mm.reviewDays}` : ''), csv: (mm) => (mm.event === 'HCD letter' ? mm.reviewDays ?? '' : '') },
+        { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (mm) => (mm.letter ? tdContent(readCell(mm.event.endsWith('letter') ? mm.letter : { ...mm.letter, hePdf: null })) : ''), csv: (mm) => mm.letter?.pdf || '' }] });
+    tbl.addEventListener('mouseover', (e) => { const tr = e.target.closest('tr[data-i]'); if (tr && !tr.classList.contains('hl')) { tbl.querySelectorAll('tr.hl').forEach((t) => hl(t.dataset.i, false)); hl(tr.dataset.i, true); } });
+    tbl.addEventListener('mouseleave', () => tbl.querySelectorAll('tr.hl').forEach((t) => hl(t.dataset.i, false)));
   }
 
   function goPlace(name) {
