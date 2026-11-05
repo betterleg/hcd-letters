@@ -5,7 +5,7 @@ name: HAU letters
 # listing what's new. Change the schedule below; it is in UTC.
 on:
   schedule:
-    - cron: "23 15 * * 1"   # Mondays 15:23 UTC (8:23 am Pacific in summer, 7:23 am in winter)
+       - cron: "23 15 * * *"   # daily 15:23 UTC (8:23 am Pacific in summer, 7:23 am in winter)
   workflow_dispatch: {}      # "Run workflow" button on the Actions tab
 
 permissions:
