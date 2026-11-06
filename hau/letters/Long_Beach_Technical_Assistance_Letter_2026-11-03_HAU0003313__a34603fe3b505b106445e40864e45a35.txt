@@ -1,0 +1,499 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+            November 3, 2026
+
+
+            Alison Spindler-Ruiz, Planning Bureau Manager
+            City of Long Beach
+            411 W. Ocean Blvd.
+            Long Beach, CA 90802
+
+            Dear Alison Spindler-Ruiz:
+
+            RE: City of Long Beach Senate Bill 9 Implementation and Shared Housing Draft
+                Ordinances — Letter of Technical Assistance
+
+            The purpose of this letter is for the California Department of Housing and Community
+            Development (HCD) to provide technical assistance on two draft municipal code update
+            efforts the City of Long Beach (City) is undertaking: (1) draft Senate Bill (SB) 9
+            implementation ordinance, and (2) draft Housing Omnibus Code Update. Regarding the
+            draft Housing Omnibus Code Update, this letter focuses on proposed changes to the
+            City’s Special Group Residence Code. This letter is organized to address both topics in
+            two parts.
+
+            Part 1: Senate Bill 9 Draft Implementation Ordinance
+
+            HCD sent a letter of technical assistance to the City on August 9, 2024, to provide
+            technical assistance regarding the City’s SB 9 implementing Ordinance. 1 Following that
+            letter, the City began the process of updating SB 9 implementing Ordinance. On
+            December 4, 2025, HCD provided the City with a preliminary Ordinance review for a
+            draft Ordinance. Subsequently, the City amended the draft Ordinance in response to
+            HCD’s feedback and it was circulated for public comment in February 2026. On
+            August 10, 2026, the City provided HCD with the latest version of the draft Ordinance.
+            The following provisions of the Draft Two-Unit Residential Developments (SB 9 Units)
+            Ordinance were not provided in the August 10, 2026, draft ordinance version submitted
+            to HCD; Sections 21.49.030 and 21.49.035 were marked as “reserved” in the version
+            submitted. These sections were included in the draft version of the ordinance circulated
+            for public comment.
+
+            The draft SB 9 ordinance meets many statutory requirements. However, HCD finds that
+            the draft ordinance is inconsistent with state law in the following ways:
+
+1 HCD’s August 9, 2024, letter to the City of Long Beach can be accessed here:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/long-beach-hau690-
+ta-080924.pdf.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 2
+
+
+
+
+          1. Section 20.18.070 B. – Unclear Language and Concurrent Processing – the
+             ordinance states: “An urban lot split may be approved without a concurrently
+             submitted application for building permits for a two (2) unit residential
+             development pursuant to Cal. Gov’t Code § 65852.21 (emphasis added).” SB 9
+             allows for a standalone urban lot split application, or concurrent processing of
+             units and urban lot splits permitted pursuant to the law. 2 The City must process
+             an urban lot split application if it is not accompanied by an application of units
+             pursuant to SB 9. The word “may” is unclear3 and, in its plain meaning, opens the
+             possibility for the City to reject the application. The provision must be amended to
+             state that the City shall process an application for a compliant urban lot split
+             application.
+
+          2. Section 20.18.070 N. and 21.49.110 J.2. – Ellis Act – These provisions state that
+             “The owner (shall not have/has not) withdrawn rent or price-controlled
+             accommodations from rent or lease on this parcel within 15 years prior to the
+             date of application for the proposed project. However, Government Code Section
+             66411.7, subdivision (a)(3)(D) and Section 65852.21, subdivision (a)(4) both
+             state that: “(A/The) parcel… on which an owner of residential real property has
+             exercised the owner’s rights under Chapter 12.75 (commencing with Section
+             7060) of Division 7 of Title 1 to withdraw accommodations from rent or lease
+             within 15 years before the date that the development proponent submits an
+             application.” It is important that the language in the ordinance accurately reflects
+             SB 9. The ordinance(s) must specify that parcels are ineligible if “an owner of
+             residential real property has exercised the owner’s rights under Chapter 12.75
+             (commencing with Section 7060) of Division 7 of Title 1 to withdraw
+             accommodations from rent or lease within 15 years before the date that the
+             development proponent submits an application.
+
+          3. Section 21.18.080 J. – Cause for Disapproval – The ordinance states that an
+             application for an urban lot split shall not be approved if “the proposed housing
+             development would result in fewer dwelling units than would otherwise be
+             allowed on the site by the General Plan Land Use Element, in accordance with
+             the State's No Net Loss requirements.” However, SB 9 requires that eligible
+             urban lot split applications and SB 9 units be processed and approved regardless
+             of General Plan Land Use Element densities. 4 The ordinance provision appears
+             to be referencing Government Code Section 66300.6, subdivision (b)(2)(A),
+             which is a portion of the Housing Crisis Act of 2019. It states: “If the project is a
+             housing development project, it will include at least as many residential dwelling
+
+2 See HCD’s Duplexes and Lot Splits (SB 9) 2026 Fact Sheet: “A lot zoned for single-family
+
+residential within an urbanized area may be developed by right through two mechanisms, or a
+combination of both.” The Fact Sheet can be accessed here:
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/lot-splits-and-duplexes-sb-
+9.pdf.
+3 Merriam-Wester defines “may” as “used to indicate possibility or probability.”
+4 Gov. Code, §§ 65852.21, subd. (a)(2), and 66411.7, subd. (a)(3)(C).
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 3
+
+
+
+             units as the greatest number of residential dwelling units that existed on the
+             project site within the last five years.” The City must amend this provision of the
+             ordinance to comply with SB 9 and Government Code Section 66300.6.
+
+          4. Section 20.18.090 C.5.7. – Map Depictions – The ordinance states that an
+             application for an urban lot split must depict “the location of the site's scenic
+             landscape features and scenic corridors, shorelines, ridgelines, and skylines, as
+             defined in the City's General Plan, Local Coastal Program, and state law, and an
+             assessment of the visibility of any future development from or within scenic
+             corridors” (emphasis added). The requirement to depict the visibility of future
+             development from or within scenic corridors is subjective. SB 9 only allows the
+             application of objective standards. The ordinance must be amended to make the
+             requirement objective, which is defined as meaning involving “no personal or
+             subjective judgment by a public official and are uniformly verifiable by reference
+             to an external and uniform benchmark or criterion available and knowable by
+             both the development applicant or proponent and the public official prior to
+             submittal.” 5 Additionally, the Housing Crisis Act (HCA) prohibits the adoption and
+             enforcement of new standards that are not objective. 6
+
+          5. Section 20.18.100 – Nonconformities – the ordinance states that “New lot lines
+             within the parcel to be subdivided shall not create a new nonconformity by
+             rendering an existing structure or building as nonconforming in any respect
+             (including, but not limited to, standards for building setbacks, projection
+             clearances, turning radius for driveways and parking, etc.), nor increase the
+             nonconformity of an existing nonconforming circumstance.” However, any
+             objective standard that would prevent an otherwise eligible lot from being split,
+             physically preclude the construction of up to two units on either of the resulting
+             parcels, or result in a unit size of less than 800 square feet must be modified or
+             waived by the local agency in order to facilitate the development of the project. 7
+             The City must amend this section such that enforcing a requirement that an
+             urban lot split not create new nonconformities or exacerbate existing
+             nonconformities in relation to the underlying zoning does not conflict with SB 9
+             provisions preempts the enforcement of certain local development requirements.
+             This is particularly true for setbacks. 8
+
+          6. Section 21.49.010 B. and 21.49.110 C. – Sites with Commercial Uses – These
+             provisions of the ordinance state: “Any R-1 lot or parcel developed with… any
+             non-residential uses, or any mixed-use development (including commercial or
+             other non-residential uses), shall not be eligible to create an SB 9 unit.” And “No
+             commercial building, or commercial space within a building, shall be converted to
+             an SB 9 unit.” However, SB 9 does not include any provision that allows a local
+             agency to categorically disallow SB 9 applications within a single-family
+
+5 Gov. Code, § 66411.7, subd. (c).
+6 Gov. Code, § 66300, subd. (b)(1)(C).
+7 Gov. Code, § 66411.7, subd. (c)(1)(2).
+8 Gov. Code, § 66411.7, subd. (c)(3)(A).
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 4
+
+
+
+             residential zone where there are existing or previously existing non-residential
+             uses or mixed-use developments. In fact, SB 9 contemplates the conversion of
+             existing structures by preempting the application of setbacks. 9 For example, an
+             applicant may seek to convert an existing religious congregation facility or
+             storefront within a single-family residential zone. The ordinance must provide for
+             the conversion of existing structures, including commercial ones, within single-
+             family residential zones.
+
+          7. Sections 21.49.115 and 21.18.080 – Hazardous Waste Site – The ordinance
+             states: “The site is not located on a hazardous waste site that is listed per Cal.
+             Gov’t Code §65962.5 or designated by Cal. Health & Safety Code §25356.”
+             However, SB 9 states that the parcel must satisfy the requirements of
+             subparagraphs (B) to (K), inclusive, of paragraph (6) of subdivision (a) of Section
+             65913.4, as that section read on September 16, 2021. 10 On September 16, 2021,
+             Government Code Section 65913.4, subdivision (a)(6)(E) stated that a
+             development must not be located on “a hazardous waste site that is listed
+             pursuant to Section 65962.5 or a hazardous waste site designated by the
+             Department of Toxic Substances Control pursuant to Section 25356 of the Health
+             and Safety Code, unless the State Department of Public Health, State Water
+             Resources Control Board, or Department of Toxic Substances Control has
+             cleared the site for residential use or residential mixed uses” (emphasis added).
+             The ordinance must add the language: “unless the State Department of Public
+             Health, State Water Resources Control Board, or Department of Toxic
+             Substances Control has cleared the site for residential use or residential mixed
+             uses.”
+
+          8. Section 21.49.270 C.1. – Replacement Parking – The ordinance states: “Existing
+             required parking spaces in a garage, carport, or driveway for the existing
+             principal residential unit on site that are removed in conjunction with an SB 9 unit
+             project shall be replaced in the same number of spaces but may be provided as
+             open or carport spaces instead of garage spaces.” Additionally, Section
+             21.49.455 B. states: “Replacement parking. If a garage or other required parking
+             for a primary dwelling is converted into dwelling unit, one replacement parking
+             space shall be provided that conforms to the development standards of Section
+             21.49.270. This parking space is replacement parking for the primary dwelling.”
+             However, SB 9 states that a local agency may require “offstreet parking of up to
+             one space per unit” or none in certain circumstances “when considering an
+             application for (SB 9 units).” 11 The ordinance currently conflicts because
+             requiring replacement parking exceeds the allowable required parking. The law
+             anticipates that existing parking may be lost through the development of SB9
+             housing units and provides direction. A local requirement that lost parking be
+             reconstructed imposes a practical burden on the applicant that is not allowable
+             under the law. Therefore, the City must amend the ordinance to not require an
+
+9 Gov. Code, § 65852.21, subd. (b)(2)(B)(i).
+10 Gov. Code, §§ 65852.21, subd. (a)(2), and 66411.7, subd. (a)(3)(C).
+11 Gov. Code, § 65852.21, subd. (c).
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 5
+
+
+
+             excess of more than one offstreet parking space per unit – or none in the
+             specified circumstances – when considering an application involving either up to
+             two new units or the addition of one new unit to an existing unit. 12
+
+          9. Sections 21.17.030 – Conformance with State Law – Section 21.17.035 states:
+             Following adoption of this Chapter by ordinance by the City Council, and upon
+             each subsequent amendment to this Chapter, it shall be submitted to HCD for
+             review… Following notification by HCD that the ordinance complies with the
+             requirements of state law, this Chapter shall be considered in conformance with
+             state law… Publication by HCD of a new or updated SB 9 Guidebook or similar
+             publication, or receipt of a letter of technical assistance from HCD by the City or
+             by another local agency or jurisdiction, or other actions taken by HCD… in the
+             absence of state legislative action…, shall not render this Chapter out of
+             conformance.” In other words, the ordinance states that (1) it will be submitted to
+             (and subsequently reviewed by) HCD pursuant to an uncited section of the
+             Government Code, then (2) any HCD technical assistance following that review
+             “shall not render (the ordinance) out of conformance (with state law).”
+             Section 21.17.035 further states: “following attainment of conforming status as
+             described in Section 21.17.030, the City’s administration of this Chapter shall be
+             presumed to be consistent with state law, and the City shall owe no deference to
+             further statutory interpretation analysis by HCD on the administration of this
+             Chapter.”
+
+             Although HCD appreciates the City’s willingness to engage with HCD during
+             ordinance development, these provisions should be removed because they
+             conflict with state law. SB 9 does not require jurisdictions to submit implementing
+             ordinances to HCD, nor does it authorize HCD to issue binding or final
+             compliance determinations. In addition, local ordinances cannot insulate
+             themselves from subsequent statutory amendments or judicial decisions, which
+             control irrespective of any prior communication between HCD and the City.
+             Language suggesting that the ordinance will continue to be deemed “in
+             conformance” unless the Legislature amends SB 9 encourages misalignment
+             with state law and may create confusion regarding the City’s ongoing obligations
+             under SB 9.
+
+             Despite any ordinance to the contrary, Government Code Section 65585,
+             subdivision (j), requires HCD to notify the City – and may require HCD to notify
+             the Office of the Attorney General – when a local action is in violation of state
+             housing law, including SB 9, and to take enforcement action as appropriate.
+
+             Accordingly, these ordinance provisions do not serve a practical purpose in
+             implementing SB 9 and should be removed to avoid potential conflict with state
+             law.
+
+
+
+
+12 Gov. Code, § 65852.21, subd. (i)(1).
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 6
+
+
+
+
+          10. Sections 20.18.020 and 21.49.030 – Application submittal timelines and
+              processing – These two sections contain the procedure and timelines with
+              processing an application for an SB 9 units and urban lot splits. Broadly
+              speaking, HCD lauds the City’s attempts to toll timelines to allow an applicant to
+              correct deficiencies (Sections 20.18.020 G. and 21.49.130 C.1.). However, SB 9
+              states that applications “shall be considered and approved or denied within 60
+              days from the date the local agency receives a completed application. If the local
+              agency has not approved or denied the completed application within 60 days, the
+              application shall be deemed approved.”13 Under the current ordinance scheme, it
+              is possible for an application to be deemed approved by operation of law while
+              the City’s ordinance considers the deadline not yet passed. The ordinance must
+              be amended to reflect (i.e. be no less permissive or restrictive) than the
+              application processing timeline and procedure in SB 9. The ordinance must be
+              amended to state that the City will approve or deny an application within 60 days
+              from the date the local agency receives a completed application.
+
+             Additionally, the ordinance’s completeness determination references the
+             procedure laid out in LBMC “Code (Title 18, LBMC) or Section 21.21.201, as
+             applicable” (Section 21.49.130 C.1.). The City must also comply with the
+             completeness determination process provided in the Permit Streamlining Act
+             (PSA), which establishes a 30-day completeness review timeline from the date a
+             local agency receives an application. 14 Taken together, the same “received” date
+             for the PSA is the same “date the local agency receives a completed application”
+             pursuant to SB 9 if the application is determined to be complete. 15
+
+      Part 2: Student Housing/Shared Housing Ordinance Update
+
+      Background
+
+      On July 29, 2025, HCD sent the City a letter of technical assistance regarding the City’s
+      Special Group Residence Policy. 16 The letter explained that the City improperly
+      categorized a joint SB 9 and Accessory Dwelling Unit (ADU) housing development
+      project as a “Special Group Residence” pursuant to its municipal code and considered
+      the project an unpermitted use. The letter stated that “Special Group Residence” policy
+      categorized units proposed pursuant to SB 9 as a distinct residential use, which is not
+      permitted in single-family residential zones pursuant to the City’s local permitted uses.
+      However, SB 9 expressly provides for the ministerial approval of qualifying applications
+
+13 Gov. Code, §§ 65852.21, subd. (h)(1) and 66411.7, subd. (b)(1)(B).
+14 Gov. Code, § 65943.
+15 See HCD’s March 21, 2025, Letter to the City of Riverside, footnote 18, available here:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/riverside-hau-1143-ta-
+sb9-03212025.pdf.
+16 HCD’s July 29, 2025, letter of technical assistance to the City of Long Beach can be found here:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/long-beach-hau-1817-
+ta-072925.pdf.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 7
+
+
+
+      in “single-family residential” zones. 17 The letter stated that the City is not authorized to
+      categorically preempt SB 9 by classifying SB 9 units under an unpermitted land use
+      category.
+
+      Following that letter, the City informed HCD that it is engaging in a comprehensive
+      municipal code update related to housing (“Housing Omnibus Code Update”). This code
+      update effort will update the City’s municipal code related to the Special Group
+      Residence policy, among other changes to the City’s municipal code. HCD understands
+      that the Housing Omnibus Code Update was presented to the Planning Commission on
+      April 16, 2026. 18 HCD is in receipt of the version of the draft ordinance circulated for
+      public review prior to the Planning Commission hearing.
+
+      The draft ordinance makes several amendments to the City’s municipal code:
+
+          •   The ordinance amends the definition of “Special Group Residence”19 to narrow
+              the definition to long-term care facility with supportive services, care, or
+              supervision. Other uses such as student housing types are excluded.
+
+          •   The ordinance defines “shared housing” as “a residence providing long-term
+              housing (more than 30 days tenancy) with a shared a kitchen or dining area.
+              Shared housing includes but is not limited to communal housing, boardinghouse,
+              lodginghouse, dormitory, student housing facility. fraternity or sorority house,
+              religious housing, employee housing, barracks or military housing, shared
+              housing building, and shared housing units” and not a dwelling unit (Section
+              21.15.2473).
+
+          •   The ordinance defines a new term, “student housing facility,” 20 to mean “a
+              residence exclusively housing students of higher education institutions. Student
+              housing facility includes dormitories. fraternity and sorority houses and Student
+              Housing Development.” This definition states that student housing facility is a
+              type of “shared housing,” which is defined in Section 21.15.2473.
+
+          •   The ordinance defines a new term, “student housing development,”21 to mean “a
+              residence exclusively housing seven or more students of a higher education
+              institution, and which is owned or administered by a private organization, not
+              affiliated with an educational institution.” This definition states that student
+              housing development is a type of “shared housing.”
+
+
+
+
+17 Gov. Code, § 65852.21, subd. (a).
+18 A Recording of the April 16, 2026, Planning Commission Meeting is available here:
+
+https://longbeachca.new.swagit.com/videos/382572.
+19 LBMC § 21.15.2810.
+20 LBMC § 21.15.2975.
+21 LBMC § 21.15.2976.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 8
+
+
+
+         •   The ordinance updates the permitted uses table for residential zones (Table 31-1)
+             to stipulate that student housing developments are not permitted in any single-
+             family zoning district and student housing facilities are conditionally permitted in
+             single-family zoning districts.
+
+      Analysis
+
+      The City must ensure that housing development projects that utilize SB9 and/or ADU
+      law are not misclassified as a student housing development, student housing facility,
+      shared housing, shared housing unit, or other locally defined land use in a way that
+      denies applicants the benefits and protections of these state housing laws. As stated in
+      the July 29, 2025 letter of technical assistance, such a fact pattern arose in the case of
+      a project located at 1411 Iroquois Avenue regarding an SB 9-ADU residential
+      development project. Thus, the City must amend its draft ordinance to clarify that units
+      lawfully permitted pursuant to SB 9 and ADU law 22 are not considered group housing,
+      student a student housing facility, or student housing development as defined locally
+      and are thus improperly considered unpermitted or conditionally permitted uses.
+
+      HCD provides the following example edit that would make clear that SB 9 and ADUs are
+      not improperly considered under the above locally defined land uses:
+
+         •   21.15.2473 – Shared housing – "Shared housing" means a residence providing
+             long-term housing (more than 30 days tenancy) with a shared a kitchen or dining
+             area. Shared housing includes but is not limited to communal housing,
+             boardinghouse, lodginghouse, dormitory, student housing facility. fraternity or
+             sorority house, religious housing, employee housing, barracks or military
+             housing, shared housing building, and shared housing units. “Shared housing”
+             does not include a residential unit permitted pursuant to Government Code §
+             65852.21 or §§ 66310 through 66342.
+
+         •   21.15.2975 – Student housing facility – "Student Housing Facility" is a residence
+             exclusively housing students of higher education institutions. Student Housing
+             Facility includes dormitories, fraternity and sorority houses, and Student Housing
+             Development. Student Housing Facility is a type of Shared Housing. “Student
+             Housing Facility” does not include a residential unit permitted pursuant to
+             Government Code § 65852.21 or §§ 66310 through 66342.
+
+         •   21.15.2976 – Student housing development – "Student housing development"
+             means a residence exclusively housing seven (7) or more students of a higher
+             education institution, and which is owned or administered by a private
+             organization, not affiliated with an educational institution. Student Housing
+             Development is a type of Shared Housing and shall be subject to the conditional
+             use standards for a Student Housing Facility. “Student housing development”
+             does not include a residential unit permitted pursuant to Government Code §
+             65852.21 or §§ 66310 through 66342.
+
+
+22 Gov. Code, §§ 66310-66342.
+      Alison Spindler-Ruiz, Planning Bureau Manager
+      Page 9
+
+
+
+      Constitutional Right to Privacy
+
+      Notwithstanding the unambiguous inability of a local agency to categorize units
+      permitted pursuant to SB 9 and ADU Law as a locally defined land use and
+      subsequently subject such units to discretionary review or consider them unpermitted,
+      HCD expresses concerns with the above locally defined land uses as well as other
+      practices that target specific occupants of housing, particularly when housing is offered
+      to the general public and is not restricted to any class or category of occupant. Such
+      policies may serve to discriminate and impose specific restrictions on housing
+      developments based on the City’s presumption of future occupants of housing intended
+      to be made available to the general public. HCD encourages the City to review the draft
+      definitions of “shared housing” and “shared housing unit” (LBMC §§ 21.15.2473,
+      21.15.2477) to ensure alignment with California’s fair-housing and constitutional privacy
+      protections. Because the draft ordinance categorizes a variety of communal living
+      arrangements – including religious housing – as a separate land-use type distinct from
+      dwelling units, this may raise questions under the State’s Anti-Discrimination in Land
+      Use Law (Gov. Code § 65008) and Affirmatively Furthering Fair Housing (AFFH) Law
+      (Gov. Code § 8899.50), as discussed in HCD’s July 29, 2025, technical assistance
+      letter.
+
+      Separately, the California Supreme Court has long held that local governments may not
+      restrict household living arrangements solely based on the number of unrelated adults
+      living together (City of Santa Barbara v. Adamson), nor impose additional permitting,
+      spacing, or operational requirements on communal homes without a legitimate land-use
+      nexus (City of Chula Vista v. Pagard). These cases apply the California Constitution’s
+      right-to-privacy standard, under which local regulations affecting communal living
+      arrangements must be supported by a compelling governmental interest and drawn to
+      address legitimate land-use impacts. The Attorney General’s June 3, 2026, legal alert
+      reiterates that these constitutional principles – as articulated in Adamson and Pagard –
+      “inform and reinforce” the specific protections required under FEHA, the
+      Anti-Discrimination in Land Use Law, the AFFH Law, and Housing Element Law, and
+      may be useful for the City as it refines its shared housing definitions. 23
+
+      These considerations do not prevent the City from regulating safety or objective
+      development standards, but they do suggest that the City may wish to evaluate whether
+      “shared housing,” as drafted, could inadvertently differentiate between household types
+      in a way that implicates constitutional or fair-housing concerns.
+
+
+
+
+23 The June 3, 2026, legal alert is available here: https://oag.ca.gov/system/files/attachments/press-
+
+docs/Legal Alert re Ohio House v. City of Costa Mesa - Final.pdf.
+Alison Spindler-Ruiz, Planning Bureau Manager
+Page 10
+
+
+
+
+Conclusion
+
+This letter follows two previous letters of technical assistance: The August 9, 2024 letter
+of technical assistance regarding the City’s SB 9 implementing ordinance, and the
+July 19, 2025, letter of technical assistance regarding the City’s Special Group
+Residence Policy as applied to SB 9 and ADU housing development projects. This letter
+also serves to provide technical assistance to the City prior to the adoption of the
+forthcoming SB 9 implementing ordinance, as well as the forthcoming Housing Omnibus
+Code update. HCD will continue to monitor the progression of those two code update
+efforts. If you have questions or need additional technical assistance, please contact
+Brandon Yung at brandon.yung@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Brian Heaton
+Section Chief, Land Use Policy
+Housing Accountability Unit

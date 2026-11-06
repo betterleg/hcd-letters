@@ -1,6 +1,6 @@
 # Standard language in HCD's HAU letters
 
-From 1,269 letters with text and 19,134 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 1,273 letters with text and 19,223 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 
@@ -40,7 +40,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > HCD appreciates the <JTYPE> efforts … with State ADU Law. Please **feel free to** contact Mike Van ~~Gorder, of our staff, at (<N>) <N>-<N> or~~ **Gorder** at mike.vangorder@hcd.ca.gov if you have any ~~questions or would like HCD’s technical assistance in these matters.~~ **questions.**
 
-### Group 3: 197 letters (16%), 2021–2026
+### Group 3: 197 letters (15%), 2021–2026
 
 > Thank you for submitting the <JTYPE> of <JUR> (<JTYPE>) ADU Ordinance No. <N> (Ordinance), adopted <DATE>, to the California Department of Housing and Community Development (HCD). HCD has reviewed the Ordinance and submits these written findings pursuant to Government Code section 66326, subdivision (a). HCD finds that the Ordinance fails to comply with State ADU Laws in the manner noted below. Pursuant to Government Code section 66326, subdivision (b)(<N>), the <JTYPE> has up to <N> days to respond to these findings. Accordingly, the <JTYPE> must provide a written response to these findings no later than <DATE>, with a plan to either amend the current ordinance or adopt a resolution with findings. <N> Responses should be submitted formally on agency letterhead.
 

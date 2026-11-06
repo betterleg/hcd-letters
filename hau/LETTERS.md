@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,382 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,329 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,383 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,333 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -9,7 +9,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Year | Letters |
 |---|---|
 | [undated](index/undated.md) | 3 |
-| [2026](index/2026.md) | 271 |
+| [2026](index/2026.md) | 272 |
 | [2025](index/2025.md) | 460 |
 | [2024](index/2024.md) | 279 |
 | [2023](index/2023.md) | 185 |
@@ -23,7 +23,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Letter type | Letters |
 |---|---|
-| Letter of Inquiry | 346 |
+| Letter of Inquiry | 347 |
 | Technical Assistance Letter | 338 |
 | Ordinance Findings Letter | 234 |
 | Technical Assistance Letter - Repeal Request | 211 |
@@ -42,7 +42,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Housing law | Letters |
 |---|---|
-| Housing Element Law | 602 |
+| Housing Element Law | 603 |
 | Accessory Dwelling Unit Law | 487 |
 | Density Bonus Law | 102 |
 | Housing Accountability Act | 100 |
@@ -90,6 +90,6 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | 66326 | 31 |
 | 65583.2 | 30 |
 | 65585(j) | 26 |
+| 65580-65589.11 | 25 |
 | 8899.50 | 25 |
-| 65580-65589.11 | 24 |
 | 65580 | 23 |
