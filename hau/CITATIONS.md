@@ -33,8 +33,8 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66322` | 1 | CSTASK0025477: …ing guidance on the combination of units allowable under Government Code sections 66311.7 (formerly 66322) and 66323. Since the issuance of that letter, the Cit… |
 | `50675.2` | 1 | CSTASK0020516: …cifically Government Code section 65650, subdivision (b), references Health and Safety Code section 50675.2 in defining supportive housing. Specifically, Health… |
 | `66316` | 1 | CSTASK0024796: …ssory Dwelling Unit Approvals 66314 65852.2(a)(1)(A), (D)(i)-(xii), (a)(4)-(5) 66315 65852.2 (a)(8) 66316 65852.2 (a)(6) 66317 65852.2 (a)(3), (a)(7) 66318 6585… |
-| `798.56` | 1 | CSTASK0018075: …Code, § 798 et seq. and Gov. Code §§ 65863.7, 65863.8. 5 Gov. Code, § 66300 et seq. 6 Civil Code, § 798.56, subds. (g), (h). 7 Gov. Code, § 65863.8. 8 Gov. Code… |
 | `798` | 1 | CSTASK0018075: …eholds within the local jurisdiction.” 10 In addition, the legislative body “may 4 Civil Code, § 798 et seq. and Gov. Code §§ 65863.7, 65863.8. 5 Gov. Code,… |
+| `798.56` | 1 | CSTASK0018075: …Code, § 798 et seq. and Gov. Code §§ 65863.7, 65863.8. 5 Gov. Code, § 66300 et seq. 6 Civil Code, § 798.56, subds. (g), (h). 7 Gov. Code, § 65863.8. 8 Gov. Code… |
 | `66330` | 1 | CSTASK0024293: …852.2 (f) 66325 65852.2 (g) 66326 65852.2 (h) 66327 65852.2 (i) 66328 65852.2 (k) 66329 65852.2 (l) 66330 65852.2 (m) 66331 65852.2 (n) 66332 65852.23. Article… |
 | `21155` | 1 | CSTASK0018323: …assistance provided in the previous letter. As you are aware, Public Resources Code (PRC) section 21155, subdivision (b) – which serves as the basis for the d… |
 | `50079.5` | 1 | CSTASK0010701: …its for moderate-income, lower income, very low income, or ELI households, as specified in Sections 50079.5, 50093, 50105, and 50106 of the Health and Safety Co… |
@@ -71,16 +71,16 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66329` | 146 |
 | `66328` | 145 |
 | `CIV 714.3` | 143 |
-| `17556` | 141 |
 | `66333.5` | 141 |
-| `66335` | 134 |
+| `17556` | 141 |
 | `66324` | 134 |
+| `66335` | 134 |
 | `66331` | 125 |
 | `CIV 4751` | 124 |
 | `17980.12` | 123 |
 | `66320` | 123 |
-| `CIV 4741` | 120 |
 | `CIV 4740` | 120 |
+| `CIV 4741` | 120 |
 | `65852.26` | 119 |
 | `66322` | 78 |
 | `65583.4` | 69 |
@@ -117,17 +117,17 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66333(g)` | 144 |
 | `66314(a)` | 142 |
 | `66329(a)` | 142 |
-| `CIV 714.3(b)` | 141 |
-| `66311.5(a)` | 141 |
 | `66326(d)` | 141 |
+| `66311.5(a)` | 141 |
+| `CIV 714.3(b)` | 141 |
 | `66326(a)` | 139 |
 | `66324(c)` | 126 |
 | `65585(b)` | 125 |
 | `66313(b)` | 124 |
 | `66313(m)` | 122 |
+| `66335(2)` | 120 |
 | `CIV 4740(a)` | 120 |
 | `CIV 4741(a)` | 120 |
-| `66335(2)` | 120 |
 | `65852.2(e)` | 93 |
 
 ## Most-cited full citations
@@ -148,12 +148,12 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66326(b)(2)(A)` | 145 |
 | `66326(b)(2)(B)` | 144 |
 | `66317(a)(2)(B)` | 143 |
+| `66321(b)(2)(A)` | 142 |
 | `65589.5(d)(5)` | 142 |
 | `66317(d)(1)` | 142 |
-| `66321(b)(2)(A)` | 142 |
 | `66321(b)(2)(B)` | 141 |
-| `66321(b)(2)` | 134 |
 | `66326(b)(1)` | 134 |
+| `66321(b)(2)` | 134 |
 | `66323(a)(1)(A)` | 132 |
 | `65583(c)(1)(A)` | 126 |
 | `66324(c)(1)` | 124 |
@@ -166,11 +166,11 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `65585(i)(1)(B)` | 56 |
 | `66321(b)(4)` | 51 |
 | `65589.5(f)(6)` | 49 |
-| `66323(a)(4)` | 45 |
 | `65852.2(e)(1)` | 45 |
 | `65852.2(c)(2)(C)` | 45 |
+| `66323(a)(4)` | 45 |
 | `65588(e)(4)(C)` | 44 |
-| `66314(d)(12)` | 40 |
 | `66323(a)(3)` | 40 |
+| `66314(d)(12)` | 40 |
 | `65588(e)(4)(C)(i)` | 38 |
 | `65852.2(e)(1)(A)` | 38 |
