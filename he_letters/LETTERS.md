@@ -4,9 +4,9 @@
 
 Search the text with GitHub's search box ("In this repository"), e.g. `"sites inventory" path:he_letters/letters`.
 
-Of letters with a finding, HCD found 1,261 out of compliance and 855 in compliance. Median 58 days from submittal to letter.
+Of letters with a finding, HCD found 1,261 out of compliance and 855 in compliance. Median 59 days from submittal to letter.
 
-Finding: HCD's in/out label in the letter's file name, else wording in the letter. Submittal date: the "received for review" date stated in the letter, else the matching submittal on the Download Tool.
+Finding: HCD's in/out label in the letter's file name, else wording in the letter. Submittal date: the first submittal after HCD's previous letter to the jurisdiction (from the Download Tool, else the date the letter names); revisions sent during a review don't restart it. Days: submittal to letter.
 
 ## By year
 
