@@ -8,8 +8,8 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Year | Letters |
 |---|---|
-| [undated](index/undated.md) | 3 |
-| [2026](index/2026.md) | 272 |
+| [undated](index/undated.md) | 2 |
+| [2026](index/2026.md) | 273 |
 | [2025](index/2025.md) | 460 |
 | [2024](index/2024.md) | 279 |
 | [2023](index/2023.md) | 185 |
