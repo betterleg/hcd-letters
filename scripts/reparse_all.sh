@@ -15,6 +15,7 @@ python3 scripts/requested_letters.py
 echo "== Review letters: findings, received/submittal dates, review time"
 ( cd he_letters
   python3 ../tests/test_parse_letters.py
+  python3 ../tests/test_link_submittals.py
   python3 parse_letters.py . letters_parsed.json
   python3 link_submittals.py letters_parsed.json housing_elements.csv letters_linked.json letters_analysis.csv )
 

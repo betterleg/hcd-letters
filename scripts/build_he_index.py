@@ -70,7 +70,8 @@ def main(root):
            f"Of letters with a finding, HCD found {found['Out']:,} out of compliance and {found['In']:,} in compliance. "
            + (f"Median {statistics.median(days):.0f} days from submittal to letter." if days else ""), "",
            "Finding: HCD's in/out label in the letter's file name, else wording in the letter. "
-           "Submittal date: the \"received for review\" date stated in the letter, else the matching submittal on the Download Tool.", "",
+           "Submittal date: the first submittal after HCD's previous letter to the jurisdiction (from the Download Tool, "
+           "else the date the letter names); revisions sent during a review don't restart it. Days: submittal to letter.", "",
            "## By year", "", "| Year | Letters |", "|---|---|"]
     out += [f"| [{y}](index/{y}.md) | {len(by_year[y])} |" for y in sorted(by_year, reverse=True)]
     out += ["", "## By submittal type", "", "| Type | Letters |", "|---|---|"]

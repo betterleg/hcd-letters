@@ -61,10 +61,10 @@
         keywords: keywords.map((i) => hau.dict.keyword[i]), pdf, text, cs, task, req, contact: !pdf && !req, cites: (cites || []).map((i) => CD[i]) };
     });
     const E = (he?.rows || []).map((r, idx) => {
-      const [date, jur, county, type, cycle, finding, submittal, days, pdf, text, hePdf, heType, contact, req, cites] = r;
+      const [date, jur, county, type, cycle, finding, submittal, days, pdf, text, hePdf, heType, contact, req, cites, limit, flags] = r;
       return { src: 'HE', idx, date, year: date.slice(0, 4), jur: he.dict.jur[jur], key: he.jurKey[jur], county: he.dict.county[county],
         type: he.dict.type[type], group: 'Housing element review', cycle, finding, submittal, days, pdf, text, hePdf, heType: he.dict.heType[heType], req,
-        contact: contact === 'contact', statutes: [], keywords: [], laws: [], cites: (cites || []).map((i) => CD[i]) };
+        contact: contact === 'contact', statutes: [], keywords: [], laws: [], cites: (cites || []).map((i) => CD[i]), limit: limit ?? null, flags: flags || [] };
     });
     KW_VARIANTS = hau?.keywordVariants || {};
     const C = (comp?.rows || []).map(([county, jurisdiction, cycle, recordType, reviewStatus, received, reviewed, status, key]) =>
@@ -575,9 +575,12 @@
     // Letters are rows of their own; a milestone links to the earliest letter that names it.
     const heAll = DATA.E.filter((r) => r.key === key);
     const letterOf = new Map(heAll.map((r) => [`${r.date}|${r.type}`, r]));
+    const FLAG_TEXT = { over_statutory_limit: 'over the statutory review period', tool_text_disagree: 'letter and Download Tool dates differ by more than a week',
+      no_tool_submittal: 'no Download Tool submittal; date from the letter' };
     const letters = he.map((r) => ({ event: 'HCD letter', date: r.date, letter: r, finding: r.finding, cycle: r.cycle,
-      reviewStart: r.submittal || '', reviewDays: r.days, what: `${r.type}${r.finding ? ` · ${r.finding}` : ''}`,
-      detail: r.submittal ? `Reviewed the submittal of ${fdate(r.submittal)}` : '' }))
+      reviewStart: r.submittal || '', reviewDays: r.days, limit: r.limit, flags: r.flags || [], what: `${r.type}${r.finding ? ` · ${r.finding}` : ''}`,
+      detail: [r.submittal ? `Review began with the submittal of ${fdate(r.submittal)}` : '', r.limit ? `${r.limit}-day review period` : '',
+        ...(r.flags || []).filter((f) => f !== 'over_statutory_limit').map((f) => FLAG_TEXT[f] || f)].filter(Boolean).join(' · ') }))
       .concat(hau.map((r) => ({ event: 'HAU letter', date: r.date, letter: r, cycle: '', what: r.type,
         detail: [r.laws.join('; '), r.statutes.length ? `${r.statutes.slice(0, 6).join(', ')}${r.statutes.length > 6 ? '…' : ''}` : ''].filter(Boolean).join(' · ') })));
     const seen = new Set();
@@ -599,7 +602,7 @@
     const node = el('div', { class: 'chart timeline' });
     const leg = el('div', { class: 'legend' });
     const tbl = el('div');
-    host.replaceChildren(leg, node, el('p', { class: 'note' }, 'Bars run from the submittal HCD reviewed to its letter; ticks mark 60 and 90 days after that submittal. Revisions sent during a review don’t restart it. Point at a mark or a row to find its match; click a mark to jump to its row.'), tbl);
+    host.replaceChildren(leg, node, el('p', { class: 'note' }, 'Bars run from the first submittal after HCD’s previous letter to the next letter; the tick marks the statutory review period (90 days for the first submittal of the cycle, 60 after). Revisions sent during a review don’t restart it. Point at a mark or a row to find its match; click a mark to jump to its row.'), tbl);
     const W = Math.max(340, node.clientWidth || host.clientWidth || 900), rowH = 28, m = { t: 8, r: 16, b: 26, l: Math.min(150, W * 0.3) };
     const H = m.t + m.b + lanes.length * rowH;
     const [d0, d1] = d3.extent(dates);
@@ -615,12 +618,12 @@
       const a = parse(r.reviewStart), b = parse(r.date), yy = y('HCD reviews');
       if (!a || !b) continue;
       rv.append('line').attr('class', 'mk bar').attr('data-i', r.i).attr('x1', x(a)).attr('x2', x(b)).attr('y1', yy).attr('y2', yy).attr('stroke', fcol(r.finding)).attr('stroke-width', 4).attr('stroke-opacity', 0.45);
-      for (const dd of [60, 90]) {
+      for (const dd of r.limit ? [r.limit] : [60, 90]) {
         const t = d3.utcDay.offset(a, dd);
         rv.append('line').attr('class', 'ref').attr('x1', x(t)).attr('x2', x(t)).attr('y1', yy - 7).attr('y2', yy + 7);
       }
     }
-    const tipLines = (mm) => [mm.what !== mm.event ? mm.what : '', mm.detail, mm.event === 'HCD letter' && mm.reviewDays != null ? `Review: ${mm.reviewDays} days from the submittal (${fdate(mm.reviewStart)})` : '',
+    const tipLines = (mm) => [mm.what !== mm.event ? mm.what : '', mm.detail, mm.event === 'HCD letter' && mm.reviewDays != null ? `Review: ${mm.reviewDays} days from the submittal (${fdate(mm.reviewStart)})${mm.limit ? `; limit ${mm.limit}` : ''}` : '',
       mm.phrase && mm.source === 'letter text' ? `“${mm.phrase.replace(/^…/, '')}”` : ''].filter(Boolean);
     const rowOf = (i) => tbl.querySelector(`tr[data-i="${i}"]`);
     const hl = (i, on) => {
@@ -657,7 +660,8 @@
         { key: 'detail', label: 'Detail', hideSm: true, render: (mm) => (mm.source === 'Download Tool' && mm.phrase ? el('span', {}, mm.detail || 'Document', ' ', link(mm.phrase, 'Open')) : mm.detail || '') },
         { key: 'cycle', label: 'Cycle', filter: 'select', hideSm: true, value: (mm) => mm.cycle || '' },
         { key: 'reviewDays', label: 'Days', num: true, value: (mm) => (mm.event === 'HCD letter' && mm.reviewDays != null ? mm.reviewDays : -1),
-          render: (mm) => (mm.event === 'HCD letter' && mm.reviewDays != null ? `${mm.reviewDays}` : ''), csv: (mm) => (mm.event === 'HCD letter' ? mm.reviewDays ?? '' : '') },
+          render: (mm) => (mm.event === 'HCD letter' && mm.reviewDays != null
+            ? (mm.limit && mm.reviewDays > mm.limit ? el('span', { class: 'over', title: `Over the ${mm.limit}-day statutory review period` }, `${mm.reviewDays} / ${mm.limit}`) : `${mm.reviewDays}`) : ''), csv: (mm) => (mm.event === 'HCD letter' ? mm.reviewDays ?? '' : '') },
         { key: 'read', label: 'Read', cls: 'read', value: () => '', render: (mm) => (mm.letter ? tdContent(readCell(mm.event.endsWith('letter') ? mm.letter : { ...mm.letter, hePdf: null })) : ''), csv: (mm) => mm.letter?.pdf || '' }] });
     tbl.addEventListener('mouseover', (e) => { const tr = e.target.closest('tr[data-i]'); if (tr && !tr.classList.contains('hl')) { tbl.querySelectorAll('tr.hl').forEach((t) => hl(t.dataset.i, false)); hl(tr.dataset.i, true); } });
     tbl.addEventListener('mouseleave', () => tbl.querySelectorAll('tr.hl').forEach((t) => hl(t.dataset.i, false)));

@@ -25,9 +25,9 @@ References to HCD's own earlier reviews ("described in HCD's May 3, 2023 review"
 are milestones of their own.
 
 milestones.csv columns: jurisdiction, county, cycle, date, event, detail, letter_date, letter_type, finding,
-review_start, review_days, source, phrase. For a letter, review_start is the submittal it reviewed (the
-latest "received for review" date, see parse_letters.py) and review_days counts from it, so revisions sent
-during a review never change the review period.
+review_start, review_days, source, phrase. For a letter, review_start is the start of its review round
+(the first submittal after HCD's previous letter, from the Download Tool when it has one, see link_submittals.py)
+and review_days counts from it, so revisions sent during a review never change the review period.
 """
 import csv
 import re

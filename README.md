@@ -26,7 +26,7 @@ Each job does the following:
 - **Trends:** HAU letters per quarter by letter type, filterable by housing law; housing element review letters per quarter by finding, filterable by cycle; and a table of housing laws by year.
 - **Statutes & keywords:** three rankings, each with a sparkline and a click-through to the letters: HCD's statute tags on HAU letters; **citations found in the letter text** of both sets, at section, subdivision or full depth; and HCD's keywords with spelling variants grouped. A checkbox groups the ADU Law sections (66310–66342) into one row.
 - **Compliance:** current status counts from HCD's Review and Compliance Report, 6th-cycle findings by year, days from submittal to letter against the 60- and 90-day review periods, and the jurisdictions out of compliance today.
-- **Jurisdiction lookup:** every HAU and review letter for a city or county, and a **timeline** of its housing element: each submittal received for review, revisions received during a review, adoption, meetings with HCD, the statutory due date and each HCD letter. Review periods run from the submittal HCD reviewed, with 60- and 90-day marks; revisions sent during a review don't restart it.
+- **Jurisdiction lookup:** every HAU and review letter for a city or county, and a **timeline** of its housing element: each submittal received for review, revisions received during a review, adoption, meetings with HCD, the statutory due date and each HCD letter. Each review runs from the first submittal after HCD's previous letter to the next letter, with a mark at the statutory review period (90 days for the jurisdiction's first submittal of the cycle, 60 after; Gov. Code 65585); revisions sent during a review don't restart it. Reviews over that period are shown in red.
 
 The **Cycles** menu in the header (6th + 7th cycles by default) applies to every view of housing element review letters. Every table can be sorted by clicking a column, filtered, and downloaded as CSV; the page address keeps the sort and filters, so a view can be shared. **Read** opens a letter's text on the site, with a find box, the search words highlighted, and HCD's standard sentences dimmed so its findings for that place stand out; the reader has its own shareable address too.
 
@@ -77,7 +77,7 @@ To search the text, use the website's Search tab, or GitHub's search box with "I
 | File | Contents |
 |---|---|
 | `letters.csv` | The dashboard's letters table. |
-| `letters_analysis.csv` | One row per letter, plus these added columns: `finding` (In or Out), `submittal_date`, `review_days`, `he_pdf_url` (the housing element reviewed), and more. |
+| `letters_analysis.csv` | One row per letter, plus these added columns: `finding` (In or Out), `submittal_date` and `review_days` (the review round: first submittal after HCD's previous letter, from the Download Tool when it has one), the letter-based `review_start_text`/`review_days_text` beside the Tool's `round_start_tool`, `review_limit_days` (90 or 60), `review_flags` (`over_statutory_limit`, `tool_text_disagree`, `no_tool_submittal`), `he_pdf_url` (the housing element reviewed: the round's first Download Tool submittal), and more. |
 | `housing_elements.csv` | Every housing element document on the Download Tool. |
 | `compliance.csv` | Each jurisdiction's current compliance status, from the Review and Compliance Report. |
 | `url_overrides.csv` | Corrected links for broken dashboard links; add rows as you find them. |

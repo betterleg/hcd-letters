@@ -296,3 +296,4 @@ a:hover, button.link:hover { text-decoration-color: var(--ink); }
 .t td.read { white-space: nowrap; }
 .t tr:not(.is-letter) td:not(.d) { color: var(--ink-2); }
 .t tr:not(.is-letter) td.read a, .t tr:not(.is-letter) td.read button { color: var(--ink-2); }
+.t .over { color: var(--out); font-weight: 600; }

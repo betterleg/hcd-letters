@@ -166,9 +166,11 @@ def build_he(cites):
             ("he_letters/" + tf) if tf else "", r.get("he_pdf_url", ""), D["heType"](r.get("he_type")),
             "contact" if r.get("status") == "contact_hcd" and not rq else "", rq,
             cites.get("he_letters/" + tf, []) if tf else [],
+            int(r["review_limit_days"]) if (r.get("review_limit_days") or "").isdigit() else None,
+            [f for f in (r.get("review_flags") or "").split("; ") if f],
         ])
     return {
-        "cols": ["date", "jur", "county", "type", "cycle", "finding", "submittal", "days", "pdf", "text", "hePdf", "heType", "contact", "req", "cites"],
+        "cols": ["date", "jur", "county", "type", "cycle", "finding", "submittal", "days", "pdf", "text", "hePdf", "heType", "contact", "req", "cites", "limit", "flags"],
         "dict": {k: d.values for k, d in D.items()}, "jurKey": [jkey(j) for j in D["jur"].values], "rows": out,
     }
 
