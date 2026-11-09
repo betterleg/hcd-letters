@@ -576,7 +576,7 @@
     const heAll = DATA.E.filter((r) => r.key === key);
     const letterOf = new Map(heAll.map((r) => [`${r.date}|${r.type}`, r]));
     const FLAG_TEXT = { over_statutory_limit: 'over the statutory review period', tool_text_disagree: 'letter and Download Tool dates differ by more than a week',
-      no_tool_submittal: 'no Download Tool submittal; date from the letter' };
+      no_tool_submittal: 'no Download Tool submittal; date from the letter', no_submittal_reviewed: 'reviews no submittal (no review period)' };
     const letters = he.map((r) => ({ event: 'HCD letter', date: r.date, letter: r, finding: r.finding, cycle: r.cycle,
       reviewStart: r.submittal || '', reviewDays: r.days, limit: r.limit, flags: r.flags || [], what: `${r.type}${r.finding ? ` · ${r.finding}` : ''}`,
       detail: [r.submittal ? `Review began with the submittal of ${fdate(r.submittal)}` : '', r.limit ? `${r.limit}-day review period` : '',
