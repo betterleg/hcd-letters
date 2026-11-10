@@ -270,7 +270,7 @@ CSTASK0010969,Failure to Properly Notice
 CSTASK0010969,Surplus Land Act
 CSTASK0010988,noncompliance
 CSTASK0010990,NOV
-CSTASK0011000,"LOI, Housing Element Law"
+CSTASK0011000,LOI
 CSTASK0011008,notice of violation
 CSTASK0011020,housing element law
 CSTASK0011024,non-submittal
@@ -1891,7 +1891,8 @@ CSTASK0026995,San Juan Capistrano Rezone LOI
 CSTASK0026996,Ventura County Rezone Successful Completion of Housing Element Rezones
 CSTASK0026998,Brisbane Rezone Corrective Action Letter
 CSTASK0027000,Brisbane Decertification of Housing Element Compliance
-CSTASK0027002,"housing element law, dos palos, notice of violation"
+CSTASK0027002,housing element law
+CSTASK0027002,notice of violation
 CSTASK0027041, group R occupancy change
 CSTASK0027041,parking
 CSTASK0027041,size.
@@ -1938,7 +1939,18 @@ CSTASK0027471,Downtown Parking Lots
 CSTASK0027480,SB 79
 CSTASK0027530,historic resources
 CSTASK0027530,SB 79 Ordinance
-CSTASK0027553,"San Diego Association of Governments, SANDAG, TOD zone map, zoned for, principally or conditionally permit, wetland, habitat preserve, rent controll, path of travel, walking path, local capacity,  low resource area, temporarily exclude"
+CSTASK0027553,habitat preserve
+CSTASK0027553,local capacity
+CSTASK0027553,low resource area
+CSTASK0027553,path of travel
+CSTASK0027553,principally or conditionally permitted
+CSTASK0027553,rent controll
+CSTASK0027553,San Diego Association of Governments
+CSTASK0027553,temporarily exclude
+CSTASK0027553,TOD zone map
+CSTASK0027553,walking path
+CSTASK0027553,wetland
+CSTASK0027553,zoned for
 CSTASK0027569,Substantially Compliant
 CSTASK0027591,by-right
 CSTASK0027591,Del Mar Rezone Corrective Action Letter

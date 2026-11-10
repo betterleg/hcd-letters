@@ -1,6 +1,6 @@
 # Standard language in HCD's HAU letters
 
-From 1,273 letters with text and 19,223 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 1,274 letters with text and 19,239 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 
@@ -296,7 +296,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > The <JTYPE> has two options … <N> The <JTYPE> can either **<N>)** amend the Ordinance to comply with State ADU Law <N> or **<N>)** adopt the Ordinance without changes and include findings in its resolution ~~adopting~~ **accompanying** the Ordinance that explain the … to take either course of ~~action and bring~~ **action, or if HCD finds that** the **newly adopted** Ordinance ~~into~~ **remains out of** compliance with State ADU ~~Law,~~ **Law despite the <JTYPE> findings and explanations,** HCD must notify the <JTYPE> … of State ADU Law. <N>
 
-### Group 25: 121 letters (10%), 2024–2026
+### Group 25: 121 letters (9%), 2024–2026
 
 > The purpose of this letter is to inquire about the status of the <JTYPE> of <JUR> (<JTYPE>) 6th Cycle Housing Element implementation program related to sites to accommodate the Regional Housing Needs Allocation (RHNA) pursuant to Government Code section 65585, subdivision (i). The California Department of Housing and Community Development (HCD) sent the <JTYPE> a letter on <DATE>, finding the <JTYPE> housing element in substantial compliance with Housing Element Law. <N> This was based on, among other reasons, the <JTYPE> commitment to complete Program <N> (Housing Sites Inventory) to allow by-right processing of sites identified in previous housing elements pursuant to Government Code section 65583.2, subdivision (c).
 

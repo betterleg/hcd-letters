@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0021440",
+  "case_number": "HAU0001918",
+  "letter_date": "2025-07-25",
+  "jurisdiction": "Lompoc",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580",
+  "n_statutes": "1",
+  "keywords": "program completeness",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/66a4ff003bec53106445e40864e45a91",
+  "hcd_letter": "Lompoc Technical Assistance Letter 07/25/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/66a4ff003bec53106445e40864e45a91",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 318251,
+  "text_chars": 20911,
+  "text_empty": false
+}

@@ -1,9 +1,9 @@
 raw,clean,rule,letters
 ADU Ordinance,ADU ordinance,auto,119
 housing element,Housing element,auto,119
-housing element law,Housing element,auto,74
+housing element law,Housing element,auto,75
 Repeal Request,Repeal Request,auto,40
-LOI,Letter of inquiry,auto,27
+LOI,Letter of inquiry,auto,28
 noncompliance,Noncompliance,auto,26
 ADU,ADU,auto,23
 Builder's Remedy,Builder's remedy,auto,19
@@ -13,13 +13,13 @@ objective standards,Objective standards,auto,13
 replacement,Replacement,auto,13
 No net loss,No net loss,auto,10
 density bonus,Density bonus,auto,9
-"LOI, Housing Element Law",Letter of inquiry | Housing element,auto,9
 owner occupancy,Owner occupancy,auto,9
 parking,Parking,auto,9
 Permit Streamlining Act,Permit Streamlining Act,auto,9
 Preliminary application,Preliminary application,auto,9
 Unit Allowance,Unit Allowance,auto,9
 affirmatively furthering fair housing,Affirmatively furthering fair housing,auto,8
+"LOI, Housing Element Law",Letter of inquiry | Housing element,auto,8
 moratorium,Moratorium,auto,8
 findings of denial,Findings of denial,auto,7
 ordinance review,Ordinance review,auto,7
@@ -30,6 +30,7 @@ AB 2011,AB 2011,auto,6
 group homes,Group homes,auto,6
 housing accountability act,Housing Accountability Act,auto,6
 major transit stop,Major transit stop,auto,6
+notice of violation,Notice of violation,auto,6
 Ordinance,Ordinance,auto,6
 SB 35,SB 35,auto,6
 SDBL,Density bonus,auto,6
@@ -43,7 +44,6 @@ floor area ratio,Floor area ratio,auto,5
 HAA,Housing Accountability Act,auto,5
 height,Height,auto,5
 housing element programs,Housing element program,auto,5
-notice of violation,Notice of violation,auto,5
 SB 79 Ordinance,SB 79 Ordinance,auto,5
 Sprinklers,Sprinklers,auto,5
 use by right,Use by right,auto,5
@@ -114,6 +114,7 @@ Unlicensed Group Homes,Unlicensed Group Homes,auto,3
 unlimited density,Unlimited density,auto,3
 voter initiative,Voter initiative,auto,3
 waivers,Waiver,auto,3
+zoned for,Zoned for,auto,3
 30-year deed restriction,30-year deed restriction,auto,2
 731 Harrison Ave Housing Project,731 Harrison Ave Housing Project,auto,2
 800 square feet,800 square feet,auto,2
@@ -172,6 +173,7 @@ Latinos Unidos del Valle de Napa y Solano v. County of Napa,Latinos Unidos del V
 LCP,LCP,auto,2
 LEED,LEED,auto,2
 lot split,Lot split,auto,2
+low resource area,Low resource area,auto,2
 maximum unit size,Maximum unit size,auto,2
 measure U,measure U,auto,2
 Minimum density,Minimum density,auto,2
@@ -222,9 +224,9 @@ Visibility,Visibility,auto,2
 voter approval,Voter approval,auto,2
 waiver,Waiver,auto,2
 West Sacramento,West Sacramento,auto,2
+wetland,Wetland,auto,2
 Winters Rezone TA letter,Winters Rezone TA letter,auto,2
 Wollmer v. City of Berkeley,Wollmer v. City of Berkeley,auto,2
-zoned for,Zoned for,auto,2
 (d)(5),(d)(5),auto,1
 1-22 Mallard,1-22 Mallard,auto,1
 1/2 mile,1/2 mile,auto,1
@@ -522,6 +524,7 @@ group R occupancy change,group R occupancy change,auto,1
 growth cap,Growth cap,auto,1
 growth management program,Growth management program,auto,1
 habitable,Habitable,auto,1
+habitat preserve,Habitat preserve,auto,1
 half-story,Half-story,auto,1
 Hanford NOV,Hanford NOV,auto,1
 harmonize,Harmonize,auto,1
@@ -554,7 +557,6 @@ housing crisis act no net loss,Housing crisis act no net loss,auto,1
 Housing Element Backdate,Housing Element Backdate,auto,1
 Housing Element By-Right Site,Housing Element By-Right Site,auto,1
 housing element implementation,Housing element implementation,auto,1
-"housing element law, dos palos, notice of violation",Housing element | Dos palos | Notice of violation,auto,1
 housing element past due,Housing element past due,auto,1
 Housing element policies,Housing element policies,auto,1
 Housing Element Rezones,Housing element rezone,auto,1
@@ -613,6 +615,7 @@ limitation on housing development,Limitation on housing development,auto,1
 litter management,Litter management,auto,1
 Living Area,Living Area,auto,1
 LLC,LLC,auto,1
+local capacity,Local capacity,auto,1
 Local Coastal Program,Local Coastal Program,auto,1
 local development standards.,Local development standards,auto,1
 Local historic registers,Local historic registers,auto,1
@@ -631,7 +634,6 @@ Los Angeles,Los Angeles,auto,1
 LOS Standard,LOS Standard,auto,1
 Lot Size,Lot Size,auto,1
 lot splits,Lot split,auto,1
-low resource area,Low resource area,auto,1
 low-barrier navigation center,Low-barrier navigation center,auto,1
 Low-Income Housing Tax Credit Programs,Low-Income Housing Tax Credit Programs,auto,1
 lower income households,Lower income households,auto,1
@@ -732,6 +734,7 @@ parking lot,Parking lot,auto,1
 Parking Requirements,Parking Requirements,auto,1
 Parkland Requirement,Parkland Requirement,auto,1
 Pasadena Rezone LOI,Pasadena Rezone LOI,auto,1
+path of travel,Path of travel,auto,1
 pathway to compliance,Pathway to compliance,auto,1
 Patterson NOV,Patterson NOV,auto,1
 penryn,Penryn,auto,1
@@ -767,6 +770,7 @@ PPR,PPR,auto,1
 Prelim Vesting,Prelim Vesting,auto,1
 preliminary application vesting,Preliminary application vesting,auto,1
 preservation,Preservation,auto,1
+principally or conditionally permitted,Principally or conditionally permitted,auto,1
 priority sewer,Priority sewer,auto,1
 priority sewer service,Priority sewer service,auto,1
 program completeness,Program completeness,auto,1
@@ -805,6 +809,7 @@ regulatory agreement,Regulatory agreement,auto,1
 religious use building,Religious use building,auto,1
 relocation benefits,Relocation benefits,auto,1
 rent control,Rent control,auto,1
+rent controll,Rent controll,auto,1
 Rent Limits,Rent Limits,auto,1
 rent stabilization,Rent stabilization,auto,1
 rent stabilization ordinance,Rent stabilization ordinance,auto,1
@@ -855,7 +860,7 @@ Saint Helena Recertification Letter,Saint Helena Recertification Letter,auto,1
 San Anselmo HEI LOI,San Anselmo HEI LOI,auto,1
 San Clemente Rezone LOI,San Clemente Rezone LOI,auto,1
 San Clemente Rezone TA Letter,San Clemente Rezone TA Letter,auto,1
-"San Diego Association of Governments, SANDAG, TOD zone map, zoned for, principally or conditionally permit, wetland, habitat preserve, rent controll, path of travel, walking path, local capacity,  low resource area, temporarily exclude",San Diego Association of Governments | SANDAG | TOD zone map | Zoned for | Principally or conditionally permit | Wetland | Habitat preserve | Rent controll | Path of travel | Walking path | Local capacity | Low resource area | Temporarily exclude,auto,1
+San Diego Association of Governments,San Diego Association of Governments,auto,1
 San Diego County HEI LOI,San Diego County HEI LOI,auto,1
 San Dimas Rezone LOI,San Dimas Rezone LOI,auto,1
 San Fernando Rezone LOI,San Fernando Rezone LOI,auto,1
@@ -959,9 +964,11 @@ tax credits,Tax credits,auto,1
 Tax Equity and Fiscal Responsibility Act,Tax Equity and Fiscal Responsibility Act,auto,1
 "TEFRA, major development review",TEFRA | Major development review,auto,1
 Temple City Rezone LOI,Temple City Rezone LOI,auto,1
+temporarily exclude,Temporarily exclude,auto,1
 term of affordability,Term of affordability,auto,1
 Termination of Exclusive Negotiation Agreement (ENA),Termination of Exclusive Negotiation Agreement (ENA),auto,1
 Tiburon Rezone LOI,Tiburon Rezone LOI,auto,1
+TOD zone map,TOD zone map,auto,1
 tolled timelines,Tolled timelines,auto,1
 Total vs. Overall,Total vs. Overall,auto,1
 Tracy,Tracy,auto,1
@@ -1002,12 +1009,12 @@ Vista rezone LOI,Vista rezone LOI,auto,1
 waiver and concessions,Waiver and concessions,auto,1
 waivers for non-residential components,Waivers for non-residential components,auto,1
 walking distance,Walking distance,auto,1
+walking path,Walking path,auto,1
 Walnut Creek Rezone LOI,Walnut Creek Rezone LOI,auto,1
 warehouse,Warehouse,auto,1
 Wasco Rezone LOI,Wasco Rezone LOI,auto,1
 water service,Water service,auto,1
 West Sacramento Rezone LOI,West Sacramento Rezone LOI,auto,1
-wetland,Wetland,auto,1
 wetlands,Wetland,auto,1
 Wheatland HEI LOI,Wheatland HEI LOI,auto,1
 Whittier Rezone LOI,Whittier Rezone LOI,auto,1
