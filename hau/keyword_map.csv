@@ -108,6 +108,7 @@ sewer,Sewer,auto,3
 single housekeeping unit,Single housekeeping unit,auto,3
 Site Suitability Analysis,Site Suitability Analysis,auto,3
 Substantially Compliant,Substantially Compliant,auto,3
+TEFRA,TEFRA,auto,3
 TOD Alternative Plan,TOD Alternative Plan,auto,3
 Unit combination,Unit combination,auto,3
 Unlicensed Group Homes,Unlicensed Group Homes,auto,3
@@ -213,7 +214,6 @@ street side yard setback,Street side yard setback,auto,2
 subdivision,Subdivision,auto,2
 subterranean third story,Subterranean third story,auto,2
 supportive housing,Supportive housing,auto,2
-TEFRA,TEFRA,auto,2
 Temporary exclusion ordinance,Temporary exclusion ordinance,auto,2
 transitional housing,Transitional housing,auto,2
 tribal consultation,Tribal consultation,auto,2
@@ -962,7 +962,6 @@ Support letter,Support letter,auto,1
 supportive housing in housing element law,Supportive housing in housing element law,auto,1
 tax credits,Tax credits,auto,1
 Tax Equity and Fiscal Responsibility Act,Tax Equity and Fiscal Responsibility Act,auto,1
-"TEFRA, major development review",TEFRA | Major development review,auto,1
 Temple City Rezone LOI,Temple City Rezone LOI,auto,1
 temporarily exclude,Temporarily exclude,auto,1
 term of affordability,Term of affordability,auto,1
