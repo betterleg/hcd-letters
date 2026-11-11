@@ -1,6 +1,6 @@
 # What HCD requires: 6th-cycle housing element review letters
 
-From 2,021 6th-cycle review letters with text (1,215 Out, 770 In), by `scripts/letter_requirements.py`. Each finding is filed under the statutory requirement HCD quotes above it and tagged with HCD's topic label. *Round* is the letter's place among the jurisdiction's 6th-cycle reviews, counting every review on the dashboard. Data: [`requirements.csv`](requirements.csv) (one row per finding), [`letter_outcomes.csv`](letter_outcomes.csv) (one row per letter), [`programs.csv`](programs.csv). The CSVs also cover 43 7th-cycle letters; this report waits until the 7th cycle has enough letters to compare.
+From 2,020 6th-cycle review letters with text (1,215 Out, 769 In), by `scripts/letter_requirements.py`. Each finding is filed under the statutory requirement HCD quotes above it and tagged with HCD's topic label. *Round* is the letter's place among the jurisdiction's 6th-cycle reviews, counting every review on the dashboard. Data: [`requirements.csv`](requirements.csv) (one row per finding), [`letter_outcomes.csv`](letter_outcomes.csv) (one row per letter), [`programs.csv`](programs.csv). The CSVs also cover 43 7th-cycle letters; this report waits until the 7th cycle has enough letters to compare.
 
 ## How many reviews it takes
 
@@ -8,9 +8,9 @@ From 2,021 6th-cycle review letters with text (1,215 Out, 770 In), by `scripts/l
 
 | Review | Jurisdictions | Share |
 |---|---|---|
-| 1 | 24 | 5% |
+| 1 | 23 | 5% |
 | 2 | 103 | 21% |
-| 3 | 184 | 37% |
+| 3 | 185 | 37% |
 | 4 | 113 | 23% |
 | 5 | 44 | 9% |
 | 6 | 33 | 7% |
@@ -19,15 +19,15 @@ From 2,021 6th-cycle review letters with text (1,215 Out, 770 In), by `scripts/l
 
 Share of all letters in each round, grouped by HCD's finding. "Revisions needed" letters carry the appendix of findings; the AB 1398 letters find the element meets the law but hold compliance until rezoning is done.
 
-| Kind of letter | 1st (512) | 2nd (516) | 3rd (448) | 4th+ (545) |
+| Kind of letter | 1st (512) | 2nd (516) | 3rd (448) | 4th+ (544) |
 |---|---|---|---|---|
-| **In compliance** | **5%** | **24%** | **52%** | **72%** |
-| &nbsp;&nbsp;&nbsp;Adopted, substantial compliance | 1% | 11% | 23% | 52% |
+| **In compliance** | **4%** | **24%** | **52%** | **72%** |
+| &nbsp;&nbsp;&nbsp;Adopted, substantial compliance | 1% | 11% | 23% | 51% |
 | &nbsp;&nbsp;&nbsp;Adopted, full compliance | 0% | 7% | 16% | 10% |
 | &nbsp;&nbsp;&nbsp;Draft meets requirements (adopt next) | 0% | 3% | 11% | 7% |
 | &nbsp;&nbsp;&nbsp;Other | 4% | 3% | 2% | 3% |
-| **Out of compliance** | **95%** | **73%** | **46%** | **27%** |
-| &nbsp;&nbsp;&nbsp;Revisions needed | 92% | 71% | 36% | 11% |
+| **Out of compliance** | **95%** | **73%** | **45%** | **27%** |
+| &nbsp;&nbsp;&nbsp;Revisions needed | 92% | 71% | 35% | 11% |
 | &nbsp;&nbsp;&nbsp;Meets requirements, rezoning not done (AB 1398) | 0% | 2% | 8% | 11% |
 | &nbsp;&nbsp;&nbsp;Compliance revoked | 0% | 0% | 1% | 2% |
 | &nbsp;&nbsp;&nbsp;Rezoning ordinance reviewed, still short | 0% | 0% | 1% | 1% |
@@ -39,15 +39,15 @@ Share of all letters in each round, grouped by HCD's finding. "Revisions needed"
 
 Share of "revisions needed" letters in each round where HCD wrote at least 25 words of its own (not standard sentences that appear in 25+ letters) under the requirement. The requirement is the statute HCD quotes as the heading of each finding.
 
-| Requirement | Code | 1st (469) | 2nd (365) | 3rd (160) | 4th+ (60) |
+| Requirement | Code | 1st (470) | 2nd (365) | 3rd (159) | 4th+ (60) |
 |---|---|---|---|---|---|
 | Program: adequate sites / rezoning | 65583(c)(1) | 79% | 73% | 70% | 70% |
-| Affirmatively furthering fair housing (programs) | 65583(c)(5) | 68% | 74% | 71% | 72% |
+| Affirmatively furthering fair housing (programs) | 65583(c)(5) | 68% | 74% | 70% | 72% |
 | Sites inventory and analysis | 65583(a)(3) | 89% | 61% | 40% | 20% |
 | Affirmatively furthering fair housing (assessment) | 65583(c)(10) | 85% | 57% | 39% | 17% |
 | Governmental constraints | 65583(a)(5) | 86% | 53% | 28% | 10% |
 | Public participation | 65583(c)(9) | 67% | 35% | 21% | 15% |
-| Program: remove governmental and nongovernmental constraints | 65583(c)(3) | 41% | 52% | 48% | 37% |
+| Program: remove governmental and nongovernmental constraints | 65583(c)(3) | 41% | 52% | 47% | 37% |
 | Programs: schedule of actions, timelines and objectives | 65583(c) | 62% | 33% | 16% | 13% |
 | Program: assist housing for lower- and moderate-income households | 65583(c)(2) | 60% | 35% | 15% | 8% |
 | Special housing needs | 65583(a)(7) | 60% | 17% | 9% | 2% |
@@ -68,11 +68,11 @@ HCD's topic labels within the findings, counted when HCD wrote 25+ words of its 
 
 | Issue | 1st | 2nd | 3rd | 4th+ | Staying power |
 |---|---|---|---|---|---|
-| Nonvacant sites | 65% | 56% | 49% | 48% | 0.75 |
-| Realistic capacity | 70% | 44% | 31% | 18% | 0.40 |
+| Nonvacant sites | 65% | 56% | 49% | 48% | 0.76 |
+| Realistic capacity | 69% | 44% | 31% | 18% | 0.40 |
 | Specific programs | 57% | 49% | 38% | 38% | 0.66 |
-| Processing and permit procedures | 64% | 39% | 28% | 13% | 0.38 |
-| Zoning for a variety of housing types / shelters | 67% | 33% | 24% | 22% | 0.35 |
+| Processing and permit procedures | 64% | 39% | 28% | 13% | 0.37 |
+| Zoning for a variety of housing types / shelters | 67% | 32% | 24% | 22% | 0.35 |
 | Land use controls | 59% | 35% | 22% | 13% | 0.33 |
 | Housing for persons with disabilities | 51% | 33% | 19% | 8% | 0.31 |
 | Small and large sites | 53% | 27% | 19% | 13% | 0.34 |
@@ -80,37 +80,37 @@ HCD's topic labels within the findings, counted when HCD wrote 25+ words of its 
 | AFFH: goals, actions, metrics and milestones | 32% | 35% | 31% | 45% | 1.10 |
 | AFFH: disproportionate needs and displacement | 48% | 25% | 13% | 12% | 0.26 |
 | ADUs | 49% | 24% | 14% | 2% | 0.22 |
-| AFFH: local data, knowledge and other factors | 42% | 25% | 12% | 7% | 0.26 |
+| AFFH: local data, knowledge and other factors | 42% | 25% | 13% | 7% | 0.26 |
 | Environmental constraints | 45% | 18% | 12% | 8% | 0.24 |
-| Infrastructure | 45% | 21% | 6% | 7% | 0.14 |
+| Infrastructure | 45% | 21% | 6% | 7% | 0.13 |
 | AFFH: fair housing enforcement and outreach | 37% | 20% | 6% | 8% | 0.17 |
 | AFFH: contributing factors | 31% | 23% | 12% | 12% | 0.38 |
-| Progress in meeting the RHNA | 30% | 18% | 11% | 2% | 0.27 |
+| Progress in meeting the RHNA | 30% | 18% | 10% | 2% | 0.26 |
 | Extremely low-income households | 39% | 9% | 2% | 0% | 0.03 |
 | AFFH: access to opportunity | 30% | 16% | 8% | 3% | 0.21 |
 | Fees and exactions | 33% | 13% | 4% | 2% | 0.11 |
 | AFFH: R/ECAPs and areas of affluence | 24% | 15% | 7% | 8% | 0.30 |
-| Programs (general) | 7% | 21% | 28% | 27% | 3.82 |
+| Programs (general) | 7% | 21% | 28% | 27% | 3.74 |
 | AFFH: integration and segregation | 24% | 13% | 4% | 5% | 0.19 |
-| Electronic sites inventory | 10% | 15% | 22% | 20% | 2.18 |
+| Electronic sites inventory | 10% | 16% | 21% | 20% | 2.15 |
 | Publicly owned sites | 19% | 11% | 7% | 10% | 0.41 |
-| Housing Conditions | 22% | 6% | 3% | 0% | 0.11 |
+| Housing Conditions | 21% | 6% | 3% | 0% | 0.11 |
 | Identified Sites and Affirmatively Furthering Fair Housing (AFFH) | 14% | 12% | 7% | 10% | 0.55 |
 | On/off-site improvements | 21% | 6% | 1% | 0% | 0.04 |
 | Zoning and fees transparency | 22% | 4% | 0% | 0% | 0.00 |
 | Employee Housing | 21% | 3% | 1% | 0% | 0.02 |
-| Special Housing Needs | 16% | 5% | 2% | 0% | 0.12 |
+| Special Housing Needs | 16% | 5% | 3% | 0% | 0.12 |
 | Farmworkers | 18% | 2% | 0% | 0% | 0.00 |
 | Transitional and Supportive Housing | 13% | 5% | 1% | 0% | 0.07 |
-| Sites identified in prior planning periods | 14% | 4% | 1% | 0% | 0.06 |
-| Reasonable Accommodation | 13% | 5% | 2% | 0% | 0.10 |
+| Sites identified in prior planning periods | 14% | 4% | 1% | 0% | 0.07 |
+| Reasonable Accommodation | 13% | 5% | 2% | 0% | 0.11 |
 | Design Review | 10% | 7% | 4% | 5% | 0.42 |
 | Zoning for Lower-Income Households | 11% | 5% | 4% | 2% | 0.28 |
 | Replacement housing | 15% | 2% | 0% | 0% | 0.00 |
 
 ## The last hurdles before compliance
 
-For the 455 jurisdictions that reached an In letter after at least one "revisions needed" letter: what HCD still raised in that last letter before the In.
+For the 456 jurisdictions that reached an In letter after at least one "revisions needed" letter: what HCD still raised in that last letter before the In.
 
 | Requirement | Share of last letters |
 |---|---|
@@ -129,7 +129,7 @@ For the 455 jurisdictions that reached an In letter after at least one "revision
 |---|---|
 | Nonvacant sites | 47% |
 | Specific programs | 44% |
-| AFFH: goals, actions, metrics and milestones | 35% |
+| AFFH: goals, actions, metrics and milestones | 34% |
 | Realistic capacity | 34% |
 | Processing and permit procedures | 33% |
 | Land use controls | 30% |
@@ -151,12 +151,12 @@ Share of "revisions needed" letters whose findings mention each commitment (keyw
 |---|---|---|---|---|---|---|
 | AFFH: geographic targeting, metrics and milestones | 85% | 69% | 62% | 76% | 73% | 62% |
 | AFFH: anti-displacement / tenant protections | 75% | 68% | 77% | 65% | 57% | 40% |
-| Specific timelines (dates, not 'ongoing') | 71% | 66% | 72% | 64% | 56% | 53% |
-| AFFH: housing mobility / higher-opportunity areas | 72% | 60% | 58% | 61% | 62% | 60% |
-| Rezone to meet the RHNA shortfall by a date | 84% | 58% | 68% | 47% | 56% | 60% |
-| AFFH: place-based revitalization | 70% | 57% | 58% | 62% | 50% | 37% |
+| Specific timelines (dates, not 'ongoing') | 71% | 66% | 73% | 64% | 55% | 53% |
+| AFFH: housing mobility / higher-opportunity areas | 72% | 60% | 58% | 60% | 62% | 60% |
+| Rezone to meet the RHNA shortfall by a date | 84% | 58% | 68% | 47% | 55% | 60% |
+| AFFH: place-based revitalization | 70% | 57% | 58% | 61% | 50% | 37% |
 | Emergency shelters: zoning, capacity, standards (§ 65583(a)(4)) | 59% | 56% | 75% | 43% | 38% | 27% |
-| Group homes / residential care for 7+ persons | 48% | 48% | 67% | 39% | 24% | 13% |
+| Group homes / residential care for 7+ persons | 48% | 48% | 66% | 39% | 24% | 13% |
 | Parking standards | 44% | 43% | 55% | 38% | 25% | 15% |
 | Permit processing / streamlining (incl. SB 35) | 42% | 39% | 55% | 30% | 24% | 13% |
 | Reasonable accommodation procedures | 39% | 36% | 52% | 30% | 13% | 10% |
@@ -183,9 +183,9 @@ Share of "revisions needed" letters whose findings mention each commitment (keyw
 
 | Round | Revisions-needed letters | Median words of findings | Median words written for the letter |
 |---|---|---|---|
-| 1st | 469 | 2,875 | 2,264 |
+| 1st | 470 | 2,875 | 2,264 |
 | 2nd | 365 | 1,380 | 1,101 |
-| 3rd | 160 | 1,004 | 812 |
+| 3rd | 159 | 1,004 | 812 |
 | 4th+ | 60 | 740 | 596 |
 
 ## Programs HCD names when it finds compliance

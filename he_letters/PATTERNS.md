@@ -38,8 +38,8 @@ From 2,160 letters with text and 52,512 paragraphs of 20+ words, by `scripts/let
 | The number of new housing units approved … | 16 |
 | The number of housing units for persons … | 16 |
 | An analysis of existing assisted housing developments … | 16 |
-| The number of existing residential dwelling units … | 15 |
 | The number of residential dwelling units for … | 15 |
+| The number of existing residential dwelling units … | 15 |
 | Assist in the development of adequate housing … | 11 |
 | The housing element shall include programs to … | 10 |
 

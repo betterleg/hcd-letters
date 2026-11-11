@@ -60,9 +60,9 @@ Finding: HCD's in/out label in the letter's file name, else wording in the lette
 
 | Cycle | Letters |
 |---|---|
-| 6 | 2081 |
+| 6 | 2080 |
 | (not listed) | 2006 |
-| 5 | 1434 |
+| 5 | 1435 |
 | 7 | 43 |
 | 4 | 38 |
 | 2 | 1 |
