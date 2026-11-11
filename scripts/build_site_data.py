@@ -17,6 +17,7 @@ Outputs:
                              sentences, so the letter reader can dim them
   site/data/milestones.json  jurisdiction timelines (he_letters/milestones.csv): submittals, revisions, adoption,
                              meetings, due dates, HCD letters with the review period from the submittal
+  site/data/pathways.json   each jurisdiction's 6th/7th cycle path: first submittal, compliance, periods without a compliant element (he_letters/pathways.csv)
   site/data/citations.json   the citation strings that rows' "cites" lists point to (from */citations.csv)
   site/data/meta.json        build time, repo name, counts
 Rows are arrays with value dictionaries to keep the files small; app.js unpacks them.
@@ -276,6 +277,29 @@ def build_milestones():
             "dict": {k: d.values for k, d in D.items()}, "jurKey": [jkey(j) for j in D["jur"].values], "rows": out}
 
 
+def build_pathways():
+    """Cycle paths: he_letters/pathways.csv (scripts/cycle_pathways.py), one row per jurisdiction and cycle."""
+    rows = read("he_letters/pathways.csv")
+    if not rows:
+        return None
+    num = lambda v: int(v) if (v or "").lstrip("-").isdigit() else None
+    D = {k: Dict() for k in ("jur", "county", "status", "report", "src")}
+    out = []
+    for r in rows:
+        out.append([D["jur"](r["jurisdiction"]), D["county"](r.get("county")), r["cycle"], r.get("statutory_due_date", ""),
+                    r.get("first_submittal", ""), r.get("adopted_date", ""), D["src"](r.get("adopted_source")),
+                    r.get("compliant_date", ""), D["src"](r.get("compliant_source")),
+                    num(r.get("days_to_adoption")), num(r.get("days_to_compliance")), num(r.get("days_late")),
+                    num(r.get("submittals")), num(r.get("hcd_letters")), num(r.get("out_letters")),
+                    r.get("path", ""), r.get("path_dates", ""), D["status"](r.get("status_now")), D["report"](r.get("report_status")),
+                    r.get("exposure_windows", ""), num(r.get("exposure_days")), r.get("exposed_now", ""), r.get("within_120_days", ""),
+                    r.get("rezone_deadline", ""), r.get("due_source", ""), r.get("submittal_dates", "")])
+    return {"cols": ["jur", "county", "cycle", "due", "start", "adopted", "adoptedSrc", "compliant", "compliantSrc", "toAdopt",
+                     "toComply", "late", "submittals", "letters", "outs", "path", "pathDates", "status", "report",
+                     "windows", "exposure", "exposedNow", "within120", "rezone", "dueSrc", "subDates"],
+            "dict": {k: d.values for k, d in D.items()}, "jurKey": [jkey(j) for j in D["jur"].values], "rows": out}
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     cites = load_cites()
@@ -286,9 +310,9 @@ def main():
         "repo": os.environ.get("GITHUB_REPOSITORY", "betterleg/hcd-letters"),
         "counts": {"hau": len(hau["rows"]), "he": len(he["rows"]), "compliance": len(comp["rows"])},
     }
-    reqs, lang, ms = build_requirements(), build_language(hau, he), build_milestones()
+    reqs, lang, ms, paths = build_requirements(), build_language(hau, he), build_milestones(), build_pathways()
     for name, obj in (("hau", hau), ("he", he), ("compliance", comp), ("citations", cit), ("requirements", reqs),
-                      ("language", lang), ("milestones", ms), ("meta", meta)):
+                      ("language", lang), ("milestones", ms), ("pathways", paths), ("meta", meta)):
         if obj is None:
             continue
         p = OUT / f"{name}.json"

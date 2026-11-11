@@ -9,5 +9,6 @@ for r in hau hau_statutes hau_keywords hau_laws; do
   node decode_report.js --in "${r}_raw.json"
 done
 python3 merge_hau.py
+python3 ../scripts/apply_corrections.py hau   # known mistakes in HCD's tables (corrections.csv)
 echo
 echo "Next: python3 extract_letters.py --dry-run   (downloads the letter PDFs as text)"

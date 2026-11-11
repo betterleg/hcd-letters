@@ -9,5 +9,6 @@ for r in letters housing_elements compliance; do
   node scrape_report.js --report "$r"
   node decode_report.js --in "${r}_raw.json"
 done
+python3 ../scripts/apply_corrections.py he   # known mistakes in HCD's tables (corrections.csv)
 echo
 echo "Next: python3 extract_letters.py --dry-run, then parse_letters.py and link_submittals.py (see README)"

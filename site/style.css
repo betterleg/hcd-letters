@@ -297,3 +297,26 @@ a:hover, button.link:hover { text-decoration-color: var(--ink); }
 .t tr:not(.is-letter) td:not(.d) { color: var(--ink-2); }
 .t tr:not(.is-letter) td.read a, .t tr:not(.is-letter) td.read button { color: var(--ink-2); }
 .t .over { color: var(--out); font-weight: 600; }
+
+/* Cycle paths */
+.cycle-sum { margin: 2px 0; font-size: 13.5px; }
+.cycle-label { font-size: 11px; fill: var(--ink-2); }
+.t.sum { width: auto; margin-bottom: 10px; }
+.t.sum td, .t.sum th { white-space: nowrap; }
+.t td.path { white-space: nowrap; }
+.strip-wrap svg { display: inline-block; vertical-align: -2px; }
+.chart.timeline .nocomp { fill: var(--out); fill-opacity: .5; }
+.chart.timeline .nocomp.unknown { fill-opacity: .18; }
+.cycle-sum .exposed { color: var(--out); }
+.chart .due { stroke: var(--ink); stroke-width: 1.5; }
+.swim { max-height: 640px; overflow-y: auto; border-bottom: 1px solid var(--rule); }
+.swim svg, .swim-head svg { display: block; width: 100%; height: auto; }
+.swim-head text, .swim text { fill: var(--ink-2); font-size: 11px; }
+.swim .nocomp { fill: var(--out); fill-opacity: .45; }
+.swim .nocomp.unknown { fill-opacity: .15; }
+.swim .ref { stroke: var(--ink-2); stroke-dasharray: 3 3; }
+.swim .due { stroke: var(--ink); stroke-width: 1.5; }
+.swim-hl { fill: var(--amber); fill-opacity: .18; }
+.chart.avg { min-height: 0; }
+details.more { margin-top: 12px; }
+details.more summary { cursor: pointer; font-weight: 600; }

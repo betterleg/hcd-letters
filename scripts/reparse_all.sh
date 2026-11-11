@@ -9,6 +9,10 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
+echo "== Corrections to HCD's tables (hau/corrections.csv, he_letters/corrections.csv)"
+python3 tests/test_apply_corrections.py
+python3 scripts/apply_corrections.py hau he
+
 echo "== Requested letters"
 python3 scripts/requested_letters.py
 
@@ -24,11 +28,12 @@ python3 scripts/parse_citations.py hau
 python3 scripts/parse_citations.py he
 python3 scripts/clean_keywords.py
 
-echo "== Standard language, requirements, milestones"
+echo "== Standard language, requirements, milestones, cycle paths"
 python3 scripts/letter_patterns.py he
 python3 scripts/letter_patterns.py hau
 python3 scripts/letter_requirements.py
 python3 scripts/letter_milestones.py
+python3 scripts/cycle_pathways.py
 
 echo "== Indexes"
 python3 scripts/build_index.py hau
