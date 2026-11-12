@@ -16,8 +16,8 @@ Tool (housing_elements.csv) and HCD's Review and Compliance Report (compliance.c
                      an adopted element reviewed "In" for that cycle, the report's review date (the report's
                      compliance_status alone isn't used: during a 7th-cycle draft it reflects the 6th-cycle element)
   days_to_adoption, days_to_compliance, days_adoption_to_compliance   between those dates
-  statutory_due_date the due date the letters state most often for that cycle, else the one most common in the
-                     county (due_source: letters or county); days_late = compliant_date - due
+  statutory_due_date the due date the letters state most often for that cycle, else the region's (COG/MPO
+                     deadlines generally follow county lines: the date most common in the county; due_source: letters or region); days_late = compliant_date - due
   submittals, hcd_letters, out_letters, in_letters   counts within the cycle
   submittal_dates    the cycle's submittals (Download Tool documents, else the submittals the letters name)
   path               HCD's letters in order: D (draft) or A (adopted) with the finding, e.g. "D-Out > D-Out > A-In"
@@ -25,7 +25,7 @@ Tool (housing_elements.csv) and HCD's Review and Compliance Report (compliance.c
                      path_dates gives each letter's date; unknown_findings counts the "?"s. A jurisdiction whose
                      letters are unknown can have no compliant_date even if HCD found it in compliance.
   exposure_windows   periods without a housing element HCD has found in compliance, when the builder's remedy can
-                     apply: "start..end reason" (after due date / decertified), "; "-separated, no end = ongoing
+                     apply: "start..end reason" (after the statutory deadline / decertified), "; "-separated, no end = ongoing
   exposure_days      their total length (ongoing periods counted to today); exposed_now: yes/no
   within_120_days    found in compliance within 120 days after the due date (Gov. Code 65588(e)(4));
                      rezone_deadline: one year after the due date when it wasn't (AB 1398, 120 days ending 2022+)
@@ -162,7 +162,8 @@ def build():
             "status_now": (rep or {}).get("compliance_status", ""),
             "report_status": " / ".join(x for x in ((rep or {}).get("record_type", ""), (rep or {}).get("review_status", "")) if x),
         })
-    # A jurisdiction whose letters state no due date gets its county's (one region shares a due date)
+    # A jurisdiction whose letters state no due date gets its region's: due dates are set by COG/MPO region, which
+    # generally follows county lines, so the date most common among the county's jurisdictions is used
     by_county = defaultdict(Counter)
     for r in out:
         if r["statutory_due_date"]:
@@ -171,7 +172,7 @@ def build():
         r["due_source"] = "letters" if r["statutory_due_date"] else ""
         common = by_county.get((r["county"], r["cycle"]))
         if not r["statutory_due_date"] and common and common.most_common(1)[0][1] >= 2:
-            r["statutory_due_date"], r["due_source"] = common.most_common(1)[0][0], "county"
+            r["statutory_due_date"], r["due_source"] = common.most_common(1)[0][0], "region"
             if r["compliant_date"]:
                 r["days_late"] = (r["compliant_date"] - r["statutory_due_date"]).days
     exposure(out)
@@ -195,7 +196,7 @@ def hau_compliance_letters():
 def exposure(out):
     """Periods without a housing element HCD has found in compliance, when the builder's remedy can apply
     (Gov. Code 65589.5(d)(5); since AB 1886 only an HCD or court finding counts, so adoption alone doesn't end it):
-      - from the cycle's statutory due date until HCD's first finding of compliance ("after due date")
+      - from the cycle's statutory due date until HCD's first finding of compliance ("after the statutory deadline")
       - from an HAU decertification letter until the next recertification letter ("decertified")
     A period with no end is ongoing when HCD's report shows the jurisdiction out of compliance today; when the end
     can't be told (no compliance date, letters with no public copy) the period is left open-ended and not counted.
@@ -220,13 +221,13 @@ def exposure(out):
             if comp and comp <= due:
                 pass
             elif comp:
-                windows[c].append((due, comp, "after due date", True))
+                windows[c].append((due, comp, "after the statutory deadline", True))
             elif next_due and next_due <= data_date:      # moved on to the next cycle without a finding here
-                windows[c].append((due, next_due, "after due date (until the next cycle's due date)", r["unknown_findings"] == 0))
+                windows[c].append((due, next_due, "after the statutory deadline (until the next cycle's deadline)", r["unknown_findings"] == 0))
             elif (r["status_now"] or "").lower().endswith("out") or not r["unknown_findings"]:
-                windows[c].append((due, None, "after due date", True))
+                windows[c].append((due, None, "after the statutory deadline", True))
             else:
-                windows[c].append((due, None, "after due date (end unknown)", False))
+                windows[c].append((due, None, "after the statutory deadline (end unknown)", False))
             r["within_120_days"] = ("yes" if comp and (comp - due).days <= 120 else "no") if (comp or due + timedelta(days=120) <= data_date) else ""
             if r["within_120_days"] == "no" and due + timedelta(days=120) >= date(2022, 1, 1):
                 r["rezone_deadline"] = due + timedelta(days=365)

@@ -46,6 +46,25 @@
   };
   const hideTip = () => { tip.hidden = true; };
   const legend = (node, items) => node.replaceChildren(...items.map(([name, color]) => el('span', {}, Object.assign(el('i'), { style: `background:${color}` }), name)));
+  /** Legend with the marks the charts draw: [name, color, shape]; shape: square circle triangle diamond star cross wye band dash. */
+  const SHAPES = () => ({ square: d3.symbolSquare, circle: d3.symbolCircle, triangle: d3.symbolTriangle, diamond: d3.symbolDiamond, star: d3.symbolStar, cross: d3.symbolCross, wye: d3.symbolWye });
+  const legendSym = (node, items) => node.replaceChildren(...items.map(([name, color, shape]) => {
+    const svg = d3.create('svg').attr('width', 16).attr('height', 12).attr('viewBox', '-8 -6 16 12').attr('aria-hidden', 'true').attr('class', 'lg');
+    if (shape === 'band') svg.append('rect').attr('x', -7).attr('y', -4).attr('width', 14).attr('height', 8).attr('fill', color).attr('fill-opacity', 0.5);
+    else if (shape === 'dash') svg.append('line').attr('x1', 0).attr('x2', 0).attr('y1', -6).attr('y2', 6).attr('stroke', color).attr('stroke-dasharray', '2 2');
+    else if (shape === 'line') svg.append('line').attr('x1', -7).attr('x2', 7).attr('y1', 0).attr('y2', 0).attr('stroke', color).attr('stroke-width', 2);
+    else svg.append('path').attr('d', d3.symbol(SHAPES()[shape] || d3.symbolSquare, 50)()).attr('fill', color);
+    return el('span', {}, svg.node(), name);
+  }));
+  /** The same item gets the same mark and color on every chart. */
+  const MARK = () => ({
+    deadline: ['Statutory deadline', css('--amber'), 'triangle'], submittal: ['Submittal', css('--accent'), 'square'],
+    out: ['HCD letter: out', css('--out'), 'circle'], in: ['HCD letter: in', css('--in'), 'circle'], unknown: ['HCD letter: finding unknown', css('--muted'), 'circle'],
+    compliant: ['Found in compliance', css('--in'), 'circle'], nocomp: ['No compliant element (builder’s remedy can apply)', css('--out'), 'band'],
+    days120: ['120 days after the deadline', css('--ink-2'), 'dash'], rezone: ['Rezoning deadline (AB 1398)', css('--amber'), 'wye'],
+    adopted: ['Adopted', css('--s4'), 'diamond'], other: ['Revisions, other material, meetings', css('--s5'), 'cross'], hau: ['HAU letter', css('--s3'), 'star'],
+    cycle: ['First submittal to compliance', css('--ink-2'), 'line'],
+  });
 
   // ---------- data ----------
   async function load() {
@@ -513,7 +532,7 @@
     });
     const th = (t) => el('th', {}, t), td = (t, num) => el('td', { class: num ? 'num' : null }, t);
     $('#pa-sum').replaceChildren(el('div', { class: 'tablebox' }, el('table', { class: 't sum' },
-      el('thead', {}, el('tr', {}, ...['Cycle', 'Jurisdictions', 'Found in compliance', 'Median months to compliance', 'Median HCD letters', 'In compliance within 120 days of due date', 'Ever without a compliant element after due date', 'Median months without', 'Without one today'].map(th))),
+      el('thead', {}, el('tr', {}, ...['Cycle', 'Jurisdictions', 'Found in compliance', 'Median months to compliance', 'Median HCD letters', 'In compliance within 120 days of statutory deadline', 'Ever without a compliant element after the deadline', 'Median months without', 'Without one today'].map(th))),
       el('tbody', {}, ...sum.map((x) => el('tr', {}, td(cycName(x.c)), td(fmt(x.n), 1), td(`${fmt(x.compliant)} (${pct(x.compliant / x.n)})`, 1),
         td(x.mComply ?? '—', 1), td(x.letters ?? '—', 1), td(x.w120, 1), td(x.ex, 1), td(x.mEx ?? '—', 1), td(x.now, 1)))))));
 
@@ -546,16 +565,34 @@
     det.ontoggle = () => { if (det.open) drawExp(); };
     if (det.open) drawExp();
 
-    legend($('#pa-legend'), [['Submittal', css('--accent')], ['HCD letter: out', css('--out')], ['HCD letter: in', css('--in')], ['No compliant element', css('--out')], ['Found in compliance', css('--in')]]);
-    drawAligned(rows.filter((p) => p.due), cycs);
-    $('#pa-sort').onchange = () => drawAligned(rows.filter((p) => p.due), cycs);
+    { const M = MARK(); legendSym($('#pa-legend'), [M.deadline, M.cycle, M.submittal, M.out, M.in, M.compliant, M.nocomp, M.days120]);
+      legendSym($('#pa-swim-legend'), [M.deadline, M.cycle, M.submittal, M.out, M.in, M.unknown, M.compliant, M.nocomp, M.days120]); }
+    const dueRows = rows.filter((p) => p.due);
+    // filters for the aligned chart: county and a list of jurisdictions to compare (kept in the page address)
+    const P = params(), pick = new Set((P.get('pa.j') || '').split('|').filter(Boolean));
+    const cSel = $('#pa-county');
+    cSel.replaceChildren(el('option', { value: '' }, 'All'), ...[...new Set(dueRows.map((p) => p.county))].sort().map((c) => el('option', { value: c }, c)));
+    cSel.value = P.get('pa.c') || '';
+    $('#pa-names').replaceChildren(...[...new Set(dueRows.map((p) => p.jur))].sort().map((n) => el('option', { value: n })));
+    const redraw = () => {
+      setParams({ 'pa.c': cSel.value, 'pa.j': [...pick].join('|') });
+      $('#pa-chips').replaceChildren(...[...pick].map((n) => el('button', { type: 'button', class: 'chip', title: 'Remove', 'data-j': n }, n, ' ×')));
+      $('#pa-clear').hidden = !pick.size && !cSel.value;
+      drawAligned(dueRows, cycs, { county: cSel.value, pick });
+    };
+    $('#pa-add').onchange = (e) => { const n = e.target.value.trim(), hit = dueRows.find((p) => p.jur.toLowerCase() === n.toLowerCase()); if (hit) { pick.add(hit.jur); e.target.value = ''; redraw(); } };
+    $('#pa-chips').onclick = (e) => { const b = e.target.closest('[data-j]'); if (b) { pick.delete(b.dataset.j); redraw(); } };
+    $('#pa-clear').onclick = () => { pick.clear(); cSel.value = ''; redraw(); };
+    cSel.onchange = redraw;
+    $('#pa-sort').onchange = redraw;
+    redraw();
 
     // every jurisdiction
     dataTable($('#pa-table'), { id: 'pa', rows, sort: 'exposure-', csvName: 'hcd-cycle-paths',
       columns: [{ key: 'jur', label: 'Jurisdiction', render: (p) => el('button', { type: 'button', class: 'link', 'data-go': p.jur }, p.jur) },
         { key: 'county', label: 'County', filter: 'select', hideSm: true },
         { key: 'cycle', label: 'Cycle', filter: 'select', value: (p) => cycLabel(p.cycle) },
-        { key: 'due', label: 'Due', render: (p) => (p.due ? fdate(p.due) : ''), cls: 'd', hideSm: true },
+        { key: 'due', label: 'Statutory deadline', render: (p) => (p.due ? fdate(p.due) : ''), cls: 'd', hideSm: true },
         { key: 'start', label: 'First submittal', render: (p) => fdate(p.start), cls: 'd', hideSm: true },
         { key: 'compliant', label: 'In compliance', render: (p) => (p.compliant ? fdate(p.compliant) : ''), cls: 'd' },
         { key: 'toComply', label: 'Months to compliance', num: true, value: (p) => (p.toComply ?? -1), render: (p) => (p.toComply != null ? `${months(p.toComply)}` : ''), csv: (p) => months(p.toComply) ?? '' },
@@ -572,7 +609,7 @@
   const moBetween = (a, b) => (parse(b) - parse(a)) / 864e5 / 30.44;
   const q = (v, p) => (v.length ? d3.quantile(v.slice().sort(d3.ascending), p) : null);
   /** Average path and every jurisdiction, aligned on the statutory due date (month 0). */
-  function drawAligned(rows, cycs) {
+  function drawAligned(rows, cycs, filt = {}) {
     const avgHost = $('#pa-avg'), swimHost = $('#pa-swim');
     avgHost.replaceChildren(); swimHost.replaceChildren();
     const off = (p, d) => (d ? moBetween(p.due, d) : null);
@@ -599,17 +636,18 @@
       const H = m.t + m.b + lanes.length * rowH;
       const x = d3.scaleLinear([lo, hi], [m.l, W - m.r]), y = (l) => m.t + lanes.indexOf(l) * rowH + rowH / 2;
       avgHost.append(el('p', { class: 'cycle-sum' }, el('b', {}, `${cycName(c)}, ${fmt(rs.length)} jurisdictions: `),
-        `first submittal ${fmo(Math.abs(first) * 30.44)} ${first < 0 ? 'before' : 'after'} the due date; ${fmt(subsK)} submittals and ${fmt(lettersK)} HCD letters (${Number.isNaN(outs) ? '—' : outs} out) at the median; `,
-        cMed != null ? `found in compliance ${fmo(Math.abs(cMed) * 30.44)} ${cMed < 0 ? 'before' : 'after'} the due date (middle half: ${Math.round(c25)} to ${Math.round(c75)} months).` : 'not enough compliance dates yet.'));
+        `first submittal ${fmo(Math.abs(first) * 30.44)} ${first < 0 ? 'before' : 'after'} the statutory deadline; ${fmt(subsK)} submittals and ${fmt(lettersK)} HCD letters (${Number.isNaN(outs) ? '—' : outs} out) at the median; `,
+        cMed != null ? `found in compliance ${fmo(Math.abs(cMed) * 30.44)} ${cMed < 0 ? 'before' : 'after'} the statutory deadline (middle half: ${Math.round(c25)} to ${Math.round(c75)} months).` : 'not enough compliance dates yet.'));
       const node = el('div', { class: 'chart timeline avg' });
       avgHost.append(node);
       const svg = d3.select(node).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', `Average path, ${cycName(c)}`);
-      svg.append('g').attr('class', 'grid').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickValues(d3.range(lo, hi + 1, 6)).tickSize(-(H - m.t - m.b)).tickFormat((v) => (v === 0 ? 'due' : v > 0 ? `+${v}` : v))).call(axisStyle);
-      svg.append('text').attr('x', W - m.r).attr('y', 12).attr('text-anchor', 'end').text('months from the statutory due date');
+      svg.append('g').attr('class', 'grid').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickValues(d3.range(lo, hi + 1, 6)).tickSize(-(H - m.t - m.b)).tickFormat((v) => (v === 0 ? 'deadline' : v > 0 ? `+${v}` : v))).call(axisStyle);
+      svg.append('text').attr('x', W - m.r).attr('y', 12).attr('text-anchor', 'end').text('months from the statutory deadline');
       svg.append('g').selectAll('text').data(lanes).join('text').attr('x', m.l - 8).attr('y', y).attr('dy', '0.35em').attr('text-anchor', 'end').text((d) => d);
-      for (const [t, title] of [[0, 'Statutory due date'], [120 / 30.44, '120 days after the due date'], [12, 'One year after the due date']]) {
-        svg.append('line').attr('class', t ? 'ref' : 'due').attr('x1', x(t)).attr('x2', x(t)).attr('y1', m.t - 6).attr('y2', H - m.b).append('title').text(title);
+      for (const [t, title] of [[0, 'Statutory deadline'], [120 / 30.44, '120 days after the statutory deadline'], [12, 'One year after the statutory deadline']]) {
+        svg.append('line').attr('class', t ? 'ref' : 'deadline').attr('x1', x(t)).attr('x2', x(t)).attr('y1', m.t - 6).attr('y2', H - m.b).append('title').text(title);
       }
+      svg.append('path').attr('transform', `translate(${x(0)},${m.t - 8})`).attr('d', d3.symbol(d3.symbolTriangle, 50)()).attr('fill', css('--amber')).append('title').text('Statutory deadline');
       if (first != null && cMed != null) {
         svg.append('line').attr('x1', x(clamp(first))).attr('x2', x(clamp(cMed))).attr('y1', y('Cycle')).attr('y2', y('Cycle')).attr('stroke', css('--ink-2')).attr('stroke-width', 2);
         svg.append('line').attr('x1', x(clamp(first))).attr('x2', x(clamp(first))).attr('y1', y('Cycle') - 6).attr('y2', y('Cycle') + 6).attr('stroke', css('--ink-2'));
@@ -618,39 +656,45 @@
         svg.append('text').attr('class', 'cycle-label').attr('x', x(clamp(Math.max(cMed, c75))) + 8).attr('y', y('Cycle')).attr('dy', '0.35em').text(`${months(d3.median(rs, (p) => p.toComply))} mo first submittal to compliance (median)`);
         if (cMed > 0) {
           svg.append('rect').attr('class', 'nocomp').attr('x', x(0)).attr('y', y(NOCOMP) - 7).attr('width', x(clamp(cMed)) - x(0)).attr('height', 14);
-          svg.append('text').attr('class', 'cycle-label').attr('x', x(clamp(cMed)) + 8).attr('y', y(NOCOMP)).attr('dy', '0.35em').text(`${months(cMed * 30.44)} mo after the due date`);
+          svg.append('text').attr('class', 'cycle-label').attr('x', x(clamp(cMed)) + 8).attr('y', y(NOCOMP)).attr('dy', '0.35em').text(`${months(cMed * 30.44)} mo after the statutory deadline`);
         }
       }
       subMed.forEach((t, k) => { if (t != null) svg.append('path').attr('transform', `translate(${x(clamp(t))},${y('Submittals')})`).attr('d', d3.symbol(d3.symbolSquare, 60)()).attr('fill', css('--accent'))
-        .append('title').text(`Submittal ${k + 1}: median ${months(Math.abs(t) * 30.44)} mo ${t < 0 ? 'before' : 'after'} the due date`); });
+        .append('title').text(`Submittal ${k + 1}: median ${months(Math.abs(t) * 30.44)} mo ${t < 0 ? 'before' : 'after'} the statutory deadline`); });
       letMed.forEach((l, k) => { if (l.t != null) svg.append('circle').attr('cx', x(clamp(l.t))).attr('cy', y('HCD letters')).attr('r', 5).attr('fill', l.out > 0.5 ? css('--out') : css('--in')).attr('stroke', css('--paper'))
-        .append('title').text(`HCD letter ${k + 1}: median ${months(Math.abs(l.t) * 30.44)} mo ${l.t < 0 ? 'before' : 'after'} the due date; ${pct(l.out)} out (${fmt(l.n)} jurisdictions)`); });
+        .append('title').text(`HCD letter ${k + 1}: median ${months(Math.abs(l.t) * 30.44)} mo ${l.t < 0 ? 'before' : 'after'} the statutory deadline; ${pct(l.out)} out (${fmt(l.n)} jurisdictions)`); });
 
-      // ---- every jurisdiction
-      const order = rs.slice().sort(sortBy === 'start' ? (a, b) => a.start.localeCompare(b.start)
+      // ---- every jurisdiction (the average above always uses all of them)
+      const shown = rs.filter((p) => (!filt.county || p.county === filt.county) && (!filt.pick || !filt.pick.size || filt.pick.has(p.jur)));
+      if (!shown.length) continue;
+      const order = shown.slice().sort(sortBy === 'start' ? (a, b) => a.start.localeCompare(b.start)
         : sortBy === 'exposure' ? (a, b) => (b.exposure ?? -1) - (a.exposure ?? -1)
           : sortBy === 'county' ? (a, b) => a.county.localeCompare(b.county) || a.jur.localeCompare(b.jur)
             : (a, b) => (a.compliant ? off(a, a.compliant) : 1e9) - (b.compliant ? off(b, b.compliant) : 1e9) || a.jur.localeCompare(b.jur));
-      const rh = 7, top = 4, Hs = top * 2 + order.length * rh;
+      const few = order.length <= 30, rh = few ? 22 : 7, top = 4, Hs = top * 2 + order.length * rh, sz = few ? 1 : 0.45;
+      const lx = few ? Math.min(150, W * 0.3) : 0;   // room for names when comparing a few
+      const xs = d3.scaleLinear([lo, hi], [Math.max(m.l, lx), W - m.r]);
       const head = el('div', { class: 'swim-head' }), box = el('div', { class: 'swim' });
-      swimHost.append(el('p', { class: 'cycle-sum' }, el('b', {}, cycName(c)), ` · ${fmt(order.length)} jurisdictions with a due date`), head, box);
+      swimHost.append(el('p', { class: 'cycle-sum' }, el('b', {}, cycName(c)), ` · ${fmt(order.length)} of ${fmt(rs.length)} jurisdictions with a statutory deadline`), head, box);
       const ax = d3.select(head).append('svg').attr('viewBox', `0 0 ${W} 22`);
-      ax.append('g').attr('transform', 'translate(0,20)').call(d3.axisTop(x).tickValues(d3.range(lo, hi + 1, 6)).tickFormat((v) => (v === 0 ? 'due' : v > 0 ? `+${v}` : v))).call(axisStyle);
+      ax.append('g').attr('transform', 'translate(0,20)').call(d3.axisTop(xs).tickValues(d3.range(lo, hi + 1, 6)).tickFormat((v) => (v === 0 ? 'deadline' : v > 0 ? `+${v}` : v))).call(axisStyle);
       const sv = d3.select(box).append('svg').attr('viewBox', `0 0 ${W} ${Hs}`).attr('role', 'img').attr('aria-label', `Every jurisdiction's path, ${cycName(c)}`);
-      sv.append('g').attr('class', 'grid').call((g) => g.selectAll('line').data(d3.range(lo, hi + 1, 6)).join('line').attr('x1', x).attr('x2', x).attr('y1', 0).attr('y2', Hs).attr('stroke', css('--rule')));
-      for (const [t, cls] of [[0, 'due'], [120 / 30.44, 'ref'], [12, 'ref']]) sv.append('line').attr('class', cls).attr('x1', x(t)).attr('x2', x(t)).attr('y1', 0).attr('y2', Hs);
+      sv.append('g').attr('class', 'grid').call((g) => g.selectAll('line').data(d3.range(lo, hi + 1, 6)).join('line').attr('x1', xs).attr('x2', xs).attr('y1', 0).attr('y2', Hs).attr('stroke', css('--rule')));
+      for (const [t, cls] of [[0, 'deadline'], [120 / 30.44, 'ref'], [12, 'ref']]) sv.append('line').attr('class', cls).attr('x1', xs(t)).attr('x2', xs(t)).attr('y1', 0).attr('y2', Hs);
+      ax.append('path').attr('transform', `translate(${xs(0)},16)`).attr('d', d3.symbol(d3.symbolTriangle, 40)()).attr('fill', css('--amber'));
       const now = TODAY;
       order.forEach((p, i) => {
         const yy = top + i * rh + rh / 2, g = sv.append('g');
         for (const w of p.windows) {
           const a = clamp(off(p, w.start)), b = clamp(off(p, w.end || now));
-          g.append('rect').attr('class', w.unknown ? 'nocomp unknown' : 'nocomp').attr('x', x(a)).attr('y', yy - 3).attr('width', Math.max(1, x(b) - x(a))).attr('height', 6);
+          g.append('rect').attr('class', w.unknown ? 'nocomp unknown' : 'nocomp').attr('x', xs(a)).attr('y', yy - (few ? 7 : 3)).attr('width', Math.max(1, xs(b) - xs(a))).attr('height', few ? 14 : 6);
         }
         const s0 = clamp(off(p, p.start)), s1 = clamp(off(p, p.compliant || now));
-        g.append('line').attr('x1', x(s0)).attr('x2', x(s1)).attr('y1', yy).attr('y2', yy).attr('stroke', css('--ink-2')).attr('stroke-width', 1).attr('stroke-dasharray', p.compliant ? null : '2 2');
-        for (const d of p.subs) g.append('rect').attr('x', x(clamp(off(p, d))) - 1).attr('y', yy - 3).attr('width', 2).attr('height', 6).attr('fill', css('--accent'));
-        for (const st of p.steps) g.append('circle').attr('cx', x(clamp(off(p, st.date)))).attr('cy', yy).attr('r', 2).attr('fill', st.finding === 'Out' ? css('--out') : st.finding === 'In' ? css('--in') : css('--muted'));
-        if (p.compliant) g.append('circle').attr('cx', x(clamp(off(p, p.compliant)))).attr('cy', yy).attr('r', 3).attr('fill', css('--in')).attr('stroke', css('--paper')).attr('stroke-width', 0.5);
+        if (few) g.append('text').attr('x', lx - 8).attr('y', yy).attr('dy', '0.35em').attr('text-anchor', 'end').text(p.jur);
+        g.append('line').attr('x1', xs(s0)).attr('x2', xs(s1)).attr('y1', yy).attr('y2', yy).attr('stroke', css('--ink-2')).attr('stroke-width', 1).attr('stroke-dasharray', p.compliant ? null : '2 2');
+        for (const d of p.subs) g.append('path').attr('transform', `translate(${xs(clamp(off(p, d)))},${yy})`).attr('d', d3.symbol(d3.symbolSquare, 60 * sz * sz)()).attr('fill', css('--accent'));
+        for (const st of p.steps) g.append('circle').attr('cx', xs(clamp(off(p, st.date)))).attr('cy', yy).attr('r', few ? 4.5 : 2).attr('fill', st.finding === 'Out' ? css('--out') : st.finding === 'In' ? css('--in') : css('--muted'));
+        if (p.compliant) g.append('circle').attr('cx', xs(clamp(off(p, p.compliant)))).attr('cy', yy).attr('r', few ? 6 : 3).attr('fill', css('--in')).attr('stroke', css('--paper')).attr('stroke-width', 0.5);
       });
       const hl = sv.append('rect').attr('class', 'swim-hl').attr('x', 0).attr('width', W).attr('height', rh).attr('visibility', 'hidden');
       sv.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', Hs).attr('fill', 'transparent').style('cursor', 'pointer')
@@ -658,8 +702,8 @@
           const i = Math.floor((d3.pointer(ev)[1] - top) / rh), p = order[i];
           if (!p) { hl.attr('visibility', 'hidden'); hideTip(); return; }
           hl.attr('y', top + i * rh).attr('visibility', 'visible');
-          showTip(ev, `${p.jur} (${p.county})`, [`Due ${fdate(p.due)}; first submittal ${fdate(p.start)}`,
-            p.compliant ? `Found in compliance ${fdate(p.compliant)} (${fmo(Math.abs(off(p, p.compliant)) * 30.44)} ${off(p, p.compliant) < 0 ? 'before' : 'after'} the due date)` : 'Not found in compliance yet',
+          showTip(ev, `${p.jur} (${p.county})`, [`Statutory deadline ${fdate(p.due)}; first submittal ${fdate(p.start)}`,
+            p.compliant ? `Found in compliance ${fdate(p.compliant)} (${fmo(Math.abs(off(p, p.compliant)) * 30.44)} ${off(p, p.compliant) < 0 ? 'before' : 'after'} the statutory deadline)` : 'Not found in compliance yet',
             `${fmt(p.subs.length)} submittals, ${fmt(p.steps.length)} HCD letters (${p.outs} out)`,
             p.exposure != null ? `Without a compliant element ${fmo(p.exposure)}${p.exposedNow === 'yes' ? ' so far' : ''}` : ''].filter(Boolean));
         }).on('mouseleave', () => { hl.attr('visibility', 'hidden'); hideTip(); })
@@ -710,7 +754,7 @@
   }
   // ---------- jurisdiction record: timeline + one table of letters and milestones (milestones.json from scripts/letter_milestones.py) ----------
   const LANES = [
-    ['Statutory due date', 'Due date'],
+    ['Statutory due date', 'Statutory deadline'],
     ['Submittal received for review', 'Submittals'],
     ['Revisions received', 'Revisions & other'],
     ['Other material received', 'Revisions & other'],
@@ -805,7 +849,11 @@
         return { ...m, letter: src, what: m.event,
           detail: [m.detail, src ? `named in HCD’s ${fdate(src.date)} letter` : ''].filter(Boolean).join(' · ') };
       });
-    const items = letters.concat(others).filter((m) => m.date).sort((a, b) => b.date.localeCompare(a.date));
+    // every cycle's statutory deadline is on the timeline, also when this jurisdiction's letters don't state it
+    const deadlines = cyclePaths.filter((p) => p.due && !others.some((m) => m.event === 'Statutory due date' && m.date === p.due))
+      .map((p) => ({ event: 'Statutory due date', date: p.due, cycle: p.cycle, what: 'Statutory due date',
+        detail: p.dueSrc === 'letters' ? `${cycName(p.cycle)}` : `${cycName(p.cycle)}: the region’s deadline (COG/MPO); this jurisdiction’s letters don’t state it` }));
+    const items = letters.concat(others, deadlines).filter((m) => m.date).sort((a, b) => b.date.localeCompare(a.date));
     items.forEach((m, i) => { m.i = String(i); m.lane = laneOf[m.event] || 'Revisions & other'; });
     if (!items.length) { host.replaceChildren(el('p', { class: 'empty' }, 'No letters or milestones for the cycles chosen.')); return; }
 
@@ -820,15 +868,15 @@
     const summary = cyclePaths.map((p) => {
       const exp = p.windows.filter((w) => !w.unknown);
       return el('p', { class: 'cycle-sum' }, el('b', {}, cycName(p.cycle)), ': ',
-        p.due ? `due ${fdate(p.due)}${p.dueSrc === 'county' ? ' (county’s date)' : ''}; ` : '',
+        p.due ? `statutory deadline ${fdate(p.due)}${p.dueSrc === 'letters' ? '' : ' (the region’s deadline; this jurisdiction’s letters don’t state it)'}; ` : '',
         `first submittal ${fdate(p.start)}; `,
         p.compliant ? `found in compliance ${fdate(p.compliant)}, ${fmo(p.toComply)} after the first submittal` : 'not found in compliance yet',
         ` (${fmt(p.letters)} HCD letter${p.letters === 1 ? '' : 's'}${p.outs ? `, ${p.outs} out` : ''}). `,
         exp.length ? el('span', { class: 'exposed' }, `Without a compliant element ${fmo(p.exposure)}${p.exposedNow === 'yes' ? ' so far' : ''}: `,
-          exp.map((w) => `${fdate(w.start)}–${w.end ? fdate(w.end) : 'today'} (${w.reason.replace(/ \(.*\)/, '')})`).join(', '), '. ') : (p.due && p.compliant ? 'In compliance before the due date. ' : ''),
-        p.within120 === 'no' ? `Not found in compliance within 120 days of the due date${p.rezone ? `, so rezoning was due within one year, by ${fdate(p.rezone)} (AB 1398)` : ''}.` : '');
+          exp.map((w) => `${fdate(w.start)}–${w.end ? fdate(w.end) : 'today'} (${w.reason.replace(/ \(.*\)/, '')})`).join(', '), '. ') : (p.due && p.compliant ? 'In compliance before the statutory deadline. ' : ''),
+        p.within120 === 'no' ? `Not found in compliance within 120 days of the statutory deadline${p.rezone ? `, so rezoning was due within one year of it, by ${fdate(p.rezone)} (AB 1398)` : ''}.` : '');
     });
-    host.replaceChildren(...summary, leg, node, el('p', { class: 'note' }, 'Bars run from the first submittal after HCD’s previous letter to the next letter; the tick marks the statutory review period (90 days for the first submittal of the cycle, 60 after). Revisions sent during a review don’t restart it. The No compliant element lane shows when there was no housing element HCD had found in compliance (after the due date, or after an HAU decertification), when the builder’s remedy can apply; its dashed tick is 120 days after the due date and the triangle a one-year rezoning deadline (AB 1398). Point at a mark or a row to find its match; click a mark to jump to its row.'), tbl);
+    host.replaceChildren(...summary, leg, node, el('p', { class: 'note' }, 'Bars run from the first submittal after HCD’s previous letter to the next letter; the tick marks the statutory review period (90 days for the first submittal of the cycle, 60 after). Revisions sent during a review don’t restart it. The No compliant element lane shows when there was no housing element HCD had found in compliance (after the statutory deadline, or after an HAU decertification), when the builder’s remedy can apply; its dashed tick is 120 days after the statutory deadline and the amber Y a one-year rezoning deadline (AB 1398). The amber line marks the statutory deadline. Point at a mark or a row to find its match; click a mark to jump to its row.'), tbl);
     const W = Math.max(340, node.clientWidth || host.clientWidth || 900), rowH = 28, m = { t: 8, r: 16, b: 26, l: Math.min(150, W * 0.3) };
     const H = m.t + m.b + lanes.length * rowH;
     const [d0, d1] = d3.extent(dates);
@@ -839,6 +887,9 @@
       .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l) / 90))).tickSize(-(H - m.t - m.b))).call(axisStyle);
     svg.append('g').selectAll('text').data(lanes).join('text').attr('x', m.l - 8).attr('y', y).attr('dy', '0.35em').attr('text-anchor', 'end').text((d) => d);
     const guide = svg.append('line').attr('class', 'guide').attr('y1', m.t).attr('y2', H - m.b).attr('visibility', 'hidden');
+    for (const dd of [...new Set(items.filter((mm) => mm.event === 'Statutory due date').map((mm) => mm.date))]) {
+      svg.append('line').attr('class', 'deadline').attr('x1', x(parse(dd))).attr('x2', x(parse(dd))).attr('y1', m.t).attr('y2', H - m.b);
+    }
     // the cycle: first submittal to HCD's finding of compliance; below it, periods without a compliant element
     const cy = svg.append('g').attr('class', 'cycle-lane');
     for (const p of cyclePaths) {
@@ -858,7 +909,7 @@
       for (const w of p.windows) {
         const ws = parse(w.start), we = parse(w.end || TODAY);
         cy.append('rect').attr('class', w.unknown ? 'nocomp unknown' : 'nocomp').attr('x', x(ws)).attr('y', yb - 7).attr('width', Math.max(2, x(we) - x(ws))).attr('height', 14)
-          .on('mousemove', (ev) => showTip(ev, w.reason.startsWith('decert') ? 'Decertified (HAU letter)' : 'No compliant housing element after the due date',
+          .on('mousemove', (ev) => showTip(ev, w.reason.startsWith('decert') ? 'Decertified (HAU letter)' : 'No compliant housing element after the statutory deadline',
             [`${fdate(w.start)} – ${w.end ? fdate(w.end) : 'today'}${w.unknown ? ' (end unknown: letters with no public copy)' : ` (${fmo(d3.utcDay.count(ws, we))})`}`,
               'Builder’s remedy can apply to projects whose preliminary application is complete in this period (Gov. Code 65589.5(d)(5)).'])).on('mouseleave', hideTip);
       }
@@ -866,10 +917,10 @@
       if (exp.length) cy.append('text').attr('x', x(parse(exp[exp.length - 1].end || TODAY)) + 8).attr('y', yb).attr('dy', '0.35em').attr('class', 'cycle-label').text(`${fmo(p.exposure)}${p.exposedNow === 'yes' ? ' so far' : ''}`);
       if (p.due && p.within120) {
         const t = d3.utcDay.offset(parse(p.due), 120);
-        cy.append('line').attr('class', 'ref').attr('x1', x(t)).attr('x2', x(t)).attr('y1', yb - 10).attr('y2', yb + 10).append('title').text('120 days after the due date (Gov. Code 65588(e)(4))');
+        cy.append('line').attr('class', 'ref').attr('x1', x(t)).attr('x2', x(t)).attr('y1', yb - 10).attr('y2', yb + 10).append('title').text('120 days after the statutory deadline (Gov. Code 65588(e)(4))');
       }
-      if (p.rezone) cy.append('path').attr('transform', `translate(${x(parse(p.rezone))},${yb})`).attr('d', d3.symbol(d3.symbolTriangle, 50)()).attr('fill', css('--amber'))
-        .append('title').text(`Rezoning due ${fdate(p.rezone)}: one year after the due date, because the element wasn’t found in compliance within 120 days (AB 1398)`);
+      if (p.rezone) cy.append('path').attr('transform', `translate(${x(parse(p.rezone))},${yb})`).attr('d', d3.symbol(d3.symbolWye, 60)()).attr('fill', css('--amber'))
+        .append('title').text(`Rezoning due ${fdate(p.rezone)}: one year after the statutory deadline, because the element wasn’t found in compliance within 120 days (AB 1398)`);
     }
     const rv = svg.append('g');
     for (const r of reviews) {
@@ -904,8 +955,8 @@
         tr.scrollIntoView({ block: 'center', behavior: 'smooth' });
         tr.classList.remove('flash'); void tr.offsetWidth; tr.classList.add('flash');
       });
-    legend(leg, [...(lanes.includes(NOCOMP) ? [['No compliant element (builder’s remedy can apply)', css('--out')]] : []), ['HCD letter: out', css('--out')], ['HCD letter: in', css('--in')], ['Submittal received for review', css('--accent')], ['Adopted', css('--s4')],
-      ['Revisions, other material, meetings', css('--s5')], ['Statutory due date', css('--amber')], ['HAU letter', css('--s3')]]);
+    { const M = MARK(); legendSym(leg, [M.deadline, M.submittal, M.out, M.in, ...(cyclePaths.length ? [M.cycle, M.compliant] : []), ...(lanes.includes(NOCOMP) ? [M.nocomp, M.days120] : []),
+      ...(cyclePaths.some((p) => p.rezone) ? [M.rezone] : []), M.adopted, M.other, M.hau]); }
 
     // table: every letter and milestone, one row each
     dataTable(tbl, { id: 'pl', rows: items, sort: 'date-', pageSize: 400, csvName: `hcd-record-${key}`,

@@ -320,3 +320,10 @@ a:hover, button.link:hover { text-decoration-color: var(--ink); }
 .chart.avg { min-height: 0; }
 details.more { margin-top: 12px; }
 details.more summary { cursor: pointer; font-weight: 600; }
+.chart .deadline, .swim .deadline { stroke: var(--amber); stroke-width: 1.5; }
+.chart.timeline .deadline { stroke-opacity: .7; stroke-dasharray: 4 3; }
+.legend svg.lg { display: inline-block; vertical-align: -1px; }
+.pa-filter { flex-wrap: wrap; }
+.chips { display: inline-flex; flex-wrap: wrap; gap: 4px; }
+.chip { font: inherit; font-size: 12px; border: 1px solid var(--rule); background: transparent; color: var(--ink); padding: 1px 6px; cursor: pointer; border-radius: var(--r); }
+.chip:hover { border-color: var(--out); }
