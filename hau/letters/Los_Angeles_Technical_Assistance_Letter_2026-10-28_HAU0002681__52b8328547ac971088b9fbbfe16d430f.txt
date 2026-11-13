@@ -1,0 +1,208 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                       GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+          October 28, 2026
+
+
+          Lisa Webber
+          City of Los Angeles
+          Deputy Director, Los Angeles City Planning
+          Los Angeles City Hall
+          200 N. Spring Street, Suite 525
+          Los Angeles, CA 90012
+
+          Dear Lisa Webber,
+
+          RE: City of Los Angeles – AB 2011 Letter of Technical Assistance
+
+          This letter provides the City of Los Angeles (City) with technical assistance regarding
+          the Affordable Housing and High Road Jobs Act (AB 2011). 1 The California Department
+          of Housing and Community Development (HCD) understands that the City of Los
+          Angeles recently denied a housing development application that was seeking
+          streamlined ministerial approval under AB 2011. HCD has reviewed the City’s “Final
+          Determination of Ineligibility for Ministerial Processing,” dated August 20, 2026, as well
+          as the Planning Memorandum prepared by the City’s Environmental Specialist, dated
+          August 19, 2026, which serves as the basis for that determination. In its final
+          determination, the City claims there is “substantial evidence of habitat for protected
+          species” under Government Code section 65913.4, subdivision (a)(6)(J). This rationale
+          appears to improperly expand the statutory standard, effectively undermining the intent
+          of AB 2011, and is not supported by the law.
+
+          Project Background
+
+          HCD understands that the applicant proposes to construct a 398-unit housing
+          development project, including 97 units for very low-income households, on an
+          approximately 19.9-acre site zoned “Agriculture” (A1-1XL)2 and currently operating as
+          a private golf course. The applicant is seeking streamlined ministerial approval under
+          AB 2011 and has submitted a complete development application to the City, including
+          two biological assessments prepared by qualified professionals. These assessments
+          evaluated environmental and biological resources across the site, including the
+
+1 Gov. Code, §§ 65912.100-65912.140.
+2 Under AB 2011, a site qualifies if office, retail, or parking are principally permitted uses, and Gov.
+
+Code § 65912.101, subd. (u), clarifies that this includes when parking is allowed only by conditional
+use permit. Per LAMC Section 12.05, the A1 zone allows parking through a conditional use permit,
+thus satisfying the AB 2011 eligibility criteria for qualifying uses.
+      Lisa Webber, Deputy Director
+      Page 2
+
+
+      potential presence of a mountain lion habitat, and concluded that there is no evidence
+      the site functions as an important wildlife habitat, nor that any other biological
+      constraints exist that would preclude eligibility for approval under AB 2011.
+
+      On August 20, 2026, the City issued its final determination that the project is ineligible
+      for ministerial processing pursuant to AB 2011, citing “substantial evidence of habitat for
+      protected species” under Government Code section 65913.4, subdivision (a)(6)(J). This
+      determination relied on a Planning Memorandum prepared by the City’s Certified Senior
+      Ecologist titled “Professional Statement Regarding Habitat for Protected Species at
+      Woodland Hills Golf Club,” dated August 19, 2026. This report was not submitted by the
+      applicant and was not included in the development application materials.
+
+      Site Requirements Pursuant to Government Code Section 65913.4
+
+      Under AB 2011, local agencies must provide a by-right, ministerial approval process for
+      qualifying multifamily affordable and mixed-income housing developments within zones
+      where office, retail, or parking are principally permitted uses. 3 These provisions apply
+      only to parcels that satisfy the requirements in Government Code section 65913.4, 4
+      including the requirement that the “development is not located on a site that is …
+      [h]abitat for protected species identified as candidate, sensitive, or specific of special
+      statute by state or federal agencies....” 5 The City of Los Angeles determined that the
+      proposed project site is exempt from AB 2011 based on the City-issued report that the
+      site “provides habitat functions relevant to the Southern California mountain lion,” a
+      candidate species under the California Endangered Species Act.
+
+      However, the City’s determination is based on the report’s identification of potential or
+      context-dependent ecological functions, not evidence that mountain lions actually use or
+      occupy the property. The report concedes the lack of any affirmative evidence of
+      mountain lion presence but argues that the absence of telemetry data “does not show
+      that no mountain lion ever entered or used the property.” While that is true, the
+      observation does not establish the opposite, that mountain lions do use the site or that it
+      does serve as a habitat. Likewise, the report further acknowledges that the site “is a
+      modified and actively managed urban landscape; it is not equivalent to intact natural
+      communities” found elsewhere in the Santa Monica Mountains. Habitat is land that
+      provides food, shelter, and other resources necessary to support the species. 6 By
+      describing the site as a significantly altered urban landscape with no demonstrated
+      mountain lion presence, the report undermines its own conclusions. 7
+
+
+
+3 Gov. Code, §§ 65912.100-65912.140.
+4 Gov. Code , §§ 65912.111, subd. (e), 65912.121, subd. (g).
+5 Gov. Code, § 65913.4, subd. (a)(6)(J).
+6 Letter to Town of Woodside “RE: Violations of Government Code Sections 6582.21 and 66411.7
+
+and the California Constitution,” Rob Bonta, Attorney General. Available at:
+https://oag.ca.gov/system/files/attachments/press-
+docs/AG%20Letter%20to%20Woodside%20re%20SB%209.pdf.
+7 Id.
+      Lisa Webber, Deputy Director
+      Page 3
+
+
+
+      Further, the statute says, “is … habitat,” not “may provide functions relevant to …
+      habitat.” 8 The exemption applies only to parcels that are actually serving as habitat, not
+      parcels that are merely relevant to, might serve, or theoretically provide ecological
+      functions. Yet the report on which the City’s determination is based defines “habitat” in
+      terms of potential capability rather than actual use. The author explicitly frames their
+      analysis on whether the site “provides resources, conditions, or functions relevant to”
+      mountain lions, which is an assessment of theoretical capacity and not evidence of
+      actual habitat utilization, and therefore is not a valid basis to deem the project ineligible.
+      Under Government Code section 65913.4, subdivision (a)(6)(J), conjectural potential is
+      insufficient. The City must demonstrate that the site actually serves as a habitat, for
+      which the report offers no such evidence.
+
+      Standard of Review Pursuant to Government Code Section 65912.124
+
+      AB 2011 establishes a clear and predictable evidentiary framework governing
+      consistency determinations. Government Code section 65912.124, subdivision (b)(1) 9
+      provides that a development is consistent with objective planning standards when the
+      application contains “substantial evidence that would allow a reasonable person to
+      conclude that the development is consistent with objective planning standards.”
+
+      Here, the applicant has met that standard. As part of the full application submittal, the
+      applicant provided two biological assessments prepared by qualified professionals,
+      including a “Biological Assessment for AB 2011” dated July 17, 2026, completed by
+      South Environmental, a firm on the City’s own list of Qualified Biological Consultants. 10
+      These assessments rely on recognized scientific methodologies and provide well-
+      supported conclusions that the site does not constitute a mountain lion habitat. The
+      City’s own statement acknowledges the key facts established in those materials: “the
+      property’s management as a golf course, the absence of documented mountain lion
+      GPS locations on the property, and the absence of identified continuous intact wildlife
+      corridor across it.”11 Under the reasonable person standard found in AB 2011, this
+      serves as substantial evidence demonstrating that the site does not function as a
+      mountain lion habitat.
+
+      AB 2011 requires substantial evidence of actual habitat conditions. The applicant’s
+      assessments clearly established the absence of such conditions—including the lack of
+      documented mountain lion use, the developed nature of the landscape, and the limited
+      cover capable of supporting mountain lion behavior—that would allow a reasonable
+
+8 Gov. Code, § 65913.4, subd. (a)(6)(J).
+9 The proposed project qualifies for AB 2011 as a Mixed-Income Housing Development pursuant to
+
+Government Code sections 65912.120-65912.124.
+10 https://planning.lacity.gov/odocument/ffa0cb4a-8347-4879-8cb3-
+
+90ec5bc344da/2025_CityofLA_QualifiedBiologicalConsultant.pdf.
+11 City of Los Angeles. Planning Memorandum: Professional Statement Regarding Habitat for
+
+Protected Species at Woodland Hills Golf Club. Prepared by Kat Superfisky, Certified Senior
+Ecologist. August 19, 2026.
+Lisa Webber, Deputy Director
+Page 4
+
+
+person to conclude that the parcel does not serve as a habitat for a protected species.
+Accordingly, the project remains eligible for streamlined ministerial approval under
+AB 2011.
+
+AB 712 Enforcement Actions—Fines and Penalties
+
+Additionally, HCD would like to remind the City that AB 712 (Chapter 496, Statutes of
+2025) went into effect on January 1, 2026, under Government Code section 65914.2.
+Among other provisions, this law increases the penalties that a court may impose on a
+local government if, prior to the commencement of a lawsuit alleging a violation of state
+housing laws such as AB 2011, the local government was advised in writing by the
+Attorney General or HCD that the local government’s decision, action, or inaction would
+represent a violation of those laws. This letter serves to inform the City that the City’s
+determination of the Project’s ineligibility under AB 2011, as set forth above, is a
+violation of AB 2011.
+
+Conclusion and Next Steps
+
+Under Government Code section 65585, subdivision (j), HCD must notify local
+government when that local government takes actions that violate AB 2011 and other
+laws that HCD enforces and may notify the California Office of Attorney General of
+these and other violations of state housing laws. As outlined above, HCD has concluded
+that the City’s determination that the proposed project is ineligible for ministerial
+processing under AB 2011 appears to be in violation of state housing law.
+
+HCD requests that the City review this correspondence and provide a written response
+no later than November 25, 2026. HCD will review and consider the City’s written
+response before taking any action authorized by Government Code section 65585,
+subdivisions (i) and (j). As noted above, such action could include referral to the Office
+of Attorney General.
+
+HCD appreciates the opportunity to provide technical assistance to ensure proper
+implementation of the provisions of AB 2011 and other state housing laws over which
+HCD has enforcement authority. If you have questions or need additional information,
+please contact Mackenzie Goldberg at Mackenzie.Goldberg@hcd.ca.gov
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Assistant Deputy Director, Housing Accountability

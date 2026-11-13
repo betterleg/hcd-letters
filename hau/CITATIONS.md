@@ -1,21 +1,21 @@
 # Statute citations in the letters (HAU)
 
-Parsed from the letter text by `scripts/parse_citations.py`: 20,685 letter–citation rows from 1,332 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
+Parsed from the letter text by `scripts/parse_citations.py`: 20,735 letter–citation rows from 1,337 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
 
 Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `HSC 17021.5`.
 
 ## Check against HCD's Statutory Reference tags
 
-HCD gave the 1,303 tagged letters with text 5,196 section tags. For each tag:
+HCD gave the 1,307 tagged letters with text 5,203 section tags. For each tag:
 
 | Result | Tags | Share |
 |---|---|---|
-| Found by the parser | 2,460 | 47% |
+| Found by the parser | 2,467 | 47% |
 | Covered by a range the letter cites (e.g. §§ 66310–66342) | 1,108 | 21% |
 | **Number appears in the text but the parser missed it** | 35 | 1% |
 | Not in the letter text at all (HCD tags the topic, not only what the letter cites) | 1,593 | 31% |
 
-The parser also found 7,196 cited sections HCD didn't tag.
+The parser also found 7,213 cited sections HCD didn't tag.
 
 ### Parser misses to fix
 
@@ -23,8 +23,8 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 
 | Section | Letters | Example |
 |---|---|---|
-| `66310` | 8 | CSTASK0024806: …ble New Government Code Sections Previous Government Code Sections Article 1. General Provisions 66310 65852.150 (a) 66311 65852.150 (b) 66312 65852.150 (c)… |
 | `66312` | 8 | CSTASK0024806: …ious Government Code Sections Article 1. General Provisions 66310 65852.150 (a) 66311 65852.150 (b) 66312 65852.150 (c) 66313 General Definition Section 65852.2… |
+| `66310` | 8 | CSTASK0024806: …ble New Government Code Sections Previous Government Code Sections Article 1. General Provisions 66310 65852.150 (a) 66311 65852.150 (b) 66312 65852.150 (c)… |
 | `21064.3` | 3 | CSTASK0026391: …of the Tiburon Ferry Terminal, a major transit stop as defined under Public Resources Code section 21064.3, subdivision (b) and therefore potentially eligible… |
 | `21080.66` | 2 | CSTASK0027076: …tar.com/Calendar.aspx#docaccess-eaa2524360b48dbf634bac57ae37e000, PDF page 112. 5 Pub. Res. Code, § 21080.66. 6 PL25-0067 (SA) and PL25-0068 (TTM 20794) Chino P… |
 | `50053` | 2 | CSTASK0022013: …for the lower income density bonus units shall be set at an affordable rent, as defined in Section 50053 of the Health and Safety Code.” 3 Health and Safety C… |
@@ -44,20 +44,20 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 
 | Citation | Letters |
 |---|---|
-| `65585` | 673 |
-| `65589.5` | 517 |
-| `65580` | 441 |
+| `65585` | 676 |
+| `65589.5` | 518 |
+| `65580` | 442 |
 | `66323` | 350 |
 | `66314` | 347 |
 | `65583` | 317 |
 | `66321` | 312 |
-| `65583.2` | 307 |
+| `65583.2` | 308 |
 | `66326` | 303 |
 | `66333` | 297 |
 | `66317` | 292 |
 | `66315` | 280 |
 | `66313` | 278 |
-| `65588` | 260 |
+| `65588` | 261 |
 | `66332` | 237 |
 | `66316` | 226 |
 | `65852.2` | 206 |
@@ -71,16 +71,16 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66329` | 146 |
 | `66328` | 145 |
 | `CIV 714.3` | 143 |
-| `17556` | 141 |
 | `66333.5` | 141 |
-| `66324` | 134 |
+| `17556` | 141 |
 | `66335` | 134 |
+| `66324` | 134 |
 | `66331` | 125 |
 | `CIV 4751` | 124 |
 | `66320` | 123 |
 | `17980.12` | 123 |
-| `CIV 4740` | 120 |
 | `CIV 4741` | 120 |
+| `CIV 4740` | 120 |
 | `65852.26` | 119 |
 | `66322` | 78 |
 | `65583.4` | 68 |
@@ -89,10 +89,10 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 
 | Citation | Letters |
 |---|---|
-| `65585(j)` | 615 |
-| `65589.5(d)` | 443 |
-| `65585(l)` | 380 |
-| `65585(i)` | 358 |
+| `65585(j)` | 617 |
+| `65589.5(d)` | 444 |
+| `65585(l)` | 381 |
+| `65585(i)` | 360 |
 | `66323(a)` | 326 |
 | `66321(b)` | 310 |
 | `66314(d)` | 296 |
@@ -117,24 +117,24 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66333(g)` | 144 |
 | `66329(a)` | 142 |
 | `66314(a)` | 142 |
-| `66311.5(a)` | 141 |
 | `66326(d)` | 141 |
 | `CIV 714.3(b)` | 141 |
+| `66311.5(a)` | 141 |
 | `66326(a)` | 139 |
 | `66324(c)` | 126 |
 | `66313(b)` | 124 |
 | `65585(b)` | 123 |
 | `66313(m)` | 122 |
+| `66335(2)` | 120 |
 | `CIV 4741(a)` | 120 |
 | `CIV 4740(a)` | 120 |
-| `66335(2)` | 120 |
 | `65852.2(e)` | 93 |
 
 ## Most-cited full citations
 
 | Citation | Letters |
 |---|---|
-| `65585(l)(1)` | 371 |
+| `65585(l)(1)` | 372 |
 | `66323(a)(4)(A)(ii)` | 215 |
 | `66314(d)(11)` | 208 |
 | `66323(a)(3)(A)` | 204 |
@@ -142,7 +142,7 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `65589.5(h)(3)` | 179 |
 | `66314(b)(1)` | 174 |
 | `66323(a)(1)` | 172 |
-| `65589.5(d)(6)` | 157 |
+| `65589.5(d)(6)` | 158 |
 | `66326(c)(1)` | 149 |
 | `66317(a)(2)(A)` | 147 |
 | `66326(b)(2)(A)` | 145 |
@@ -166,11 +166,11 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `65585(i)(1)(B)` | 56 |
 | `66321(b)(4)` | 51 |
 | `65589.5(f)(6)` | 48 |
-| `66323(a)(4)` | 45 |
-| `65852.2(c)(2)(C)` | 45 |
-| `65588(e)(4)(C)` | 45 |
 | `65852.2(e)(1)` | 45 |
-| `66314(d)(12)` | 40 |
+| `66323(a)(4)` | 45 |
+| `65588(e)(4)(C)` | 45 |
+| `65852.2(c)(2)(C)` | 45 |
 | `66323(a)(3)` | 40 |
+| `66314(d)(12)` | 40 |
 | `65852.2(e)(1)(A)` | 38 |
 | `65588(e)(4)(C)(i)` | 38 |

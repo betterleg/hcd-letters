@@ -293,6 +293,7 @@ Arrollo Grande Corrective Action Letter,Arrollo Grande Corrective Action Letter,
 Arroyo Grande Successful Completion of Corrective Action Letter,Arroyo Grande Successful Completion of Corrective Action Letter,auto,1
 article 34,Article 34,auto,1
 Atwater NOV,Atwater NOV,auto,1
+"auburn, corrective action letter,",Auburn | Corrective action letter,auto,1
 Avalon Rezone Corrective Action Letter,Avalon Rezone Corrective Action Letter,auto,1
 Avalon Rezone LOI,Avalon Rezone LOI,auto,1
 Avalon Rezone Successful Completion of Corrective Action Letter,Avalon Rezone Successful Completion of Corrective Action Letter,auto,1
@@ -436,6 +437,7 @@ Eastvale Rezone LOI,Eastvale Rezone LOI,auto,1
 Economic Feasibility Analysis,Economic Feasibility Analysis,auto,1
 EIR certification,EIR certification,auto,1
 El Centro Rezone LOI,El Centro Rezone LOI,auto,1
+"el dorado county, hei, loi",El dorado county | Hei | Letter of inquiry,auto,1
 El Monte Rezone Corrective Action Letter,El Monte Rezone Corrective Action Letter,auto,1
 El Monte Rezone LOI,El Monte Rezone LOI,auto,1
 El Monte Rezone TA Letter,El Monte Rezone TA Letter,auto,1
@@ -603,8 +605,11 @@ La Puente Rezone LOI,La Puente Rezone LOI,auto,1
 La Quinta Rezone LOI,La Quinta Rezone LOI,auto,1
 La Verne Rezone LOI,La Verne Rezone LOI,auto,1
 Laguna Niguel Rezone LOI,Laguna Niguel Rezone LOI,auto,1
+"lake elsinore, housing element implementation, loi",Lake elsinore | Housing element implementation | Letter of inquiry,auto,1
 Lakewood Rezone LOI,Lakewood Rezone LOI,auto,1
+"lakewood, hei, loi",Lakewood | Hei | Letter of inquiry,auto,1
 Lampson,Lampson,auto,1
+"lancaster, hei, loi",Lancaster | Hei | Letter of inquiry,auto,1
 Land Use Designation,Land Use Designation,auto,1
 Lawndale Rezone LOI,Lawndale Rezone LOI,auto,1
 Legally Built,Legally Built,auto,1
@@ -621,6 +626,7 @@ local development standards.,Local development standards,auto,1
 Local historic registers,Local historic registers,auto,1
 local rapid bus line,Local rapid bus line,auto,1
 Locally Preferred Alternative,Locally Preferred Alternative,auto,1
+"loma linda, hei, loi",Loma linda | Hei | Letter of inquiry,auto,1
 Lomita Rezone LOI,Lomita Rezone LOI,auto,1
 long beach,Long beach,auto,1
 Long Beach Rezone LOI,Long Beach Rezone LOI,auto,1
@@ -640,6 +646,7 @@ lower income households,Lower income households,auto,1
 lower income RHNA shortfall,lower income RHNA shortfall,auto,1
 Mallard Pointe,Mallard Pointe,auto,1
 Manteca Rezone LOI,Manteca Rezone LOI,auto,1
+"Marysville, hei, loi",Marysville | Hei | Letter of inquiry,auto,1
 Maximum ADU Size,Maximum ADU Size,auto,1
 Maximum Allowable Density,Maximum Allowable Density,auto,1
 Maximum Allowable Gross Residential Density.,Maximum Allowable Gross Residential Density,auto,1
@@ -654,6 +661,7 @@ Mendocino County HEI LOI,Mendocino County HEI LOI,auto,1
 Mendota Rezone Corrective Action Letter,Mendota Rezone Corrective Action Letter,auto,1
 Mendota Rezone LOI,Mendota Rezone LOI,auto,1
 Mendota Rezone Successful Completion of Corrective Action Letter,Mendota Rezone Successful Completion of Corrective Action Letter,auto,1
+"menlo park, technical assistance, housing element law",Menlo park | Technical assistance | Housing element,auto,1
 MI,MI,auto,1
 MI units,MI units,auto,1
 Mill Valley Corrective Action Letter,Mill Valley Corrective Action Letter,auto,1
@@ -686,10 +694,12 @@ Moorpark Rezone LOI,Moorpark Rezone LOI,auto,1
 Moraga Rezone LOI,Moraga Rezone LOI,auto,1
 Moreno Valley Rezone LOI,Moreno Valley Rezone LOI,auto,1
 Morro Bay TA Letter,Morro Bay TA Letter,auto,1
+"morro bay, hei, loi",Morro bay | Hei | Letter of inquiry,auto,1
 mountain lions,Mountain lions,auto,1
 Multifamily allowance,Multifamily allowance,auto,1
 Multifamily Lots,Multifamily Lots,auto,1
 Multifamily unit allowance,Multifamily unit allowance,auto,1
+"murrieta, hei, loi",Murrieta | Hei | Letter of inquiry,auto,1
 National Flood Insurance Program,National Flood Insurance Program,auto,1
 nested requirements.,Nested requirements,auto,1
 net acreage,Net acreage,auto,1
@@ -724,6 +734,7 @@ overdue Housing Element,overdue Housing Element,auto,1
 owner occupancy standards,Owner occupancy standards,auto,1
 ownership,Ownership,auto,1
 OWTS,OWTS,auto,1
+"oxnard, housing element implementation, loi",Oxnard | Housing element implementation | Letter of inquiry,auto,1
 pad,Pad,auto,1
 palmdale,Palmdale,auto,1
 Paramount Rezone Corrective Action Letter,Paramount Rezone Corrective Action Letter,auto,1
@@ -839,6 +850,7 @@ right to privacy,Right to privacy,auto,1
 Rio Dell HEI LOI,Rio Dell HEI LOI,auto,1
 Riverside,Riverside,auto,1
 Riverside Rezone LOI,Riverside Rezone LOI,auto,1
+"riverside, loi, hei",Riverside | Letter of inquiry | Hei,auto,1
 road dedication,Road dedication,auto,1
 road dedications,Road dedication,auto,1
 Rocklin,Rocklin,auto,1
@@ -867,6 +879,7 @@ San Fernando Rezone LOI,San Fernando Rezone LOI,auto,1
 San Francisco Housing Element,San Francisco Housing Element,auto,1
 San Gabriel Rezone LOI,San Gabriel Rezone LOI,auto,1
 San Gabriel Rezone TA Letter,San Gabriel Rezone TA Letter,auto,1
+"san jose, housing element implementation, letter of inquiry",San jose | Housing element implementation | Letter of inquiry,auto,1
 San Juan Capistrano LOI,San Juan Capistrano LOI,auto,1
 San Juan Capistrano Rezone LOI,San Juan Capistrano Rezone LOI,auto,1
 San Luis Obispo HEI LOI,San Luis Obispo HEI LOI,auto,1
@@ -990,6 +1003,7 @@ Use,Use,auto,1
 Vacancy,Vacancy,auto,1
 vacant,Vacant,auto,1
 vacant lot,Vacant lot,auto,1
+"vacaville, hei, loi",Vacaville | Hei | Letter of inquiry,auto,1
 Valley Glen,Valley Glen,auto,1
 Value of Density Bonus Units,Value of Density Bonus Units,auto,1
 Venice Dell,Venice Dell,auto,1
@@ -1001,6 +1015,7 @@ vesting preliminary application,Vesting preliminary application,auto,1
 vesting state law,Vesting state law,auto,1
 Vesting tentative map,Vesting tentative map,auto,1
 Victorville Rezone LOI,Victorville Rezone LOI,auto,1
+"victorville, housing element implementation review",Victorville | Housing element implementation review,auto,1
 Visalia Rezone LOI,Visalia Rezone LOI,auto,1
 Vista,Vista,auto,1
 Vista HEI LOI,Vista HEI LOI,auto,1
@@ -1018,7 +1033,10 @@ wetlands,Wetland,auto,1
 Wheatland HEI LOI,Wheatland HEI LOI,auto,1
 Whittier Rezone LOI,Whittier Rezone LOI,auto,1
 Willits HEI LOI,Willits HEI LOI,auto,1
+"windsor, housing element law, housing element implementation",Windsor | Housing element | Housing element implementation,auto,1
 Winters Rezone LOI,Winters Rezone LOI,auto,1
+"winters, housing element implementation, letter of inquiry",Winters | Housing element implementation | Letter of inquiry,auto,1
+"yolo county, hei, loi",Yolo county | Hei | Letter of inquiry,auto,1
 Yuba City Rezone Corrective Action Letter,Yuba City Rezone Corrective Action Letter,auto,1
 Yuba City Rezone LOI,Yuba City Rezone LOI,auto,1
 Yuba City Rezone TA Letter,Yuba City Rezone TA Letter,auto,1

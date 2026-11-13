@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027314",
+  "case_number": "HAU0003876",
+  "letter_date": "2019-09-18",
+  "jurisdiction": "San Juan Capistrano",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65863(b) | 65863(c)(2)",
+  "n_statutes": "2",
+  "keywords": "180 days | HE NNL | sufficient additional, adequate, and available sites",
+  "n_keywords": "3",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/4ea386054768971088b9fbbfe16d43ec",
+  "hcd_letter": "San Juan Capistrano Technical Assistance Letter 09/18/2019",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/4ea386054768971088b9fbbfe16d43ec",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 173191,
+  "text_chars": 7868,
+  "text_empty": false
+}

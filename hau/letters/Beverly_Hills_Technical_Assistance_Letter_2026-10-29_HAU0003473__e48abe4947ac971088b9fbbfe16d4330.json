@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027678",
+  "case_number": "HAU0003473",
+  "letter_date": "2026-10-29",
+  "jurisdiction": "Beverly Hills",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "statutes": "65912.157(h)(1)",
+  "n_statutes": "1",
+  "keywords": "SB 79",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e48abe4947ac971088b9fbbfe16d4330",
+  "hcd_letter": "Beverly Hills Technical Assistance Letter 10/29/2026",
+  "housing_law": "Transit Oriented Development Zones (SB 79 of 2025)",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e48abe4947ac971088b9fbbfe16d4330",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 167745,
+  "text_chars": 4494,
+  "text_empty": false
+}

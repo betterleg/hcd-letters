@@ -1,0 +1,325 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                     GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, 10th Floor, Suite 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+          October 27, 2026
+
+
+          Sean del Solar, Principal Planner
+          City of San Marcos
+          1 Civic Center Drive
+          San Marcos, CA 92069
+
+          Dear Sean del Solar:
+
+          RE: City of San Marcos’ – Review of Enacted Ordinance to Implement SB 79
+              (Gov. Code, §§ 65912.155 - 65912.162)
+
+          Thank you for submitting the City of San Marcos’ (City) enacted Senate Bill (SB) 79
+          Urgency Ordinance and Ordinance (Ordinances) and supporting documents, adopted
+          under Ordinances No. 2026-1580 (Urgency Ordinance)1 and No. 2026-1581
+          (Permanent Ordinance) to amend Title 20 of the San Marcos Municipal Code to add
+          Chapter 20.280 (Transit-Oriented Development) to:
+
+               •    Incorporate the standards in Government Code section 65912.157 and additional
+                    objective development and design standards per Government Code section
+                    65912.160, subdivision (c)(1); and
+               •    Exempt sites where there are no walking paths of less than one mile to the
+                    nearest transit-oriented development (TOD) stop per Government Code section
+                    65912.160, subdivision (e)(1); and
+               •    Temporarily exclude all sites in a very high fire hazard severity zone per
+                    Government Code section 65912.161, subdivision (b)(1)(D).
+
+          Pursuant to Government Code section 65912.160, subdivision (d)(3)(A), this letter
+          consists of the California Department of Housing and Community Development’s (HCD)
+          findings that the Ordinances are not in substantial compliance with SB 79 as of the
+          date of this letter. The standards and provisions of Government Code section
+
+
+1 HCD has not evaluated whether the City met the requirements for passing an urgency
+
+ordinance pursuant to Government Code section 65858. HCD understands that Ordinance No.
+2026-1580 expired on August 27, 2026. On July 17, 2023, the California Office of the Attorney
+General issued legal guidance for local governments regarding requirements under state law
+that apply to the enactment of urgency ordinances, available at
+https://oag.ca.gov/system/files/attachments/press-docs/7-17-
+23%20Letter%20Urgency%20Ordinances%20and%20Ministerial%20Approval%20of%20Hous
+ing%20Projects.pdf.
+      Sean del Solar, Principal Planner
+      Page 2
+
+
+      65912.157 apply in the City unless and until the City adopts and enacts an amended
+      Ordinance and zoning map to comply with HCD's findings. 2
+
+      Findings
+
+      HCD reviewed the documents submitted by the City (see Attachment A - Table 1 City of
+      San Marcos Submittal Documents) and finds that revisions will be necessary to
+      substantially comply with the requirements of Government Code section 65912.161.
+      Specifically:
+
+      1. Section 20.280.040 (Eligible Sites). Subsection A states:
+
+             “Parcels located within a transit-oriented development zone and zoned for
+             residential use (R-1-20, R-1-10, R-1-7.5, R-2, R-3-6, R-3-10 Zones, and R-MHP),
+             mixed use development (MU-1 and MU-2 Zones), commercial use (C and NC
+             Zones), or within a Specific Plan Area (SPA) containing a residential, mixed-use,
+             or commercial land use district shall be eligible for a transit-oriented housing
+             development project pursuant to this chapter, subject to the applicable
+             development standards of the transit-oriented development zone[.]”
+
+      Government Code section 65912.157, subdivision (a) states (emphasis added): “A
+      housing development project shall be an allowed use as a transit-oriented housing
+      development on any site zoned for residential, mixed, or commercial development
+      within one-half or one-quarter mile of a transit-oriented development stop….”
+      HCD previously issued technical assistance explaining that “zoned for” means
+      principally or conditionally permitted within a zone. 3
+
+      In addition to the eligible sites identified in Section 20.280.040(A), there are further
+      zoning districts that contain eligible SB 79 sites according to the City’s Planning Code
+      because the zones principally or conditionally permit residential, mixed, or commercial
+      development. HCD finds the following zones are within the City’s TOD zones and are
+      not otherwise exempted or excluded from SB 79:
+
+         •   Office Professional (OP) Zone: Section 20.220.040 principally or conditionally
+             permits commercial development, including but not limited to lodging (hotels and
+             motels), restaurants, financial institutions, internet-based sales, offices, and
+             personal services, including fitness/health and instructional. 4 Additionally, San
+             Marcos Municipal Code Section 20.220.020(C) states that the zone is intended for
+             “the development of professional offices, business support, and personal
+             services.”
+
+2 Gov. Code, § 65912.161, subds. (b)(1) and (b)(2).
+3 HCD TA Letter to the City of Los Angeles, dated June 22, 2026. Available at:
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/los-angeles-sb-
+79-ta-hau-2738-062226.pdf.
+4 See Table 20.220-2,
+
+https://library.municode.com/ca/san_marcos/codes/code_of_ordinances?nodeId=TIT20ZO_CH
+20.220COZO_S20.220.040ALCOUSPERE.
+        Sean del Solar, Principal Planner
+        Page 3
+
+
+          •   Senior Residential (SR) Zone: Section 20.220.040 principally or conditionally
+              permits residential and commercial development, including but not limited to adult
+              residential facilities; residential care facilities; supportive housing; transitional
+              housing; senior/age-restricted dwellings; merchandise sales with new retail less
+              than 100,000 square feet; and personal services except for instructional. 5
+              Additionally, San Marcos Municipal Code Section 20.220.020(D) states that the
+              zone is intended for “a full range of housing and assisted life care facilities for
+              older adults, with supportive services located near commercial and transit
+              opportunities.”
+          •   Light Industrial (L-I) Zone: Section 20.230.040 principally or conditionally
+              permits commercial development, including but not limited to merchandise sales,
+              including new retail less than 30,000 square feet, showrooms, or used/pawn;
+              restaurants; internet-based sales; offices; and personal services. 6
+          •   Industrial (I) Zone: Section 20.230.040 principally or conditionally permits
+              residential and commercial development, including but not limited to emergency
+              shelters; merchandise sales, including new retail less than 30,000 square feet,
+              showrooms, or used/pawn; restaurants, take-out; internet-based sales; offices,
+              including corporate, administrative; and personal services, including fitness/health
+              facility and instructional. 7
+          •   Industrial 2 (I-2) Zone: Section 20.230.040 principally or conditionally permits
+              commercial development, including but not limited to catering; commercial
+              artist/production studios; internet-based sales; and offices, including corporate,
+              administrative. 8
+
+        Based on the City’s submitted materials, HCD was unable to verify all the zoning
+        districts represented in the City’s TOD zones. In addition to the zones listed above, the
+        City shall include as eligible sites all other districts within the City’s TOD zones that
+        principally or conditionally permit residential, mixed, or commercial developments.
+
+        2. Zoning Map. Government Code section 65912.161, subdivision (b)(2) states:
+
+              “A local government that has adopted an ordinance pursuant to this subdivision
+              shall indicate on its public zoning map which sites or transit-oriented
+              development zones are and are not covered by Section 65912.157.”
+
+
+
+
+5 Id.
+6 See Table 20.230-2,
+
+https://library.municode.com/ca/san_marcos/codes/code_of_ordinances?nodeId=TIT20ZO_CH
+20.230INZO_S20.230.040ALINUSPERE.
+7 Id.
+8 Id.
+      Sean del Solar, Principal Planner
+      Page 4
+
+
+
+      The City, in its resolutions adopting the Ordinances, included maps of the areas and
+      sites within TOD zones that are exempted and excluded from SB 79. However, as
+      related to Finding 1 above, the City’s public zoning map 9 does not indicate the sites or
+      TOD zones that are and are not covered by Section 65912.157.
+
+      Conclusion
+
+      The City has until Saturday, December 26, 2026 (60 days from this letter), to respond to
+      the written findings. 10 Pursuant to Government Code section 65912.160, subdivision
+      (d)(5), the City must consider the findings provided here and must either amend the
+      Permanent Ordinance to comply with HCD’s findings or enact the Permanent Ordinance
+      without changes. If the City chooses to enact the ordinance without changes, it must
+      include findings in its resolution adopting the ordinance that explain the reasons the City
+      believes the ordinance complies with Government Code section 65912.161 despite the
+      findings provided by HCD.
+
+      Please note, the City’s Permanent Ordinance, including applicable objective
+      development standards, must not physically preclude a transit-oriented housing
+      development that complies with the applicable development standards of Government
+      Code section 65912.157. 11 HCD reserves the right to request additional information to
+      monitor ongoing substantial compliance with SB 79 and may update its findings should
+      new information come to light.
+
+      HCD appreciates the cooperation of the City of San Marcos staff during the course of
+      this review. If you have any questions or need additional information, please contact
+      David Ying at david.ying@hcd.ca.gov. HCD is committed to assisting the City in
+      addressing all statutory requirements of SB 79.
+
+      Sincerely,
+
+
+
+
+      Grace Wu
+      Section Chief, Transit-Oriented Development
+
+      Enclosure
+
+      Attachment A – Table 1 City of San Marcos Submittal Document
+
+
+
+
+9 Available at https://www.sanmarcosca.gov/Business-Services/Development/Planning/Zoning-
+
+Portal.
+10 Gov. Code, § 65912.160, subd. (d)(4).
+11 Gov. Code, § 65912.160, subd. (c)(1).
+                                       Attachment A
+    Table 1 City of San Marcos Submittal Documents
+                                                                                Submittal
+      Filename                  Document Description
+                                                                                Date
+      0. sb-79-local-
+                                   •   Draft ordinances local enactment
+1     enactment-submittal-                                                      2026-06-30
+                                       submittal form (p. 1-7)
+      form.pdf
+                                   •   Resolution PC 26-5216 (p. 1-4)
+                                   •   Exhibit A: Tier 2 Transit-Oriented
+                                       Development Stops (p. 5-6)
+                                   •   Exhibit B: Exempted Areas (p. 7-8)
+      1. San
+                                   •   Exhibit C: Excluded Sites (p. 9-10)
+2     Marcos_Resolution PC                                                      2026-06-30
+      26-5216.pdf                  •   Exhibit D: Exempted Areas and
+                                       Excluded Sites (p. 11-12)
+                                   •   Exhibit E: San Marcos Municipal Code
+                                       Chapter 20.800 Transit-Oriented
+                                       Development (p. 13-20)
+                                   •   San Marcos Municipal Code Chapter
+                                       20.800 Transit-Oriented Development
+      2. San Marcos_Proposed           (p. 1-7)
+3     Ord (SMMC Chp                •   SMMC Figure 20.800-1: Exempted           2026-06-30
+      20.800).pdf                      Sites (p. 8)
+                                   •   SMMC Figure 20.800-2: Excluded Sites
+                                       (p. 9)
+      3. SANDAG_Draft SB 79
+                                   •   SANDAG Draft SB 79 Transit-Oriented
+4     Transit-Oriented                                                          2026-06-30
+                                       Development Map (p. 1-4)
+      Development Map.pdf
+      4. San Marcos_Walking
+                                   •   San Marcos One-Mile Walking Path
+5     Path Exemption                                                            2026-06-30
+                                       Methodology (p. 1-2)
+      Memo.pdf
+      5. San Marcos_Eligible       •   Transit-Oriented Development Eligible
+6                                                                               2026-06-30
+      Sites.pdf                        Sites (p. 1)
+      00_sb-79-local-
+                                   •   Adopted ordinances local enactment
+7     enactment-submittal-                                                      2026-07-30
+                                       submittal form (p. 1-7)
+      form.pdf
+                                   •   July 14, 2026 Staff Report for Urgency
+                                       Ordinance No. 2026-1580 and
+                                       Ordinance No. 2026-1581 (p. 1-9)
+                                   •   Attachment A: Transit-Oriented
+                                       Development Stops and Zones,
+8     01_Staff Report.pdf                                                       2026-07-30
+                                       Exempted Areas, and Excluded Sites
+                                       (p. 10-11)
+                                   •   Attachment B: One-Mile Walking Path
+                                       Methodology Memorandum Dated June
+                                       12, 2026 (p. 12-14)
+    Sean del Solar, Principal Planner
+    Page 6
+
+
+                                                                                    Submittal
+      Filename                   Document Description
+                                                                                    Date
+                                        •   Attachment C: San Marcos Municipal
+                                            Code (SMMC) Chapter 20.280: Transit-
+                                            Oriented Development (p. 15-24)
+                                        •   Attachment D: Notice of Exemption
+                                            (EX26-041) (p. 25-26)
+                                        •   Attachment E: Senate Bill (SB) 79 Full
+                                            Text (p. 27-40)
+                                        •   Attachment F: Planning Commission
+                                            Meeting Minutes from June 15, 2026 (p.
+                                            41-45)
+                                        •   San Marcos Municipal Code (SMMC)
+                                            Chapter 20.280 (p. 1-7)
+      02_San Marcos
+                                        •   SMMC Figure 20.800-1: Exempted
+9     Municipal Code (SMMC)                                                         2026-07-30
+                                            Sites (p. 8)
+      Chapter 20.280).pdf
+                                        •   SMMC Figure 20.800-2: Excluded Sites
+                                            (p. 9)
+                                        •   Ordinance 2026-1580 (p. 1-5)
+                                        •   Exhibit A: Transit-Oriented Development
+                                            Stops and Zones, Exempted Areas, and
+      03_Ordinance 2026-                    Excluded Sites (p. 6-7)
+10                                                                                  2026-07-30
+      1580 (Urgency).pdf                •   Exhibit B: Exempted Areas (p. 8-10)
+                                        •   Exhibit C: San Marcos Municipal Code
+                                            Chapter 20.280: Transit-Oriented
+                                            Development (p. 11-20)
+                                        •   Ordinance 2026-1581 (p. 1-4)
+                                        •   Exhibit A: Transit-Oriented Development
+                                            Stops and Zones, Exempted Areas, and
+      04_Ordinance 2026-                    Excluded Sites (p. 5-6)
+11                                                                                  2026-07-30
+      1581 (Non-Urgency).pdf            •   Exhibit B: Exempted Areas (p. 7-9)
+                                        •   Exhibit C: San Marcos Municipal Code
+                                            Chapter 20.280: Transit-Oriented
+                                            Development (p. 10-19)
+   05_SANDAG Draft SB
+                                        •   SANDAG Draft SB 79 Transit-Oriented
+12 79 Transit-Oriented                                                              2026-07-30
+                                            Development Map (p. 1-4)
+   Development Map.pdf
+                                        •   Attachment B: One-Mile Walking Path
+      06_Walking Path
+13                                          Methodology Memorandum Dated June       2026-07-30
+      Exemption Memo.pdf
+                                            12, 2026 (p. 1-3)
+                                        •   Transit-Oriented Development Eligible
+14 07_Eligible Sites.pdf                                                            2026-07-30
+                                            Sites (p. 1)

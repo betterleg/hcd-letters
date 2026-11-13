@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027850",
+  "case_number": "HAU0003997",
+  "letter_date": "2026-09-17",
+  "jurisdiction": "Riverside",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "riverside, loi, hei",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/bc5d7d413becd7106445e40864e45a7c",
+  "hcd_letter": "Riverside Letter of Inquiry 09/17/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/bc5d7d413becd7106445e40864e45a7c",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 173350,
+  "text_chars": 8883,
+  "text_empty": false
+}

@@ -2,7 +2,7 @@
 
 PDFs of letters that HCD's dashboards list as "Contact HCD for a copy", obtained by request. Each weekly job (and any push to this folder) extracts their text, matches them to the dashboard and adds them to the indexes and the website, marked *requested from HCD*. Instructions are at the bottom of this page.
 
-**4 PDFs**: 0 matched to a dashboard letter, 4 to check. Updated 2026-11-12.
+**4 PDFs**: 0 matched to a dashboard letter, 4 to check. Updated 2026-11-13.
 
 ## Need a look
 
