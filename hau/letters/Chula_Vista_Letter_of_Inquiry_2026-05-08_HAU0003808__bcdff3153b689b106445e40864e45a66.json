@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027051",
+  "case_number": "HAU0003808",
+  "letter_date": "2026-05-08",
+  "jurisdiction": "Chula Vista",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Chula Vista HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/bcdff3153b689b106445e40864e45a66",
+  "hcd_letter": "Chula Vista Letter of Inquiry 05/08/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/bcdff3153b689b106445e40864e45a66",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 215529,
+  "text_chars": 7245,
+  "text_empty": false
+}
