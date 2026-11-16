@@ -1,0 +1,14 @@
+{
+  "county": "Stanislaus",
+  "jurisdiction": "Oakdale",
+  "type": "Adopted",
+  "cycle": "6",
+  "reviewed": "2026-11-09",
+  "linktext": "Click to Download Letter",
+  "weblink": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-oakdale-adopt-in-110926-068cs00002ic7hPAAQ.pdf",
+  "source_url": "https://hcdpowerbi.blob.core.windows.net/housing-elements/sta-oakdale-adopt-in-110926-068cs00002ic7hPAAQ.pdf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 187484,
+  "text_chars": 5236,
+  "text_empty": false
+}

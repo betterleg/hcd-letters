@@ -1,6 +1,6 @@
 # Statute citations in the letters (housing element review)
 
-Parsed from the letter text by `scripts/parse_citations.py`: 28,008 letter–citation rows from 2,164 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
+Parsed from the letter text by `scripts/parse_citations.py`: 28,022 letter–citation rows from 2,166 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
 
 Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `HSC 17021.5`.
 
@@ -8,11 +8,11 @@ Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `H
 
 | Citation | Letters |
 |---|---|
-| `65585` | 2,141 |
-| `65400` | 2,111 |
-| `65583` | 1,353 |
-| `65583.2` | 1,224 |
-| `65580` | 998 |
+| `65585` | 2,143 |
+| `65400` | 2,113 |
+| `65583` | 1,354 |
+| `65583.2` | 1,226 |
+| `65580` | 1,000 |
 | `65583.3` | 995 |
 | `8899.50` | 934 |
 | `65584.09` | 670 |
@@ -28,8 +28,8 @@ Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `H
 | `HSC 17021.6` | 131 |
 | `HSC 17000` | 131 |
 | `65852.2` | 124 |
-| `65940.1` | 79 |
 | `65863` | 79 |
+| `65940.1` | 79 |
 | `65660` | 65 |
 | `HSC 17021.8` | 63 |
 | `65913.4` | 57 |
@@ -43,29 +43,29 @@ Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `H
 | `65583.1` | 23 |
 | `65302.10` | 19 |
 | `65589.5` | 17 |
-| `65661` | 12 |
 | `WIC 4512` | 12 |
-| `65650` | 8 |
+| `65661` | 12 |
 | `65662` | 8 |
+| `65650` | 8 |
 | `21000` | 6 |
 
 ## Most-cited subdivisions
 
 | Citation | Letters |
 |---|---|
-| `65583(c)` | 1,329 |
-| `65585(i)` | 1,139 |
+| `65583(c)` | 1,330 |
+| `65585(i)` | 1,141 |
 | `65583(a)` | 1,047 |
-| `65583.2(c)` | 1,000 |
+| `65583.2(c)` | 1,001 |
 | `65585(b)` | 808 |
 | `65585(c)` | 790 |
 | `65585(h)` | 596 |
-| `65583.2(h)` | 489 |
+| `65583.2(h)` | 491 |
 | `65583.3(b)` | 486 |
-| `65583.2(i)` | 458 |
+| `65583.2(i)` | 460 |
 | `65583.2(g)` | 457 |
-| `65588(b)` | 380 |
 | `65588(a)` | 380 |
+| `65588(b)` | 380 |
 | `65583(b)` | 345 |
 | `65588(e)` | 221 |
 | `65915(c)` | 120 |
@@ -77,8 +77,8 @@ Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `H
 | `65302(g)` | 23 |
 | `65302(h)` | 20 |
 | `65302.10(b)` | 19 |
-| `65588(d)` | 18 |
 | `65583.2(B)` | 18 |
+| `65588(d)` | 18 |
 | `66300(b)` | 15 |
 | `65583.1(c)` | 14 |
 | `65852.2(a)` | 7 |
@@ -88,17 +88,17 @@ Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `H
 | `65852.2(h)` | 4 |
 | `65585(f)` | 4 |
 | `65583.1(d)` | 4 |
-| `65754(a)` | 4 |
 | `65852.2(e)` | 4 |
+| `65754(a)` | 4 |
 | `65585(j)` | 3 |
-| `65585(e)` | 3 |
-| `65585(d)` | 3 |
+| `65852.2(c)` | 3 |
+| `65680(g)` | 3 |
 
 ## Most-cited full citations
 
 | Citation | Letters |
 |---|---|
-| `65583(c)(1)` | 1,088 |
+| `65583(c)(1)` | 1,089 |
 | `65583(a)(3)` | 990 |
 | `65583(c)(5)` | 987 |
 | `65583(c)(10)(A)` | 920 |
@@ -126,15 +126,15 @@ Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `H
 | `65583.2(c)(3)` | 66 |
 | `65940.1(a)(1)` | 66 |
 | `65583(c)(4)` | 52 |
+| `65583(a)(8)` | 28 |
 | `65583.2(c)(2)(C)` | 28 |
 | `65583.2(c)(4)` | 28 |
-| `65583(a)(8)` | 28 |
 | `65583.2(c)(3)(B)` | 16 |
 | `65583.2(c)(3)(A)` | 13 |
 | `66300(b)(1)(D)` | 11 |
 | `65583(c)(10)` | 9 |
-| `65583(c)(1)(3)` | 9 |
 | `65583.2(g)(1)` | 9 |
-| `65852.2(a)(1)` | 5 |
+| `65583(c)(1)(3)` | 9 |
 | `65940.1(a)(1)(B)` | 5 |
+| `65852.2(a)(1)` | 5 |
 | `65583.1(c)(1)` | 4 |

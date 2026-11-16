@@ -1,10 +1,10 @@
 # HCD housing element review letters
 
-5,603 review letters from HCD's [Housing Element Download Tool](https://www.hcd.ca.gov/housing-open-data-tools/housing-element-download-tool) review-letter page. 2,163 have their full text in [`letters/`](letters/); 3,434 are listed as "Contact HCD" with no public copy. Updated automatically; see [CHANGES.md](CHANGES.md) for the latest run.
+5,605 review letters from HCD's [Housing Element Download Tool](https://www.hcd.ca.gov/housing-open-data-tools/housing-element-download-tool) review-letter page. 2,165 have their full text in [`letters/`](letters/); 3,434 are listed as "Contact HCD" with no public copy. Updated automatically; see [CHANGES.md](CHANGES.md) for the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `"sites inventory" path:he_letters/letters`.
 
-Of letters with a finding, HCD found 1,261 out of compliance and 855 in compliance. Median 59 days from submittal to letter.
+Of letters with a finding, HCD found 1,261 out of compliance and 857 in compliance. Median 59 days from submittal to letter.
 
 Finding: HCD's in/out label in the letter's file name, else wording in the letter. Submittal date: the first submittal after HCD's previous letter to the jurisdiction (from the Download Tool, else the date the letter names); revisions sent during a review don't restart it. Days: submittal to letter.
 
@@ -12,7 +12,7 @@ Finding: HCD's in/out label in the letter's file name, else wording in the lette
 
 | Year | Letters |
 |---|---|
-| [2026](index/2026.md) | 112 |
+| [2026](index/2026.md) | 114 |
 | [2025](index/2025.md) | 223 |
 | [2024](index/2024.md) | 421 |
 | [2023](index/2023.md) | 470 |
@@ -41,9 +41,9 @@ Finding: HCD's in/out label in the letter's file name, else wording in the lette
 
 | Type | Letters |
 |---|---|
-| Adopted | 2328 |
+| Adopted | 2329 |
 | Draft | 2275 |
-| Subsequent Draft | 569 |
+| Subsequent Draft | 570 |
 | Initial Draft | 259 |
 | Conditional | 114 |
 | Other | 22 |
@@ -60,7 +60,7 @@ Finding: HCD's in/out label in the letter's file name, else wording in the lette
 
 | Cycle | Letters |
 |---|---|
-| 6 | 2080 |
+| 6 | 2082 |
 | (not listed) | 2006 |
 | 5 | 1435 |
 | 7 | 43 |

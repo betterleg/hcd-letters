@@ -1,28 +1,28 @@
 # What HCD requires: 6th-cycle housing element review letters
 
-From 2,020 6th-cycle review letters with text (1,215 Out, 769 In), by `scripts/letter_requirements.py`. Each finding is filed under the statutory requirement HCD quotes above it and tagged with HCD's topic label. *Round* is the letter's place among the jurisdiction's 6th-cycle reviews, counting every review on the dashboard. Data: [`requirements.csv`](requirements.csv) (one row per finding), [`letter_outcomes.csv`](letter_outcomes.csv) (one row per letter), [`programs.csv`](programs.csv). The CSVs also cover 43 7th-cycle letters; this report waits until the 7th cycle has enough letters to compare.
+From 2,022 6th-cycle review letters with text (1,215 Out, 771 In), by `scripts/letter_requirements.py`. Each finding is filed under the statutory requirement HCD quotes above it and tagged with HCD's topic label. *Round* is the letter's place among the jurisdiction's 6th-cycle reviews, counting every review on the dashboard. Data: [`requirements.csv`](requirements.csv) (one row per finding), [`letter_outcomes.csv`](letter_outcomes.csv) (one row per letter), [`programs.csv`](programs.csv). The CSVs also cover 43 7th-cycle letters; this report waits until the 7th cycle has enough letters to compare.
 
 ## How many reviews it takes
 
-501 of 542 jurisdictions have an In letter in the 6th cycle. The review on which the first In letter came (6 = sixth or later):
+503 of 542 jurisdictions have an In letter in the 6th cycle. The review on which the first In letter came (6 = sixth or later):
 
 | Review | Jurisdictions | Share |
 |---|---|---|
 | 1 | 23 | 5% |
-| 2 | 103 | 21% |
+| 2 | 103 | 20% |
 | 3 | 185 | 37% |
-| 4 | 113 | 23% |
+| 4 | 114 | 23% |
 | 5 | 44 | 9% |
-| 6 | 33 | 7% |
+| 6 | 34 | 7% |
 
 ## What kind of letter each round brings
 
 Share of all letters in each round, grouped by HCD's finding. "Revisions needed" letters carry the appendix of findings; the AB 1398 letters find the element meets the law but hold compliance until rezoning is done.
 
-| Kind of letter | 1st (512) | 2nd (516) | 3rd (448) | 4th+ (544) |
+| Kind of letter | 1st (512) | 2nd (516) | 3rd (448) | 4th+ (546) |
 |---|---|---|---|---|
 | **In compliance** | **4%** | **24%** | **52%** | **72%** |
-| &nbsp;&nbsp;&nbsp;Adopted, substantial compliance | 1% | 11% | 23% | 51% |
+| &nbsp;&nbsp;&nbsp;Adopted, substantial compliance | 1% | 11% | 23% | 52% |
 | &nbsp;&nbsp;&nbsp;Adopted, full compliance | 0% | 7% | 16% | 10% |
 | &nbsp;&nbsp;&nbsp;Draft meets requirements (adopt next) | 0% | 3% | 11% | 7% |
 | &nbsp;&nbsp;&nbsp;Other | 4% | 3% | 2% | 3% |
@@ -110,15 +110,15 @@ HCD's topic labels within the findings, counted when HCD wrote 25+ words of its 
 
 ## The last hurdles before compliance
 
-For the 456 jurisdictions that reached an In letter after at least one "revisions needed" letter: what HCD still raised in that last letter before the In.
+For the 458 jurisdictions that reached an In letter after at least one "revisions needed" letter: what HCD still raised in that last letter before the In.
 
 | Requirement | Share of last letters |
 |---|---|
 | Affirmatively furthering fair housing (programs) (65583(c)(5)) | 75% |
 | Program: adequate sites / rezoning (65583(c)(1)) | 69% |
 | Program: remove governmental and nongovernmental constraints (65583(c)(3)) | 49% |
-| Sites inventory and analysis (65583(a)(3)) | 46% |
-| Affirmatively furthering fair housing (assessment) (65583(c)(10)) | 43% |
+| Sites inventory and analysis (65583(a)(3)) | 45% |
+| Affirmatively furthering fair housing (assessment) (65583(c)(10)) | 42% |
 | Governmental constraints (65583(a)(5)) | 38% |
 | Program: assist housing for lower- and moderate-income households (65583(c)(2)) | 26% |
 | Public participation (65583(c)(9)) | 26% |
@@ -190,50 +190,50 @@ Share of "revisions needed" letters whose findings mention each commitment (keyw
 
 ## Programs HCD names when it finds compliance
 
-In 400 In letters HCD lists programs the jurisdiction "must continue timely and effective implementation" of: 4,887 program mentions, grouped by keywords in the program name.
+In 402 In letters HCD lists programs the jurisdiction "must continue timely and effective implementation" of: 4,920 program mentions, grouped by keywords in the program name.
 
 | Category | Programs named | Share |
 |---|---|---|
-| Other | 824 | 17% |
-| Special needs, homelessness and shelters | 756 | 15% |
-| Affordable housing assistance and incentives | 686 | 14% |
-| Fair housing, mobility and anti-displacement | 561 | 11% |
-| Rezoning and adequate sites | 515 | 11% |
-| Remove constraints and streamline | 420 | 9% |
-| Zoning code amendments and housing types | 367 | 8% |
-| ADUs | 357 | 7% |
+| Other | 828 | 17% |
+| Special needs, homelessness and shelters | 764 | 16% |
+| Affordable housing assistance and incentives | 691 | 14% |
+| Fair housing, mobility and anti-displacement | 567 | 12% |
+| Rezoning and adequate sites | 516 | 10% |
+| Remove constraints and streamline | 424 | 9% |
+| Zoning code amendments and housing types | 370 | 8% |
+| ADUs | 358 | 7% |
 | Conserve, rehabilitate and preserve | 156 | 3% |
 | Infrastructure, water and sewer | 106 | 2% |
 | Monitoring and reporting | 75 | 2% |
-| Outreach, education and collaboration | 64 | 1% |
+| Outreach, education and collaboration | 65 | 1% |
 
 | Most common program names | Letters |
 |---|---|
-| accessory dwelling units | 119 |
+| accessory dwelling units | 120 |
 | affirmatively furthering fair housing | 65 |
-| reasonable accommodation | 50 |
+| reasonable accommodation | 52 |
 | objective design standards | 44 |
 | zoning code amendments | 44 |
 | density bonus | 41 |
-| lot consolidation | 33 |
+| lot consolidation | 34 |
 | adequate sites | 32 |
-| extremely low-income households | 27 |
+| extremely low-income households | 28 |
 | emergency shelters | 25 |
 | affordable housing incentives | 25 |
 | affirmatively further fair housing | 23 |
 | fair housing | 22 |
 | accessory dwelling units (adu | 22 |
 | housing mobility | 19 |
+| affordable housing development | 19 |
 | special needs housing | 19 |
-| affordable housing development | 18 |
 | residential care facilities | 17 |
 | low barrier navigation centers | 16 |
+| transitional and supportive housing | 16 |
 | density bonus ordinance | 16 |
+| farmworker housing | 16 |
 | housing rehabilitation | 16 |
 | zoning ordinance amendments | 16 |
 | large sites | 15 |
-| transitional and supportive housing | 15 |
-| farmworker housing | 15 |
 | support funding for farmworker housing | 14 |
 | group homes | 13 |
 | homeless/unhoused needs | 13 |
@@ -263,8 +263,8 @@ In 400 In letters HCD lists programs the jurisdiction "must continue timely and 
 
 Standard paragraphs (from `PATTERNS.md`) where 10% or fewer of the letters using them are Out findings.
 
-- **513 letters, 1993–2026:** The <JTYPE> must monitor and report on the results of these and other programs through the annual progress report, required pursuant to Government Code section 65400. Please be aware, Government Code section 65585, subdivision (i) grants HCD authority to review any action or failure to act by a local government that it determines is inconsistent with an adopted housing element or housing element l…
+- **515 letters, 1993–2026:** The <JTYPE> must monitor and report on the results of these and other programs through the annual progress report, required pursuant to Government Code section 65400. Please be aware, Government Code section 65585, subdivision (i) grants HCD authority to review any action or failure to act by a local government that it determines is inconsistent with an adopted housing element or housing element l…
 - **211 letters, 2020–2026:** HCD is pleased to find the adopted housing element in substantial compliance with State Housing Element Law (Gov. Code, § 65580 et seq) as of the date of this letter. The adopted element was found to be substantially the same as the revised draft element that HCD’s <DATE> review determined met statutory requirements.
 - **180 letters, 2020–2026:** The revised draft element meets the statutory requirements described in HCD’s <DATE> review. The housing element will substantially comply with State Housing Element Law (Gov. Code, § 65580 et seq) when it is adopted, submitted to, and approved by HCD, in accordance with Government Code section 65585.
 - **169 letters, 2020–2026:** HCD is pleased to find the adopted housing element in full compliance with State Housing Element Law (Article <N> of the Gov. Code). The adopted element addresses the statutory requirements described in HCD’s <DATE> review.
-- **41 letters, 2023–2026:** As a reminder, the <JTYPE> must continue timely and effective implementation of all programs including but not limited to the following:
+- **42 letters, 2023–2026:** As a reminder, the <JTYPE> must continue timely and effective implementation of all programs including but not limited to the following:
