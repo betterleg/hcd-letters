@@ -1,0 +1,194 @@
+STATE OF CALIFORNIA - CALIFORNIA HOUSING AND HOMELESSNESS AGENCY                      GAVIN NEWSOM, Governor
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+DIVISION OF HOUSING POLICY DEVELOPMENT
+651 Bannon Street, Suite. 400
+Sacramento, CA 95811
+(916) 263-2911
+www.hcd.ca.gov
+
+
+
+
+         November 4, 2026
+
+
+
+
+         Scott Claar, Planning Manager
+         City of Tracy
+         Community and Economic Development Planning Division
+         333 Civic Center Plaza
+         Tracy, CA 95376
+
+         Dear Scott Claar:
+
+         RE:       City of Tracy – Builder’s Remedy Provision of the Housing Accountability
+                   Act – Letter of Technical Assistance
+
+         The California Department of Housing and Community Development (HCD) received a
+         request for technical assistance from the City of Tracy (City) regarding the builder’s
+         remedy provisions of the Housing Accountability Act (HAA). 1 Specifically, the City asks
+         whether deed restricting Accessory Dwelling Units (ADUs) for rent in an otherwise for-
+         sale development satisfies the affordability requirements for builder’s remedy
+         developments. This letter clarifies that such an approach does not allow a project to
+         qualify for the benefits of the builder’s remedy.
+
+         Background
+
+         HCD understands that the applicant has proposed four housing development projects
+         totaling 3,084 units of which 2,067 are single family units and 1,017 units are proposed
+         as ADUs. The projects are single-family subdivisions where lots would generally contain
+         a single-family home and an attached ADU, according to the applicant. In each of the
+         four projects, all ADUs are proposed to be deed restricted for lower income households,
+         and no primary single-family units are proposed to be deed restricted. The applicant has
+         submitted SB 330 preliminary applications for each of the four projects while the City did
+         not have a Housing Element found in compliance by HCD. The City is currently
+         processing a full development application for each of the projects. As a result, the
+         applicant asserts that each project qualifies as a “builder’s remedy project.” 2 The
+         projects vested after AB 1893 (Chapter 268, Statutes of 2025) came into effect.
+
+1 Gov. Code, § 65589.5, subds. (f)(6), (h)(11).
+2 Gov. Code, § 65589.5, subd. (f)(6).
+       Scott Claar, Planning Manager
+       Page 2
+
+
+       In a letter to HCD, the applicant asserted that while the HAA requires that affordable
+       units must be deed restricted, it does not require that these affordable units be rented to
+       qualifying households. According to the applicant, single family homes with attached,
+       deed-restricted, low-income ADUs could be sold to individual, private buyers, who could
+       then lawfully leave the low-income ADU vacant or used for other purposes (e.g., guest
+       house, pool house, personal storage, etc.).
+
+       In a letter submitted to HCD seeking technical assistance, the City wrote that it “does
+       not believe that a single-family tract subdivision proposal with ADUs, even if they are
+       constructed on the single-family lots, meets the definition of a ‘builder’s remedy project’
+       if the owners are not actually required to provide the affordable housing to eligible
+       households at an affordable rent for the required 55-year period.” The City informed the
+       applicant that future buyers of the lots must actually rent the ADUs to income eligible
+       households for the project entitlement process to proceed. Specifically, the City
+       envisions that the applicant will need to record a deed restriction – in addition to the
+       household income restriction on the ADUs – that informs owners of purchased lots that
+       contain deed-restricted, affordable units of their affirmative obligation to lease out those
+       affordable units.
+
+       Analysis
+
+       Without appropriate assurances that the ADU units will be made available to,
+       rented to, and occupied by low-income households throughout the 55-year
+       period, the proposed projects would not qualify under the Builder’s Remedy
+
+       The four projects at the subject of this letter do not meet the statutory requirements in
+       the HAA to qualify as a “builder’s remedy project” as proposed. A “builder’s remedy
+       project” is defined as “a housing development project that provides housing for very low,
+       low-, or moderate-income households.” 3 “A housing development project that provides
+       housing for very low, low-, or moderate-income households” is defined to encompass
+       “housing for mixed-income households.”4 The definition for “housing for mixed-income
+       households” requires that the development proponent “shall agree to, and the local
+       agency shall ensure, the continued affordability of all affordable rental units included
+       pursuant to [the HAA] for 55 years.” 5
+
+       Regarding the obligation to facilitate housing affordability, the applicant argues that this
+       provision “does not require that affirmative steps must be taken to ensure an affordable
+       rental unit is actually rented at all times during this period” (April 3, 2026, letter to HCD).
+       In other words, the applicant contends that a builder’s remedy project may deed restrict
+       rental ADUs on lots with single-family units, sell those lots to individual homebuyers,
+       and leave those ADUs unoccupied by income-qualifying households.
+
+
+
+3 Gov. Code, § 65589.5, subd. (h)(11)(A).
+4 Gov. Code, § 65589.5, subd. (h)(3)(C).
+5 Gov. Code, § 65589.5, subds. (h)(3)(A), (h)(3)(C)(ii)(II).
+       Scott Claar, Planning Manager
+       Page 3
+
+
+       This interpretation is incorrect. “A housing development project that provides housing for
+       very low, low-, or moderate-income households” 6 (emphasis added) means that there is
+       an affirmative obligation to rent or sell the unit to qualified households rather than
+       merely imposing deed restrictions. If, for example, units are left vacant for storage, used
+       as pool houses, or rented to households that are not income eligible, they are not
+       providing housing for lower-income households. This understanding of the phrase
+       “provides housing for [qualified households]” is necessary to implement the provision’s
+       plain meaning, as well as to interpret the HAA “in a manner to afford the fullest possible
+       weight to the interest of, and the approval and provision of, housing.”7 (Emphasis
+       added.)
+
+       The project does not meet comparability requirements for affordable units.
+
+       Beyond the projects’ ineligibility as builder’s remedy projects explained above, the
+       projects also appear to violate the requirement that “affordable units in the development
+       project shall have a comparable bedroom and bathroom count as the market rate
+       units.” 8 According to documentation provided by the City, the two projects located on
+       Tracy Boulevard have either three- or four-bedroom primary units (i.e., the market-rate
+       units), while all ADUs (i.e., the affordable units) only include one bedroom. The two
+       other projects – Corral Hollow and Westside Ranch – also only propose one-bedroom
+       ADUs, although the bedroom counts for primary units were not made available.
+
+       The affordable component of a builder’s remedy project must be comparably designed
+       to the rest of the project and provided to qualifying households.
+
+       Using deed-restricted rental ADUs in for-sale developments in the SDBL and HAA
+       can be problematic.
+
+       HCD has previously provided technical assistance letters about deed-restricted ADUs in
+       the context of the State Density Bonus Law (SDBL). 9 The SDBL uses language that
+       mirrors the HAA in requiring that applicants “shall agree to, and the city, county, or city
+       and county shall ensure, the continued affordability” of affordable units that qualified a
+       development for a density bonus. 10 In a Technical Assistance Letter to the City of
+       Wildomar, HCD discussed a proposed single-family subdivision where the primary units
+       would be for sale while the deed-restricted ADUs would be rented out by the primary
+       units’ buyers (like the four proposed projects that are the subject of this letter). 11 The
+       Wildomar letter discusses how using deed-restricted ADUs to qualify for the SDBL is not
+       an unconditional right, but a choice that comes with responsibilities. The ability of deed-
+
+6 Gov. Code, § 65589.5, subd. (h)(11)(A).
+7 Gov. Code, § 65589.5, subd. (a)(2)(L).
+8 Gov. Code, § 65589.5, subd. (f)(6)(G)(ii).
+9 Gov. Code, § 65915.
+10 Gov. Code, § 65915, subd. (c)(1)(A).
+11 Letter of Technical Assistance to the City of Wildomar, February 6, 2026, found at
+
+https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/HAU/wildomar-ta-
+020626.pdf.
+Scott Claar, Planning Manager
+Page 4
+
+
+restricted ADUs to qualify for the SDBL is contingent on the applicant’s ability to ensure
+that deed-restricted affordable units are built and continuously occupied by households
+at qualifying income levels. There, HCD advised against the use of deed-restricted
+ADUs to qualify for the SDBL in a project where primary units are for sale and deed-
+restricted ADUs are for rent.
+
+Significant concerns arise when housing development proponents attempt to deed
+restrict rental ADUs in for-sale developments to become eligible for certain California
+state housing laws, many of which confer benefits to the development proponent in
+exchange for affordability. Future homeowners may not be able to effectively ensure
+compliance with deed restrictions or verify the incomes of prospective tenants. The
+homeowners may also be incentivized to leave units vacant or use them for other
+purposes instead of renting them to eligible tenants, due to the real or perceived
+challenges of managing deed-restricted affordable housing. Such an approach may also
+expose future individual homebuyers to enforceable liabilities they may not fully
+understand at the time of purchase. For these practical reasons, HCD advises against
+the use of deed-restricted, affordable rental ADUs in for-sale housing developments as
+a method to qualify for the benefits of the HAA, SDBL, and potentially other state
+housing laws.
+
+Conclusion
+
+As proposed, the four housing development projects that are the subject of this letter do
+not qualify as builder’s remedy projects under the HAA for the reasons stated above.
+HCD remains committed to supporting the City of Tracy in facilitating housing at all
+income levels and hopes the City finds this clarification helpful. If you have questions or
+need additional information, please contact Brandon Yung at
+brandon.yung@hcd.ca.gov.
+
+Sincerely,
+
+
+
+
+Melinda Coy
+Assistant Deputy Director, Housing Accountability

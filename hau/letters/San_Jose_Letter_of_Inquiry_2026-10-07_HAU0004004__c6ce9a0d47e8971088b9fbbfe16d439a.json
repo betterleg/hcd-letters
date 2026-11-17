@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027857",
+  "case_number": "HAU0004004",
+  "letter_date": "2026-10-07",
+  "jurisdiction": "San Jose",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "san jose, housing element implementation, letter of inquiry",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/c6ce9a0d47e8971088b9fbbfe16d439a",
+  "hcd_letter": "San Jose Letter of Inquiry 10/07/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/c6ce9a0d47e8971088b9fbbfe16d439a",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 197249,
+  "text_chars": 13719,
+  "text_empty": false
+}
