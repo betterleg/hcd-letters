@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026994",
+  "case_number": "HAU0003787",
+  "letter_date": "2026-03-18",
+  "jurisdiction": "Port Hueneme",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Port Hueneme",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/806931cb3b6c57106445e40864e45a43",
+  "hcd_letter": "Port Hueneme Technical Assistance Letter 03/18/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/806931cb3b6c57106445e40864e45a43",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 185268,
+  "text_chars": 4284,
+  "text_empty": false
+}

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026996",
+  "case_number": "HAU0003789",
+  "letter_date": "2026-02-18",
+  "jurisdiction": "Ventura County",
+  "letter_type": "Successful Completion of Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580",
+  "n_statutes": "1",
+  "keywords": "Ventura County Rezone Successful Completion of Housing Element Rezones",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/3b1ab54f3b6c57106445e40864e45a6f",
+  "hcd_letter": "Ventura County Successful Completion of Corrective Action 02/18/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/3b1ab54f3b6c57106445e40864e45a6f",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 160296,
+  "text_chars": 2658,
+  "text_empty": false
+}

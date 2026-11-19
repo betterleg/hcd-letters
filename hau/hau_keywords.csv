@@ -1336,7 +1336,7 @@ CSTASK0023232,flag lot
 CSTASK0023232,urban lot split
 CSTASK0023316,JADU
 CSTASK0023316,single-family zones
-CSTASK0023319,San Luis Obispo HEI LOI
+CSTASK0023319,San Luis Obispo County HEI LOI
 CSTASK0023321,Vista HEI LOI
 CSTASK0023322,Placerville HEI LOI
 CSTASK0023323,Escondido HEI LOI
@@ -2008,3 +2008,7 @@ CSTASK0027866,"windsor, housing element law, housing element implementation"
 CSTASK0027870,"murrieta, hei, loi"
 CSTASK0027871,"vacaville, hei, loi"
 CSTASK0027873,"victorville, housing element implementation review"
+CSTASK0027937,Substantially Compliant
+CSTASK0027949,CCC
+CSTASK0027949,coastal
+CSTASK0027949,LCP

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027852",
+  "case_number": "HAU0003999",
+  "letter_date": "2026-09-18",
+  "jurisdiction": "Lakewood",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "lakewood, hei, loi",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/d1a24a414768971088b9fbbfe16d4361",
+  "hcd_letter": "Lakewood Letter of Inquiry 09/18/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/d1a24a414768971088b9fbbfe16d4361",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 215767,
+  "text_chars": 11827,
+  "text_empty": false
+}

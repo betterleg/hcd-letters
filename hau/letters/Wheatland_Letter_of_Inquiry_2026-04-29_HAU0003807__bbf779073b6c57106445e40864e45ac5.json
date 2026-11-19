@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027050",
+  "case_number": "HAU0003807",
+  "letter_date": "2026-04-29",
+  "jurisdiction": "Wheatland",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Wheatland HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/bbf779073b6c57106445e40864e45ac5",
+  "hcd_letter": "Wheatland Letter of Inquiry 04/29/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/bbf779073b6c57106445e40864e45ac5",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 187437,
+  "text_chars": 5826,
+  "text_empty": false
+}

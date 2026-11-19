@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027046",
+  "case_number": "HAU0003802",
+  "letter_date": "2026-03-18",
+  "jurisdiction": "Colfax",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Colfax HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/0fc8b50b3b6c57106445e40864e45a08",
+  "hcd_letter": "Colfax Letter of Inquiry 03/18/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/0fc8b50b3b6c57106445e40864e45a08",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 170015,
+  "text_chars": 5865,
+  "text_empty": false
+}

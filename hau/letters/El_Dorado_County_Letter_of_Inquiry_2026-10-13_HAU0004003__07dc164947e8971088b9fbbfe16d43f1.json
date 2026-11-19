@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027856",
+  "case_number": "HAU0004003",
+  "letter_date": "2026-10-13",
+  "jurisdiction": "El Dorado County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "el dorado county, hei, loi",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/07dc164947e8971088b9fbbfe16d43f1",
+  "hcd_letter": "El Dorado County Letter of Inquiry 10/13/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/07dc164947e8971088b9fbbfe16d43f1",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 190171,
+  "text_chars": 9589,
+  "text_empty": false
+}

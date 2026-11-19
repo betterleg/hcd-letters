@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027855",
+  "case_number": "HAU0004001",
+  "letter_date": "2026-10-02",
+  "jurisdiction": "Winters",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "winters, housing element implementation, letter of inquiry",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/2bb3960d47a8971088b9fbbfe16d4371",
+  "hcd_letter": "Winters Letter of Inquiry 10/02/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/2bb3960d47a8971088b9fbbfe16d4371",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 213726,
+  "text_chars": 11302,
+  "text_empty": false
+}

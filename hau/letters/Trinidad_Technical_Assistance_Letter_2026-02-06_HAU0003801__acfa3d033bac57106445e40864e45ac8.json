@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027045",
+  "case_number": "HAU0003801",
+  "letter_date": "2026-02-06",
+  "jurisdiction": "Trinidad",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Trinidad HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/acfa3d033bac57106445e40864e45ac8",
+  "hcd_letter": "Trinidad Technical Assistance Letter 02/06/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/acfa3d033bac57106445e40864e45ac8",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 175941,
+  "text_chars": 5698,
+  "text_empty": false
+}

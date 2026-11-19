@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0023319",
+  "case_number": "HAU0003026",
+  "letter_date": "2025-12-03",
+  "jurisdiction": "San Luis Obispo County",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "San Luis Obispo County HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/404b79833bac57106445e40864e45a48",
+  "hcd_letter": "San Luis Obispo County Letter of Inquiry 12/03/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/404b79833bac57106445e40864e45a48",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 169913,
+  "text_chars": 6032,
+  "text_empty": false
+}

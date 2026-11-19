@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026995",
+  "case_number": "HAU0003788",
+  "letter_date": "2026-04-29",
+  "jurisdiction": "San Juan Capistrano",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "San Juan Capistrano Rezone LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/c5973d833b6c57106445e40864e45a1f",
+  "hcd_letter": "San Juan Capistrano Technical Assistance Letter 04/29/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/c5973d833b6c57106445e40864e45a1f",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191431,
+  "text_chars": 4554,
+  "text_empty": false
+}

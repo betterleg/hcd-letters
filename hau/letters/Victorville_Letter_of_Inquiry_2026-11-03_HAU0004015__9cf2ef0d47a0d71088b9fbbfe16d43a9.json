@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027873",
+  "case_number": "HAU0004015",
+  "letter_date": "2026-11-03",
+  "jurisdiction": "Victorville",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "victorville, housing element implementation review",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/9cf2ef0d47a0d71088b9fbbfe16d43a9",
+  "hcd_letter": "Victorville Letter of Inquiry 11/03/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/9cf2ef0d47a0d71088b9fbbfe16d43a9",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 182440,
+  "text_chars": 6076,
+  "text_empty": false
+}

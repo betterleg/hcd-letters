@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0019801",
+  "case_number": "HAU0001794",
+  "letter_date": "2025-03-11",
+  "jurisdiction": "Apple Valley",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "housing element",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/c40c75073bac57106445e40864e45a1b",
+  "hcd_letter": "Apple Valley Letter of Inquiry 03/11/2025",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/c40c75073bac57106445e40864e45a1b",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 166723,
+  "text_chars": 5470,
+  "text_empty": false
+}

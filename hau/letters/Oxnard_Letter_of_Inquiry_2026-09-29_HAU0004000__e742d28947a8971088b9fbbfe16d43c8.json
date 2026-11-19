@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027854",
+  "case_number": "HAU0004000",
+  "letter_date": "2026-09-29",
+  "jurisdiction": "Oxnard",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "oxnard, housing element implementation, loi",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e742d28947a8971088b9fbbfe16d43c8",
+  "hcd_letter": "Oxnard Letter of Inquiry 09/29/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e742d28947a8971088b9fbbfe16d43c8",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 186908,
+  "text_chars": 4961,
+  "text_empty": false
+}

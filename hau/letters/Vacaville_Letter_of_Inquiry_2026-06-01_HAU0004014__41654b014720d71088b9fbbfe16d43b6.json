@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027871",
+  "case_number": "HAU0004014",
+  "letter_date": "2026-06-01",
+  "jurisdiction": "Vacaville",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "vacaville, hei, loi",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/41654b014720d71088b9fbbfe16d43b6",
+  "hcd_letter": "Vacaville Letter of Inquiry 06/01/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/41654b014720d71088b9fbbfe16d43b6",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 189127,
+  "text_chars": 7851,
+  "text_empty": false
+}

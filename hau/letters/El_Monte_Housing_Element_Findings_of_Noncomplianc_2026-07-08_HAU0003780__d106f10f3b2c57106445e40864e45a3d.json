@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026976",
+  "case_number": "HAU0003780",
+  "letter_date": "2026-07-08",
+  "jurisdiction": "El Monte",
+  "letter_type": "Housing Element Findings of Noncompliance/ Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "El Monte Rezone Corrective Action Letter",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/d106f10f3b2c57106445e40864e45a3d",
+  "hcd_letter": "El Monte Housing Element Findings of Noncompliance/ Corrective Action 07/08/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/d106f10f3b2c57106445e40864e45a3d",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 191670,
+  "text_chars": 6088,
+  "text_empty": false
+}

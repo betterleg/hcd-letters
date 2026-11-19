@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027859",
+  "case_number": "HAU0004006",
+  "letter_date": "2026-10-15",
+  "jurisdiction": "Lake Elsinore",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "lake elsinore, housing element implementation, loi",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/ac5022cd47e8971088b9fbbfe16d43a2",
+  "hcd_letter": "Lake Elsinore Letter of Inquiry 10/15/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/ac5022cd47e8971088b9fbbfe16d43a2",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 190252,
+  "text_chars": 9984,
+  "text_empty": false
+}

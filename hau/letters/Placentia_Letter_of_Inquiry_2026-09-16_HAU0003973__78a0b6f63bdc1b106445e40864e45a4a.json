@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027777",
+  "case_number": "HAU0003973",
+  "letter_date": "2026-09-16",
+  "jurisdiction": "Placentia",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65580-65589.11",
+  "n_statutes": "1",
+  "keywords": "placentia, loi, letter of inquiry, housing element implementation",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/78a0b6f63bdc1b106445e40864e45a4a",
+  "hcd_letter": "Placentia Letter of Inquiry 09/16/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/78a0b6f63bdc1b106445e40864e45a4a",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 197760,
+  "text_chars": 9391,
+  "text_empty": false
+}

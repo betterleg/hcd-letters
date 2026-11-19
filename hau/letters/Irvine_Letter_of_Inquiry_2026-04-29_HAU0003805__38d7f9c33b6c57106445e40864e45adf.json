@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0027049",
+  "case_number": "HAU0003805",
+  "letter_date": "2026-04-29",
+  "jurisdiction": "Irvine",
+  "letter_type": "Letter of Inquiry",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65585",
+  "n_statutes": "1",
+  "keywords": "Irvine HEI LOI",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/38d7f9c33b6c57106445e40864e45adf",
+  "hcd_letter": "Irvine Letter of Inquiry 04/29/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/38d7f9c33b6c57106445e40864e45adf",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 196131,
+  "text_chars": 5964,
+  "text_empty": false
+}
