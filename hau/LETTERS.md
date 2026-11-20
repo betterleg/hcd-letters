@@ -23,7 +23,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Letter type | Letters |
 |---|---|
 | Letter of Inquiry | 363 |
-| Technical Assistance Letter | 340 |
+| Technical Assistance Letter | 339 |
 | Ordinance Findings Letter | 233 |
 | Technical Assistance Letter - Repeal Request | 211 |
 | Notice of Violation | 79 |
@@ -36,6 +36,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Recertification of Housing Element Compliance | 12 |
 | Technical Assistance Letter - Substantially Compliant Ordinance | 10 |
 | Determination Letter | 5 |
+| --Select Please-- | 1 |
 
 ## By housing law
 
