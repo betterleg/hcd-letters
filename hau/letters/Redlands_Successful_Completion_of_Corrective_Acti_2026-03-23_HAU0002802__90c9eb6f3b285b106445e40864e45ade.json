@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0026385",
+  "case_number": "HAU0002802",
+  "letter_date": "2026-03-23",
+  "jurisdiction": "Redlands",
+  "letter_type": "Successful Completion of Corrective Action",
+  "housing_laws": "Housing Element Law",
+  "statutes": "65583.2",
+  "n_statutes": "1",
+  "keywords": "Rezones",
+  "n_keywords": "1",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/90c9eb6f3b285b106445e40864e45ade",
+  "hcd_letter": "Redlands Successful Completion of Corrective Action 03/23/2026",
+  "housing_law": "Housing Element Law",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/90c9eb6f3b285b106445e40864e45ade",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 173855,
+  "text_chars": 2609,
+  "text_empty": false
+}

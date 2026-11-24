@@ -1,6 +1,6 @@
 # Standard language in HCD's HAU letters
 
-From 1,326 letters with text and 19,853 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 1,330 letters with text and 19,880 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 
@@ -25,7 +25,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > ~~Housing~~ **HCD recognizes that, ultimately, state housing laws are effective only with the cooperation of local governments and understands staffing and resource constraints that may hinder efforts to gain compliance. However, housing** elements are essential to developing … that fail to comply with **State** Housing Element Law. **To meet the 6th cycle update requirements, the <JTYPE> must submit a draft housing element to HCD for review, consider HCD’s written findings, adopt the housing element, and submit it to HCD for review and determination of substantial compliance. (Gov. Code, § 65585.)**
 
-### Group 2: 206 letters (16%), 2021–2026
+### Group 2: 206 letters (15%), 2021–2026
 
 > HCD appreciates the <JTYPE> efforts in the preparation and adoption of the Ordinance and welcomes the opportunity to assist the <JTYPE> in fully complying with State ADU Law. Please feel free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you have any questions or wish to discuss any of HCD’s findings.
 
@@ -197,7 +197,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > Government Code section 65585, subdivision … to implement rezone actions in ~~Program~~ **Programs <N> and** <N> by the statutory deadline means the <JTYPE> housing element will no ~~longer substantially comply with Housing Element Law, and HCD may revoke its finding of substantial compliance.~~
 
-### Group 16: 166 letters (13%), 2023–2026
+### Group 16: 166 letters (12%), 2023–2026
 
 > HCD understands the <JTYPE> has many commitments and recognizes the challenges of implementation. HCD will consider any written response before taking further action authorized by Government Code section 65585, subdivision (i), including issuance of a Corrective Action Letter and removal of HCD’s finding of housing element compliance.
 

@@ -1,0 +1,21 @@
+{
+  "task": "CSTASK0010695",
+  "case_number": "HAU21-091",
+  "letter_date": "2022-02-23",
+  "jurisdiction": "Burbank",
+  "letter_type": "Technical Assistance Letter",
+  "housing_laws": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "statutes": "65913.4(a)(5) | 65913.4(a)(5)(B) | 65913.4(b) | 65913.4(n) | 65941.1",
+  "n_statutes": "5",
+  "keywords": "Pickwick Gardens Project | Preliminary application",
+  "n_keywords": "2",
+  "copy": "PDF",
+  "letter_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e6c17b233ba85b106445e40864e45afb",
+  "hcd_letter": "Burbank Technical Assistance Letter 02/23/2022",
+  "housing_law": "Streamlined Ministerial Approval Process (SB 35 of 2017)",
+  "source_url": "https://calhcd.service-now.com/api/cdohm/public_attachment/e6c17b233ba85b106445e40864e45afb",
+  "fetched_from": "dashboard_link",
+  "pdf_bytes": 202399,
+  "text_chars": 10701,
+  "text_empty": false
+}

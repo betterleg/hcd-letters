@@ -1,21 +1,21 @@
 # Statute citations in the letters (HAU)
 
-Parsed from the letter text by `scripts/parse_citations.py`: 21,095 letter–citation rows from 1,381 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
+Parsed from the letter text by `scripts/parse_citations.py`: 21,111 letter–citation rows from 1,385 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
 
 Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `HSC 17021.5`.
 
 ## Check against HCD's Statutory Reference tags
 
-HCD gave the 1,333 tagged letters with text 5,230 section tags. For each tag:
+HCD gave the 1,338 tagged letters with text 5,236 section tags. For each tag:
 
 | Result | Tags | Share |
 |---|---|---|
-| Found by the parser | 2,492 | 48% |
+| Found by the parser | 2,496 | 48% |
 | Covered by a range the letter cites (e.g. §§ 66310–66342) | 1,108 | 21% |
 | **Number appears in the text but the parser missed it** | 35 | 1% |
-| Not in the letter text at all (HCD tags the topic, not only what the letter cites) | 1,595 | 30% |
+| Not in the letter text at all (HCD tags the topic, not only what the letter cites) | 1,597 | 31% |
 
-The parser also found 7,286 cited sections HCD didn't tag.
+The parser also found 7,298 cited sections HCD didn't tag.
 
 ### Parser misses to fix
 
@@ -44,13 +44,13 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 
 | Citation | Letters |
 |---|---|
-| `65585` | 715 |
+| `65585` | 716 |
 | `65589.5` | 549 |
-| `65580` | 473 |
+| `65580` | 475 |
 | `66323` | 350 |
 | `66314` | 347 |
 | `65583` | 327 |
-| `65583.2` | 319 |
+| `65583.2` | 321 |
 | `66321` | 312 |
 | `66326` | 303 |
 | `66333` | 297 |
@@ -89,14 +89,14 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 
 | Citation | Letters |
 |---|---|
-| `65585(j)` | 654 |
+| `65585(j)` | 655 |
 | `65589.5(d)` | 473 |
 | `65585(l)` | 411 |
-| `65585(i)` | 399 |
+| `65585(i)` | 400 |
 | `66323(a)` | 326 |
 | `66321(b)` | 310 |
 | `66314(d)` | 296 |
-| `65583.2(c)` | 270 |
+| `65583.2(c)` | 272 |
 | `65588(e)` | 255 |
 | `65589.5(h)` | 253 |
 | `66317(a)` | 250 |
@@ -115,19 +115,19 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66323(d)` | 152 |
 | `66317(d)` | 146 |
 | `66333(g)` | 144 |
-| `66329(a)` | 142 |
 | `66314(a)` | 142 |
+| `66329(a)` | 142 |
 | `66311.5(a)` | 141 |
-| `CIV 714.3(b)` | 141 |
 | `66326(d)` | 141 |
+| `CIV 714.3(b)` | 141 |
 | `66326(a)` | 139 |
 | `66324(c)` | 126 |
 | `65585(b)` | 125 |
 | `66313(b)` | 124 |
 | `66313(m)` | 122 |
+| `CIV 4740(a)` | 120 |
 | `CIV 4741(a)` | 120 |
 | `66335(2)` | 120 |
-| `CIV 4740(a)` | 120 |
 | `65852.2(e)` | 93 |
 
 ## Most-cited full citations
@@ -161,16 +161,16 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `65588(e)(4)(C)(iii)` | 81 |
 | `65585(i)(1)` | 79 |
 | `65588(e)(3)` | 73 |
-| `65852.2(h)(3)(A)` | 62 |
 | `65852.2(h)(2)(B)` | 62 |
+| `65852.2(h)(3)(A)` | 62 |
 | `65585(i)(1)(B)` | 57 |
 | `65589.5(f)(6)` | 53 |
 | `66321(b)(4)` | 51 |
 | `65585(i)(1)(C)` | 48 |
-| `65588(e)(4)(C)` | 45 |
-| `65852.2(c)(2)(C)` | 45 |
 | `66323(a)(4)` | 45 |
+| `65852.2(c)(2)(C)` | 45 |
+| `65588(e)(4)(C)` | 45 |
 | `65852.2(e)(1)` | 45 |
 | `66314(d)(12)` | 40 |
 | `66323(a)(3)` | 40 |
-| `65585(l)(2)` | 39 |
+| `65585(l)(3)(B)` | 39 |
