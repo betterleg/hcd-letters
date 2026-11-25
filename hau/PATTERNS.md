@@ -1,6 +1,6 @@
 # Standard language in HCD's HAU letters
 
-From 1,330 letters with text and 19,880 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 1,329 letters with text and 19,861 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 
@@ -25,7 +25,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > ~~Housing~~ **HCD recognizes that, ultimately, state housing laws are effective only with the cooperation of local governments and understands staffing and resource constraints that may hinder efforts to gain compliance. However, housing** elements are essential to developing … that fail to comply with **State** Housing Element Law. **To meet the 6th cycle update requirements, the <JTYPE> must submit a draft housing element to HCD for review, consider HCD’s written findings, adopt the housing element, and submit it to HCD for review and determination of substantial compliance. (Gov. Code, § 65585.)**
 
-### Group 2: 206 letters (15%), 2021–2026
+### Group 2: 206 letters (16%), 2021–2026
 
 > HCD appreciates the <JTYPE> efforts in the preparation and adoption of the Ordinance and welcomes the opportunity to assist the <JTYPE> in fully complying with State ADU Law. Please feel free to contact Mike Van Gorder at Mike.VanGorder@hcd.ca.gov if you have any questions or wish to discuss any of HCD’s findings.
 
@@ -96,7 +96,7 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > If an existing ADU ordinance fails to meet the requirements of State ADU Law, the ordinance is “null and void” and the local jurisdiction must apply the standards set forth in State ADU Law until it adopts an ordinance that complies with state law (Gov. Code, § 66316). HCD recommends that a local jurisdiction with a noncompliant ADU ordinance repeal the ordinance to provide clarity for ADU applicants who may otherwise rely on the outdated ordinance.
 
-### Group 9: 188 letters (14%), 2021–2026
+### Group 9: 187 letters (14%), 2021–2026
 
 > Consequences apply if the <JTYPE> does not have a housing element in substantial compliance with Housing Element Law. First, noncompliance results in ineligibility or delay in receiving state funds that require a compliant housing element as a prerequisite, including, but not limited to, the following:
 
@@ -111,14 +111,14 @@ How variant 2 differs from variant 1 (~~removed~~, **added**):
 
 > Various consequences may apply if … Housing Element Law. First, noncompliance ~~will~~ result in ineligibility or delay … not limited to, the following:
 
-### Group 10: 182 letters (14%), 2021–2026
+### Group 10: 181 letters (14%), 2021–2026
 
 > • Permanent Local Housing Allocation Program • Local Housing Trust Fund Program • Infill Infrastructure Grant Program • Senate Bill <N> Caltrans Sustainable Communities Grants • Affordable Housing and Sustainable Communities Program
 
 | Variant | Letters | Years |
 |---|---|---|
 | 1 | 119 | 2021–2025 |
-| 2 | 60 | 2024–2026 |
+| 2 | 59 | 2024–2026 |
 
 How variant 2 differs from variant 1 (~~removed~~, **added**):
 

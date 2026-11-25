@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,401 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,385 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,400 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,384 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -8,7 +8,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Year | Letters |
 |---|---|
-| [2026](index/2026.md) | 294 |
+| [2026](index/2026.md) | 293 |
 | [2025](index/2025.md) | 460 |
 | [2024](index/2024.md) | 278 |
 | [2023](index/2023.md) | 185 |
@@ -27,7 +27,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Ordinance Findings Letter | 233 |
 | Technical Assistance Letter - Repeal Request | 211 |
 | Notice of Violation | 79 |
-| Housing Element Findings of Noncompliance/ Corrective Action | 47 |
+| Housing Element Findings of Noncompliance/ Corrective Action | 46 |
 | Notice of Potential Violation | 27 |
 | Successful Completion of Corrective Action | 25 |
 | SB 79 Ordinance/Alternative Plan Findings Letter | 19 |
@@ -42,7 +42,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Housing law | Letters |
 |---|---|
-| Housing Element Law | 619 |
+| Housing Element Law | 618 |
 | Accessory Dwelling Unit Law | 487 |
 | Density Bonus Law | 102 |
 | Housing Accountability Act | 100 |
@@ -69,7 +69,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Statute | Letters |
 |---|---|
 | 66316 | 459 |
-| 65585 | 327 |
+| 65585 | 326 |
 | 66314 | 313 |
 | 66315 | 313 |
 | 66317 | 313 |
