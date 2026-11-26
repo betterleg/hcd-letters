@@ -1,6 +1,6 @@
 # HCD Technical Assistance and Enforcement Letters
 
-1,400 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,384 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
+1,402 letters from HCD's Housing Accountability Unit, from the [Technical Assistance and Enforcement Letters Dashboard](https://www.hcd.ca.gov/hau/enforcement-letters). 1,383 have their full text in [`letters/`](letters/). Updated automatically; see [CHANGES.md](CHANGES.md) for what changed in the latest run.
 
 Search the text with GitHub's search box ("In this repository"), e.g. `65915 path:hau/letters`.
 
@@ -8,7 +8,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Year | Letters |
 |---|---|
-| [2026](index/2026.md) | 293 |
+| [2026](index/2026.md) | 295 |
 | [2025](index/2025.md) | 460 |
 | [2024](index/2024.md) | 278 |
 | [2023](index/2023.md) | 185 |
@@ -22,8 +22,8 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Letter type | Letters |
 |---|---|
-| Letter of Inquiry | 363 |
-| Technical Assistance Letter | 338 |
+| Letter of Inquiry | 364 |
+| Technical Assistance Letter | 339 |
 | Ordinance Findings Letter | 233 |
 | Technical Assistance Letter - Repeal Request | 211 |
 | Notice of Violation | 79 |
@@ -42,8 +42,8 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 
 | Housing law | Letters |
 |---|---|
-| Housing Element Law | 618 |
-| Accessory Dwelling Unit Law | 487 |
+| Housing Element Law | 619 |
+| Accessory Dwelling Unit Law | 488 |
 | Density Bonus Law | 102 |
 | Housing Accountability Act | 100 |
 | Housing Crisis Act of 2019 | 53 |
@@ -69,7 +69,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | Statute | Letters |
 |---|---|
 | 66316 | 459 |
-| 65585 | 326 |
+| 65585 | 328 |
 | 66314 | 313 |
 | 66315 | 313 |
 | 66317 | 313 |
@@ -79,7 +79,7 @@ Search the text with GitHub's search box ("In this repository"), e.g. `65915 pat
 | 66318 | 280 |
 | 66319 | 221 |
 | 66320 | 218 |
-| 66321 | 216 |
+| 66321 | 217 |
 | 66330 | 214 |
 | 65589.5 | 159 |
 | 65588 | 135 |

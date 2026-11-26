@@ -1,6 +1,6 @@
 # Standard language in HCD's HAU letters
 
-From 1,329 letters with text and 19,861 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
+From 1,328 letters with text and 19,845 paragraphs of 20+ words, by `scripts/letter_patterns.py`. Names, dates and numbers are replaced with <JUR>, <DATE> and <N> so letters to different places compare as equal. A *group* is paragraphs that share at least half their 5-word phrases; a *variant* is a tighter group (85%) inside it. Groups in fewer than 25 letters are left out. Data: [`patterns.csv`](patterns.csv).
 
 ## Recurring headings
 

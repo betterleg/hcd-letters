@@ -3,7 +3,7 @@ ADU Ordinance,ADU ordinance,auto,119
 housing element,Housing element,auto,119
 housing element law,Housing element,auto,75
 Repeal Request,Repeal Request,auto,40
-LOI,Letter of inquiry,auto,28
+LOI,Letter of inquiry,auto,29
 noncompliance,Noncompliance,auto,26
 ADU,ADU,auto,23
 Builder's Remedy,Builder's remedy,auto,19
@@ -45,6 +45,7 @@ floor area ratio,Floor area ratio,auto,5
 HAA,Housing Accountability Act,auto,5
 height,Height,auto,5
 housing element programs,Housing element program,auto,5
+letter of inquiry,Letter of inquiry,auto,5
 SB 79 Ordinance,SB 79 Ordinance,auto,5
 Sprinklers,Sprinklers,auto,5
 use by right,Use by right,auto,5
@@ -60,7 +61,6 @@ housing development project,Housing development project,auto,4
 housing element rezone,Housing element rezone,auto,4
 inclusionary zoning,Inclusionary zoning,auto,4
 JADU,JADU,auto,4
-letter of inquiry,Letter of inquiry,auto,4
 Letter of Support,Letter of Support,auto,4
 setbacks,Setback,auto,4
 Size,Size,auto,4
@@ -166,6 +166,7 @@ highest available density,Highest available density,auto,2
 house manager,House manager,auto,2
 Housing Element Amendment,Housing Element Amendment,auto,2
 housing element constraints analysis,Housing element constraints analysis,auto,2
+housing element implementation,Housing element implementation,auto,2
 housing element program,Housing element program,auto,2
 housing element program commitments,Housing element program commitments,auto,2
 housing element revision,Housing element revision,auto,2
@@ -185,6 +186,7 @@ mixed use,Mixed use,auto,2
 Montebello,Montebello,auto,2
 physical preclusion,Physical preclusion,auto,2
 Planned Development Rezone,Planned Development Rezone,auto,2
+Programs,Programs,auto,2
 public hearing,Public hearing,auto,2
 public land,Public land,auto,2
 reasonable accommodations,Reasonable accommodations,auto,2
@@ -559,7 +561,6 @@ housing accountability act findings of denial,Housing accountability act finding
 housing crisis act no net loss,Housing crisis act no net loss,auto,1
 Housing Element Backdate,Housing Element Backdate,auto,1
 Housing Element By-Right Site,Housing Element By-Right Site,auto,1
-housing element implementation,Housing element implementation,auto,1
 housing element past due,Housing element past due,auto,1
 Housing element policies,Housing element policies,auto,1
 Housing Element Rezones,Housing element rezone,auto,1
@@ -784,7 +785,6 @@ principally or conditionally permitted,Principally or conditionally permitted,au
 priority sewer,Priority sewer,auto,1
 priority sewer service,Priority sewer service,auto,1
 program completeness,Program completeness,auto,1
-programs,Programs,auto,1
 prohibitive conditions of approval,Prohibitive conditions of approval,auto,1
 prohousing,Prohousing,auto,1
 Prohousing Designation,Prohousing Designation,auto,1

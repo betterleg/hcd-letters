@@ -1,16 +1,16 @@
 # Statute citations in the letters (HAU)
 
-Parsed from the letter text by `scripts/parse_citations.py`: 21,095 letter–citation rows from 1,384 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
+Parsed from the letter text by `scripts/parse_citations.py`: 21,085 letter–citation rows from 1,383 letters with text. Data: [`citations.csv`](citations.csv). Counts are letters citing each, not mentions.
 
 Format: `65915(o)(8)` for the Government Code; other codes are prefixed, e.g. `HSC 17021.5`.
 
 ## Check against HCD's Statutory Reference tags
 
-HCD gave the 1,337 tagged letters with text 5,235 section tags. For each tag:
+HCD gave the 1,336 tagged letters with text 5,232 section tags. For each tag:
 
 | Result | Tags | Share |
 |---|---|---|
-| Found by the parser | 2,495 | 48% |
+| Found by the parser | 2,492 | 48% |
 | Covered by a range the letter cites (e.g. §§ 66310–66342) | 1,108 | 21% |
 | **Number appears in the text but the parser missed it** | 35 | 1% |
 | Not in the letter text at all (HCD tags the topic, not only what the letter cites) | 1,597 | 31% |
@@ -71,14 +71,14 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66329` | 146 |
 | `66328` | 145 |
 | `CIV 714.3` | 143 |
-| `17556` | 141 |
 | `66333.5` | 141 |
-| `66324` | 134 |
+| `17556` | 141 |
 | `66335` | 134 |
+| `66324` | 134 |
 | `66331` | 125 |
 | `CIV 4751` | 124 |
-| `66320` | 123 |
 | `17980.12` | 123 |
+| `66320` | 123 |
 | `CIV 4740` | 120 |
 | `CIV 4741` | 120 |
 | `65852.26` | 119 |
@@ -117,9 +117,9 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66333(g)` | 144 |
 | `66329(a)` | 142 |
 | `66314(a)` | 142 |
+| `66326(d)` | 141 |
 | `CIV 714.3(b)` | 141 |
 | `66311.5(a)` | 141 |
-| `66326(d)` | 141 |
 | `66326(a)` | 139 |
 | `66324(c)` | 126 |
 | `65585(b)` | 125 |
@@ -139,8 +139,8 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66314(d)(11)` | 208 |
 | `66323(a)(3)(A)` | 204 |
 | `66321(b)(3)` | 203 |
-| `65589.5(h)(3)` | 179 |
 | `65589.5(d)(6)` | 179 |
+| `65589.5(h)(3)` | 179 |
 | `66314(b)(1)` | 174 |
 | `66323(a)(1)` | 172 |
 | `65589.5(d)(5)` | 150 |
@@ -149,8 +149,8 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `66326(b)(2)(A)` | 145 |
 | `66326(b)(2)(B)` | 144 |
 | `66317(a)(2)(B)` | 143 |
-| `66317(d)(1)` | 142 |
 | `66321(b)(2)(A)` | 142 |
+| `66317(d)(1)` | 142 |
 | `66321(b)(2)(B)` | 141 |
 | `66326(b)(1)` | 134 |
 | `66321(b)(2)` | 134 |
@@ -161,16 +161,16 @@ Tags whose number is in the text but wasn't read as a citation, most frequent fi
 | `65588(e)(4)(C)(iii)` | 81 |
 | `65585(i)(1)` | 78 |
 | `65588(e)(3)` | 73 |
-| `65852.2(h)(3)(A)` | 62 |
 | `65852.2(h)(2)(B)` | 62 |
+| `65852.2(h)(3)(A)` | 62 |
 | `65585(i)(1)(B)` | 57 |
 | `65589.5(f)(6)` | 52 |
 | `66321(b)(4)` | 51 |
 | `65585(i)(1)(C)` | 47 |
-| `65852.2(e)(1)` | 45 |
-| `65588(e)(4)(C)` | 45 |
 | `66323(a)(4)` | 45 |
+| `65588(e)(4)(C)` | 45 |
 | `65852.2(c)(2)(C)` | 45 |
+| `65852.2(e)(1)` | 45 |
 | `66323(a)(3)` | 40 |
 | `66314(d)(12)` | 40 |
 | `65589.5(h)(11)` | 39 |
